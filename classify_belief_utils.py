@@ -4,9 +4,6 @@ import numpy as np
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-# =========================
-# CONFIG CLASSIFICATORE
-# =========================
 MAJOR_DIR = "./cbt_pc_major_deberta_final"
 FINE_DIR  = "./cbt_fc_fine_deberta_final"
 
@@ -113,7 +110,7 @@ def predict_core_beliefs_hard_gated(
     auto_thought: str,
     intermediate_belief: str,
     major_threshold: float = 0.5,
-    major_threshold_worthless: float | None = None,  # NEW
+    major_threshold_worthless: float | None = None,  
     fine_threshold: float = 0.25,
     max_len: int = 512,
     use_fast: bool = False,
@@ -145,14 +142,12 @@ def predict_core_beliefs_hard_gated(
             "major_active": [],
         }
 
-    # 1) Major
     major_tok, major_model = _load_major(use_fast=use_fast)
     major_probs, major_id2label = _predict_probs(major_tok, major_model, text, max_len=max_len)
 
     major_items = [(major_id2label[i], float(major_probs[i])) for i in range(len(major_probs))]
     major_items.sort(key=lambda x: x[1], reverse=True)
 
-    # NEW: soglia separata per 'worthless' (come nel main)
     t_default = major_threshold
     t_w = major_threshold_worthless if major_threshold_worthless is not None else t_default
 
@@ -162,23 +157,20 @@ def predict_core_beliefs_hard_gated(
         if p >= thr:
             major_active.add(lbl)
 
-    # 2) Fine
     fine_tok, fine_model = _load_fine(use_fast=use_fast)
     fine_probs, fine_id2label = _predict_probs(fine_tok, fine_model, text, max_len=max_len)
 
     fine_to_major = build_fine_to_major_map(fine_id2label)
 
-    # 3) HARD GATE
     hard_probs = fine_probs.copy()
     for i in range(len(hard_probs)):
         lbl = fine_id2label[i]
         maj = fine_to_major.get(lbl, None)
         if maj is None:
-            continue  # non mappata: lasciata intatta
+            continue  
         if maj not in major_active:
             hard_probs[i] = 0.0
 
-    # 4) Filtra sopra soglia fine_threshold e raggruppa per major (SENZA top-k)
     out = {
         "helpless_belief": [],
         "unlovable_belief": [],
