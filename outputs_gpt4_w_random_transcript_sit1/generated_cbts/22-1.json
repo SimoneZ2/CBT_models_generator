@@ -1,0 +1,25 @@
+{
+  "name": "Susan",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Ongoing interpersonal difficulties involving a partner named Ivan and his family. Recent trust and betrayal issues involving Ivan. Ongoing contact with Ivan's family.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must perform perfectly to be accepted.",
+  "intermediate_belief_depression": "If I fail, I will be rejected.",
+  "coping_strategies": "Avoidance of situations that trigger anxiety, such as leaving meetings.",
+  "situation": "Discovered that Ivan made travel plans without consulting the patient.",
+  "auto_thought": "I am going to blow it or I won't have the right answers.",
+  "emotion": [
+    "Fear",
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Leaves the situation to cope with anxiety."
+}

@@ -1,0 +1,78 @@
+Using description: HISTORY:
+- Recent divorce.
+- Financial struggles and adjustment to single life.
+- Co-parenting.
+- Multiple friendships deteriorated after the divorce.
+- Complicated relationship with parents.
+
+SITUATION:
+- Experiencing the breakdown of friendships following the divorce. with ID=10-2
+Sample results (metadata similarity):
+  - sim=0.030 | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de' | file='1001084060.txt'
+  - sim=0.043 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.046 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+  - sim=0.052 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.057 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.058 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.059 | title='Verilogue session: Client has recently experienced some intense mood cycling; sh' | file='1003009209.txt'
+  - sim=0.064 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.066 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.076 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=751 partial_match=1270
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.057 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.064 | file='1003075021.txt' | title='Verilogue session: Client has been angry, violent and impulsive'
+  - sim=0.077 | file='1003009210.txt' | title='Verilogue session: Client feels that medicine cannot help her but, she is willin'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who is navigating the aftermath of a recent divorce, is experiencing significant changes in their social and personal life. During the session, they shared a detailed account of their engagement with mathematics, which seems to serve as both a refuge and a source of intellectual stimulation. The client described their recent efforts in tutoring precalculus, noting that while they initially found some concepts challenging, they have since gained confidence through persistent effort. This mirrors their broader life situation, where they are adjusting to single life and the breakdown of friendships post-divorce. The client expressed a sense of accomplishment, stating, "I felt like I really understood the material," which highlights their ability to find clarity and satisfaction in mastering complex subjects.
+
+Throughout the session, the client frequently returned to the theme of learning and understanding, both in mathematics and in life. They mentioned feeling "self-conscious" about their preoccupation with math, suggesting an awareness of how this focus might be perceived by others. This reflects their current struggle with social connections, as they navigate the loss of friendships and the complexities of co-parenting. The client's relationship with their parents is also described as complicated, which may contribute to their feelings of isolation and the need to find solace in intellectual pursuits.
+
+The client repeatedly emphasized the importance of visual learning, stating, "I find it immensely helpful" to draw pictures to understand mathematical proofs. This preference for visual aids may indicate a need for clarity and structure in their life, especially given the recent upheavals. The client's engagement with math appears to provide a sense of control and predictability, contrasting with the unpredictability of their personal life. They expressed a sense of being "in a bubble," which could signify both a protective mechanism and a barrier to engaging with the emotional aspects of their current situation.
+
+Despite the intellectual focus, the client did touch on deeper emotional themes, such as feeling "in a dark room fumbling for the light switch," which metaphorically captures their current state of uncertainty and search for direction. This imagery suggests an underlying anxiety about their future and the need to find new pathways in both personal and professional realms. The client also mentioned a dream where they felt "welcomed" despite initially feeling like an outsider, which may reflect a desire for acceptance and belonging amidst the changes in their social landscape.
+
+The session revealed a complex interplay between the client's intellectual pursuits and their emotional world. While math provides a structured escape, there is an evident tension between this cerebral focus and the emotional challenges they face. The client's reflections on learning and teaching math, particularly their enjoyment in helping others understand difficult concepts, suggest a potential avenue for rebuilding social connections and finding fulfillment. However, the session also highlighted the client's avoidance of directly addressing the emotional impact of their divorce and the loss of friendships, indicating an area for further exploration in therapy.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client is adjusting to life after a recent divorce, which has led to financial struggles and the breakdown of several friendships. They are co-parenting and report a complicated relationship with their parents. The client finds solace and a sense of accomplishment in intellectual pursuits, particularly mathematics, which serves as both a refuge and a source of confidence. They express feeling self-conscious about their focus on math and describe themselves as being 'in a bubble,' indicating both protection and isolation. The client has a preference for visual learning and structure, possibly as a response to the unpredictability in their personal life. They also report feeling like an outsider and express a desire for acceptance and belonging.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't maintain my friendships after the divorce, it means I'm not worthy of connection. If others see me struggling or preoccupied with my own interests, they'll think less of me and distance themselves. I must always appear competent and in control to avoid being rejected.",
+  "intermediate_belief_depression": "If I lose friendships and can't rebuild them, it proves that I'm fundamentally alone and will always be on the outside. No matter what I do, I won't be able to find the acceptance or belonging I need.",
+  "coping_strategies": [
+    "The client immerses themselves in intellectual pursuits like mathematics to avoid confronting painful emotions related to social loss. They withdraw from emotional conversations and focus on structured activities that provide a sense of control and predictability. This cerebral focus serves as both a protective bubble and a barrier to re-engaging with others."
+  ],
+  "situation": "Experiencing the breakdown of friendships following the divorce.",
+  "auto_thought": "I'm losing my friends because I'm not good enough. No one really wants to stay connected with me now.",
+  "emotion": [
+    "sad",
+    "anxious",
+    "lonely",
+    "self-conscious",
+    "rejected",
+    "uncertain"
+  ],
+  "behavior": "Withdraw from social interactions and avoid reaching out to friends. Focus intensely on solitary activities like math or tutoring. Avoid discussing feelings about the loss with others."
+}

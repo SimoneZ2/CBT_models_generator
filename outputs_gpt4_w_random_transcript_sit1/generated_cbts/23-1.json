@@ -1,0 +1,27 @@
+{
+  "name": "John Doe",
+  "id": "12345",
+  "type": [
+    "CBT",
+    "Psychotherapy"
+  ],
+  "history": "Longstanding difficult interactions with the patient's mother. Strained communication and delayed sharing of significant events within the family.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I enjoy myself too much, I will be scolded or criticized.",
+  "intermediate_belief_depression": "I must not trust good times because they won't last.",
+  "coping_strategies": "Avoids fully enjoying experiences and remains guarded to prevent disappointment.",
+  "situation": "Preparing for an upcoming visit from parents.",
+  "auto_thought": "I shouldn't enjoy myself too much or I'll be criticized.",
+  "emotion": [
+    "Frustration",
+    "Fear",
+    "Anxiety"
+  ],
+  "behavior": "Holds back in therapy sessions and social situations, remains guarded."
+}

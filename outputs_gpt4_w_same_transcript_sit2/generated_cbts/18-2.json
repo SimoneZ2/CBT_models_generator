@@ -1,0 +1,31 @@
+{
+  "name": "Alex",
+  "id": "002",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Academic underperformance despite being described as intelligent. Attended a college (institution X), felt isolated, and dropped out. About two years of credits remain to complete the degree. Mother had high expectations. Financial difficulties and pressure from the mother to return home.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must meet my mother's expectations to be valued.",
+  "intermediate_belief_depression": "If I fail to meet expectations, I am a disappointment.",
+  "coping_strategies": "Avoidance of challenging tasks and seeking escape through temporary distractions.",
+  "situation": "Seeking financial help from parents. Recent family conversation included discussion of the college dropout experience.",
+  "auto_thought": "I can't succeed on my own.",
+  "emotion": [
+    "Anxiety",
+    "Shame"
+  ],
+  "behavior": "Avoids discussing future plans and relies on parents for financial support.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

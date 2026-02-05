@@ -1,0 +1,31 @@
+{
+  "history": "The client has been in a relationship with Ivan for about seven years and married for three. They have experienced stressful periods during academic finals and wedding preparation, particularly due to a lack of support from Ivan. The client faces ongoing financial pressures related to Ivan's part-time work, therapy costs, and dental treatment expenses. The client has a long-standing sense of inadequacy, which is exacerbated by interpersonal dynamics, especially with Ivan's mother, who is critical. The client also recalls childhood experiences of misunderstanding and feeling not good enough, which continue to influence their self-concept.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If someone criticizes me, it means I have failed to meet their expectations and I am not good enough. I must always prove my worth to others to be accepted. If I don't handle things perfectly, people will see my flaws and judge me.",
+  "intermediate_belief_depression": "If I can't get others' approval or avoid criticism, it proves that I am fundamentally inadequate and will never truly belong. No matter what I do, I will always fall short and disappoint those around me.",
+  "coping_strategies": [
+    "The client tends to ruminate on critical interactions and seeks validation through achievement or approval from others. They may withdraw or become tense in the presence of critical individuals, and often replay negative interactions in their mind, which increases anxiety and self-doubt."
+  ],
+  "situation": "Ivan's mother speaks to the patient in a critical manner.",
+  "auto_thought": "She's criticizing me again; I must be doing something wrong. No matter what I do, I can't make her accept me.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "ashamed",
+    "hurt",
+    "inadequate",
+    "self-doubt"
+  ],
+  "behavior": "I become quiet and avoid eye contact. I replay the conversation in my head, trying to figure out what I did wrong. I withdraw from the interaction and avoid speaking up."
+}

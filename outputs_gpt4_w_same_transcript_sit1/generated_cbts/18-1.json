@@ -1,0 +1,27 @@
+{
+  "name": "John Doe",
+  "id": "JD123",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Academic underperformance despite being described as intelligent. Attended a college (institution X), felt isolated, and dropped out. About two years of credits remain to complete the degree. Mother had high expectations. Financial difficulties and pressure from the mother to return home.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must meet high expectations to be valued.",
+  "intermediate_belief_depression": "If I don't achieve, I am a failure.",
+  "coping_strategies": "Avoidance of challenging tasks and situations.",
+  "situation": "Experienced an unproductive week due to scheduling problems. Comparing themselves to their sister's achievements and time management.",
+  "auto_thought": "I can't manage my time as well as my sister.",
+  "emotion": [
+    "Frustration",
+    "Inadequacy"
+  ],
+  "behavior": "Procrastination and avoidance of tasks."
+}

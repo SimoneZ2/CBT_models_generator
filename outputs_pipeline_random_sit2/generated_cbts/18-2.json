@@ -1,0 +1,31 @@
+{
+  "history": "The client has a pattern of academic underperformance despite being described as intelligent, which has contributed to internal conflict and self-doubt. They experienced significant isolation while attending college, leading to dropping out before completing their degree. The client faces ongoing financial difficulties and feels pressure from their mother, who holds high expectations. Family conversations about dropping out appear to trigger shame and rumination about past decisions.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I ask for help or admit I failed, others will see me as incompetent. I must meet my mother's expectations to be worthy. If I don't succeed academically, I am letting everyone down.",
+  "intermediate_belief_depression": "If I can't fix my situation, there's no hope for me to improve my life.",
+  "coping_strategies": [
+    "The client tends to avoid addressing academic and financial problems directly, often procrastinating or withdrawing. They seek reassurance from family, especially when feeling pressured, and ruminate on past failures, which maintains their distress."
+  ],
+  "situation": "Seeking financial help from parents. Recent family conversation included discussion of the college dropout experience.",
+  "auto_thought": "They're going to think I'm a disappointment again. I can't handle them bringing up how I dropped out.",
+  "emotion": [
+    "ashamed",
+    "anxious",
+    "overwhelmed",
+    "embarrassed",
+    "sad"
+  ],
+  "behavior": "I avoid eye contact and say as little as possible during the conversation. I withdraw from the discussion and later replay it in my mind, feeling worse.",
+  "source_text_id": "1000133940.txt"
+}

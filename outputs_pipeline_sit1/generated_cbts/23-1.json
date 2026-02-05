@@ -1,0 +1,53 @@
+{
+  "name": "CBT Cognitive Conceptualization for Family Visit Preparation",
+  "id": "23-1",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The patient has a longstanding pattern of difficult interactions with their mother, marked by strained communication and a tendency to delay sharing significant events within the family. These dynamics have likely contributed to ongoing emotional distress and shaped the patient's approach to family relationships. The anticipation of parental visits tends to heighten anxiety and worry, as the patient recalls past negative experiences and criticism. The patient may ruminate on previous conflicts and feel misunderstood or undervalued within the family context.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I share important things with my family, I will be criticized or misunderstood, so it's safer to hold back. I must prepare for every possible conflict to avoid feeling hurt or rejected. If I don't manage the situation perfectly, things will go badly and I'll feel even more disconnected.",
+  "intermediate_belief_depression": "No matter how much I try, my efforts to connect with my family won't make a difference, so it's pointless to hope for a better relationship. If I open up, I'll just end up feeling more alone and disappointed.",
+  "coping_strategies": "The patient tends to avoid or delay sharing significant information with their family to minimize the risk of conflict or criticism. They may over-prepare for family visits and seek reassurance from others about how to handle anticipated difficulties. These strategies help reduce immediate anxiety but reinforce avoidance and maintain strained communication.",
+  "situation": "Preparing for an upcoming visit from parents.",
+  "auto_thought": "I'm going to end up feeling criticized or misunderstood again. No matter what I do, this visit will be uncomfortable.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "frustrated",
+    "sad",
+    "apprehensive"
+  ],
+  "behavior": "I over-prepare for the visit, rehearsing what I might say or do to avoid conflict. I avoid bringing up certain topics and delay sharing important news. I may seek reassurance from friends about how to handle my parents.",
+  "rationale": "\"The difficult interactions with their mother may lead to feelings of frustration, sadness, and perhaps a sense of being misunderstood or undervalued.\" \"The anticipation of the upcoming visit from their parents might evoke anxiety, worry, and tension, as the patient may be concerned about potential conflicts or uncomfortable interactions during the visit.\" \"The patient may engage in ruminative thinking about past interactions with their mother, focusing on negative experiences and perceived criticisms.\" \"In response to the strained communication with their mother, the patient might withdraw or avoid sharing significant events with their family, delaying communication to minimize conflict or criticism.\" \"The upcoming visit from their parents could lead to behaviors aimed at managing anxiety, such as over-preparing for the visit or seeking reassurance from others about how to handle potential conflicts.\"",
+  "core_belief_predictions": {
+    "source_id": "23-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

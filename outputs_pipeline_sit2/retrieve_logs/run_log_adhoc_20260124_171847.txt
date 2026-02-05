@@ -1,0 +1,82 @@
+Using description: HISTORY:
+- PhD candidate engaged in scientific research.
+- References to a sequencing-related study and a colleague named Kelly.
+- Collaborated on a project with a senior scientist who has struggled to gain recognition in their career.
+- Reports difficulty completing projects.
+
+SITUATION:
+- Working on a PhD project and concerned about its progress. with ID=3-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.519 | title='Patient "R", Session September 19, 2012: Client talks about her self-expectation' | file='1004798825.txt'
+  - sim=0.443 | title='Patient "R", Session October 26, 2012: Client is stressed out with her lab work,' | file='1004824713.txt'
+  - sim=0.442 | title='Session 1: Client was originally concerned when he discovered that his therapist' | file='1000122132.txt'
+  - sim=0.433 | title='Session 3: Client feels the pressure of doing well on her entrance exams for gra' | file='1000094423.txt'
+  - sim=0.428 | title='Patient "B", Session July 26, 2012: Client has had a stressful day at work and d' | file='1004687558.txt'
+  - sim=0.418 | title='Session 2: Client describes a dream he had about lobotomies. He thinks that ther' | file='1000122133.txt'
+  - sim=0.415 | title='Patient "K", Session November 12, 2012: Client talks about her brother's behavio' | file='1004824683.txt'
+  - sim=0.414 | title='Patient "B", Session June 29, 2012: Client is worried that she may not be making' | file='1004600900.txt'
+  - sim=0.407 | title='Session 6: Client does not want to be at this session; he does not feel much lik' | file='1000134003.txt'
+  - sim=0.403 | title='Patient "K", Session November 13, 2012: Client has been feeling depressed with a' | file='1004824685.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=0 partial_match=10
+match_used=PARTIAL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.519 | file='1004798825.txt' | title='Patient "R", Session September 19, 2012: Client talks about her self-expectation'
+  - sim=0.443 | file='1004824713.txt' | title='Patient "R", Session October 26, 2012: Client is stressed out with her lab work,'
+  - sim=0.442 | file='1000122132.txt' | title='Session 1: Client was originally concerned when he discovered that his therapist'
+Using top selected file for transcript: '1004798825.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient is a PhD candidate engaged in scientific research, specifically involved in a sequencing-related study. The patient collaborates with a colleague named Kelly and has worked on a project with a senior scientist who has struggled to gain recognition in their career. The patient reports difficulty in completing projects and is currently concerned about the progress of their PhD project.
+
+**Emotional Experience:**
+The patient likely experiences a range of emotions related to their academic and research endeavors. Given the concern about project progress, the patient may feel anxious and worried about meeting academic expectations and deadlines. The collaboration with a senior scientist who has struggled for recognition might evoke feelings of pressure or fear of similar outcomes. The difficulty in completing projects could lead to feelings of frustration, disappointment, and self-doubt. The patient might also feel a sense of responsibility and pressure to succeed, which could contribute to stress and tension.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive patterns such as perfectionism and self-criticism, particularly in relation to their research work. The concern about project progress suggests a tendency to ruminate on potential failures or setbacks. The collaboration with a senior scientist who has not gained recognition might lead to thoughts of inadequacy or fear of not achieving desired career milestones. The patient might also engage in all-or-nothing thinking, viewing project completion as a measure of their overall competence and worth.
+
+**Behavioral Responses:**
+The patient might engage in behaviors such as procrastination or avoidance when faced with challenging tasks, particularly if they feel overwhelmed by the complexity of their research. The difficulty in completing projects suggests a potential pattern of starting tasks but struggling to see them through to completion. The patient may also seek reassurance from colleagues, such as Kelly, to validate their work and alleviate feelings of self-doubt. Additionally, the patient might withdraw from social or academic activities when feeling particularly stressed or anxious about their research.
+
+**Coping Styles:**
+The patient may rely on problem-solving strategies to address research-related challenges, though these efforts might be hindered by perfectionistic tendencies. The patient might also use cognitive restructuring techniques to challenge negative thoughts about their capabilities and project outcomes. Seeking support from colleagues and mentors could serve as a coping mechanism to manage stress and gain perspective on their research progress. However, the patient might benefit from developing more adaptive coping strategies, such as setting realistic goals and practicing self-compassion, to mitigate the impact of stress and self-criticism.
+
+**Conclusion:**
+The patient's experience as a PhD candidate is marked by a complex interplay of emotions, cognitive patterns, and behaviors. The pressure to succeed in their research, coupled with concerns about project progress, likely contributes to feelings of anxiety, frustration, and self-doubt. By addressing these cognitive and emotional challenges through targeted interventions, such as cognitive restructuring and adaptive coping strategies, the patient can work towards achieving a more balanced and resilient approach to their academic and research endeavors.
+Summary da mistral_.csv: The client is conducting a research project on the mutation rate of a particular strain of bacteria, which is believed to have a higher mutation rate than currently understood. The client has encountered difficulties in executing the experiment due to various factors, including differences in growth conditions between the mutant and control strains, and personal challenges such as inconsistent lab hours. The client has been emotionally invested in the results and has experienced frustration and disappointment when the mutant strain did not show the expected higher mutation rate. The client has been working on refining the experimental plan and has received support from colleagues to help move forward. The client expresses feelings of being trapped in the experiment and struggling with conflicting voices, one wanting to give up and take a break, and the other encouraging persistence. The client also mentions feeling like a screw up for being more emotionally invested in the experiment than in the past and for experiencing setbacks more intensely than others. The client plans to continue working on the
+The client expresses difficulty in imagining quitting their PhD program due to the potential disappointment of not being able to finish and the positive aspects of their work, including the day-to-day aspects, recognition, and the people they work with. They mention having had similar frustrating periods in the past but that this one is particularly challenging due to their advisor's repeated sharing of potentially inaccurate data and the pressure to produce results. The client's father, who completed a PhD in Engineering and then switched to Research, suggests that the PhD experience is inherently difficult and that feeling horrible is a normal part of the process. The client also mentions feeling upset with their advisor's conflicting attitudes towards the data and the impact her actions have on their emotional state.
+
+ REFINED CCD: description + report
+{
+  "history": "The client is a PhD candidate engaged in scientific research, specifically a sequencing-related study. They have collaborated with a senior scientist who has struggled to gain recognition, which may serve as a cautionary example and source of pressure. The client reports difficulty completing projects, suggesting a pattern of struggling with task completion and possibly perfectionism. Their concern about the progress of their PhD project is a current stressor, and they may compare themselves to colleagues such as Kelly.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't make significant progress on my PhD project, it means I'm not competent enough to succeed in academia. I must always meet high standards, or others will see me as inadequate. Falling behind on my work is unacceptable and reflects poorly on my abilities.",
+  "intermediate_belief_depression": "If I keep struggling to complete projects, it proves that I'm not cut out for this field and nothing I do will ever be good enough. There's no point in trying if I always fall short.",
+  "coping_strategies": [
+    "The client tends to procrastinate or avoid challenging research tasks when overwhelmed, which maintains their anxiety and self-doubt. They may seek reassurance from colleagues like Kelly to temporarily alleviate their fears about competence. When stress is high, they might withdraw from academic or social activities, further isolating themselves."
+  ],
+  "situation": "Working on a PhD project and concerned about its progress.",
+  "auto_thought": "I'm falling behind on my project; everyone will see that I'm not capable of finishing this. If I don't get this done, my whole career could be at risk.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "frustrated",
+    "self-doubt",
+    "tense",
+    "disappointed"
+  ],
+  "behavior": "I put off working on the project and avoid difficult tasks. I check in with Kelly or others to get reassurance about my progress. Sometimes I withdraw from meetings or discussions when I feel overwhelmed."
+}

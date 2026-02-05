@@ -1,0 +1,27 @@
+{
+  "name": "John Doe",
+  "id": "12345",
+  "type": [
+    "CBT",
+    "Couples Therapy"
+  ],
+  "history": "Ongoing work-related uncertainty and anxiety. Married recently; the relationship included instances of physical abuse by spouse Ivan and resulted in separation. Both partners are interested in resolving issues and are attending couples therapy.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't marry her, she will be sad and it will be my fault.",
+  "intermediate_belief_depression": "I must intellectualize to manage my feelings.",
+  "coping_strategies": "Intellectualizing emotions to avoid feeling them.",
+  "situation": "Exposed to clinical terms used to describe the spouse's behavior during therapy sessions.",
+  "auto_thought": "I feel like I'm losing control over myself.",
+  "emotion": [
+    "Frustration",
+    "Anger",
+    "Resentment",
+    "Ambivalence"
+  ],
+  "behavior": "Avoids addressing feelings directly, intellectualizes emotions, considers acting out by seeking relationships outside marriage."
+}

@@ -1,0 +1,99 @@
+Using description: HISTORY:
+- Strong identification with a research laboratory workplace and sense of belonging through accomplishments and relationships.
+- A close colleague left, affecting the patient's sense of stability.
+- Home life described as less predictable and comfortable.
+
+SITUATION:
+- Preparing for an important discussion scheduled in January.
+- Preparing for a lab meeting involving troubleshooting equipment and learning programming. with ID=29-1
+Top results (by metadata similarity):
+  - sim=0.674 | title='Session 3: Client feels the pressure of doing well on her entrance exams for gra' | file='1000094423.txt'
+  - sim=0.650 | title='Session 13: Client is talking about how stressful the end of the school quarter ' | file='1000060940.txt'
+  - sim=0.645 | title='Session 11: Client has been out job searching and feels uncomfortable having to ' | file='1000070473.txt'
+  - sim=0.644 | title='Session 13: Client is only recently becoming comfortable speaking with members o' | file='1000088140.txt'
+  - sim=0.641 | title='Session 4: Client misses her family and feels guilt and grief for the loss of fa' | file='1000094426.txt'
+  - sim=0.639 | title='Verilogue session: Client's mother has been ailing; this is hard for her to cope' | file='1002565902.txt'
+  - sim=0.639 | title='Verilogue session: Client's mood has been somewhat better recently' | file='1003009221.txt'
+  - sim=0.636 | title='Patient "R", Session October 04, 2012: Client has a legitimate fear of fainting;' | file='1004798819.txt'
+  - sim=0.636 | title='Verilogue session: Client is easily overwhelmed by stress' | file='1001084071.txt'
+  - sim=0.634 | title='Patient "R", Session October 26, 2012: Client is stressed out with her lab work,' | file='1004824713.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.674 | file='1000094423.txt' | title='Session 3: Client feels the pressure of doing well on her entrance exams for gra'
+  - sim=0.650 | file='1000060940.txt' | title='Session 13: Client is talking about how stressful the end of the school quarter '
+  - sim=0.645 | file='1000070473.txt' | title='Session 11: Client has been out job searching and feels uncomfortable having to '
+Using top selected file for transcript: '1000094423.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a strong sense of identity and belonging tied to their research laboratory workplace, which is reinforced by accomplishments and relationships within that environment. This sense of stability has been disrupted by the departure of a close colleague. Additionally, the patient describes their home life as less predictable and comfortable, which may contribute to feelings of instability or insecurity.
+
+**Current Situations:**
+The patient is currently preparing for an important discussion scheduled in January and is also preparing for a lab meeting that involves troubleshooting equipment and learning programming. These tasks may be contributing to the patient's stress levels, given the importance and complexity of the tasks at hand.
+
+**Emotional Impact:**
+The departure of a close colleague likely evokes feelings of sadness, loss, and possibly anxiety about the future dynamics within the lab. The patient may feel a sense of loneliness or isolation without the familiar support of this colleague. The unpredictability of home life may exacerbate these feelings, leading to a heightened sense of instability and insecurity.
+
+**Cognitive Patterns:**
+The patient may engage in ruminative thinking, particularly about the changes in their work environment and the upcoming important discussion. This could manifest as persistent worries about their ability to manage new responsibilities, such as troubleshooting equipment and learning programming. The patient may also experience self-doubt, questioning their competence and ability to adapt to these changes.
+
+**Behavioral Responses:**
+In response to these stressors, the patient might withdraw from social interactions or avoid situations that remind them of their colleague's absence. They may also procrastinate on tasks related to the lab meeting or the important discussion, as a way to cope with feelings of overwhelm. Alternatively, the patient might seek reassurance from remaining colleagues or engage in excessive preparation to mitigate feelings of inadequacy.
+
+**Coping Styles:**
+The patient may rely on problem-solving strategies to manage the technical aspects of their work, such as seeking additional resources or support to learn programming. However, they might struggle with emotional regulation, particularly in managing feelings of loss and instability. The patient could benefit from developing more adaptive coping strategies, such as mindfulness or cognitive restructuring, to address negative thought patterns and enhance emotional resilience.
+
+**Transcript Reference:**
+The transcript illustrates common psychological patterns that may be relevant to the patient's experience. For example, the patient in the transcript expresses feelings of exhaustion and overwhelm due to professional demands, which could parallel the current patient's experience with their lab responsibilities. Additionally, the transcript highlights the importance of social support and reassurance in coping with professional challenges, which may be beneficial for the patient to consider in their own context.
+
+**Recommendations:**
+1. **Cognitive Restructuring:** Encourage the patient to identify and challenge negative thoughts related to their competence and the changes in their work environment. This can help reduce anxiety and build confidence in their abilities.
+
+2. **Emotional Regulation:** Introduce mindfulness techniques to help the patient manage feelings of overwhelm and instability. This can promote a sense of calm and enhance emotional resilience.
+
+3. **Social Support:** Encourage the patient to seek support from remaining colleagues or friends, which can provide reassurance and reduce feelings of isolation.
+
+4. **Problem-Solving Skills:** Assist the patient in developing a structured approach to tackle the technical challenges they face, such as breaking tasks into manageable steps and seeking guidance when needed.
+
+5. **Self-Care:** Emphasize the importance of self-care practices, such as regular sleep, exercise, and leisure activities, to maintain overall well-being and reduce stress.
+
+By addressing these areas, the patient can enhance their coping strategies and improve their emotional and cognitive responses to the current challenges in their work and home life.
+Summary da mistral_.csv: The patient attended two conferences back-to-back, one in Whitehall and the other in Tallahassee. They found the conferences to be more about networking than learning and were exhausted from the constant socializing and lack of sleep. The patient expressed feeling pressure to introduce themselves to professors they wanted to apply to graduate schools, as they had performed poorly on the GRE and were concerned about their English language skills. They coped with the disappointment of their GRE scores by focusing on their strengths and comparing themselves to others who struggled with the same exam. The patient studied for a year and is currently submitting applications to graduate schools. They mentioned having difficulties with recommender letters and dealing with a boss who discouraged them from applying to other schools and questioned their abilities. The boss had previously insulted the patient, calling them handicapped and schizophrenic.
+The patient described a difficult working relationship with their lab supervisor, who switched their project and criticized their work, leading to frequent conflicts. The supervisor also prevented the patient from applying to graduate schools and kicked out one of the students. The patient and other students criticized the supervisor's behavior to him, but he did not change. The patient considered leaving the lab and applying to other schools, but was hesitant due to the potential complications of working with the supervisor in future seminars or on their committee. The patient shared an instance where the supervisor publicly criticized a graduate student's work at a conference, causing hurt and confusion. The patient expressed a desire to pay tribute to the student's previous advisor by incorporating their work into their own, but the supervisor had a different approach.
+The patient recounted an incident where her boss criticized her friend Mandy during a meeting, causing tension. The counselor noted the connection between the patient's friend's situation and her own experiences of loss, specifically her psychotherapist who passed away. The patient shared that she didn't attend her psychotherapist's funeral due to being young and not knowing anyone there. The counselor suggested that not grieving her loss properly might impact their therapeutic relationship. The patient mentioned her psychotherapist's belief that she was dating someone because he resembled her father, which the counselor related to potential transference issues. The patient expressed feeling overwhelmed and mentioned having plans for the weekend.
+The patient described meeting a colleague who is also applying to graduate schools and shared a good conversation with him. The colleague encouraged the patient to apply to schools other than Michigan, where the patient had spent six years. The patient found the interaction relieving and enjoyable, as the colleague was smart and nice to hang out with. The patient also mentioned that they had been joking about dating and that the patient's friend had recently encouraged her to start dating again. The patient agreed to come back for the next therapy session on Thursday at 12:00 PM. The patient mentioned needing to finish some computer tasks before the next session.
+
+ REFINED CCD: description + report
+{
+  "history": "The patient has long derived a sense of identity and belonging from their research laboratory, with accomplishments and relationships reinforcing this stability. The recent departure of a close colleague has disrupted this sense of security, leading to increased feelings of instability. At home, the patient describes their environment as less predictable and comfortable, which may further undermine their sense of safety and support. The patient is currently facing increased professional demands, including preparing for an important discussion and a complex lab meeting, which may heighten stress and self-doubt.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't manage these new responsibilities perfectly, others will see me as incompetent and I will lose my place in the lab. I need to prove my worth through my performance, especially now that things are changing. If I make mistakes or can't adapt quickly, I will be left out or forgotten.",
+  "intermediate_belief_depression": "If I can't handle these challenges and no one is there to support me, it means I'm not good enough and things will only get worse. There's no point in trying if I can't keep up or if people keep leaving.",
+  "coping_strategies": [
+    "The patient tends to withdraw from social interactions and may avoid or procrastinate on challenging tasks, such as preparing for the lab meeting or discussion. They may also seek excessive reassurance from remaining colleagues or over-prepare to compensate for feelings of inadequacy. These strategies provide temporary relief but maintain anxiety and self-doubt."
+  ],
+  "situation": "Preparing for an important discussion scheduled in January. Preparing for a lab meeting involving troubleshooting equipment and learning programming.",
+  "auto_thought": "I'm not going to be able to handle this on my own now that my colleague is gone. If I mess up, everyone will see that I don't really belong here.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "insecure",
+    "lonely",
+    "self-doubting",
+    "sad"
+  ],
+  "behavior": "I spend hours going over the material, double-checking everything, and still feel unsure. I avoid asking for help because I don't want to seem incompetent. Sometimes I put off starting the preparation because it feels too overwhelming."
+}

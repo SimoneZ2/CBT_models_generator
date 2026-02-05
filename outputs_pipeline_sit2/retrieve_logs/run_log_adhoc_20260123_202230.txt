@@ -1,0 +1,82 @@
+Using description: HISTORY:
+- Recurrent stomachaches and physical symptoms associated with anxiety and stress.
+- Past difficulties involving weight management, sexuality, and academic performance.
+- Reports a transformation during college.
+- Reports seeking control in relationships.
+
+SITUATION:
+- Concern about losing positive aspects of life or returning to a previous unhappy state. with ID=39-2
+Top results (by metadata similarity):
+  - sim=0.625 | title='Verilogue session: Client and her husband are having marital problems. She has b' | file='1003009265.txt'
+  - sim=0.623 | title='Session 18: Client has commitment issues with women, this leads him to wonder if' | file='1000016558.txt'
+  - sim=0.619 | title='Verilogue session: Client is unsure if going on medication is the right treatmen' | file='1001083966.txt'
+  - sim=0.611 | title='Session 7: Client's frustrations with her sense of losing control make her want ' | file='1000323422.txt'
+  - sim=0.610 | title='Verilogue session: Client is unhappy with being overweight. They discuss the pos' | file='1001083933.txt'
+  - sim=0.607 | title='Verilogue session: Client feels like his medications are helping to ease his anx' | file='1003075025.txt'
+  - sim=0.606 | title='Verilogue session: Client is frustrated because she cannot retain a state of rem' | file='1001084056.txt'
+  - sim=0.597 | title='Verilogue session: Client is suffering from much more depression than mania rece' | file='1003075038.txt'
+  - sim=0.597 | title='Verilogue session: Client wants to feel less apathetic about life in general' | file='1003009278.txt'
+  - sim=0.594 | title='Verilogue session: Client gets very teary-eyed and agitated easily. She has been' | file='1003075024.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=3 partial_match=7
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.623 | file='1000016558.txt' | title='Session 18: Client has commitment issues with women, this leads him to wonder if'
+  - sim=0.619 | file='1001083966.txt' | title='Verilogue session: Client is unsure if going on medication is the right treatmen'
+  - sim=0.607 | file='1003075025.txt' | title='Verilogue session: Client feels like his medications are helping to ease his anx'
+Using top selected file for transcript: '1000016558.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient presents with a history of recurrent stomachaches and physical symptoms linked to anxiety and stress. Past challenges include weight management, sexuality, and academic performance. The patient reports a significant transformation during college and expresses a need for control in relationships. Currently, there is a concern about losing positive aspects of life or reverting to a previously unhappy state.
+
+**Emotional Impact:**
+The patient's recurrent stomachaches and physical symptoms suggest a high level of anxiety and stress. These symptoms likely contribute to feelings of being overwhelmed and may exacerbate worries about personal health. The past difficulties with weight management and sexuality could lead to feelings of shame or embarrassment, particularly if these issues were sources of past judgment or self-criticism. The transformation during college might have provided a sense of relief or newfound confidence, but the fear of losing this progress could result in feelings of anxiety and insecurity.
+
+**Cognitive Patterns:**
+The patient may engage in catastrophic thinking, fearing a return to a previous unhappy state. This could manifest as ruminative thoughts about past failures or perceived inadequacies, particularly in areas like academic performance and personal relationships. The need for control in relationships suggests a cognitive pattern of seeking stability and predictability, possibly as a defense against the anxiety of uncertainty. The concern about losing positive life aspects indicates a cognitive focus on potential negative outcomes, which could lead to heightened vigilance and stress.
+
+**Behavioral Responses:**
+In response to anxiety and stress, the patient might engage in avoidance behaviors, such as withdrawing from situations that trigger anxiety or stress. The past issues with weight management could lead to behaviors like dieting or exercise as attempts to regain control. The need for control in relationships might result in behaviors such as seeking reassurance or attempting to manage others' actions to maintain a sense of stability. The fear of reverting to an unhappy state could drive the patient to overcommit to activities or relationships, potentially leading to burnout or further stress.
+
+**Coping Styles:**
+The patient may rely on coping mechanisms such as seeking control in various aspects of life to manage anxiety. This could include meticulous planning or over-preparation in academic or professional settings. The transformation during college suggests that the patient might have developed new coping strategies or support systems that provided a sense of empowerment. However, the fear of losing these positive changes indicates a reliance on external validation or circumstances for self-worth, which could be destabilizing if those circumstances change.
+
+**Conclusion:**
+The patient's history and current concerns suggest a complex interplay of anxiety, control needs, and fear of regression. The focus on maintaining positive life changes and avoiding past unhappiness is central to the patient's current psychological experience. Therapeutic work could focus on developing internal sources of validation, enhancing coping strategies for managing anxiety, and exploring the underlying beliefs driving the need for control in relationships. By addressing these areas, the patient may find greater emotional stability and resilience against the fear of losing positive life aspects.
+Summary da mistral_.csv: In this therapy session, the patient discussed their current state of feeling unstable and uncertain about various aspects of their life. They mentioned having a cold that had lasted for a week, feeling disconnected during a car ride with a client, and struggling to commit to individual therapy or relationships with women, specifically Kathleen and Jane. The patient also shared their feelings of confusion and instability in their job and mentioned feeling tired and unmotivated. They expressed difficulty in making decisions and feeling unsure of their identity, mentioning the possibility of being gay but not feeling it was significant. The patient also mentioned feeling inadequate during a group session and using unprofessional language, which they regretted. The patient expressed feeling overwhelmed and unsure of how to move forward.
+In this therapy session, the patient discussed their feelings of inadequacy during a seminar, comparing themselves to others and feeling they didn't measure up professionally. They also spoke about their past experiences of feeling they didn't deserve praise or success, even when they had achieved it. The patient mentioned a pattern of self-doubt and difficulty accepting compliments, which extended to their personal relationships and academic achievements. They also shared an instance where they felt they couldn't admit to doing something well, even when they had. The counselor asked questions to clarify the patient's experiences and feelings.
+In this session, the patient discussed their desire to lose weight as a means of being useful to themselves and others, but also expressed feeling overwhelmed by the number of things they wanted to accomplish. The counselor suggested focusing on one thing at a time and reducing the number of commitments. The patient acknowledged the difficulty of doing so but also mentioned their involvement in individual therapy, group therapy, and a teaching course. The counselor encouraged the patient to give themselves a chance to make changes and not be afraid of themselves. The session ended with the patient expressing frustration over their busy schedule and the upcoming date of April 1st.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of experiencing physical symptoms like stomachaches in response to anxiety and stress. There is a background of struggling with weight management, sexuality, and academic performance, which may have contributed to self-criticism or shame. The client describes a significant positive transformation during college, suggesting a period of increased confidence or relief. However, there is an ongoing need to maintain control in relationships, possibly as a way to manage anxiety about uncertainty or instability.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't stay vigilant and in control, I could lose everything I've worked for and end up unhappy again. I must always be on guard to prevent slipping back into my old self. If things start to go wrong, it means I am failing and I need to try harder to keep everything together.",
+  "intermediate_belief_depression": "If I can't maintain the positive changes in my life, it means all my efforts were pointless and I will never truly be happy. No matter what I do, I might end up back where I started, so what's the point in trying?",
+  "coping_strategies": [
+    "The client tends to seek control in relationships and other areas of life, possibly through meticulous planning or over-preparation. They may avoid situations that trigger anxiety or stress, and sometimes overcommit to activities or relationships to prevent feeling out of control. These strategies may provide temporary relief but maintain the cycle of anxiety and fear of regression."
+  ],
+  "situation": "Concern about losing positive aspects of life or returning to a previous unhappy state.",
+  "auto_thought": "If I lose what I've gained, I'll end up miserable like before. I can't let myself slip back or everything will fall apart.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "insecure",
+    "fearful",
+    "overwhelmed"
+  ],
+  "behavior": "I double-check everything I do and try to control situations and people around me. I avoid anything that feels risky or uncertain. Sometimes I push myself to take on more than I can handle to make sure I don't lose progress."
+}

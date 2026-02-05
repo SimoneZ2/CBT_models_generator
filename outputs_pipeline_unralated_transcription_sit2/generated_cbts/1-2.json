@@ -1,0 +1,33 @@
+{
+  "history": "The client has a history of substance abuse and has completed rehabilitation. He reports ongoing family difficulties, particularly with his mother, involving rejection and emotional neglect. He has struggled with obesity since childhood and has experienced bullying related to his weight. These experiences have contributed to feelings of inadequacy and self-consciousness, as well as a tendency to avoid discussing emotionally painful topics, focusing instead on intellectual pursuits for validation.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I make a mistake or fail to meet expectations, others will see me as incompetent and I will be rejected. To avoid feeling inadequate, I must always perform perfectly and prove my worth through achievement. If I let people down, it confirms that I am not good enough and don't deserve acceptance.",
+  "intermediate_belief_depression": "If I can't even manage basic responsibilities like waking up on time, it means I am hopeless and will never be able to improve my life. My failures prove that I am fundamentally flawed and nothing I do will make a difference.",
+  "coping_strategies": [
+    "The client tends to avoid discussing emotionally charged or painful topics, focusing instead on academic or intellectual achievements to gain a sense of control and validation. He uses mastery of complex subjects and teaching others as a way to compensate for feelings of inadequacy and emotional neglect. When faced with distressing situations, he may withdraw or avoid acknowledging his perceived failures."
+  ],
+  "situation": "Missed an alarm and woke up late for work.",
+  "auto_thought": "I can't believe I messed up again—everyone at work will think I'm unreliable. This just proves I'm not good enough and can't get my life together.",
+  "emotion": [
+    "ashamed",
+    "anxious",
+    "guilty",
+    "frustrated",
+    "disappointed"
+  ],
+  "behavior": "He avoids mentioning the incident to others and tries to minimize attention at work. He ruminates about his mistake and withdraws socially, focusing instead on tasks he feels competent in, such as academic work."
+}

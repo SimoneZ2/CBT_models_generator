@@ -1,0 +1,79 @@
+Using description: HISTORY:
+- Financial difficulties following questionable investments.
+- Increased reliance on parents for financial assistance.
+
+SITUATION:
+- A discussion with family members about future plans and potential career changes. with ID=14-2
+Sample results (metadata similarity):
+  - sim=0.069 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.094 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+  - sim=0.098 | title='Session 62: Client wants to feel free in responding sexually to her husband' | file='1000367961.txt'
+  - sim=0.100 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.102 | title='Verilogue session: Client has recently experienced some intense mood cycling; sh' | file='1003009209.txt'
+  - sim=0.104 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.106 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+  - sim=0.107 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.115 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.115 | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de' | file='1001084060.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.069 | file='1003075047.txt' | title='Verilogue session: Client's medications have drastically reduced her sex drive'
+  - sim=0.094 | file='1003009233.txt' | title='Verilogue session: Client may have Lyme disease; it is possible that is what is '
+  - sim=0.098 | file='1000367961.txt' | title='Session 62: Client wants to feel free in responding sexually to her husband'
+Using LEAST related file for transcript: '1003075047.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a male Caucasian in his mid-30s to mid-50s, has been experiencing significant distress related to his current medication regimen, which includes Topamax, Geodon, and Lorazepam. He reports feeling "very depressed" and "crying almost every day," attributing these feelings to the side effects of Topamax, which he believes is causing a decrease in his sexual response. This concern is compounded by his financial difficulties, which have led to increased reliance on his parents for support, adding another layer of stress to his situation. During the session, the client expresses a strong desire to find an alternative treatment for his migraines, as the current medication is impacting his quality of life. He states, "I'm itching all over," and describes a rash that has been persistent, which he believes may be linked to his medication. The physician acknowledges the client's distress and suggests a gradual transition from Topamax to lamotrigine, although this plan is complicated by the client's existing rash, which could be exacerbated by the new medication.
+
+Throughout the session, the client demonstrates a pattern of seeking reassurance from the physician, repeatedly asking for confirmation about the potential side effects and the proposed changes in his medication. He also exhibits signs of anxiety, as indicated by his heightened concern over the rash and its potential causes. The physician attempts to address these concerns by explaining the possible side effects of lamotrigine, including the risk of a serious rash, and emphasizes the importance of a gradual introduction to the new medication. The client listens attentively, responding with "Okay" multiple times, indicating his willingness to follow the physician's guidance despite his underlying anxiety.
+
+The client's emotional state is further complicated by interpersonal stressors, particularly involving his mother-in-law, which he mentions briefly as a source of ongoing tension. He notes, "My mother-in-law is causing some problems," suggesting that family dynamics are contributing to his overall stress levels. This interpersonal conflict, combined with his financial struggles and medication side effects, creates a complex web of stressors that the client is attempting to navigate.
+
+In terms of coping strategies, the client mentions a history of self-harm as a means of releasing frustration, although he clarifies that he has not engaged in this behavior recently. He expresses a desire to "really control myself," indicating an awareness of his emotional regulation challenges and a commitment to managing them. The physician explores the client's past experiences with hallucinations and paranoia, which the client acknowledges but reports have improved with his current treatment. However, he admits to a recent episode where he heard a voice telling him to "jump out of the car," which he managed to resist, demonstrating insight into the abnormality of the experience.
+
+The session concludes with the physician outlining a plan to discontinue mirtazapine and resume Wellbutrin, which the client associates with a previous period of improved mood. The client expresses relief at this decision, stating, "I understand that I'm going to go back on the Wellbutrin," and appears hopeful that this change will alleviate some of his depressive symptoms. The physician provides written instructions to ensure the client understands the medication adjustments, emphasizing the importance of monitoring for any adverse reactions. The client leaves the session with a clearer understanding of the treatment plan and a sense of agency in managing his mental health, although the underlying stressors related to his financial situation and family dynamics remain areas for further exploration and intervention.
+Summary da mistral_.csv: The patient discussed her feelings of depression and decreased sexual response, which she attributed to the medication Topamax. The physician suggested trying Lamotrigine as a potential substitute for Topamax, but the patient expressed concerns about the risk of a serious rash associated with the medication. The physician also suggested trying to wean off Mirtazapine, which was a newer medication, and reintroduce Wellbutrin to see if it affected her sexual response. The patient mentioned experiencing a rash for several weeks and was unsure of its cause. The physician recommended trying to identify the cause of the rash before making any changes to her medication regimen.
+The doctor suggests changing the patient's medication to Wellbutrin due to a previous positive experience with this drug and the absence of a rash while on it. The doctor also recommends using Aveeno oatmeal bath to alleviate itching. The patient mentions experiencing hiccups frequently and asks about potential causes and treatments, but the doctor expresses uncertainty and suggests focusing on addressing the patient's low libido first. The patient inquires about female equivalents to male sexual enhancement commercials, and the doctor shares that such options are not yet available and may involve placebo effects.
+In this therapy session chunk, the doctor discusses the biological aspect of women's libido and its relation to fertility. He explains that animals' mating seasons coincide with their fertility periods for protection. The doctor also mentions that women's magazines can make women feel inadequate due to the false impression that everyone is having sex frequently. The conversation then shifts to the patient's hormonal levels and the possibility of a hormonal imbalance. The doctor asks the patient about any unusual thoughts or behaviors, including self-harm and anger outbursts. The patient reveals she has had diabetes in the past but it is currently under control. The doctor orders a C-peptide test to check for insulin resistance. The patient mentions hearing a voice telling her to jump out of the car, which happened that day. The doctor asks for clarification on the incident and when it occurred.
+The doctor and patient discuss the patient's current medication regimen, specifically the Geodon and mirtazapine. The doctor reassures the patient that stopping one medication doesn't mean anything about their relationship or future actions. They also discuss the importance of taking Geodon with food and the specific calorie requirement for optimal absorption. The doctor mentions a study that found a Denny's Grand Slam Breakfast provided the best absorption, not due to fat content but the 500 calorie intake. The patient expresses a desire to keep a diary and better communicate feelings to the doctor. They discuss stopping mirtazapine and continuing lorazepam and Geodon, with the doctor providing instructions to the patient and ensuring the pharmacist is aware of the change in medication.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of financial difficulties following questionable investments, leading to increased reliance on his parents for financial assistance. He has reported significant distress related to medication side effects, including depression and a decrease in sexual response. There is a pattern of seeking reassurance from medical professionals and a brief history of self-harm as a way to manage frustration, though not recently. Interpersonal stressors, particularly involving his mother-in-law, contribute to ongoing tension. The client has experienced hallucinations and paranoia in the past, but these have improved with treatment.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I can't solve my financial problems on my own, my family will see me as weak or incapable. I must avoid being a burden at all costs, or I will lose their respect and support. If I show that I am struggling, it means I am failing as an adult.",
+  "intermediate_belief_depression": "If I keep relying on my parents and can't fix my financial situation, it proves that I am hopeless and things will never get better. My efforts are pointless because nothing changes, and I will always disappoint my family.",
+  "coping_strategies": [
+    "The client seeks reassurance from others, especially authority figures, to manage anxiety about his situation. He tends to avoid directly addressing difficult conversations or decisions, sometimes withdrawing emotionally or deferring to others' guidance. There is a history of self-harm as a way to release frustration, though he now tries to control these impulses."
+  ],
+  "situation": "A discussion with family members about future plans and potential career changes.",
+  "auto_thought": "They're going to think I'm a failure because I need their help again. I can't handle my own problems and they're probably disappointed in me.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "embarrassed",
+    "guilty",
+    "worried",
+    "down"
+  ],
+  "behavior": "He hesitates to share his true concerns, minimizes his difficulties, and seeks reassurance from family members. He may avoid eye contact or withdraw from the conversation, and defers decisions to others."
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Patient X",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Involvement in a complex romantic situation with a person named Cleo. Cleo is in a long-distance relationship while also engaging with the patient.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not constantly vigilant, I will be hurt.",
+  "intermediate_belief_depression": "I cannot trust others, and I am destined to be alone.",
+  "coping_strategies": "Attempts to control the situation by monitoring Cleo's interactions.",
+  "situation": "Saw concerning text messages from another person on Cleo's device.",
+  "auto_thought": "Cleo is going to leave me for someone else.",
+  "emotion": [
+    "Anxiety",
+    "Fear"
+  ],
+  "behavior": "Checking Cleo's messages and seeking reassurance.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

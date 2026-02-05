@@ -1,0 +1,87 @@
+Using description: HISTORY:
+- History of complex and strained family relationships.
+- Father described as frequently creating misery for those around him and expressing dissatisfaction with his life.
+- Maternal grandmother had a significant negative impact on the family, especially on the patient's mother.
+
+SITUATION:
+- Reflecting on the potential death of the father and the grandmother. with ID=49-2
+Top results (by metadata similarity):
+  - sim=0.779 | title='Session 18: Client cannot stop thinking about her grandmother who has recently d' | file='1000325703.txt'
+  - sim=0.775 | title='Session 3: Client talks about taking care of his ex-wife when she was addicted t' | file='1000094405.txt'
+  - sim=0.774 | title='Session 5: Client discusses how much closer she feels to her friends than her fa' | file='1000061054.txt'
+  - sim=0.762 | title='Session 2: Client discusses her relationship with her boyfriend and tells therap' | file='1000094390.txt'
+  - sim=0.761 | title='Patient "M" Therapy Session Audio Recording, January 26, 2012: Client feels dama' | file='1004478016.txt'
+  - sim=0.759 | title='Verilogue session: Client has been easily overwhelmed by feelings of anxiety rec' | file='1001083994.txt'
+  - sim=0.747 | title='Session 478: Client has not seen therapist for quite some time; she appears to b' | file='1000395261.txt'
+  - sim=0.747 | title='Patient "C" Therapy Session Audio Recording, June 12, 2012: Client's grandmother' | file='1004600922.txt'
+  - sim=0.743 | title='Verilogue session: Client lives with her mother and does not have a very healthy' | file='1001083979.txt'
+  - sim=0.742 | title='Session 92: Client thinks her fear of men stems from her fear of her father' | file='1000370294.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.779 | file='1000325703.txt' | title='Session 18: Client cannot stop thinking about her grandmother who has recently d'
+  - sim=0.775 | file='1000094405.txt' | title='Session 3: Client talks about taking care of his ex-wife when she was addicted t'
+  - sim=0.774 | file='1000061054.txt' | title='Session 5: Client discusses how much closer she feels to her friends than her fa'
+Using top selected file for transcript: '1000325703.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient History and Current Situation:**
+
+The patient has a history of complex and strained family relationships, particularly involving their father and maternal grandmother. The father is described as frequently creating misery for those around him and expressing dissatisfaction with his life. The maternal grandmother had a significant negative impact on the family, especially on the patient's mother. The patient is currently reflecting on the potential death of both the father and the grandmother.
+
+**Emotional Impact:**
+
+Given the history of strained family relationships, the patient is likely to experience a range of emotions. The father's behavior may lead to feelings of frustration, anger, and helplessness. The grandmother's negative influence, particularly on the patient's mother, could evoke feelings of sadness, disappointment, and perhaps resentment. Reflecting on the potential deaths of these family members may bring about a complex mix of emotions, including anxiety, fear, and perhaps relief, given the described family dynamics.
+
+**Cognitive Patterns:**
+
+The patient may engage in ruminative thinking, particularly about family dynamics and the impact of their father's and grandmother's behaviors. There may be a tendency to focus on negative interactions and unresolved issues within the family. The patient might also experience cognitive dissonance, struggling to reconcile feelings of familial obligation with personal emotional responses to family members' behaviors.
+
+**Behavioral Responses:**
+
+The patient may exhibit avoidance behaviors, such as withdrawing from family interactions to minimize conflict or emotional distress. There might be a tendency to procrastinate or delay engaging with family-related responsibilities or discussions. The patient could also seek reassurance from others about their feelings and reactions, particularly when reflecting on the potential deaths of family members.
+
+**Coping Styles:**
+
+The patient may cope by intellectualizing or rationalizing family dynamics, attempting to make sense of complex emotional experiences through logical analysis. There might be a reliance on distraction techniques to manage overwhelming emotions, such as engaging in activities that divert attention from family-related stressors. The patient could also exhibit a need for control, as a way to manage anxiety and uncertainty related to family relationships and potential losses.
+
+**Conclusion:**
+
+The patient's history of complex family relationships, combined with the current reflection on potential familial losses, likely contributes to a multifaceted emotional and cognitive experience. The patient may benefit from exploring these dynamics in therapy, focusing on developing healthier coping mechanisms and cognitive restructuring to manage emotional responses and improve overall well-being.
+Summary da mistral_.csv: The patient discusses the death of their grandmother and the emotional impact it has had on them. They share how their grandmother's death has brought up conflicting feelings, as she had a strained relationship with her mother and was not a significant presence in the patient's life. The patient also reflects on their tendency to suppress emotions, particularly in the presence of others, and how this relates to their upbringing and past experiences with their father. They also mention their difficulty in accepting the reality of death and the guilt they feel when not fully immersed in their grief.
+
+ REFINED CCD: description + report
+{
+  "history": "The client reports a history of complex and strained family relationships, especially with their father and maternal grandmother. The father is described as someone who frequently created misery for those around him and was often dissatisfied with his life. The maternal grandmother had a significant negative impact on the family, particularly affecting the client's mother. These longstanding family dynamics have shaped the client's emotional responses and coping patterns.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I let myself feel relief or other complex emotions about their deaths, it means I am a bad person. If I don't resolve these family issues, I will always feel conflicted and guilty. I must keep my emotions under control to avoid being overwhelmed by family problems.",
+  "intermediate_belief_depression": "If nothing changes in my family, I will always feel stuck and unhappy.",
+  "coping_strategies": [
+    "The client tends to withdraw from family interactions to avoid conflict and emotional distress. They may ruminate on negative family dynamics and use distraction or intellectualization to manage overwhelming emotions. Seeking reassurance from others about their feelings is also a way they try to cope with their internal conflict."
+  ],
+  "situation": "Reflecting on the potential death of the father and the grandmother.",
+  "auto_thought": "If they die, I don't know how I will feel—maybe relieved, but also guilty. What does it say about me that I might not feel sad?",
+  "emotion": [
+    "anxious",
+    "guilty",
+    "relieved",
+    "conflicted",
+    "sad",
+    "resentful"
+  ],
+  "behavior": "I withdraw from family conversations and avoid thinking too deeply about their possible deaths. I distract myself with other activities and sometimes ask friends if my feelings are normal."
+}

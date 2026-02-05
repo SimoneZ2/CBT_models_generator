@@ -1,0 +1,24 @@
+{
+  "name": "David",
+  "id": "001",
+  "type": [
+    "child",
+    "family"
+  ],
+  "history": "Works in an educational setting with children who have learning disabilities. Describes being pampered by parents and having minimal consequences earlier in life. Ongoing conflicts with authority figures.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to excel to be valued.",
+  "intermediate_belief_depression": "If I make mistakes, I am not good enough.",
+  "coping_strategies": "Tries to outperform siblings and peers to gain approval.",
+  "situation": "Encouraging students to socialize and participate in campus activities, with results falling short of expectations.",
+  "auto_thought": "I must do better; there is no room for mistakes.",
+  "emotion": [
+    "frustration",
+    "anger"
+  ],
+  "behavior": "Becomes grumpy and frustrated when unable to meet self-imposed high standards."
+}

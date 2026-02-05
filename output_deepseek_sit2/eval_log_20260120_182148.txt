@@ -1,0 +1,730 @@
+2026-01-20 18:21:48,185 | INFO | [LOG] Writing logs to: output_deepseek\eval_log_20260120_182148.txt
+2026-01-20 18:21:48,255 | INFO | SOURCE_ID: 1-2 (patient_id=1)
+2026-01-20 18:21:48,255 | INFO | GOLD_ID: 1-2
+2026-01-20 18:21:48,255 | INFO | PRED_NAME: Patient 1
+2026-01-20 18:23:46,084 | INFO | ========================================
+2026-01-20 18:23:46,106 | INFO | [DONE] 1-2 | saved=output_deepseek\generated_cbts\1-2.json
+2026-01-20 18:23:46,108 | INFO |   embeddings_cosine: 0.40300520658493044
+2026-01-20 18:23:46,108 | INFO |   crossencoder_sts:  0.4519059121608734
+2026-01-20 18:23:46,108 | INFO |   nli_entailment:    0.057368497334481516
+2026-01-20 18:23:46,110 | INFO |   nli_contradiction: 0.1089
+2026-01-20 18:23:46,110 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-20 18:23:46,110 | INFO |   fine_jaccard:      0.0
+2026-01-20 18:23:46,176 | INFO | SOURCE_ID: 2-2 (patient_id=2)
+2026-01-20 18:23:46,176 | INFO | GOLD_ID: 2-2
+2026-01-20 18:23:46,176 | INFO | PRED_NAME: Patient 2
+2026-01-20 18:23:47,380 | INFO | ========================================
+2026-01-20 18:23:47,380 | INFO | [DONE] 2-2 | saved=output_deepseek\generated_cbts\2-2.json
+2026-01-20 18:23:47,380 | INFO |   embeddings_cosine: 0.39574462473392485
+2026-01-20 18:23:47,380 | INFO |   crossencoder_sts:  0.3225872665643692
+2026-01-20 18:23:47,380 | INFO |   nli_entailment:    0.017146169626192843
+2026-01-20 18:23:47,380 | INFO |   nli_contradiction: 0.10219999999999999
+2026-01-20 18:23:47,380 | INFO |   major_jaccard:     1.0
+2026-01-20 18:23:47,380 | INFO |   fine_jaccard:      0.0
+2026-01-20 18:23:47,411 | INFO | SOURCE_ID: 3-2 (patient_id=3)
+2026-01-20 18:23:47,411 | INFO | GOLD_ID: 3-2
+2026-01-20 18:23:47,411 | INFO | PRED_NAME: Patient 3
+2026-01-20 18:23:48,804 | INFO | ========================================
+2026-01-20 18:23:48,805 | INFO | [DONE] 3-2 | saved=output_deepseek\generated_cbts\3-2.json
+2026-01-20 18:23:48,805 | INFO |   embeddings_cosine: 0.4376065909862518
+2026-01-20 18:23:48,805 | INFO |   crossencoder_sts:  0.39215112626552584
+2026-01-20 18:23:48,806 | INFO |   nli_entailment:    0.26211146744416425
+2026-01-20 18:23:48,806 | INFO |   nli_contradiction: 0.0008
+2026-01-20 18:23:48,806 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-20 18:23:48,806 | INFO |   fine_jaccard:      0.4
+2026-01-20 18:23:48,914 | INFO | SOURCE_ID: 4-2 (patient_id=4)
+2026-01-20 18:23:48,914 | INFO | GOLD_ID: 4-2
+2026-01-20 18:23:48,915 | INFO | PRED_NAME: Patient 4
+2026-01-20 18:23:49,207 | INFO | ========================================
+2026-01-20 18:23:49,208 | INFO | [DONE] 4-2 | saved=output_deepseek\generated_cbts\4-2.json
+2026-01-20 18:23:49,208 | INFO |   embeddings_cosine: 0.23980321288108825
+2026-01-20 18:23:49,208 | INFO |   crossencoder_sts:  0.20622530626133084
+2026-01-20 18:23:49,208 | INFO |   nli_entailment:    0.1008404377625913
+2026-01-20 18:23:49,209 | INFO |   nli_contradiction: 0.0884
+2026-01-20 18:23:49,209 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-20 18:23:49,209 | INFO |   fine_jaccard:      0.2222222222222222
+2026-01-20 18:23:49,209 | WARNING | unknown_pred beliefs: ['I am a burden']
+2026-01-20 18:23:49,410 | INFO | SOURCE_ID: 5-2 (patient_id=5)
+2026-01-20 18:23:49,411 | INFO | GOLD_ID: 5-2
+2026-01-20 18:23:49,411 | INFO | PRED_NAME: Patient 5
+2026-01-20 18:23:49,688 | INFO | ========================================
+2026-01-20 18:23:49,689 | INFO | [DONE] 5-2 | saved=output_deepseek\generated_cbts\5-2.json
+2026-01-20 18:23:49,689 | INFO |   embeddings_cosine: 0.3053856879472733
+2026-01-20 18:23:49,689 | INFO |   crossencoder_sts:  0.1763960137963295
+2026-01-20 18:23:49,689 | INFO |   nli_entailment:    0.09620281008373756
+2026-01-20 18:23:49,690 | INFO |   nli_contradiction: 0.10609999999999997
+2026-01-20 18:23:49,690 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-20 18:23:49,690 | INFO |   fine_jaccard:      0.25
+2026-01-20 18:23:49,782 | INFO | SOURCE_ID: 6-2 (patient_id=6)
+2026-01-20 18:23:49,782 | INFO | GOLD_ID: 6-2
+2026-01-20 18:23:49,782 | INFO | PRED_NAME: Patient 6
+2026-01-20 18:23:50,029 | INFO | ========================================
+2026-01-20 18:23:50,030 | INFO | [DONE] 6-2 | saved=output_deepseek\generated_cbts\6-2.json
+2026-01-20 18:23:50,030 | INFO |   embeddings_cosine: 0.402742138504982
+2026-01-20 18:23:50,031 | INFO |   crossencoder_sts:  0.21152891963720322
+2026-01-20 18:23:50,031 | INFO |   nli_entailment:    0.04492766720764384
+2026-01-20 18:23:50,031 | INFO |   nli_contradiction: 0.32130000000000003
+2026-01-20 18:23:50,032 | INFO |   major_jaccard:     1.0
+2026-01-20 18:23:50,032 | INFO |   fine_jaccard:      0.2
+2026-01-20 18:23:50,125 | INFO | SOURCE_ID: 7-2 (patient_id=7)
+2026-01-20 18:23:50,126 | INFO | GOLD_ID: 7-2
+2026-01-20 18:23:50,126 | INFO | PRED_NAME: Patient 7
+2026-01-20 18:23:50,385 | INFO | ========================================
+2026-01-20 18:23:50,386 | INFO | [DONE] 7-2 | saved=output_deepseek\generated_cbts\7-2.json
+2026-01-20 18:23:50,386 | INFO |   embeddings_cosine: 0.5016876578330993
+2026-01-20 18:23:50,386 | INFO |   crossencoder_sts:  0.3801732838153839
+2026-01-20 18:23:50,387 | INFO |   nli_entailment:    0.13746933864142652
+2026-01-20 18:23:50,387 | INFO |   nli_contradiction: 0.1396
+2026-01-20 18:23:50,387 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-20 18:23:50,388 | INFO |   fine_jaccard:      0.0
+2026-01-20 18:23:50,475 | INFO | SOURCE_ID: 8-2 (patient_id=8)
+2026-01-20 18:23:50,475 | INFO | GOLD_ID: 8-2
+2026-01-20 18:23:50,476 | INFO | PRED_NAME: Patient 8
+2026-01-20 18:23:50,793 | INFO | ========================================
+2026-01-20 18:23:50,794 | INFO | [DONE] 8-2 | saved=output_deepseek\generated_cbts\8-2.json
+2026-01-20 18:23:50,794 | INFO |   embeddings_cosine: 0.3751402795314789
+2026-01-20 18:23:50,794 | INFO |   crossencoder_sts:  0.27014020532369615
+2026-01-20 18:23:50,795 | INFO |   nli_entailment:    0.12030046599097999
+2026-01-20 18:23:50,795 | INFO |   nli_contradiction: 0.3018
+2026-01-20 18:23:50,795 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-20 18:23:50,795 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-20 18:23:50,846 | INFO | SOURCE_ID: 9-2 (patient_id=9)
+2026-01-20 18:23:50,847 | INFO | GOLD_ID: 9-2
+2026-01-20 18:23:50,847 | INFO | PRED_NAME: Patient 9
+2026-01-20 18:23:51,152 | INFO | ========================================
+2026-01-20 18:23:51,152 | INFO | [DONE] 9-2 | saved=output_deepseek\generated_cbts\9-2.json
+2026-01-20 18:23:51,152 | INFO |   embeddings_cosine: 0.36902229189872743
+2026-01-20 18:23:51,152 | INFO |   crossencoder_sts:  0.19982617273926734
+2026-01-20 18:23:51,153 | INFO |   nli_entailment:    0.049097446436244585
+2026-01-20 18:23:51,153 | INFO |   nli_contradiction: 0.3452
+2026-01-20 18:23:51,153 | INFO |   major_jaccard:     0.5
+2026-01-20 18:23:51,153 | INFO |   fine_jaccard:      0.0
+2026-01-20 18:23:51,154 | WARNING | unknown_pred beliefs: ['I am bound to be taken advantage of']
+2026-01-20 18:23:51,269 | INFO | SOURCE_ID: 10-2 (patient_id=10)
+2026-01-20 18:23:51,269 | INFO | GOLD_ID: 10-2
+2026-01-20 18:23:51,269 | INFO | PRED_NAME: Patient 10
+2026-01-20 18:23:51,613 | INFO | ========================================
+2026-01-20 18:23:51,614 | INFO | [DONE] 10-2 | saved=output_deepseek\generated_cbts\10-2.json
+2026-01-20 18:23:51,614 | INFO |   embeddings_cosine: 0.3205075740814209
+2026-01-20 18:23:51,615 | INFO |   crossencoder_sts:  0.18740099146962166
+2026-01-20 18:23:51,615 | INFO |   nli_entailment:    0.058664475951074636
+2026-01-20 18:23:51,615 | INFO |   nli_contradiction: 0.003
+2026-01-20 18:23:51,616 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-20 18:23:51,616 | INFO |   fine_jaccard:      0.25
+2026-01-20 18:23:51,641 | INFO | SOURCE_ID: 11-2 (patient_id=11)
+2026-01-20 18:23:51,642 | INFO | GOLD_ID: 11-2
+2026-01-20 18:23:51,642 | INFO | PRED_NAME: Patient 11
+2026-01-20 18:23:51,997 | INFO | ========================================
+2026-01-20 18:23:51,997 | INFO | [DONE] 11-2 | saved=output_deepseek\generated_cbts\11-2.json
+2026-01-20 18:23:51,998 | INFO |   embeddings_cosine: 0.4097480297088623
+2026-01-20 18:23:51,998 | INFO |   crossencoder_sts:  0.2282195582985878
+2026-01-20 18:23:51,998 | INFO |   nli_entailment:    0.23488310988090327
+2026-01-20 18:23:51,999 | INFO |   nli_contradiction: 0.2754
+2026-01-20 18:23:51,999 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-20 18:23:51,999 | INFO |   fine_jaccard:      0.125
+2026-01-20 18:23:52,022 | INFO | SOURCE_ID: 12-2 (patient_id=12)
+2026-01-20 18:23:52,023 | INFO | GOLD_ID: 12-2
+2026-01-20 18:23:52,023 | INFO | PRED_NAME: Patient 12
+2026-01-20 18:23:52,348 | INFO | ========================================
+2026-01-20 18:23:52,348 | INFO | [DONE] 12-2 | saved=output_deepseek\generated_cbts\12-2.json
+2026-01-20 18:23:52,350 | INFO |   embeddings_cosine: 0.3807429909706116
+2026-01-20 18:23:52,350 | INFO |   crossencoder_sts:  0.45711052417755127
+2026-01-20 18:23:52,350 | INFO |   nli_entailment:    0.07592545753591783
+2026-01-20 18:23:52,350 | INFO |   nli_contradiction: 0.19699999999999998
+2026-01-20 18:23:52,350 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-20 18:23:52,350 | INFO |   fine_jaccard:      0.25
+2026-01-20 18:23:52,350 | WARNING | unknown_pred beliefs: ["I don't belong anywhere", 'I am wasting my potential']
+2026-01-20 18:23:52,364 | INFO | SOURCE_ID: 13-2 (patient_id=13)
+2026-01-20 18:23:52,364 | INFO | GOLD_ID: 13-2
+2026-01-20 18:23:52,364 | INFO | PRED_NAME: Patient 13
+2026-01-20 18:23:52,645 | INFO | ========================================
+2026-01-20 18:23:52,645 | INFO | [DONE] 13-2 | saved=output_deepseek\generated_cbts\13-2.json
+2026-01-20 18:23:52,645 | INFO |   embeddings_cosine: 0.3767470300197601
+2026-01-20 18:23:52,645 | INFO |   crossencoder_sts:  0.36952263712882993
+2026-01-20 18:23:52,645 | INFO |   nli_entailment:    0.13616592326355076
+2026-01-20 18:23:52,645 | INFO |   nli_contradiction: 0.041400000000000006
+2026-01-20 18:23:52,645 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-20 18:23:52,645 | INFO |   fine_jaccard:      0.25
+2026-01-20 18:23:52,645 | WARNING | unknown_pred beliefs: ['I am a disappointment']
+2026-01-20 18:23:52,730 | INFO | SOURCE_ID: 14-2 (patient_id=14)
+2026-01-20 18:23:52,730 | INFO | GOLD_ID: 14-2
+2026-01-20 18:23:52,731 | INFO | PRED_NAME: Patient 14
+2026-01-20 18:23:53,027 | INFO | ========================================
+2026-01-20 18:23:53,028 | INFO | [DONE] 14-2 | saved=output_deepseek\generated_cbts\14-2.json
+2026-01-20 18:23:53,028 | INFO |   embeddings_cosine: 0.3095944136381149
+2026-01-20 18:23:53,028 | INFO |   crossencoder_sts:  0.3232862535864115
+2026-01-20 18:23:53,029 | INFO |   nli_entailment:    0.19895618430341758
+2026-01-20 18:23:53,029 | INFO |   nli_contradiction: 0.0064
+2026-01-20 18:23:53,029 | INFO |   major_jaccard:     0.5
+2026-01-20 18:23:53,030 | INFO |   fine_jaccard:      0.6666666666666666
+2026-01-20 18:23:53,030 | WARNING | unknown_pred beliefs: ['I am a disappointment']
+2026-01-20 18:23:53,055 | INFO | SOURCE_ID: 15-2 (patient_id=15)
+2026-01-20 18:23:53,056 | INFO | GOLD_ID: 15-2
+2026-01-20 18:23:53,056 | INFO | PRED_NAME: Patient 15
+2026-01-20 18:23:53,364 | INFO | ========================================
+2026-01-20 18:23:53,364 | INFO | [DONE] 15-2 | saved=output_deepseek\generated_cbts\15-2.json
+2026-01-20 18:23:53,364 | INFO |   embeddings_cosine: 0.40243417024612427
+2026-01-20 18:23:53,364 | INFO |   crossencoder_sts:  0.2812098413705826
+2026-01-20 18:23:53,364 | INFO |   nli_entailment:    0.1118035484721412
+2026-01-20 18:23:53,364 | INFO |   nli_contradiction: 0.10269999999999997
+2026-01-20 18:23:53,364 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-20 18:23:53,364 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-20 18:23:53,398 | INFO | SOURCE_ID: 16-2 (patient_id=16)
+2026-01-20 18:23:53,398 | INFO | GOLD_ID: 16-2
+2026-01-20 18:23:53,398 | INFO | PRED_NAME: Patient 16
+2026-01-20 18:23:53,726 | INFO | ========================================
+2026-01-20 18:23:53,726 | INFO | [DONE] 16-2 | saved=output_deepseek\generated_cbts\16-2.json
+2026-01-20 18:23:53,727 | INFO |   embeddings_cosine: 0.44650202989578247
+2026-01-20 18:23:53,727 | INFO |   crossencoder_sts:  0.40040910243988037
+2026-01-20 18:23:53,727 | INFO |   nli_entailment:    0.11072046443372723
+2026-01-20 18:23:53,727 | INFO |   nli_contradiction: 0.0024
+2026-01-20 18:23:53,728 | INFO |   major_jaccard:     0.5
+2026-01-20 18:23:53,728 | INFO |   fine_jaccard:      0.25
+2026-01-20 18:23:53,728 | WARNING | unknown_pred beliefs: ['I am wasting my potential']
+2026-01-20 18:23:53,746 | INFO | SOURCE_ID: 17-2 (patient_id=17)
+2026-01-20 18:23:53,746 | INFO | GOLD_ID: 17-2
+2026-01-20 18:23:53,746 | INFO | PRED_NAME: Patient 17
+2026-01-20 18:23:54,005 | INFO | ========================================
+2026-01-20 18:23:54,005 | INFO | [DONE] 17-2 | saved=output_deepseek\generated_cbts\17-2.json
+2026-01-20 18:23:54,005 | INFO |   embeddings_cosine: 0.2365391433238983
+2026-01-20 18:23:54,005 | INFO |   crossencoder_sts:  0.24284980222582817
+2026-01-20 18:23:54,005 | INFO |   nli_entailment:    0.0976598276784176
+2026-01-20 18:23:54,005 | INFO |   nli_contradiction: 0.2037
+2026-01-20 18:23:54,005 | INFO |   major_jaccard:     1.0
+2026-01-20 18:23:54,005 | INFO |   fine_jaccard:      0.42857142857142855
+2026-01-20 18:23:54,062 | INFO | SOURCE_ID: 18-2 (patient_id=18)
+2026-01-20 18:23:54,062 | INFO | GOLD_ID: 18-2
+2026-01-20 18:23:54,062 | INFO | PRED_NAME: Patient 18
+2026-01-20 18:23:54,420 | INFO | ========================================
+2026-01-20 18:23:54,420 | INFO | [DONE] 18-2 | saved=output_deepseek\generated_cbts\18-2.json
+2026-01-20 18:23:54,421 | INFO |   embeddings_cosine: 0.41264715492725373
+2026-01-20 18:23:54,421 | INFO |   crossencoder_sts:  0.35062347650527953
+2026-01-20 18:23:54,421 | INFO |   nli_entailment:    0.11832633848608551
+2026-01-20 18:23:54,422 | INFO |   nli_contradiction: 0.014500000000000002
+2026-01-20 18:23:54,422 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-20 18:23:54,423 | INFO |   fine_jaccard:      0.2
+2026-01-20 18:23:54,423 | WARNING | unknown_pred beliefs: ['I am a disappointment', 'I am wasting my potential']
+2026-01-20 18:23:54,446 | INFO | SOURCE_ID: 19-2 (patient_id=19)
+2026-01-20 18:23:54,447 | INFO | GOLD_ID: 19-2
+2026-01-20 18:23:54,447 | INFO | PRED_NAME: Patient 19
+2026-01-20 18:23:54,755 | INFO | ========================================
+2026-01-20 18:23:54,756 | INFO | [DONE] 19-2 | saved=output_deepseek\generated_cbts\19-2.json
+2026-01-20 18:23:54,756 | INFO |   embeddings_cosine: 0.2800757586956024
+2026-01-20 18:23:54,756 | INFO |   crossencoder_sts:  0.24853003472089769
+2026-01-20 18:23:54,757 | INFO |   nli_entailment:    0.009900376057769616
+2026-01-20 18:23:54,757 | INFO |   nli_contradiction: 0.0013000000000000002
+2026-01-20 18:23:54,757 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-20 18:23:54,758 | INFO |   fine_jaccard:      0.4
+2026-01-20 18:23:54,779 | INFO | SOURCE_ID: 20-2 (patient_id=20)
+2026-01-20 18:23:54,780 | INFO | GOLD_ID: 20-2
+2026-01-20 18:23:54,780 | INFO | PRED_NAME: Patient 20
+2026-01-20 18:23:55,073 | INFO | ========================================
+2026-01-20 18:23:55,073 | INFO | [DONE] 20-2 | saved=output_deepseek\generated_cbts\20-2.json
+2026-01-20 18:23:55,073 | INFO |   embeddings_cosine: 0.4507007122039795
+2026-01-20 18:23:55,074 | INFO |   crossencoder_sts:  0.3847118139266968
+2026-01-20 18:23:55,074 | INFO |   nli_entailment:    0.1060879928721854
+2026-01-20 18:23:55,074 | INFO |   nli_contradiction: 0.10419999999999999
+2026-01-20 18:23:55,075 | INFO |   major_jaccard:     0.5
+2026-01-20 18:23:55,075 | INFO |   fine_jaccard:      0.4
+2026-01-20 18:23:55,327 | INFO | SOURCE_ID: 21-2 (patient_id=21)
+2026-01-20 18:23:55,327 | INFO | GOLD_ID: 21-2
+2026-01-20 18:23:55,328 | INFO | PRED_NAME: Patient 21
+2026-01-20 18:23:55,601 | INFO | ========================================
+2026-01-20 18:23:55,601 | INFO | [DONE] 21-2 | saved=output_deepseek\generated_cbts\21-2.json
+2026-01-20 18:23:55,601 | INFO |   embeddings_cosine: 0.38277424573898317
+2026-01-20 18:23:55,602 | INFO |   crossencoder_sts:  0.3135797306895256
+2026-01-20 18:23:55,602 | INFO |   nli_entailment:    0.10191830861048916
+2026-01-20 18:23:55,602 | INFO |   nli_contradiction: 0.145
+2026-01-20 18:23:55,603 | INFO |   major_jaccard:     1.0
+2026-01-20 18:23:55,603 | INFO |   fine_jaccard:      0.14285714285714285
+2026-01-20 18:23:55,671 | INFO | SOURCE_ID: 22-2 (patient_id=22)
+2026-01-20 18:23:55,671 | INFO | GOLD_ID: 22-2
+2026-01-20 18:23:55,672 | INFO | PRED_NAME: Patient 22
+2026-01-20 18:23:55,938 | INFO | ========================================
+2026-01-20 18:23:55,939 | INFO | [DONE] 22-2 | saved=output_deepseek\generated_cbts\22-2.json
+2026-01-20 18:23:55,939 | INFO |   embeddings_cosine: 0.31183112859725953
+2026-01-20 18:23:55,939 | INFO |   crossencoder_sts:  0.2532319836318493
+2026-01-20 18:23:55,939 | INFO |   nli_entailment:    0.1720889768486767
+2026-01-20 18:23:55,940 | INFO |   nli_contradiction: 0.17329999999999998
+2026-01-20 18:23:55,940 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-20 18:23:55,940 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-20 18:23:55,940 | WARNING | unknown_pred beliefs: ['I am bound to be taken advantage of', "I don't deserve respect"]
+2026-01-20 18:23:55,962 | INFO | SOURCE_ID: 23-2 (patient_id=23)
+2026-01-20 18:23:55,962 | INFO | GOLD_ID: 23-2
+2026-01-20 18:23:55,963 | INFO | PRED_NAME: Patient 23
+2026-01-20 18:23:56,217 | INFO | ========================================
+2026-01-20 18:23:56,217 | INFO | [DONE] 23-2 | saved=output_deepseek\generated_cbts\23-2.json
+2026-01-20 18:23:56,218 | INFO |   embeddings_cosine: 0.38852155208587646
+2026-01-20 18:23:56,218 | INFO |   crossencoder_sts:  0.29517148435115814
+2026-01-20 18:23:56,218 | INFO |   nli_entailment:    0.13881803512339136
+2026-01-20 18:23:56,219 | INFO |   nli_contradiction: 0.13779999999999998
+2026-01-20 18:23:56,219 | INFO |   major_jaccard:     1.0
+2026-01-20 18:23:56,219 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-20 18:23:56,220 | WARNING | unknown_pred beliefs: ['I am a disappointment']
+2026-01-20 18:23:56,245 | INFO | SOURCE_ID: 24-2 (patient_id=24)
+2026-01-20 18:23:56,245 | INFO | GOLD_ID: 24-2
+2026-01-20 18:23:56,245 | INFO | PRED_NAME: Patient 24
+2026-01-20 18:23:56,504 | INFO | ========================================
+2026-01-20 18:23:56,504 | INFO | [DONE] 24-2 | saved=output_deepseek\generated_cbts\24-2.json
+2026-01-20 18:23:56,504 | INFO |   embeddings_cosine: 0.4063656210899353
+2026-01-20 18:23:56,520 | INFO |   crossencoder_sts:  0.4425572603940964
+2026-01-20 18:23:56,520 | INFO |   nli_entailment:    0.1082560556638548
+2026-01-20 18:23:56,520 | INFO |   nli_contradiction: 0.10149999999999999
+2026-01-20 18:23:56,520 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-20 18:23:56,521 | INFO |   fine_jaccard:      0.2857142857142857
+2026-01-20 18:23:56,543 | INFO | SOURCE_ID: 25-2 (patient_id=25)
+2026-01-20 18:23:56,544 | INFO | GOLD_ID: 25-2
+2026-01-20 18:23:56,544 | INFO | PRED_NAME: Patient 25
+2026-01-20 18:23:56,834 | INFO | ========================================
+2026-01-20 18:23:56,834 | INFO | [DONE] 25-2 | saved=output_deepseek\generated_cbts\25-2.json
+2026-01-20 18:23:56,834 | INFO |   embeddings_cosine: 0.34466529488563535
+2026-01-20 18:23:56,834 | INFO |   crossencoder_sts:  0.25146735906600953
+2026-01-20 18:23:56,834 | INFO |   nli_entailment:    0.07807497428481099
+2026-01-20 18:23:56,834 | INFO |   nli_contradiction: 0.23199999999999998
+2026-01-20 18:23:56,834 | INFO |   major_jaccard:     0.5
+2026-01-20 18:23:56,834 | INFO |   fine_jaccard:      0.25
+2026-01-20 18:23:56,834 | INFO | [SKIP] source_id=26-2: gold non trovato in Patient_Psi_CM_Dataset.json
+2026-01-20 18:23:56,866 | INFO | SOURCE_ID: 27-2 (patient_id=27)
+2026-01-20 18:23:56,866 | INFO | GOLD_ID: 27-2
+2026-01-20 18:23:56,867 | INFO | PRED_NAME: Patient 27
+2026-01-20 18:23:57,162 | INFO | ========================================
+2026-01-20 18:23:57,162 | INFO | [DONE] 27-2 | saved=output_deepseek\generated_cbts\27-2.json
+2026-01-20 18:23:57,162 | INFO |   embeddings_cosine: 0.3822104811668396
+2026-01-20 18:23:57,162 | INFO |   crossencoder_sts:  0.3725989133119583
+2026-01-20 18:23:57,162 | INFO |   nli_entailment:    0.1566028462169343
+2026-01-20 18:23:57,162 | INFO |   nli_contradiction: 0.00030000000000000003
+2026-01-20 18:23:57,162 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-20 18:23:57,162 | INFO |   fine_jaccard:      0.14285714285714285
+2026-01-20 18:23:57,162 | WARNING | unknown_pred beliefs: ['I am damaged goods']
+2026-01-20 18:23:57,195 | INFO | SOURCE_ID: 28-2 (patient_id=28)
+2026-01-20 18:23:57,195 | INFO | GOLD_ID: 28-2
+2026-01-20 18:23:57,196 | INFO | PRED_NAME: Patient 28
+2026-01-20 18:23:57,459 | INFO | ========================================
+2026-01-20 18:23:57,459 | INFO | [DONE] 28-2 | saved=output_deepseek\generated_cbts\28-2.json
+2026-01-20 18:23:57,459 | INFO |   embeddings_cosine: 0.4784635066986084
+2026-01-20 18:23:57,459 | INFO |   crossencoder_sts:  0.36785075068473816
+2026-01-20 18:23:57,459 | INFO |   nli_entailment:    0.13378938122448653
+2026-01-20 18:23:57,459 | INFO |   nli_contradiction: 0.21079999999999996
+2026-01-20 18:23:57,459 | INFO |   major_jaccard:     0.5
+2026-01-20 18:23:57,459 | INFO |   fine_jaccard:      0.6666666666666666
+2026-01-20 18:23:57,487 | INFO | SOURCE_ID: 29-2 (patient_id=29)
+2026-01-20 18:23:57,487 | INFO | GOLD_ID: 29-2
+2026-01-20 18:23:57,487 | INFO | PRED_NAME: Patient 29
+2026-01-20 18:23:57,724 | INFO | ========================================
+2026-01-20 18:23:57,724 | INFO | [DONE] 29-2 | saved=output_deepseek\generated_cbts\29-2.json
+2026-01-20 18:23:57,724 | INFO |   embeddings_cosine: 0.4074310719966888
+2026-01-20 18:23:57,740 | INFO |   crossencoder_sts:  0.3009260714054108
+2026-01-20 18:23:57,740 | INFO |   nli_entailment:    0.09680752762222389
+2026-01-20 18:23:57,740 | INFO |   nli_contradiction: 0.3004
+2026-01-20 18:23:57,740 | INFO |   major_jaccard:     1.0
+2026-01-20 18:23:57,740 | INFO |   fine_jaccard:      0.0
+2026-01-20 18:23:57,741 | WARNING | unknown_pred beliefs: ['I am bound to lose what matters']
+2026-01-20 18:23:57,755 | INFO | SOURCE_ID: 30-2 (patient_id=30)
+2026-01-20 18:23:57,755 | INFO | GOLD_ID: 30-2
+2026-01-20 18:23:57,755 | INFO | PRED_NAME: Patient 30
+2026-01-20 18:23:58,016 | INFO | ========================================
+2026-01-20 18:23:58,018 | INFO | [DONE] 30-2 | saved=output_deepseek\generated_cbts\30-2.json
+2026-01-20 18:23:58,018 | INFO |   embeddings_cosine: 0.41854165196418763
+2026-01-20 18:23:58,018 | INFO |   crossencoder_sts:  0.27075386643409727
+2026-01-20 18:23:58,018 | INFO |   nli_entailment:    0.1910625612113948
+2026-01-20 18:23:58,018 | INFO |   nli_contradiction: 0.00030000000000000003
+2026-01-20 18:23:58,018 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-20 18:23:58,018 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-20 18:23:58,158 | INFO | SOURCE_ID: 31-2 (patient_id=31)
+2026-01-20 18:23:58,158 | INFO | GOLD_ID: 31-2
+2026-01-20 18:23:58,159 | INFO | PRED_NAME: Patient 31
+2026-01-20 18:23:58,405 | INFO | ========================================
+2026-01-20 18:23:58,405 | INFO | [DONE] 31-2 | saved=output_deepseek\generated_cbts\31-2.json
+2026-01-20 18:23:58,405 | INFO |   embeddings_cosine: 0.4892941117286682
+2026-01-20 18:23:58,405 | INFO |   crossencoder_sts:  0.20452076494693755
+2026-01-20 18:23:58,406 | INFO |   nli_entailment:    0.006582573960060746
+2026-01-20 18:23:58,406 | INFO |   nli_contradiction: 0.3006
+2026-01-20 18:23:58,406 | INFO |   major_jaccard:     1.0
+2026-01-20 18:23:58,406 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-20 18:23:58,406 | WARNING | unknown_pred beliefs: ['I am bound to lose loved ones']
+2026-01-20 18:23:58,444 | INFO | SOURCE_ID: 32-2 (patient_id=32)
+2026-01-20 18:23:58,444 | INFO | GOLD_ID: 32-2
+2026-01-20 18:23:58,445 | INFO | PRED_NAME: Patient 32
+2026-01-20 18:23:58,701 | INFO | ========================================
+2026-01-20 18:23:58,701 | INFO | [DONE] 32-2 | saved=output_deepseek\generated_cbts\32-2.json
+2026-01-20 18:23:58,701 | INFO |   embeddings_cosine: 0.4257731020450592
+2026-01-20 18:23:58,702 | INFO |   crossencoder_sts:  0.2500184908509254
+2026-01-20 18:23:58,702 | INFO |   nli_entailment:    0.19545230151743215
+2026-01-20 18:23:58,702 | INFO |   nli_contradiction: 0.010100000000000001
+2026-01-20 18:23:58,702 | INFO |   major_jaccard:     1.0
+2026-01-20 18:23:58,703 | INFO |   fine_jaccard:      0.0
+2026-01-20 18:23:58,703 | WARNING | unknown_pred beliefs: ['I can never please them', 'I am a disappointment', 'I am not good enough']
+2026-01-20 18:23:58,728 | INFO | SOURCE_ID: 33-2 (patient_id=33)
+2026-01-20 18:23:58,728 | INFO | GOLD_ID: 33-2
+2026-01-20 18:23:58,729 | INFO | PRED_NAME: Patient 33
+2026-01-20 18:23:58,974 | INFO | ========================================
+2026-01-20 18:23:58,974 | INFO | [DONE] 33-2 | saved=output_deepseek\generated_cbts\33-2.json
+2026-01-20 18:23:58,975 | INFO |   embeddings_cosine: 0.3272876411676407
+2026-01-20 18:23:58,975 | INFO |   crossencoder_sts:  0.21610943078994752
+2026-01-20 18:23:58,975 | INFO |   nli_entailment:    0.0835816954315114
+2026-01-20 18:23:58,975 | INFO |   nli_contradiction: 0.1256
+2026-01-20 18:23:58,975 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-20 18:23:58,976 | INFO |   fine_jaccard:      0.2
+2026-01-20 18:23:58,976 | WARNING | unknown_pred beliefs: ["I don't deserve commitment"]
+2026-01-20 18:23:58,976 | INFO | [SKIP] source_id=34-2: gold non trovato in Patient_Psi_CM_Dataset.json
+2026-01-20 18:23:59,000 | INFO | SOURCE_ID: 35-2 (patient_id=35)
+2026-01-20 18:23:59,000 | INFO | GOLD_ID: 35-2
+2026-01-20 18:23:59,000 | INFO | PRED_NAME: Patient 35
+2026-01-20 18:23:59,268 | INFO | ========================================
+2026-01-20 18:23:59,269 | INFO | [DONE] 35-2 | saved=output_deepseek\generated_cbts\35-2.json
+2026-01-20 18:23:59,269 | INFO |   embeddings_cosine: 0.417158180475235
+2026-01-20 18:23:59,269 | INFO |   crossencoder_sts:  0.3049413949251175
+2026-01-20 18:23:59,269 | INFO |   nli_entailment:    0.03867800021615723
+2026-01-20 18:23:59,269 | INFO |   nli_contradiction: 0.10279999999999996
+2026-01-20 18:23:59,270 | INFO |   major_jaccard:     1.0
+2026-01-20 18:23:59,270 | INFO |   fine_jaccard:      0.0
+2026-01-20 18:23:59,270 | WARNING | unknown_pred beliefs: ['I am trapped in family silence', 'My pain is too much for others']
+2026-01-20 18:23:59,362 | INFO | SOURCE_ID: 36-2 (patient_id=36)
+2026-01-20 18:23:59,362 | INFO | GOLD_ID: 36-2
+2026-01-20 18:23:59,362 | INFO | PRED_NAME: Patient 36
+2026-01-20 18:23:59,607 | INFO | ========================================
+2026-01-20 18:23:59,607 | INFO | [DONE] 36-2 | saved=output_deepseek\generated_cbts\36-2.json
+2026-01-20 18:23:59,608 | INFO |   embeddings_cosine: 0.38886204957962034
+2026-01-20 18:23:59,608 | INFO |   crossencoder_sts:  0.26656952649354937
+2026-01-20 18:23:59,608 | INFO |   nli_entailment:    0.17043771296316454
+2026-01-20 18:23:59,609 | INFO |   nli_contradiction: 0.4952000000000001
+2026-01-20 18:23:59,609 | INFO |   major_jaccard:     1.0
+2026-01-20 18:23:59,609 | INFO |   fine_jaccard:      0.0
+2026-01-20 18:23:59,609 | WARNING | unknown_pred beliefs: ['I am only valued for what I can provide']
+2026-01-20 18:23:59,726 | INFO | SOURCE_ID: 37-2 (patient_id=37)
+2026-01-20 18:23:59,726 | INFO | GOLD_ID: 37-2
+2026-01-20 18:23:59,726 | INFO | PRED_NAME: Patient 37
+2026-01-20 18:23:59,971 | INFO | ========================================
+2026-01-20 18:23:59,971 | INFO | [DONE] 37-2 | saved=output_deepseek\generated_cbts\37-2.json
+2026-01-20 18:23:59,972 | INFO |   embeddings_cosine: 0.3134251242503524
+2026-01-20 18:23:59,972 | INFO |   crossencoder_sts:  0.18579912036657334
+2026-01-20 18:23:59,972 | INFO |   nli_entailment:    0.030417053910030765
+2026-01-20 18:23:59,972 | INFO |   nli_contradiction: 0.2263
+2026-01-20 18:23:59,973 | INFO |   major_jaccard:     0.5
+2026-01-20 18:23:59,973 | INFO |   fine_jaccard:      0.0
+2026-01-20 18:23:59,973 | WARNING | unknown_pred beliefs: ['I am disposable']
+2026-01-20 18:23:59,992 | INFO | SOURCE_ID: 38-2 (patient_id=38)
+2026-01-20 18:23:59,992 | INFO | GOLD_ID: 38-2
+2026-01-20 18:23:59,992 | INFO | PRED_NAME: Patient 38
+2026-01-20 18:24:00,223 | INFO | ========================================
+2026-01-20 18:24:00,223 | INFO | [DONE] 38-2 | saved=output_deepseek\generated_cbts\38-2.json
+2026-01-20 18:24:00,223 | INFO |   embeddings_cosine: 0.4346317112445831
+2026-01-20 18:24:00,223 | INFO |   crossencoder_sts:  0.30123039036989213
+2026-01-20 18:24:00,223 | INFO |   nli_entailment:    0.19129166957190447
+2026-01-20 18:24:00,223 | INFO |   nli_contradiction: 0.19929999999999995
+2026-01-20 18:24:00,223 | INFO |   major_jaccard:     1.0
+2026-01-20 18:24:00,223 | INFO |   fine_jaccard:      0.0
+2026-01-20 18:24:00,223 | WARNING | unknown_pred beliefs: ['I am a burden', 'I am undesirable to employer']
+2026-01-20 18:24:00,255 | INFO | SOURCE_ID: 39-2 (patient_id=39)
+2026-01-20 18:24:00,255 | INFO | GOLD_ID: 39-2
+2026-01-20 18:24:00,255 | INFO | PRED_NAME: Patient 39
+2026-01-20 18:24:00,491 | INFO | ========================================
+2026-01-20 18:24:00,491 | INFO | [DONE] 39-2 | saved=output_deepseek\generated_cbts\39-2.json
+2026-01-20 18:24:00,491 | INFO |   embeddings_cosine: 0.4222942411899567
+2026-01-20 18:24:00,491 | INFO |   crossencoder_sts:  0.29758707582950594
+2026-01-20 18:24:00,491 | INFO |   nli_entailment:    0.09603149498230933
+2026-01-20 18:24:00,491 | INFO |   nli_contradiction: 0.0847
+2026-01-20 18:24:00,507 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-20 18:24:00,507 | INFO |   fine_jaccard:      0.14285714285714285
+2026-01-20 18:24:00,528 | INFO | SOURCE_ID: 40-2 (patient_id=40)
+2026-01-20 18:24:00,529 | INFO | GOLD_ID: 40-2
+2026-01-20 18:24:00,529 | INFO | PRED_NAME: Patient 40
+2026-01-20 18:24:00,770 | INFO | ========================================
+2026-01-20 18:24:00,770 | INFO | [DONE] 40-2 | saved=output_deepseek\generated_cbts\40-2.json
+2026-01-20 18:24:00,770 | INFO |   embeddings_cosine: 0.3478803068399429
+2026-01-20 18:24:00,770 | INFO |   crossencoder_sts:  0.20281768180429935
+2026-01-20 18:24:00,770 | INFO |   nli_entailment:    0.0012403931883159258
+2026-01-20 18:24:00,770 | INFO |   nli_contradiction: 0.2847
+2026-01-20 18:24:00,770 | INFO |   major_jaccard:     1.0
+2026-01-20 18:24:00,770 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-20 18:24:00,770 | WARNING | unknown_pred beliefs: ['I am trapped in family patterns']
+2026-01-20 18:24:00,801 | INFO | SOURCE_ID: 41-2 (patient_id=41)
+2026-01-20 18:24:00,801 | INFO | GOLD_ID: 41-2
+2026-01-20 18:24:00,801 | INFO | PRED_NAME: Patient 41
+2026-01-20 18:24:01,037 | INFO | ========================================
+2026-01-20 18:24:01,037 | INFO | [DONE] 41-2 | saved=output_deepseek\generated_cbts\41-2.json
+2026-01-20 18:24:01,053 | INFO |   embeddings_cosine: 0.3216340094804764
+2026-01-20 18:24:01,053 | INFO |   crossencoder_sts:  0.32370113432407377
+2026-01-20 18:24:01,053 | INFO |   nli_entailment:    0.09975466148201774
+2026-01-20 18:24:01,053 | INFO |   nli_contradiction: 0.014600000000000002
+2026-01-20 18:24:01,053 | INFO |   major_jaccard:     1.0
+2026-01-20 18:24:01,053 | INFO |   fine_jaccard:      0.0
+2026-01-20 18:24:01,053 | WARNING | unknown_pred beliefs: ["I am responsible for everyone's happiness", 'I am only valued for what I provide']
+2026-01-20 18:24:01,076 | INFO | SOURCE_ID: 42-2 (patient_id=42)
+2026-01-20 18:24:01,076 | INFO | GOLD_ID: 42-2
+2026-01-20 18:24:01,076 | INFO | PRED_NAME: Patient 42
+2026-01-20 18:24:01,333 | INFO | ========================================
+2026-01-20 18:24:01,334 | INFO | [DONE] 42-2 | saved=output_deepseek\generated_cbts\42-2.json
+2026-01-20 18:24:01,334 | INFO |   embeddings_cosine: 0.3200824663043022
+2026-01-20 18:24:01,334 | INFO |   crossencoder_sts:  0.22667796015739441
+2026-01-20 18:24:01,335 | INFO |   nli_entailment:    0.009766475854243546
+2026-01-20 18:24:01,335 | INFO |   nli_contradiction: 0.202
+2026-01-20 18:24:01,335 | INFO |   major_jaccard:     1.0
+2026-01-20 18:24:01,336 | INFO |   fine_jaccard:      0.4
+2026-01-20 18:24:01,336 | WARNING | unknown_pred beliefs: ['I am a disappointment']
+2026-01-20 18:24:01,361 | INFO | SOURCE_ID: 43-2 (patient_id=43)
+2026-01-20 18:24:01,361 | INFO | GOLD_ID: 43-2
+2026-01-20 18:24:01,362 | INFO | PRED_NAME: Patient 43
+2026-01-20 18:24:01,629 | INFO | ========================================
+2026-01-20 18:24:01,629 | INFO | [DONE] 43-2 | saved=output_deepseek\generated_cbts\43-2.json
+2026-01-20 18:24:01,629 | INFO |   embeddings_cosine: 0.4119758248329163
+2026-01-20 18:24:01,629 | INFO |   crossencoder_sts:  0.43255863785743714
+2026-01-20 18:24:01,629 | INFO |   nli_entailment:    0.1975590107370015
+2026-01-20 18:24:01,629 | INFO |   nli_contradiction: 0.19519999999999998
+2026-01-20 18:24:01,629 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-20 18:24:01,629 | INFO |   fine_jaccard:      0.2
+2026-01-20 18:24:01,629 | WARNING | unknown_pred beliefs: ['My feelings are wrong', 'I am too sensitive']
+2026-01-20 18:24:01,657 | INFO | SOURCE_ID: 44-2 (patient_id=44)
+2026-01-20 18:24:01,657 | INFO | GOLD_ID: 44-2
+2026-01-20 18:24:01,657 | INFO | PRED_NAME: Patient 44
+2026-01-20 18:24:01,911 | INFO | ========================================
+2026-01-20 18:24:01,911 | INFO | [DONE] 44-2 | saved=output_deepseek\generated_cbts\44-2.json
+2026-01-20 18:24:01,911 | INFO |   embeddings_cosine: 0.348817503452301
+2026-01-20 18:24:01,911 | INFO |   crossencoder_sts:  0.2954599648714066
+2026-01-20 18:24:01,911 | INFO |   nli_entailment:    0.11837513552949899
+2026-01-20 18:24:01,911 | INFO |   nli_contradiction: 0.2692
+2026-01-20 18:24:01,911 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-20 18:24:01,911 | INFO |   fine_jaccard:      0.0
+2026-01-20 18:24:01,911 | WARNING | unknown_pred beliefs: ['I am trapped in destructive patterns', 'I attract toxic people']
+2026-01-20 18:24:01,957 | INFO | SOURCE_ID: 45-2 (patient_id=45)
+2026-01-20 18:24:01,957 | INFO | GOLD_ID: 45-2
+2026-01-20 18:24:01,957 | INFO | PRED_NAME: Patient 45
+2026-01-20 18:24:02,209 | INFO | ========================================
+2026-01-20 18:24:02,209 | INFO | [DONE] 45-2 | saved=output_deepseek\generated_cbts\45-2.json
+2026-01-20 18:24:02,209 | INFO |   embeddings_cosine: 0.4169450581073761
+2026-01-20 18:24:02,209 | INFO |   crossencoder_sts:  0.2236989676952362
+2026-01-20 18:24:02,209 | INFO |   nli_entailment:    0.11011050553962702
+2026-01-20 18:24:02,209 | INFO |   nli_contradiction: 0.0012000000000000001
+2026-01-20 18:24:02,209 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-20 18:24:02,209 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-20 18:24:02,209 | WARNING | unknown_pred beliefs: ['I am too much for people', 'I am bad when angry']
+2026-01-20 18:24:02,225 | INFO | SOURCE_ID: 46-2 (patient_id=46)
+2026-01-20 18:24:02,225 | INFO | GOLD_ID: 46-2
+2026-01-20 18:24:02,225 | INFO | PRED_NAME: Patient 46
+2026-01-20 18:24:02,496 | INFO | ========================================
+2026-01-20 18:24:02,496 | INFO | [DONE] 46-2 | saved=output_deepseek\generated_cbts\46-2.json
+2026-01-20 18:24:02,497 | INFO |   embeddings_cosine: 0.47569324970245364
+2026-01-20 18:24:02,497 | INFO |   crossencoder_sts:  0.33119024634361266
+2026-01-20 18:24:02,497 | INFO |   nli_entailment:    0.017745429310828596
+2026-01-20 18:24:02,497 | INFO |   nli_contradiction: 0.32930000000000004
+2026-01-20 18:24:02,498 | INFO |   major_jaccard:     1.0
+2026-01-20 18:24:02,498 | INFO |   fine_jaccard:      0.0
+2026-01-20 18:24:02,498 | WARNING | unknown_pred beliefs: ["I am responsible for fixing everyone's problems", 'I am only valued as a supporter']
+2026-01-20 18:24:02,520 | INFO | SOURCE_ID: 47-2 (patient_id=47)
+2026-01-20 18:24:02,520 | INFO | GOLD_ID: 47-2
+2026-01-20 18:24:02,520 | INFO | PRED_NAME: Patient 47
+2026-01-20 18:24:02,771 | INFO | ========================================
+2026-01-20 18:24:02,771 | INFO | [DONE] 47-2 | saved=output_deepseek\generated_cbts\47-2.json
+2026-01-20 18:24:02,771 | INFO |   embeddings_cosine: 0.32160282135009766
+2026-01-20 18:24:02,771 | INFO |   crossencoder_sts:  0.21350090205669403
+2026-01-20 18:24:02,771 | INFO |   nli_entailment:    0.0847687430047644
+2026-01-20 18:24:02,771 | INFO |   nli_contradiction: 0.0067
+2026-01-20 18:24:02,771 | INFO |   major_jaccard:     1.0
+2026-01-20 18:24:02,771 | INFO |   fine_jaccard:      0.2
+2026-01-20 18:24:02,792 | INFO | SOURCE_ID: 48-2 (patient_id=48)
+2026-01-20 18:24:02,792 | INFO | GOLD_ID: 48-2
+2026-01-20 18:24:02,792 | INFO | PRED_NAME: Patient 48
+2026-01-20 18:24:03,050 | INFO | ========================================
+2026-01-20 18:24:03,050 | INFO | [DONE] 48-2 | saved=output_deepseek\generated_cbts\48-2.json
+2026-01-20 18:24:03,050 | INFO |   embeddings_cosine: 0.33924545645713805
+2026-01-20 18:24:03,051 | INFO |   crossencoder_sts:  0.23774703443050385
+2026-01-20 18:24:03,051 | INFO |   nli_entailment:    0.06935518267332516
+2026-01-20 18:24:03,051 | INFO |   nli_contradiction: 0.2815
+2026-01-20 18:24:03,051 | INFO |   major_jaccard:     1.0
+2026-01-20 18:24:03,051 | INFO |   fine_jaccard:      0.2
+2026-01-20 18:24:03,051 | WARNING | unknown_pred beliefs: ['I am a disappointment to his family']
+2026-01-20 18:24:03,067 | INFO | SOURCE_ID: 49-2 (patient_id=49)
+2026-01-20 18:24:03,067 | INFO | GOLD_ID: 49-2
+2026-01-20 18:24:03,067 | INFO | PRED_NAME: Patient 49
+2026-01-20 18:24:03,317 | INFO | ========================================
+2026-01-20 18:24:03,317 | INFO | [DONE] 49-2 | saved=output_deepseek\generated_cbts\49-2.json
+2026-01-20 18:24:03,317 | INFO |   embeddings_cosine: 0.45381671786308286
+2026-01-20 18:24:03,317 | INFO |   crossencoder_sts:  0.22989888191223146
+2026-01-20 18:24:03,317 | INFO |   nli_entailment:    0.000790926291782574
+2026-01-20 18:24:03,317 | INFO |   nli_contradiction: 0.1996
+2026-01-20 18:24:03,317 | INFO |   major_jaccard:     0.5
+2026-01-20 18:24:03,317 | INFO |   fine_jaccard:      0.0
+2026-01-20 18:24:03,327 | WARNING | unknown_pred beliefs: ['I am trapped in family dysfunction', 'I am bad for wishing they would die']
+2026-01-20 18:24:03,364 | INFO | SOURCE_ID: 50-2 (patient_id=50)
+2026-01-20 18:24:03,366 | INFO | GOLD_ID: 50-2
+2026-01-20 18:24:03,366 | INFO | PRED_NAME: Patient 50
+2026-01-20 18:24:03,616 | INFO | ========================================
+2026-01-20 18:24:03,616 | INFO | [DONE] 50-2 | saved=output_deepseek\generated_cbts\50-2.json
+2026-01-20 18:24:03,616 | INFO |   embeddings_cosine: 0.27145825028419496
+2026-01-20 18:24:03,617 | INFO |   crossencoder_sts:  0.2548540666699409
+2026-01-20 18:24:03,617 | INFO |   nli_entailment:    0.008512399223147562
+2026-01-20 18:24:03,617 | INFO |   nli_contradiction: 0.20049999999999998
+2026-01-20 18:24:03,617 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-20 18:24:03,617 | INFO |   fine_jaccard:      0.0
+2026-01-20 18:24:03,617 | WARNING | unknown_pred beliefs: ['I am trapped between loyalty and morality', 'I am a bad friend for judging', 'I am immoral for not acting sooner']
+2026-01-20 18:24:03,618 | INFO | 
+Completed. Processed 48 predicted model(s).
+2026-01-20 18:24:03,618 | INFO | Generated CBTs in: output_deepseek\generated_cbts
+2026-01-20 18:24:03,618 | INFO | Compare results JSONL: output_deepseek\compare_results.jsonl
+2026-01-20 18:24:03,622 | INFO | 
+=== FINAL MEANS ===
+2026-01-20 18:24:03,623 | INFO | {
+  "n": 48,
+  "means": {
+    "embeddings_cosine": 0.37968873081651205,
+    "crossencoder_sts": 0.29066306948079723,
+    "nli_entailment_overall": 0.1010922506595008,
+    "nli_contradiction_overall": 0.1520166666666667
+  },
+  "counts": {
+    "embeddings_cosine": 48,
+    "crossencoder_sts": 48,
+    "nli_entailment_overall": 48,
+    "nli_contradiction_overall": 48
+  },
+  "core_beliefs_fine": {
+    "n": 48,
+    "micro": {
+      "precision": 0.44660194174757284,
+      "recall": 0.23,
+      "f1": 0.30363036303630364
+    },
+    "macro": {
+      "f1": 0.20300908475781138
+    },
+    "subset_accuracy": 0.0,
+    "jaccard_mean": 0.18659887566137565,
+    "unknown_pred_total": 43,
+    "label_space_size": 19,
+    "per_label": {
+      "I am a failure, loser": {
+        "precision": 0.7777777777777778,
+        "recall": 0.5833333333333334,
+        "f1": 0.6666666666666666,
+        "support": 12
+      },
+      "I am a victim": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 4
+      },
+      "I am bad - dangerous, toxic, evil": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f1": 0.33333333333333337,
+        "support": 1
+      },
+      "I am bound to be abandoned": {
+        "precision": 0.5,
+        "recall": 0.07142857142857142,
+        "f1": 0.125,
+        "support": 14
+      },
+      "I am bound to be alone": {
+        "precision": 0.5,
+        "recall": 0.14285714285714285,
+        "f1": 0.22222222222222224,
+        "support": 14
+      },
+      "I am bound to be rejected": {
+        "precision": 0.2,
+        "recall": 0.1,
+        "f1": 0.13333333333333333,
+        "support": 10
+      },
+      "I am defective": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 4
+      },
+      "I am helpless": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 21
+      },
+      "I am immoral": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "I am incompetent": {
+        "precision": 0.7857142857142857,
+        "recall": 0.6470588235294118,
+        "f1": 0.7096774193548386,
+        "support": 17
+      },
+      "I am needy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 5
+      },
+      "I am out of control": {
+        "precision": 1.0,
+        "recall": 0.06666666666666667,
+        "f1": 0.125,
+        "support": 15
+      },
+      "I am powerless, weak, vulnerable": {
+        "precision": 0.5294117647058824,
+        "recall": 0.45,
+        "f1": 0.48648648648648646,
+        "support": 20
+      },
+      "I am trapped": {
+        "precision": 0.5454545454545454,
+        "recall": 0.35294117647058826,
+        "f1": 0.42857142857142855,
+        "support": 17
+      },
+      "I am unattractive": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am undesirable, unwanted": {
+        "precision": 0.18181818181818182,
+        "recall": 0.15384615384615385,
+        "f1": 0.16666666666666669,
+        "support": 13
+      },
+      "I am unlovable": {
+        "precision": 0.6,
+        "recall": 0.11538461538461539,
+        "f1": 0.1935483870967742,
+        "support": 26
+      },
+      "I am worthless, waste": {
+        "precision": 0.2222222222222222,
+        "recall": 0.3333333333333333,
+        "f1": 0.26666666666666666,
+        "support": 6
+      },
+      "I don't deserve to live": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      }
+    }
+  },
+  "core_beliefs_major": {
+    "n": 48,
+    "micro": {
+      "precision": 0.6694915254237288,
+      "recall": 0.9875,
+      "f1": 0.797979797979798
+    },
+    "subset_accuracy": 0.3541666666666667,
+    "jaccard_mean": 0.6944444444444445,
+    "label_space_size": 3
+  },
+  "mapping": {
+    "patient_id_to_source_id": "id + '-2'"
+  },
+  "resume": {
+    "total": 48
+  }
+}
+2026-01-20 18:24:03,626 | INFO | 
+Saved final means to: output_deepseek\final_means.json

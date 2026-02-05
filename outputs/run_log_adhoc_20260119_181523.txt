@@ -1,0 +1,86 @@
+Using description: HISTORY:
+- Long-standing friendship with Jersey, who has had multiple surgeries related to disabilities.
+- The patient has previously provided support during Jersey's medical procedures and recovery.
+- Ongoing conflict with roommate Ashby over household issues.
+
+SITUATION:
+- The kitchen becomes dirty because Ashby does not take out the trash after cooking.
+- The patient has tried to communicate with Ashby about it, but the issue continues. with ID=9-2
+Top results (by metadata similarity):
+  - sim=0.704 | title='Patient "Ju", Session October 30, 2012: Client is concerned about her roommate's' | file='1004824673.txt'
+  - sim=0.692 | title='Session 2: Client only knows himself as a depressed person. He feels he does not' | file='1000013629.txt'
+  - sim=0.655 | title='Verilogue session: Client is experiencing anxiety and anticipation about retirem' | file='1001083996.txt'
+  - sim=0.638 | title='Patient "S" Session October 23, 2012: Client has been unhappy with her living ar' | file='1004798931.txt'
+  - sim=0.631 | title='Patient "Ju", Session June 04, 2012: Client talks about a cousin who has created' | file='1004564957.txt'
+  - sim=0.625 | title='Patient "B", Session September 13, 2012: Client is having problems concentrating' | file='1004798717.txt'
+  - sim=0.621 | title='Patient "R" Session August 20, 2012: Client is very upset with her roommate and ' | file='1004687818.txt'
+  - sim=0.611 | title='Patient "S" Session April 16, 2012: Client is having a hard time with her roomma' | file='1004538668.txt'
+  - sim=0.608 | title='Verilogue session: Client is worried about finances. Her anxiety and weight are ' | file='1002565877.txt'
+  - sim=0.601 | title='Verilogue session: Client is considering a medication increase due to the stress' | file='1002565896.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.704 | file='1004824673.txt' | title='Patient "Ju", Session October 30, 2012: Client is concerned about her roommate's'
+  - sim=0.692 | file='1000013629.txt' | title='Session 2: Client only knows himself as a depressed person. He feels he does not'
+  - sim=0.655 | file='1001083996.txt' | title='Verilogue session: Client is experiencing anxiety and anticipation about retirem'
+Using top selected file for transcript: '1004824673.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient has a long-standing friendship with Jersey, who has undergone multiple surgeries related to disabilities. The patient has been a supportive figure during Jersey's medical procedures and recovery. Additionally, the patient is experiencing ongoing conflict with their roommate, Ashby, over household issues, specifically related to cleanliness and shared responsibilities.
+
+**Current Situation:**
+The patient is dealing with a persistent issue where the kitchen becomes dirty because Ashby does not take out the trash after cooking. Despite attempts to communicate with Ashby about this issue, it remains unresolved.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions due to the ongoing conflict with Ashby. The repeated failure to resolve the issue may lead to feelings of frustration and irritation. The patient might feel anxious or tense about approaching Ashby, given the history of unresolved conflicts. The emotional burden of supporting Jersey through medical challenges could also contribute to feelings of being overwhelmed or emotionally drained.
+
+**Cognitive Patterns:**
+The patient may engage in ruminative thinking, particularly about the unresolved household issues with Ashby. This could manifest as persistent thoughts about fairness and shared responsibilities, potentially leading to cognitive distortions such as "all-or-nothing" thinking or catastrophizing the situation. The patient might also experience self-doubt or question their communication effectiveness, given the lack of resolution.
+
+**Behavioral Responses:**
+In response to the ongoing conflict, the patient may withdraw from interactions with Ashby to avoid confrontation or further conflict. The patient might also procrastinate addressing the issue, hoping it will resolve itself or become less bothersome over time. Alternatively, the patient might seek reassurance from others or engage in problem-solving discussions with friends or support networks to gain perspective on the situation.
+
+**Coping Styles:**
+The patient appears to utilize problem-solving as a coping strategy, as evidenced by attempts to communicate with Ashby about the household issues. However, the lack of resolution may lead to avoidance behaviors or a tendency to internalize the conflict, resulting in increased stress. The patient might also rely on social support, as seen in their supportive role with Jersey, to manage emotional distress.
+
+**Conclusion:**
+The ongoing conflict with Ashby over household responsibilities likely contributes to significant emotional and cognitive stress for the patient. The patient's supportive role with Jersey may further compound feelings of being overwhelmed. Addressing these issues through structured communication strategies and exploring effective coping mechanisms could be beneficial. Cognitive Behavioral Therapy (CBT) techniques, such as cognitive restructuring and assertiveness training, may help the patient manage their emotional responses and improve communication with Ashby.
+Summary da mistral_.csv: The client discusses their roommate Ashby's sudden change in behavior, including her lack of cleaning and leaving food containers around the living space. The client expresses concern for Ashby, as she has previously mentioned feeling suicidal and hiding it from her psychiatrist. Ashby has also stopped doing other household chores and has been reluctant to address issues with their landlord regarding the deteriorating state of their house. The client feels uncertain about how to approach the situation and is worried about potentially triggering a suicidal episode or an argument. Ashby has a history of hiding her emotional struggles and using deflection as a response to conflict. The client expresses a desire to understand what's going on with Ashby but is also anxious about the potential outcomes of confronting her.
+The client expresses concern about upcoming medical leave and potential conflicts with their partner, Ashby. They describe Ashby's behavior, including answering client's questions as if she knows their thoughts and feelings, and expressing resentment towards the client's time off. The client feels anxious and intimidated in their interactions with Ashby, and worries about the impact of their medical leave on their relationship. They also mention past arguments that escalate and become unproductive, with Ashby using emotional blackmail. The client expresses a desire for clear guidance on how to handle the situation but feels unable to effectively communicate with Ashby. The therapist suggests that focusing on Ashby's behavior may be a way for the client to avoid addressing their own emotions and feelings about the situation. The session ends with the client discussing scheduling and availability for future therapy appointments.
+
+ REFINED CCD: description + report
+{
+  "history": "The patient has a history of being a supportive figure for Jersey, who has disabilities and has undergone multiple surgeries. This caregiving role may contribute to the patient's sense of responsibility and emotional burden. The patient is also experiencing ongoing conflict with their roommate Ashby over household cleanliness, specifically regarding the kitchen and trash. The patient has previously attempted to resolve the issue through communication, but it remains unresolved, possibly leading to feelings of frustration and self-doubt.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I try to communicate my needs and nothing changes, it means I can't make a difference. If others ignore my requests, it must be because what I say isn't important. I have to take on responsibility myself or things will fall apart.",
+  "intermediate_belief_depression": "If I can't even get my roommate to listen or change, maybe nothing I do will ever work.",
+  "coping_strategies": [
+    "The patient attempts problem-solving by communicating with Ashby, but when this fails, they may withdraw or avoid further confrontation. They might ruminate about the situation, internalize the conflict, and seek reassurance or perspective from friends. There is a tendency to procrastinate addressing the issue, hoping it will resolve itself."
+  ],
+  "situation": "The kitchen becomes dirty because Ashby does not take out the trash after cooking. The patient has tried to communicate with Ashby about it, but the issue continues.",
+  "auto_thought": "No matter how many times I bring this up, nothing changes. I'm the only one who cares about keeping things clean.",
+  "emotion": [
+    "frustrated",
+    "irritated",
+    "anxious",
+    "tense",
+    "overwhelmed"
+  ],
+  "behavior": "I avoid talking to Ashby about it again. I withdraw from interacting with Ashby and may clean up the mess myself. Sometimes I vent to friends or ruminate about the situation."
+}

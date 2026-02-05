@@ -1,0 +1,30 @@
+{
+  "name": "Patient X",
+  "id": "12345",
+  "type": [
+    "CBT",
+    "Workplace Stress"
+  ],
+  "history": "Multiple past jobs involved micromanagement. Reports self-blame in work contexts.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must perform perfectly to avoid criticism.",
+  "intermediate_belief_depression": "If I make mistakes, I will be criticized and feel worthless.",
+  "coping_strategies": "Avoidance of tasks and procrastination due to fear of making mistakes.",
+  "situation": "Experiencing micromanagement at the workplace and considering resigning.",
+  "auto_thought": "I can't do anything right; everything is going wrong.",
+  "emotion": [
+    "Frustration",
+    "Helplessness",
+    "Anxiety"
+  ],
+  "behavior": "Avoidance of tasks, procrastination, and considering resignation.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

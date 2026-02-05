@@ -1,0 +1,27 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Relationships sometimes shift into romantic connections. Past conflict in relationships following expressions of anger. Complex relationship with parents involving obligations.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake, I will be criticized and rejected.",
+  "intermediate_belief_depression": "I can't do anything right, and others will see my failures.",
+  "coping_strategies": "Avoidance and procrastination to prevent potential mistakes and criticism.",
+  "situation": "Difficulty completing work tasks due to fear of making mistakes. Procrastination and avoidance impacting productivity.",
+  "auto_thought": "If I try and fail, everyone will see I'm not good enough.",
+  "emotion": [
+    "Anxiety",
+    "Fear"
+  ],
+  "behavior": "Procrastination and avoidance of tasks."
+}

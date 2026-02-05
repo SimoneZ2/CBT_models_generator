@@ -1,0 +1,46 @@
+{
+  "name": "CBT Cognitive Conceptualization for Client Contemplating Father's Burial Wishes",
+  "id": "49-1",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a longstanding pattern of complex and strained family relationships, with a father who often created misery and expressed dissatisfaction, and a maternal grandmother who negatively impacted the family, especially the client's mother. These intergenerational dynamics have contributed to a sense of emotional burden and difficulty expressing emotions openly. The client has likely internalized patterns of emotional suppression and self-doubt, shaped by witnessing ongoing familial conflict and distress.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't fulfill my father's wishes exactly as expected, I will let my family down and prove that I am incapable of managing important responsibilities. I must not show any weakness or uncertainty, or others will see me as inadequate. Meeting family obligations is the only way to avoid further conflict and disappointment.",
+  "intermediate_belief_depression": "If I fail to manage these responsibilities, it will confirm that I am helpless and nothing I do can improve my family's situation. No matter how hard I try, I will always fall short and feel overwhelmed by the family's expectations.",
+  "coping_strategies": "The client tends to avoid or procrastinate on making decisions about the burial arrangements, withdrawing from the process to escape stress. They may seek reassurance from others to alleviate self-doubt and oscillate between intense focus and distraction as a way to cope with feeling overwhelmed.",
+  "situation": "Contemplating the father's wishes for burial in Nepal and the responsibilities involved.",
+  "auto_thought": "I'm not sure I can handle all of this—what if I mess it up and everyone blames me? This is too much for me, and I can't make it right.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "sad",
+    "frustrated",
+    "helpless"
+  ],
+  "behavior": "I put off making decisions about the burial arrangements. I avoid talking to family members about the details. Sometimes I ask others what they think I should do, hoping for reassurance.",
+  "rationale": "The report notes the client 'might feel anxious about fulfilling the father's burial wishes,' experience 'self-doubt,' and 'rumination,' and engage in 'avoidance behaviors' such as procrastination and seeking reassurance. The emotional impact is described as 'anxiety, sadness, and frustration,' and the client is said to struggle with 'the emotional burden it imposes.' The history of strained family relationships and emotional suppression is highlighted, supporting the core and intermediate beliefs.",
+  "core_belief_predictions": {
+    "source_id": "49-1",
+    "major_pred_set": [
+      "helpless"
+    ],
+    "fine_pred_set": [
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

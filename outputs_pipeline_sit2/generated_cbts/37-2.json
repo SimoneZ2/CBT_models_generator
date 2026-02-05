@@ -1,0 +1,53 @@
+{
+  "name": "CBT Cognitive Conceptualization for Labor Dispute Client",
+  "id": "37-2",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a history of a past labor dispute in a previous workplace, which likely shaped their sensitivity to fairness and authority issues. Ongoing concerns about fairness, pay, and authority at work continue to be salient. The repeated experience of perceived injustice and lack of recognition may have contributed to a sense of being undervalued and powerless, as suggested by the client's emotional reactions and cognitive patterns.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not treated fairly or my efforts are not acknowledged, then it means I am not valued and I have no control over my situation. I must protect myself from being taken advantage of, because otherwise I will be ignored and disrespected. If authority figures do not compensate me properly, it confirms that my needs do not matter.",
+  "intermediate_belief_depression": "If I keep being treated unfairly and nothing changes, then there is no point in trying because nothing I do will make a difference. I might as well give up, since my efforts are always overlooked.",
+  "coping_strategies": "The client tends to ruminate about the unfairness and withdraws from social interactions to manage stress. They may avoid direct confrontation with authority figures and seek reassurance or validation from trusted individuals. There is a pattern of venting frustrations and possibly procrastinating on overwhelming tasks.",
+  "situation": "Being asked to work beyond regular hours without additional compensation during an ongoing labor dispute.",
+  "auto_thought": "This is so unfair—no matter what I do, they just take advantage of me. I can't make them see my worth.",
+  "emotion": [
+    "frustrated",
+    "resentful",
+    "anxious",
+    "overwhelmed",
+    "helpless",
+    "demoralized"
+  ],
+  "behavior": "I avoid talking to my supervisor about the extra hours. I vent my frustrations to a colleague. I withdraw from work-related discussions and procrastinate on tasks.",
+  "rationale": "\"The demand to work extra hours without compensation may evoke feelings of frustration and resentment, particularly given the history of labor disputes.\" \"The lack of fairness and recognition in the workplace could lead to feelings of being undervalued and disrespected, contributing to a sense of helplessness and demoralization.\" \"The patient may be engaging in cognitive patterns such as ruminating over the perceived unfairness and lack of control in their work environment.\" \"In response to the stressors at work, the patient may be withdrawing from social interactions or avoiding discussions about work-related issues to manage their stress.\"",
+  "core_belief_predictions": {
+    "source_id": "37-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am a failure, loser",
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

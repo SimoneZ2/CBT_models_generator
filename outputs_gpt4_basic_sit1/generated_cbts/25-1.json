@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Works in an educational setting with children who have learning disabilities. Describes being pampered by parents and having minimal consequences earlier in life. Ongoing conflicts with authority figures.",
+  "helpless_belief": [
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet expectations, I will be seen as a failure.",
+  "intermediate_belief_depression": "I am not capable of making a difference.",
+  "coping_strategies": "Avoids confrontation and may not assert needs or boundaries.",
+  "situation": "Encouraging students to socialize and participate in campus activities, with results falling short of expectations.",
+  "auto_thought": "I am not effective in helping my students.",
+  "emotion": [
+    "Frustration",
+    "Anxiety"
+  ],
+  "behavior": "Attempts to motivate students but feels discouraged when outcomes are not as expected."
+}

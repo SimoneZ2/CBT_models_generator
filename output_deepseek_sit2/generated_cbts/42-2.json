@@ -1,0 +1,30 @@
+{
+  "name": "Patient 42",
+  "id": "42",
+  "type": [
+    "performance anxiety",
+    "parental expectations"
+  ],
+  "history": "Recurrent grad school dreams about being unprepared for thesis defense. Father described as having high expectations.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am a disappointment"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "Any criticism proves I'm not good enough.",
+  "intermediate_belief_depression": "I'll never meet the high standards set for me.",
+  "coping_strategies": [
+    "Perfectionism, anticipatory anxiety, defensiveness."
+  ],
+  "situation": "Receiving criticism during a work performance review.",
+  "auto_thought": "\"Here it comes. I knew I wasn't cutting it. My father was right.\"",
+  "emotion": [
+    "shame",
+    "anxiety",
+    "defeat"
+  ],
+  "behavior": "Nods silently, doesn't ask clarifying questions, leaves review and ruminates for hours."
+}

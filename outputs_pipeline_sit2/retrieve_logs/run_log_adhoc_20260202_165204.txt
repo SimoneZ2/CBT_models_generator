@@ -1,0 +1,85 @@
+Using description: HISTORY:
+- Rachel has recurring relationship problems with her husband Ivan.
+- Work-related stress.
+- Sister Emma often takes a caring role toward Rachel.
+- Father had a successful career and strong work ethic, influencing Rachel's expectations.
+- Recently laid off and currently looking for new employment.
+
+SITUATION:
+- Received a job rejection email while searching for work. with ID=19-2
+Sample results (metadata similarity):
+  - sim=0.089 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.100 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.100 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.102 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.103 | title='Verilogue session: Client notices an improvement more so in his behavior rather ' | file='1003075059.txt'
+  - sim=0.108 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.111 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.117 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+  - sim=0.121 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+  - sim=0.122 | title='Verilogue session: Client has recently experienced some intense mood cycling; sh' | file='1003009209.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.089 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.100 | file='1003075047.txt' | title='Verilogue session: Client's medications have drastically reduced her sex drive'
+  - sim=0.100 | file='1003009210.txt' | title='Verilogue session: Client feels that medicine cannot help her but, she is willin'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+Rachel, a client with a history of recurring relationship problems with her husband Ivan and work-related stress, recently faced a significant setback when she received a job rejection email. This event seems to have triggered a cascade of thoughts and emotions, which she explored during her session. Rachel's background includes a strong influence from her father, who had a successful career and instilled in her high expectations for herself. This familial pressure appears to contribute to her current stress, especially as she navigates the job market after being laid off.
+
+During the session, Rachel's conversation was heavily focused on her engagement with mathematics, which seems to serve as both a coping mechanism and a source of intellectual fulfillment. She described her experience with tutoring precalculus, noting, "It's nice to feel like, 'OK, for some reason—probably just a lot of hard work—for some reason this seems clear to me, this material.'" This suggests that her involvement in teaching and learning math provides her with a sense of competence and mastery, counterbalancing the feelings of inadequacy triggered by her job search challenges.
+
+Rachel's narrative revealed a pattern of seeking reassurance through intellectual pursuits, as she expressed a need to "draw, draw, draw, draw, draw" to understand complex concepts. This behavior indicates a reliance on structured, logical activities to manage her anxiety and uncertainty. Her detailed descriptions of mathematical proofs and the satisfaction derived from solving them highlight a cognitive strategy to regain control and clarity in her life.
+
+However, there is a noticeable avoidance of discussing her relationship with Ivan or the emotional impact of the job rejection. Instead, Rachel immersed herself in the technicalities of math, stating, "I feel like everything we're doing is sort of chapter zero," which metaphorically suggests she views her current life situation as a foundational stage for future growth. This avoidance might be a defense mechanism to shield herself from confronting more distressing personal issues.
+
+Rachel's sister, Emma, often takes a caring role, which might influence Rachel's tendency to downplay her vulnerabilities. The session did not touch upon this dynamic directly, but Rachel's focus on intellectual achievements could be a way to assert independence and competence, distancing herself from perceived dependency.
+
+Throughout the session, Rachel's language was rich with mathematical metaphors, reflecting her cognitive style and possibly her way of making sense of the world. She mentioned feeling "in a bubble" and "self-conscious" about her preoccupation with math, indicating an awareness of her tendency to retreat into intellectualism. This introspection suggests a potential area for therapeutic exploration, particularly in addressing how her intellectual pursuits might serve as both a refuge and a barrier to emotional processing.
+
+The session concluded with Rachel acknowledging the universality of math, stating, "There's a notion of subjectivities and... like we really understand something, right?" This reflects her desire for certainty and understanding in a world that often feels unpredictable and overwhelming. As she continues therapy, exploring the balance between her intellectual pursuits and emotional needs could be crucial in addressing her relationship issues and work-related stress.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "Rachel has a longstanding pattern of relationship difficulties with her husband Ivan and experiences significant work-related stress. Her father’s successful career and strong work ethic have shaped her high self-expectations, contributing to her current distress, especially after being laid off. She tends to immerse herself in intellectual activities, particularly mathematics, as a way to feel competent and in control. Her sister Emma often takes a caring, possibly protective, role, which may influence Rachel’s tendency to downplay her vulnerabilities and assert independence through achievement. Rachel avoids discussing emotional issues directly, preferring to focus on structured, logical pursuits.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I do not succeed or meet high standards, I will be seen as a failure and others will think less of me. Achieving mastery and understanding is the only way I can prove my worth and avoid feeling inadequate. If I show vulnerability or depend on others, I risk being seen as weak or incapable.",
+  "intermediate_belief_depression": "If I keep failing to secure a job, it means I am fundamentally incapable and things will never improve for me. No matter how hard I try, I will always fall short of what is expected, so there is no point in hoping for better outcomes.",
+  "coping_strategies": [
+    "Rachel immerses herself in intellectual activities, such as mathematics and tutoring, to regain a sense of competence and control when distressed. She avoids discussing or confronting emotional pain, particularly regarding her job loss and relationship issues, by focusing on structured, logical pursuits. She seeks reassurance through mastery of complex concepts, using achievement as a buffer against feelings of inadequacy."
+  ],
+  "situation": "Received a job rejection email while searching for work.",
+  "auto_thought": "I failed again—this just proves I'm not good enough. No matter how hard I try, I can't measure up.",
+  "emotion": [
+    "disappointed",
+    "ashamed",
+    "anxious",
+    "self-conscious",
+    "down",
+    "inadequate"
+  ],
+  "behavior": "She immediately turns her attention to working on math problems and tutoring, spending extra time on intellectual tasks. She avoids talking about her feelings regarding the rejection and does not share her distress with her husband or sister."
+}

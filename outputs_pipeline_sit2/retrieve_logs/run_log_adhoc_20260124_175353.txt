@@ -1,0 +1,91 @@
+Using description: HISTORY:
+- History of stressful and controlling interactions with the patient's mother.
+- Ongoing difficult family communication and delayed sharing of significant events.
+
+SITUATION:
+- Planning for an upcoming visit from parents. with ID=23-1
+Top results (by metadata similarity):
+  - sim=0.715 | title='Verilogue session: Client lives with her mother and does not have a very healthy' | file='1001083979.txt'
+  - sim=0.713 | title='Session 16: Client discusses her problems sleeping. She talks about being more a' | file='1000122009.txt'
+  - sim=0.706 | title='Verilogue session: Client is experiencing loneliness and depression. She has bee' | file='1001084031.txt'
+  - sim=0.692 | title='Verilogue session: Client needs help making some life decisions' | file='1002565909.txt'
+  - sim=0.691 | title='Verilogue session: Client talks about money problems and her job' | file='1002565853.txt'
+  - sim=0.673 | title='Verilogue session: Client suffers from chronic pain, feelings of depression and ' | file='1001083997.txt'
+  - sim=0.669 | title='Session 405: Client feels the conflict between her husband and her parents' | file='1000393773.txt'
+  - sim=0.667 | title='Verilogue session: Client's mood has been down and depressed' | file='1003009224.txt'
+  - sim=0.663 | title='Verilogue session: Client has been doing well in school. She plans on taking the' | file='1003075056.txt'
+  - sim=0.663 | title='Verilogue session: Client is experiencing some anxiety at school' | file='1002565960.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.715 | file='1001083979.txt' | title='Verilogue session: Client lives with her mother and does not have a very healthy'
+  - sim=0.713 | file='1000122009.txt' | title='Session 16: Client discusses her problems sleeping. She talks about being more a'
+  - sim=0.706 | file='1001084031.txt' | title='Verilogue session: Client is experiencing loneliness and depression. She has bee'
+Using top selected file for transcript: '1001083979.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of stressful and controlling interactions with their mother, which has contributed to ongoing difficult family communication. The patient also experiences delays in sharing significant life events with family members. Currently, the patient is in the process of planning for an upcoming visit from their parents.
+
+**Emotional Impact:**
+The patient's history of stressful interactions with their mother likely contributes to feelings of anxiety and tension. The anticipation of the upcoming visit may exacerbate these feelings, as it could trigger memories of past controlling behaviors. The patient might feel anxious and worried about potential conflicts or criticisms during the visit. Additionally, the ongoing communication difficulties with family may lead to feelings of loneliness and isolation, as the patient may struggle to express their emotions and experiences openly.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive patterns characterized by negative automatic thoughts and assumptions about family interactions. For instance, the patient might anticipate criticism or disapproval from their mother, leading to heightened anxiety. The delayed sharing of significant events suggests a cognitive tendency to avoid potential conflict or judgment, possibly due to past experiences where sharing led to negative outcomes. This avoidance can reinforce a belief that open communication is risky or unproductive.
+
+**Behavioral Responses:**
+In response to the stress and anxiety associated with family interactions, the patient may engage in avoidance behaviors. This could include delaying communication or withholding personal information to prevent conflict. The patient might also withdraw emotionally during family interactions, limiting their engagement to avoid potential criticism. Additionally, the patient may ruminate on past interactions, which can perpetuate feelings of distress and hinder effective problem-solving.
+
+**Coping Styles:**
+The patient may rely on avoidance as a primary coping mechanism, both in terms of delaying communication and emotionally distancing themselves during interactions. This coping style, while protective in the short term, may contribute to ongoing communication difficulties and emotional distress. The patient might also seek reassurance from others outside the family, such as friends or therapists, to validate their experiences and emotions.
+
+**Recommendations:**
+1. **Cognitive Restructuring:** Encourage the patient to identify and challenge negative automatic thoughts related to family interactions. This can help reduce anxiety and promote more balanced thinking.
+
+2. **Communication Skills Training:** Provide the patient with tools to improve assertive communication, enabling them to express their needs and emotions more effectively during family interactions.
+
+3. **Behavioral Experiments:** Encourage the patient to gradually share small, non-threatening pieces of information with family members to test assumptions about their reactions and build confidence in communication.
+
+4. **Emotional Regulation Strategies:** Teach the patient techniques such as mindfulness or relaxation exercises to manage anxiety and emotional distress, particularly in anticipation of the upcoming visit.
+
+5. **Support Network Utilization:** Encourage the patient to seek support from trusted individuals outside the family to process emotions and gain perspective on family dynamics.
+
+By addressing these areas, the patient can work towards improving their emotional well-being and developing healthier family communication patterns.
+Summary da mistral_.csv: The patient discussed their mother's controlling behavior and long working hours, which has been a constant issue throughout their life. The mother's exhaustion from work leads to her taking out her frustrations on the patient. The patient mentioned their mother's health issues, including diabetes and high blood pressure, and her lack of a social life or romantic relationships. The patient also shared that their father was a drug user and passed away when they were young, and they have limited contact with their father's side of the family.
+The patient discusses their strained relationships with their aunts and mother, attributing the estrangement to misunderstandings and conflicts. The patient expresses feelings of being ignored and unwanted by their family. The patient also talks about their experiences with medication, specifically Lamictal and Geodon, and their impact on their energy levels and social interactions. The patient mentions a lack of close relationships and feelings of being misunderstood by others, leading to feelings of isolation and loneliness. The patient also mentions their mother's critical behavior and the impact it has on their self-esteem and motivation. The patient and doctor discuss the patient's sleeping patterns and weight loss. The session ends with a plan for regular weekly meetings.
+
+ REFINED CCD: description + report
+{
+  "history": "The patient has a history of stressful and controlling interactions with their mother, which has led to ongoing difficult family communication. There is a pattern of delaying the sharing of significant life events with family members, likely due to previous negative experiences. These patterns have contributed to the patient's anxiety and avoidance around family interactions. The anticipation of parental visits tends to trigger memories of past controlling behaviors and criticism.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I share openly or let my guard down with my parents, I will be criticized or controlled, so I must be careful and withhold information to protect myself. It's safer to avoid conflict by not expressing my true feelings. If I don't manage the visit perfectly, things will go badly.",
+  "intermediate_belief_depression": "If I can't communicate openly with my family and things never improve, it means I will always feel alone and misunderstood, so there's no point in trying.",
+  "coping_strategies": [
+    "The patient tends to avoid direct communication and delays sharing personal information with family to minimize the risk of conflict or criticism. They emotionally withdraw during family interactions and may ruminate on past negative experiences. The patient sometimes seeks reassurance from others outside the family to validate their feelings."
+  ],
+  "situation": "Planning for an upcoming visit from parents.",
+  "auto_thought": "I'm going to get criticized or controlled again if I don't handle everything perfectly. I can't relax or be myself around them.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "worried",
+    "lonely",
+    "on edge"
+  ],
+  "behavior": "I put off making plans or avoid discussing details with my parents. I keep my feelings and opinions to myself during conversations. I seek reassurance from friends about how to handle the visit."
+}

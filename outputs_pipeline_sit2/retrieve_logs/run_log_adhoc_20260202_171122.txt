@@ -1,0 +1,82 @@
+Using description: HISTORY:
+- Forms close relationships with friends who experience significant stressors.
+- A friend is dealing with academic pressures and parenting an autistic child.
+
+SITUATION:
+- Multiple friends are distressed at the same time, and the patient is involved in supporting them. with ID=46-2
+Sample results (metadata similarity):
+  - sim=0.115 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.178 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.191 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.204 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.209 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.221 | title='Patient "L", Session May 09, 2012: Client has been feeling good about her work; ' | file='1004564967.txt'
+  - sim=0.222 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.225 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+  - sim=0.228 | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c' | file='1001114245.txt'
+  - sim=0.230 | title='Session 17: Client sees herself as having an overbearing, aggressive personality' | file='1000133903.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.115 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.178 | file='1000088127.txt' | title='Session 18: Client tells how he despises people in general.  He seems to feel un'
+  - sim=0.191 | file='1000275936.txt' | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a '
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of forming close relationships with friends experiencing significant stressors, is currently navigating a situation where multiple friends are distressed simultaneously. This has led to the client being heavily involved in supporting them, which seems to be a recurring pattern in their interpersonal dynamics. During the session, the client did not directly address these relationships but instead focused extensively on their experiences with mathematics and teaching, suggesting a potential avoidance of discussing the emotional weight of their current social obligations.
+
+Throughout the session, the client expressed a deep engagement with mathematical concepts, describing the process of learning and teaching as both challenging and rewarding. They mentioned feeling a sense of accomplishment when they could "teach the material and be helpful" to others, indicating a strong identification with the role of a helper or educator. This aligns with their history of supporting friends in distress, suggesting that the client derives a sense of self-worth and satisfaction from being in a position to assist others.
+
+The client also described their struggle with the conciseness required in proof-based mathematics, noting that they prefer to "display the process of thinking" rather than simply presenting the final answer. This preference for transparency and process over end results may reflect a broader cognitive pattern in which the client values understanding and exploration over definitive conclusions. This could be linked to their interpersonal style, where they may focus on the ongoing process of supporting friends rather than seeking resolution to their friends' issues.
+
+Interestingly, the client repeatedly returned to the theme of learning and understanding, describing moments of clarity as "a launching pad to do interesting stuff" and expressing satisfaction in overcoming initial confusion. This narrative of progression from confusion to understanding may mirror their approach to interpersonal challenges, where they might initially feel overwhelmed by their friends' problems but eventually find a way to contribute meaningfully.
+
+Despite the heavy focus on mathematics, there were moments when the client seemed to touch on more personal themes, such as feeling "in a dark room fumbling for the light switch," which could metaphorically relate to their current emotional state amidst their friends' distress. However, the client quickly shifted back to discussing mathematical concepts, suggesting a possible avoidance of deeper emotional exploration.
+
+The session also highlighted the client's intellectual curiosity and enjoyment of learning, as they described watching a French math lecture and feeling like they "speak math-French." This enthusiasm for learning and intellectual engagement might serve as a coping mechanism, providing a sense of control and achievement in contrast to the potentially overwhelming demands of their social environment.
+
+Overall, the client's focus on mathematics and teaching during the session, coupled with their avoidance of directly addressing their friends' distress, suggests a complex interplay between their intellectual pursuits and interpersonal responsibilities. The client's cognitive patterns, such as valuing process over outcome and finding satisfaction in teaching, appear to be consistent across both their academic and social lives. However, their tendency to avoid discussing emotional topics directly may indicate a need for further exploration of how they manage the emotional demands of supporting multiple distressed friends.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of forming close relationships with friends who are experiencing significant stressors. They are currently involved in supporting multiple friends who are distressed, which mirrors their recurring interpersonal dynamics. The client tends to focus on intellectual pursuits, such as mathematics and teaching, and often avoids directly discussing the emotional weight of their social obligations. They derive a sense of self-worth from being helpful and teaching others, and prefer ongoing processes over definitive resolutions. There is evidence of avoidance when it comes to exploring their own emotional responses to their friends' distress.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not actively supporting my friends when they are distressed, I am failing them and they may not value me. To be a good friend, I must always be available to help, even if it feels overwhelming. My role is to be the one who brings clarity and support, just as I do when teaching or explaining things to others.",
+  "intermediate_belief_depression": "If I can't help my friends or make a real difference, it means I'm not good enough and I'm letting everyone down. When I feel overwhelmed by their problems and can't find a solution, it confirms that I'm failing as a friend and as a person.",
+  "coping_strategies": [
+    "The client immerses themselves in intellectual activities like mathematics and teaching to avoid directly confronting the emotional burden of supporting distressed friends. They focus on the process of helping and understanding, rather than seeking resolution, and tend to shift away from discussing their own feelings. This pattern allows them to maintain a sense of control and achievement while avoiding emotional discomfort."
+  ],
+  "situation": "Multiple friends are distressed at the same time, and the patient is involved in supporting them.",
+  "auto_thought": "I have to help everyone right now or I'm letting them down. If I can't be there for them, they'll think I'm not a good friend.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "guilty",
+    "tense",
+    "worried",
+    "responsible"
+  ],
+  "behavior": "I immediately reach out to check on each friend and offer advice or support. I put aside my own needs and focus on what they need from me. When it feels too much, I distract myself by thinking about or engaging in math or teaching activities."
+}

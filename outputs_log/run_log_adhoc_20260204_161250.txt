@@ -1,0 +1,73 @@
+Using description: HISTORY:
+- Recurrent stomachaches and physical symptoms associated with anxiety and stress.
+- Past difficulties involving weight management, sexuality, and academic performance.
+- Reports a transformation during college.
+- Reports seeking control in relationships.
+
+SITUATION:
+- Experiencing ongoing stomach issues and seeking reassurance about recovery. with ID=39-1
+Sample results (metadata similarity):
+  - sim=0.078 | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c' | file='1001114245.txt'
+  - sim=0.090 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.104 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.109 | title='Narrative Therapy With Children: Children can feel overtaken by family problems ' | file='1001114246.txt'
+  - sim=0.118 | title='Patient "J", Session June 08, 2012: Client arrives in a better mood than he's be' | file='1004687620.txt'
+  - sim=0.131 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.135 | title='Patient "M", Session August 21, 2012: Client is disappointed with some changes i' | file='1004687676.txt'
+  - sim=0.136 | title='Patient "L", Session May 09, 2012: Client has been feeling good about her work; ' | file='1004564967.txt'
+  - sim=0.137 | title='Session 5: Client feels like he is becoming much more honest in his relationship' | file='1000122141.txt'
+  - sim=0.145 | title='Murphy Psychotherapy Session Transcript: We know that children need lots of posi' | file='1001114248.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.078 | file='1001114245.txt' | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c'
+  - sim=0.090 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.104 | file='1000088127.txt' | title='Session 18: Client tells how he despises people in general.  He seems to feel un'
+Using LEAST related file for transcript: '1001114245.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, Joshua, a five-year-old boy, exhibits a strong desire for control and autonomy, which is evident in his play behavior during the session. His background includes recurrent stomachaches and physical symptoms linked to anxiety and stress, alongside past challenges with weight management, sexuality, and academic performance. These issues seem to have contributed to his current need for reassurance about recovery from ongoing stomach issues. During the session, Joshua frequently engages in activities that allow him to be "the boss," such as deciding who gets handcuffed and who doesn't. This behavior aligns with his history of seeking control in relationships, as he repeatedly states, "I am…ok," when managing the handcuffs, indicating a need to assert control over his environment.
+
+Joshua's play with handcuffs and keys serves as a metaphor for his internal struggle with control and helplessness. He often hides the key and then pretends to forget its location, only to reveal, "I found it," when he chooses to. This pattern suggests a coping mechanism where he creates scenarios of control and resolution, reflecting his need for reassurance and mastery over situations that might otherwise feel overwhelming. His excitement when he finds the key, "You are tricky," highlights his satisfaction in resolving these self-created challenges, mirroring his desire for control over his anxiety-related symptoms.
+
+Throughout the session, Joshua demonstrates a pattern of trying new approaches when faced with obstacles, such as when he encounters difficulty with the handcuffs and decides, "I want to undo it." This behavior indicates a resilience and willingness to problem-solve, although he sometimes expresses frustration, as seen when he exclaims, "What the heck!" when things don't work as expected. This frustration may be linked to his past difficulties with academic performance, where he might have felt similarly challenged and stressed.
+
+Joshua's interactions also reveal a tendency to avoid direct emotional expression, as he often shifts focus to play activities rather than discussing feelings. When asked to draw a picture of his family, he deflects by saying, "I don’t want to," choosing instead to engage in more structured play like tic-tac-toe. This avoidance could be a strategy to manage feelings of anxiety or discomfort, possibly stemming from his history of seeking control in relationships and his current health concerns.
+
+The session themes of control, problem-solving, and avoidance are consistent with Joshua's background and current situation. His play reflects a need to manage anxiety through control and mastery, while his avoidance of direct emotional expression suggests a coping strategy to mitigate stress. Joshua's behavior in the session provides insight into his cognitive patterns and emotional responses, highlighting areas for therapeutic focus, such as developing healthier coping mechanisms and addressing underlying anxiety related to his physical symptoms and need for reassurance.
+Summary da mistral_.csv: In this psychotherapy session, Dr. Kottman meets with a 5-year-old boy named Joshua who is feeling a lack of control in his life due to splitting time between two homes. During the session, Dr. Kottman uses play to help Joshua express his feelings and discover that he enjoys being in control. Throughout the session, Joshua uses handcuffs, keys, and other objects in play, and Dr. Kottman reflects his actions and encourages him to explore his desire to be in charge. Joshua reveals a need to show who's boss and expresses excitement when he finds new types of handcuffs. Dr. Kottman observes that Joshua figures out solutions to problems and uses what he learns in various situations. The session ends with Joshua in control of the handcuffs and keys, and Dr. Kottman hiding them from him.
+In this therapy session, Joshua asked Kottman to handcuff him and hide the key. Kottman agreed and hid the key, leading Joshua to try to find it. They repeated this process several times, with Joshua becoming increasingly creative in his attempts to find the hidden key. Kottman praised Joshua for his problem-solving skills and creativity. They also discussed the handcuffs and the idea of being in control. At one point, Joshua hid the key on Kottman, and they continued the game with Kottman trying to find it. Eventually, they ended the session with Joshua having the key and Kottman still handcuffed.
+In this therapy session chunk, the therapist (Kottman) and patient (Joshua) engage in a series of games and activities. Kottman asks Joshua for help finding a key, but he keeps it hidden, leading to a back-and-forth where they eventually give up. They then discuss the possibility of drawing a picture, with Joshua initially resistant but eventually agreeing to draw a family picture. However, he becomes uncomfortable and suggests drawing a picture of animals instead. They continue this negotiation, with Joshua eventually agreeing to draw a family picture but expressing discomfort and reluctance. They then discuss the idea of drawing a picture of a snowman family instead, which Joshua proceeds to create, adding details such as hats, arms, and snow. They continue adding details to the picture, including clouds and snow falling from the clouds. Joshua then asks for a new activity and suggests drawing a house, which they agree to do.
+In this therapy session, Joshua and Kottman engage in an imaginative activity where they discuss and create houses, mailboxes, and other related objects. Joshua expresses a desire to keep certain items and decides to clean up the room. They also discuss the use of various art supplies and the meaning behind certain objects. Joshua expresses a reluctance to end the session and leaves with the key, intending to keep it.
+In this session chunk, Kottman informs Joshua that they will next focus on finding Joshua's grandma. Joshua responds with a farewell.
+
+REFINED CCD: description + report
+{
+  "history": "Joshua has a history of recurrent stomachaches and physical symptoms linked to anxiety and stress. He has faced past challenges with weight management, sexuality, and academic performance. These issues have contributed to his current need for reassurance about recovery from ongoing stomach issues. He exhibits a strong desire for control and autonomy, often engaging in activities that allow him to be 'the boss.'",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am powerless, weak, vulnerable",
+    "I am out of control"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't have control over my environment, then I will feel overwhelmed and anxious.",
+  "intermediate_belief_depression": "If I can't manage my anxiety, then I will never feel better.",
+  "coping_strategies": [
+    "Joshua often engages in play that allows him to assert control, such as deciding who gets handcuffed. He avoids direct emotional expression by shifting focus to structured play activities. He creates scenarios where he can control the outcome, reflecting his need for reassurance and mastery."
+  ],
+  "situation": "Experiencing ongoing stomach issues and seeking reassurance about recovery.",
+  "auto_thought": "I need to make sure I am okay, or I won't get better.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense"
+  ],
+  "behavior": "Joshua engages in activities where he can assert control, such as playing with handcuffs and keys. He avoids discussing feelings by focusing on structured play like tic-tac-toe."
+}

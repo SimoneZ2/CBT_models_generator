@@ -1,0 +1,24 @@
+{
+  "name": "Workplace Dispute Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Past labor dispute in a previous workplace. Ongoing concerns related to fairness, pay, and authority at work.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must ensure fairness and authority are respected to feel secure.",
+  "intermediate_belief_depression": "If I can't ensure fairness, I am failing.",
+  "coping_strategies": "Overanalyzing work situations to find fairness and authority issues.",
+  "situation": "Reflecting on a work-related case and the response of a businessman involved.",
+  "auto_thought": "This businessman is not treating the situation fairly.",
+  "emotion": [
+    "Frustration",
+    "Anxiety"
+  ],
+  "behavior": "Ruminating over the fairness of the situation and questioning authority."
+}

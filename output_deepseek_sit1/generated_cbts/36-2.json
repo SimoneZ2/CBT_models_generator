@@ -1,0 +1,28 @@
+{
+  "name": "Patient 36",
+  "id": "36",
+  "type": [
+    "financial stress",
+    "caregiver burnout"
+  ],
+  "history": "Elevated stress from financial difficulties and relationship instability. Heavy workload covering absent coworker. Friends often have crises. Considering asking parents for therapy cost help.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I'm constantly rescuing others while my own life falls apart.",
+  "intermediate_belief_depression": "I'm drowning in others' needs with no support for my own.",
+  "coping_strategies": [
+    "Financial monitoring, considering parental help, managing multiple demands."
+  ],
+  "situation": "Discovered that their bank balance was lower than expected.",
+  "auto_thought": "I can't even manage my own finances while taking care of everyone else.",
+  "emotion": [
+    "panic",
+    "overwhelm",
+    "resentment"
+  ],
+  "behavior": "Check bank balance and discover financial shortfall."
+}

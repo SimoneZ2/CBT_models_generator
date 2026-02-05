@@ -1,0 +1,47 @@
+{
+  "name": "CBT Cognitive Conceptualization for Depressive Relapse Post-Breakup",
+  "id": "11-2",
+  "type": [
+    "depression",
+    "avoidance",
+    "relapse"
+  ],
+  "history": "The client has experienced chronic depression and isolation since late adolescence, with ongoing difficulties forming and maintaining friendships. A recent breakup preceded a depressive relapse, and the client has a history of SSRI use with recent medication adjustments. These patterns suggest longstanding struggles with connection and mood regulation, and the current episode is intensified by recent interpersonal loss.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't even focus on simple tasks I planned, it means I'm failing and there's no point in trying. If I let myself down, others will see me as incapable and unworthy. I have to be productive to prove I'm not useless.",
+  "intermediate_belief_depression": "If I can't get myself to do anything, it proves that I'm hopeless and things will never get better. If I keep failing to follow through, it means I'll always be stuck like this.",
+  "coping_strategies": "The client tends to avoid distressing feelings and thoughts by withdrawing from planned activities and engaging in passive distraction, such as watching television. This avoidance provides temporary relief but reinforces feelings of helplessness and disengagement. There is a pattern of rumination and negative self-talk that maintains the depressive cycle.",
+  "situation": "Planned a weekend for sewing and catching up on work tasks. Was unable to focus on familiar tasks and spent the day watching television.",
+  "auto_thought": "I can't even do the things I planned. I'm just wasting my time and failing again.",
+  "emotion": [
+    "sad",
+    "down",
+    "unhappy",
+    "overwhelmed",
+    "unmotivated",
+    "disengaged"
+  ],
+  "behavior": "I gave up on sewing and work tasks. I sat and watched television most of the day instead of doing what I planned.",
+  "rationale": "\"The patient's difficulty in maintaining focus on familiar tasks may reflect cognitive patterns such as 'rumination' and 'negative self-talk.' ... The inability to focus on planned tasks and the subsequent choice to watch television may indicate feelings of being 'overwhelmed, unmotivated, and disengaged.' ... The patient's behavior of withdrawing from planned activities and opting for passive entertainment like television watching may indicate a coping mechanism to manage overwhelming emotions or thoughts. ... The patient's history of isolation and chronic depression suggests a persistent experience of feeling 'sad, down, lonely, unhappy.'\"",
+  "core_belief_predictions": {
+    "source_id": "11-2",
+    "major_pred_set": [
+      "helpless"
+    ],
+    "fine_pred_set": [
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

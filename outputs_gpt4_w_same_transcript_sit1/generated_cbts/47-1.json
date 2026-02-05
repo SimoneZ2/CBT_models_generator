@@ -1,0 +1,25 @@
+{
+  "name": "Case Study",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Master's degree in engineering and experience in robotics. Past remorse related to not dedicating enough time to a project.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be successful to be valued.",
+  "intermediate_belief_depression": "If I fail, I am worthless.",
+  "coping_strategies": "Avoidance of conflict and difficult situations.",
+  "situation": "Considering launching a micro press and changing careers. Feeling uncertain about financial stability and fulfillment while comparing self to peers.",
+  "auto_thought": "I might fail and not be able to support myself.",
+  "emotion": [
+    "Anxiety",
+    "Fear"
+  ],
+  "behavior": "Avoidance of making a decision about career change."
+}

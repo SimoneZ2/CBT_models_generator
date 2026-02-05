@@ -1,0 +1,29 @@
+{
+  "history": "The client has a history of substance abuse and has completed rehabilitation, indicating both vulnerability and resilience. He reports ongoing family difficulties, especially with his mother, characterized by rejection and emotional neglect. He has struggled with obesity since childhood and has experienced bullying related to his weight. These experiences likely contribute to feelings of shame, low self-worth, and difficulties with assertiveness and boundary-setting.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake or let people down, it means I am a failure and others will reject me. I must not show weakness or inadequacy, or people will see me as unworthy. If I don't meet expectations, I will confirm what others already think about me.",
+  "intermediate_belief_depression": "If I keep failing or disappointing others, there is no hope for me to ever be accepted or valued.",
+  "coping_strategies": [
+    "He tends to avoid situations that trigger anxiety or self-doubt, such as withdrawing or procrastinating after perceived failures. He may ruminate on past negative experiences and seek reassurance, but struggles to assert his needs due to fear of rejection. These strategies provide temporary relief but reinforce feelings of inadequacy and dependency."
+  ],
+  "situation": "Missed an alarm and woke up late for work.",
+  "auto_thought": "I can't even get up on time—I'm such a screw-up. Everyone at work will think I'm unreliable and useless.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "disappointed",
+    "frustrated",
+    "guilty"
+  ],
+  "behavior": "He hesitates before getting out of bed, ruminates about what his coworkers will think, and considers calling in sick or making excuses. He may avoid checking his phone or contacting his workplace immediately.",
+  "source_text_id": "1004687628.txt"
+}

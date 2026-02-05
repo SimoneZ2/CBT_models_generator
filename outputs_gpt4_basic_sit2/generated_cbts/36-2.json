@@ -1,0 +1,27 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Elevated stress related to financial difficulties and relationship instability. Heavy workload due to technical issues at work and covering responsibilities when coworker Chet is absent. Friends often have crises and make emotional demands. Considering asking parents for financial help to cover therapy costs around an upcoming birthday. Upcoming convention and upcoming visit with parents.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must handle everything on my own or I will be seen as weak.",
+  "intermediate_belief_depression": "If I can't manage my stress, I am failing.",
+  "coping_strategies": "Avoidance of asking for help, overworking to compensate for perceived inadequacies.",
+  "situation": "At a convention, interacting with demanding friends while managing personal stress.",
+  "auto_thought": "I can't handle all these demands; I'm going to fail.",
+  "emotion": [
+    "Anxiety",
+    "Overwhelm"
+  ],
+  "behavior": "Attempts to manage stress by overcommitting and avoiding asking for help."
+}

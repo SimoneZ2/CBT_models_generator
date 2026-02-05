@@ -1,0 +1,85 @@
+Using description: HISTORY:
+- Ongoing interpersonal difficulties involving a partner named Ivan and his family.
+- Recent trust and betrayal issues involving Ivan.
+- Ongoing contact with Ivan's family.
+
+SITUATION:
+- During an interaction with Ivan's family, the mother says "boys will be boys" and asks the patient to "forgive and forget". with ID=22-2
+Top results (by metadata similarity):
+  - sim=0.722 | title='Session 3: Client talks about being a 'tomboy' as a child and how that has effec' | file='1000017862.txt'
+  - sim=0.718 | title='Session 1: Client feels that she is in a "stalemate" in life, she is frustrated ' | file='1000061050.txt'
+  - sim=0.711 | title='Session 5: Client is curious as to who his father was. He has been trying to tal' | file='1000016540.txt'
+  - sim=0.710 | title='Session 366: Client feels like she is fighting against the therapy and therapist' | file='1000393749.txt'
+  - sim=0.709 | title='Session 437: Client feels as if she is easily replaceable. She puts herself into' | file='1000395258.txt'
+  - sim=0.704 | title='Session 12: Client feels like his life is quite a mess. He needs to set some goa' | file='1000134009.txt'
+  - sim=0.704 | title='Session 766: Client feels guilty and inadequate' | file='1000398004.txt'
+  - sim=0.701 | title='Session 3: Client is upset in his relationship with his mother, her feels like h' | file='1000016538.txt'
+  - sim=0.691 | title='Session 2: Client discusses her relationship with her boyfriend and tells therap' | file='1000094390.txt'
+  - sim=0.691 | title='Verilogue session: Client's mood has been down and depressed' | file='1003009224.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=3 partial_match=7
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.711 | file='1000016540.txt' | title='Session 5: Client is curious as to who his father was. He has been trying to tal'
+  - sim=0.704 | file='1000134009.txt' | title='Session 12: Client feels like his life is quite a mess. He needs to set some goa'
+  - sim=0.701 | file='1000016538.txt' | title='Session 3: Client is upset in his relationship with his mother, her feels like h'
+Using top selected file for transcript: '1000016540.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is experiencing ongoing interpersonal difficulties involving a partner named Ivan and his family. Recent events have highlighted trust and betrayal issues with Ivan, which have been further complicated by interactions with Ivan's family. During a recent interaction, Ivan's mother made dismissive comments, suggesting the patient should "forgive and forget" Ivan's behavior, which has likely intensified the patient's emotional distress.
+
+**Emotional Impact:**
+The patient is likely experiencing a range of emotions due to the described interpersonal difficulties. The trust and betrayal issues with Ivan may lead to feelings of hurt, disappointment, and sadness. The dismissive attitude of Ivan's mother, encapsulated in the phrase "boys will be boys," could evoke feelings of invalidation and frustration, as it minimizes the patient's experience and emotions. This interaction may also contribute to feelings of isolation or loneliness, as the patient might perceive a lack of support from Ivan's family.
+
+**Cognitive Patterns:**
+The patient may be engaging in cognitive patterns characterized by rumination and self-doubt. The betrayal by Ivan could lead to repetitive negative thoughts about the relationship and the patient's self-worth. The suggestion to "forgive and forget" might trigger cognitive dissonance, as the patient struggles to reconcile their feelings of betrayal with the expectation to move past the incident without resolution. This cognitive conflict can exacerbate feelings of confusion and helplessness.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive challenges, the patient might exhibit behaviors such as withdrawing from social interactions, avoiding discussions about the relationship, or seeking reassurance from others. The patient may also engage in behaviors aimed at maintaining peace, such as acquiescing to Ivan's family's expectations, despite personal discomfort. This could lead to a pattern of people-pleasing or conflict avoidance, which may further entrench feelings of resentment and frustration.
+
+**Coping Styles:**
+The patient may rely on coping mechanisms such as internalizing emotions and suppressing anger to maintain harmony in the relationship with Ivan and his family. This coping style can be linked to a fear of confrontation and a desire to avoid further conflict, as suggested by the transcript's exploration of similar themes. The patient might also engage in self-reflection, attempting to understand their emotional responses and seeking ways to manage their feelings constructively.
+
+**Conclusion:**
+The patient's current situation involves complex emotional and cognitive challenges stemming from interpersonal difficulties with Ivan and his family. The emotional impact of betrayal and invalidation, coupled with cognitive patterns of rumination and self-doubt, likely contributes to behaviors of withdrawal and conflict avoidance. Addressing these patterns through cognitive-behavioral interventions could help the patient develop healthier coping strategies, improve emotional regulation, and foster more assertive communication skills in their relationships.
+Summary da mistral_.csv: The patient discussed his family background during a therapy session, focusing on his father who was a taboo subject in his family. He visited his mother and asked about his father, specifically about any letters or personal items that might provide insight. His mother had saved some letters but had discarded most of them. The patient also learned that in his grandmother's house, showing affection was considered a sin. He shared an incident where his mother's boyfriend comforted a cousin who was going to war, but the way she did it left the cousin shattered. The patient realized that his mother and he share a pattern of hiding emotions and reacting with kindness instead of expressing anger.
+In this therapy session, the patient discussed their difficulty expressing anger in a mature manner and the resulting feelings of vulnerability and loss of control. They shared an experience from ninth grade where they got into a physical fight and felt embarrassed and weak after losing control. The patient also mentioned an incident with a colleague, Sylvio, where they gave Sylvio money for concert tickets but didn't receive the tickets on time. Sylvio accused the patient of misusing her money, and the patient gave it back to her. The patient felt they had been "castrated" and expressed regret for not standing up for themselves. They acknowledged their fear of looking foolish or being emotionally vulnerable in confrontations with Sylvio, potentially due to the past experience of feeling weak and powerless.
+The patient describes a pattern of emotional control in their interactions with Sylvio, where the patient maintains rational control and Sylvio remains emotional. The patient expresses frustration over not being able to confront Sylvio on an emotional level and feeling that Sylvio has manipulated situations to maintain control. The patient also discusses a basketball incident where they felt unable to respond verbally to a black athlete, and the counselor suggests that the patient's use of Sylvio's name may be a way of keeping her at arm's length. The patient acknowledges that they call women different names and that they have difficulty reacting spontaneously in emotional situations.
+Patient reveals they have been calling a specific woman by her last name instead of her given name, expressing a feeling that they will become angry with her, and plans to meditate before their next session.
+
+ REFINED CCD: description + report
+{
+  "history": "The patient has a history of ongoing interpersonal difficulties involving their partner Ivan and his family. There have been recent trust and betrayal issues with Ivan, which have intensified the patient's emotional distress. The patient continues to have contact with Ivan's family, where dismissive attitudes and invalidation are present, as seen in the mother's comments. These experiences have contributed to patterns of self-doubt, rumination, and a tendency to internalize emotions.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express my true feelings or stand up for myself, others will dismiss or invalidate me, so I must suppress my emotions to avoid further conflict. I have to keep the peace even if it means ignoring my own needs. If I don't go along with what Ivan's family wants, I risk being excluded or blamed.",
+  "intermediate_belief_depression": "No matter what I do, my feelings won't matter and nothing will change, so there's no point in trying to assert myself or seek support.",
+  "coping_strategies": [
+    "The patient tends to withdraw from social interactions and avoids discussing the relationship or their feelings with Ivan's family. They often acquiesce to the family's expectations and suppress their own anger or discomfort to maintain harmony, even when it leads to resentment and frustration."
+  ],
+  "situation": "During an interaction with Ivan's family, the mother says \"boys will be boys\" and asks the patient to \"forgive and forget\".",
+  "auto_thought": "They don't care how much this hurt me. My feelings don't matter to them at all.",
+  "emotion": [
+    "hurt",
+    "invalidated",
+    "frustrated",
+    "sad",
+    "isolated"
+  ],
+  "behavior": "I stay quiet and don't challenge what Ivan's mother says. I avoid expressing how upset I am and try to keep the peace, even though I feel uncomfortable."
+}

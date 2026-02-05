@@ -1,0 +1,76 @@
+Using description: HISTORY:
+- Worked overseas and built a website related to that work.
+- Recurrent pattern of starting new ideas and later abandoning projects when difficulties arise.
+- Family-related difficulty involving his father; wrote a personal letter as part of a forgiveness process.
+
+SITUATION:
+- Reflecting on past achievements alongside current challenges. with ID=5-2
+Sample results (metadata similarity):
+  - sim=0.101 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.107 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.110 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.114 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.115 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.121 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.135 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.142 | title='Psychotherapy With Medically Ill Children: Many therapists feel overwhelmed with' | file='1001114244.txt'
+  - sim=0.144 | title='Verilogue session: Client's insomnia seems to be causing mood swings' | file='1001280398.txt'
+  - sim=0.145 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.101 | file='1003075028.txt' | title='Verilogue session: Client is having problems concentrating; she wonders if it is'
+  - sim=0.107 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.110 | file='1003075047.txt' | title='Verilogue session: Client's medications have drastically reduced her sex drive'
+Using LEAST related file for transcript: '1003075028.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a male with a history of working overseas and developing a website related to his work, presents a recurrent pattern of starting projects with enthusiasm only to abandon them when faced with challenges. This pattern seems to resonate with his current struggles, as he reflects on past achievements while grappling with ongoing difficulties. During the session, he expresses frustration with the medication issues he is experiencing, particularly with the generic version of Effexor, which he has been unable to obtain. He describes feeling "not normal" and compares his morning state to being "not drunk," indicating a lack of focus and balance. This sensation seems to exacerbate his tendency to avoid tasks, as he mentions not feeling capable of pursuing school, despite it being a "main priority."
+
+The client also discusses his medication regimen, which includes Adderall and Effexor, and his attempts to manage symptoms of ADHD. He notes that the Adderall doesn't seem to be as effective as it once was, mentioning that his "appetite's huge" and that he could "easily fall asleep," which contrasts with the expected effects of the medication. This discrepancy may contribute to his feelings of stress, as he has a history of "eating patterns" that are concerning to him. His current situation is compounded by financial constraints, as he is paying for his medications out of pocket, which adds another layer of stress to his life.
+
+Throughout the session, the client frequently returns to the theme of medication management, expressing confusion and frustration over the mixed messages from pharmacies about the availability of the generic Effexor. He repeatedly questions why the prescription was written if the medication is not available, highlighting a sense of helplessness and reliance on external systems that are not meeting his needs. Despite these challenges, he shows a willingness to explore solutions, such as adjusting the timing of his medication doses and considering an increase in his Adderall dosage to see if it might provide a "little more boost."
+
+The client's reflections on his past achievements and current challenges suggest an underlying cognitive pattern of self-doubt and avoidance when faced with obstacles. His description of feeling "drained" and his reliance on caffeine to stay awake indicate a cycle of fatigue and overcompensation that may hinder his ability to engage in activities that are important to him, such as returning to school. He acknowledges the need for regular therapy, recognizing that it could be a "very important piece" in managing his symptoms and stressors.
+
+In the session, the client demonstrates a mix of proactive and avoidant behaviors. He actively seeks solutions to his medication issues and expresses a desire to return to therapy, yet he also avoids confronting the pharmacies directly, fearing he might be "rude" or "question them." This avoidance may reflect a broader pattern of hesitancy to assert himself in situations where he feels uncertain or unsupported.
+
+Overall, the client's narrative reveals a complex interplay between his medication management, cognitive patterns, and emotional responses. His history of abandoning projects when difficulties arise parallels his current struggles with medication access and effectiveness, suggesting a need for strategies that enhance resilience and problem-solving skills. By addressing these cognitive and behavioral patterns in therapy, the client may develop more effective coping strategies to manage his ADHD symptoms and pursue his goals with greater confidence and persistence.
+Summary da mistral_.csv: The patient discussed issues with obtaining a generic version of Venlafaxine XR, which they had been prescribed to replace their previous Effexor XR medication. They mentioned that various pharmacies had told them different reasons for not having the medication in stock, including the manufacturer not producing it yet and it being out of stock. The patient expressed frustration and confusion about the situation, as they had been unable to take the medication as prescribed. The physician acknowledged having had similar experiences with other patients and offered to help the patient obtain samples of the generic tablets and contact the manufacturer for information on the delay. The patient also reported experiencing some side effects from the Effexor and Adderall, including difficulty focusing and changes in appetite, and expressed a desire to potentially increase their Adderall dosage. The physician explained that they could try increasing the dosage but would need to consider the potential risks and benefits.
+The doctor suggests changing the patient's dosage of Effexor from taking half a pill twice a day to taking a whole pill once a day at breakfast and dinner to help manage symptoms better throughout the day. The doctor also discusses the availability of the generic version of Effexor, which only comes in tablets, and clarifies that the patient's previous experience with non-XR Effexor and Adderall was different from the current discussion about XR versions. The doctor also provides the patient with additional prescriptions for Adderall and discusses the possibility of trying the non-XR form of Effexor or the generic version in the future. The patient expresses a desire to improve academic performance and feels that the previous non-XR form of Effexor was effective for that purpose. The doctor suggests giving the new dosage a couple of weeks to see if it makes a difference and mentions the patient's continued use of caffeine.
+The patient expresses feeling drained and tired despite making lifestyle changes, including taking vitamins, eating healthily, and being active. They acknowledge the need to resume regular therapy. The doctor discusses providing the patient with additional Adderall pills and scheduling a three-month follow-up appointment. They also discuss the potential impact of generic medications on individual responses. The patient shares their concerns about the effectiveness of generic medications compared to brand-name ones and the doctor explains that while they are similar, there can be small differences for certain individuals. The doctor advises the patient to let them know if they experience any issues with the medication.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of working overseas and building a website related to that work. He repeatedly starts new projects with enthusiasm but abandons them when difficulties arise, a pattern that parallels his current struggles. He has experienced family-related difficulties, particularly involving his father, and engaged in a forgiveness process by writing a personal letter. He also reports ongoing issues with medication management, ADHD symptoms, and financial stressors related to paying for prescriptions out of pocket.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I encounter difficulties or obstacles, it means I'm not capable and should give up before I fail. When things don't go as planned, it's safer to avoid them rather than risk proving that I'm not good enough. If I can't manage everything perfectly, others will see me as unreliable or inadequate.",
+  "intermediate_belief_depression": "If I keep failing to overcome challenges, it proves that nothing will ever change for me and there's no point in trying. When I reflect on my past achievements but can't match them now, it means I've lost my ability and things will only get worse.",
+  "coping_strategies": [
+    "He tends to avoid or abandon projects when faced with obstacles, withdrawing from tasks that feel overwhelming. He seeks external solutions, such as adjusting medication or considering therapy, but hesitates to assert himself directly with others (e.g., pharmacies) due to fear of being perceived negatively. He relies on caffeine and overcompensation to manage fatigue, which may perpetuate cycles of avoidance and low motivation."
+  ],
+  "situation": "Reflecting on past achievements alongside current challenges.",
+  "auto_thought": "I used to accomplish things, but now I can't handle even simple problems. This just proves I'm not capable anymore.",
+  "emotion": [
+    "frustrated",
+    "ashamed",
+    "anxious",
+    "disappointed",
+    "hopeless",
+    "overwhelmed"
+  ],
+  "behavior": "He dwells on his past successes and current difficulties, avoids starting or continuing challenging tasks, and withdraws from activities that feel overwhelming. He may ruminate about his failures and hesitate to seek direct help or clarification from others."
+}

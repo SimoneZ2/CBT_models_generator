@@ -1,0 +1,34 @@
+{
+  "name": "John Doe",
+  "id": "1234-5678",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recurrent stomachaches and physical symptoms associated with anxiety and stress. Past difficulties involving weight management, sexuality, and academic performance. Reports a transformation during college. Reports seeking control in relationships.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must be perfect to be accepted.",
+  "intermediate_belief_depression": "If I can't be perfect, I am a failure.",
+  "coping_strategies": "Avoidance of commitment and self-sabotage in personal and professional areas.",
+  "situation": "Concern about losing positive aspects of life or returning to a previous unhappy state.",
+  "auto_thought": "I can't do anything right, so why try?",
+  "emotion": [
+    "Anxiety",
+    "Depression",
+    "Frustration"
+  ],
+  "behavior": "Procrastination, avoidance of responsibilities, and reluctance to engage in meaningful relationships.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "history": "The client is adjusting to life after a recent divorce, which has led to financial struggles and the breakdown of several friendships. They are co-parenting and report a complicated relationship with their parents. The client finds solace and a sense of accomplishment in intellectual pursuits, particularly mathematics, which serves as both a refuge and a source of confidence. They express feeling self-conscious about their focus on math and describe themselves as being 'in a bubble,' indicating both protection and isolation. The client has a preference for visual learning and structure, possibly as a response to the unpredictability in their personal life. They also report feeling like an outsider and express a desire for acceptance and belonging.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't maintain my friendships after the divorce, it means I'm not worthy of connection. If others see me struggling or preoccupied with my own interests, they'll think less of me and distance themselves. I must always appear competent and in control to avoid being rejected.",
+  "intermediate_belief_depression": "If I lose friendships and can't rebuild them, it proves that I'm fundamentally alone and will always be on the outside. No matter what I do, I won't be able to find the acceptance or belonging I need.",
+  "coping_strategies": [
+    "The client immerses themselves in intellectual pursuits like mathematics to avoid confronting painful emotions related to social loss. They withdraw from emotional conversations and focus on structured activities that provide a sense of control and predictability. This cerebral focus serves as both a protective bubble and a barrier to re-engaging with others."
+  ],
+  "situation": "Experiencing the breakdown of friendships following the divorce.",
+  "auto_thought": "I'm losing my friends because I'm not good enough. No one really wants to stay connected with me now.",
+  "emotion": [
+    "sad",
+    "anxious",
+    "lonely",
+    "self-conscious",
+    "rejected",
+    "uncertain"
+  ],
+  "behavior": "Withdraw from social interactions and avoid reaching out to friends. Focus intensely on solitary activities like math or tutoring. Avoid discussing feelings about the loss with others."
+}

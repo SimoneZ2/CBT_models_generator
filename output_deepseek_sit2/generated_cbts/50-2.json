@@ -1,0 +1,31 @@
+{
+  "name": "Patient 50",
+  "id": "50",
+  "type": [
+    "moral conflict",
+    "friendship betrayal"
+  ],
+  "history": "Longstanding 14-year friendship with Ethan since high school. Shared personal crises and professional collaborations. Learned Ethan has been abusive to girlfriend.",
+  "helpless_belief": [
+    "I am trapped between loyalty and morality"
+  ],
+  "unlovable_belief": [
+    "I am a bad friend for judging"
+  ],
+  "worthless_belief": [
+    "I am immoral for not acting sooner"
+  ],
+  "intermediate_belief": "My friendship with Ethan makes me complicit in his abuse.",
+  "intermediate_belief_depression": "I've wasted years on a friendship with a terrible person.",
+  "coping_strategies": [
+    "Avoidance, moral rumination, seeking external validation for decision."
+  ],
+  "situation": "Struggling to contact Ethan directly.",
+  "auto_thought": "\"If I confront him, I lose my friend. If I stay silent, I'm condoning abuse. There's no right choice.\"",
+  "emotion": [
+    "moral anguish",
+    "grief",
+    "confusion"
+  ],
+  "behavior": "Drafts and deletes messages, talks to mutual friends, postpones decision."
+}

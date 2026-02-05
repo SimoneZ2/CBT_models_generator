@@ -1,0 +1,29 @@
+{
+  "history": "The client has ongoing work-related uncertainty and anxiety, which contributes to a persistent sense of instability. They recently married Ivan, but the relationship included instances of physical abuse, leading to a separation. Despite this, both partners are motivated to resolve their issues and are attending couples therapy. The client has been exposed to clinical terms describing Ivan's behavior during therapy, which may increase self-doubt and confusion about the relationship. The transcript evidence suggests the client experiences conflicting desires—wanting to maintain the relationship while feeling hurt and uncertain.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I hear clinical terms describing Ivan's behavior, then it means our relationship is seriously damaged and I might be to blame. I must understand these terms to fix things, but if I can't, it shows I'm failing as a partner. I need to make sense of everything or else things will get worse.",
+  "intermediate_belief_depression": "If I can't understand or fix what's wrong in our relationship, it means I'm hopeless and things will never improve. No matter what I do, I won't be able to make things better.",
+  "coping_strategies": [
+    "The client tends to avoid or withdraw from distressing discussions about the relationship, especially when feeling overwhelmed by clinical terminology. They may ruminate on the meaning of these terms and seek reassurance from the therapist or partner about the possibility of resolving issues. These strategies provide temporary relief but maintain ongoing anxiety and uncertainty."
+  ],
+  "situation": "Exposed to clinical terms used to describe the spouse's behavior during therapy sessions.",
+  "auto_thought": "Hearing these clinical terms makes me think our relationship is really broken. Maybe it's my fault and I don't know how to fix it.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "confused",
+    "ashamed",
+    "worried",
+    "sad"
+  ],
+  "behavior": "I withdraw from the conversation or become quiet in the session. I avoid asking questions about the terms, and later I ruminate about what they mean for our relationship.",
+  "source_text_id": "1000088110.txt"
+}

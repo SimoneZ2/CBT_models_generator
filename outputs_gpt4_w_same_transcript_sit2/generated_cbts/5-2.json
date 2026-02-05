@@ -1,0 +1,31 @@
+{
+  "name": "John Doe",
+  "id": "JD123",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Worked overseas and built a website related to that work. Recurrent pattern of starting new ideas and later abandoning projects when difficulties arise. Family-related difficulty involving his father; wrote a personal letter as part of a forgiveness process.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must always be in control to avoid failure.",
+  "intermediate_belief_depression": "If I can't maintain control, everything will fall apart.",
+  "coping_strategies": "Avoidance of difficult tasks and situations to prevent perceived failure.",
+  "situation": "Reflecting on past achievements alongside current challenges.",
+  "auto_thought": "I can't handle this; I'm going to fail.",
+  "emotion": [
+    "Anxiety",
+    "Sadness"
+  ],
+  "behavior": "Avoids engaging deeply with new projects or relationships.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

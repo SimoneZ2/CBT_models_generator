@@ -1,0 +1,86 @@
+Using description: HISTORY:
+- History of work-related uncertainty and anxiety.
+- Marital relationship included instances of physical abuse by the spouse.
+- Currently attending couples therapy.
+
+SITUATION:
+- Exposed to clinical terms used to describe the spouse's behavior during therapy. with ID=26-1
+Top results (by metadata similarity):
+  - sim=0.757 | title='Session 10: Client is unhappy with his wife but, he is afraid of being alone' | file='1000056536.txt'
+  - sim=0.737 | title='Verilogue session: Client suffers from auditory hallucinations' | file='1001083984.txt'
+  - sim=0.722 | title='Session 1: Client explains his main reason for entering therapy being his marita' | file='1000053430.txt'
+  - sim=0.721 | title='Session Xa: Client is determined to find a woman other than his wife to have a s' | file='1000088085.txt'
+  - sim=0.716 | title='Session 7: Client talks about how a career promotion or change may alter him com' | file='1000088075.txt'
+  - sim=0.714 | title='Verilogue session: Client has been having marital issues for over a year now. He' | file='1002565914.txt'
+  - sim=0.708 | title='Symbolic/Experiential Family Therapy: This transcript is an initial therapy sess' | file='1001115118.txt'
+  - sim=0.704 | title='Session 4: Client questions therapist about the actual benefits of client-center' | file='1000088054.txt'
+  - sim=0.698 | title='Patient "M", Session March 20, 2012: Client hates losing her temper; she thinks ' | file='1004522820.txt'
+  - sim=0.697 | title='Session 6: Client feels that her marriage may mean more to her than she thought.' | file='1000088106.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.757 | file='1000056536.txt' | title='Session 10: Client is unhappy with his wife but, he is afraid of being alone'
+  - sim=0.737 | file='1001083984.txt' | title='Verilogue session: Client suffers from auditory hallucinations'
+  - sim=0.722 | file='1000053430.txt' | title='Session 1: Client explains his main reason for entering therapy being his marita'
+Using top selected file for transcript: '1000056536.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of work-related uncertainty and anxiety, which likely contributes to their overall stress levels. Additionally, the patient has experienced instances of physical abuse in their marital relationship, a significant source of emotional distress. The patient is currently attending couples therapy, where they are exposed to clinical terms used to describe their spouse's behavior.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions, including anxiety, fear, and sadness. The history of work-related uncertainty may lead to feelings of insecurity and worry about the future. The instances of physical abuse in the marital relationship can evoke feelings of fear, helplessness, and sadness. The exposure to clinical terms in therapy might cause confusion or anxiety, as these terms can feel impersonal or judgmental.
+
+**Cognitive Patterns:**
+The patient may engage in negative thinking patterns, such as catastrophizing or all-or-nothing thinking, particularly related to work and marital issues. The uncertainty at work might lead to thoughts like "I will never have job security," while the abusive relationship could foster beliefs such as "I am not safe" or "I am powerless." The use of clinical terms in therapy might lead to over-analysis or misinterpretation of the spouse's behavior, potentially exacerbating feelings of anxiety or inadequacy.
+
+**Behavioral Responses:**
+The patient might exhibit avoidance behaviors, such as withdrawing from discussions about work or the marital relationship to avoid conflict or distress. They may also engage in reassurance-seeking behaviors, particularly in therapy, to gain clarity or validation. The patient might procrastinate on addressing work-related tasks due to anxiety or fear of failure.
+
+**Coping Styles:**
+The patient may rely on avoidance as a primary coping mechanism, avoiding confrontation or difficult conversations both at work and in their relationship. They might also engage in rumination, repeatedly thinking about past events or potential future scenarios without taking action. In therapy, the patient might seek guidance or direction, indicating a need for structured support to navigate their emotions and thoughts.
+
+**Therapeutic Considerations:**
+- **Cognitive Restructuring:** Focus on identifying and challenging negative thought patterns related to work and the marital relationship. Encourage the patient to develop more balanced and realistic thoughts.
+- **Emotional Regulation:** Teach the patient strategies to manage intense emotions, such as mindfulness or relaxation techniques, to reduce anxiety and fear.
+- **Behavioral Activation:** Encourage the patient to engage in activities that promote a sense of accomplishment and control, particularly in the workplace.
+- **Communication Skills:** Work on improving communication skills within the marital relationship, focusing on expressing needs and setting boundaries.
+- **Psychoeducation:** Provide information about the impact of clinical terms and how to interpret them constructively, reducing anxiety related to therapy sessions.
+
+**Conclusion:**
+The patient is navigating complex emotional and cognitive challenges stemming from work-related uncertainty and an abusive marital relationship. Through targeted cognitive-behavioral interventions, the patient can develop healthier thought patterns, improve emotional regulation, and enhance communication skills, contributing to a more stable and fulfilling life.
+Summary da mistral_.csv: In this therapy session, the patient discussed their progress in therapy with their spouse and feeling stuck in their current approach. They expressed a need for more direction and insight, leading them to consider marital counseling instead. The patient and their spouse had discussed terminating therapy, with the patient feeling that they had reached a plateau and questioning the effectiveness of the current method. The patient also shared a recent health scare that had shifted their focus away from marital issues.
+The patient describes a confusing experience with a doctor who diagnosed them with a heart condition but refused to provide further information, leaving the patient anxious and uncertain. The patient has since had to wait several days and weeks for more information from specialists. The patient and their spouse have grown closer as a result of this experience and have started doing more things together as opposed to with other people, which has improved their relationship. The patient inquires about marital counseling options but expresses difficulty accessing affordable and acceptable services in their area. The counselor suggests the patient contact their initial doctor for more information on local resources. The counselor expresses belief that marital counseling could be beneficial for the patient's marriage.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of work-related uncertainty and anxiety, which likely contributes to ongoing stress and insecurity. There have been instances of physical abuse in the marital relationship, leading to emotional distress and possible feelings of fear and helplessness. The client is currently attending couples therapy, where exposure to clinical terms describing the spouse's behavior may trigger anxiety or confusion. The report suggests the client may ruminate on past events and feel overwhelmed by both work and relationship stressors.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I hear clinical terms used to describe my spouse's behavior in therapy, then it means things are really serious and out of my control. I need to understand exactly what these terms mean or I might miss something important or fail to protect myself.",
+  "intermediate_belief_depression": "If I can't understand or control what's happening in therapy, then nothing I do will make a difference and things will never get better.",
+  "coping_strategies": [
+    "The client tends to avoid or withdraw from emotionally charged discussions, especially when feeling overwhelmed by clinical language or conflict. They may seek reassurance from the therapist to gain clarity or validation, and may ruminate about the meaning of terms used in therapy, leading to increased anxiety."
+  ],
+  "situation": "Exposed to clinical terms used to describe the spouse's behavior during therapy.",
+  "auto_thought": "I don't really understand what these terms mean, but it sounds bad. If the therapist is using these words, maybe things are worse than I thought.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "confused",
+    "fearful",
+    "helpless"
+  ],
+  "behavior": "I become quiet and withdrawn during the session. I avoid asking questions directly but keep thinking about what the terms mean. Later, I might seek reassurance from the therapist or look up the terms online."
+}

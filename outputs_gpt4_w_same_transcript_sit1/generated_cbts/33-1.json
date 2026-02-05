@@ -1,0 +1,27 @@
+{
+  "name": "Case Study: Complex Romantic Situation",
+  "id": "CRS001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Involvement in a complex romantic situation with a person named Cleo. Cleo is in a long-distance relationship while also engaging with the patient.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must always be available to support others to be valued.",
+  "intermediate_belief_depression": "If I am not needed, I am not important.",
+  "coping_strategies": "Engaging in supportive roles to feel needed and valued.",
+  "situation": "During an outing, Cleo discussed relationship problems and sought emotional support.",
+  "auto_thought": "If I don't help Cleo, I will lose her.",
+  "emotion": [
+    "Anxiety",
+    "Fear of rejection"
+  ],
+  "behavior": "Providing emotional support and prioritizing Cleo's needs over personal boundaries."
+}

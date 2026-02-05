@@ -1,0 +1,2520 @@
+2026-01-28 10:47:50,316 | INFO | [RESUME] Found 0 already-evaluated source_id in outputs_gpt4_w_random_transcript_sit1\compare_results.jsonl
+2026-01-28 10:47:50,929 | INFO | SOURCE_ID:1-1
+2026-01-28 10:47:50,930 | INFO | GOLD_ID:1-1
+2026-01-28 10:47:50,930 | INFO | GOLD helpless_belief =['I am trapped.', 'I am out of control.']
+2026-01-28 10:47:50,930 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am undesirable, unwanted.']
+2026-01-28 10:47:50,931 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:47:50,931 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:47:56,871 | INFO | CBT generated
+2026-01-28 10:47:56,872 | INFO | {
+  "history": "History of substance abuse and completed rehabilitation. Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect. Longstanding obesity since childhood. Past experiences of bullying related to weight.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must be perfect to be accepted.",
+  "intermediate_belief_depression": "If I make a mistake, I will be rejected.",
+  "coping_strategies": [
+    "Avoidance of social situations and procrastination in responding to family."
+  ],
+  "situation": "Received an invitation to a cousin's upcoming wedding. Has not responded to the RSVP request and has not answered follow-up calls from family members.",
+  "auto_thought": "If I go to the wedding, everyone will judge me.",
+  "emotion": [
+    "Anxiety",
+    "Fear",
+    "Nervousness"
+  ],
+  "behavior": "Avoidance of the wedding invitation and family calls."
+}
+2026-01-28 10:47:56,872 | INFO | TRANSCRIPT_FILE:1004538652.txt
+2026-01-28 10:47:56,874 | INFO | PRED_MD5:851ab60ee0d279fa7365821b4a450e61
+2026-01-28 10:47:56,874 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable', 'I am a failure, loser']
+2026-01-28 10:47:56,875 | INFO | PRED unlovable_belief =['I am bound to be rejected', 'I am bound to be abandoned']
+2026-01-28 10:47:56,875 | INFO | PRED worthless_belief =['I am worthless, waste']
+2026-01-28 10:48:11,741 | INFO | 
+========================================
+2026-01-28 10:48:11,741 | INFO | [DONE] 1-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\1-1.json
+2026-01-28 10:48:11,741 | INFO | Scores:
+2026-01-28 10:48:11,742 | INFO |   embeddings_cosine: 0.4676642894744873
+2026-01-28 10:48:11,742 | INFO |   crossencoder_sts:  0.5128453552722931
+2026-01-28 10:48:11,742 | INFO |   nli_entailment:    0.10870843534975153
+2026-01-28 10:48:11,742 | INFO |   nli_contradiction: 0.01
+2026-01-28 10:48:11,743 | INFO |   fine_jaccard:      0.0
+2026-01-28 10:48:11,743 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-28 10:48:11,743 | INFO | SOURCE_ID:2-1
+2026-01-28 10:48:11,744 | INFO | GOLD_ID:2-1
+2026-01-28 10:48:11,744 | INFO | GOLD helpless_belief =['I am powerless, weak, vulnerable.', 'I am trapped.']
+2026-01-28 10:48:11,744 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am undesirable, unwanted.', 'I am bound to be abandoned.', 'I am bound to be alone.']
+2026-01-28 10:48:11,744 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:48:11,745 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:48:17,640 | INFO | CBT generated
+2026-01-28 10:48:17,640 | INFO | {
+  "history": "Recent family tension related to a conversation with parents about a wedding list. The patient noticed similarities between their own actions and their father's patterns. The father is described as repeatedly seeking approval and unconditional love from family members.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I ask for something directly, I will be rejected or disapproved.",
+  "intermediate_belief_depression": "I need approval from others to feel worthy.",
+  "coping_strategies": [
+    "Avoids asking for changes or favors directly to prevent rejection or disapproval."
+  ],
+  "situation": "Disagreement with parents regarding the guest list for an upcoming event.",
+  "auto_thought": "If I ask to change the time, I will be rejected or it will show I am demanding.",
+  "emotion": [
+    "Anxiety",
+    "Fear of rejection"
+  ],
+  "behavior": "Avoids direct requests and seeks approval indirectly."
+}
+2026-01-28 10:48:17,641 | INFO | TRANSCRIPT_FILE:1000395250.txt
+2026-01-28 10:48:17,641 | INFO | PRED_MD5:a2b3a848490990a98674f841a400546e
+2026-01-28 10:48:17,642 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:48:17,642 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:48:17,642 | INFO | PRED worthless_belief =[]
+2026-01-28 10:48:18,534 | INFO | 
+========================================
+2026-01-28 10:48:18,534 | INFO | [DONE] 2-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\2-1.json
+2026-01-28 10:48:18,534 | INFO | Scores:
+2026-01-28 10:48:18,535 | INFO |   embeddings_cosine: 0.24826055467128755
+2026-01-28 10:48:18,535 | INFO |   crossencoder_sts:  0.366998565196991
+2026-01-28 10:48:18,535 | INFO |   nli_entailment:    0.03518070907178941
+2026-01-28 10:48:18,536 | INFO |   nli_contradiction: 0.2953
+2026-01-28 10:48:18,536 | INFO |   fine_jaccard:      0.14285714285714285
+2026-01-28 10:48:18,536 | INFO |   major_jaccard:     1.0
+2026-01-28 10:48:18,537 | INFO | SOURCE_ID:3-1
+2026-01-28 10:48:18,537 | INFO | GOLD_ID:3-1
+2026-01-28 10:48:18,537 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am helpless.', 'I am trapped.', 'I am a failure, loser.']
+2026-01-28 10:48:18,538 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:48:18,538 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:48:18,538 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:48:30,562 | INFO | CBT generated
+2026-01-28 10:48:30,563 | INFO | {
+  "history": "PhD candidate engaged in scientific research. References to a sequencing-related study and a colleague named Kelly. Working on a project with a senior scientist who has struggled to gain recognition in his career.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must do things perfectly or not at all.",
+  "intermediate_belief_depression": "If I can't meet expectations, I am a failure.",
+  "coping_strategies": [
+    "Avoidance of tasks due to fear of imperfection, leading to procrastination."
+  ],
+  "situation": "Working on a PhD project and concerned about its progress.",
+  "auto_thought": "I'm a loser for not completing tasks on time.",
+  "emotion": [
+    "Anxiety",
+    "Overwhelm",
+    "Shame"
+  ],
+  "behavior": "Procrastination and avoidance of tasks, leading to increased anxiety and feelings of inadequacy."
+}
+2026-01-28 10:48:30,563 | INFO | TRANSCRIPT_FILE:1002565938.txt
+2026-01-28 10:48:30,563 | INFO | PRED_MD5:36224db14b4918490639835c78f99ddb
+2026-01-28 10:48:30,563 | INFO | PRED helpless_belief =['I am incompetent', 'I am powerless, weak, vulnerable']
+2026-01-28 10:48:30,563 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:48:30,564 | INFO | PRED worthless_belief =[]
+2026-01-28 10:48:31,892 | INFO | 
+========================================
+2026-01-28 10:48:31,892 | INFO | [DONE] 3-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\3-1.json
+2026-01-28 10:48:31,893 | INFO | Scores:
+2026-01-28 10:48:31,893 | INFO |   embeddings_cosine: 0.4888215959072113
+2026-01-28 10:48:31,893 | INFO |   crossencoder_sts:  0.39596704840660096
+2026-01-28 10:48:31,894 | INFO |   nli_entailment:    0.0013547995589722338
+2026-01-28 10:48:31,894 | INFO |   nli_contradiction: 0.0036000000000000003
+2026-01-28 10:48:31,894 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-28 10:48:31,894 | INFO |   major_jaccard:     0.5
+2026-01-28 10:48:31,895 | INFO | SOURCE_ID:4-1
+2026-01-28 10:48:31,895 | INFO | GOLD_ID:4-1
+2026-01-28 10:48:31,895 | INFO | GOLD helpless_belief =['I am helpless.', 'I am powerless, weak, vulnerable.', 'I am a victim.', 'I am trapped.', 'I am defective.']
+2026-01-28 10:48:31,895 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:48:31,895 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:48:31,896 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:48:36,350 | INFO | CBT generated
+2026-01-28 10:48:36,350 | INFO | {
+  "history": "Recent shoulder surgery with a painful recovery process. Ongoing pain, numbness, and tingling related to a herniated cervical disc. Prior history of physical therapy for past walking difficulties and back issues. Past prolonged illness associated with a period of immobility. Started a new relationship and later experienced a return of physical symptoms.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be perfect to be accepted.",
+  "intermediate_belief_depression": "If I am not perfect, I will be rejected and alone.",
+  "coping_strategies": [
+    "Avoids forming new relationships and engaging deeply with others to prevent rejection."
+  ],
+  "situation": "Received an MRI report indicating a herniated disc. Contacted the therapist after receiving the report.",
+  "auto_thought": "I am repeating the same mistakes as my mother.",
+  "emotion": [
+    "Guilt",
+    "Resentment",
+    "Fear"
+  ],
+  "behavior": "Avoids confrontation and suppresses feelings to maintain peace."
+}
+2026-01-28 10:48:36,351 | INFO | TRANSCRIPT_FILE:1000916326.txt
+2026-01-28 10:48:36,351 | INFO | PRED_MD5:4f8b62f59de7be3e60f626b1d4d76d46
+2026-01-28 10:48:36,351 | INFO | PRED helpless_belief =['I am helpless', 'I am incompetent']
+2026-01-28 10:48:36,352 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:48:36,352 | INFO | PRED worthless_belief =[]
+2026-01-28 10:48:36,787 | INFO | 
+========================================
+2026-01-28 10:48:36,788 | INFO | [DONE] 4-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\4-1.json
+2026-01-28 10:48:36,788 | INFO | Scores:
+2026-01-28 10:48:36,788 | INFO |   embeddings_cosine: 0.25668665766716003
+2026-01-28 10:48:36,788 | INFO |   crossencoder_sts:  0.18867797702550887
+2026-01-28 10:48:36,789 | INFO |   nli_entailment:    0.012568486277582187
+2026-01-28 10:48:36,789 | INFO |   nli_contradiction: 0.30069999999999997
+2026-01-28 10:48:36,789 | INFO |   fine_jaccard:      0.14285714285714285
+2026-01-28 10:48:36,790 | INFO |   major_jaccard:     0.5
+2026-01-28 10:48:36,790 | INFO | SOURCE_ID:5-1
+2026-01-28 10:48:36,790 | INFO | GOLD_ID:5-1
+2026-01-28 10:48:36,791 | INFO | GOLD helpless_belief =[]
+2026-01-28 10:48:36,791 | INFO | GOLD unlovable_belief =['I am undesirable, unwanted.']
+2026-01-28 10:48:36,791 | INFO | GOLD worthless_belief =['I am worthless, waste.']
+2026-01-28 10:48:36,791 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:48:43,005 | INFO | CBT generated
+2026-01-28 10:48:43,005 | INFO | {
+  "history": "Worked overseas and built a website related to that work. Recurrent pattern of starting new ideas and later abandoning projects when difficulties arise. Family-related difficulty involving his father; wrote a personal letter as part of a forgiveness process.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must control my environment to avoid chaos.",
+  "intermediate_belief_depression": "If I don't meet my expectations, I am a failure.",
+  "coping_strategies": [
+    "Attempts to control situations and people around him to prevent perceived chaos."
+  ],
+  "situation": "Working on a personal project involving the development of a website.",
+  "auto_thought": "I need to control everything to prevent failure.",
+  "emotion": [
+    "Frustration",
+    "Anger"
+  ],
+  "behavior": "Becomes controlling and critical, especially towards grandchildren."
+}
+2026-01-28 10:48:43,006 | INFO | TRANSCRIPT_FILE:1000094417.txt
+2026-01-28 10:48:43,006 | INFO | PRED_MD5:24a561a97d3f957d18243cb1d53525e9
+2026-01-28 10:48:43,006 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:48:43,006 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:48:43,007 | INFO | PRED worthless_belief =[]
+2026-01-28 10:48:43,389 | INFO | 
+========================================
+2026-01-28 10:48:43,389 | INFO | [DONE] 5-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\5-1.json
+2026-01-28 10:48:43,389 | INFO | Scores:
+2026-01-28 10:48:43,390 | INFO |   embeddings_cosine: 0.2866146504878998
+2026-01-28 10:48:43,390 | INFO |   crossencoder_sts:  0.15801786854863167
+2026-01-28 10:48:43,391 | INFO |   nli_entailment:    0.08903614971496762
+2026-01-28 10:48:43,391 | INFO |   nli_contradiction: 0.007299999999999999
+2026-01-28 10:48:43,391 | INFO |   fine_jaccard:      0.0
+2026-01-28 10:48:43,392 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-28 10:48:43,392 | INFO | SOURCE_ID:6-1
+2026-01-28 10:48:43,392 | INFO | GOLD_ID:6-1
+2026-01-28 10:48:43,393 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am helpless.', 'I am needy.', 'I am a failure, loser.']
+2026-01-28 10:48:43,393 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:48:43,393 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:48:43,394 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:48:50,577 | INFO | CBT generated
+2026-01-28 10:48:50,578 | INFO | {
+  "history": "28-year-old student. Returned from Egypt. Previously relied on parents for support and is now managing bills, finances, and health insurance independently for the first time. Brother remains financially dependent on parents.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted",
+    "I am unattractive"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be perfect to be accepted.",
+  "intermediate_belief_depression": "I am not good enough.",
+  "coping_strategies": [
+    "Avoidance of social situations and reluctance to leave the house."
+  ],
+  "situation": "Considering requesting financial help from parents. Looking for affordable counseling services.",
+  "auto_thought": "I look hideous and don't want anyone to see me.",
+  "emotion": [
+    "Anxiety",
+    "Depression"
+  ],
+  "behavior": "Avoids leaving the house and social interactions."
+}
+2026-01-28 10:48:50,578 | INFO | TRANSCRIPT_FILE:1002565875.txt
+2026-01-28 10:48:50,578 | INFO | PRED_MD5:7a92de23e8739158d3501d4bb0df96fe
+2026-01-28 10:48:50,579 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:48:50,579 | INFO | PRED unlovable_belief =['I am undesirable, unwanted', 'I am unattractive']
+2026-01-28 10:48:50,579 | INFO | PRED worthless_belief =[]
+2026-01-28 10:48:50,989 | INFO | 
+========================================
+2026-01-28 10:48:50,989 | INFO | [DONE] 6-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\6-1.json
+2026-01-28 10:48:50,990 | INFO | Scores:
+2026-01-28 10:48:50,990 | INFO |   embeddings_cosine: 0.2816408634185791
+2026-01-28 10:48:50,990 | INFO |   crossencoder_sts:  0.1716268526855856
+2026-01-28 10:48:50,991 | INFO |   nli_entailment:    0.008440832816636696
+2026-01-28 10:48:50,991 | INFO |   nli_contradiction: 0.0049
+2026-01-28 10:48:50,992 | INFO |   fine_jaccard:      0.0
+2026-01-28 10:48:50,992 | INFO |   major_jaccard:     0.5
+2026-01-28 10:48:50,992 | INFO | SOURCE_ID:7-1
+2026-01-28 10:48:50,992 | INFO | GOLD_ID:7-1
+2026-01-28 10:48:50,993 | INFO | GOLD helpless_belief =[]
+2026-01-28 10:48:50,993 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:48:50,993 | INFO | GOLD worthless_belief =['I am worthless, waste.']
+2026-01-28 10:48:50,993 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:49:18,360 | INFO | CBT generated
+2026-01-28 10:49:18,360 | INFO | {
+  "history": "History of long work hours in demanding work environments, including past touring work. Unresolved issues with father, including reports of past abuse. Recent exchange of letters with father addressing this history.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must not rely on others because they will let me down.",
+  "intermediate_belief_depression": "I am not good enough to be loved or wanted.",
+  "coping_strategies": [
+    "Avoidance of emotional vulnerability by intellectualizing and distancing from others."
+  ],
+  "situation": "Evaluating progress on personal projects, including developing a website. Spending time on social media instead of working on the project.",
+  "auto_thought": "I am not good enough, and I will end up alone.",
+  "emotion": [
+    "Fear",
+    "Loneliness",
+    "Frustration"
+  ],
+  "behavior": "Avoids emotional intimacy and withdraws from relationships to protect himself from rejection."
+}
+2026-01-28 10:49:18,361 | INFO | TRANSCRIPT_FILE:1000013047.txt
+2026-01-28 10:49:18,361 | INFO | PRED_MD5:e36a182925ecc7e95e219ca69df99f74
+2026-01-28 10:49:18,362 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable', 'I am incompetent']
+2026-01-28 10:49:18,362 | INFO | PRED unlovable_belief =['I am bound to be rejected', 'I am bound to be alone']
+2026-01-28 10:49:18,362 | INFO | PRED worthless_belief =['I am worthless, waste']
+2026-01-28 10:49:18,837 | INFO | 
+========================================
+2026-01-28 10:49:18,837 | INFO | [DONE] 7-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\7-1.json
+2026-01-28 10:49:18,837 | INFO | Scores:
+2026-01-28 10:49:18,838 | INFO |   embeddings_cosine: 0.3385336846113205
+2026-01-28 10:49:18,838 | INFO |   crossencoder_sts:  0.31037618070840833
+2026-01-28 10:49:18,838 | INFO |   nli_entailment:    0.17523466229892656
+2026-01-28 10:49:18,839 | INFO |   nli_contradiction: 0.19999999999999998
+2026-01-28 10:49:18,839 | INFO |   fine_jaccard:      0.2
+2026-01-28 10:49:18,839 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-28 10:49:18,840 | INFO | SOURCE_ID:8-1
+2026-01-28 10:49:18,840 | INFO | GOLD_ID:8-1
+2026-01-28 10:49:18,840 | INFO | GOLD helpless_belief =['I am powerless, weak, vulnerable.', 'I am a victim.']
+2026-01-28 10:49:18,841 | INFO | GOLD unlovable_belief =['I am bound to be alone.']
+2026-01-28 10:49:18,841 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:49:18,842 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:49:35,644 | INFO | CBT generated
+2026-01-28 10:49:35,645 | INFO | {
+  "history": "Past traumatic incident involving sexual assault by partner Ivan. Ongoing relationship difficulties involving trust and intimacy. Reports some improvement in relationship dynamics with Ivan making efforts to rebuild trust.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must adhere to societal expectations and obligations.",
+  "intermediate_belief_depression": "I am not entitled to prioritize my own needs or feelings.",
+  "coping_strategies": [
+    "Avoidance of confrontation and adherence to perceived obligations."
+  ],
+  "situation": "Physical intimacy is resuming in the relationship.",
+  "auto_thought": "I feel like I don't belong here and that I'm taking up space for someone who needs it more.",
+  "emotion": [
+    "Frustration",
+    "Boredom",
+    "Resentment"
+  ],
+  "behavior": "Attending therapy sessions out of obligation rather than desire."
+}
+2026-01-28 10:49:35,645 | INFO | TRANSCRIPT_FILE:1000013647.txt
+2026-01-28 10:49:35,646 | INFO | PRED_MD5:67fce6963d56304901069f4fd6f4f9ce
+2026-01-28 10:49:35,646 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:49:35,647 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:49:35,647 | INFO | PRED worthless_belief =[]
+2026-01-28 10:49:35,991 | INFO | 
+========================================
+2026-01-28 10:49:35,992 | INFO | [DONE] 8-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\8-1.json
+2026-01-28 10:49:35,992 | INFO | Scores:
+2026-01-28 10:49:35,992 | INFO |   embeddings_cosine: 0.2791649430990219
+2026-01-28 10:49:35,993 | INFO |   crossencoder_sts:  0.3202719807624817
+2026-01-28 10:49:35,993 | INFO |   nli_entailment:    0.03588722179436953
+2026-01-28 10:49:35,993 | INFO |   nli_contradiction: 0.2186
+2026-01-28 10:49:35,994 | INFO |   fine_jaccard:      0.25
+2026-01-28 10:49:35,994 | INFO |   major_jaccard:     1.0
+2026-01-28 10:49:35,995 | INFO | SOURCE_ID:9-1
+2026-01-28 10:49:35,995 | INFO | GOLD_ID:9-1
+2026-01-28 10:49:35,995 | INFO | GOLD helpless_belief =['I am incompetent.']
+2026-01-28 10:49:35,996 | INFO | GOLD unlovable_belief =['I am undesirable, unwanted.', 'I am bound to be abandoned.', 'I am bound to be alone.']
+2026-01-28 10:49:35,996 | INFO | GOLD worthless_belief =['I am immoral.']
+2026-01-28 10:49:35,996 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:49:47,960 | INFO | CBT generated
+2026-01-28 10:49:47,961 | INFO | {
+  "history": "Long-standing friendship with Jersey, who has had multiple surgeries related to disabilities. The patient has previously provided support during Jersey's medical procedures and recovery. Ongoing conflict with roommate Ashby over household issues.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must handle everything on my own or I am failing.",
+  "intermediate_belief_depression": "If I can't manage my responsibilities, I am a failure.",
+  "coping_strategies": [
+    "Avoidance and procrastination, leading to increased stress and frustration."
+  ],
+  "situation": "Thinking about Jersey's recovery while managing other personal responsibilities.",
+  "auto_thought": "I can't keep up with everything, and I'm letting everyone down.",
+  "emotion": [
+    "Overwhelmed",
+    "Frustrated",
+    "Angry",
+    "Helpless"
+  ],
+  "behavior": "Avoidance of tasks, snapping at others, and feeling stuck."
+}
+2026-01-28 10:49:47,961 | INFO | TRANSCRIPT_FILE:1004538604.txt
+2026-01-28 10:49:47,961 | INFO | PRED_MD5:122c63405d7527d8ed8bea58b1f394df
+2026-01-28 10:49:47,962 | INFO | PRED helpless_belief =['I am helpless', 'I am incompetent', 'I am powerless, weak, vulnerable']
+2026-01-28 10:49:47,962 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:49:47,963 | INFO | PRED worthless_belief =[]
+2026-01-28 10:49:48,339 | INFO | 
+========================================
+2026-01-28 10:49:48,339 | INFO | [DONE] 9-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\9-1.json
+2026-01-28 10:49:48,340 | INFO | Scores:
+2026-01-28 10:49:48,340 | INFO |   embeddings_cosine: 0.44242972135543823
+2026-01-28 10:49:48,340 | INFO |   crossencoder_sts:  0.3235642060637474
+2026-01-28 10:49:48,341 | INFO |   nli_entailment:    0.04908599861040029
+2026-01-28 10:49:48,341 | INFO |   nli_contradiction: 0.30029999999999996
+2026-01-28 10:49:48,341 | INFO |   fine_jaccard:      0.125
+2026-01-28 10:49:48,342 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-28 10:49:48,342 | INFO | SOURCE_ID:10-1
+2026-01-28 10:49:48,342 | INFO | GOLD_ID:10-1
+2026-01-28 10:49:48,343 | INFO | GOLD helpless_belief =['I am powerless, weak, vulnerable.', 'I am incompetent.', 'I am helpless.', 'I am defective.']
+2026-01-28 10:49:48,343 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:49:48,343 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:49:48,344 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:49:54,659 | INFO | CBT generated
+2026-01-28 10:49:54,661 | INFO | {
+  "history": "Recent divorce. Financial struggles and adjustment to single life. Co-parenting. Multiple friendships deteriorated after the divorce. Complicated relationship with parents.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must keep a distance from emotions to stay in control.",
+  "intermediate_belief_depression": "If I let myself feel too deeply, I will lose control.",
+  "coping_strategies": [
+    "Uses humor and sarcasm as a defense mechanism to avoid confronting emotions."
+  ],
+  "situation": "Managing financial hardship following the divorce, including handling financial paperwork.",
+  "auto_thought": "No matter how hard I work, I don't quite pull it off.",
+  "emotion": [
+    "Frustration",
+    "Anxiety",
+    "Guilt"
+  ],
+  "behavior": "Jokes and laughs to deflect from discussing deeper emotions."
+}
+2026-01-28 10:49:54,661 | INFO | TRANSCRIPT_FILE:1000094464.txt
+2026-01-28 10:49:54,661 | INFO | PRED_MD5:5bcb4059496fe86ac45b621027906274
+2026-01-28 10:49:54,662 | INFO | PRED helpless_belief =['I am trapped', 'I am powerless, weak, vulnerable']
+2026-01-28 10:49:54,662 | INFO | PRED unlovable_belief =['I am bound to be alone']
+2026-01-28 10:49:54,662 | INFO | PRED worthless_belief =[]
+2026-01-28 10:49:55,118 | INFO | 
+========================================
+2026-01-28 10:49:55,118 | INFO | [DONE] 10-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\10-1.json
+2026-01-28 10:49:55,119 | INFO | Scores:
+2026-01-28 10:49:55,119 | INFO |   embeddings_cosine: 0.2897690713405609
+2026-01-28 10:49:55,120 | INFO |   crossencoder_sts:  0.3426163122057915
+2026-01-28 10:49:55,120 | INFO |   nli_entailment:    0.1985597589897217
+2026-01-28 10:49:55,120 | INFO |   nli_contradiction: 0.0024000000000000002
+2026-01-28 10:49:55,121 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-28 10:49:55,121 | INFO |   major_jaccard:     0.5
+2026-01-28 10:49:55,122 | INFO | SOURCE_ID:11-1
+2026-01-28 10:49:55,122 | INFO | GOLD_ID:11-1
+2026-01-28 10:49:55,122 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am helpless.', 'I am powerless, weak, vulnerable.', 'I am trapped.']
+2026-01-28 10:49:55,122 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am undesirable, unwanted.', 'I am bound to be alone.']
+2026-01-28 10:49:55,123 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:49:55,123 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:50:15,345 | INFO | CBT generated
+2026-01-28 10:50:15,346 | INFO | {
+  "history": "History of isolation and chronic depression since late adolescence. Past difficulties with friendships. Recent breakup preceding a relapse into a depressive episode. History of taking SSRIs and recent medication adjustments following the relapse.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need someone to take care of me.",
+  "intermediate_belief_depression": "I can't handle my emotions on my own.",
+  "coping_strategies": [
+    "Seeks reassurance and guidance from others, avoids dealing with emotions directly."
+  ],
+  "situation": "Engaged in a conversation with a friend about mental health struggles.",
+  "auto_thought": "It's not about me, but I feel like it is.",
+  "emotion": [
+    "Anxiety",
+    "Insecurity",
+    "Vulnerability"
+  ],
+  "behavior": "Avoids confrontation, seeks validation from others, feels self-conscious about expressing emotions."
+}
+2026-01-28 10:50:15,346 | INFO | TRANSCRIPT_FILE:1000013304.txt
+2026-01-28 10:50:15,347 | INFO | PRED_MD5:70a529eedd7ad88a63fb97f2eafd0f3c
+2026-01-28 10:50:15,347 | INFO | PRED helpless_belief =['I am helpless', 'I am incompetent']
+2026-01-28 10:50:15,348 | INFO | PRED unlovable_belief =['I am bound to be rejected', 'I am bound to be abandoned']
+2026-01-28 10:50:15,348 | INFO | PRED worthless_belief =[]
+2026-01-28 10:50:15,726 | INFO | 
+========================================
+2026-01-28 10:50:15,726 | INFO | [DONE] 11-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\11-1.json
+2026-01-28 10:50:15,727 | INFO | Scores:
+2026-01-28 10:50:15,727 | INFO |   embeddings_cosine: 0.339443239569664
+2026-01-28 10:50:15,727 | INFO |   crossencoder_sts:  0.1835057495161891
+2026-01-28 10:50:15,728 | INFO |   nli_entailment:    0.11209579114601713
+2026-01-28 10:50:15,728 | INFO |   nli_contradiction: 0.0696
+2026-01-28 10:50:15,728 | INFO |   fine_jaccard:      0.2222222222222222
+2026-01-28 10:50:15,728 | INFO |   major_jaccard:     1.0
+2026-01-28 10:50:15,729 | INFO | SOURCE_ID:12-1
+2026-01-28 10:50:15,729 | INFO | GOLD_ID:12-1
+2026-01-28 10:50:15,729 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am helpless.', 'I am a failure, loser.']
+2026-01-28 10:50:15,730 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:50:15,730 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:50:15,730 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:50:33,238 | INFO | CBT generated
+2026-01-28 10:50:33,238 | INFO | {
+  "history": "PhD student in a science field. Deep involvement in music; previously led a college band and currently participates in a jazz group. Offered a leadership position in the jazz group and declined. Reports mental health struggles. Feels disconnected from colleagues in the scientific work environment due to differing values and work habits.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must maintain control to avoid chaos.",
+  "intermediate_belief_depression": "If I don't control everything, things will fall apart.",
+  "coping_strategies": [
+    "Uses humor and joking to deflect from difficult topics and emotions."
+  ],
+  "situation": "Experiencing difficulty during jazz rehearsals, requiring repeated attempts to progress.",
+  "auto_thought": "I can't let go or things will get out of control.",
+  "emotion": [
+    "Frustration",
+    "Anxiety",
+    "Sadness"
+  ],
+  "behavior": "Avoids discussing deeper issues by joking and changing topics."
+}
+2026-01-28 10:50:33,239 | INFO | TRANSCRIPT_FILE:1000094504.txt
+2026-01-28 10:50:33,239 | INFO | PRED_MD5:a515531a41bd50ef7349fd999083bb0f
+2026-01-28 10:50:33,239 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:50:33,239 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:50:33,240 | INFO | PRED worthless_belief =[]
+2026-01-28 10:50:33,567 | INFO | 
+========================================
+2026-01-28 10:50:33,567 | INFO | [DONE] 12-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\12-1.json
+2026-01-28 10:50:33,568 | INFO | Scores:
+2026-01-28 10:50:33,568 | INFO |   embeddings_cosine: 0.35239784717559813
+2026-01-28 10:50:33,568 | INFO |   crossencoder_sts:  0.21113309860229493
+2026-01-28 10:50:33,569 | INFO |   nli_entailment:    0.03755574814826698
+2026-01-28 10:50:33,569 | INFO |   nli_contradiction: 0.0024000000000000002
+2026-01-28 10:50:33,569 | INFO |   fine_jaccard:      0.0
+2026-01-28 10:50:33,569 | INFO |   major_jaccard:     0.5
+2026-01-28 10:50:33,570 | INFO | SOURCE_ID:13-1
+2026-01-28 10:50:33,570 | INFO | GOLD_ID:13-1
+2026-01-28 10:50:33,570 | INFO | GOLD helpless_belief =[]
+2026-01-28 10:50:33,570 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:50:33,570 | INFO | GOLD worthless_belief =['I am worthless, waste.', 'I am immoral.', 'I am bad - dangerous, toxic, evil.']
+2026-01-28 10:50:33,571 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:50:41,132 | INFO | CBT generated
+2026-01-28 10:50:41,133 | INFO | {
+  "history": "Death of a close aunt whom the patient considered a mother figure. The patient did not fulfill the aunt's last request and was not present at the time of death. Pattern of prioritizing others' needs over their own.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must always be responsible and take care of others.",
+  "intermediate_belief_depression": "If I don't meet others' expectations, I will be rejected.",
+  "coping_strategies": [
+    "Avoidance of conflict and prioritizing others' needs over own."
+  ],
+  "situation": "Reflecting on memories involving the aunt and the unfulfilled request.",
+  "auto_thought": "I can't fail now; I have to hold out.",
+  "emotion": [
+    "Anxiety",
+    "Fear",
+    "Sadness"
+  ],
+  "behavior": "Attempts to reconnect with family and be present in their lives."
+}
+2026-01-28 10:50:41,133 | INFO | TRANSCRIPT_FILE:1001084030.txt
+2026-01-28 10:50:41,133 | INFO | PRED_MD5:bc4e073ef0023ed68bd51211f608d073
+2026-01-28 10:50:41,134 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:50:41,134 | INFO | PRED unlovable_belief =['I am bound to be rejected', 'I am bound to be abandoned']
+2026-01-28 10:50:41,134 | INFO | PRED worthless_belief =[]
+2026-01-28 10:50:41,521 | INFO | 
+========================================
+2026-01-28 10:50:41,521 | INFO | [DONE] 13-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\13-1.json
+2026-01-28 10:50:41,521 | INFO | Scores:
+2026-01-28 10:50:41,522 | INFO |   embeddings_cosine: 0.4141122937202454
+2026-01-28 10:50:41,522 | INFO |   crossencoder_sts:  0.40212909281253817
+2026-01-28 10:50:41,522 | INFO |   nli_entailment:    0.10807433971743038
+2026-01-28 10:50:41,522 | INFO |   nli_contradiction: 0.2266
+2026-01-28 10:50:41,523 | INFO |   fine_jaccard:      0.0
+2026-01-28 10:50:41,523 | INFO |   major_jaccard:     0.0
+2026-01-28 10:50:41,523 | INFO | SOURCE_ID:14-1
+2026-01-28 10:50:41,523 | INFO | GOLD_ID:14-1
+2026-01-28 10:50:41,523 | INFO | GOLD helpless_belief =['I am helpless.', 'I am incompetent.', 'I am a failure, loser.']
+2026-01-28 10:50:41,524 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:50:41,524 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:50:41,524 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:51:07,961 | INFO | CBT generated
+2026-01-28 10:51:07,961 | INFO | {
+  "history": "Financial difficulties following questionable investments. Increased reliance on parents for financial assistance.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must not show vulnerability or weakness.",
+  "intermediate_belief_depression": "If I show weakness, I will be rejected and seen as worthless.",
+  "coping_strategies": [
+    "Withdrawal and avoidance through music and isolation."
+  ],
+  "situation": "Thinking about how past financial decisions may affect future plans.",
+  "auto_thought": "I ruin everything I touch.",
+  "emotion": [
+    "Anxiety",
+    "Guilt",
+    "Depression"
+  ],
+  "behavior": "Avoidance of social interactions and reliance on music for escape."
+}
+2026-01-28 10:51:07,962 | INFO | TRANSCRIPT_FILE:1000013235.txt
+2026-01-28 10:51:07,962 | INFO | PRED_MD5:70e3e51df5e4a83129029df7aa4f8d67
+2026-01-28 10:51:07,962 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:51:07,963 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:51:07,963 | INFO | PRED worthless_belief =['I am worthless, waste']
+2026-01-28 10:51:08,342 | INFO | 
+========================================
+2026-01-28 10:51:08,342 | INFO | [DONE] 14-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\14-1.json
+2026-01-28 10:51:08,343 | INFO | Scores:
+2026-01-28 10:51:08,343 | INFO |   embeddings_cosine: 0.22646646983921528
+2026-01-28 10:51:08,343 | INFO |   crossencoder_sts:  0.27549062967300414
+2026-01-28 10:51:08,344 | INFO |   nli_entailment:    0.010062816613743569
+2026-01-28 10:51:08,344 | INFO |   nli_contradiction: 0.1252
+2026-01-28 10:51:08,344 | INFO |   fine_jaccard:      0.0
+2026-01-28 10:51:08,345 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-28 10:51:08,345 | INFO | SOURCE_ID:15-1
+2026-01-28 10:51:08,345 | INFO | GOLD_ID:15-1
+2026-01-28 10:51:08,345 | INFO | GOLD helpless_belief =['I am helpless.', 'I am incompetent.', 'I am trapped.']
+2026-01-28 10:51:08,345 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:51:08,346 | INFO | GOLD worthless_belief =['I am worthless, waste.']
+2026-01-28 10:51:08,346 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:51:47,090 | INFO | CBT generated
+2026-01-28 10:51:47,091 | INFO | {
+  "history": "Ongoing workplace difficulties involving underappreciation and lack of support. Repeated experiences of ideas and suggestions not being accepted.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't stand up for myself, people will walk all over me.",
+  "intermediate_belief_depression": "If I don't fight back, I'll be seen as weak and worthless.",
+  "coping_strategies": [
+    "Engaging in physical fights to assert dominance and avoid feeling vulnerable."
+  ],
+  "situation": "A workplace discussion about culture and atmosphere conflicted with a client meeting scheduled by the mentor.",
+  "auto_thought": "If I don't assert myself, I'll be ignored and undervalued.",
+  "emotion": [
+    "Frustration",
+    "Anger"
+  ],
+  "behavior": "Engaging in confrontations and physical fights to assert control."
+}
+2026-01-28 10:51:47,091 | INFO | TRANSCRIPT_FILE:1002141911.txt
+2026-01-28 10:51:47,091 | INFO | PRED_MD5:cdb7cb37fcdb4674facb7f39a072f275
+2026-01-28 10:51:47,092 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:51:47,092 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:51:47,092 | INFO | PRED worthless_belief =[]
+2026-01-28 10:51:47,543 | INFO | 
+========================================
+2026-01-28 10:51:47,543 | INFO | [DONE] 15-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\15-1.json
+2026-01-28 10:51:47,543 | INFO | Scores:
+2026-01-28 10:51:47,544 | INFO |   embeddings_cosine: 0.33343459367752076
+2026-01-28 10:51:47,544 | INFO |   crossencoder_sts:  0.2286646455526352
+2026-01-28 10:51:47,544 | INFO |   nli_entailment:    0.05660009070241536
+2026-01-28 10:51:47,545 | INFO |   nli_contradiction: 0.49820000000000003
+2026-01-28 10:51:47,545 | INFO |   fine_jaccard:      0.0
+2026-01-28 10:51:47,545 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-28 10:51:47,545 | INFO | SOURCE_ID:16-1
+2026-01-28 10:51:47,546 | INFO | GOLD_ID:16-1
+2026-01-28 10:51:47,546 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am out of control.', 'I am a failure, loser.']
+2026-01-28 10:51:47,546 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:51:47,547 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:51:47,547 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:51:52,819 | INFO | CBT generated
+2026-01-28 10:51:52,819 | INFO | {
+  "history": "Spent about one year working on a project in Europe involving building a website and conducting interviews. Reports pride in the work and a wish to share the results. Past history of procrastination and anxiety. Uses strategies learned from a course and reminders to manage daily life.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be in control of my schedule to feel secure.",
+  "intermediate_belief_depression": "If I can't manage my schedule, I will fail.",
+  "coping_strategies": [
+    "Uses reminders and strategies from a course to manage daily life."
+  ],
+  "situation": "Working on a project close to its deadline with portions still needing to be posted online.",
+  "auto_thought": "I can't handle these changes and it's overwhelming.",
+  "emotion": [
+    "frustration",
+    "anxiety"
+  ],
+  "behavior": "Struggling to adjust to new work hours and increased workload."
+}
+2026-01-28 10:51:52,820 | INFO | TRANSCRIPT_FILE:1001084060.txt
+2026-01-28 10:51:52,820 | INFO | PRED_MD5:b61ac4356cc2a90d53bce8ebe349196d
+2026-01-28 10:51:52,820 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:51:52,821 | INFO | PRED unlovable_belief =[]
+2026-01-28 10:51:52,821 | INFO | PRED worthless_belief =[]
+2026-01-28 10:51:53,308 | INFO | 
+========================================
+2026-01-28 10:51:53,308 | INFO | [DONE] 16-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\16-1.json
+2026-01-28 10:51:53,308 | INFO | Scores:
+2026-01-28 10:51:53,309 | INFO |   embeddings_cosine: 0.436186757683754
+2026-01-28 10:51:53,309 | INFO |   crossencoder_sts:  0.45116606950759885
+2026-01-28 10:51:53,310 | INFO |   nli_entailment:    0.11012047983713016
+2026-01-28 10:51:53,310 | INFO |   nli_contradiction: 0.0014
+2026-01-28 10:51:53,311 | INFO |   fine_jaccard:      0.0
+2026-01-28 10:51:53,311 | INFO |   major_jaccard:     1.0
+2026-01-28 10:51:53,312 | INFO | SOURCE_ID:17-1
+2026-01-28 10:51:53,312 | INFO | GOLD_ID:17-1
+2026-01-28 10:51:53,312 | INFO | GOLD helpless_belief =['I am powerless, weak, vulnerable.', 'I am needy.']
+2026-01-28 10:51:53,313 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am undesirable, unwanted.', 'I am bound to be abandoned.', 'I am bound to be alone.']
+2026-01-28 10:51:53,313 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:51:53,314 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:52:00,222 | INFO | CBT generated
+2026-01-28 10:52:00,222 | INFO | {
+  "history": "Sarah is in a long-term relationship with Amelia. Amelia has a demanding professional schedule. Sarah feels isolated during the week. Sarah does most household tasks and does not discuss resentment with Amelia. History includes childhood separations from parents associated with distress.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I express my needs, I will be rejected.",
+  "intermediate_belief_depression": "I must handle everything on my own because I am not worthy of support.",
+  "coping_strategies": [
+    "Avoids discussing feelings and needs with Amelia, leading to internalized resentment."
+  ],
+  "situation": "Not receiving communication from the partner during the day and attempting to make contact.",
+  "auto_thought": "Amelia doesn't care about me or my needs.",
+  "emotion": [
+    "Isolation",
+    "Resentment",
+    "Anxiety"
+  ],
+  "behavior": "Attempts to make contact with Amelia but avoids discussing feelings of resentment."
+}
+2026-01-28 10:52:00,222 | INFO | TRANSCRIPT_FILE:1004600922.txt
+2026-01-28 10:52:00,223 | INFO | PRED_MD5:7d5910d96234b188ad0a5e7e2b92963c
+2026-01-28 10:52:00,223 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:52:00,223 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:52:00,224 | INFO | PRED worthless_belief =['I am worthless, waste']
+2026-01-28 10:52:00,735 | INFO | 
+========================================
+2026-01-28 10:52:00,736 | INFO | [DONE] 17-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\17-1.json
+2026-01-28 10:52:00,736 | INFO | Scores:
+2026-01-28 10:52:00,736 | INFO |   embeddings_cosine: 0.43451579809188845
+2026-01-28 10:52:00,737 | INFO |   crossencoder_sts:  0.36416332721710204
+2026-01-28 10:52:00,737 | INFO |   nli_entailment:    0.19947246194617713
+2026-01-28 10:52:00,737 | INFO |   nli_contradiction: 0.11040000000000001
+2026-01-28 10:52:00,738 | INFO |   fine_jaccard:      0.125
+2026-01-28 10:52:00,738 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-28 10:52:00,738 | INFO | SOURCE_ID:18-1
+2026-01-28 10:52:00,739 | INFO | GOLD_ID:18-1
+2026-01-28 10:52:00,739 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am helpless.', 'I am a failure, loser.']
+2026-01-28 10:52:00,739 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:52:00,739 | INFO | GOLD worthless_belief =['I am worthless, waste.']
+2026-01-28 10:52:00,740 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:52:05,375 | INFO | CBT generated
+2026-01-28 10:52:05,375 | INFO | {
+  "history": "Academic underperformance despite being described as intelligent. Attended a college (institution X), felt isolated, and dropped out. About two years of credits remain to complete the degree. Mother had high expectations. Financial difficulties and pressure from the mother to return home.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must stay on top of things from the beginning to succeed.",
+  "intermediate_belief_depression": "If I don't stay on top of things, I will fall behind and fail.",
+  "coping_strategies": [
+    "Using a planner to organize tasks and schedule, seeking help from advisors, and planning to exercise."
+  ],
+  "situation": "Experienced an unproductive week due to scheduling problems. Comparing themselves to their sister's achievements and time management.",
+  "auto_thought": "I need to stay on top of things from the beginning.",
+  "emotion": [
+    "Worried",
+    "Frustrated"
+  ],
+  "behavior": "Using a planner to organize tasks, planning to exercise, and seeking academic support."
+}
+2026-01-28 10:52:05,376 | INFO | TRANSCRIPT_FILE:1003009221.txt
+2026-01-28 10:52:05,376 | INFO | PRED_MD5:8ba0dc4bd2ddac82c78aa2d17cd949e6
+2026-01-28 10:52:05,376 | INFO | PRED helpless_belief =['I am incompetent', 'I am a failure, loser']
+2026-01-28 10:52:05,377 | INFO | PRED unlovable_belief =[]
+2026-01-28 10:52:05,377 | INFO | PRED worthless_belief =[]
+2026-01-28 10:52:05,757 | INFO | 
+========================================
+2026-01-28 10:52:05,757 | INFO | [DONE] 18-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\18-1.json
+2026-01-28 10:52:05,757 | INFO | Scores:
+2026-01-28 10:52:05,758 | INFO |   embeddings_cosine: 0.2863039433956146
+2026-01-28 10:52:05,758 | INFO |   crossencoder_sts:  0.3140091925859451
+2026-01-28 10:52:05,759 | INFO |   nli_entailment:    0.08832007637276981
+2026-01-28 10:52:05,759 | INFO |   nli_contradiction: 0.1981
+2026-01-28 10:52:05,759 | INFO |   fine_jaccard:      0.5
+2026-01-28 10:52:05,759 | INFO |   major_jaccard:     0.5
+2026-01-28 10:52:05,760 | INFO | SOURCE_ID:19-1
+2026-01-28 10:52:05,760 | INFO | GOLD_ID:19-1
+2026-01-28 10:52:05,760 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am helpless.', 'I am a failure, loser.']
+2026-01-28 10:52:05,761 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:52:05,761 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:52:05,761 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:52:24,643 | INFO | CBT generated
+2026-01-28 10:52:24,644 | INFO | {
+  "history": "Rachel has recurring relationship problems with her husband Ivan. Work-related stress. Sister Emma often takes a caring role toward Rachel. Father had a successful career and strong work ethic, influencing Rachel's expectations. Recently laid off and currently looking for new employment.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be understood and validated by others.",
+  "intermediate_belief_depression": "If others don't validate my experiences, it means I'm overreacting or being dramatic.",
+  "coping_strategies": [
+    "Rachel often puts on a 'happy clown dance' to mask her true feelings and avoid being perceived as dramatic."
+  ],
+  "situation": "Comparing personal career aspirations to those of the spouse.",
+  "auto_thought": "People don't understand what I'm going through, and they think I'm making a bigger deal out of things.",
+  "emotion": [
+    "Anxiety",
+    "Frustration",
+    "Loneliness"
+  ],
+  "behavior": "Rachel tends to withdraw from conversations when she feels misunderstood or invalidated."
+}
+2026-01-28 10:52:24,644 | INFO | TRANSCRIPT_FILE:1004528623.txt
+2026-01-28 10:52:24,645 | INFO | PRED_MD5:71e3098063046f1332c676259b12dafe
+2026-01-28 10:52:24,645 | INFO | PRED helpless_belief =['I am helpless', 'I am incompetent']
+2026-01-28 10:52:24,645 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:52:24,646 | INFO | PRED worthless_belief =[]
+2026-01-28 10:52:25,118 | INFO | 
+========================================
+2026-01-28 10:52:25,118 | INFO | [DONE] 19-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\19-1.json
+2026-01-28 10:52:25,118 | INFO | Scores:
+2026-01-28 10:52:25,119 | INFO |   embeddings_cosine: 0.34895414412021636
+2026-01-28 10:52:25,119 | INFO |   crossencoder_sts:  0.3251083493232727
+2026-01-28 10:52:25,119 | INFO |   nli_entailment:    0.10052801911175675
+2026-01-28 10:52:25,120 | INFO |   nli_contradiction: 0.016800000000000002
+2026-01-28 10:52:25,120 | INFO |   fine_jaccard:      0.5
+2026-01-28 10:52:25,121 | INFO |   major_jaccard:     0.5
+2026-01-28 10:52:25,121 | INFO | SOURCE_ID:20-1
+2026-01-28 10:52:25,121 | INFO | GOLD_ID:20-1
+2026-01-28 10:52:25,121 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am helpless.', 'I am powerless, weak, vulnerable.', 'I am trapped.']
+2026-01-28 10:52:25,122 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:52:25,122 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:52:25,122 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:52:31,650 | INFO | CBT generated
+2026-01-28 10:52:31,651 | INFO | {
+  "history": "Multiple past jobs involved micromanagement. Reports self-blame in work contexts.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake, it means I am not good enough.",
+  "intermediate_belief_depression": "I can't handle criticism or blame.",
+  "coping_strategies": [
+    "Avoids confrontation and internalizes blame."
+  ],
+  "situation": "Being blamed at work for spreadsheet errors that were not theirs.",
+  "auto_thought": "It's my fault even if it's not directly my mistake.",
+  "emotion": [
+    "Anxiety",
+    "Fear"
+  ],
+  "behavior": "Avoids addressing the issue directly and internalizes the blame."
+}
+2026-01-28 10:52:31,651 | INFO | TRANSCRIPT_FILE:1002565979.txt
+2026-01-28 10:52:31,652 | INFO | PRED_MD5:484ffd901a6a7d85e812aaa6d05e6e8c
+2026-01-28 10:52:31,652 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:52:31,653 | INFO | PRED unlovable_belief =[]
+2026-01-28 10:52:31,653 | INFO | PRED worthless_belief =[]
+2026-01-28 10:52:32,135 | INFO | 
+========================================
+2026-01-28 10:52:32,136 | INFO | [DONE] 20-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\20-1.json
+2026-01-28 10:52:32,136 | INFO | Scores:
+2026-01-28 10:52:32,136 | INFO |   embeddings_cosine: 0.400900399684906
+2026-01-28 10:52:32,136 | INFO |   crossencoder_sts:  0.4096520245075226
+2026-01-28 10:52:32,137 | INFO |   nli_entailment:    0.24514583821364408
+2026-01-28 10:52:32,137 | INFO |   nli_contradiction: 0.21030000000000001
+2026-01-28 10:52:32,137 | INFO |   fine_jaccard:      0.25
+2026-01-28 10:52:32,138 | INFO |   major_jaccard:     1.0
+2026-01-28 10:52:32,138 | INFO | SOURCE_ID:21-1
+2026-01-28 10:52:32,138 | INFO | GOLD_ID:21-1
+2026-01-28 10:52:32,139 | INFO | GOLD helpless_belief =['I am helpless.', 'I am powerless, weak, vulnerable.', 'I am trapped.']
+2026-01-28 10:52:32,139 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am undesirable, unwanted.', 'I am bound to be abandoned.']
+2026-01-28 10:52:32,140 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:52:32,140 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:52:50,968 | INFO | CBT generated
+2026-01-28 10:52:50,968 | INFO | {
+  "history": "History of family conflict with a dismissive and unsupportive father. Estrangement from the father. Ongoing stress related to partner's family, including a difficult relationship with the partner's sister-in-law.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must not make mistakes or I will be criticized.",
+  "intermediate_belief_depression": "I am not good enough if I don't achieve high standards.",
+  "coping_strategies": [
+    "Overcommitting to responsibilities and being self-critical to avoid perceived failures."
+  ],
+  "situation": "Anticipating interactions with Candace during an upcoming family vacation in Maine.",
+  "auto_thought": "I always mess things up and can't relax.",
+  "emotion": [
+    "Anxiety",
+    "Mild depression"
+  ],
+  "behavior": "Avoidance of decision-making and self-criticism."
+}
+2026-01-28 10:52:50,969 | INFO | TRANSCRIPT_FILE:1001083966.txt
+2026-01-28 10:52:50,969 | INFO | PRED_MD5:092735742b69379f0752f092f53c1230
+2026-01-28 10:52:50,969 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:52:50,970 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:52:50,970 | INFO | PRED worthless_belief =[]
+2026-01-28 10:52:51,470 | INFO | 
+========================================
+2026-01-28 10:52:51,470 | INFO | [DONE] 21-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\21-1.json
+2026-01-28 10:52:51,470 | INFO | Scores:
+2026-01-28 10:52:51,471 | INFO |   embeddings_cosine: 0.3547069042921066
+2026-01-28 10:52:51,471 | INFO |   crossencoder_sts:  0.2391455238685012
+2026-01-28 10:52:51,471 | INFO |   nli_entailment:    0.008874238075618192
+2026-01-28 10:52:51,472 | INFO |   nli_contradiction: 0.2008
+2026-01-28 10:52:51,472 | INFO |   fine_jaccard:      0.14285714285714285
+2026-01-28 10:52:51,472 | INFO |   major_jaccard:     1.0
+2026-01-28 10:52:51,473 | INFO | SOURCE_ID:22-1
+2026-01-28 10:52:51,473 | INFO | GOLD_ID:22-1
+2026-01-28 10:52:51,473 | INFO | GOLD helpless_belief =['I am helpless.', 'I am a victim.', 'I am trapped.']
+2026-01-28 10:52:51,474 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be abandoned.']
+2026-01-28 10:52:51,474 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:52:51,474 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:53:08,632 | INFO | CBT generated
+2026-01-28 10:53:08,633 | INFO | {
+  "history": "Ongoing interpersonal difficulties involving a partner named Ivan and his family. Recent trust and betrayal issues involving Ivan. Ongoing contact with Ivan's family.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must perform perfectly to be accepted.",
+  "intermediate_belief_depression": "If I fail, I will be rejected.",
+  "coping_strategies": [
+    "Avoidance of situations that trigger anxiety, such as leaving meetings."
+  ],
+  "situation": "Discovered that Ivan made travel plans without consulting the patient.",
+  "auto_thought": "I am going to blow it or I won't have the right answers.",
+  "emotion": [
+    "Fear",
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Leaves the situation to cope with anxiety."
+}
+2026-01-28 10:53:08,633 | INFO | TRANSCRIPT_FILE:1000341222.txt
+2026-01-28 10:53:08,633 | INFO | PRED_MD5:6556d926036b9a2e23140d7a4e85c208
+2026-01-28 10:53:08,633 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable', 'I am trapped']
+2026-01-28 10:53:08,634 | INFO | PRED unlovable_belief =[]
+2026-01-28 10:53:08,634 | INFO | PRED worthless_belief =[]
+2026-01-28 10:53:08,938 | INFO | 
+========================================
+2026-01-28 10:53:08,938 | INFO | [DONE] 22-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\22-1.json
+2026-01-28 10:53:08,939 | INFO | Scores:
+2026-01-28 10:53:08,939 | INFO |   embeddings_cosine: 0.233234740793705
+2026-01-28 10:53:08,940 | INFO |   crossencoder_sts:  0.20305585414171218
+2026-01-28 10:53:08,940 | INFO |   nli_entailment:    0.01730759425163349
+2026-01-28 10:53:08,940 | INFO |   nli_contradiction: 0.20090000000000002
+2026-01-28 10:53:08,940 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-28 10:53:08,941 | INFO |   major_jaccard:     0.5
+2026-01-28 10:53:08,941 | INFO | SOURCE_ID:23-1
+2026-01-28 10:53:08,941 | INFO | GOLD_ID:23-1
+2026-01-28 10:53:08,942 | INFO | GOLD helpless_belief =['I am helpless.', 'I am powerless, weak, vulnerable.', 'I am trapped.', 'I am out of control.']
+2026-01-28 10:53:08,942 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be abandoned.']
+2026-01-28 10:53:08,942 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:53:08,943 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:53:23,510 | INFO | CBT generated
+2026-01-28 10:53:23,510 | INFO | {
+  "history": "Longstanding difficult interactions with the patient's mother. Strained communication and delayed sharing of significant events within the family.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I enjoy myself too much, I will be scolded or criticized.",
+  "intermediate_belief_depression": "I must not trust good times because they won't last.",
+  "coping_strategies": [
+    "Avoids fully enjoying experiences and remains guarded to prevent disappointment."
+  ],
+  "situation": "Preparing for an upcoming visit from parents.",
+  "auto_thought": "I shouldn't enjoy myself too much or I'll be criticized.",
+  "emotion": [
+    "Frustration",
+    "Fear",
+    "Anxiety"
+  ],
+  "behavior": "Holds back in therapy sessions and social situations, remains guarded."
+}
+2026-01-28 10:53:23,511 | INFO | TRANSCRIPT_FILE:1000013331.txt
+2026-01-28 10:53:23,512 | INFO | PRED_MD5:6851fca4810f8fa2213e3e812b023e98
+2026-01-28 10:53:23,512 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:53:23,513 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:53:23,513 | INFO | PRED worthless_belief =[]
+2026-01-28 10:53:23,904 | INFO | 
+========================================
+2026-01-28 10:53:23,904 | INFO | [DONE] 23-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\23-1.json
+2026-01-28 10:53:23,904 | INFO | Scores:
+2026-01-28 10:53:23,906 | INFO |   embeddings_cosine: 0.36060539484024046
+2026-01-28 10:53:23,906 | INFO |   crossencoder_sts:  0.22424608170986177
+2026-01-28 10:53:23,906 | INFO |   nli_entailment:    0.032394615969561356
+2026-01-28 10:53:23,906 | INFO |   nli_contradiction: 0.10049999999999996
+2026-01-28 10:53:23,906 | INFO |   fine_jaccard:      0.14285714285714285
+2026-01-28 10:53:23,907 | INFO |   major_jaccard:     1.0
+2026-01-28 10:53:23,907 | INFO | SOURCE_ID:24-1
+2026-01-28 10:53:23,907 | INFO | GOLD_ID:24-1
+2026-01-28 10:53:23,908 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am helpless.', 'I am powerless, weak, vulnerable.', 'I am a failure, loser.']
+2026-01-28 10:53:23,908 | INFO | GOLD unlovable_belief =['I am undesirable, unwanted.', 'I am bound to be abandoned.']
+2026-01-28 10:53:23,908 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:53:23,908 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:53:28,356 | INFO | CBT generated
+2026-01-28 10:53:28,356 | INFO | {
+  "history": "Past experiences of pressure related to performance and social interactions. Reports presenting a confident front and hiding vulnerability. A recent business failure led to financial hardship.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must always appear strong and capable.",
+  "intermediate_belief_depression": "If I fail, I am worthless.",
+  "coping_strategies": [
+    "Presents a confident front and hides vulnerability."
+  ],
+  "situation": "Invited to visit their sister while dealing with financial instability.",
+  "auto_thought": "I can't let anyone see I'm struggling.",
+  "emotion": [
+    "anxiety",
+    "fear"
+  ],
+  "behavior": "Avoids discussing personal struggles and maintains a facade of confidence."
+}
+2026-01-28 10:53:28,357 | INFO | TRANSCRIPT_FILE:1002565843.txt
+2026-01-28 10:53:28,358 | INFO | PRED_MD5:334261d1a7b08b848157917ea1c3abd6
+2026-01-28 10:53:28,358 | INFO | PRED helpless_belief =['I am helpless', 'I am a failure, loser']
+2026-01-28 10:53:28,359 | INFO | PRED unlovable_belief =[]
+2026-01-28 10:53:28,359 | INFO | PRED worthless_belief =[]
+2026-01-28 10:53:28,703 | INFO | 
+========================================
+2026-01-28 10:53:28,703 | INFO | [DONE] 24-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\24-1.json
+2026-01-28 10:53:28,703 | INFO | Scores:
+2026-01-28 10:53:28,704 | INFO |   embeddings_cosine: 0.38208359479904175
+2026-01-28 10:53:28,704 | INFO |   crossencoder_sts:  0.4086500585079193
+2026-01-28 10:53:28,705 | INFO |   nli_entailment:    0.42363048355884303
+2026-01-28 10:53:28,706 | INFO |   nli_contradiction: 0.0524
+2026-01-28 10:53:28,706 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-28 10:53:28,706 | INFO |   major_jaccard:     0.5
+2026-01-28 10:53:28,706 | INFO | SOURCE_ID:25-1
+2026-01-28 10:53:28,706 | INFO | GOLD_ID:25-1
+2026-01-28 10:53:28,706 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am powerless, weak, vulnerable.', 'I am a failure, loser.']
+2026-01-28 10:53:28,707 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:53:28,707 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:53:28,707 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:53:59,388 | INFO | CBT generated
+2026-01-28 10:53:59,388 | INFO | {
+  "history": "Works in an educational setting with children who have learning disabilities. Describes being pampered by parents and having minimal consequences earlier in life. Ongoing conflicts with authority figures.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to excel to be valued.",
+  "intermediate_belief_depression": "If I make mistakes, I am not good enough.",
+  "coping_strategies": [
+    "Tries to outperform siblings and peers to gain approval."
+  ],
+  "situation": "Encouraging students to socialize and participate in campus activities, with results falling short of expectations.",
+  "auto_thought": "I must do better; there is no room for mistakes.",
+  "emotion": [
+    "frustration",
+    "anger"
+  ],
+  "behavior": "Becomes grumpy and frustrated when unable to meet self-imposed high standards."
+}
+2026-01-28 10:53:59,389 | INFO | TRANSCRIPT_FILE:1001114246.txt
+2026-01-28 10:53:59,389 | INFO | PRED_MD5:5e8b6801c3e64b07d3234a27b2e635c3
+2026-01-28 10:53:59,390 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:53:59,390 | INFO | PRED unlovable_belief =[]
+2026-01-28 10:53:59,390 | INFO | PRED worthless_belief =[]
+2026-01-28 10:53:59,854 | INFO | 
+========================================
+2026-01-28 10:53:59,854 | INFO | [DONE] 25-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\25-1.json
+2026-01-28 10:53:59,855 | INFO | Scores:
+2026-01-28 10:53:59,855 | INFO |   embeddings_cosine: 0.26736145466566086
+2026-01-28 10:53:59,856 | INFO |   crossencoder_sts:  0.2468920901417732
+2026-01-28 10:53:59,856 | INFO |   nli_entailment:    0.01679605683093949
+2026-01-28 10:53:59,856 | INFO |   nli_contradiction: 0.0467
+2026-01-28 10:53:59,857 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-28 10:53:59,857 | INFO |   major_jaccard:     1.0
+2026-01-28 10:53:59,857 | INFO | SOURCE_ID:26-1
+2026-01-28 10:53:59,858 | INFO | GOLD_ID:26-1
+2026-01-28 10:53:59,858 | INFO | GOLD helpless_belief =['I am helpless.', 'I am out of control.', 'I am powerless, weak, vulnerable.', 'I am trapped.']
+2026-01-28 10:53:59,858 | INFO | GOLD unlovable_belief =['I am unlovable.']
+2026-01-28 10:53:59,858 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:53:59,859 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:54:22,897 | INFO | CBT generated
+2026-01-28 10:54:22,897 | INFO | {
+  "history": "Ongoing work-related uncertainty and anxiety. Married recently; the relationship included instances of physical abuse by spouse Ivan and resulted in separation. Both partners are interested in resolving issues and are attending couples therapy.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't marry her, she will be sad and it will be my fault.",
+  "intermediate_belief_depression": "I must intellectualize to manage my feelings.",
+  "coping_strategies": [
+    "Intellectualizing emotions to avoid feeling them."
+  ],
+  "situation": "Exposed to clinical terms used to describe the spouse's behavior during therapy sessions.",
+  "auto_thought": "I feel like I'm losing control over myself.",
+  "emotion": [
+    "Frustration",
+    "Anger",
+    "Resentment",
+    "Ambivalence"
+  ],
+  "behavior": "Avoids addressing feelings directly, intellectualizes emotions, considers acting out by seeking relationships outside marriage."
+}
+2026-01-28 10:54:22,898 | INFO | TRANSCRIPT_FILE:1000053430.txt
+2026-01-28 10:54:22,898 | INFO | PRED_MD5:dd72085afb39874373853956bf52ed38
+2026-01-28 10:54:22,899 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable', 'I am trapped']
+2026-01-28 10:54:22,899 | INFO | PRED unlovable_belief =[]
+2026-01-28 10:54:22,899 | INFO | PRED worthless_belief =[]
+2026-01-28 10:54:23,292 | INFO | 
+========================================
+2026-01-28 10:54:23,293 | INFO | [DONE] 26-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\26-1.json
+2026-01-28 10:54:23,293 | INFO | Scores:
+2026-01-28 10:54:23,293 | INFO |   embeddings_cosine: 0.24051048159599303
+2026-01-28 10:54:23,294 | INFO |   crossencoder_sts:  0.28104507625103
+2026-01-28 10:54:23,294 | INFO |   nli_entailment:    0.19097628310964818
+2026-01-28 10:54:23,295 | INFO |   nli_contradiction: 0.19899999999999998
+2026-01-28 10:54:23,295 | INFO |   fine_jaccard:      0.4
+2026-01-28 10:54:23,295 | INFO |   major_jaccard:     0.5
+2026-01-28 10:54:23,295 | INFO | SOURCE_ID:27-1
+2026-01-28 10:54:23,296 | INFO | GOLD_ID:27-1
+2026-01-28 10:54:23,296 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am helpless.', 'I am powerless, weak, vulnerable.']
+2026-01-28 10:54:23,296 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be rejected.', 'I am bound to be abandoned.']
+2026-01-28 10:54:23,296 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:54:23,297 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:54:28,152 | INFO | CBT generated
+2026-01-28 10:54:28,153 | INFO | {
+  "history": "Recent divorce and financial difficulties. Relationship since age 19. Has a young son and is settling child support issues. Adjusting to being alone and handling new experiences (e.g., traveling alone with her son, visiting family without a partner).",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must handle everything on my own.",
+  "intermediate_belief_depression": "I can't rely on anyone for support.",
+  "coping_strategies": [
+    "Attempts to manage everything independently, possibly leading to stress."
+  ],
+  "situation": "Received an email from the ex-partner refusing to agree on child support and financial arrangements.",
+  "auto_thought": "I can't believe I'm dealing with this alone.",
+  "emotion": [
+    "Frustration",
+    "Anxiety"
+  ],
+  "behavior": "Attempts to negotiate and manage the situation independently."
+}
+2026-01-28 10:54:28,153 | INFO | TRANSCRIPT_FILE:1002565985.txt
+2026-01-28 10:54:28,154 | INFO | PRED_MD5:77a37bdc6257777cbc6a704317ae888d
+2026-01-28 10:54:28,154 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:54:28,154 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:54:28,155 | INFO | PRED worthless_belief =[]
+2026-01-28 10:54:28,483 | INFO | 
+========================================
+2026-01-28 10:54:28,483 | INFO | [DONE] 27-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\27-1.json
+2026-01-28 10:54:28,484 | INFO | Scores:
+2026-01-28 10:54:28,484 | INFO |   embeddings_cosine: 0.38587244749069216
+2026-01-28 10:54:28,484 | INFO |   crossencoder_sts:  0.38394024670124055
+2026-01-28 10:54:28,485 | INFO |   nli_entailment:    0.12584552533711235
+2026-01-28 10:54:28,485 | INFO |   nli_contradiction: 0.30019999999999997
+2026-01-28 10:54:28,485 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-28 10:54:28,485 | INFO |   major_jaccard:     1.0
+2026-01-28 10:54:28,485 | INFO | SOURCE_ID:28-1
+2026-01-28 10:54:28,486 | INFO | GOLD_ID:28-1
+2026-01-28 10:54:28,486 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am powerless, weak, vulnerable.', 'I am a failure, loser.']
+2026-01-28 10:54:28,486 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:54:28,486 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:54:28,487 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:54:35,581 | INFO | CBT generated
+2026-01-28 10:54:35,582 | INFO | {
+  "history": "History of self-critical tendencies. Used to maintaining control and achieving goals. Current challenges involve job seeking, personal relationships, and family dynamics.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must maintain control to be valued.",
+  "intermediate_belief_depression": "If I can't control my environment, I am a failure.",
+  "coping_strategies": [
+    "Avoids deep connections and maintains a facade to please others."
+  ],
+  "situation": "Experiencing difficulties with job searching. Dealing with ongoing relationship and family conflicts involving a person named Ivan.",
+  "auto_thought": "I am just a pretender with no real self.",
+  "emotion": [
+    "Remorse",
+    "Confusion",
+    "Amusement"
+  ],
+  "behavior": "Engages in self-reflection and philosophical discussions to understand his identity."
+}
+2026-01-28 10:54:35,582 | INFO | TRANSCRIPT_FILE:1000122143.txt
+2026-01-28 10:54:35,583 | INFO | PRED_MD5:0f9fb58f705b14ae4f23ceafe07b514a
+2026-01-28 10:54:35,583 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:54:35,583 | INFO | PRED unlovable_belief =['I am bound to be alone']
+2026-01-28 10:54:35,584 | INFO | PRED worthless_belief =['I am worthless, waste']
+2026-01-28 10:54:36,042 | INFO | 
+========================================
+2026-01-28 10:54:36,042 | INFO | [DONE] 28-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\28-1.json
+2026-01-28 10:54:36,042 | INFO | Scores:
+2026-01-28 10:54:36,043 | INFO |   embeddings_cosine: 0.2648791491985321
+2026-01-28 10:54:36,043 | INFO |   crossencoder_sts:  0.21890795677900315
+2026-01-28 10:54:36,044 | INFO |   nli_entailment:    0.025575844502578843
+2026-01-28 10:54:36,044 | INFO |   nli_contradiction: 0.22760000000000002
+2026-01-28 10:54:36,044 | INFO |   fine_jaccard:      0.2
+2026-01-28 10:54:36,044 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-28 10:54:36,044 | INFO | SOURCE_ID:29-1
+2026-01-28 10:54:36,045 | INFO | GOLD_ID:29-1
+2026-01-28 10:54:36,045 | INFO | GOLD helpless_belief =['I am powerless, weak, vulnerable.', 'I am out of control.']
+2026-01-28 10:54:36,045 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:54:36,045 | INFO | GOLD worthless_belief =['I am worthless, waste.']
+2026-01-28 10:54:36,045 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:54:48,985 | INFO | CBT generated
+2026-01-28 10:54:48,985 | INFO | {
+  "history": "Strong identification with a research lab workplace and a sense of camaraderie from interactions and accomplishments. A close coworker left, which had emotional significance for the patient. The lab contrasts with the patient's personal life, described as less predictable and comfortable.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I shouldn't ask for help.",
+  "intermediate_belief_depression": "I am trapped in a complicated world.",
+  "coping_strategies": [
+    "Avoids expressing anger directly, struggles with indecisiveness, and rebels against schedules."
+  ],
+  "situation": "Preparing for an important discussion scheduled in January. Preparing for a lab meeting involving troubleshooting equipment and learning programming.",
+  "auto_thought": "Why does the world have to be so complicated?",
+  "emotion": [
+    "frustration",
+    "vulnerability",
+    "longing"
+  ],
+  "behavior": "Works late into the night, struggles with expressing emotions, and feels conflicted about therapy."
+}
+2026-01-28 10:54:48,986 | INFO | TRANSCRIPT_FILE:1000013416.txt
+2026-01-28 10:54:48,986 | INFO | PRED_MD5:e50d00a0e8743890c4612f3739a52c2e
+2026-01-28 10:54:48,987 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:54:48,987 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:54:48,987 | INFO | PRED worthless_belief =[]
+2026-01-28 10:54:49,467 | INFO | 
+========================================
+2026-01-28 10:54:49,467 | INFO | [DONE] 29-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\29-1.json
+2026-01-28 10:54:49,468 | INFO | Scores:
+2026-01-28 10:54:49,468 | INFO |   embeddings_cosine: 0.2726975943893194
+2026-01-28 10:54:49,468 | INFO |   crossencoder_sts:  0.16125124767422677
+2026-01-28 10:54:49,469 | INFO |   nli_entailment:    0.06365576583282728
+2026-01-28 10:54:49,469 | INFO |   nli_contradiction: 0.2838
+2026-01-28 10:54:49,470 | INFO |   fine_jaccard:      0.25
+2026-01-28 10:54:49,470 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-28 10:54:49,470 | INFO | SOURCE_ID:30-1
+2026-01-28 10:54:49,471 | INFO | GOLD_ID:30-1
+2026-01-28 10:54:49,471 | INFO | GOLD helpless_belief =['I am helpless.', 'I am powerless, weak, vulnerable.']
+2026-01-28 10:54:49,471 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be rejected.']
+2026-01-28 10:54:49,471 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:54:49,471 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:55:08,853 | INFO | CBT generated
+2026-01-28 10:55:08,853 | INFO | {
+  "history": "Recently completed an undergraduate degree and is entering the workforce. Came out to parents within the last two and a half years and received negative reactions. Became more distant from parents afterward. Moved to New York for education and explored identity away from family influence. Strained relationship with mother, described as focused on practical concerns rather than emotional support. Tension with sister described as envious of the patient's independence and achievements.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am defective"
+  ],
+  "intermediate_belief": "I must not show vulnerability or I will be rejected.",
+  "intermediate_belief_depression": "If I can't maintain relationships, I am a failure.",
+  "coping_strategies": [
+    "Avoids confrontation and expressing anger, leading to passive behavior."
+  ],
+  "situation": "Deciding whether to disclose a recent breakup to parents.",
+  "auto_thought": "There's something wrong with me that makes people despise me.",
+  "emotion": [
+    "Sadness",
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Withdraws from social interactions and avoids discussing personal issues."
+}
+2026-01-28 10:55:08,854 | INFO | TRANSCRIPT_FILE:1000060758.txt
+2026-01-28 10:55:08,854 | INFO | PRED_MD5:59a59902ff1b50045a394d8f54f47dfd
+2026-01-28 10:55:08,855 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:55:08,855 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:55:08,856 | INFO | PRED worthless_belief =['I am defective']
+2026-01-28 10:55:09,269 | INFO | 
+========================================
+2026-01-28 10:55:09,269 | INFO | [DONE] 30-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\30-1.json
+2026-01-28 10:55:09,270 | INFO | Scores:
+2026-01-28 10:55:09,270 | INFO |   embeddings_cosine: 0.3617247372865677
+2026-01-28 10:55:09,270 | INFO |   crossencoder_sts:  0.296817222982645
+2026-01-28 10:55:09,271 | INFO |   nli_entailment:    0.00635172468863246
+2026-01-28 10:55:09,271 | INFO |   nli_contradiction: 0.10129999999999997
+2026-01-28 10:55:09,271 | INFO |   fine_jaccard:      0.4
+2026-01-28 10:55:09,271 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-28 10:55:09,272 | INFO | SOURCE_ID:31-1
+2026-01-28 10:55:09,272 | INFO | GOLD_ID:31-1
+2026-01-28 10:55:09,272 | INFO | GOLD helpless_belief =['I am helpless.', 'I am powerless, weak, vulnerable.']
+2026-01-28 10:55:09,272 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be alone.']
+2026-01-28 10:55:09,272 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:55:09,272 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:55:15,970 | INFO | CBT generated
+2026-01-28 10:55:15,970 | INFO | {
+  "history": "Recent deaths in the family: an uncle and a cousin. Ongoing concern about parents' health. Father's health conditions include uncontrolled diabetes, high blood pressure, kidney problems, and high cholesterol. Tension with father related to emotional distance and lack of transparency about health issues.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be in control to feel safe.",
+  "intermediate_belief_depression": "If I can't control my environment, I will feel overwhelmed.",
+  "coping_strategies": [
+    "Attempts to stay busy and avoid boredom to manage feelings of irritability and anxiety."
+  ],
+  "situation": "Received a phone call from the mother regarding the father's health. Watched television afterward.",
+  "auto_thought": "I can't handle this situation; I need to do something to feel in control.",
+  "emotion": [
+    "Irritability",
+    "Anxiety"
+  ],
+  "behavior": "Staying busy, difficulty sitting still, biting nails."
+}
+2026-01-28 10:55:15,971 | INFO | TRANSCRIPT_FILE:1002565970.txt
+2026-01-28 10:55:15,971 | INFO | PRED_MD5:e2dbf1b9bbb9984aab445ce7aa4fe95e
+2026-01-28 10:55:15,972 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:55:15,972 | INFO | PRED unlovable_belief =[]
+2026-01-28 10:55:15,973 | INFO | PRED worthless_belief =[]
+2026-01-28 10:55:16,448 | INFO | 
+========================================
+2026-01-28 10:55:16,448 | INFO | [DONE] 31-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\31-1.json
+2026-01-28 10:55:16,448 | INFO | Scores:
+2026-01-28 10:55:16,449 | INFO |   embeddings_cosine: 0.4139864444732666
+2026-01-28 10:55:16,449 | INFO |   crossencoder_sts:  0.36169109009206296
+2026-01-28 10:55:16,449 | INFO |   nli_entailment:    0.1977111898018678
+2026-01-28 10:55:16,449 | INFO |   nli_contradiction: 0.0099
+2026-01-28 10:55:16,450 | INFO |   fine_jaccard:      0.25
+2026-01-28 10:55:16,451 | INFO |   major_jaccard:     0.5
+2026-01-28 10:55:16,451 | INFO | SOURCE_ID:32-1
+2026-01-28 10:55:16,451 | INFO | GOLD_ID:32-1
+2026-01-28 10:55:16,452 | INFO | GOLD helpless_belief =['I am a failure, loser.']
+2026-01-28 10:55:16,452 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be rejected.']
+2026-01-28 10:55:16,452 | INFO | GOLD worthless_belief =['I am worthless, waste.']
+2026-01-28 10:55:16,452 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:55:27,681 | INFO | CBT generated
+2026-01-28 10:55:27,682 | INFO | {
+  "history": "Strained relationships with parents and a history of feeling judged and disapproved of. Mother's health condition mentioned. Issues related to parental support during education. Mentions of the mother being described as 'broken' and allegations of a past affair.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If people knew who I really was, they would reject me.",
+  "intermediate_belief_depression": "I am changing in the way I interact with people, and it's scary.",
+  "coping_strategies": [
+    "Avoidance of dealing with overwhelming emotions by shifting focus to other topics."
+  ],
+  "situation": "Preparing to attend a Father's Day lunch with parents.",
+  "auto_thought": "I would like my need to matter and to be able to talk about my life honestly.",
+  "emotion": [
+    "Disappointment",
+    "Fear",
+    "Sadness",
+    "Anger"
+  ],
+  "behavior": "Attempts to express needs and emotions but feels misunderstood and rejected."
+}
+2026-01-28 10:55:27,682 | INFO | TRANSCRIPT_FILE:1004824703.txt
+2026-01-28 10:55:27,683 | INFO | PRED_MD5:358e676044478463626f980a45972c36
+2026-01-28 10:55:27,683 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:55:27,684 | INFO | PRED unlovable_belief =['I am bound to be rejected', 'I am bound to be abandoned']
+2026-01-28 10:55:27,684 | INFO | PRED worthless_belief =[]
+2026-01-28 10:55:28,073 | INFO | 
+========================================
+2026-01-28 10:55:28,073 | INFO | [DONE] 32-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\32-1.json
+2026-01-28 10:55:28,073 | INFO | Scores:
+2026-01-28 10:55:28,074 | INFO |   embeddings_cosine: 0.3989921987056732
+2026-01-28 10:55:28,074 | INFO |   crossencoder_sts:  0.3646710366010666
+2026-01-28 10:55:28,074 | INFO |   nli_entailment:    0.0888598139301929
+2026-01-28 10:55:28,075 | INFO |   nli_contradiction: 0.2758
+2026-01-28 10:55:28,075 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-28 10:55:28,075 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-28 10:55:28,075 | INFO | SOURCE_ID:33-1
+2026-01-28 10:55:28,075 | INFO | GOLD_ID:33-1
+2026-01-28 10:55:28,076 | INFO | GOLD helpless_belief =['I am trapped.']
+2026-01-28 10:55:28,076 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be abandoned.', 'I am bound to be alone.']
+2026-01-28 10:55:28,076 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:55:28,076 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:55:49,430 | INFO | CBT generated
+2026-01-28 10:55:49,430 | INFO | {
+  "history": "Involvement in a complex romantic situation with a person named Cleo. Cleo is in a long-distance relationship while also engaging with the patient.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be self-reliant to be in a successful relationship.",
+  "intermediate_belief_depression": "I can't handle being alone.",
+  "coping_strategies": [
+    "Using drugs as an escape when stressed or feeling alone."
+  ],
+  "situation": "During an outing, Cleo discussed relationship problems and sought emotional support.",
+  "auto_thought": "I miss her, and I feel utterly alone.",
+  "emotion": [
+    "Sad",
+    "Lonely",
+    "Angry"
+  ],
+  "behavior": "Engaging in drug use when feeling stressed or alone."
+}
+2026-01-28 10:55:49,431 | INFO | TRANSCRIPT_FILE:1004565015.txt
+2026-01-28 10:55:49,431 | INFO | PRED_MD5:5d8c5119612741c2aea105af8362e132
+2026-01-28 10:55:49,432 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:55:49,432 | INFO | PRED unlovable_belief =['I am bound to be alone']
+2026-01-28 10:55:49,433 | INFO | PRED worthless_belief =[]
+2026-01-28 10:55:49,846 | INFO | 
+========================================
+2026-01-28 10:55:49,846 | INFO | [DONE] 33-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\33-1.json
+2026-01-28 10:55:49,847 | INFO | Scores:
+2026-01-28 10:55:49,847 | INFO |   embeddings_cosine: 0.33738594353199003
+2026-01-28 10:55:49,847 | INFO |   crossencoder_sts:  0.33800686746835706
+2026-01-28 10:55:49,848 | INFO |   nli_entailment:    0.10420106419877477
+2026-01-28 10:55:49,848 | INFO |   nli_contradiction: 0.11239999999999999
+2026-01-28 10:55:49,848 | INFO |   fine_jaccard:      0.2
+2026-01-28 10:55:49,849 | INFO |   major_jaccard:     1.0
+2026-01-28 10:55:49,849 | INFO | SOURCE_ID:34-1
+2026-01-28 10:55:49,849 | INFO | GOLD_ID:34-1
+2026-01-28 10:55:49,850 | INFO | GOLD helpless_belief =['I am powerless, weak, vulnerable.', 'I am trapped.', 'I am defective.']
+2026-01-28 10:55:49,850 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be rejected.']
+2026-01-28 10:55:49,850 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:55:49,850 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:55:58,422 | INFO | CBT generated
+2026-01-28 10:55:58,422 | INFO | {
+  "history": "Brother died by suicide when the patient was young. Ongoing family conflict about discussing the loss. Parents initially did not allow the patient to seek talk therapy after the death.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express my true feelings, I will be seen as a troublemaker.",
+  "intermediate_belief_depression": "I can't trust my own perceptions because others don't validate them.",
+  "coping_strategies": [
+    "Minimizing emotions and presenting them in a mild way to avoid feeling vulnerable."
+  ],
+  "situation": "Noticing that the brother's birthday is approaching.",
+  "auto_thought": "Am I the only one who knows that this is really stupid?",
+  "emotion": [
+    "Anger",
+    "Vulnerability",
+    "Frustration"
+  ],
+  "behavior": "Avoids expressing strong emotions openly and questions her own perceptions."
+}
+2026-01-28 10:55:58,423 | INFO | TRANSCRIPT_FILE:1004687624.txt
+2026-01-28 10:55:58,423 | INFO | PRED_MD5:425938e484557392159ec213bfb26fac
+2026-01-28 10:55:58,423 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:55:58,424 | INFO | PRED unlovable_belief =[]
+2026-01-28 10:55:58,424 | INFO | PRED worthless_belief =[]
+2026-01-28 10:55:58,847 | INFO | 
+========================================
+2026-01-28 10:55:58,848 | INFO | [DONE] 34-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\34-1.json
+2026-01-28 10:55:58,848 | INFO | Scores:
+2026-01-28 10:55:58,848 | INFO |   embeddings_cosine: 0.34925432950258256
+2026-01-28 10:55:58,848 | INFO |   crossencoder_sts:  0.29805789738893507
+2026-01-28 10:55:58,849 | INFO |   nli_entailment:    0.025899001475289913
+2026-01-28 10:55:58,849 | INFO |   nli_contradiction: 0.0779
+2026-01-28 10:55:58,849 | INFO |   fine_jaccard:      0.2
+2026-01-28 10:55:58,849 | INFO |   major_jaccard:     0.5
+2026-01-28 10:55:58,850 | INFO | [SKIP] source_id=35-1: gold non trovato in Patient_Psi_CM_Dataset.json
+2026-01-28 10:55:58,850 | INFO | SOURCE_ID:36-1
+2026-01-28 10:55:58,850 | INFO | GOLD_ID:36-1
+2026-01-28 10:55:58,850 | INFO | GOLD helpless_belief =['I am needy.', 'I am out of control.']
+2026-01-28 10:55:58,850 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am undesirable, unwanted.']
+2026-01-28 10:55:58,851 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:55:58,851 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:56:24,545 | INFO | CBT generated
+2026-01-28 10:56:24,545 | INFO | {
+  "history": "Elevated stress related to financial difficulties and relationship instability. Heavy workload due to technical issues at work and covering responsibilities when coworker Chet is absent. Friends often have crises and make emotional demands. Considering asking parents for financial help to cover therapy costs around an upcoming birthday. Upcoming convention and upcoming visit with parents.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be cheerful to avoid making others uncomfortable.",
+  "intermediate_belief_depression": "If I express my true feelings, others will reject me.",
+  "coping_strategies": [
+    "Avoids confrontation by being cheerful and accommodating, even when frustrated."
+  ],
+  "situation": "Discovered that their bank balance was lower than expected.",
+  "auto_thought": "I can't express my frustration because it will lead to conflict.",
+  "emotion": [
+    "Frustration",
+    "Anxiety",
+    "Anger"
+  ],
+  "behavior": "Suppresses true feelings and acts cheerful to maintain harmony."
+}
+2026-01-28 10:56:24,546 | INFO | TRANSCRIPT_FILE:1000013374.txt
+2026-01-28 10:56:24,546 | INFO | PRED_MD5:7b1b8c0072e47895f4945ecfaced0cde
+2026-01-28 10:56:24,547 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:56:24,547 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:56:24,547 | INFO | PRED worthless_belief =[]
+2026-01-28 10:56:24,997 | INFO | 
+========================================
+2026-01-28 10:56:24,998 | INFO | [DONE] 36-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\36-1.json
+2026-01-28 10:56:24,998 | INFO | Scores:
+2026-01-28 10:56:24,998 | INFO |   embeddings_cosine: 0.35173726081848145
+2026-01-28 10:56:24,999 | INFO |   crossencoder_sts:  0.2846810266375542
+2026-01-28 10:56:24,999 | INFO |   nli_entailment:    0.03579737055080236
+2026-01-28 10:56:25,000 | INFO |   nli_contradiction: 0.0125
+2026-01-28 10:56:25,000 | INFO |   fine_jaccard:      0.0
+2026-01-28 10:56:25,000 | INFO |   major_jaccard:     1.0
+2026-01-28 10:56:25,000 | INFO | SOURCE_ID:37-1
+2026-01-28 10:56:25,001 | INFO | GOLD_ID:37-1
+2026-01-28 10:56:25,001 | INFO | GOLD helpless_belief =[]
+2026-01-28 10:56:25,001 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be rejected.', 'I am bound to be abandoned.']
+2026-01-28 10:56:25,002 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:56:25,002 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:56:32,384 | INFO | CBT generated
+2026-01-28 10:56:32,385 | INFO | {
+  "history": "Past labor dispute in a previous workplace. Ongoing concerns related to fairness, pay, and authority at work.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I can't trust people; they will let me down.",
+  "intermediate_belief_depression": "I am responsible for the financial difficulties of my family.",
+  "coping_strategies": [
+    "Avoidance of conflict and difficult conversations, reliance on medication for mood stabilization."
+  ],
+  "situation": "Reflecting on a work-related case and the response of a businessman involved.",
+  "auto_thought": "I am to blame for the financial issues and my family's dissatisfaction.",
+  "emotion": [
+    "Guilt",
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Avoids discussing financial issues with family, feels overwhelmed by financial responsibilities."
+}
+2026-01-28 10:56:32,385 | INFO | TRANSCRIPT_FILE:1001083990.txt
+2026-01-28 10:56:32,385 | INFO | PRED_MD5:b103c8ae2238d199899bab4e1f9dab3a
+2026-01-28 10:56:32,385 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable', 'I am a failure, loser']
+2026-01-28 10:56:32,386 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:56:32,386 | INFO | PRED worthless_belief =[]
+2026-01-28 10:56:32,795 | INFO | 
+========================================
+2026-01-28 10:56:32,795 | INFO | [DONE] 37-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\37-1.json
+2026-01-28 10:56:32,795 | INFO | Scores:
+2026-01-28 10:56:32,795 | INFO |   embeddings_cosine: 0.3609765231609344
+2026-01-28 10:56:32,796 | INFO |   crossencoder_sts:  0.22430126518011093
+2026-01-28 10:56:32,796 | INFO |   nli_entailment:    0.10947391616291446
+2026-01-28 10:56:32,796 | INFO |   nli_contradiction: 0.20140000000000002
+2026-01-28 10:56:32,796 | INFO |   fine_jaccard:      0.2
+2026-01-28 10:56:32,797 | INFO |   major_jaccard:     0.5
+2026-01-28 10:56:32,797 | INFO | SOURCE_ID:38-1
+2026-01-28 10:56:32,797 | INFO | GOLD_ID:38-1
+2026-01-28 10:56:32,797 | INFO | GOLD helpless_belief =['I am helpless.', 'I am trapped.', 'I am out of control.']
+2026-01-28 10:56:32,798 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be alone.']
+2026-01-28 10:56:32,798 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:56:32,798 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:56:46,724 | INFO | CBT generated
+2026-01-28 10:56:46,725 | INFO | {
+  "history": "Health condition requiring time off work for physical therapy. Past interactions with HR and a supervisor related to return-to-work and disability status.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must be perfect to be accepted.",
+  "intermediate_belief_depression": "If I am not perfect, I will be rejected and alone.",
+  "coping_strategies": [
+    "Avoidance of situations that may lead to judgment or failure."
+  ],
+  "situation": "Recalling a prior interaction with HR that involved feeling judged during medical leave.",
+  "auto_thought": "I can't handle this; I will be judged and rejected.",
+  "emotion": [
+    "Anxiety",
+    "Fear",
+    "Insecurity"
+  ],
+  "behavior": "Withdrawal from social interactions and avoidance of challenging situations."
+}
+2026-01-28 10:56:46,725 | INFO | TRANSCRIPT_FILE:1000329609.txt
+2026-01-28 10:56:46,725 | INFO | PRED_MD5:13c8945084b034c84a22c22aa77cfa9d
+2026-01-28 10:56:46,726 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable', 'I am incompetent']
+2026-01-28 10:56:46,726 | INFO | PRED unlovable_belief =['I am bound to be rejected', 'I am bound to be alone']
+2026-01-28 10:56:46,727 | INFO | PRED worthless_belief =['I am worthless, waste']
+2026-01-28 10:56:47,036 | INFO | 
+========================================
+2026-01-28 10:56:47,037 | INFO | [DONE] 38-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\38-1.json
+2026-01-28 10:56:47,037 | INFO | Scores:
+2026-01-28 10:56:47,037 | INFO |   embeddings_cosine: 0.31421178877353667
+2026-01-28 10:56:47,038 | INFO |   crossencoder_sts:  0.25173981487751007
+2026-01-28 10:56:47,038 | INFO |   nli_entailment:    0.0035551878392892067
+2026-01-28 10:56:47,038 | INFO |   nli_contradiction: 0.2969
+2026-01-28 10:56:47,039 | INFO |   fine_jaccard:      0.1111111111111111
+2026-01-28 10:56:47,039 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-28 10:56:47,039 | INFO | SOURCE_ID:39-1
+2026-01-28 10:56:47,039 | INFO | GOLD_ID:39-1
+2026-01-28 10:56:47,039 | INFO | GOLD helpless_belief =['I am powerless, weak, vulnerable.', 'I am trapped.', 'I am out of control.']
+2026-01-28 10:56:47,040 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be alone.']
+2026-01-28 10:56:47,040 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:56:47,040 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:56:52,139 | INFO | CBT generated
+2026-01-28 10:56:52,140 | INFO | {
+  "history": "Recurrent stomachaches and physical symptoms associated with anxiety and stress. Past difficulties involving weight management, sexuality, and academic performance. Reports a transformation during college. Reports seeking control in relationships.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must be perfect to be accepted.",
+  "intermediate_belief_depression": "If I am not perfect, I will be rejected and alone.",
+  "coping_strategies": [
+    "Attempts to control situations and relationships to avoid feelings of inadequacy."
+  ],
+  "situation": "Experiencing ongoing stomach issues and seeking reassurance about recovery.",
+  "auto_thought": "I am left out and not good enough.",
+  "emotion": [
+    "Jealousy",
+    "Inadequacy",
+    "Anxiety"
+  ],
+  "behavior": "Overcompensating by trying to control situations and seeking reassurance."
+}
+2026-01-28 10:56:52,140 | INFO | TRANSCRIPT_FILE:1000393714.txt
+2026-01-28 10:56:52,141 | INFO | PRED_MD5:51c486391f07feba810a644882b5a798
+2026-01-28 10:56:52,141 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:56:52,142 | INFO | PRED unlovable_belief =['I am bound to be rejected', 'I am bound to be abandoned']
+2026-01-28 10:56:52,142 | INFO | PRED worthless_belief =['I am worthless, waste']
+2026-01-28 10:56:52,593 | INFO | 
+========================================
+2026-01-28 10:56:52,593 | INFO | [DONE] 39-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\39-1.json
+2026-01-28 10:56:52,593 | INFO | Scores:
+2026-01-28 10:56:52,595 | INFO |   embeddings_cosine: 0.3135474994778633
+2026-01-28 10:56:52,595 | INFO |   crossencoder_sts:  0.4158023834228516
+2026-01-28 10:56:52,595 | INFO |   nli_entailment:    0.020054499959782972
+2026-01-28 10:56:52,595 | INFO |   nli_contradiction: 0.0099
+2026-01-28 10:56:52,596 | INFO |   fine_jaccard:      0.125
+2026-01-28 10:56:52,596 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-28 10:56:52,596 | INFO | SOURCE_ID:40-1
+2026-01-28 10:56:52,596 | INFO | GOLD_ID:40-1
+2026-01-28 10:56:52,597 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am trapped.', 'I am out of control.']
+2026-01-28 10:56:52,597 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am undesirable, unwanted.']
+2026-01-28 10:56:52,597 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:56:52,597 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:57:00,078 | INFO | CBT generated
+2026-01-28 10:57:00,079 | INFO | {
+  "history": "Recent move and stress related to settling into a new living space. Difficult relationship with parents, especially mother, described as judgmental and emotionally unsupportive. Friendships have become strained, contributing to isolation.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I can't catch a break.",
+  "intermediate_belief_depression": "I'm just literally every way I turn, I'm fucked.",
+  "coping_strategies": [
+    "Avoiding contact with friends and family, sleeping intermittently, trying to catch up on domestic tasks."
+  ],
+  "situation": "Feeling exhausted after attempting to unpack without support from friends. Avoiding contact with friends and the mother.",
+  "auto_thought": "Things are black all over.",
+  "emotion": [
+    "Frustration",
+    "Anxiety",
+    "Depression"
+  ],
+  "behavior": "Avoidance of social interactions, intermittent sleep, financial mismanagement."
+}
+2026-01-28 10:57:00,079 | INFO | TRANSCRIPT_FILE:1003009258.txt
+2026-01-28 10:57:00,080 | INFO | PRED_MD5:83b05ddeafce8a611cf0b6eca4683236
+2026-01-28 10:57:00,080 | INFO | PRED helpless_belief =['I am trapped', 'I am powerless, weak, vulnerable']
+2026-01-28 10:57:00,080 | INFO | PRED unlovable_belief =['I am bound to be alone']
+2026-01-28 10:57:00,081 | INFO | PRED worthless_belief =[]
+2026-01-28 10:57:00,439 | INFO | 
+========================================
+2026-01-28 10:57:00,440 | INFO | [DONE] 40-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\40-1.json
+2026-01-28 10:57:00,440 | INFO | Scores:
+2026-01-28 10:57:00,440 | INFO |   embeddings_cosine: 0.3321871584281325
+2026-01-28 10:57:00,441 | INFO |   crossencoder_sts:  0.2621914856135845
+2026-01-28 10:57:00,441 | INFO |   nli_entailment:    0.005405753825050515
+2026-01-28 10:57:00,441 | INFO |   nli_contradiction: 0.0008
+2026-01-28 10:57:00,442 | INFO |   fine_jaccard:      0.14285714285714285
+2026-01-28 10:57:00,442 | INFO |   major_jaccard:     1.0
+2026-01-28 10:57:00,442 | INFO | SOURCE_ID:41-1
+2026-01-28 10:57:00,442 | INFO | GOLD_ID:41-1
+2026-01-28 10:57:00,442 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am helpless.', 'I am out of control.']
+2026-01-28 10:57:00,443 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be rejected.']
+2026-01-28 10:57:00,443 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:57:00,443 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:57:28,355 | INFO | CBT generated
+2026-01-28 10:57:28,355 | INFO | {
+  "history": "Complex relationship history involving a person named Cricket that affected the patient's social circle. The patient often takes a caretaking role with friends, including a friend named Lucy with ongoing medical issues.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't maintain control and routine, everything will fall apart.",
+  "intermediate_belief_depression": "If I can't manage my sleep and responsibilities, I am failing.",
+  "coping_strategies": [
+    "Avoiding social interactions and becoming a hermit to maintain control and routine."
+  ],
+  "situation": "Running late for appointments and social gatherings, including therapy and lunches with friends.",
+  "auto_thought": "Everything is ruined now.",
+  "emotion": [
+    "Frustration",
+    "Sadness"
+  ],
+  "behavior": "Avoidance of social situations and reliance on routines to manage anxiety."
+}
+2026-01-28 10:57:28,356 | INFO | TRANSCRIPT_FILE:1004798911.txt
+2026-01-28 10:57:28,356 | INFO | PRED_MD5:47fb4ce25fda443807b7e085d1466112
+2026-01-28 10:57:28,356 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable', 'I am a failure, loser']
+2026-01-28 10:57:28,357 | INFO | PRED unlovable_belief =[]
+2026-01-28 10:57:28,357 | INFO | PRED worthless_belief =[]
+2026-01-28 10:57:28,649 | INFO | 
+========================================
+2026-01-28 10:57:28,650 | INFO | [DONE] 41-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\41-1.json
+2026-01-28 10:57:28,650 | INFO | Scores:
+2026-01-28 10:57:28,650 | INFO |   embeddings_cosine: 0.3143666386604309
+2026-01-28 10:57:28,650 | INFO |   crossencoder_sts:  0.2595674455165863
+2026-01-28 10:57:28,651 | INFO |   nli_entailment:    0.0036341406710725167
+2026-01-28 10:57:28,651 | INFO |   nli_contradiction: 0.3031
+2026-01-28 10:57:28,651 | INFO |   fine_jaccard:      0.0
+2026-01-28 10:57:28,651 | INFO |   major_jaccard:     0.5
+2026-01-28 10:57:28,652 | INFO | SOURCE_ID:42-1
+2026-01-28 10:57:28,652 | INFO | GOLD_ID:42-1
+2026-01-28 10:57:28,652 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am out of control.', 'I am a failure, loser.']
+2026-01-28 10:57:28,652 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am undesirable, unwanted.']
+2026-01-28 10:57:28,652 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:57:28,652 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:57:51,010 | INFO | CBT generated
+2026-01-28 10:57:51,011 | INFO | {
+  "history": "Recurrent dreams during graduate school about being unprepared for a thesis defense. Father described as having high expectations.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must always be prepared and meet expectations to avoid failure.",
+  "intermediate_belief_depression": "If I am not prepared, I will fail and be judged negatively.",
+  "coping_strategies": [
+    "Overthinking and worrying excessively about tasks and social interactions."
+  ],
+  "situation": "Experiencing a recurring dream in which coworkers talk negatively about the individual.",
+  "auto_thought": "Why am I feeling wound up? Why is all this worrying me? Why can't I relax?",
+  "emotion": [
+    "Anxiety",
+    "Frustration",
+    "Tension"
+  ],
+  "behavior": "Avoidance of situations that might lead to failure or judgment."
+}
+2026-01-28 10:57:51,011 | INFO | TRANSCRIPT_FILE:1000133864.txt
+2026-01-28 10:57:51,012 | INFO | PRED_MD5:f35f0fb02aac326fdb83ba317c2eff1c
+2026-01-28 10:57:51,012 | INFO | PRED helpless_belief =['I am incompetent', 'I am powerless, weak, vulnerable']
+2026-01-28 10:57:51,013 | INFO | PRED unlovable_belief =[]
+2026-01-28 10:57:51,013 | INFO | PRED worthless_belief =[]
+2026-01-28 10:57:51,407 | INFO | 
+========================================
+2026-01-28 10:57:51,407 | INFO | [DONE] 42-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\42-1.json
+2026-01-28 10:57:51,407 | INFO | Scores:
+2026-01-28 10:57:51,408 | INFO |   embeddings_cosine: 0.39672083854675294
+2026-01-28 10:57:51,408 | INFO |   crossencoder_sts:  0.3384136617183685
+2026-01-28 10:57:51,409 | INFO |   nli_entailment:    0.010477603819142645
+2026-01-28 10:57:51,409 | INFO |   nli_contradiction: 0.30310000000000004
+2026-01-28 10:57:51,409 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-28 10:57:51,409 | INFO |   major_jaccard:     0.5
+2026-01-28 10:57:51,410 | INFO | SOURCE_ID:43-1
+2026-01-28 10:57:51,410 | INFO | GOLD_ID:43-1
+2026-01-28 10:57:51,410 | INFO | GOLD helpless_belief =[]
+2026-01-28 10:57:51,410 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am undesirable, unwanted.', 'I am bound to be rejected.', 'I am bound to be abandoned.', 'I am bound to be alone.']
+2026-01-28 10:57:51,411 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:57:51,411 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:58:04,951 | INFO | CBT generated
+2026-01-28 10:58:04,952 | INFO | {
+  "history": "Childhood experiences of emotional invalidation (e.g., being reprimanded for crying). History of depression.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be strong and not show vulnerability to be accepted.",
+  "intermediate_belief_depression": "If I show weakness, I will be rejected and alone.",
+  "coping_strategies": [
+    "Avoids confrontation and suppresses emotions to maintain peace and acceptance."
+  ],
+  "situation": "Reconnecting with an individual named Edson after a period of no contact.",
+  "auto_thought": "If I express my true feelings, I will be rejected.",
+  "emotion": [
+    "Anxiety",
+    "Frustration",
+    "Sadness"
+  ],
+  "behavior": "Suppresses emotions and avoids expressing true feelings to avoid rejection."
+}
+2026-01-28 10:58:04,952 | INFO | TRANSCRIPT_FILE:1004564953.txt
+2026-01-28 10:58:04,952 | INFO | PRED_MD5:d6d2a0cb5bd2ab3ffb07300788318f21
+2026-01-28 10:58:04,953 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:58:04,953 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:58:04,953 | INFO | PRED worthless_belief =[]
+2026-01-28 10:58:05,402 | INFO | 
+========================================
+2026-01-28 10:58:05,403 | INFO | [DONE] 43-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\43-1.json
+2026-01-28 10:58:05,403 | INFO | Scores:
+2026-01-28 10:58:05,403 | INFO |   embeddings_cosine: 0.3637447714805603
+2026-01-28 10:58:05,403 | INFO |   crossencoder_sts:  0.4707383692264557
+2026-01-28 10:58:05,404 | INFO |   nli_entailment:    0.21774266386957838
+2026-01-28 10:58:05,404 | INFO |   nli_contradiction: 0.09390000000000001
+2026-01-28 10:58:05,404 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-28 10:58:05,404 | INFO |   major_jaccard:     0.5
+2026-01-28 10:58:05,405 | INFO | SOURCE_ID:44-1
+2026-01-28 10:58:05,405 | INFO | GOLD_ID:44-1
+2026-01-28 10:58:05,405 | INFO | GOLD helpless_belief =['I am helpless.', 'I am powerless, weak, vulnerable.']
+2026-01-28 10:58:05,405 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be alone.']
+2026-01-28 10:58:05,405 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:58:05,406 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:58:11,014 | INFO | CBT generated
+2026-01-28 10:58:11,015 | INFO | {
+  "history": "History of recurring conflicts and strained relationships. Ongoing trust and boundary issues in relationships. Some relationships involve alcoholism. History of aggressive behavior.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must control situations to avoid feeling vulnerable.",
+  "intermediate_belief_depression": "If I don't control situations, I will be left alone and rejected.",
+  "coping_strategies": [
+    "Attempts to control interpersonal interactions to avoid vulnerability and rejection."
+  ],
+  "situation": "Spending holidays alone and reflecting on feelings of sadness and loneliness.",
+  "auto_thought": "I must control the situation to avoid feeling vulnerable and rejected.",
+  "emotion": [
+    "Confusion",
+    "Fear",
+    "Sadness"
+  ],
+  "behavior": "Attempts to control interactions with others, such as controlling partner's actions during intercourse."
+}
+2026-01-28 10:58:11,015 | INFO | TRANSCRIPT_FILE:1000367961.txt
+2026-01-28 10:58:11,016 | INFO | PRED_MD5:3c6cdb20f24592087d5fe5406a70b6ef
+2026-01-28 10:58:11,016 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:58:11,016 | INFO | PRED unlovable_belief =['I am bound to be rejected', 'I am bound to be alone']
+2026-01-28 10:58:11,017 | INFO | PRED worthless_belief =[]
+2026-01-28 10:58:11,384 | INFO | 
+========================================
+2026-01-28 10:58:11,385 | INFO | [DONE] 44-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\44-1.json
+2026-01-28 10:58:11,385 | INFO | Scores:
+2026-01-28 10:58:11,385 | INFO |   embeddings_cosine: 0.4204350233078003
+2026-01-28 10:58:11,386 | INFO |   crossencoder_sts:  0.35511202812194825
+2026-01-28 10:58:11,386 | INFO |   nli_entailment:    0.21129858818325203
+2026-01-28 10:58:11,386 | INFO |   nli_contradiction: 0.123
+2026-01-28 10:58:11,387 | INFO |   fine_jaccard:      0.4
+2026-01-28 10:58:11,387 | INFO |   major_jaccard:     1.0
+2026-01-28 10:58:11,387 | INFO | SOURCE_ID:45-1
+2026-01-28 10:58:11,387 | INFO | GOLD_ID:45-1
+2026-01-28 10:58:11,388 | INFO | GOLD helpless_belief =['I am powerless, weak, vulnerable.', 'I am out of control.']
+2026-01-28 10:58:11,388 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be rejected.', 'I am bound to be abandoned.', 'I am bound to be alone.']
+2026-01-28 10:58:11,388 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:58:11,388 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:58:30,952 | INFO | CBT generated
+2026-01-28 10:58:30,952 | INFO | {
+  "history": "Relationships sometimes shift into romantic connections. Past conflict in relationships following expressions of anger. Complex relationship with parents involving obligations.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet all qualifications, I won't get the job.",
+  "intermediate_belief_depression": "I should have done more in the past.",
+  "coping_strategies": [
+    "Avoiding applying to jobs where qualifications are not fully met."
+  ],
+  "situation": "Difficulty completing work tasks due to fear of making mistakes. Procrastination and avoidance impacting productivity.",
+  "auto_thought": "Whatever I do, it's not going to help.",
+  "emotion": [
+    "Overwhelmed",
+    "Hopeless",
+    "Stressed"
+  ],
+  "behavior": "Procrastination and avoidance of job applications."
+}
+2026-01-28 10:58:30,952 | INFO | TRANSCRIPT_FILE:1004565045.txt
+2026-01-28 10:58:30,953 | INFO | PRED_MD5:8c70227fb75c6d993b004bf020e046c0
+2026-01-28 10:58:30,953 | INFO | PRED helpless_belief =['I am incompetent', 'I am powerless, weak, vulnerable']
+2026-01-28 10:58:30,953 | INFO | PRED unlovable_belief =[]
+2026-01-28 10:58:30,954 | INFO | PRED worthless_belief =[]
+2026-01-28 10:58:31,374 | INFO | 
+========================================
+2026-01-28 10:58:31,374 | INFO | [DONE] 45-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\45-1.json
+2026-01-28 10:58:31,374 | INFO | Scores:
+2026-01-28 10:58:31,374 | INFO |   embeddings_cosine: 0.3279662560671568
+2026-01-28 10:58:31,376 | INFO |   crossencoder_sts:  0.23137159496545792
+2026-01-28 10:58:31,376 | INFO |   nli_entailment:    0.19377686037617556
+2026-01-28 10:58:31,376 | INFO |   nli_contradiction: 0.0032
+2026-01-28 10:58:31,376 | INFO |   fine_jaccard:      0.14285714285714285
+2026-01-28 10:58:31,376 | INFO |   major_jaccard:     0.5
+2026-01-28 10:58:31,377 | INFO | SOURCE_ID:46-1
+2026-01-28 10:58:31,377 | INFO | GOLD_ID:46-1
+2026-01-28 10:58:31,377 | INFO | GOLD helpless_belief =['I am powerless, weak, vulnerable.', 'I am a victim.', 'I am needy.']
+2026-01-28 10:58:31,377 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be rejected.']
+2026-01-28 10:58:31,377 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:58:31,378 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:58:56,891 | INFO | CBT generated
+2026-01-28 10:58:56,891 | INFO | {
+  "history": "Forms close relationships with friends who experience significant stressors. A friend is dealing with academic pressures and parenting an autistic child.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I should be able to handle everything on my own.",
+  "intermediate_belief_depression": "If I can't manage everything perfectly, I'm failing.",
+  "coping_strategies": [
+    "Avoidance and procrastination in addressing tasks and decisions."
+  ],
+  "situation": "Considering visiting a friend managing parenting demands and housing instability.",
+  "auto_thought": "I feel overwhelmed by the expectations and responsibilities.",
+  "emotion": [
+    "Anxiety",
+    "Sadness",
+    "Frustration"
+  ],
+  "behavior": "Avoidance of tasks and decisions, procrastination."
+}
+2026-01-28 10:58:56,892 | INFO | TRANSCRIPT_FILE:1004528631.txt
+2026-01-28 10:58:56,892 | INFO | PRED_MD5:d007b21a7bef733df0bf6ba861bb874b
+2026-01-28 10:58:56,893 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:58:56,893 | INFO | PRED unlovable_belief =['I am undesirable, unwanted']
+2026-01-28 10:58:56,894 | INFO | PRED worthless_belief =[]
+2026-01-28 10:58:57,358 | INFO | 
+========================================
+2026-01-28 10:58:57,358 | INFO | [DONE] 46-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\46-1.json
+2026-01-28 10:58:57,358 | INFO | Scores:
+2026-01-28 10:58:57,359 | INFO |   embeddings_cosine: 0.3325133442878723
+2026-01-28 10:58:57,359 | INFO |   crossencoder_sts:  0.40122788548469546
+2026-01-28 10:58:57,359 | INFO |   nli_entailment:    0.1179733157841425
+2026-01-28 10:58:57,360 | INFO |   nli_contradiction: 0.29999999999999993
+2026-01-28 10:58:57,360 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-28 10:58:57,360 | INFO |   major_jaccard:     1.0
+2026-01-28 10:58:57,361 | INFO | SOURCE_ID:47-1
+2026-01-28 10:58:57,361 | INFO | GOLD_ID:47-1
+2026-01-28 10:58:57,361 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am out of control.']
+2026-01-28 10:58:57,361 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be rejected.']
+2026-01-28 10:58:57,361 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:58:57,362 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:59:15,265 | INFO | CBT generated
+2026-01-28 10:59:15,266 | INFO | {
+  "history": "Master's degree in engineering and experience in robotics. Past remorse related to not dedicating enough time to a project.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must meet others' expectations to be accepted.",
+  "intermediate_belief_depression": "If I don't meet expectations, I am a failure.",
+  "coping_strategies": [
+    "Avoidance of conflict and seeking approval from others."
+  ],
+  "situation": "Considering launching a micro press and changing careers. Feeling uncertain about financial stability and fulfillment while comparing self to peers.",
+  "auto_thought": "I feel guilty for not living up to my family's expectations.",
+  "emotion": [
+    "Guilt",
+    "Anxiety",
+    "Shame"
+  ],
+  "behavior": "Avoidance of discussing personal decisions with family."
+}
+2026-01-28 10:59:15,266 | INFO | TRANSCRIPT_FILE:1004798933.txt
+2026-01-28 10:59:15,266 | INFO | PRED_MD5:58dee5d6ea6ad4935578508cc93e782d
+2026-01-28 10:59:15,266 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:59:15,267 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:59:15,267 | INFO | PRED worthless_belief =[]
+2026-01-28 10:59:15,594 | INFO | 
+========================================
+2026-01-28 10:59:15,594 | INFO | [DONE] 47-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\47-1.json
+2026-01-28 10:59:15,595 | INFO | Scores:
+2026-01-28 10:59:15,595 | INFO |   embeddings_cosine: 0.29667006731033324
+2026-01-28 10:59:15,595 | INFO |   crossencoder_sts:  0.2371315598487854
+2026-01-28 10:59:15,596 | INFO |   nli_entailment:    0.014918226305767937
+2026-01-28 10:59:15,596 | INFO |   nli_contradiction: 0.20109999999999997
+2026-01-28 10:59:15,596 | INFO |   fine_jaccard:      0.2
+2026-01-28 10:59:15,596 | INFO |   major_jaccard:     1.0
+2026-01-28 10:59:15,596 | INFO | SOURCE_ID:48-1
+2026-01-28 10:59:15,597 | INFO | GOLD_ID:48-1
+2026-01-28 10:59:15,597 | INFO | GOLD helpless_belief =['I am trapped.', 'I am out of control.']
+2026-01-28 10:59:15,597 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am undesirable, unwanted.']
+2026-01-28 10:59:15,597 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:59:15,597 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:59:31,469 | INFO | CBT generated
+2026-01-28 10:59:31,470 | INFO | {
+  "history": "In a relationship with Ivan for about seven years and married for three. Stressful periods during academic finals and wedding preparation due to lack of support from Ivan. Current financial pressure involving Ivan's part-time work, therapy costs, and dental treatment expenses.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be perfect to be accepted.",
+  "intermediate_belief_depression": "I can't handle things on my own.",
+  "coping_strategies": [
+    "Avoidance and procrastination of tasks due to fear of failure."
+  ],
+  "situation": "Partner neglects responsibilities such as contributing to expenses and completing administrative tasks.",
+  "auto_thought": "I can't do anything right, and it's all my fault.",
+  "emotion": [
+    "Depression",
+    "Frustration",
+    "Anxiety"
+  ],
+  "behavior": "Avoidance of tasks and responsibilities, leading to clutter and unfinished projects."
+}
+2026-01-28 10:59:31,470 | INFO | TRANSCRIPT_FILE:1000399412.txt
+2026-01-28 10:59:31,470 | INFO | PRED_MD5:acb11ee9652b26177cbeb3bbbf76eb6c
+2026-01-28 10:59:31,471 | INFO | PRED helpless_belief =['I am helpless', 'I am incompetent']
+2026-01-28 10:59:31,471 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-28 10:59:31,471 | INFO | PRED worthless_belief =[]
+2026-01-28 10:59:31,796 | INFO | 
+========================================
+2026-01-28 10:59:31,797 | INFO | [DONE] 48-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\48-1.json
+2026-01-28 10:59:31,797 | INFO | Scores:
+2026-01-28 10:59:31,798 | INFO |   embeddings_cosine: 0.3243889272212982
+2026-01-28 10:59:31,798 | INFO |   crossencoder_sts:  0.18879170566797257
+2026-01-28 10:59:31,798 | INFO |   nli_entailment:    0.011162870707180621
+2026-01-28 10:59:31,799 | INFO |   nli_contradiction: 0.7888
+2026-01-28 10:59:31,799 | INFO |   fine_jaccard:      0.0
+2026-01-28 10:59:31,799 | INFO |   major_jaccard:     1.0
+2026-01-28 10:59:31,799 | INFO | SOURCE_ID:49-1
+2026-01-28 10:59:31,799 | INFO | GOLD_ID:49-1
+2026-01-28 10:59:31,800 | INFO | GOLD helpless_belief =['I am powerless, weak, vulnerable.', 'I am trapped.', 'I am out of control.']
+2026-01-28 10:59:31,800 | INFO | GOLD unlovable_belief =[]
+2026-01-28 10:59:31,800 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:59:31,800 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:59:45,618 | INFO | CBT generated
+2026-01-28 10:59:45,619 | INFO | {
+  "history": "History of complex and strained family relationships. Father described as frequently creating misery for those around him and expressing dissatisfaction with his life. Maternal grandmother had a significant negative impact on the family, especially on the patient's mother.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't receive communication, it means I'm not important.",
+  "intermediate_belief_depression": "My life is empty and meaningless without connection.",
+  "coping_strategies": [
+    "Avoidance and withdrawal when feeling ignored or unimportant."
+  ],
+  "situation": "Contemplating the father's wishes for burial in Nepal and the responsibilities involved.",
+  "auto_thought": "I'm fed up with this relationship; it's pointless.",
+  "emotion": [
+    "Frustration",
+    "Anger",
+    "Loneliness"
+  ],
+  "behavior": "Expresses anger and frustration, considers ending the relationship, and experiences withdrawal."
+}
+2026-01-28 10:59:45,619 | INFO | TRANSCRIPT_FILE:1000061044.txt
+2026-01-28 10:59:45,620 | INFO | PRED_MD5:4fdab7ac3165f7c18b36bb042f73d8a6
+2026-01-28 10:59:45,620 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:59:45,621 | INFO | PRED unlovable_belief =['I am bound to be alone']
+2026-01-28 10:59:45,621 | INFO | PRED worthless_belief =[]
+2026-01-28 10:59:45,988 | INFO | 
+========================================
+2026-01-28 10:59:45,988 | INFO | [DONE] 49-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\49-1.json
+2026-01-28 10:59:45,989 | INFO | Scores:
+2026-01-28 10:59:45,989 | INFO |   embeddings_cosine: 0.2670568972826004
+2026-01-28 10:59:45,990 | INFO |   crossencoder_sts:  0.23498127311468125
+2026-01-28 10:59:45,990 | INFO |   nli_entailment:    0.010863457857346484
+2026-01-28 10:59:45,990 | INFO |   nli_contradiction: 0.1506
+2026-01-28 10:59:45,991 | INFO |   fine_jaccard:      0.25
+2026-01-28 10:59:45,991 | INFO |   major_jaccard:     0.5
+2026-01-28 10:59:45,991 | INFO | SOURCE_ID:50-1
+2026-01-28 10:59:45,991 | INFO | GOLD_ID:50-1
+2026-01-28 10:59:45,992 | INFO | GOLD helpless_belief =['I am helpless.', 'I am out of control.']
+2026-01-28 10:59:45,992 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am bound to be rejected.']
+2026-01-28 10:59:45,992 | INFO | GOLD worthless_belief =[]
+2026-01-28 10:59:45,992 | INFO | Found 2022 transcript file(s) in ./Psychotherapy_Transcripts
+2026-01-28 10:59:52,198 | INFO | CBT generated
+2026-01-28 10:59:52,198 | INFO | {
+  "history": "Longstanding friendship with Ethan since high school (about 14 years). Shared personal crises and professional collaborations. Learned that Ethan has been abusive toward his girlfriend.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be responsible for others' actions.",
+  "intermediate_belief_depression": "I am failing if I cannot help those I care about.",
+  "coping_strategies": [
+    "Avoidance and distraction through work and family activities."
+  ],
+  "situation": "Learning about Ethan's abusive behavior toward his partner and feeling distressed. Observing erratic behavior and signs of substance use at a recent gathering.",
+  "auto_thought": "I should have seen this coming and done something to prevent it.",
+  "emotion": [
+    "Distress",
+    "Guilt"
+  ],
+  "behavior": "Engaging in conversations about family and work to avoid thinking about Ethan's situation."
+}
+2026-01-28 10:59:52,199 | INFO | TRANSCRIPT_FILE:1002565915.txt
+2026-01-28 10:59:52,199 | INFO | PRED_MD5:4de8c7e1babc432bcb1a9eb67a384617
+2026-01-28 10:59:52,199 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable']
+2026-01-28 10:59:52,201 | INFO | PRED unlovable_belief =[]
+2026-01-28 10:59:52,201 | INFO | PRED worthless_belief =[]
+2026-01-28 10:59:52,576 | INFO | 
+========================================
+2026-01-28 10:59:52,576 | INFO | [DONE] 50-1 | saved=outputs_gpt4_w_random_transcript_sit1\generated_cbts\50-1.json
+2026-01-28 10:59:52,577 | INFO | Scores:
+2026-01-28 10:59:52,577 | INFO |   embeddings_cosine: 0.28958235383033754
+2026-01-28 10:59:52,578 | INFO |   crossencoder_sts:  0.27453153431415556
+2026-01-28 10:59:52,578 | INFO |   nli_entailment:    0.017395041871561157
+2026-01-28 10:59:52,578 | INFO |   nli_contradiction: 0.39869999999999994
+2026-01-28 10:59:52,578 | INFO |   fine_jaccard:      0.0
+2026-01-28 10:59:52,579 | INFO |   major_jaccard:     0.5
+2026-01-28 10:59:52,579 | INFO | 
+Completed. NEW processed 49 vignette(s).
+2026-01-28 10:59:52,579 | INFO | Generated CBTs in: outputs_gpt4_w_random_transcript_sit1\generated_cbts
+2026-01-28 10:59:52,579 | INFO | Compare results JSONL: outputs_gpt4_w_random_transcript_sit1\compare_results.jsonl
+2026-01-28 10:59:52,580 | INFO | [TOTAL] records existing=0 new=49 total=49
+2026-01-28 10:59:52,583 | INFO | 
+=== FINAL MEANS (CUMULATIVE) ===
+2026-01-28 10:59:52,583 | INFO | {
+  "n": 49,
+  "means": {
+    "embeddings_cosine": 0.3384020874124704,
+    "crossencoder_sts": 0.3002642002080243,
+    "nli_entailment_overall": 0.08354370235998056,
+    "nli_contradiction_overall": 0.16690408163265302
+  },
+  "counts": {
+    "embeddings_cosine": 49,
+    "crossencoder_sts": 49,
+    "nli_entailment_overall": 49,
+    "nli_contradiction_overall": 49
+  },
+  "core_beliefs_fine": {
+    "n": 49,
+    "micro": {
+      "precision": 0.36885245901639346,
+      "recall": 0.215311004784689,
+      "f1": 0.27190332326283995
+    },
+    "macro": {
+      "f1": 0.1326262096026919
+    },
+    "subset_accuracy": 0.0,
+    "jaccard_mean": 0.171064139941691,
+    "unknown_pred_total": 0,
+    "label_space_size": 19,
+    "per_label": {
+      "I am a failure, loser": {
+        "precision": 0.4,
+        "recall": 0.16666666666666666,
+        "f1": 0.23529411764705882,
+        "support": 12
+      },
+      "I am a victim": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 4
+      },
+      "I am bad - dangerous, toxic, evil": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "I am bound to be abandoned": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 12
+      },
+      "I am bound to be alone": {
+        "precision": 0.375,
+        "recall": 0.25,
+        "f1": 0.3,
+        "support": 12
+      },
+      "I am bound to be rejected": {
+        "precision": 0.20689655172413793,
+        "recall": 0.5454545454545454,
+        "f1": 0.3,
+        "support": 11
+      },
+      "I am defective": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 3
+      },
+      "I am helpless": {
+        "precision": 0.6666666666666666,
+        "recall": 0.17391304347826086,
+        "f1": 0.27586206896551724,
+        "support": 23
+      },
+      "I am immoral": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 2
+      },
+      "I am incompetent": {
+        "precision": 0.5454545454545454,
+        "recall": 0.3,
+        "f1": 0.3870967741935483,
+        "support": 20
+      },
+      "I am needy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 4
+      },
+      "I am out of control": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 16
+      },
+      "I am powerless, weak, vulnerable": {
+        "precision": 0.46511627906976744,
+        "recall": 0.8695652173913043,
+        "f1": 0.6060606060606061,
+        "support": 23
+      },
+      "I am trapped": {
+        "precision": 0.75,
+        "recall": 0.16666666666666666,
+        "f1": 0.27272727272727276,
+        "support": 18
+      },
+      "I am unattractive": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am undesirable, unwanted": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 13
+      },
+      "I am unlovable": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 28
+      },
+      "I am worthless, waste": {
+        "precision": 0.14285714285714285,
+        "recall": 0.14285714285714285,
+        "f1": 0.14285714285714285,
+        "support": 7
+      },
+      "I don't deserve to live": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      }
+    }
+  },
+  "core_beliefs_major": {
+    "n": 49,
+    "micro": {
+      "precision": 0.7311827956989247,
+      "recall": 0.8095238095238095,
+      "f1": 0.768361581920904
+    },
+    "subset_accuracy": 0.32653061224489793,
+    "jaccard_mean": 0.6564625850340137,
+    "label_space_size": 3
+  },
+  "resume": {
+    "enabled": true,
+    "existing": 0,
+    "new": 49,
+    "total": 49
+  }
+}
+2026-01-28 10:59:52,591 | INFO | 
+Saved final means to: outputs_gpt4_w_random_transcript_sit1\final_means.json
+2026-01-28 10:59:52,591 | INFO | 
+=== CORE BELIEFS (fine-grained) METRICS (CUMULATIVE) ===
+2026-01-28 10:59:52,592 | INFO | {
+  "n": 49,
+  "micro": {
+    "precision": 0.36885245901639346,
+    "recall": 0.215311004784689,
+    "f1": 0.27190332326283995
+  },
+  "macro": {
+    "f1": 0.1326262096026919
+  },
+  "subset_accuracy": 0.0,
+  "jaccard_mean": 0.171064139941691,
+  "unknown_pred_total": 0,
+  "label_space_size": 19,
+  "per_label": {
+    "I am a failure, loser": {
+      "precision": 0.4,
+      "recall": 0.16666666666666666,
+      "f1": 0.23529411764705882,
+      "support": 12
+    },
+    "I am a victim": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 4
+    },
+    "I am bad - dangerous, toxic, evil": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "I am bound to be abandoned": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 12
+    },
+    "I am bound to be alone": {
+      "precision": 0.375,
+      "recall": 0.25,
+      "f1": 0.3,
+      "support": 12
+    },
+    "I am bound to be rejected": {
+      "precision": 0.20689655172413793,
+      "recall": 0.5454545454545454,
+      "f1": 0.3,
+      "support": 11
+    },
+    "I am defective": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 3
+    },
+    "I am helpless": {
+      "precision": 0.6666666666666666,
+      "recall": 0.17391304347826086,
+      "f1": 0.27586206896551724,
+      "support": 23
+    },
+    "I am immoral": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2
+    },
+    "I am incompetent": {
+      "precision": 0.5454545454545454,
+      "recall": 0.3,
+      "f1": 0.3870967741935483,
+      "support": 20
+    },
+    "I am needy": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 4
+    },
+    "I am out of control": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 16
+    },
+    "I am powerless, weak, vulnerable": {
+      "precision": 0.46511627906976744,
+      "recall": 0.8695652173913043,
+      "f1": 0.6060606060606061,
+      "support": 23
+    },
+    "I am trapped": {
+      "precision": 0.75,
+      "recall": 0.16666666666666666,
+      "f1": 0.27272727272727276,
+      "support": 18
+    },
+    "I am unattractive": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am undesirable, unwanted": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 13
+    },
+    "I am unlovable": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 28
+    },
+    "I am worthless, waste": {
+      "precision": 0.14285714285714285,
+      "recall": 0.14285714285714285,
+      "f1": 0.14285714285714285,
+      "support": 7
+    },
+    "I don't deserve to live": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    }
+  }
+}

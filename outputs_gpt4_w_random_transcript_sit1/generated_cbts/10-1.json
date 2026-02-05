@@ -1,0 +1,28 @@
+{
+  "name": "John Doe",
+  "id": "12345",
+  "type": [
+    "CBT",
+    "Individual Therapy"
+  ],
+  "history": "Recent divorce. Financial struggles and adjustment to single life. Co-parenting. Multiple friendships deteriorated after the divorce. Complicated relationship with parents.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must keep a distance from emotions to stay in control.",
+  "intermediate_belief_depression": "If I let myself feel too deeply, I will lose control.",
+  "coping_strategies": "Uses humor and sarcasm as a defense mechanism to avoid confronting emotions.",
+  "situation": "Managing financial hardship following the divorce, including handling financial paperwork.",
+  "auto_thought": "No matter how hard I work, I don't quite pull it off.",
+  "emotion": [
+    "Frustration",
+    "Anxiety",
+    "Guilt"
+  ],
+  "behavior": "Jokes and laughs to deflect from discussing deeper emotions."
+}

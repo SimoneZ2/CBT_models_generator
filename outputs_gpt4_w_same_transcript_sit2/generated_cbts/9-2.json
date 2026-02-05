@@ -1,0 +1,30 @@
+{
+  "name": "Case Study: Roommate Conflict",
+  "id": "CS-001",
+  "type": [
+    "CBT",
+    "Interpersonal Conflict"
+  ],
+  "history": "Long-standing friendship with Jersey, who has had multiple surgeries related to disabilities. The patient has previously provided support during Jersey's medical procedures and recovery. Ongoing conflict with roommate Ashby over household issues.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I confront Ashby, it will lead to a conflict that I cannot handle.",
+  "intermediate_belief_depression": "I am responsible for maintaining peace, even if it means sacrificing my own comfort.",
+  "coping_strategies": "Avoiding confrontation and trying to manage household tasks alone.",
+  "situation": "The kitchen becomes dirty because Ashby does not take out the trash after cooking.",
+  "auto_thought": "Ashby is not doing her share, and I can't make her change.",
+  "emotion": [
+    "Frustration",
+    "Anxiety",
+    "Helplessness"
+  ],
+  "behavior": "Avoids direct confrontation and takes on additional household responsibilities.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

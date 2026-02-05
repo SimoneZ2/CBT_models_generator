@@ -1,0 +1,31 @@
+{
+  "history": "The client reports childhood experiences of emotional invalidation, such as being reprimanded for crying, which likely contributed to internalized beliefs about the unacceptability of their emotions. There is a history of depression, suggesting periods of low mood and hopelessness. These experiences have shaped the client's current cognitive and emotional patterns, including self-doubt and emotional suppression, especially in interpersonal contexts.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express my emotions or needs, others will see me as weak or reject me, so I must keep my feelings to myself to avoid being hurt. I need to be careful not to show vulnerability, especially when reconnecting with someone after a period of distance. If I am not careful, I might be left alone again, which would confirm that my feelings are not important.",
+  "intermediate_belief_depression": "If I reach out and things don't go well, it will prove that I am unworthy and nothing will ever change for me. There's no point in trying because I will just end up feeling rejected and alone again.",
+  "coping_strategies": [
+    "The client tends to suppress or hide their emotions to avoid potential invalidation or rejection. They may withdraw or avoid direct communication about their feelings, and may seek reassurance from others to counteract insecurity. There is also a tendency to ruminate on perceived failures or mistakes, especially in social situations."
+  ],
+  "situation": "Reconnecting with an individual named Edson after a period of no contact.",
+  "auto_thought": "What if Edson doesn't really want to hear from me? Maybe I'm just bothering him and he'll end up rejecting me again.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "insecure",
+    "ashamed",
+    "sad"
+  ],
+  "behavior": "Hesitates before reaching out or sending a message. Carefully crafts communication to avoid appearing too emotional or needy. May check for responses repeatedly or delay further contact out of fear of rejection.",
+  "source_text_id": "1004513658.txt"
+}

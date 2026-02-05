@@ -1,0 +1,30 @@
+{
+  "history": "The patient has a complex relationship history, especially involving a person named Cricket, which has disrupted her social circle. She frequently takes on a caretaking role, notably with a friend named Lucy who has ongoing medical issues. She reports chronic fatigue, partly due to medication side effects and the emotional burden of caretaking. She expresses skepticism about her diagnosis and frustration with treatments, feeling misunderstood by professionals. Financial stress and work instability further contribute to her sense of being overwhelmed.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am late or let my friends down, they will think less of me and I will lose my place in the group. I have to always be responsible and take care of others, or else I am not a good friend. If I show any weakness or fail to meet expectations, people will distance themselves from me.",
+  "intermediate_belief_depression": "If I can't keep up with everything and everyone, it means I'm failing and nothing will ever get better. No matter how hard I try, I end up letting people down and feeling exhausted, so what's the point?",
+  "coping_strategies": [
+    "She maintains a strong facade and pushes through exhaustion to meet others' needs, even when overwhelmed. She avoids expressing her own needs or doubts, and is skeptical or disengaged from treatment recommendations. She may withdraw emotionally or minimize her struggles to avoid appearing weak or burdensome."
+  ],
+  "situation": "Friends are gathered outside the residence waiting while the patient is running late after work.",
+  "auto_thought": "I'm letting everyone down because I'm late. They'll be annoyed with me and think I don't care about them.",
+  "emotion": [
+    "anxious",
+    "guilty",
+    "ashamed",
+    "worried",
+    "tense"
+  ],
+  "behavior": "She rushes to meet her friends, apologizes repeatedly, and tries to make up for being late by being extra attentive or helpful. She may avoid talking about her own stress or fatigue, focusing instead on others' needs."
+}

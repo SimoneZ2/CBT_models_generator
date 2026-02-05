@@ -1,0 +1,26 @@
+{
+  "name": "Patient Name",
+  "id": "12345",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "History of family conflict with a dismissive and unsupportive father. Estrangement from the father. Ongoing stress related to partner's family, including a difficult relationship with the partner's sister-in-law.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must not make mistakes or I will be criticized.",
+  "intermediate_belief_depression": "I am not good enough if I don't achieve high standards.",
+  "coping_strategies": "Overcommitting to responsibilities and being self-critical to avoid perceived failures.",
+  "situation": "Anticipating interactions with Candace during an upcoming family vacation in Maine.",
+  "auto_thought": "I always mess things up and can't relax.",
+  "emotion": [
+    "Anxiety",
+    "Mild depression"
+  ],
+  "behavior": "Avoidance of decision-making and self-criticism."
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Anonymous Client",
+  "id": "case-001",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client spent about a year working on a project in Europe, building a website and conducting interviews, which they feel proud of and wish to share. They have a history of procrastination and anxiety, and currently use strategies learned from a course and reminders to manage daily life. The client is now facing ambiguity about their life direction and choices, with many options to consider. Their pride in past accomplishments contrasts with current uncertainty, which may challenge their confidence and self-efficacy.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't decide on a clear direction for my life, it means I'm not competent enough to handle important decisions. I need to be certain about my future to feel secure and successful. If I make the wrong choice, it will reflect poorly on my abilities.",
+  "intermediate_belief_depression": "If I keep feeling lost about my life direction, it means I'll never figure things out and nothing I do will matter. My past achievements won't count if I can't move forward.",
+  "coping_strategies": "The client uses structured strategies and reminders to manage daily tasks and reduce anxiety. When faced with major decisions, they may avoid making choices, ruminate about options, or seek temporary distractions to escape the discomfort of uncertainty.",
+  "situation": "Facing ambiguity about life direction and choices, with many options to consider.",
+  "auto_thought": "I have so many options and I can't figure out which path to take. If I choose wrong, I'll mess up my future.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "overwhelmed",
+    "tense",
+    "self-doubting"
+  ],
+  "behavior": "I put off making decisions and spend a lot of time thinking about all the possible outcomes. I might distract myself with small tasks or seek reassurance from others instead of taking action.",
+  "rationale": "\"The ambiguity regarding life direction may evoke feelings of anxiety, worry, and fear... the patient's history of procrastination and anxiety, suggesting a tendency to feel overwhelmed when faced with uncertainty or multiple choices.\" \"The patient may engage in ruminative thinking, particularly about their future and the many options available... can lead to indecision and a sense of being stuck.\" \"Given the patient's history of procrastination, they might avoid making decisions about their future, potentially delaying actions that could provide clarity or direction.\""
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Patient",
+  "id": "PV010331",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Ongoing workplace difficulties involving underappreciation and lack of support. Repeated experiences of ideas and suggestions not being accepted.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must not trust others fully because they will let me down.",
+  "intermediate_belief_depression": "Even if I try to change, nothing will be different.",
+  "coping_strategies": "Avoids emotional vulnerability by pulling away from others.",
+  "situation": "Colleagues praise a coworker and ask the patient for help with technology issues related to that coworker.",
+  "auto_thought": "I am not as valued as others, and my efforts will not be recognized.",
+  "emotion": [
+    "Distrust",
+    "Discouragement",
+    "Frustration"
+  ],
+  "behavior": "Pulls away from emotional connections and avoids expressing needs or desires."
+}

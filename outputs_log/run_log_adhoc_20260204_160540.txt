@@ -1,0 +1,73 @@
+Using description: HISTORY:
+- Works in an educational setting with children who have learning disabilities.
+- Describes being pampered by parents and having minimal consequences earlier in life.
+- Ongoing conflicts with authority figures.
+
+SITUATION:
+- Encouraging students to socialize and participate in campus activities, with results falling short of expectations. with ID=25-1
+Sample results (metadata similarity):
+  - sim=0.046 | title='Verilogue session: Client's depression and anxiety have been severe recently' | file='1002565958.txt'
+  - sim=0.067 | title='Verilogue session: Client's insomnia seems to be causing mood swings' | file='1001280398.txt'
+  - sim=0.069 | title='Verilogue session: Client appears to be in a manic upswing and is very anxious a' | file='1001083971.txt'
+  - sim=0.077 | title='Verilogue session: Client is suffering from depression; her current antidepressa' | file='1001083929.txt'
+  - sim=0.095 | title='Verilogue session: Client has been experiencing anxiety and some manic episodes' | file='1001084024.txt'
+  - sim=0.097 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.104 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+  - sim=0.105 | title='Verilogue session: Client's mood swings are not as intense' | file='1002565843.txt'
+  - sim=0.108 | title='Verilogue session: Client notices an improvement more so in his behavior rather ' | file='1003075059.txt'
+  - sim=0.112 | title='Session 5: The SAEB System In the Treatment of Panic Disorder' | file='1000341225.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.046 | file='1002565958.txt' | title='Verilogue session: Client's depression and anxiety have been severe recently'
+  - sim=0.067 | file='1001280398.txt' | title='Verilogue session: Client's insomnia seems to be causing mood swings'
+  - sim=0.069 | file='1001083971.txt' | title='Verilogue session: Client appears to be in a manic upswing and is very anxious a'
+Using LEAST related file for transcript: '1002565958.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who works in an educational setting with children who have learning disabilities, has been experiencing significant mood instability and anxiety. During the session, she expressed feeling "not good again," indicating a recurrence of depressive episodes that have become more frequent and severe. Historically, she has had ongoing conflicts with authority figures, which may contribute to her current stress levels. She described a recent period where she "couldn't get out of bed" for two full days, highlighting the debilitating nature of her depression. This aligns with her history of being pampered by her parents, which may have left her with fewer coping mechanisms for dealing with adversity.
+
+The client reported that her mood is "less stable" throughout the week, with episodes of irritability that are "coming and going." This instability is affecting her ability to focus and concentrate, as she spends "half my day looking for things" due to forgetfulness. Her anxiety is described as "terrible," and she relies on medication to manage it, stating, "I don't know what I would do without it." This reliance on medication suggests a pattern of seeking external solutions for internal distress, possibly linked to her upbringing where minimal consequences were experienced.
+
+Her current situation involves encouraging students to socialize and participate in campus activities, yet she feels her efforts are "falling short of expectations." This professional challenge may exacerbate her feelings of inadequacy and contribute to her mood disturbances. She expressed frustration with her weight, stating, "I can't stand looking like this," which adds to her overall distress. Despite understanding that mood stability should be the priority, she feels that her weight is "really affecting my health," indicating a struggle to prioritize her mental health needs over physical concerns.
+
+The client experiences a cycle of "rev and crash," where periods of heightened agitation precede depressive episodes. This pattern suggests a possible bipolar component to her mood disorder, which requires careful management. She acknowledged that "nothing seems to really make me come out of it" when in a depressive state, except occasionally using Zyprexa, which she describes as her brain being "thirsty for Zyprexa." This indicates a reliance on medication for mood stabilization, yet she remains hesitant about increasing doses due to concerns about side effects.
+
+Throughout the session, the client demonstrated a tendency to "catastrophize," viewing her current mood instability as "the end of the world." This cognitive distortion exacerbates her feelings of hopelessness, as she expressed, "I don't think I'm ever going to get better." Her self-esteem is notably low, as she stated, "It stinks," and she feels "helpless and overwhelmed." Despite these challenges, she has moments of engagement, such as reading, which she can "stick with," suggesting that there are still activities that provide some pleasure and distraction.
+
+The client and her clinician discussed medication adjustments, including increasing Lamictal and Wellbutrin, and maintaining a regular Xanax schedule to manage anxiety. The clinician emphasized the importance of not "chasing the anxiety" but rather preventing it through a steady medication regimen. The client agreed to these changes, although she expressed concerns about potential side effects, such as a rash she noticed at night. The session concluded with a plan to stabilize her mood before addressing other concerns like weight and focus, with the clinician reassuring her that "we'll get you back" to a more stable state.
+Summary da mistral_.csv: The patient discussed her current mental health state with the doctor, reporting increased frequency and severity of depression episodes, longer duration, and increased irritability. She also mentioned difficulty focusing and remembering things, anxiety, and sleep disturbances. The patient expressed concern about her weight and appearance, but the doctor prioritized stabilizing her mood as the primary focus. The patient was taking Xanax for anxiety and was considering switching to a long-acting Xanax or another benzodiazepine. The patient mentioned that Abilify was not effective and she had been off Zyprexa for some time. The doctor acknowledged the patient's concerns about weight and appearance but emphasized the importance of addressing her mood instability first.
+The patient discussed her history of medication responses, specifically the initial effectiveness of medications followed by a decline in their impact. The doctor suggested that this may be due to placebo effect or bipolar disorder. The patient described feeling normal and able to function well during a period of stability, which made the current depressive episodes feel worse. The doctor recommended increasing the patient's Lamictal dosage and possibly adding another mood stabilizer to improve stability. They also discussed the possibility of using Meridia to help manage appetite. The patient was unsure about her past dosages and had difficulty recalling specific medication names and dosages. The doctor suggested using Zyprexa as needed to manage depressive and anxiety episodes. They also discussed increasing the patient's Wellbutrin dosage and considering adding Xanax for anxiety management. The patient asked about combining these medications with Meridia for appetite control.
+The doctor discussed the patient's current medications, including Meridia, Abilify, Lamictal, Wellbutrin, Xanax, and Provigil. The doctor advised the patient to consult with a cardiologist before starting Meridia due to potential heart rate issues. The doctor also provided instructions on how to adjust the dosages of Lamictal and Abilify, and discussed the importance of not taking more medication than necessary to manage anxiety. The patient mentioned experiencing a rash at night, which the doctor assured was not related to Lamictal. The doctor also prescribed additional Abilify as a backup in case the patient's current supply runs out. The conversation ended with the doctor mentioning the need to address disability-related matters.
+
+REFINED CCD: description + report
+{
+  "history": "The client has been experiencing significant mood instability and anxiety, with depressive episodes becoming more frequent and severe. She has a history of being pampered by her parents, leading to fewer coping mechanisms for dealing with adversity. Ongoing conflicts with authority figures contribute to her stress levels. She relies on medication to manage her anxiety and mood instability.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't meet expectations, then I am a failure and will never succeed.",
+  "intermediate_belief_depression": "If I can't meet expectations, then I will never get better and will always be stuck in this state.",
+  "coping_strategies": [
+    "The client relies on medication to manage her anxiety and mood instability. She experiences a cycle of 'rev and crash,' indicating a possible bipolar component. She also engages in reading, which provides some pleasure and distraction."
+  ],
+  "situation": "Encouraging students to socialize and participate in campus activities, with results falling short of expectations.",
+  "auto_thought": "I can't do this; I'm failing at my job.",
+  "emotion": [
+    "frustrated",
+    "anxious",
+    "overwhelmed",
+    "helpless"
+  ],
+  "behavior": "She becomes irritable and struggles to focus, spending time looking for things due to forgetfulness."
+}

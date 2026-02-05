@@ -1,0 +1,25 @@
+{
+  "name": "Patient X",
+  "id": "12345",
+  "type": [
+    "CBT"
+  ],
+  "history": "Recent divorce and financial difficulties. Relationship since age 19. Has a young son and is settling child support issues. Adjusting to being alone and handling new experiences (e.g., traveling alone with her son, visiting family without a partner).",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must handle everything on my own.",
+  "intermediate_belief_depression": "I can't rely on anyone for support.",
+  "coping_strategies": "Attempts to manage everything independently, possibly leading to stress.",
+  "situation": "Received an email from the ex-partner refusing to agree on child support and financial arrangements.",
+  "auto_thought": "I can't believe I'm dealing with this alone.",
+  "emotion": [
+    "Frustration",
+    "Anxiety"
+  ],
+  "behavior": "Attempts to negotiate and manage the situation independently."
+}

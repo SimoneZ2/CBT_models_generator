@@ -1,0 +1,77 @@
+Using description: HISTORY:
+- Ongoing work-related uncertainty and anxiety.
+- Married recently; the relationship included instances of physical abuse by spouse Ivan and resulted in separation.
+- Both partners are interested in resolving issues and are attending couples therapy.
+
+SITUATION:
+- Exposed to clinical terms used to describe the spouse's behavior during therapy sessions. with ID=26-1
+Sample results (metadata similarity):
+  - sim=0.072 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.189 | title='Patient "L", Session May 09, 2012: Client has been feeling good about her work; ' | file='1004564967.txt'
+  - sim=0.193 | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne' | file='1004503136.txt'
+  - sim=0.202 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+  - sim=0.203 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.227 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.258 | title='Patient "L", Session April 24, 2012: Client struggles with letting go of her nee' | file='1004538616.txt'
+  - sim=0.261 | title='Client "S", Session September 21, 2012: Client is currently working towards his ' | file='1004824793.txt'
+  - sim=0.261 | title='Session 5: Client feels like he is becoming much more honest in his relationship' | file='1000122141.txt'
+  - sim=0.267 | title='Patient "M", Session February 21, 2012: Client is experiencing grief over the re' | file='1004503134.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=729 partial_match=1292
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.193 | file='1004503136.txt' | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne'
+  - sim=0.261 | file='1004824793.txt' | title='Client "S", Session September 21, 2012: Client is currently working towards his '
+  - sim=0.267 | file='1004503134.txt' | title='Patient "M", Session February 21, 2012: Client is experiencing grief over the re'
+Using LEAST related file for transcript: '1004503136.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has recently been navigating work-related uncertainty and anxiety, finds it challenging to express negative emotions, describing the process as "exhausting." This difficulty is compounded by a recent separation from their spouse, Ivan, due to instances of physical abuse, although both are committed to resolving their issues through couples therapy. During the session, the client expressed feelings of insecurity and self-judgment, stating, "I feel like I'm very immature." This self-perception seems to stem from their interests, which they fear others might judge as not age-appropriate, such as their love for comic books and dinosaurs. The client shared an anecdote about visiting a comic book store, where they felt subtly shamed for their interests, reinforcing their fear of being perceived as "infantile."
+
+The client oscillates between embracing their interests and feeling embarrassed by them, particularly when societal stereotypes come into play. They mentioned feeling disconnected from others who share similar hobbies, describing them as "obnoxious" and expressing a reluctance to associate with such groups. This internal conflict is evident as they navigate their identity, feeling pressured to conform to societal expectations while simultaneously resisting them. The client articulated a sense of being caught between wanting to be authentic and fearing judgment, saying, "I cannot be the person that I am."
+
+Throughout the session, the client intellectualized their interests, attempting to justify them as more than mere hobbies. They discussed their admiration for Eric Carle's work, noting the "serendipitous" nature of his illustrations, and expressed a desire to visit a museum dedicated to the author, albeit with the caveat of needing to "borrow someone's kid" to avoid appearing out of place. This pattern of intellectualization appears to be a coping mechanism to mitigate feelings of shame and to rationalize their interests as culturally and intellectually valid.
+
+The client's upbringing seems to have played a significant role in shaping their current cognitive patterns. They recounted how their parents encouraged intellectual curiosity and critical thinking, which they have internalized as a need to find meaning in all pursuits. This has led to a high level of self-expectation and a tendency to seek validation through intellectual achievements. The client reflected on their past experiences of receiving praise for their curiosity and creativity, which they now find lacking in their professional life. They expressed a longing for the kind of reinforcement they received in their youth, questioning, "Am I going to need that for the rest of my life?"
+
+Despite these challenges, the client demonstrates a strong sense of self-awareness and a desire to reconcile their internal conflicts. They acknowledged the difficulty of balancing simplicity and complexity in their life, expressing a fear of being "too simple" while also not wanting to be "too complicated." This ambivalence highlights the client's ongoing struggle to integrate their authentic self with external expectations. As the session concluded, the client appeared contemplative, indicating a readiness to continue exploring these themes in future sessions.
+Summary da mistral_.csv: The client expresses difficulty in discussing negative experiences and feelings during therapy sessions, feeling insecure about being perceived as immature due to her hobbies and interests. She shares an experience of feeling judged at a comic book store for her love of Monga, a genre of manga read from right to left. The client feels uncomfortable around people who are stereotypically associated with her hobbies and finds their behavior obnoxious. She also mentions her dislike for loud and disruptive behavior, especially late at night. The client expresses a preference for quieter, more mature environments and feels judged for it. She also mentions her difficulty in processing information presented in a different visual format due to her experience with reading manga. The client expresses a lack of interest in collecting figurines or other typical collectibles and prefers to have meaningful items in her small apartment.
+The client expresses feeling frustrated that people perceive them as someone different than who they are and shares their love for the children's book "The Very Hungry Caterpillar" by Eric Carle. They discuss the appeal of Carle's illustration techniques and the impact of his work on their imagination as a child. The client also mentions their intellectualization of their interests, including their justification for liking the children's book and the TV show "Gossip Girl." They explain that they were taught to find meaning and understanding in everything they consume, and that they were not raised to passively consume entertainment. The client also shares their experience of being educated about getting their ears pierced before doing so.
+The client recounted their parents' reaction to their interest in bright makeup in the late 80s and early 90s, which they found amusing and encouraging. The client adopted this perspective and felt proud of their unique interests. They discussed the importance of positive reinforcement in their upbringing and how it influenced their curiosity and self-expression. The client expressed a sense of disappointment in not receiving the same level of praise and recognition in their current life, particularly at work. They acknowledged their high expectations for fulfillment and self-satisfaction, even without external validation. The client mentioned an exercise at work where colleagues could anonymously leave positive comments for each other, but had not yet checked their own comments. The client expressed a fear of being simple or too complicated and ended the session with a plan to continue the next time on Tuesday.
+
+REFINED CCD: description + report
+{
+  "history": "The client has been dealing with work-related uncertainty and anxiety. They recently separated from their spouse, Ivan, due to physical abuse, but both are committed to resolving their issues through couples therapy. The client struggles with expressing negative emotions and feels insecure about their interests, fearing judgment from others. Their upbringing emphasized intellectual curiosity, leading to high self-expectations and a need for validation through intellectual achievements.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I show my true interests, then others will judge me as immature and I will be rejected.",
+  "intermediate_belief_depression": "If I cannot conform to societal expectations, then I will always feel inadequate and disconnected.",
+  "coping_strategies": [
+    "The client intellectualizes their interests to mitigate feelings of shame and rationalizes them as culturally and intellectually valid. They oscillate between embracing and feeling embarrassed by their interests, and they avoid associating with groups that share similar hobbies."
+  ],
+  "situation": "Exposed to clinical terms used to describe the spouse's behavior during therapy sessions.",
+  "auto_thought": "I cannot believe this is happening; it makes me feel like I'm failing as a partner.",
+  "emotion": [
+    "insecure",
+    "self-judgment",
+    "embarrassed",
+    "ashamed"
+  ],
+  "behavior": "The client intellectualizes the situation, trying to rationalize their feelings. They may withdraw emotionally or avoid discussing their true feelings during therapy sessions."
+}

@@ -1,0 +1,96 @@
+Using description: HISTORY:
+- Financial difficulties following questionable investments.
+- Increased reliance on parents for financial assistance.
+
+SITUATION:
+- A discussion with family members about future plans and potential career changes. with ID=14-2
+Top results (by metadata similarity):
+  - sim=0.682 | title='Patient "Ju", Session April 27, 2012: Client wants to pursue a higher degree but' | file='1004538610.txt'
+  - sim=0.600 | title='BJ - Amy 3-01 Session' | file='1000094811.txt'
+  - sim=0.592 | title='Patient "D" Session April 02, 2012: Client is upset with her biological father's' | file='1004532480.txt'
+  - sim=0.590 | title='Verilogue session: Client has been going through rough times and feeling emotion' | file='1001084067.txt'
+  - sim=0.590 | title='Patient "C" Therapy Session Audio Recording, March 01, 2012: Client is feeling a' | file='1004513664.txt'
+  - sim=0.587 | title='Session 5: Client finds this financial situation stressful and irritating; he ma' | file='1004824745.txt'
+  - sim=0.583 | title='Patient "R" Session May 29, 2012: Client is very concerned over money and her la' | file='1004600946.txt'
+  - sim=0.577 | title='Patient "C", Therapy Session Audio Recording, April 18, 2012: Client feels much ' | file='1004538638.txt'
+  - sim=0.570 | title='Session 12: Client over schedules her days leaving her feeling like she is sprea' | file='1000133989.txt'
+  - sim=0.563 | title='Patient "R" Session July 02, 2012: Client talks about her fear of asking for hel' | file='1004687804.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.682 | file='1004538610.txt' | title='Patient "Ju", Session April 27, 2012: Client wants to pursue a higher degree but'
+  - sim=0.600 | file='1000094811.txt' | title='BJ - Amy 3-01 Session'
+  - sim=0.592 | file='1004532480.txt' | title='Patient "D" Session April 02, 2012: Client is upset with her biological father's'
+Using top selected file for transcript: '1004538610.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+
+The patient is experiencing significant financial difficulties following questionable investments, leading to an increased reliance on their parents for financial assistance. A recent discussion with family members about future plans and potential career changes has likely intensified these challenges.
+
+**Emotional Impact:**
+
+The financial strain and dependency on parents are likely contributing to feelings of anxiety and worry. The patient may feel tense and apprehensive about their financial future and the implications of their current situation. This dependency could also evoke feelings of shame or embarrassment, as relying on parents for financial support might conflict with their desire for independence and self-sufficiency.
+
+The discussion with family members about future plans and career changes may have triggered feelings of uncertainty and fear. The patient might feel overwhelmed by the pressure to make the "right" decision and anxious about the potential outcomes of their choices. This situation could also lead to feelings of frustration and helplessness if the patient perceives a lack of control over their circumstances.
+
+**Cognitive Impact:**
+
+The patient's financial difficulties and reliance on parents may lead to negative automatic thoughts, such as self-criticism or doubt about their decision-making abilities. They might ruminate on past financial decisions, questioning their judgment and competence. This cognitive pattern can exacerbate feelings of inadequacy and low self-esteem.
+
+The discussion about future plans might prompt the patient to engage in "catastrophizing," imagining worst-case scenarios regarding their career and financial stability. They may also experience "all-or-nothing" thinking, perceiving their options as limited and feeling trapped in their current situation.
+
+**Behavioral Impact:**
+
+In response to these stressors, the patient may exhibit avoidance behaviors, such as procrastinating on making decisions about their career or financial situation. They might withdraw from discussions with family members to avoid conflict or feelings of inadequacy. The patient could also seek reassurance from their parents, despite the discomfort it may cause, as a way to cope with their anxiety.
+
+The increased reliance on parents for financial support might lead the patient to avoid taking risks or pursuing opportunities that could improve their situation, fearing failure or further financial strain. This avoidance can perpetuate a cycle of dependency and hinder their ability to achieve greater independence.
+
+**Coping Styles:**
+
+The patient may cope with their financial and career-related stress by seeking distraction or temporary relief through activities that do not address the root of their issues. They might also engage in excessive planning or overthinking as a way to regain a sense of control, although this can lead to further anxiety and indecision.
+
+Given the patient's reliance on their parents, they might struggle with setting boundaries and asserting their needs, leading to internal conflict and stress. The patient may benefit from developing more adaptive coping strategies, such as problem-solving skills and assertive communication, to navigate their financial and career challenges more effectively.
+
+**Conclusion:**
+
+The patient's financial difficulties and reliance on parents, coupled with the pressure of making future career decisions, are likely contributing to a complex emotional and cognitive landscape characterized by anxiety, uncertainty, and self-doubt. Addressing these issues through cognitive restructuring and behavioral interventions could help the patient develop more adaptive coping mechanisms and improve their overall well-being.
+Summary da mistral_.csv: The client described a week where they were happy that their co-worker, Chet, was sick and they finished their semester at school. They also had to sit with someone while their computer was being repaired, which required them to be present for several hours. The client ran into two former co-workers who had left their job to pursue better opportunities, leading them to consider their own options for finishing their education and pursuing a librarian degree. They discussed the financial implications of this decision with their mother, who was opposed to the idea and expressed concern about the cost and the client's employment status. The client felt regretful after the conversation and decided not to discuss their plans further with their parents. They also considered the possibility of quitting their job and collecting severance pay, but were hesitant due to the uncertainty of finding a library job and the financial burden of taking on student loan debt. The client expressed frustration with the lack of clear options and the pressure from
+The client discusses their brother's decision to pursue a Master's degree instead of a Ph.D., and the family's reaction to it. The client's parents are anxious about their brother not working and express their concern in a way that makes the client feel infantilized. The client feels they cannot have a rational conversation about this topic with their parents and has avoided discussing work-related issues with them. The client expresses frustration over their parents' dismissive attitude and their insistence that the client does not understand the situation. The client has put off having a conversation with their parents about a potential work layoff, fearing their reaction and feeling infantilized if they are dismissed as not understanding.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has experienced financial difficulties after making questionable investments, resulting in increased reliance on their parents for financial assistance. This dependency appears to conflict with their desire for independence and self-sufficiency, leading to internal conflict. The client has recently engaged in discussions with family members about future plans and potential career changes, which has intensified their anxiety and self-doubt. There is evidence of rumination about past decisions and a tendency to question their own judgment and competence.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I rely on my parents for help, it means I am incapable and others will see me as a failure. If I make another mistake, it will prove that I can't be trusted to make decisions. I must avoid making the wrong choice or I will disappoint myself and my family.",
+  "intermediate_belief_depression": "If I can't fix my financial situation or make the right career move, it means I will always be stuck and things will never improve. No matter what I do, I can't escape feeling like a failure.",
+  "coping_strategies": [
+    "The client tends to avoid making decisions about their career or finances, sometimes procrastinating or withdrawing from discussions with family to avoid conflict or feelings of inadequacy. They seek reassurance from their parents despite discomfort, and may distract themselves with unrelated activities or engage in excessive planning and overthinking to regain a sense of control."
+  ],
+  "situation": "A discussion with family members about future plans and potential career changes.",
+  "auto_thought": "I'm going to mess this up again and everyone will see that I can't handle my own life. I can't make the right decision and I'll just disappoint them.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "worried",
+    "tense",
+    "overwhelmed",
+    "frustrated"
+  ],
+  "behavior": "I hesitate to speak up or share my ideas during the discussion. I avoid making any commitments or decisions about my future plans. I might withdraw from the conversation or seek reassurance from my parents."
+}

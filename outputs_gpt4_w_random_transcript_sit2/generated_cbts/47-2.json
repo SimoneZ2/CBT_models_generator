@@ -1,0 +1,25 @@
+{
+  "name": "John Doe",
+  "id": "12345",
+  "type": [
+    "CBT"
+  ],
+  "history": "Master's degree in engineering and experience in robotics. Past remorse related to not dedicating enough time to a project.",
+  "helpless_belief": [
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't focus, I won't succeed.",
+  "intermediate_belief_depression": "If I am rejected, it means I am not good enough.",
+  "coping_strategies": "Avoidance of tasks and responsibilities due to fear of failure.",
+  "situation": "Sent an email to someone they are interested in dating and received no response.",
+  "auto_thought": "They didn't respond because I'm not interesting.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Avoids initiating further contact or pursuing other interests."
+}

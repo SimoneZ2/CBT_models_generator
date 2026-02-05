@@ -1,0 +1,91 @@
+Using description: HISTORY:
+- Significant financial loss due to past financial decisions.
+- Ongoing concerns about future finances.
+- Increased reliance on parents for financial assistance.
+
+SITUATION:
+- Thinking about how past financial decisions may affect future plans. with ID=14-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.10 - Top results (by metadata similarity):
+  - sim=0.557 | title='Patient "Ju", Session April 27, 2012: Client wants to pursue a higher degree but' | file='1004538610.txt'
+  - sim=0.542 | title='Patient "J", Session July 24, 2012: Client's financial issues are all coming to ' | file='1004687594.txt'
+  - sim=0.541 | title='Session 5: Client finds this financial situation stressful and irritating; he ma' | file='1004824745.txt'
+  - sim=0.508 | title='Patient "C" Therapy Session Audio Recording, March 01, 2012: Client is feeling a' | file='1004513664.txt'
+  - sim=0.503 | title='Patient "J", Session February 24, 2012: Client is still frustrated with his fina' | file='1004503126.txt'
+  - sim=0.503 | title='Patient "R" Session July 02, 2012: Client talks about her fear of asking for hel' | file='1004687804.txt'
+  - sim=0.498 | title='Session 12: Client over schedules her days leaving her feeling like she is sprea' | file='1000133989.txt'
+  - sim=0.497 | title='Patient "C" Therapy Session Audio Recording, March 27, 2012: Client is frustrate' | file='1004528627.txt'
+  - sim=0.492 | title='Session 69: Client is worrying about finances' | file='1000393751.txt'
+  - sim=0.491 | title='Patient "J", Session February 17, 2012: Client is frustrated that he is still st' | file='1004503122.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.557 | file='1004538610.txt' | title='Patient "Ju", Session April 27, 2012: Client wants to pursue a higher degree but'
+  - sim=0.542 | file='1004687594.txt' | title='Patient "J", Session July 24, 2012: Client's financial issues are all coming to '
+  - sim=0.541 | file='1004824745.txt' | title='Session 5: Client finds this financial situation stressful and irritating; he ma'
+Using top selected file for transcript: '1004538610.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+
+The patient has experienced significant financial loss due to past financial decisions, leading to ongoing concerns about future finances. This situation has necessitated increased reliance on their parents for financial assistance. The patient is currently preoccupied with thoughts about how these past financial decisions may affect future plans.
+
+**Emotional Impact:**
+
+The patient likely experiences a range of emotions related to their financial situation. The significant financial loss may lead to feelings of anxiety and worry about their financial future. This anxiety is compounded by the ongoing need to rely on parents for financial support, which might evoke feelings of shame or embarrassment. The contemplation of past financial decisions and their impact on future plans could also lead to feelings of regret and self-doubt.
+
+**Cognitive Patterns:**
+
+The patient's thought patterns may include rumination on past financial decisions, which can contribute to a cycle of negative thinking. This rumination might manifest as persistent thoughts about what could have been done differently, leading to a sense of being stuck in the past. The patient may also engage in catastrophic thinking, imagining worst-case scenarios for their financial future. This cognitive pattern can exacerbate feelings of anxiety and hinder effective problem-solving.
+
+**Behavioral Responses:**
+
+In response to these emotional and cognitive patterns, the patient might engage in behaviors such as avoiding financial planning or discussions about finances with others, including their parents. This avoidance can serve as a temporary coping mechanism to reduce anxiety but may ultimately prevent the patient from addressing their financial concerns constructively. The patient might also seek reassurance from their parents, which could provide short-term relief but reinforce dependency and feelings of inadequacy.
+
+**Coping Styles:**
+
+The patient's reliance on their parents for financial support suggests a coping style that involves seeking external support during times of stress. While this can be adaptive in some contexts, it may also contribute to feelings of dependency and hinder the development of independent problem-solving skills. The patient may benefit from exploring alternative coping strategies, such as developing a structured financial plan or seeking professional financial advice, to increase their sense of control and self-efficacy.
+
+**Psychological Mechanisms:**
+
+Drawing on the transcript as a psychological reference, the patient may exhibit similar patterns of feeling overwhelmed by complex financial decisions and the potential consequences of these decisions. The transcript highlights how individuals in similar situations might experience a sense of paralysis when faced with multiple potential outcomes, leading to difficulty in making decisions. This can be exacerbated by external pressures or expectations, such as those from family members, which may mirror the patient's experience of relying on parental support.
+
+**Conclusion:**
+
+The patient's financial concerns and reliance on parental support are likely to have a significant impact on their emotional well-being and cognitive functioning. By addressing these issues through cognitive-behavioral strategies, the patient can work towards developing more adaptive coping mechanisms, reducing reliance on external support, and fostering a greater sense of autonomy and confidence in managing their financial future.
+Summary da mistral_.csv: The client described a week where they were happy that their co-worker, Chet, was sick and they finished their semester at school. They also had to sit with someone while their computer was being repaired, which required them to be present for several hours. The client ran into two former co-workers who had left their job to pursue better opportunities, leading them to consider their own options for finishing their education and pursuing a librarian degree. They discussed the financial implications of this decision with their mother, who was opposed to the idea and expressed concern about the cost and the client's employment status. The client felt regretful after the conversation and decided not to discuss their plans further with their parents. They also considered the possibility of quitting their job and collecting severance pay, but were hesitant due to the uncertainty of finding a library job and the financial burden of taking on student loan debt. The client expressed frustration with the lack of clear options and the pressure from
+The client discusses their brother's decision to pursue a Master's degree instead of a Ph.D., and the family's reaction to it. The client's parents are anxious about their brother not working and express their concern in a way that makes the client feel infantilized. The client feels they cannot have a rational conversation about this topic with their parents and has avoided discussing work-related issues with them. The client expresses frustration over their parents' dismissive attitude and their insistence that the client does not understand the situation. The client has put off having a conversation with their parents about a potential work layoff, fearing their reaction and feeling infantilized if they are dismissed as not understanding.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has experienced significant financial loss due to past financial decisions, which has led to ongoing concerns about their financial future. As a result, they have become increasingly reliant on their parents for financial assistance. The report suggests that this reliance may evoke feelings of shame or embarrassment, and that the client tends to ruminate on past decisions and their consequences, leading to self-doubt and regret.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make mistakes with money, it means I am incapable and will always need help. I must avoid thinking about my finances because it only proves I can't handle things. If I rely on others, it shows I am not competent enough to be independent.",
+  "intermediate_belief_depression": "If I keep making financial mistakes, there is no hope for me to ever be independent or successful. My past decisions have ruined my chances for a better future, so there is no point in trying.",
+  "coping_strategies": [
+    "The client tends to avoid financial planning or discussions about finances, especially with others, as a way to reduce anxiety. They also seek reassurance and support from their parents, which provides short-term relief but reinforces feelings of dependency and inadequacy."
+  ],
+  "situation": "Thinking about how past financial decisions may affect future plans.",
+  "auto_thought": "I messed up before and it's going to ruin everything I want to do. I can't see how I'll ever fix this.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "ashamed",
+    "regretful",
+    "self-doubting",
+    "overwhelmed"
+  ],
+  "behavior": "I avoid looking at my finances or making plans for the future. I ask my parents for help instead of trying to solve things myself."
+}

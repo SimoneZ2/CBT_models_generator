@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "Anxiety",
+    "Stress"
+  ],
+  "history": "Recurrent stomachaches and physical symptoms associated with anxiety and stress. Past difficulties involving weight management, sexuality, and academic performance. Reports a transformation during college. Reports seeking control in relationships.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be in control to feel safe.",
+  "intermediate_belief_depression": "If I can't manage my symptoms, I am failing.",
+  "coping_strategies": "Seeks reassurance and control in relationships to manage anxiety.",
+  "situation": "Experiencing ongoing stomach issues and seeking reassurance about recovery.",
+  "auto_thought": "I need to control my symptoms or things will get worse.",
+  "emotion": [
+    "Anxiety",
+    "Stress"
+  ],
+  "behavior": "Seeks reassurance and attempts to control situations to alleviate anxiety."
+}

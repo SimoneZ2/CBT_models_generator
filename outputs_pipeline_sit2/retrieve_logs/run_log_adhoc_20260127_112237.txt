@@ -1,0 +1,94 @@
+Using description: HISTORY:
+- Academic stress during graduate school, including recurring dreams of unpreparedness.
+- Upbringing influenced by pressure from the father and negative childhood experiences.
+
+SITUATION:
+- Experiencing a recurring dream in which coworkers talk negatively about the individual. with ID=42-1
+Top results (by metadata similarity):
+  - sim=0.618 | title='Series 1, Session 6: Client is trying to train herself to not talk when she is f' | file='1002995960.txt'
+  - sim=0.595 | title='Session 605: Client discusses the relationship her and her husband have with the' | file='1000396350.txt'
+  - sim=0.588 | title='Session 64: Client puts too much stress and pressure on herself and becomes phys' | file='1000367963.txt'
+  - sim=0.575 | title='Session 6: Client talks about her childhood and how her mother never made her fe' | file='1000017865.txt'
+  - sim=0.571 | title='Session 267: Client is worried that she would be a bad mother and fears that she' | file='1000393731.txt'
+  - sim=0.559 | title='Session 38: Client focuses on the negative aspects of her life instead of the po' | file='1000334631.txt'
+  - sim=0.557 | title='Session 31: Client is afraid to ask for things of others. She seems almost intim' | file='1000329608.txt'
+  - sim=0.550 | title='Patient "A", Session September 26, 2012: Client talks about his lack of sleep ov' | file='1004798707.txt'
+  - sim=0.541 | title='Session 266: Client still has fears of becoming pregnant; she fears something wi' | file='1000393730.txt'
+  - sim=0.535 | title='Session 4: Client is talking about her dreams with her therapist' | file='1000070466.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.618 | file='1002995960.txt' | title='Series 1, Session 6: Client is trying to train herself to not talk when she is f'
+  - sim=0.595 | file='1000396350.txt' | title='Session 605: Client discusses the relationship her and her husband have with the'
+  - sim=0.588 | file='1000367963.txt' | title='Session 64: Client puts too much stress and pressure on herself and becomes phys'
+Using top selected file for transcript: '1002995960.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient is currently experiencing significant stress related to their professional environment, manifesting in recurring dreams where coworkers speak negatively about them. This is compounded by a history of academic stress during graduate school, characterized by recurring dreams of unpreparedness. The patient's upbringing was marked by pressure from their father and negative childhood experiences, which may contribute to their current stress responses.
+
+**Emotional Impact:**
+The recurring dream of coworkers speaking negatively likely evokes feelings of anxiety, worry, and fear. These emotions may stem from a fear of judgment or inadequacy, potentially rooted in the patient's past experiences of academic stress and parental pressure. The dreams may leave the patient feeling vulnerable and exposed, similar to the feelings of unpreparedness experienced during graduate school.
+
+**Cognitive Patterns:**
+The patient's cognitive processes may include a tendency to ruminate on perceived inadequacies and anticipate negative evaluations from others. This pattern is likely reinforced by past experiences of pressure and criticism, leading to a heightened sensitivity to perceived judgment. The recurring dreams may serve as a cognitive manifestation of these fears, reinforcing a cycle of self-doubt and anxiety.
+
+**Behavioral Responses:**
+In response to these stressors, the patient may engage in avoidance behaviors, such as withdrawing from social interactions or hesitating to engage in workplace discussions. They may also seek reassurance from colleagues or superiors to mitigate feelings of inadequacy. The recurring dreams might lead to a disrupted sleep pattern, further exacerbating stress and impacting daily functioning.
+
+**Coping Mechanisms:**
+The patient may benefit from developing coping strategies to manage anxiety and stress. Techniques such as mindfulness and cognitive restructuring could help the patient challenge negative thought patterns and reduce the emotional impact of the dreams. The transcript suggests that techniques like taking a moment to breathe and reassess situations can be effective in managing panic and stress, which could be adapted for the patient's context.
+
+**Recommendations:**
+1. **Cognitive Restructuring:** Encourage the patient to identify and challenge negative thoughts associated with the recurring dreams and workplace stress. This can help in reducing the emotional impact and altering the cognitive patterns that contribute to anxiety.
+
+2. **Mindfulness Practices:** Introduce mindfulness exercises to help the patient remain grounded and reduce rumination. This can aid in managing stress and improving emotional regulation.
+
+3. **Sleep Hygiene:** Address the impact of recurring dreams on sleep quality by establishing a consistent sleep routine and incorporating relaxation techniques before bedtime.
+
+4. **Assertiveness Training:** Support the patient in developing assertiveness skills to effectively communicate and manage workplace interactions, reducing the perceived threat of negative evaluations.
+
+5. **Therapeutic Exploration:** Explore the underlying issues related to the patient's upbringing and academic experiences to address the root causes of their stress responses.
+
+By focusing on these areas, the patient can work towards reducing the frequency and impact of the recurring dreams, improving their overall emotional well-being and professional functioning.
+Summary da mistral_.csv: In this therapy session, the patient discussed their progress in managing panic attacks through various techniques such as not talking during panic mode, taking deep breaths, and choosing to be alone. They also shared their frustration with recurring dreams about a past relationship that evoke negative emotions and leave them feeling powerless. The counselor suggested rewriting the ending of the dreams to change the outcome and regain control. The patient expressed the desire to break the emotional tie with the past relationship and no longer be triggered by it.
+The patient discusses how they have come to terms with their past relationship with George and no longer idealize him. They acknowledge that he makes active decisions to be in their life and view him in a new light. The patient also talks about their past comparison of George to an ex-girlfriend and how they used to think about her a lot, but no longer do so. They discuss the negative effects of idealizing love and relationships and how they are learning to accept reality. The counselor and patient discuss rewriting dreams to remove the ex-girlfriend and replace her with positive experiences. The patient expresses a desire for the ex-girlfriend to be gracious and acknowledge the past is behind them.
+The patient discussed recurring dreams about their past partner leaving them, which they had only experienced during a recent low period. The counselor suggested the patient could rewrite the dream to change its outcome. The patient mentioned they had been experiencing less frequent cliff-related incidents and were enjoying improved mental health. They then discussed the stress of receiving critical feedback from their boss, who has a history of unprofessional behavior. The patient expressed concern about the potential for future criticism and the impact it could have on their confidence. They also mentioned their boss's recent decision to leave the company, leaving the patient to potentially report directly to her. The counselor suggested acknowledging the source of the criticism and managing negative emotions to prevent panicking and potentially negative responses.
+In this session, the patient discussed feeling guilty about frequently experiencing negative emotions towards their boss, leading to feelings of guilt and self-criticism. The counselor suggested reminding oneself that the boss's negative reactions are not personal and not a reflection of the patient's worth or abilities. The patient found this perspective helpful and planned to apply it before and after interactions with their boss. The counselor also mentioned tracking symptom distress and interpersonal relations as part of their therapeutic approach.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of academic stress during graduate school, which included recurring dreams of being unprepared. Their upbringing was influenced by pressure from their father and negative childhood experiences. These early experiences of pressure and criticism appear to have contributed to a heightened sensitivity to judgment and a tendency to ruminate on perceived inadequacies, as evidenced by the recurring dreams and current workplace stress.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If others talk negatively about me, it means I am not good enough and I will be rejected. I must always be prepared and perform perfectly, or people will see my flaws and criticize me. If I am criticized, it confirms that I am inadequate and unworthy of acceptance.",
+  "intermediate_belief_depression": "If I can't stop people from criticizing me, it means I will never be good enough and things will never get better. No matter what I do, I will always fall short and be judged, so there is no point in trying.",
+  "coping_strategies": [
+    "The client tends to withdraw from social interactions at work and hesitates to participate in discussions, likely to avoid potential criticism. They may also seek reassurance from colleagues or superiors to manage feelings of inadequacy. These avoidance and reassurance-seeking behaviors maintain the cycle of anxiety and self-doubt."
+  ],
+  "situation": "Experiencing a recurring dream in which coworkers talk negatively about the individual.",
+  "auto_thought": "Everyone at work thinks I'm not good enough. They're talking about my mistakes behind my back and I can't do anything to stop it.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "fearful",
+    "vulnerable",
+    "ashamed",
+    "inadequate"
+  ],
+  "behavior": "After waking from the dream, the client feels tense and avoids engaging with coworkers. They may replay the dream in their mind, ruminate about what others think, and hesitate to speak up in meetings."
+}

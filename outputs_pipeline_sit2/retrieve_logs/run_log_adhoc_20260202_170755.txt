@@ -1,0 +1,72 @@
+Using description: HISTORY:
+- Complex relationship history involving a person named Cricket that affected the patient's social circle.
+- The patient often takes a caretaking role with friends, including a friend named Lucy with ongoing medical issues.
+
+SITUATION:
+- Friends are gathered outside the residence waiting while the patient is running late after work. with ID=41-2
+Sample results (metadata similarity):
+  - sim=0.055 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.064 | title='Verilogue session: Client notices an improvement more so in his behavior rather ' | file='1003075059.txt'
+  - sim=0.074 | title='Verilogue session: Client appears to be in a manic upswing and is very anxious a' | file='1001083971.txt'
+  - sim=0.088 | title='Verilogue session: Client's insomnia seems to be causing mood swings' | file='1001280398.txt'
+  - sim=0.096 | title='Verilogue session: Client feels very depressed and has no motivation' | file='1003009252.txt'
+  - sim=0.099 | title='Verilogue session: Client is suffering from depression; her current antidepressa' | file='1001083929.txt'
+  - sim=0.104 | title='This is an EMDR session with a 45-year-old woman whose son, George, was killed i' | file='1000606010.txt'
+  - sim=0.106 | title='Verilogue session: Client's depressed mood has increased recently. She finds tha' | file='1001083936.txt'
+  - sim=0.107 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.109 | title='Patient "R" Session April 13, 2012: Client and therapist discuss the pros and co' | file='1004532466.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.055 | file='1003009210.txt' | title='Verilogue session: Client feels that medicine cannot help her but, she is willin'
+  - sim=0.064 | file='1003075059.txt' | title='Verilogue session: Client notices an improvement more so in his behavior rather '
+  - sim=0.074 | file='1001083971.txt' | title='Verilogue session: Client appears to be in a manic upswing and is very anxious a'
+Using LEAST related file for transcript: '1003009210.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The patient, a young Caucasian female, presents with a complex relationship history, notably involving a person named Cricket, which has significantly impacted her social circle. She often assumes a caretaking role, particularly with a friend named Lucy who has ongoing medical issues. This pattern of caretaking may contribute to her current feelings of being "tired," as she describes in the session, despite initially stating she feels "strong." Her fatigue is compounded by the side effects of medications she has tried in the past, which she reports make her "tired all the time." This ongoing struggle with medication is evident as she expresses frustration, stating, "Medicine don't help me," and "I've taken everything and anything I can, it won't help."
+
+The patient is currently navigating a challenging situation with her probation officer, who believes she needs medication, a point she disputes. She is under financial strain, needing to pay $1,400 in fines, yet she has not received payment from her new job as an assistant activity director, where she works 20 hours a week at minimum wage. This financial pressure adds to her stress, as she mentions, "I ain't got a job. I got nothing," highlighting her precarious situation. Despite these challenges, she reports doing "good" at her job, indicating that she manages to maintain composure and not get upset, even when dealing with potentially difficult situations involving the elderly.
+
+Throughout the session, the patient repeatedly expresses skepticism about her diagnosis and the efficacy of her treatment, stating, "I don't even think I have a disorder," and "I just have mood swings." This reflects a broader theme of feeling misunderstood and not being accurately diagnosed, which may contribute to her reluctance to adhere to medication regimens. Her psychiatrist suggests trying Tegretol and Concerta, aiming to address her mood swings and difficulty sitting still, a symptom she describes as, "I can't sit in one spot for 5 seconds." The patient is hesitant about the new medication plan, particularly concerned about the requirement for a blood test, questioning, "Why do I have to do a blood test?" This indicates a level of distrust or discomfort with medical procedures, possibly stemming from her past experiences with ineffective treatments.
+
+The session reveals a mismatch between the patient's self-perception and the external expectations placed upon her, both by her probation officer and the medical system. She expresses a desire for a diagnosis that resonates with her experience, rather than the vague label of mood swings, which she feels is common to everyone. Her statement, "Everybody has mood swings," underscores her belief that her experiences are not pathological but rather a normal part of life. This perception may lead her to avoid fully engaging with treatment options, as she does not see them as relevant or helpful to her situation.
+
+In summary, the patient's current experience is characterized by a sense of fatigue, financial stress, and a struggle with medication adherence, all within the context of a complex social and relational history. Her interactions in the session highlight themes of skepticism towards her diagnosis, frustration with ineffective treatments, and a desire for autonomy in managing her mental health. These factors contribute to her current coping strategies, which include maintaining a strong facade, despite underlying feelings of exhaustion and being overwhelmed by her circumstances.
+Summary da mistral_.csv: In this psychotherapy session, a female patient with ADHD discussed her current struggles with tiredness from her medication and her ongoing probation. The patient expressed dissatisfaction with her current treatment and felt that medication did not help her. The physician suggested trying Tegretol at night and Concerta in the morning to address her symptoms of restlessness and difficulty sitting still. The physician also recommended a blood test a week after starting the new medication to monitor its effectiveness and potential side effects. The patient agreed to follow this treatment plan and scheduled a follow-up appointment.
+
+REFINED CCD: description + report
+{
+  "history": "The patient has a complex relationship history, especially involving a person named Cricket, which has disrupted her social circle. She frequently takes on a caretaking role, notably with a friend named Lucy who has ongoing medical issues. She reports chronic fatigue, partly due to medication side effects and the emotional burden of caretaking. She expresses skepticism about her diagnosis and frustration with treatments, feeling misunderstood by professionals. Financial stress and work instability further contribute to her sense of being overwhelmed.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am late or let my friends down, they will think less of me and I will lose my place in the group. I have to always be responsible and take care of others, or else I am not a good friend. If I show any weakness or fail to meet expectations, people will distance themselves from me.",
+  "intermediate_belief_depression": "If I can't keep up with everything and everyone, it means I'm failing and nothing will ever get better. No matter how hard I try, I end up letting people down and feeling exhausted, so what's the point?",
+  "coping_strategies": [
+    "She maintains a strong facade and pushes through exhaustion to meet others' needs, even when overwhelmed. She avoids expressing her own needs or doubts, and is skeptical or disengaged from treatment recommendations. She may withdraw emotionally or minimize her struggles to avoid appearing weak or burdensome."
+  ],
+  "situation": "Friends are gathered outside the residence waiting while the patient is running late after work.",
+  "auto_thought": "I'm letting everyone down because I'm late. They'll be annoyed with me and think I don't care about them.",
+  "emotion": [
+    "anxious",
+    "guilty",
+    "ashamed",
+    "worried",
+    "tense"
+  ],
+  "behavior": "She rushes to meet her friends, apologizes repeatedly, and tries to make up for being late by being extra attentive or helpful. She may avoid talking about her own stress or fatigue, focusing instead on others' needs."
+}

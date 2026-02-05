@@ -1,0 +1,56 @@
+{
+  "name": "CBT Cognitive Conceptualization for Client Supporting Stressed Friends",
+  "id": "46-1",
+  "type": [
+    "CBT",
+    "case formulation",
+    "conceptualization"
+  ],
+  "history": "The client has a pattern of forming close relationships with friends who are experiencing significant stressors. This tendency may reflect a heightened sensitivity to others' needs and a strong sense of empathy, as suggested by their involvement with friends facing academic pressures and parenting challenges. The client may ruminate on their friends' problems and feel responsible for providing support, sometimes at the expense of their own well-being. There is an implied risk of emotional exhaustion and neglect of self-care due to prioritizing others' needs.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I am not there for my friends when they are struggling, I am failing as a friend and person. I must always be available to help, or else I am not good enough. Supporting others is my responsibility, even if it is overwhelming.",
+  "intermediate_belief_depression": "If I can't make a real difference for my friends, then nothing I do matters and I am letting everyone down. No matter how much I try, it's never enough, so what's the point?",
+  "coping_strategies": "The client tends to offer emotional and practical support to friends in distress, sometimes neglecting their own needs. They may ruminate about their friends' problems and feel guilty or inadequate if unable to help. When overwhelmed, they might withdraw or avoid social interactions to manage emotional fatigue.",
+  "situation": "Considering visiting a friend managing parenting demands and housing instability.",
+  "auto_thought": "If I don't go visit, my friend will think I don't care and I'll be letting them down. I have to be there or I'm a bad friend.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "guilty",
+    "sad",
+    "overwhelmed"
+  ],
+  "behavior": "The client spends time thinking about their friend's situation and feels compelled to visit, even if it is emotionally draining. They may put aside their own needs or plans to prioritize the visit. If feeling overwhelmed, they might hesitate or delay reaching out, but continue to ruminate on the friend's struggles.",
+  "rationale": "\"The close relationships with stressed friends may evoke feelings of empathy and concern, potentially leading to emotional exhaustion... The patient might also engage in self-critical thoughts if they perceive themselves as not doing enough to support their friends, potentially resulting in feelings of guilt or inadequacy... The patient may engage in behaviors aimed at supporting their friends, such as offering emotional support, visiting, or helping with practical tasks... The patient might also withdraw or avoid social interactions if they feel overwhelmed by their friends' stressors, leading to potential isolation.\"",
+  "core_belief_predictions": {
+    "source_id": "46-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable",
+      "worthless"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am incompetent",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable",
+      "I am worthless, waste"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

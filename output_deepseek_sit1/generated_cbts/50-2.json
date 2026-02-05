@@ -1,0 +1,29 @@
+{
+  "name": "Patient 50",
+  "id": "50",
+  "type": [
+    "friendship betrayal",
+    "moral distress"
+  ],
+  "history": "Longstanding friendship with Ethan since high school (14 years). Shared personal crises and professional collaborations. Learned Ethan has been abusive toward girlfriend.",
+  "helpless_belief": [
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am bad - dangerous, toxic, evil"
+  ],
+  "intermediate_belief": "My long friendship with an abuser makes me complicit and morally compromised.",
+  "intermediate_belief_depression": "I've invested years in a friendship with someone who is fundamentally abusive.",
+  "coping_strategies": [
+    "Observation of concerning behavior, distress about moral implications."
+  ],
+  "situation": "Learning about Ethan's abusive behavior toward partner and feeling distressed. Observing erratic behavior and substance use at recent gathering.",
+  "auto_thought": "The person I've considered my closest friend is actually an abuser.",
+  "emotion": [
+    "betrayal",
+    "moral distress",
+    "confusion"
+  ],
+  "behavior": "Learn about friend's abusive behavior and observe concerning signs."
+}

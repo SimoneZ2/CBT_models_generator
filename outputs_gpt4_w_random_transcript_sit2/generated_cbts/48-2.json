@@ -1,0 +1,27 @@
+{
+  "name": "Patient",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "In a relationship with Ivan for about seven years and married for three. Stressful periods during academic finals and wedding preparation due to lack of support from Ivan. Current financial pressure involving Ivan's part-time work, therapy costs, and dental treatment expenses.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be competent and in control to be valued.",
+  "intermediate_belief_depression": "If I can't manage everything perfectly, I am failing.",
+  "coping_strategies": "Avoidance of tasks and responsibilities due to fear of failure.",
+  "situation": "Ivan's mother speaks to the patient in a critical manner.",
+  "auto_thought": "I can't handle this criticism; I'm not good enough.",
+  "emotion": [
+    "Anxiety",
+    "Frustration",
+    "Irritability"
+  ],
+  "behavior": "Withdrawal from activities and responsibilities."
+}

@@ -1,0 +1,80 @@
+Using description: HISTORY:
+- Recent divorce.
+- Financial struggles.
+- Adjustment to single life.
+- Co-parenting.
+- Difficulties maintaining friendships after the divorce.
+- Complications with family relationships.
+
+SITUATION:
+- Managing financial hardship following the divorce, including handling financial paperwork. with ID=10-1
+Top results (by metadata similarity):
+  - sim=0.607 | title='Patient "J", Session April 13, 2012: Client is upset with his financial situatio' | file='1004532414.txt'
+  - sim=0.607 | title='Patient "J", Session February 17, 2012: Client is frustrated that he is still st' | file='1004503122.txt'
+  - sim=0.596 | title='Patient "J", Session February 24, 2012: Client is still frustrated with his fina' | file='1004503126.txt'
+  - sim=0.595 | title='Patient "J", Session April 24, 2012: Client is finding no joy in his life. He fe' | file='1004538600.txt'
+  - sim=0.592 | title='Patient "J", Session August 29, 2012: Client has a lot going on with his work ri' | file='1004687614.txt'
+  - sim=0.589 | title='Patient "J", Session May 29, 2012: Client is stressed about his finances and fru' | file='1004564941.txt'
+  - sim=0.588 | title='Session 5: Client finds this financial situation stressful and irritating; he ma' | file='1004824745.txt'
+  - sim=0.587 | title='Session 3: Client is angry with her husband and his lack of interest in her as a' | file='1000088053.txt'
+  - sim=0.582 | title='Patient "J", Session April 19, 2012: Client has been so stressed out about his f' | file='1004538598.txt'
+  - sim=0.580 | title='Patient "J", Session February 14, 2012: Client opens session with a sense of hop' | file='1004503120.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=1 partial_match=9
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=1
+  - sim=0.588 | file='1004824745.txt' | title='Session 5: Client finds this financial situation stressful and irritating; he ma'
+Using top selected file for transcript: '1004824745.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient is experiencing significant life changes following a recent divorce. This transition has introduced several challenges, including financial struggles, adjusting to single life, co-parenting, maintaining friendships, and managing complicated family relationships. The patient is also tasked with handling financial paperwork amidst these changes.
+
+**Emotional Impact:**
+The divorce and subsequent life changes likely evoke a range of emotions. The patient may feel anxious and worried about financial stability, as managing financial hardship is a prominent concern. The adjustment to single life and co-parenting could lead to feelings of loneliness and sadness, as the patient navigates life without a partner. The difficulties in maintaining friendships and complications with family relationships might contribute to feelings of isolation and disappointment. These emotional responses are typical in such transitions, as individuals often struggle with the loss of previous support systems and the need to establish new ones.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive patterns characterized by rumination and worry, particularly concerning financial matters and the future. The need to manage financial paperwork could exacerbate these thought patterns, leading to a preoccupation with potential financial pitfalls and the pressure to meet financial obligations. The patient's cognitive focus might also include self-critical thoughts related to the perceived inability to maintain friendships and family relationships post-divorce. This could manifest as a sense of inadequacy or failure in personal and social domains.
+
+**Behavioral Responses:**
+In response to these stressors, the patient might engage in avoidance behaviors, such as procrastinating on financial tasks or withdrawing from social interactions. The patient may also seek reassurance from others, particularly in co-parenting situations, to alleviate anxiety about parenting decisions. The financial struggles could lead to behaviors aimed at minimizing expenses, such as cutting back on non-essential spending or delaying payments, which might provide temporary relief but also contribute to ongoing stress.
+
+**Coping Styles:**
+The patient may rely on problem-solving strategies to cope with financial challenges, such as budgeting or seeking additional income sources. However, the emotional burden of the divorce and its aftermath might hinder effective coping, leading to feelings of being overwhelmed. The patient might also use distraction techniques, such as engaging in hobbies or social media, to temporarily escape from stressors. While these strategies can provide short-term relief, they may not address the underlying issues contributing to the patient's distress.
+
+**Conclusion:**
+The patient's recent life changes have a profound impact on their emotional, cognitive, and behavioral functioning. The divorce has introduced significant stressors that challenge the patient's ability to cope effectively. Cognitive Behavioral Therapy (CBT) can be beneficial in helping the patient identify and modify unhelpful thought patterns, develop adaptive coping strategies, and improve emotional regulation. By addressing these areas, the patient can work towards achieving greater stability and well-being in their post-divorce life.
+Summary da mistral_.csv: The client discusses their current financial situation, detailing their ability to manage monthly expenses while expressing frustration with having to use a credit card for larger expenses and uncertainty about the long-term stability of a potential grant-writing business. They also mention their upcoming date with a new partner and the successful completion of a friend's wedding. The client expresses feelings of helplessness regarding their financial situation, specifically their inability to access their family's home equity or ask their mother for help due to her reluctance to sell or rent out one of the apartments. They also discuss their strained relationship with their uncle, who has helped them financially in the past but requires repayment through an automatic loan. The client expresses frustration with the bank's unwillingness to grant them a home equity loan based on their credit score, despite having a full-time job and significant equity in their property. They also reflect on the lack of financial guidance they received growing up and the impact
+The client discusses their financial struggles with using cash instead of credit cards and the impact it has on their peace of mind. They mention the stress of constantly having to use cash for various expenses and the difference it would make if they could use a credit card and pay it off each month. The client also shares their experiences with their parents, specifically regarding the purchase of a store and their father's injury, which led to financial instability and a lack of financial planning. The client expresses frustration with their family's inability to understand the importance of building credit and saving money. The therapist attempts to explore the client's past and how it may have influenced their current financial situation, but the client does not provide clear answers. The conversation shifts to the client's father's job history and the decision to move back to their hometown. The client mentions their mother's sexual harassment at her job and the subsequent class-action lawsuit, which led to their family
+
+ REFINED CCD: description + report
+{
+  "history": "The client recently went through a divorce, which has led to significant financial struggles and the need to adjust to single life. They are now co-parenting and have reported difficulties maintaining friendships after the divorce, as well as complications in family relationships. The emotional burden of these changes, combined with the practical demands of managing finances and paperwork, has contributed to feelings of being overwhelmed and isolated.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't manage my finances and paperwork perfectly, it means I'm not capable of taking care of myself or my family. If I struggle with these responsibilities, others will see me as inadequate and I will end up alone. I must not make mistakes or I will confirm that I'm failing at this new phase of life.",
+  "intermediate_belief_depression": "If I keep struggling with these financial and life changes, it proves that things will never get better for me and I will always feel overwhelmed and alone.",
+  "coping_strategies": [
+    "The client tends to avoid or procrastinate on financial tasks, such as handling paperwork, to escape feelings of anxiety and overwhelm. They withdraw from social interactions and may seek reassurance from others in co-parenting situations. The client also uses distraction, like engaging in hobbies or social media, to temporarily avoid distressing thoughts."
+  ],
+  "situation": "Managing financial hardship following the divorce, including handling financial paperwork.",
+  "auto_thought": "I'm never going to get this paperwork right. If I mess this up, everything will fall apart and I'll be completely alone.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "worried",
+    "sad",
+    "ashamed"
+  ],
+  "behavior": "I put off dealing with the paperwork and avoid opening bills or financial documents. I withdraw from friends and family, and spend time distracting myself instead of facing the tasks."
+}

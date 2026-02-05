@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Long-standing friendship with Jersey, who has had multiple surgeries related to disabilities. The patient has previously provided support during Jersey's medical procedures and recovery. Ongoing conflict with roommate Ashby over household issues.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must always be strong and supportive for others.",
+  "intermediate_belief_depression": "If I can't help Jersey, I am failing as a friend.",
+  "coping_strategies": "Overextending themselves to help others, avoiding confrontation with Ashby.",
+  "situation": "Thinking about Jersey's recovery while managing other personal responsibilities.",
+  "auto_thought": "I can't let Jersey down, but I'm overwhelmed.",
+  "emotion": [
+    "Anxiety",
+    "Guilt"
+  ],
+  "behavior": "Prioritizing Jersey's needs over personal responsibilities, avoiding addressing issues with Ashby."
+}

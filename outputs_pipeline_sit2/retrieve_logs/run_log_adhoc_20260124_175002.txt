@@ -1,0 +1,84 @@
+Using description: HISTORY:
+- PhD student in a science field.
+- Involved in music, including leading a college band and participating in a jazz group.
+- Previously offered a leadership position in the jazz group and declined.
+- Reports mental health struggles.
+- Feels disconnected from colleagues in the scientific work environment.
+
+SITUATION:
+- During a jazz rehearsal, needing to repeat sections multiple times to progress.
+- Avoiding committing to music practice afterward. with ID=12-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.554 | title='Patient "R", Session September 13, 2012: Client talks about a near fainting phen' | file='1004798823.txt'
+  - sim=0.548 | title='Patient "B", Session September 20, 2012: Client feels like she is not doing well' | file='1004798721.txt'
+  - sim=0.547 | title='Verilogue session: Client has more anxiety than usual due to moving house recent' | file='1003009286.txt'
+  - sim=0.517 | title='Session 21: Client feels like he is on the spot to "deliver", to be a good clien' | file='1000013415.txt'
+  - sim=0.508 | title='Patient "M" Session July 02, 2012: Client talks about how stressful it is to pre' | file='1004687790.txt'
+  - sim=0.505 | title='Patient "R" Session May 14, 2012: Client talks about her recent motivation to wr' | file='1004565045.txt'
+  - sim=0.503 | title='Session 4: Client wonders if his siblings felt emotionally cheated by their moth' | file='1000016539.txt'
+  - sim=0.500 | title='Session 1: Client feels unsure about therapy. He avoids thinking about having to' | file='1000122152.txt'
+  - sim=0.499 | title='Verilogue session: Client is experiencing stress in the workplace' | file='1001084028.txt'
+  - sim=0.495 | title='Patient "R", Session October 04, 2012: Client has a legitimate fear of fainting;' | file='1004798819.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.554 | file='1004798823.txt' | title='Patient "R", Session September 13, 2012: Client talks about a near fainting phen'
+  - sim=0.548 | file='1004798721.txt' | title='Patient "B", Session September 20, 2012: Client feels like she is not doing well'
+  - sim=0.547 | file='1003009286.txt' | title='Verilogue session: Client has more anxiety than usual due to moving house recent'
+Using top selected file for transcript: '1004798823.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient is a PhD student in a science field who has expressed feelings of disconnection from colleagues in their scientific work environment. They are also involved in music, leading a college band and participating in a jazz group. Despite being offered a leadership position in the jazz group, the patient declined. They report ongoing mental health struggles and have been avoiding committing to music practice outside of rehearsals.
+
+**Emotional Experience:**
+The patient likely experiences a range of emotions stemming from their current life circumstances. The feeling of disconnection from colleagues may contribute to emotions such as loneliness, isolation, and possibly inadequacy. This disconnection could be exacerbated by the high-pressure environment of a PhD program, where collaboration and networking are often crucial. The patient's involvement in music, while a potential source of joy and fulfillment, may also be a source of stress, particularly given their avoidance of practice and previous decision to decline a leadership role. This avoidance might lead to feelings of guilt or disappointment in themselves.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive patterns such as self-doubt and negative self-evaluation, particularly in relation to their scientific and musical pursuits. The decision to decline a leadership position in the jazz group could indicate a fear of failure or a lack of confidence in their leadership abilities. This is supported by their avoidance of music practice, which may be driven by a fear of not meeting personal or external expectations. The patient might also engage in mind reading, assuming negative judgments from colleagues or peers without concrete evidence, as suggested by their feelings of disconnection.
+
+**Behavioral Responses:**
+Behaviorally, the patient tends to avoid situations that might exacerbate their feelings of inadequacy or anxiety. This is evident in their avoidance of music practice and their decision to decline a leadership role. Such avoidance can be a coping mechanism to manage anxiety or fear of failure but may also reinforce negative self-perceptions and hinder personal growth. The patient might also withdraw from social interactions with colleagues, further contributing to their sense of disconnection.
+
+**Coping Styles:**
+The patient appears to cope with their struggles by avoiding situations that trigger anxiety or self-doubt. This avoidance, while providing temporary relief, may prevent them from addressing underlying issues and achieving their full potential in both academic and musical endeavors. The patient might benefit from developing more adaptive coping strategies, such as seeking support from peers or mentors, engaging in regular practice to build confidence, and challenging negative thought patterns.
+
+**Conclusion:**
+The patient's current emotional and cognitive experiences are likely influenced by their academic and musical commitments, as well as their perceived disconnection from colleagues. By addressing avoidance behaviors and fostering a more supportive social environment, the patient may begin to alleviate some of their mental health struggles. Cognitive Behavioral Therapy (CBT) techniques, such as cognitive restructuring and gradual exposure to avoided activities, could be beneficial in helping the patient develop healthier coping mechanisms and improve their overall well-being.
+Summary da mistral_.csv: The client described an experience of intense anxiety during a lunch seminar, which led to feelings of dizziness and the fear of fainting. The anxiety was triggered by being tired, hungry, and in the front row of the seminar, as well as the commitment to a lunch talk that prevented them from resting. The client felt judged by Kelly, a friend, for leaving the talk, leading to additional anxiety. The client ate to alleviate the hunger and felt better, but continued to worry about fainting. The therapist clarified the distinction between the anxiety about fainting and the physical symptoms, and the client discussed their family's structured eating habits and the association between hunger and fainting. The client also mentioned their history of being a serious saxophone player in high school and college, but now struggles to practice due to a lack of anxiety or motivation. The client expressed concerns about how they come across to others and the potential judgment from others,
+The client discusses her experiences in middle and high school, where she lost most of her female friends and had more male friends due to their disproportionate representation. She dates boys who were musicians, talented, and intellectually gifted in high school and college. She found it difficult for women to fit into this social circle due to the small number of females in the jazz band and their perceived lack of sex appeal compared to the intelligent and cool women who were independent-minded but not as musically or intellectually gifted. The client reflects on her past actions, but does not offer a theory about her experiences. The session ends with a plan to continue the discussion on Wednesday.
+
+ REFINED CCD: description + report
+{
+  "history": "The client is a PhD student in a science field who reports feeling disconnected from colleagues in their scientific environment. They are involved in music, leading a college band and participating in a jazz group. The client was previously offered a leadership position in the jazz group but declined. They report ongoing mental health struggles and have been avoiding committing to music practice outside of rehearsals. These patterns suggest a history of self-doubt and avoidance in both academic and musical domains.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't play perfectly or keep up during rehearsal, others will see that I'm not good enough, so it's safer to avoid putting myself out there. If I take on more responsibility or practice more, I might just prove my inadequacy. It's better to hold back than risk failing in front of others.",
+  "intermediate_belief_depression": "If I keep struggling and can't improve, it means I'll never be good enough, so there's no point in trying. My efforts won't make a difference, and I'll just end up disappointing myself and others.",
+  "coping_strategies": [
+    "The client avoids committing to music practice outside of rehearsals and declines leadership opportunities, which temporarily reduces anxiety but reinforces self-doubt and feelings of inadequacy. They also withdraw from social and collaborative opportunities, maintaining a sense of disconnection."
+  ],
+  "situation": "During a jazz rehearsal, needing to repeat sections multiple times to progress. Avoiding committing to music practice afterward.",
+  "auto_thought": "I'm holding everyone back by needing to repeat these sections. If I try to practice more later, I'll just prove that I'm not good enough.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "guilty",
+    "disappointed",
+    "inadequate",
+    "isolated"
+  ],
+  "behavior": "I avoid committing to music practice after rehearsal. I keep quiet during rehearsal and don't volunteer for extra responsibility. I withdraw from engaging with the group outside of required activities."
+}

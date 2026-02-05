@@ -1,0 +1,32 @@
+{
+  "history": "The patient has a history of complex relationships, particularly involving a person named Cricket, which has disrupted their social circle. They frequently take on a caretaking role with friends, especially with Lucy, who has ongoing medical issues. This pattern suggests a longstanding sense of responsibility for others' well-being, possibly at the expense of their own needs. The patient often feels the need to justify their actions and prepare for negative outcomes, indicating a heightened sense of vigilance and control.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not there for others or if I am late, people will think I don't care and I will be seen as unreliable. I must always be responsible and anticipate problems to prevent others from being hurt or disappointed. If I don't meet these standards, I risk damaging my relationships and being excluded.",
+  "intermediate_belief_depression": "If I keep failing to be on time or help enough, it means I'm hopeless and nothing I do will ever be enough to keep people close. Eventually, everyone will give up on me because I can't get it right.",
+  "coping_strategies": [
+    "The patient often over-prepares before leaving for appointments, double-checking details or trying to ensure everything is perfect, which leads to running late. They may seek reassurance from friends or justify their lateness to avoid confrontation or judgment. These strategies temporarily reduce anxiety but reinforce the cycle of over-responsibility and stress."
+  ],
+  "situation": "Running late for appointments and social gatherings, including therapy and lunches with friends.",
+  "auto_thought": "I'm running late again—everyone will think I don't care or that I'm unreliable. They'll be disappointed in me and maybe stop inviting me.",
+  "emotion": [
+    "anxious",
+    "guilty",
+    "embarrassed",
+    "worried",
+    "tense"
+  ],
+  "behavior": "I rush to get ready, checking and rechecking things before I leave. I send apologetic messages or make excuses to friends or the therapist. Sometimes I hesitate to show up at all because I feel so bad about being late.",
+  "source_text_id": "1004798863.txt"
+}

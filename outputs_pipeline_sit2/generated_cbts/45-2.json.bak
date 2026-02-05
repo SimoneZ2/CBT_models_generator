@@ -1,0 +1,34 @@
+{
+  "name": "CBT Cognitive Conceptualization for Social Outburst Case",
+  "id": "ccd-2024-06-incident1",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a pattern of relationships sometimes shifting into romantic connections, which may reflect a tendency to seek deeper bonds or blur boundaries. There is a history of conflict in relationships, especially following expressions of anger, suggesting difficulty managing anger constructively and possible fear of its consequences. The client’s relationship with their parents is complex and marked by a sense of obligation, which may contribute to internalized pressure and stress. These dynamics appear to influence the client’s emotional responses and coping patterns in current relationships.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express strong emotions, especially anger, others will distance themselves or judge me, so I must keep my feelings in check to maintain relationships. I have to meet others' expectations or I risk being rejected. If I lose control in front of others, it means I am not good enough to be accepted.",
+  "intermediate_belief_depression": "If I can't control my emotions and keep disappointing others, there is no hope for me to have stable relationships. No matter what I do, I end up alone or in conflict, so it's pointless to try.",
+  "coping_strategies": "After emotional outbursts or conflict, the client tends to withdraw from others or avoid confrontation to reduce distress and prevent further judgment. They may ruminate about the incident, replaying it in their mind and criticizing themselves. The client sometimes seeks reassurance from friends or family to validate their feelings or to check if the relationship is still intact.",
+  "situation": "An incident at a social gathering resulted in an emotional outburst among friends.",
+  "auto_thought": "I’ve messed up again in front of everyone. They probably think I’m unstable and don’t want me around.",
+  "emotion": [
+    "embarrassed",
+    "anxious",
+    "ashamed",
+    "regretful",
+    "worried",
+    "self-critical"
+  ],
+  "behavior": "I withdrew from the group and avoided talking to anyone after the outburst. Later, I replayed the incident in my mind, feeling regretful and anxious about what others thought.",
+  "rationale": "The report notes the client likely felt 'embarrassed and anxious about their social standing and relationships' after the outburst, and that they 'might experience guilt or regret after such incidents, potentially leading to self-criticism or rumination.' It also describes a pattern of 'withdraw[al] or avoid[ance] of confrontation' and seeking reassurance. The cognitive patterns include 'overgeneralization or catastrophizing,' interpreting the outburst as evidence of being unable to maintain stable relationships, and a schema around obligation and duty. These themes support the selected beliefs, thoughts, emotions, and behaviors."
+}

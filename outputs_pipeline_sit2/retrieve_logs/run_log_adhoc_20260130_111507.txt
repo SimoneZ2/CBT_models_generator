@@ -1,0 +1,85 @@
+Using description: HISTORY:
+- PhD candidate engaged in scientific research.
+- References to a sequencing-related study and a colleague named Kelly.
+- Working on a project with a senior scientist who has struggled to gain recognition in his career.
+
+SITUATION:
+- Comparing themselves to colleagues who work longer hours and publish more papers. with ID=3-2
+Sample results (metadata similarity):
+  - sim=0.057 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.061 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.068 | title='Verilogue session: Client is having problems staying asleep; she spends too much' | file='1003075017.txt'
+  - sim=0.069 | title='Verilogue session: Client's wife is having problems regulating her prescription ' | file='1002565885.txt'
+  - sim=0.076 | title='This is an EMDR session with a 45-year-old woman whose son, George, was killed i' | file='1000606010.txt'
+  - sim=0.078 | title='Session 1: Client discusses her eating disorder of over-exercising and obsessing' | file='1000094808.txt'
+  - sim=0.078 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.083 | title='Verilogue session: Client feels overwhelmed with her duties as mother and as a c' | file='1001083953.txt'
+  - sim=0.086 | title='Verilogue session: Client's depressed mood has increased recently. She finds tha' | file='1001083936.txt'
+  - sim=0.087 | title='Series 1, Session 7: Client is trying to be constructive with her emotions. She ' | file='1002995961.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=29 partial_match=1992
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.087 | file='1002995961.txt' | title='Series 1, Session 7: Client is trying to be constructive with her emotions. She '
+  - sim=0.135 | file='1003009259.txt' | title='Verilogue session: Client's mood has not improved or worsened since starting med'
+  - sim=0.153 | file='1000126016.txt' | title='Session 10: Client has recently discovered that she is pregnant. She is embarras'
+Using LEAST related file for transcript: '1002995961.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient is a PhD candidate actively engaged in scientific research, specifically in a sequencing-related study. They collaborate with a colleague named Kelly and are involved in a project with a senior scientist who has faced challenges in gaining recognition in his career. The patient frequently compares themselves to colleagues who work longer hours and have a higher publication output.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions stemming from their academic environment. The comparison to colleagues who appear more productive may lead to feelings of inadequacy, self-doubt, and anxiety. These emotions could manifest as being "anxious, worried, fearful, scared, tense," particularly when considering their own work output and perceived success. The presence of a senior scientist struggling for recognition might evoke feelings of "sadness, disappointment, and concern" about their own future career trajectory.
+
+**Cognitive Patterns:**
+The patient may engage in cognitive distortions such as "all-or-nothing thinking" and "catastrophizing," where they perceive their worth and success solely based on their academic achievements and output. This could lead to a cycle of negative self-evaluation and rumination, where they repeatedly focus on perceived shortcomings compared to their peers. The transcript suggests that individuals in similar situations might struggle with maintaining a balanced perspective, often feeling "worthless" or "not good enough," but can benefit from recognizing and challenging these irrational thoughts.
+
+**Behavioral Responses:**
+In response to these cognitive and emotional challenges, the patient might engage in behaviors such as "withdrawing" from social interactions, "procrastinating" on tasks due to fear of failure, or "overworking" in an attempt to match their peers' productivity. The transcript indicates that physical activities or sensory experiences, like "running" or "taking a cold shower," can help individuals break the cycle of negative thoughts and emotions, suggesting that the patient might benefit from similar strategies to manage stress and regain focus.
+
+**Coping Strategies:**
+The patient could benefit from developing healthier coping mechanisms to manage their stress and self-comparison tendencies. Techniques such as "mindfulness," "cognitive restructuring," and "behavioral activation" may help them shift focus from unproductive comparisons to personal growth and realistic goal-setting. Encouraging the patient to "recognize and challenge" irrational beliefs, as seen in the transcript, can foster a more balanced self-view and reduce the impact of negative emotions.
+
+**Conclusion:**
+The patient is navigating a challenging academic environment that triggers self-comparison and anxiety. By understanding and addressing their cognitive distortions and emotional responses, they can develop more adaptive coping strategies. Emphasizing self-compassion and realistic self-assessment, alongside practical behavioral interventions, may empower the patient to achieve a healthier balance between personal and professional aspirations.
+Summary da mistral_.csv: In this therapy session, the patient discussed various coping mechanisms for managing panic attacks. They mentioned focusing on physical sensations, such as taking a cold shower or engaging in physical activity, to help regain control and calm down. The patient also acknowledged the connection between emotions and physical sensations, noting that emotional upheaval can manifest physically. They discussed the importance of recognizing and challenging irrational thoughts during a panic attack and the benefits of self-compassion and accepting imperfections. The patient and counselor also touched on the idea that love, like other aspects of life, is not perfect and that it's essential to acknowledge and accept its imperfections. The patient expressed feeling empowered by their progress and the ability to manage panic attacks more effectively.
+The patient discussed a recent situation that triggered negative emotions and a desire to engage in destructive behavior. They acknowledged feeling a sense of control when able to break the cycle of these emotions and behaviors. The patient expressed a desire to find constructive ways to bring themselves to attention instead of reacting in anger. The counselor encouraged the patient to identify and address the root causes of their emotions and behaviors, and to report back on their progress in the following session. The patient expressed gratitude for the counseling sessions and their positive impact on their emotions.
+
+REFINED CCD: description + report
+{
+  "history": "The client is a PhD candidate engaged in scientific research, working on a sequencing-related study. They collaborate with a colleague named Kelly and are involved in a project with a senior scientist who has struggled for recognition. The client frequently compares themselves to colleagues who work longer hours and publish more. The report suggests that such an environment fosters self-doubt and anxiety, especially when surrounded by high-achieving peers and mentors who have not been recognized.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't work as hard or publish as much as my colleagues, then I am falling behind and will never be successful. My value as a scientist depends on matching or exceeding the productivity of those around me.",
+  "intermediate_belief_depression": "If I can't keep up with my colleagues, then I will always be a failure and my efforts are pointless.",
+  "coping_strategies": [
+    "The client tends to withdraw from social interactions and procrastinate on tasks when feeling overwhelmed by comparison. At times, they may overwork in an attempt to match their peers' productivity, but this often leads to further stress and rumination."
+  ],
+  "situation": "Comparing themselves to colleagues who work longer hours and publish more papers.",
+  "auto_thought": "I'm falling behind everyone else. No matter what I do, I'll never be as successful as them.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "inadequate",
+    "sad",
+    "disappointed"
+  ],
+  "behavior": "I avoid talking to colleagues about my progress. I spend extra hours working but still feel like it's not enough. Sometimes I procrastinate because I'm afraid my work won't measure up."
+}

@@ -1,0 +1,52 @@
+{
+  "name": "CBT Conceptualization for Post-Divorce Friendship Breakdown",
+  "id": "10-2",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client recently went through a divorce, which has led to financial struggles and the need to adapt to single life. They are co-parenting and have experienced the breakdown of several friendships following the divorce. The client also reports a complicated relationship with their parents. These relational losses and ongoing stressors appear to contribute to feelings of isolation, inadequacy, and self-doubt, as well as difficulty setting boundaries and managing emotional fallout.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't keep my friendships after the divorce, it means there is something wrong with me and I am not good enough to be cared about. If I set boundaries or express my needs, people will leave me and I'll end up alone. I have to keep others happy or I will be rejected.",
+  "intermediate_belief_depression": "If my friendships fall apart and I can't fix things, it proves that I'm fundamentally unworthy and nothing I do will change that. No matter how hard I try, I will always end up alone and unsupported.",
+  "coping_strategies": "The client withdraws from social interactions and avoids situations that remind them of lost friendships. They may seek reassurance from remaining friends or family, and distract themselves with activities like scrolling through social media. There is a tendency to ruminate on losses and procrastinate on emotionally charged tasks.",
+  "situation": "Experiencing the breakdown of friendships following the divorce.",
+  "auto_thought": "Everyone is drifting away from me because I'm too much to handle now. No one wants to be around someone who is struggling like I am.",
+  "emotion": [
+    "sad",
+    "lonely",
+    "abandoned",
+    "anxious",
+    "ashamed",
+    "guilty"
+  ],
+  "behavior": "I stop reaching out to friends and avoid social invitations. I spend more time alone, scrolling through my phone or distracting myself. Sometimes I call someone for reassurance, but mostly I withdraw.",
+  "rationale": "\"The breakdown of friendships can lead to feelings of isolation and abandonment... The patient may also experience self-critical thoughts, questioning their role in the deterioration of friendships... The patient might withdraw from social interactions, avoiding situations that remind them of their previous life or relationships... The patient might also seek reassurance from remaining friends or family... The patient might internalize these feelings, leading to self-doubt and a diminished sense of self-worth.\"",
+  "core_belief_predictions": {
+    "source_id": "10-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

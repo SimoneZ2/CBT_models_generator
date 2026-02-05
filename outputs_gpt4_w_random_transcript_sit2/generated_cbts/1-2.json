@@ -1,0 +1,25 @@
+{
+  "name": "Patient",
+  "id": "33497",
+  "type": [
+    "Bipolar Disorder"
+  ],
+  "history": "History of substance abuse and completed rehabilitation. Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect. Longstanding obesity since childhood. Past experiences of bullying related to weight.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be in control to avoid being hurt.",
+  "intermediate_belief_depression": "I am not good enough and will always be rejected.",
+  "coping_strategies": "Engaging in defiant behavior to assert control.",
+  "situation": "Missed an alarm and woke up late for work.",
+  "auto_thought": "I can't do anything right.",
+  "emotion": [
+    "Frustration",
+    "Anger"
+  ],
+  "behavior": "Running away and engaging in disruptive behavior."
+}

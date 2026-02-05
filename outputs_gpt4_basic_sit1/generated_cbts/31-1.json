@@ -1,0 +1,27 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recent deaths in the family: an uncle and a cousin. Ongoing concern about parents' health. Father's health conditions include uncontrolled diabetes, high blood pressure, kidney problems, and high cholesterol. Tension with father related to emotional distance and lack of transparency about health issues.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't stay vigilant, I will lose my family.",
+  "intermediate_belief_depression": "I can't control what happens to my loved ones, and it's overwhelming.",
+  "coping_strategies": "Avoidance by watching television to distract from distressing thoughts.",
+  "situation": "Received a phone call from the mother regarding the father's health. Watched television afterward.",
+  "auto_thought": "I can't handle another loss; I'm not strong enough.",
+  "emotion": [
+    "Anxiety",
+    "Sadness"
+  ],
+  "behavior": "Avoidance by watching television to distract from distressing thoughts."
+}

@@ -1,0 +1,69 @@
+Using description: HISTORY:
+- Relationships sometimes shift into romantic connections.
+- Past conflict in relationships following expressions of anger.
+- Complex relationship with parents involving obligations.
+
+SITUATION:
+- Difficulty completing work tasks due to fear of making mistakes.
+- Procrastination and avoidance impacting productivity. with ID=45-1
+Sample results (metadata similarity):
+  - sim=0.186 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.192 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.206 | title='Verilogue session: Client notices that some of her children display symptoms of ' | file='1003075051.txt'
+  - sim=0.211 | title='Verilogue session: Client's mood swings are not as intense' | file='1002565843.txt'
+  - sim=0.212 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.216 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.223 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+  - sim=0.233 | title='Verilogue session: Client has been experiencing anxiety and some manic episodes' | file='1001084024.txt'
+  - sim=0.235 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.237 | title='Verilogue session: Client is having difficulties with her mood swings. She feels' | file='1003009292.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.212 | file='1001084088.txt' | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. '
+  - sim=0.235 | file='1003075021.txt' | title='Verilogue session: Client has been angry, violent and impulsive'
+  - sim=0.241 | file='1002565918.txt' | title='Verilogue session: Client is having problems falling asleep'
+Using LEAST related file for transcript: '1001084088.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of relationships that sometimes shift into romantic connections, presents with ongoing challenges in managing symptoms related to a complex mental health condition. During the session, the client expressed frustration with the medication Invega, stating, "it didn't help me at all," and described persistent auditory hallucinations. These voices have been a long-standing issue, worsening over time, and are linked to a female figure from childhood who "likes to play with animals" and threatens harm to the client's pet. This hallucination contributes to the client's anxiety and fear, particularly when driving, as they believe the figure is "pulling on my car," causing it to malfunction. This fear of external control mirrors past conflicts in relationships where expressions of anger led to tension, suggesting a pattern of externalizing blame for distressing experiences.
+
+The client also struggles with completing work tasks due to a pervasive fear of making mistakes, leading to procrastination and avoidance. This avoidance is compounded by the client's cognitive patterns, as they frequently forget tasks and feel overwhelmed by the voices, which "always telling me what to do." Despite these challenges, the client reports that Seroquel has provided some relief, allowing them to "function a little bit better," though it does not completely alleviate symptoms. The client acknowledges that while the medication helps, "it's not a hundred percent," indicating a partial but insufficient coping strategy.
+
+Interpersonally, the client maintains a complex relationship with their parents, characterized by obligations that may contribute to their stress and feelings of being overwhelmed. At home, the client lives with a nephew, with whom they have a supportive relationship, as the nephew "helps me with the bills." This support is crucial, as it provides some stability amidst the client's ongoing struggles with auditory hallucinations and cognitive disruptions. The client describes moments of confusion and disbelief when hearing voices at home, which further complicates their ability to engage in daily activities.
+
+Throughout the session, the client frequently revisits the theme of medication efficacy, expressing a desire for a solution that will "control these voices." The psychiatrist's plan to continue with Seroquel and introduce Trilafon aims to address these symptoms, with the hope of improving the client's quality of life. The client appears receptive to this plan, though they remain cautious, having experienced limited success with previous medications. The session concludes with a focus on medication management, as the client is reminded to take "1 in the morning and 1 at night" of the new prescription, highlighting the ongoing need for structured support in managing their condition.
+Summary da mistral_.csv: The patient reported that Invega did not help with their symptoms of hearing voices, forgetfulness, and sleep disturbances. They described a woman figure who follows them and plays with animals, including killing them. This figure has been present since childhood but has worsened over time. The patient continued to take Seroquel, which they reported helped but not consistently. The doctor discussed adding Trilafon to the patient's medication regimen to address the voices. The patient reported some dizziness and confusion but good living situation with their nephew.
+The patient confirms that their employer provides health insurance coverage, allowing the doctor to write prescriptions for their current medications, Zoloft and Seroquel, as well as a new medication. The doctor explains that the new medicine is an old one, and they will prescribe it in a dosage of 4mg to be taken once in the morning and once at night. The patient expresses concern about having to call in the prescription for the new medication. The doctor assures them they will take care of it.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of relationships that sometimes shift into romantic connections and past conflicts in relationships following expressions of anger. They have a complex relationship with their parents involving obligations, and they live with a supportive nephew who helps with bills. The client experiences persistent auditory hallucinations linked to a female figure from childhood, contributing to anxiety and fear.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a victim"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake, it will prove that I am not good enough and I will lose control over my life.",
+  "intermediate_belief_depression": "If I can't control these voices, I will never be able to function properly and my life will always be a struggle.",
+  "coping_strategies": [
+    "The client engages in procrastination and avoidance to manage the fear of making mistakes. They rely on medication to manage symptoms, though it provides only partial relief."
+  ],
+  "situation": "Difficulty completing work tasks due to fear of making mistakes.",
+  "auto_thought": "I can't do this right; I'm going to mess everything up.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "fearful"
+  ],
+  "behavior": "The client procrastinates and avoids tasks, feeling overwhelmed by the voices telling them what to do."
+}

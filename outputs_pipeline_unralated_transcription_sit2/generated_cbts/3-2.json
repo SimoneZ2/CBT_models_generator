@@ -1,0 +1,32 @@
+{
+  "history": "The client is a PhD candidate engaged in scientific research, working closely with a senior scientist who has struggled for recognition. They have a pattern of comparing themselves to colleagues, particularly regarding productivity and publication output. The client has perfectionistic tendencies and has historically struggled with self-acceptance, often feeling inadequate when not meeting high standards. They have begun to recognize the physical manifestations of emotional distress and are learning to use grounding techniques and physical activity to manage overwhelming feelings. The client is developing insight into their cognitive patterns and is working towards greater self-compassion and acceptance of imperfection.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't work as hard or publish as much as my colleagues, then I am falling behind and others will think less of me. I must always meet the highest standards to be worthy of respect. If I show any imperfection, it means I'm not good enough.",
+  "intermediate_belief_depression": "If I can't keep up with my colleagues, it proves that I'm a failure and nothing I do will ever be enough. If I fall short, there's no point in trying because I'll never measure up.",
+  "coping_strategies": [
+    "The client uses physical grounding techniques, such as splashing water on their face or going for a run, to manage distress. They avoid engaging in conversations when emotionally upset to prevent conflict. They sometimes withdraw or ruminate when feeling overwhelmed by comparisons, and have begun to challenge perfectionistic thoughts with more balanced self-talk."
+  ],
+  "situation": "Comparing themselves to colleagues who work longer hours and publish more papers.",
+  "auto_thought": "I'm not doing enough compared to everyone else. If I don't catch up, I'll fall behind and people will think I'm not good enough.",
+  "emotion": [
+    "anxious",
+    "inadequate",
+    "ashamed",
+    "overwhelmed",
+    "self-doubt",
+    "tense"
+  ],
+  "behavior": "I check how much others are publishing and working. I push myself to work longer hours or avoid interacting with colleagues. Sometimes I withdraw or ruminate about not measuring up."
+}

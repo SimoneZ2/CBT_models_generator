@@ -1,0 +1,29 @@
+{
+  "history": "The client works in an educational setting with children who have learning disabilities. They report being pampered by their parents, resulting in minimal consequences for their actions earlier in life. There is a pattern of ongoing conflicts with authority figures. The client's avoidance of direct confrontation with leadership may be influenced by their upbringing and past experiences with authority.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I challenge authority, it will only lead to more conflict or rejection. It's safer to avoid confrontation, even if I feel strongly about my ideas. My contributions are likely to be dismissed, so it's better not to push back.",
+  "intermediate_belief_depression": "If my ideas are always rejected, it means I am not good enough and nothing I do will make a difference.",
+  "coping_strategies": [
+    "The client avoids direct confrontation with authority figures, choosing not to address disagreements openly. They may engage in ruminative thinking about the rejection and their ongoing conflicts, which increases frustration and helplessness."
+  ],
+  "situation": "Proposed a new teaching method that was rejected by school leadership. Does not confront leadership directly about the decision.",
+  "auto_thought": "They don't care about my ideas. No matter what I do, my input won't make a difference here.",
+  "emotion": [
+    "frustrated",
+    "disappointed",
+    "anxious",
+    "helpless"
+  ],
+  "behavior": "Avoids speaking to leadership about the rejection. Withdraws from direct discussion and keeps feelings to themselves.",
+  "source_text_id": "1004687614.txt"
+}

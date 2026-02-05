@@ -1,0 +1,24 @@
+{
+  "name": "John Doe",
+  "id": "30793",
+  "type": [
+    "Depression"
+  ],
+  "history": "Past experiences of pressure related to performance and social interactions. Reports presenting a confident front and hiding vulnerability. A recent business failure led to financial hardship.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I show vulnerability, I will be judged and rejected.",
+  "intermediate_belief_depression": "I must handle my problems alone to avoid burdening others.",
+  "coping_strategies": "Presents a confident front and avoids discussing financial difficulties.",
+  "situation": "Took out a loan instead of asking family or friends for help. In social situations, acts to distract attention from financial difficulties.",
+  "auto_thought": "I can't let others see I'm struggling.",
+  "emotion": [
+    "Anxiety",
+    "Stress"
+  ],
+  "behavior": "Avoids discussing personal issues and financial struggles with others."
+}

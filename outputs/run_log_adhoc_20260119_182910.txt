@@ -1,0 +1,82 @@
+Using description: HISTORY:
+- Elevated stress related to financial difficulties and relationship instability.
+- Heavy workload due to technical issues at work and covering responsibilities when coworker Chet is absent.
+- Friends often have crises and make emotional demands.
+- Considering asking parents for financial help to cover therapy costs around an upcoming birthday.
+- Upcoming convention and upcoming visit with parents.
+
+SITUATION:
+- At a convention, interacting with demanding friends while managing personal stress. with ID=36-2
+Top results (by metadata similarity):
+  - sim=0.643 | title='Patient "J", Session April 10, 2012: Client just had a birthday; he was extremel' | file='1004532428.txt'
+  - sim=0.621 | title='Patient "Ju", Session October 16, 2012: Client has been experiencing chronic pai' | file='1004798857.txt'
+  - sim=0.621 | title='Patient "J", Session February 17, 2012: Client is frustrated that he is still st' | file='1004503122.txt'
+  - sim=0.613 | title='Patient "J", Session March 15, 2012: Client discusses his finances, work issues,' | file='1004522804.txt'
+  - sim=0.576 | title='Patient "J", Session April 13, 2012: Client is upset with his financial situatio' | file='1004532414.txt'
+  - sim=0.571 | title='Patient "J", Session August 21, 2012: Client is overwhelmed with his problems an' | file='1004687608.txt'
+  - sim=0.570 | title='Patient "M", Session September 13, 2012: Client has been overwhelmed and wants t' | file='1004798775.txt'
+  - sim=0.569 | title='Patient "J", Session July 24, 2012: Client's financial issues are all coming to ' | file='1004687594.txt'
+  - sim=0.567 | title='Patient "J", Session March 02, 2012: Client talks about his recent time spent wi' | file='1004504885.txt'
+  - sim=0.565 | title='Verilogue session: Client is experiencing stress in the workplace' | file='1001084028.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=8 partial_match=2
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.643 | file='1004532428.txt' | title='Patient "J", Session April 10, 2012: Client just had a birthday; he was extremel'
+  - sim=0.621 | file='1004503122.txt' | title='Patient "J", Session February 17, 2012: Client is frustrated that he is still st'
+  - sim=0.613 | file='1004522804.txt' | title='Patient "J", Session March 15, 2012: Client discusses his finances, work issues,'
+Using top selected file for transcript: '1004532428.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is experiencing elevated stress due to a combination of financial difficulties, relationship instability, a heavy workload, and emotional demands from friends. These stressors are compounded by upcoming events, including a convention and a visit with parents, which may further exacerbate the patient's stress levels.
+
+**Emotional Impacts:**
+The patient is likely experiencing a range of negative emotions, including anxiety, worry, and fear, primarily driven by financial instability and relationship issues. The stress from a heavy workload and the need to cover for a coworker adds to feelings of being overwhelmed. The emotional demands from friends may lead to feelings of being drained and unable to focus on personal needs. The consideration of asking parents for financial help may evoke feelings of shame or embarrassment, particularly around the context of an upcoming birthday, which could highlight feelings of inadequacy or failure.
+
+**Cognitive Patterns:**
+The patient may engage in ruminative thinking, particularly about financial issues and relationship instability. This could manifest as persistent worry about the future and a tendency to catastrophize potential outcomes. The heavy workload and technical issues at work might lead to cognitive overload, making it difficult for the patient to concentrate or make decisions effectively. The emotional demands from friends could contribute to a cognitive pattern of feeling responsible for others' problems, potentially leading to self-blame or guilt when unable to meet these demands.
+
+**Behavioral Responses:**
+The patient may exhibit avoidance behaviors, such as procrastinating on addressing financial issues or withdrawing from social interactions to manage stress. The heavy workload might lead to overworking as a way to cope, potentially resulting in burnout. The patient might also seek reassurance from friends or family, particularly when considering asking parents for financial help. The upcoming convention and visit with parents could lead to increased social interactions, which might be both a source of support and additional stress.
+
+**Coping Styles:**
+The patient may rely on distraction techniques, such as engaging in work or social activities, to temporarily alleviate stress. However, these strategies might not address the underlying issues, leading to a cycle of temporary relief followed by recurring stress. The patient might also use social support as a coping mechanism, although the emotional demands from friends could complicate this strategy.
+
+**Conclusion:**
+The patient's current life circumstances are contributing to significant emotional distress, characterized by anxiety, worry, and feelings of being overwhelmed. Cognitive patterns of rumination and catastrophizing may exacerbate these emotions, while behavioral responses such as avoidance and overworking could hinder effective problem-solving. Developing healthier coping strategies, such as cognitive restructuring and assertive communication, may help the patient manage stress more effectively and improve overall well-being.
+Summary da mistral_.csv: The client described a difficult week leading up to their 41st birthday. They experienced stress related to work, a potential house foreclosure, and their partner's behavior. At soccer practice, they became frustrated with their son's misbehavior and their partner's lack of attention. They also felt neglected on their birthday, with few people acknowledging it and receiving a repetitive gift. The client expressed feeling overwhelmed, anxious, and uncertain about their place in their relationships. They also mentioned feeling frustrated with various aspects of their life, including technology and their partner's family.
+The client shares their struggles with anxiety, depression, and financial difficulties, including unpaid taxes and a housing modification. They express feeling overwhelmed and unable to take proactive steps to improve their situation. The therapist suggests that the client may unconsciously want to shut down others, including the therapist, from thinking or feeling things, as it is too much for them to handle. The client denies wanting to shut others down and feels resigned to their circumstances. The therapist explores the possibility that the client's behavior may be driven by envy and a desire to shut down others' thinking and worrying about their problems. The client expresses feeling constantly reminded of their financial difficulties and the lack of solutions, leading to feelings of despair and a desire to give up. The therapist questions why the client finds it painful to be reminded of their financial struggles despite knowing it is true. The client acknowledges that they cannot focus on all of their problems at once and that there are many implications of not having enough money
+The client expresses feelings of having no support and no resources to fall back on, citing financial obligations as a reason. The therapist acknowledges the client's financial struggles but also emphasizes the importance of addressing the client's lack of personal resources and mental capacity to effectively utilize them. The therapist suggests further exploration of this issue during a future session. The client agrees to meet again at 12:30 on Friday.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has been experiencing elevated stress due to ongoing financial difficulties and instability in relationships. They are under increased pressure at work, needing to cover for a coworker and manage technical issues, which adds to their sense of being overwhelmed. Friends frequently turn to the client with emotional crises, making the client feel responsible for others' well-being and leaving little time for their own needs. The client is considering asking their parents for financial help to pay for therapy, which brings up feelings of shame and inadequacy, especially with an upcoming birthday and family visit. These overlapping stressors contribute to persistent worry and a tendency to ruminate about the future.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't keep up with everyone's demands and solve my own problems, then I am letting people down and proving I am not good enough. I must always be available for others, even when I am struggling myself. If I ask for help, it means I am weak or inadequate.",
+  "intermediate_belief_depression": "If I keep failing to manage everything, it means I will never succeed and things will never improve for me.",
+  "coping_strategies": [
+    "The client tends to withdraw or avoid addressing their own needs, sometimes procrastinating on financial issues or withdrawing from social interactions to manage stress. They may overwork as a distraction or to feel some control, but this leads to further exhaustion. The client also seeks reassurance from friends or family, especially when considering asking for help, but feels guilty or ashamed afterward."
+  ],
+  "situation": "At a convention, interacting with demanding friends while managing personal stress.",
+  "auto_thought": "I'm already overwhelmed and now my friends need even more from me. I can't handle this and I'm going to let everyone down.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "guilty",
+    "tense",
+    "ashamed"
+  ],
+  "behavior": "The client tries to meet friends' demands despite feeling overwhelmed. They suppress their own needs and avoid expressing their stress. They may withdraw from the group for short periods or become quieter and less engaged."
+}

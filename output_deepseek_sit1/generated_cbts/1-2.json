@@ -1,0 +1,32 @@
+{
+  "name": "Patient 1",
+  "id": "1",
+  "type": [
+    "substance use recovery",
+    "family conflict",
+    "obesity"
+  ],
+  "history": "History of substance abuse and completed rehabilitation. Ongoing family difficulties involving emotional neglect from mother. Longstanding obesity since childhood with past bullying.",
+  "helpless_belief": [
+    "I am defective",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I attend the wedding, people will judge me for my weight and past, so it's better to avoid it.",
+  "intermediate_belief_depression": "I am fundamentally flawed and will always be excluded from family events.",
+  "coping_strategies": [
+    "Avoidance of social situations, ignoring communication attempts."
+  ],
+  "situation": "Received an invitation to a cousin's upcoming wedding. Has not responded to RSVP or follow-up calls.",
+  "auto_thought": "They don't really want me there. I'll just be an embarrassment.",
+  "emotion": [
+    "shame",
+    "anxiety",
+    "sadness"
+  ],
+  "behavior": "Avoid responding to wedding invitation and family contact."
+}

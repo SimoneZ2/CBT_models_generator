@@ -1,0 +1,31 @@
+{
+  "history": "The client recently moved to a new living space, which has been a significant source of stress. They report a difficult and emotionally unsupportive relationship with their mother, who is described as judgmental. Friendships have become strained, leading to increased isolation and a diminished sense of social support. These factors appear to contribute to feelings of anxiety, loneliness, and low self-worth.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I open up to my mother, she will judge me and I will feel worse. If I am not able to connect with others, it means there is something wrong with me. I must protect myself from being hurt by keeping conversations superficial.",
+  "intermediate_belief_depression": "If my mother never understands or supports me, I will always feel alone and nothing will ever change.",
+  "coping_strategies": [
+    "The client tends to withdraw from social interactions and avoids seeking support, reinforcing their sense of isolation. They may procrastinate or avoid preparing for difficult conversations, and sometimes seek reassurance from others to manage anticipated discomfort."
+  ],
+  "situation": "Preparing for a conversation with mother and expecting it to be challenging and superficial.",
+  "auto_thought": "This is going to be pointless—she won't really listen to me. I'll just end up feeling worse and more alone.",
+  "emotion": [
+    "anxious",
+    "dread",
+    "frustrated",
+    "sad",
+    "emotionally exhausted"
+  ],
+  "behavior": "Delays preparing for the conversation. Avoids thinking about what to say. Withdraws emotionally before the interaction.",
+  "source_text_id": "1001084054.txt"
+}

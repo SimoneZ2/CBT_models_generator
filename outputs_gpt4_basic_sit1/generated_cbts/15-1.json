@@ -1,0 +1,27 @@
+{
+  "name": "Workplace Conflict Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Ongoing workplace difficulties involving underappreciation and lack of support. Repeated experiences of ideas and suggestions not being accepted.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If my ideas are not accepted, it means I am not valued.",
+  "intermediate_belief_depression": "I will never be appreciated at work.",
+  "coping_strategies": "Avoids sharing ideas to prevent rejection.",
+  "situation": "A workplace discussion about culture and atmosphere conflicted with a client meeting scheduled by the mentor.",
+  "auto_thought": "My input is not valued, and I am not important.",
+  "emotion": [
+    "Frustration",
+    "Anxiety"
+  ],
+  "behavior": "Withdraws from discussions and avoids contributing ideas."
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Patient 6",
+  "id": "6",
+  "type": [
+    "transition stress",
+    "financial anxiety"
+  ],
+  "history": "28-year-old student recently returned from Egypt. First time managing bills, finances, and health insurance independently. Brother remains dependent.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "Adult responsibilities are overwhelming and I can't handle them.",
+  "intermediate_belief_depression": "I'm failing at being an independent adult while others succeed.",
+  "coping_strategies": [
+    "Avoiding financial tasks, comparing self to brother, seeking parental rescue."
+  ],
+  "situation": "Received an insurance claim with an unexpected balance.",
+  "auto_thought": "\"I can't understand this. They're trying to trick me. I'm in over my head.\"",
+  "emotion": [
+    "panic",
+    "inadequacy",
+    "overwhelm"
+  ],
+  "behavior": "Ignores the bill, calls parents for help, considers dropping insurance."
+}

@@ -1,0 +1,93 @@
+Using description: HISTORY:
+- Ongoing tension with parents related to family discussions.
+- Recurrent disagreements with parents around personal and family matters.
+
+SITUATION:
+- Disagreement with parents regarding the guest list for an upcoming event. with ID=2-1
+Sample results (metadata similarity):
+  - sim=0.111 | title='Verilogue session: Client notices an improvement more so in his behavior rather ' | file='1003075059.txt'
+  - sim=0.125 | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de' | file='1001084060.txt'
+  - sim=0.126 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.129 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.130 | title='Verilogue session: Client suffers from bipolar disorder with rapid cycling' | file='1001084092.txt'
+  - sim=0.134 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.135 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.135 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+  - sim=0.137 | title='Verilogue session: Client has been experiencing anxiety and some manic episodes' | file='1001084024.txt'
+  - sim=0.148 | title='Verilogue session: Client has been feeling very depressed and experiencing anxie' | file='1001084064.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.111 | file='1003075059.txt' | title='Verilogue session: Client notices an improvement more so in his behavior rather '
+  - sim=0.125 | file='1001084060.txt' | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de'
+  - sim=0.126 | file='1000275936.txt' | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a '
+Using LEAST related file for transcript: '1003075059.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient is experiencing ongoing tension with their parents, primarily due to recurrent disagreements around personal and family matters. A specific point of contention is the guest list for an upcoming event, which has led to further disagreement.
+
+**Cognitive and Emotional Patterns:**
+The patient's ongoing tension with their parents likely contributes to a cognitive pattern characterized by heightened sensitivity to criticism and a tendency to anticipate conflict. This may manifest as a persistent worry about family interactions, leading to feelings of being misunderstood or undervalued. The disagreement over the guest list for the upcoming event could exacerbate these feelings, potentially resulting in emotions such as frustration, irritation, and a sense of helplessness.
+
+Drawing from the transcript, where the patient discusses a shift in behavior without an internal mood lift, it is plausible that our patient might also experience a disconnect between external actions and internal emotional states. The patient may engage in behaviors aimed at resolving or avoiding conflict (e.g., attempting to negotiate or withdrawing from discussions), yet still feel emotionally unsettled or anxious about the outcomes.
+
+**Behavioral Responses:**
+In response to the familial disagreements, the patient may exhibit behaviors such as avoiding family discussions to prevent further conflict or seeking reassurance from other family members or friends. This aligns with the transcript's depiction of a patient who, despite feeling better behaviorally, does not necessarily feel an internal emotional improvement. The patient might engage in activities that distract from the tension, such as focusing on work or hobbies, as a coping mechanism to manage stress.
+
+**Coping Styles:**
+The patient may rely on avoidance as a primary coping strategy, as suggested by the recurrent disagreements and tension with parents. This could involve minimizing interactions with family members or deferring decisions to avoid confrontation. The transcript's reference to a patient who feels better behaviorally but not emotionally suggests that our patient might also struggle with internalizing positive changes, potentially leading to a cycle of temporary relief followed by renewed anxiety or frustration.
+
+**Recommendations:**
+1. **Cognitive Restructuring:** Encourage the patient to identify and challenge negative thought patterns related to family interactions. This could involve reframing thoughts about the guest list disagreement to reduce feelings of helplessness and increase a sense of agency.
+
+2. **Behavioral Activation:** Promote engagement in activities that provide a sense of accomplishment and enjoyment, which may help improve mood and reduce the impact of familial stressors.
+
+3. **Communication Skills Training:** Equip the patient with assertive communication techniques to express their needs and boundaries effectively during family discussions, potentially reducing the frequency and intensity of disagreements.
+
+4. **Mindfulness and Relaxation Techniques:** Introduce practices such as mindfulness meditation or deep breathing exercises to help the patient manage anxiety and maintain emotional balance during stressful interactions.
+
+By addressing these cognitive, emotional, and behavioral patterns, the patient may develop more adaptive coping strategies, leading to improved family dynamics and personal well-being.
+Summary da mistral_.csv: In this therapy session, the patient reported feeling better since starting a new medication regimen with Wellbutrin and Prozac, along with Trazodone. He noted improved motivation and interest in activities, but continued poor sleep and no significant mood lift. The physician suggested reducing the Prozac dosage to alleviate potential apathy and discussed various sleep aid options, including Trazodone, which has a lower risk of habit formation compared to other sedatives. The physician also warned the patient about the rare side effect of prolonged erections with Trazodone. The patient expressed a desire to try managing his sleep habits before considering additional medication. The session also touched upon the patient's occasional use of Ambien and temazepam for sleep, with the physician discussing the habit-forming potential of these medications.
+The patient and doctor discussed strategies for improving the patient's sleep, including trying to condition the body to associate the bed with sleeping, using a light sleeping aid like Sonata only when necessary, and considering a change in medication regimen, specifically reducing the Prozac dosage and potentially adding Trazodone. The patient mentioned a past issue with alcohol consumption but reported that it had resolved. The doctor advised caution with alcohol consumption while on medication.
+The patient expresses that they have a clear understanding of their past and do not feel the need for further therapy, having previously worked with a talk therapist for an extended period. They mention a pattern of feeling better and then sabotaging their progress, which they have been mindful of since recognizing it. The doctor acknowledges the challenges of adjusting to improved mood and the potential anxiety that comes with it.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of ongoing tension with their parents, especially around personal and family matters. There are recurrent disagreements, and the current issue centers on the guest list for an upcoming event. The client often feels misunderstood or undervalued during these interactions, which contributes to persistent worry about family discussions. This pattern of conflict appears to have developed over time, reinforcing the client's sensitivity to criticism and anticipation of conflict.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I disagree with my parents, they will not listen to me and I will end up feeling dismissed. I must avoid conflict or else things will just get worse. Standing up for myself doesn't lead to being understood, so it's safer to hold back or withdraw.",
+  "intermediate_belief_depression": "If I keep having these arguments and nothing changes, it means things will never get better and I will always feel alone in my family.",
+  "coping_strategies": [
+    "The client tends to avoid family discussions to prevent further conflict or seeks reassurance from others outside the family. They may distract themselves with work or hobbies to escape the emotional discomfort, but these strategies provide only temporary relief and do not resolve the underlying tension."
+  ],
+  "situation": "Disagreement with parents regarding the guest list for an upcoming event.",
+  "auto_thought": "They never take my opinion seriously. No matter what I say, it won't make a difference.",
+  "emotion": [
+    "frustrated",
+    "irritated",
+    "helpless",
+    "anxious",
+    "misunderstood"
+  ],
+  "behavior": "I withdraw from the conversation and avoid further discussion about the guest list. Later, I vent to a friend or distract myself with another activity."
+}

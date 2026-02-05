@@ -1,0 +1,95 @@
+Using description: HISTORY:
+- Recently completed an undergraduate degree and is entering the workforce.
+- Came out to parents within the last two and a half years and received negative reactions.
+- Became more distant from parents afterward.
+- Moved to New York for education and explored identity away from family influence.
+- Strained relationship with mother, described as focused on practical concerns rather than emotional support.
+- Tension with sister described as envious of the patient's independence and achievements.
+
+SITUATION:
+- Recalling the experience of coming out to parents and the negative aftermath.
+- Preparing for or having interactions with family while maintaining distance. with ID=30-2
+Top results (by metadata similarity):
+  - sim=0.680 | title='Patient "S" Session May 29, 2012: Client discusses how awkward it was to have he' | file='1004600954.txt'
+  - sim=0.663 | title='Patient "Ju", Session October 02, 2012: Client talks about a discussion she had ' | file='1004798751.txt'
+  - sim=0.651 | title='Session 5: Client discusses how much closer she feels to her friends than her fa' | file='1000061054.txt'
+  - sim=0.635 | title='Session 22: Client just returned from vacation where he almost told his sister t' | file='1000013334.txt'
+  - sim=0.632 | title='Session 5: Client talks about living with his boyfriend.  He does not know how t' | file='1000013404.txt'
+  - sim=0.617 | title='Patient "A" Therapy Session Audio Recording, December 27, 2011: Client discusses' | file='1004472416.txt'
+  - sim=0.608 | title='Patient "M" Session August 27, 2012: Client wants to work towards forgiving hims' | file='1004687796.txt'
+  - sim=0.604 | title='Session 2: Client discusses her relationship with her boyfriend and tells therap' | file='1000094390.txt'
+  - sim=0.601 | title='Session 94: Client finds it is easier for her to show affection towards her husb' | file='1000370297.txt'
+  - sim=0.599 | title='Session 8: Client feels rejected and disappointed' | file='1000056551.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.680 | file='1004600954.txt' | title='Patient "S" Session May 29, 2012: Client discusses how awkward it was to have he'
+  - sim=0.663 | file='1004798751.txt' | title='Patient "Ju", Session October 02, 2012: Client talks about a discussion she had '
+  - sim=0.651 | file='1000061054.txt' | title='Session 5: Client discusses how much closer she feels to her friends than her fa'
+Using top selected file for transcript: '1004600954.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient recently completed an undergraduate degree and is transitioning into the workforce. They have experienced significant life changes, including coming out to their parents, which resulted in negative reactions and a subsequent distancing from their family. The patient has moved to New York, which has allowed them to explore their identity independently from family influence. The patient reports a strained relationship with their mother, who is more focused on practical concerns than emotional support, and tension with a sister who is envious of the patient's independence and achievements.
+
+**Emotional and Cognitive Impact:**
+The experience of coming out to their parents and receiving negative reactions likely led to feelings of rejection, hurt, and disappointment. The patient may experience anxiety and apprehension when recalling these events or when anticipating interactions with their family. The distancing from their parents could contribute to feelings of loneliness and sadness, as well as a sense of loss regarding familial support.
+
+The strained relationship with the mother, who is perceived as lacking emotional support, may lead to feelings of frustration and unmet emotional needs. The tension with the sister, described as envious, could evoke feelings of irritation and defensiveness, as well as a need to assert their independence and achievements.
+
+**Behavioral Responses and Coping Styles:**
+The patient may engage in behaviors such as withdrawing from family interactions to protect themselves from further emotional distress. They might avoid discussing certain topics with their family to prevent conflict or emotional discomfort. The patient may also seek reassurance and validation from friends or chosen family in New York, where they feel more accepted and understood.
+
+The move to New York and exploration of identity away from family influence suggests a proactive approach to self-discovery and personal growth. This indicates resilience and a desire to establish a sense of self that is independent of familial expectations.
+
+**Psychological Patterns and Mechanisms:**
+Drawing from the transcript for psychological reference, the patient may experience a cognitive pattern of interpreting family interactions as awkward or tense, which could exacerbate feelings of alienation. They might also perceive family dynamics as manipulative or dismissive, leading to increased emotional distance.
+
+The patient may demonstrate a coping mechanism of compartmentalizing their life, keeping their New York experiences separate from family interactions to maintain emotional stability. This separation allows them to engage in self-exploration without the immediate pressure of familial judgment.
+
+**Therapeutic Focus:**
+In therapy, it would be beneficial to explore the patient's emotional responses to family interactions and develop strategies for managing anxiety and disappointment. Cognitive restructuring techniques could help the patient reframe negative thoughts about family dynamics and reduce emotional distress.
+
+Encouraging the patient to identify and express their needs in relationships, including with family, could foster healthier communication and potentially improve strained relationships. Supporting the patient's exploration of identity and independence in New York can reinforce their sense of self and resilience.
+
+Overall, therapy can provide a space for the patient to process their experiences, develop coping strategies, and strengthen their emotional well-being as they navigate the complexities of family relationships and personal growth.
+Summary da mistral_.csv: The client discussed her graduation weekend experience, which was complicated by the presence of her father and a friend. She felt awkward about her father's behavior during the graduation ceremony, as he kept making calls and seemed more interested in being the center of attention than in connecting with his daughter. The client also mentioned the difficulty of having her friend present, as they don't speak the same language and her family primarily speaks Spanish. Additionally, the client shared an incident from her freshman year of college that caused her family to believe she was a lesbian, leading to a strained relationship with her father. The client expressed feeling more able to share her thoughts and feelings with her mother during this session.
+The client discusses their upbringing and the conditional nature of love they experienced on their father's side. They share an instance where they expressed support for gay marriage in front of their mother, who didn't respond, and reflect on this as a significant step in expressing their thoughts freely. The client describes feeling uncomfortable but not upset during a graduation ceremony, where they separated themselves from their father. They also discuss their experiences with rituals and their family's reactions. The therapist acknowledges the client's progress in expressing themselves and the importance of respecting differing viewpoints in relationships. The client asks about the potential clash between objective and subjective realities in their relationship with their mother and how to navigate disagreements. The therapist suggests focusing on respect and tolerance for each other's choices.
+The client and therapist discuss the client's desire to pursue a career in medicine while maintaining an interest in religion. The therapist suggests that the client could combine these interests by practicing medicine in a new cultural context and learning about the local religion. The client expresses concerns about the difficulty of balancing both interests and receiving skepticism from friends. The therapist encourages the client to pursue their passions and shares an example of a woman who combined her interests in helping people and traveling through Doctors Without Borders. The client feels relieved after discussing their concerns. They agree to schedule future sessions.
+
+ REFINED CCD: description + report
+{
+  "history": "The client recently completed an undergraduate degree and is entering the workforce. They came out to their parents within the last two and a half years and received negative reactions, leading to increased distance from their parents. The client moved to New York for education, which allowed them to explore their identity away from family influence. Their relationship with their mother is strained, with the mother described as focused on practical matters rather than emotional support. There is also tension with a sister who is described as envious of the client's independence and achievements.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am honest about who I am with my family, they will react negatively and I will be hurt. I need to keep my distance to protect myself from disappointment and rejection. If I rely on my family for emotional support, I will be let down.",
+  "intermediate_belief_depression": "No matter what I do, my family will never truly accept or support me, so there is no point in trying to connect with them emotionally.",
+  "coping_strategies": [
+    "The client withdraws from family interactions and maintains emotional distance to avoid further distress. They avoid discussing personal topics with family to prevent conflict and seek validation and support from friends or chosen family in New York."
+  ],
+  "situation": "Recalling the experience of coming out to parents and the negative aftermath. Preparing for or having interactions with family while maintaining distance.",
+  "auto_thought": "They don't really accept me for who I am. If I let my guard down, I'll just get hurt again.",
+  "emotion": [
+    "anxious",
+    "hurt",
+    "rejected",
+    "sad",
+    "tense",
+    "disappointed"
+  ],
+  "behavior": "I keep conversations with my family brief and avoid talking about my personal life. I hold back my feelings and try not to show when I'm upset. I reach out to friends in New York for support instead."
+}

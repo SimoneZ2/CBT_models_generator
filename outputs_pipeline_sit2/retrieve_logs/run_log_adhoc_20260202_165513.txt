@@ -1,0 +1,77 @@
+Using description: HISTORY:
+- Past experiences of pressure related to performance and social interactions.
+- Reports presenting a confident front and hiding vulnerability.
+- A recent business failure led to financial hardship.
+
+SITUATION:
+- Took out a loan instead of asking family or friends for help.
+- In social situations, acts to distract attention from financial difficulties. with ID=24-2
+Sample results (metadata similarity):
+  - sim=0.113 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.119 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.123 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.137 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.146 | title='Verilogue session: Client's mood swings are not as intense' | file='1002565843.txt'
+  - sim=0.149 | title='Verilogue session: Client appears to be in a manic upswing and is very anxious a' | file='1001083971.txt'
+  - sim=0.153 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.153 | title='Verilogue session: Client has been experiencing anxiety and some manic episodes' | file='1001084024.txt'
+  - sim=0.154 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.156 | title='Patient "M", Session February 21, 2012: Client is experiencing grief over the re' | file='1004503134.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.119 | file='1001084088.txt' | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. '
+  - sim=0.123 | file='1003075021.txt' | title='Verilogue session: Client has been angry, violent and impulsive'
+  - sim=0.153 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+Using LEAST related file for transcript: '1001084088.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of performance pressure and social interaction challenges, presents a facade of confidence while concealing vulnerabilities. This pattern is evident in the session as the client discusses ongoing struggles with auditory hallucinations, describing a persistent "lady" who has been a presence since childhood. The client reports that this figure has become more intrusive over time, affecting sleep and daily functioning. Despite the use of Invega, the client states, "it didn't help me at all," indicating no relief from the voices or forgetfulness. This aligns with the client's history of masking difficulties, as they continue to manage these symptoms without seeking support from family or friends, opting instead to take out a loan to address financial issues stemming from a recent business failure.
+
+During the session, the client expresses fear and anxiety about the hallucinations, particularly the belief that the "lady" is capable of harming their pet and sabotaging their car, which "won't go over 50 miles an hour." This fear is compounded by the client's past experiences of pressure, as they feel a loss of control over their environment. The client describes the car as shaking "like a volcano erupting," illustrating the intensity of their distress. Despite these challenges, the client maintains a semblance of normalcy in social settings, attempting to divert attention from their financial and psychological struggles.
+
+The client has been on Seroquel since 1998, which has provided some relief, although they note that the medication's effectiveness is "irregularly" consistent. The client acknowledges that while Seroquel helps "to a certain extent," it does not fully alleviate the symptoms. This partial relief is crucial for the client, who continues to hear voices at home, sometimes leading to confusion and disbelief about their reality. The client mentions that the voices are less frequent with medication, but they still experience moments of forgetfulness and disorientation.
+
+The session reveals the client's coping mechanisms, such as relying on their nephew for support with bills, which provides some stability. The client reports that their relationship with the nephew is positive, stating, "me and him is getting along real good," highlighting the importance of this interpersonal connection in their life. However, the client continues to experience a "tired feeling" upon waking, suggesting underlying depressive symptoms that may be exacerbated by their financial and social stressors.
+
+The therapist discusses medication adjustments, including the continuation of Seroquel and the introduction of Trilafon to address the auditory hallucinations. The client agrees to this plan, expressing a willingness to try "whatever is going on with you" to manage the symptoms. This openness to treatment reflects the client's desire for improvement, despite the ongoing challenges. The session concludes with the therapist ensuring that prescriptions are updated and addressing logistical issues with the pharmacy, demonstrating a collaborative approach to managing the client's complex needs.
+Summary da mistral_.csv: The patient reported that Invega did not help with their symptoms of hearing voices, forgetfulness, and sleep disturbances. They described a woman figure who follows them and plays with animals, including killing them. This figure has been present since childhood but has worsened over time. The patient continued to take Seroquel, which they reported helped but not consistently. The doctor discussed adding Trilafon to the patient's medication regimen to address the voices. The patient reported some dizziness and confusion but good living situation with their nephew.
+The patient confirms that their employer provides health insurance coverage, allowing the doctor to write prescriptions for their current medications, Zoloft and Seroquel, as well as a new medication. The doctor explains that the new medicine is an old one, and they will prescribe it in a dosage of 4mg to be taken once in the morning and once at night. The patient expresses concern about having to call in the prescription for the new medication. The doctor assures them they will take care of it.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a longstanding history of performance pressure and challenges in social interactions, leading to a pattern of presenting a confident front while concealing vulnerabilities. This is reinforced by their ongoing struggles with distressing auditory hallucinations, which they have managed privately without seeking support from family or friends. The client experienced a recent business failure resulting in financial hardship, and instead of seeking help from their social network, they opted to take out a loan. The client reports partial relief from medication but continues to experience symptoms such as forgetfulness, disorientation, and a persistent 'tired feeling,' suggesting underlying depressive symptoms. The client relies on a positive relationship with a nephew for some practical support but otherwise maintains a facade of normalcy in social settings.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I reveal my financial or psychological struggles, others will see me as weak or incapable, so I must handle everything on my own to maintain respect. It's safer to hide my vulnerabilities because asking for help would confirm my inadequacy. I believe that showing any sign of failure or distress will lead to rejection or judgment from others.",
+  "intermediate_belief_depression": "If I can't solve my problems by myself, it means I am truly a failure and nothing will ever improve. There's no point in reaching out because no one can really help me, and things are unlikely to get better.",
+  "coping_strategies": [
+    "The client avoids seeking emotional or financial support from family and friends, instead opting for self-reliance such as taking out loans. In social situations, they distract attention away from their difficulties and maintain a facade of confidence. They rely on medication and limited practical support from a trusted nephew, but otherwise mask their distress and avoid vulnerability."
+  ],
+  "situation": "Took out a loan instead of asking family or friends for help. In social situations, acts to distract attention from financial difficulties.",
+  "auto_thought": "If I ask for help, they'll think I'm a failure. I have to handle this myself or everyone will see how weak I really am.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "fearful",
+    "tense",
+    "embarrassed",
+    "down"
+  ],
+  "behavior": "Took out a loan to cover financial needs instead of reaching out to family or friends. In social settings, deliberately shifts conversations away from personal or financial topics and acts more confident than they feel."
+}

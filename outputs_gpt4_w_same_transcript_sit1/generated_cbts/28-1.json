@@ -1,0 +1,28 @@
+{
+  "name": "Case Study Example",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "History of self-critical tendencies. Used to maintaining control and achieving goals. Current challenges involve job seeking, personal relationships, and family dynamics.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be perfect to be accepted.",
+  "intermediate_belief_depression": "If I make a mistake, it means I am a failure.",
+  "coping_strategies": "Avoids confrontation and self-criticism by deflecting blame and avoiding responsibility.",
+  "situation": "Experiencing difficulties with job searching. Dealing with ongoing relationship and family conflicts involving a person named Ivan.",
+  "auto_thought": "I can't do anything right; everyone is against me.",
+  "emotion": [
+    "Anxiety",
+    "Frustration",
+    "Fear"
+  ],
+  "behavior": "Becomes defensive and avoids addressing issues directly."
+}

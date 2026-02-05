@@ -1,0 +1,82 @@
+Using description: HISTORY:
+- Ongoing interpersonal difficulties involving a partner named Ivan and his family.
+- Recent trust and betrayal issues involving Ivan.
+- Ongoing contact with Ivan's family.
+
+SITUATION:
+- During an interaction with Ivan's family, the mother says "boys will be boys" and asks the patient to "forgive and forget". with ID=22-2
+Sample results (metadata similarity):
+  - sim=0.158 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.170 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.192 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.205 | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de' | file='1001084060.txt'
+  - sim=0.206 | title='Verilogue session: Client appears to be in a manic upswing and is very anxious a' | file='1001083971.txt'
+  - sim=0.210 | title='Verilogue session: Client has been experiencing anxiety and some manic episodes' | file='1001084024.txt'
+  - sim=0.214 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.217 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.226 | title='Verilogue session: Client's depressed mood has increased recently. She finds tha' | file='1001083936.txt'
+  - sim=0.227 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.158 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.242 | file='1003009294.txt' | title='Verilogue session: Client has been doing well and tolerating his medications'
+  - sim=0.243 | file='1003075059.txt' | title='Verilogue session: Client notices an improvement more so in his behavior rather '
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has been experiencing ongoing interpersonal difficulties with their partner Ivan and his family, finds themselves navigating a complex web of emotions and thoughts. During a recent interaction with Ivan's family, the client's sense of betrayal was triggered when Ivan's mother suggested that they should "forgive and forget," dismissing the client's feelings with the phrase "boys will be boys." This interaction seems to have left the client feeling invalidated and pressured to overlook their own emotional needs for the sake of maintaining peace within the family.
+
+In the therapy session, the client initially engages in a light-hearted conversation about their reading glasses, which they purchased from CVS. This seemingly trivial topic serves as a momentary distraction from the deeper issues at hand. The client then transitions to discussing their recent experiences with teaching and learning mathematics, which appears to be a significant focus in their life. They describe a sense of accomplishment in understanding complex mathematical concepts, noting that "being on the bike and lifting weights somehow cleared my mind enough to see how to proceed." This suggests that physical activity is a coping mechanism that helps the client manage stress and gain clarity.
+
+The client expresses a deep engagement with the process of learning, particularly in the realm of mathematics, where they find satisfaction in mastering challenging material. They mention feeling "like everything we're doing is sort of chapter zero," indicating a sense of starting anew and building a foundation for future learning. This mirrors their desire to rebuild trust and understanding in their personal relationships, though the path forward in that area seems less clear.
+
+Throughout the session, the client frequently returns to the theme of clarity and understanding, both in mathematics and in life. They describe the frustration of encountering new symbols and concepts, likening it to "fumbling for the light switch" in a dark room. This metaphor resonates with their current emotional state, as they navigate the complexities of their relationship with Ivan and his family. The client acknowledges the challenge of not knowing how to proceed, yet they also recognize the importance of "settling oneself down" to learn and grow.
+
+Despite the intellectual focus of the session, the client's underlying emotional turmoil is evident. They express a sense of being "in a bubble," preoccupied with intellectual pursuits while avoiding the emotional pain associated with their interpersonal conflicts. This avoidance may serve as a temporary escape, but it also highlights the client's struggle to confront and process their feelings of betrayal and invalidation.
+
+The client's narrative reveals a tension between their intellectual achievements and their emotional needs. While they find joy and fulfillment in teaching and learning, there is an undercurrent of self-consciousness and doubt about their preoccupation with mathematics. They question, "Why exactly am I preoccupied with this when there's not an obvious need for it?" This introspection suggests an awareness of the potential for intellectual pursuits to serve as a distraction from unresolved emotional issues.
+
+As the session concludes, the client reflects on the universality of mathematical concepts, noting that "there is this common thing that is also universal." This insight may offer a glimmer of hope for finding common ground in their personal relationships, despite the current challenges. The client leaves the session with a tentative sense of progress, both in their intellectual endeavors and in their journey toward emotional healing.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of ongoing interpersonal difficulties involving their partner Ivan and his family, with recent trust and betrayal issues. The client reports feeling invalidated and pressured to overlook their own emotional needs for the sake of maintaining peace within the family. They often use intellectual pursuits, such as mathematics, as a distraction from emotional pain. The client describes feeling 'in a bubble,' preoccupied with learning while avoiding emotional conflicts. There is a tension between their intellectual achievements and their emotional needs, and they express self-consciousness about their preoccupation with mathematics.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I assert my feelings or needs, I will be dismissed or cause conflict, so it's safer to keep quiet and try to maintain peace. If I don't forgive and forget, I will be seen as unreasonable or difficult. I have to suppress my own pain to avoid being rejected or invalidated by others.",
+  "intermediate_belief_depression": "No matter what I do, my feelings will never be understood or valued, so there's no point in trying to express them. Even if I try to rebuild trust, nothing will change and I will always feel alone in this family.",
+  "coping_strategies": [
+    "The client distracts themselves from emotional pain by focusing on intellectual pursuits, such as mathematics and teaching. They avoid directly confronting or expressing their feelings of betrayal and invalidation, instead engaging in activities that provide a sense of accomplishment and clarity. This avoidance temporarily reduces distress but maintains the underlying interpersonal issues."
+  ],
+  "situation": "During an interaction with Ivan's family, the mother says 'boys will be boys' and asks the patient to 'forgive and forget'.",
+  "auto_thought": "They don't care about how I feel. If I speak up, they'll just dismiss me and I'll be alone.",
+  "emotion": [
+    "hurt",
+    "invalidated",
+    "angry",
+    "sad",
+    "frustrated",
+    "isolated"
+  ],
+  "behavior": "I stay quiet and don't challenge what Ivan's mother says. I withdraw emotionally and later distract myself by focusing on something intellectual, like working on math problems or reading."
+}

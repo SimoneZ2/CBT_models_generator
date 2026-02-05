@@ -1,0 +1,54 @@
+{
+  "name": "CBT Cognitive Conceptualization for Punctuality and Social Relationships",
+  "id": "41-1",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The patient has a complex relationship history, especially involving Cricket, which has disrupted their social circle and may have led to feelings of isolation or exclusion. They frequently adopt a caretaking role, particularly with Lucy, who has ongoing medical issues, suggesting a pattern of prioritizing others' needs. These dynamics appear to contribute to emotional distress and may reinforce self-doubt and a sense of responsibility for others' well-being.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not always available and reliable for others, they will think less of me or leave me out. I must meet others' expectations to maintain my place in my social circle. If I fail to be on time or supportive, it means I am not a good friend.",
+  "intermediate_belief_depression": "If I keep failing to meet expectations, it just proves that I'm not good enough and nothing I do will change how others see me. No matter how hard I try, I end up letting people down, so there's no point in trying.",
+  "coping_strategies": "The patient often takes on a caretaking role to feel needed and valued, sometimes neglecting their own needs. They may procrastinate or become distracted, leading to running late, which temporarily avoids anxiety but perpetuates guilt and stress. Withdrawal or avoidance of certain social situations may also occur due to relationship complexities.",
+  "situation": "Running late for appointments and social gatherings, including therapy and lunches with friends.",
+  "auto_thought": "I'm running late again—everyone is going to be annoyed with me. They'll think I don't care or that I'm unreliable.",
+  "emotion": [
+    "anxious",
+    "guilty",
+    "embarrassed",
+    "worried",
+    "ashamed"
+  ],
+  "behavior": "I rush to get ready but keep checking the time anxiously. I consider texting to apologize or make excuses. Sometimes I avoid eye contact or withdraw when I finally arrive.",
+  "rationale": "\"The patient's tendency to run late may induce feelings of guilt or embarrassment, as they might perceive themselves as letting others down or failing to meet expectations.\" \"The pattern of running late could be associated with thoughts of inadequacy or fear of judgment, potentially reinforcing a negative self-image.\" \"The patient may exhibit cognitive tendencies such as overthinking or ruminating about their relationships and social interactions.\" \"The patient appears to cope by taking on a caretaking role, which may serve as a way to feel needed and valued, potentially compensating for feelings of inadequacy in other areas.\"",
+  "core_belief_predictions": {
+    "source_id": "41-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am bound to be rejected",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

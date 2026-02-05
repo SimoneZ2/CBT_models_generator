@@ -1,0 +1,93 @@
+Using description: HISTORY:
+- Death of a close aunt whom the patient considered a mother figure.
+- The patient did not fulfill the aunt's last request and was not present at the time of death.
+- Pattern of prioritizing others' needs over their own.
+
+SITUATION:
+- On the way to watch a movie, received a call from a friend seeking emotional support.
+- Chose to give up the movie and talked with the friend for about an hour. with ID=13-2
+Top results (by metadata similarity):
+  - sim=0.667 | title='Verilogue session: Client's sister is in the last stages of dying' | file='1001083958.txt'
+  - sim=0.653 | title='Patient "C" Therapy Session Audio Recording, June 12, 2012: Client's grandmother' | file='1004600922.txt'
+  - sim=0.650 | title='Verilogue session: Client has been easily overwhelmed by feelings of anxiety rec' | file='1001083994.txt'
+  - sim=0.646 | title='Verilogue session: Client comes from a family with a very competitive sibling su' | file='1002565888.txt'
+  - sim=0.636 | title='Verilogue session: Client is letting things and people he cannot control bring h' | file='1002565866.txt'
+  - sim=0.636 | title='Session 9: Client discusses her relationship with her boyfriend. She talks about' | file='1000013078.txt'
+  - sim=0.634 | title='Session 18: Client cannot stop thinking about her grandmother who has recently d' | file='1000325703.txt'
+  - sim=0.633 | title='Session 1: Client tells therapist some of her reasons for coming to therapy, mai' | file='1000088094.txt'
+  - sim=0.631 | title='Verilogue session: Client is experiencing loneliness and depression. She has bee' | file='1001084031.txt'
+  - sim=0.612 | title='Verilogue session: Client is mourning the death of her son who suffered from bip' | file='1001084000.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.667 | file='1001083958.txt' | title='Verilogue session: Client's sister is in the last stages of dying'
+  - sim=0.653 | file='1004600922.txt' | title='Patient "C" Therapy Session Audio Recording, June 12, 2012: Client's grandmother'
+  - sim=0.650 | file='1001083994.txt' | title='Verilogue session: Client has been easily overwhelmed by feelings of anxiety rec'
+Using top selected file for transcript: '1001083958.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has experienced the death of a close aunt, whom they considered a mother figure. The patient was unable to fulfill the aunt's last request and was not present at her time of death. The patient exhibits a pattern of prioritizing others' needs over their own, as evidenced by a recent situation where they chose to forgo a personal plan to provide emotional support to a friend.
+
+**Emotional Impact:**
+The death of the aunt likely evokes feelings of sadness, loss, and loneliness, given the close relationship and the aunt's role as a mother figure. The inability to fulfill the aunt's last request and absence at her death may contribute to feelings of guilt and regret. These emotions can be intensified by the patient's tendency to prioritize others, potentially leading to self-neglect and increased emotional burden.
+
+**Cognitive Patterns:**
+The patient may engage in self-critical thoughts, such as ruminating on perceived failures or inadequacies related to the aunt's death. This cognitive pattern can exacerbate feelings of guilt and regret. The patient's decision to prioritize a friend's needs over personal plans suggests a cognitive schema centered on self-sacrifice and responsibility for others' well-being, possibly leading to internal conflict and stress.
+
+**Behavioral Responses:**
+The patient demonstrates a pattern of self-sacrifice, as seen in their decision to abandon personal plans to support a friend. This behavior may serve as a coping mechanism to avoid confronting personal emotions related to the aunt's death. However, it may also lead to burnout and emotional exhaustion if the patient consistently neglects their own needs.
+
+**Coping Styles:**
+The patient appears to cope by seeking to be of service to others, potentially as a way to find purpose or distract from personal grief. While this can provide temporary relief, it may prevent the patient from processing their own emotions and lead to unresolved grief. The patient might benefit from developing healthier coping strategies that include self-care and setting boundaries.
+
+**Recommendations:**
+1. **Cognitive Restructuring:** Encourage the patient to challenge self-critical thoughts and reframe their perception of responsibility and guilt. This can help reduce feelings of inadequacy and promote self-compassion.
+   
+2. **Emotional Processing:** Facilitate sessions focused on processing grief and loss, allowing the patient to express and work through emotions related to the aunt's death.
+
+3. **Behavioral Activation:** Encourage the patient to engage in activities that promote self-care and personal fulfillment, balancing their tendency to prioritize others.
+
+4. **Boundary Setting:** Support the patient in establishing healthy boundaries to ensure their own needs are met, reducing the risk of burnout.
+
+5. **Mindfulness and Relaxation Techniques:** Introduce mindfulness practices to help the patient stay present and manage stress, potentially reducing anxiety and emotional distress.
+
+By addressing these areas, the patient can work towards a healthier balance between caring for others and attending to their own emotional needs, ultimately fostering resilience and well-being.
+Summary da mistral_.csv: The patient's sister is dying from a cancer that has progressed to the intestines after starting in the ileus and spreading to the liver. The patient received a call last Wednesday that her sister was delirious and hallucinating, and she has since been in the hospital. The patient's sister has signed a DNR and is expected to die within a few days. The patient has informed family and friends of her sister's condition and has cleared her calendar to be present during her sister's final days. The patient has also recently purchased a new car and has been experiencing anxiety related to her sister's impending death.
+The patient's niece's friend is in hospice care due to an abdominal infection and failing organs. The patient expressed dissatisfaction with the hospice's rigid scheduling of medication, leading to the suggestion of alternative care if the situation arises again. The friend's intestines were failing, resulting in dark green bile in the bag, and she was experiencing agitation due to Ativan. The patient's nieces held a "nurse-in" as a tribute to their friend. The friend did not want to be cremated and had already picked out her outfit and wig for the memorial service. The patient discussed the impact of multiple family members' deaths and the misdiagnosis of her friend's cancer as carcinoid instead of adenocarcinoma. The patient grew up in a household where smoking was common and wondered about the potential influence on their health. The doctor shared a story about
+The patient discusses a terminally ill family member who has stopped talking about the upcoming birth of her third grandchild due to her deteriorating health. The patient expresses her regret that she was unable to be there for the second grandchild's birth when her family member found out about her liver metastases. The patient and her family have been taking care of the two youngest grandchildren, with the patient taking on a significant role. She expresses anxiety about the situation and has been prescribed medication to help manage her emotions. The patient also mentions a hearing on CSPAN about mental health budgeting and the lack of understanding of psychiatric illnesses by some policymakers.
+
+ REFINED CCD: description + report
+{
+  "history": "The patient experienced the death of a close aunt, whom they considered a mother figure. They were unable to fulfill her last request and were not present at her death, which likely contributes to ongoing feelings of guilt and regret. The patient has a longstanding pattern of prioritizing others' needs over their own, as shown by their recent choice to give up a personal plan to support a friend. This self-sacrificing tendency may serve as a way to cope with or avoid personal grief and difficult emotions.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't always put others' needs before my own, I am failing as a friend and person. I must be there for others, even at my own expense, or I will feel guilty and inadequate. Taking care of myself is selfish and means I am not a good person.",
+  "intermediate_belief_depression": "If I can't help everyone or make up for my past mistakes, it means I'm a failure and nothing I do will ever be enough. No matter how much I give, I can't escape feeling guilty and empty.",
+  "coping_strategies": [
+    "The patient frequently sacrifices their own needs to support others, using this as a way to avoid facing their own grief and difficult emotions. They neglect self-care and personal fulfillment, which may temporarily reduce guilt but ultimately maintains feelings of inadequacy and emotional exhaustion."
+  ],
+  "situation": "On the way to watch a movie, received a call from a friend seeking emotional support. Chose to give up the movie and talked with the friend for about an hour.",
+  "auto_thought": "If I don't help my friend right now, I'll be letting them down. My own plans don't matter as much as being there for others.",
+  "emotion": [
+    "guilty",
+    "anxious",
+    "sad",
+    "tense",
+    "self-critical"
+  ],
+  "behavior": "I immediately cancel my movie plans and spend the next hour talking to my friend, focusing entirely on their needs and ignoring my own disappointment."
+}

@@ -1,0 +1,52 @@
+{
+  "name": "CBT Cognitive Conceptualization for Disagreement with Mother",
+  "id": "23-2",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The patient has a longstanding pattern of difficult interactions with their mother, marked by strained communication and delays in sharing important family events. This history has likely contributed to ongoing feelings of being misunderstood or undervalued, and may have fostered a sense of dependency due to the mother's role in providing financial support during visits. The emotional residue from these experiences appears to influence current conflicts and the patient's ability to assert their needs.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I disagree with my mother or assert my needs, she will dismiss me or things will become more strained, so it's safer to go along with her wishes even if I feel frustrated. I have to avoid conflict to keep the peace, because my needs are less important. If I rely on her for support, I shouldn't make demands.",
+  "intermediate_belief_depression": "No matter what I do, things with my mother never really improve, so there's no point in trying to change things or express what I want. My efforts to communicate or set boundaries won't make a difference.",
+  "coping_strategies": "The patient tends to avoid confrontation and may withdraw from discussions or reluctantly agree to their mother's wishes to prevent conflict. They may seek reassurance from others or distract themselves with self-soothing activities to manage anxiety and frustration. These strategies help maintain short-term peace but reinforce feelings of helplessness and dependency.",
+  "situation": "Disagreement with mother about weekend plans and financial assistance. The mother covers expenses during the visit.",
+  "auto_thought": "She never really listens to what I want—if I push back, it will just turn into another argument. I might as well just go along with her plans.",
+  "emotion": [
+    "frustrated",
+    "anxious",
+    "resentful",
+    "sad",
+    "tense"
+  ],
+  "behavior": "I avoid bringing up my own preferences and let her make the decisions. I withdraw from the conversation or give in to her wishes, even if I feel upset.",
+  "rationale": "\"The longstanding difficult interactions with the patient's mother likely contribute to feelings of frustration, disappointment, and perhaps resentment.\" \"The strained communication may lead to feelings of being misunderstood or undervalued.\" \"The patient might engage in behaviors such as avoiding confrontation or delaying communication to prevent conflict.\" \"The disagreement over weekend plans and financial assistance could lead to behaviors like withdrawing from discussions or reluctantly acquiescing to their mother's wishes to maintain peace.\"",
+  "core_belief_predictions": {
+    "source_id": "23-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am incompetent",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

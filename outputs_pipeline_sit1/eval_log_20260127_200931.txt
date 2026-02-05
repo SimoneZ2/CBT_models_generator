@@ -1,0 +1,796 @@
+2026-01-27 20:09:31,788 | INFO | [RESUME] Found 0 already-evaluated source_id in outputs_pipeline_current_sit1_2\compare_results.jsonl
+2026-01-27 20:10:29,898 | INFO | 
+========================================
+2026-01-27 20:10:29,899 | INFO | [DONE] 1-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\1-1.json
+2026-01-27 20:10:29,899 | INFO | Scores:
+2026-01-27 20:10:29,899 | INFO |   embeddings_cosine: 0.6512548804283143
+2026-01-27 20:10:29,900 | INFO |   crossencoder_sts:  0.5987311184406281
+2026-01-27 20:10:29,900 | INFO |   nli_entailment:    0.2047944131746413
+2026-01-27 20:10:29,901 | INFO |   nli_contradiction: 0.0018000000000000002
+2026-01-27 20:10:29,901 | INFO |   fine_jaccard:      0.375
+2026-01-27 20:10:29,901 | INFO |   major_jaccard:     1.0
+2026-01-27 20:11:13,974 | INFO | 
+========================================
+2026-01-27 20:11:13,974 | INFO | [DONE] 2-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\2-1.json
+2026-01-27 20:11:13,974 | INFO | Scores:
+2026-01-27 20:11:13,974 | INFO |   embeddings_cosine: 0.5053277850151062
+2026-01-27 20:11:13,974 | INFO |   crossencoder_sts:  0.37616169452667236
+2026-01-27 20:11:13,974 | INFO |   nli_entailment:    0.01371372393153702
+2026-01-27 20:11:13,974 | INFO |   nli_contradiction: 0.1958
+2026-01-27 20:11:13,974 | INFO |   fine_jaccard:      0.4444444444444444
+2026-01-27 20:11:13,974 | INFO |   major_jaccard:     1.0
+2026-01-27 20:11:42,320 | INFO | 
+========================================
+2026-01-27 20:11:42,320 | INFO | [DONE] 3-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\3-1.json
+2026-01-27 20:11:42,320 | INFO | Scores:
+2026-01-27 20:11:42,320 | INFO |   embeddings_cosine: 0.5174284219741822
+2026-01-27 20:11:42,321 | INFO |   crossencoder_sts:  0.48538820147514344
+2026-01-27 20:11:42,321 | INFO |   nli_entailment:    0.0998127984805825
+2026-01-27 20:11:42,322 | INFO |   nli_contradiction: 0.10069999999999998
+2026-01-27 20:11:42,322 | INFO |   fine_jaccard:      0.42857142857142855
+2026-01-27 20:11:42,322 | INFO |   major_jaccard:     1.0
+2026-01-27 20:12:12,171 | INFO | 
+========================================
+2026-01-27 20:12:12,172 | INFO | [DONE] 4-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\4-1.json
+2026-01-27 20:12:12,172 | INFO | Scores:
+2026-01-27 20:12:12,172 | INFO |   embeddings_cosine: 0.43336001336574553
+2026-01-27 20:12:12,173 | INFO |   crossencoder_sts:  0.4496018707752228
+2026-01-27 20:12:12,173 | INFO |   nli_entailment:    0.005741239668205709
+2026-01-27 20:12:12,173 | INFO |   nli_contradiction: 0.0012000000000000001
+2026-01-27 20:12:12,174 | INFO |   fine_jaccard:      0.5714285714285714
+2026-01-27 20:12:12,174 | INFO |   major_jaccard:     1.0
+2026-01-27 20:13:07,336 | INFO | 
+========================================
+2026-01-27 20:13:07,336 | INFO | [DONE] 5-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\5-1.json
+2026-01-27 20:13:07,336 | INFO | Scores:
+2026-01-27 20:13:07,336 | INFO |   embeddings_cosine: 0.5414423823356629
+2026-01-27 20:13:07,336 | INFO |   crossencoder_sts:  0.43454704284667967
+2026-01-27 20:13:07,336 | INFO |   nli_entailment:    0.28336688455493403
+2026-01-27 20:13:07,336 | INFO |   nli_contradiction: 0.0015
+2026-01-27 20:13:07,336 | INFO |   fine_jaccard:      0.0
+2026-01-27 20:13:07,336 | INFO |   major_jaccard:     0.0
+2026-01-27 20:13:41,493 | INFO | 
+========================================
+2026-01-27 20:13:41,493 | INFO | [DONE] 6-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\6-1.json
+2026-01-27 20:13:41,493 | INFO | Scores:
+2026-01-27 20:13:41,493 | INFO |   embeddings_cosine: 0.5806514859199524
+2026-01-27 20:13:41,493 | INFO |   crossencoder_sts:  0.4203833073377609
+2026-01-27 20:13:41,493 | INFO |   nli_entailment:    0.18215898169941208
+2026-01-27 20:13:41,493 | INFO |   nli_contradiction: 0.1051
+2026-01-27 20:13:41,493 | INFO |   fine_jaccard:      0.1111111111111111
+2026-01-27 20:13:41,493 | INFO |   major_jaccard:     0.5
+2026-01-27 20:14:23,662 | INFO | 
+========================================
+2026-01-27 20:14:23,663 | INFO | [DONE] 7-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\7-1.json
+2026-01-27 20:14:23,663 | INFO | Scores:
+2026-01-27 20:14:23,664 | INFO |   embeddings_cosine: 0.4958914339542389
+2026-01-27 20:14:23,664 | INFO |   crossencoder_sts:  0.473709362745285
+2026-01-27 20:14:23,664 | INFO |   nli_entailment:    0.007588127508232763
+2026-01-27 20:14:23,665 | INFO |   nli_contradiction: 0.11659999999999997
+2026-01-27 20:14:23,665 | INFO |   fine_jaccard:      0.0
+2026-01-27 20:14:23,666 | INFO |   major_jaccard:     0.0
+2026-01-27 20:15:00,202 | INFO | 
+========================================
+2026-01-27 20:15:00,202 | INFO | [DONE] 8-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\8-1.json
+2026-01-27 20:15:00,202 | INFO | Scores:
+2026-01-27 20:15:00,214 | INFO |   embeddings_cosine: 0.5322715163230896
+2026-01-27 20:15:00,214 | INFO |   crossencoder_sts:  0.4718630909919739
+2026-01-27 20:15:00,214 | INFO |   nli_entailment:    0.28912864703786834
+2026-01-27 20:15:00,214 | INFO |   nli_contradiction: 0.009
+2026-01-27 20:15:00,214 | INFO |   fine_jaccard:      0.1111111111111111
+2026-01-27 20:15:00,214 | INFO |   major_jaccard:     1.0
+2026-01-27 20:15:38,841 | INFO | 
+========================================
+2026-01-27 20:15:38,842 | INFO | [DONE] 9-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\9-1.json
+2026-01-27 20:15:38,842 | INFO | Scores:
+2026-01-27 20:15:38,842 | INFO |   embeddings_cosine: 0.39119151085615156
+2026-01-27 20:15:38,842 | INFO |   crossencoder_sts:  0.42420464754104614
+2026-01-27 20:15:38,843 | INFO |   nli_entailment:    0.156577042391871
+2026-01-27 20:15:38,843 | INFO |   nli_contradiction: 0.0022
+2026-01-27 20:15:38,843 | INFO |   fine_jaccard:      0.0
+2026-01-27 20:15:38,843 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-27 20:16:23,423 | INFO | 
+========================================
+2026-01-27 20:16:23,423 | INFO | [DONE] 10-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\10-1.json
+2026-01-27 20:16:23,423 | INFO | Scores:
+2026-01-27 20:16:23,424 | INFO |   embeddings_cosine: 0.45623083114624025
+2026-01-27 20:16:23,424 | INFO |   crossencoder_sts:  0.37674640119075775
+2026-01-27 20:16:23,424 | INFO |   nli_entailment:    0.20890888100299554
+2026-01-27 20:16:23,424 | INFO |   nli_contradiction: 0.0014000000000000002
+2026-01-27 20:16:23,425 | INFO |   fine_jaccard:      0.5
+2026-01-27 20:16:23,425 | INFO |   major_jaccard:     1.0
+2026-01-27 20:16:53,007 | INFO | 
+========================================
+2026-01-27 20:16:53,007 | INFO | [DONE] 11-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\11-1.json
+2026-01-27 20:16:53,007 | INFO | Scores:
+2026-01-27 20:16:53,008 | INFO |   embeddings_cosine: 0.5169346392154693
+2026-01-27 20:16:53,008 | INFO |   crossencoder_sts:  0.411425969004631
+2026-01-27 20:16:53,008 | INFO |   nli_entailment:    0.21655634074616423
+2026-01-27 20:16:53,008 | INFO |   nli_contradiction: 0.0041
+2026-01-27 20:16:53,009 | INFO |   fine_jaccard:      0.36363636363636365
+2026-01-27 20:16:53,009 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-27 20:17:33,417 | INFO | 
+========================================
+2026-01-27 20:17:33,418 | INFO | [DONE] 12-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\12-1.json
+2026-01-27 20:17:33,418 | INFO | Scores:
+2026-01-27 20:17:33,418 | INFO |   embeddings_cosine: 0.5190124034881591
+2026-01-27 20:17:33,419 | INFO |   crossencoder_sts:  0.48336354792118075
+2026-01-27 20:17:33,419 | INFO |   nli_entailment:    0.20038530905446494
+2026-01-27 20:17:33,419 | INFO |   nli_contradiction: 0.0009000000000000001
+2026-01-27 20:17:33,420 | INFO |   fine_jaccard:      0.1111111111111111
+2026-01-27 20:17:33,420 | INFO |   major_jaccard:     0.5
+2026-01-27 20:18:06,355 | INFO | 
+========================================
+2026-01-27 20:18:06,355 | INFO | [DONE] 13-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\13-1.json
+2026-01-27 20:18:06,355 | INFO | Scores:
+2026-01-27 20:18:06,356 | INFO |   embeddings_cosine: 0.6571933686733246
+2026-01-27 20:18:06,356 | INFO |   crossencoder_sts:  0.5517381131649017
+2026-01-27 20:18:06,357 | INFO |   nli_entailment:    0.1888866631710065
+2026-01-27 20:18:06,357 | INFO |   nli_contradiction: 0.15250000000000002
+2026-01-27 20:18:06,357 | INFO |   fine_jaccard:      0.1
+2026-01-27 20:18:06,357 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-27 20:18:47,978 | INFO | 
+========================================
+2026-01-27 20:18:47,978 | INFO | [DONE] 14-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\14-1.json
+2026-01-27 20:18:47,979 | INFO | Scores:
+2026-01-27 20:18:47,979 | INFO |   embeddings_cosine: 0.455833774805069
+2026-01-27 20:18:47,980 | INFO |   crossencoder_sts:  0.3488967180252075
+2026-01-27 20:18:47,980 | INFO |   nli_entailment:    0.010351484131307645
+2026-01-27 20:18:47,980 | INFO |   nli_contradiction: 0.19319999999999998
+2026-01-27 20:18:47,980 | INFO |   fine_jaccard:      0.14285714285714285
+2026-01-27 20:18:47,981 | INFO |   major_jaccard:     1.0
+2026-01-27 20:19:24,953 | INFO | 
+========================================
+2026-01-27 20:19:24,953 | INFO | [DONE] 15-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\15-1.json
+2026-01-27 20:19:24,953 | INFO | Scores:
+2026-01-27 20:19:24,953 | INFO |   embeddings_cosine: 0.4338438153266907
+2026-01-27 20:19:24,953 | INFO |   crossencoder_sts:  0.5108303606510163
+2026-01-27 20:19:24,953 | INFO |   nli_entailment:    0.14742598734571224
+2026-01-27 20:19:24,953 | INFO |   nli_contradiction: 0.00030000000000000003
+2026-01-27 20:19:24,953 | INFO |   fine_jaccard:      0.2222222222222222
+2026-01-27 20:19:24,953 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-27 20:20:00,749 | INFO | 
+========================================
+2026-01-27 20:20:00,749 | INFO | [DONE] 16-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\16-1.json
+2026-01-27 20:20:00,749 | INFO | Scores:
+2026-01-27 20:20:00,749 | INFO |   embeddings_cosine: 0.46167032718658446
+2026-01-27 20:20:00,749 | INFO |   crossencoder_sts:  0.4791101455688477
+2026-01-27 20:20:00,749 | INFO |   nli_entailment:    0.2817561946019741
+2026-01-27 20:20:00,749 | INFO |   nli_contradiction: 0.0903
+2026-01-27 20:20:00,749 | INFO |   fine_jaccard:      0.14285714285714285
+2026-01-27 20:20:00,749 | INFO |   major_jaccard:     1.0
+2026-01-27 20:20:31,980 | INFO | 
+========================================
+2026-01-27 20:20:31,980 | INFO | [DONE] 17-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\17-1.json
+2026-01-27 20:20:31,980 | INFO | Scores:
+2026-01-27 20:20:31,980 | INFO |   embeddings_cosine: 0.5825928151607513
+2026-01-27 20:20:31,980 | INFO |   crossencoder_sts:  0.43239487409591676
+2026-01-27 20:20:31,980 | INFO |   nli_entailment:    0.18920972484855236
+2026-01-27 20:20:31,980 | INFO |   nli_contradiction: 0.22079999999999997
+2026-01-27 20:20:31,980 | INFO |   fine_jaccard:      0.2727272727272727
+2026-01-27 20:20:31,980 | INFO |   major_jaccard:     1.0
+2026-01-27 20:21:03,563 | INFO | 
+========================================
+2026-01-27 20:21:03,563 | INFO | [DONE] 18-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\18-1.json
+2026-01-27 20:21:03,564 | INFO | Scores:
+2026-01-27 20:21:03,564 | INFO |   embeddings_cosine: 0.506739366054535
+2026-01-27 20:21:03,564 | INFO |   crossencoder_sts:  0.47790480256080625
+2026-01-27 20:21:03,564 | INFO |   nli_entailment:    0.14396223527603058
+2026-01-27 20:21:03,565 | INFO |   nli_contradiction: 0.17519999999999997
+2026-01-27 20:21:03,565 | INFO |   fine_jaccard:      0.125
+2026-01-27 20:21:03,565 | INFO |   major_jaccard:     0.5
+2026-01-27 20:21:37,532 | INFO | 
+========================================
+2026-01-27 20:21:37,533 | INFO | [DONE] 19-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\19-1.json
+2026-01-27 20:21:37,533 | INFO | Scores:
+2026-01-27 20:21:37,533 | INFO |   embeddings_cosine: 0.49764591455459595
+2026-01-27 20:21:37,533 | INFO |   crossencoder_sts:  0.35422302782535553
+2026-01-27 20:21:37,534 | INFO |   nli_entailment:    0.1181778319682594
+2026-01-27 20:21:37,534 | INFO |   nli_contradiction: 0.002
+2026-01-27 20:21:37,534 | INFO |   fine_jaccard:      0.2
+2026-01-27 20:21:37,535 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-27 20:22:15,254 | INFO | 
+========================================
+2026-01-27 20:22:15,255 | INFO | [DONE] 20-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\20-1.json
+2026-01-27 20:22:15,255 | INFO | Scores:
+2026-01-27 20:22:15,255 | INFO |   embeddings_cosine: 0.6068733334541321
+2026-01-27 20:22:15,255 | INFO |   crossencoder_sts:  0.4474856436252594
+2026-01-27 20:22:15,256 | INFO |   nli_entailment:    0.15574164760359657
+2026-01-27 20:22:15,256 | INFO |   nli_contradiction: 0.2169
+2026-01-27 20:22:15,256 | INFO |   fine_jaccard:      0.5
+2026-01-27 20:22:15,256 | INFO |   major_jaccard:     0.5
+2026-01-27 20:22:44,300 | INFO | 
+========================================
+2026-01-27 20:22:44,300 | INFO | [DONE] 21-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\21-1.json
+2026-01-27 20:22:44,301 | INFO | Scores:
+2026-01-27 20:22:44,301 | INFO |   embeddings_cosine: 0.5546303451061249
+2026-01-27 20:22:44,301 | INFO |   crossencoder_sts:  0.5611619204282761
+2026-01-27 20:22:44,302 | INFO |   nli_entailment:    0.08835223735731193
+2026-01-27 20:22:44,302 | INFO |   nli_contradiction: 0.0006000000000000001
+2026-01-27 20:22:44,303 | INFO |   fine_jaccard:      0.5555555555555556
+2026-01-27 20:22:44,303 | INFO |   major_jaccard:     1.0
+2026-01-27 20:23:16,958 | INFO | 
+========================================
+2026-01-27 20:23:16,958 | INFO | [DONE] 22-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\22-1.json
+2026-01-27 20:23:16,958 | INFO | Scores:
+2026-01-27 20:23:16,958 | INFO |   embeddings_cosine: 0.41290582418441774
+2026-01-27 20:23:16,958 | INFO |   crossencoder_sts:  0.345327764749527
+2026-01-27 20:23:16,958 | INFO |   nli_entailment:    0.21696013988300847
+2026-01-27 20:23:16,958 | INFO |   nli_contradiction: 0.10139999999999998
+2026-01-27 20:23:16,958 | INFO |   fine_jaccard:      0.5
+2026-01-27 20:23:16,958 | INFO |   major_jaccard:     1.0
+2026-01-27 20:23:51,024 | INFO | 
+========================================
+2026-01-27 20:23:51,024 | INFO | [DONE] 23-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\23-1.json
+2026-01-27 20:23:51,024 | INFO | Scores:
+2026-01-27 20:23:51,025 | INFO |   embeddings_cosine: 0.49569873213768006
+2026-01-27 20:23:51,025 | INFO |   crossencoder_sts:  0.4441783785820007
+2026-01-27 20:23:51,026 | INFO |   nli_entailment:    0.09779105984164858
+2026-01-27 20:23:51,026 | INFO |   nli_contradiction: 0.0005
+2026-01-27 20:23:51,026 | INFO |   fine_jaccard:      0.8571428571428571
+2026-01-27 20:23:51,026 | INFO |   major_jaccard:     1.0
+2026-01-27 20:24:26,029 | INFO | 
+========================================
+2026-01-27 20:24:26,030 | INFO | [DONE] 24-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\24-1.json
+2026-01-27 20:24:26,030 | INFO | Scores:
+2026-01-27 20:24:26,030 | INFO |   embeddings_cosine: 0.45768938064575193
+2026-01-27 20:24:26,031 | INFO |   crossencoder_sts:  0.4753398597240448
+2026-01-27 20:24:26,031 | INFO |   nli_entailment:    0.06728461371757809
+2026-01-27 20:24:26,032 | INFO |   nli_contradiction: 0.0051
+2026-01-27 20:24:26,032 | INFO |   fine_jaccard:      0.2727272727272727
+2026-01-27 20:24:26,032 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-27 20:24:58,676 | INFO | 
+========================================
+2026-01-27 20:24:58,676 | INFO | [DONE] 25-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\25-1.json
+2026-01-27 20:24:58,676 | INFO | Scores:
+2026-01-27 20:24:58,676 | INFO |   embeddings_cosine: 0.4278739273548126
+2026-01-27 20:24:58,676 | INFO |   crossencoder_sts:  0.49585347473621366
+2026-01-27 20:24:58,676 | INFO |   nli_entailment:    0.15817649855704494
+2026-01-27 20:24:58,676 | INFO |   nli_contradiction: 0.2889
+2026-01-27 20:24:58,676 | INFO |   fine_jaccard:      0.2857142857142857
+2026-01-27 20:24:58,676 | INFO |   major_jaccard:     1.0
+2026-01-27 20:25:38,051 | INFO | 
+========================================
+2026-01-27 20:25:38,051 | INFO | [DONE] 26-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\26-1.json
+2026-01-27 20:25:38,051 | INFO | Scores:
+2026-01-27 20:25:38,052 | INFO |   embeddings_cosine: 0.5207847237586976
+2026-01-27 20:25:38,052 | INFO |   crossencoder_sts:  0.4203832745552063
+2026-01-27 20:25:38,053 | INFO |   nli_entailment:    0.1747526906243298
+2026-01-27 20:25:38,053 | INFO |   nli_contradiction: 0.004600000000000001
+2026-01-27 20:25:38,053 | INFO |   fine_jaccard:      0.5555555555555556
+2026-01-27 20:25:38,053 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-27 20:26:33,493 | INFO | 
+========================================
+2026-01-27 20:26:33,493 | INFO | [DONE] 27-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\27-1.json
+2026-01-27 20:26:33,493 | INFO | Scores:
+2026-01-27 20:26:33,493 | INFO |   embeddings_cosine: 0.6240703821182251
+2026-01-27 20:26:33,493 | INFO |   crossencoder_sts:  0.5530069231986999
+2026-01-27 20:26:33,493 | INFO |   nli_entailment:    0.16352843225709054
+2026-01-27 20:26:33,493 | INFO |   nli_contradiction: 0.1329
+2026-01-27 20:26:33,493 | INFO |   fine_jaccard:      0.4
+2026-01-27 20:26:33,493 | INFO |   major_jaccard:     1.0
+2026-01-27 20:27:06,510 | INFO | 
+========================================
+2026-01-27 20:27:06,510 | INFO | [DONE] 28-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\28-1.json
+2026-01-27 20:27:06,510 | INFO | Scores:
+2026-01-27 20:27:06,511 | INFO |   embeddings_cosine: 0.5665088653564453
+2026-01-27 20:27:06,511 | INFO |   crossencoder_sts:  0.47756567001342776
+2026-01-27 20:27:06,511 | INFO |   nli_entailment:    0.20435150059114598
+2026-01-27 20:27:06,512 | INFO |   nli_contradiction: 0.0002
+2026-01-27 20:27:06,512 | INFO |   fine_jaccard:      0.1111111111111111
+2026-01-27 20:27:06,512 | INFO |   major_jaccard:     0.5
+2026-01-27 20:27:40,210 | INFO | 
+========================================
+2026-01-27 20:27:40,210 | INFO | [DONE] 29-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\29-1.json
+2026-01-27 20:27:40,210 | INFO | Scores:
+2026-01-27 20:27:40,210 | INFO |   embeddings_cosine: 0.5593628585338593
+2026-01-27 20:27:40,210 | INFO |   crossencoder_sts:  0.5150094628334045
+2026-01-27 20:27:40,210 | INFO |   nli_entailment:    0.10397357292698381
+2026-01-27 20:27:40,210 | INFO |   nli_contradiction: 0.1075
+2026-01-27 20:27:40,210 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-27 20:27:40,210 | INFO |   major_jaccard:     0.5
+2026-01-27 20:28:25,123 | INFO | 
+========================================
+2026-01-27 20:28:25,124 | INFO | [DONE] 30-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\30-1.json
+2026-01-27 20:28:25,124 | INFO | Scores:
+2026-01-27 20:28:25,124 | INFO |   embeddings_cosine: 0.5485900104045868
+2026-01-27 20:28:25,124 | INFO |   crossencoder_sts:  0.4360097169876099
+2026-01-27 20:28:25,125 | INFO |   nli_entailment:    0.3957465463427604
+2026-01-27 20:28:25,125 | INFO |   nli_contradiction: 0.0005
+2026-01-27 20:28:25,125 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-27 20:28:25,125 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-27 20:29:00,023 | INFO | 
+========================================
+2026-01-27 20:29:00,023 | INFO | [DONE] 31-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\31-1.json
+2026-01-27 20:29:00,023 | INFO | Scores:
+2026-01-27 20:29:00,024 | INFO |   embeddings_cosine: 0.6145114183425904
+2026-01-27 20:29:00,024 | INFO |   crossencoder_sts:  0.5061215698719025
+2026-01-27 20:29:00,024 | INFO |   nli_entailment:    0.2883186370152311
+2026-01-27 20:29:00,025 | INFO |   nli_contradiction: 0.0007
+2026-01-27 20:29:00,025 | INFO |   fine_jaccard:      0.2857142857142857
+2026-01-27 20:29:00,025 | INFO |   major_jaccard:     0.5
+2026-01-27 20:29:25,184 | INFO | 
+========================================
+2026-01-27 20:29:25,184 | INFO | [DONE] 32-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\32-1.json
+2026-01-27 20:29:25,184 | INFO | Scores:
+2026-01-27 20:29:25,184 | INFO |   embeddings_cosine: 0.45454782247543335
+2026-01-27 20:29:25,184 | INFO |   crossencoder_sts:  0.46139668226242064
+2026-01-27 20:29:25,184 | INFO |   nli_entailment:    0.10412955860583448
+2026-01-27 20:29:25,184 | INFO |   nli_contradiction: 0.0086
+2026-01-27 20:29:25,192 | INFO |   fine_jaccard:      0.1
+2026-01-27 20:29:25,192 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-27 20:29:49,273 | INFO | 
+========================================
+2026-01-27 20:29:49,273 | INFO | [DONE] 33-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\33-1.json
+2026-01-27 20:29:49,274 | INFO | Scores:
+2026-01-27 20:29:49,274 | INFO |   embeddings_cosine: 0.4822282254695892
+2026-01-27 20:29:49,274 | INFO |   crossencoder_sts:  0.43404183387756345
+2026-01-27 20:29:49,274 | INFO |   nli_entailment:    0.11943839599601877
+2026-01-27 20:29:49,275 | INFO |   nli_contradiction: 0.0995
+2026-01-27 20:29:49,275 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-27 20:29:49,275 | INFO |   major_jaccard:     1.0
+2026-01-27 20:30:20,450 | INFO | 
+========================================
+2026-01-27 20:30:20,451 | INFO | [DONE] 34-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\34-1.json
+2026-01-27 20:30:20,451 | INFO | Scores:
+2026-01-27 20:30:20,451 | INFO |   embeddings_cosine: 0.4592329114675522
+2026-01-27 20:30:20,452 | INFO |   crossencoder_sts:  0.41936216950416566
+2026-01-27 20:30:20,452 | INFO |   nli_entailment:    0.005932996649004008
+2026-01-27 20:30:20,453 | INFO |   nli_contradiction: 0.001
+2026-01-27 20:30:20,453 | INFO |   fine_jaccard:      0.5
+2026-01-27 20:30:20,453 | INFO |   major_jaccard:     1.0
+2026-01-27 20:30:20,454 | INFO | [SKIP] source_id=35-1: gold non trovato in Patient_Psi_CM_Dataset.json
+2026-01-27 20:30:56,748 | INFO | 
+========================================
+2026-01-27 20:30:56,748 | INFO | [DONE] 36-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\36-1.json
+2026-01-27 20:30:56,748 | INFO | Scores:
+2026-01-27 20:30:56,749 | INFO |   embeddings_cosine: 0.5399771869182587
+2026-01-27 20:30:56,749 | INFO |   crossencoder_sts:  0.4396666258573532
+2026-01-27 20:30:56,749 | INFO |   nli_entailment:    0.10568075157251615
+2026-01-27 20:30:56,750 | INFO |   nli_contradiction: 0.27209999999999995
+2026-01-27 20:30:56,750 | INFO |   fine_jaccard:      0.125
+2026-01-27 20:30:56,750 | INFO |   major_jaccard:     0.5
+2026-01-27 20:31:28,357 | INFO | 
+========================================
+2026-01-27 20:31:28,357 | INFO | [DONE] 37-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\37-1.json
+2026-01-27 20:31:28,358 | INFO | Scores:
+2026-01-27 20:31:28,358 | INFO |   embeddings_cosine: 0.5559749066829681
+2026-01-27 20:31:28,358 | INFO |   crossencoder_sts:  0.48576229214668276
+2026-01-27 20:31:28,359 | INFO |   nli_entailment:    0.1014762442734114
+2026-01-27 20:31:28,359 | INFO |   nli_contradiction: 0.0008
+2026-01-27 20:31:28,360 | INFO |   fine_jaccard:      0.375
+2026-01-27 20:31:28,360 | INFO |   major_jaccard:     0.5
+2026-01-27 20:32:01,745 | INFO | 
+========================================
+2026-01-27 20:32:01,746 | INFO | [DONE] 38-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\38-1.json
+2026-01-27 20:32:01,746 | INFO | Scores:
+2026-01-27 20:32:01,746 | INFO |   embeddings_cosine: 0.46624976992607114
+2026-01-27 20:32:01,747 | INFO |   crossencoder_sts:  0.3639404892921448
+2026-01-27 20:32:01,747 | INFO |   nli_entailment:    0.2857226005563044
+2026-01-27 20:32:01,748 | INFO |   nli_contradiction: 0.0021000000000000003
+2026-01-27 20:32:01,748 | INFO |   fine_jaccard:      0.5
+2026-01-27 20:32:01,748 | INFO |   major_jaccard:     1.0
+2026-01-27 20:32:43,486 | INFO | 
+========================================
+2026-01-27 20:32:43,487 | INFO | [DONE] 39-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\39-1.json
+2026-01-27 20:32:43,487 | INFO | Scores:
+2026-01-27 20:32:43,487 | INFO |   embeddings_cosine: 0.6855062007904053
+2026-01-27 20:32:43,488 | INFO |   crossencoder_sts:  0.6342359602451324
+2026-01-27 20:32:43,488 | INFO |   nli_entailment:    0.05865870340264624
+2026-01-27 20:32:43,489 | INFO |   nli_contradiction: 0.006899999999999999
+2026-01-27 20:32:43,489 | INFO |   fine_jaccard:      0.375
+2026-01-27 20:32:43,489 | INFO |   major_jaccard:     0.5
+2026-01-27 20:33:20,769 | INFO | 
+========================================
+2026-01-27 20:33:20,771 | INFO | [DONE] 40-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\40-1.json
+2026-01-27 20:33:20,771 | INFO | Scores:
+2026-01-27 20:33:20,771 | INFO |   embeddings_cosine: 0.6147342681884765
+2026-01-27 20:33:20,771 | INFO |   crossencoder_sts:  0.6166290402412414
+2026-01-27 20:33:20,771 | INFO |   nli_entailment:    0.3975006994560379
+2026-01-27 20:33:20,771 | INFO |   nli_contradiction: 0.00030000000000000003
+2026-01-27 20:33:20,771 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-27 20:33:20,771 | INFO |   major_jaccard:     1.0
+2026-01-27 20:33:50,858 | INFO | 
+========================================
+2026-01-27 20:33:50,858 | INFO | [DONE] 41-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\41-1.json
+2026-01-27 20:33:50,858 | INFO | Scores:
+2026-01-27 20:33:50,858 | INFO |   embeddings_cosine: 0.5426809012889862
+2026-01-27 20:33:50,858 | INFO |   crossencoder_sts:  0.5177746713161469
+2026-01-27 20:33:50,858 | INFO |   nli_entailment:    0.06712026162878873
+2026-01-27 20:33:50,858 | INFO |   nli_contradiction: 0.1041
+2026-01-27 20:33:50,858 | INFO |   fine_jaccard:      0.4444444444444444
+2026-01-27 20:33:50,858 | INFO |   major_jaccard:     1.0
+2026-01-27 20:34:24,632 | INFO | 
+========================================
+2026-01-27 20:34:24,633 | INFO | [DONE] 42-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\42-1.json
+2026-01-27 20:34:24,633 | INFO | Scores:
+2026-01-27 20:34:24,633 | INFO |   embeddings_cosine: 0.5542842507362366
+2026-01-27 20:34:24,634 | INFO |   crossencoder_sts:  0.4939266324043274
+2026-01-27 20:34:24,634 | INFO |   nli_entailment:    0.013134767969781238
+2026-01-27 20:34:24,634 | INFO |   nli_contradiction: 0.0997
+2026-01-27 20:34:24,634 | INFO |   fine_jaccard:      0.3
+2026-01-27 20:34:24,635 | INFO |   major_jaccard:     1.0
+2026-01-27 20:35:02,465 | INFO | 
+========================================
+2026-01-27 20:35:02,465 | INFO | [DONE] 43-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\43-1.json
+2026-01-27 20:35:02,465 | INFO | Scores:
+2026-01-27 20:35:02,465 | INFO |   embeddings_cosine: 0.40498592257499694
+2026-01-27 20:35:02,465 | INFO |   crossencoder_sts:  0.39749238193035125
+2026-01-27 20:35:02,465 | INFO |   nli_entailment:    0.27486394857239616
+2026-01-27 20:35:02,465 | INFO |   nli_contradiction: 0.10169999999999998
+2026-01-27 20:35:02,465 | INFO |   fine_jaccard:      0.2727272727272727
+2026-01-27 20:35:02,465 | INFO |   major_jaccard:     0.5
+2026-01-27 20:35:33,667 | INFO | 
+========================================
+2026-01-27 20:35:33,667 | INFO | [DONE] 44-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\44-1.json
+2026-01-27 20:35:33,667 | INFO | Scores:
+2026-01-27 20:35:33,667 | INFO |   embeddings_cosine: 0.5537672877311707
+2026-01-27 20:35:33,667 | INFO |   crossencoder_sts:  0.5085822358727455
+2026-01-27 20:35:33,667 | INFO |   nli_entailment:    0.09826353125794819
+2026-01-27 20:35:33,667 | INFO |   nli_contradiction: 0.0008
+2026-01-27 20:35:33,667 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-27 20:35:33,667 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-27 20:36:33,657 | INFO | 
+========================================
+2026-01-27 20:36:33,658 | INFO | [DONE] 45-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\45-1.json
+2026-01-27 20:36:33,658 | INFO | Scores:
+2026-01-27 20:36:33,658 | INFO |   embeddings_cosine: 0.5246078670024872
+2026-01-27 20:36:33,659 | INFO |   crossencoder_sts:  0.4796774983406067
+2026-01-27 20:36:33,659 | INFO |   nli_entailment:    0.1027049272798416
+2026-01-27 20:36:33,660 | INFO |   nli_contradiction: 0.0022
+2026-01-27 20:36:33,660 | INFO |   fine_jaccard:      0.2222222222222222
+2026-01-27 20:36:33,660 | INFO |   major_jaccard:     0.5
+2026-01-27 20:37:02,854 | INFO | 
+========================================
+2026-01-27 20:37:02,855 | INFO | [DONE] 46-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\46-1.json
+2026-01-27 20:37:02,855 | INFO | Scores:
+2026-01-27 20:37:02,856 | INFO |   embeddings_cosine: 0.5847050309181213
+2026-01-27 20:37:02,856 | INFO |   crossencoder_sts:  0.5579383790493011
+2026-01-27 20:37:02,856 | INFO |   nli_entailment:    0.12065609784848448
+2026-01-27 20:37:02,856 | INFO |   nli_contradiction: 0.0021000000000000003
+2026-01-27 20:37:02,856 | INFO |   fine_jaccard:      0.09090909090909091
+2026-01-27 20:37:02,856 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-27 20:37:32,215 | INFO | 
+========================================
+2026-01-27 20:37:32,215 | INFO | [DONE] 47-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\47-1.json
+2026-01-27 20:37:32,215 | INFO | Scores:
+2026-01-27 20:37:32,215 | INFO |   embeddings_cosine: 0.488390177488327
+2026-01-27 20:37:32,215 | INFO |   crossencoder_sts:  0.39735570549964905
+2026-01-27 20:37:32,215 | INFO |   nli_entailment:    0.023663619438947132
+2026-01-27 20:37:32,215 | INFO |   nli_contradiction: 0.0001
+2026-01-27 20:37:32,215 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-27 20:37:32,215 | INFO |   major_jaccard:     1.0
+2026-01-27 20:38:08,012 | INFO | 
+========================================
+2026-01-27 20:38:08,012 | INFO | [DONE] 48-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\48-1.json
+2026-01-27 20:38:08,012 | INFO | Scores:
+2026-01-27 20:38:08,012 | INFO |   embeddings_cosine: 0.5860700726509094
+2026-01-27 20:38:08,012 | INFO |   crossencoder_sts:  0.38409621119499204
+2026-01-27 20:38:08,028 | INFO |   nli_entailment:    0.04259621548558426
+2026-01-27 20:38:08,028 | INFO |   nli_contradiction: 0.004600000000000002
+2026-01-27 20:38:08,028 | INFO |   fine_jaccard:      0.375
+2026-01-27 20:38:08,028 | INFO |   major_jaccard:     1.0
+2026-01-27 20:38:48,319 | INFO | 
+========================================
+2026-01-27 20:38:48,320 | INFO | [DONE] 49-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\49-1.json
+2026-01-27 20:38:48,320 | INFO | Scores:
+2026-01-27 20:38:48,320 | INFO |   embeddings_cosine: 0.48388218879699707
+2026-01-27 20:38:48,321 | INFO |   crossencoder_sts:  0.3572668880224228
+2026-01-27 20:38:48,321 | INFO |   nli_entailment:    0.00348897155678598
+2026-01-27 20:38:48,321 | INFO |   nli_contradiction: 0.0004
+2026-01-27 20:38:48,322 | INFO |   fine_jaccard:      0.6
+2026-01-27 20:38:48,322 | INFO |   major_jaccard:     1.0
+2026-01-27 20:39:33,993 | INFO | 
+========================================
+2026-01-27 20:39:33,994 | INFO | [DONE] 50-1 | saved=outputs_pipeline_current_sit1_2\generated_cbts\50-1.json
+2026-01-27 20:39:33,994 | INFO | Scores:
+2026-01-27 20:39:33,995 | INFO |   embeddings_cosine: 0.4544358432292938
+2026-01-27 20:39:33,995 | INFO |   crossencoder_sts:  0.3691589325666428
+2026-01-27 20:39:33,995 | INFO |   nli_entailment:    0.10246682629900798
+2026-01-27 20:39:33,996 | INFO |   nli_contradiction: 0.0048000000000000004
+2026-01-27 20:39:33,996 | INFO |   fine_jaccard:      0.25
+2026-01-27 20:39:33,997 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-27 20:39:33,997 | INFO | 
+Completed. Processed 49 vignette(s).
+2026-01-27 20:39:33,997 | INFO | Generated CBTs in: outputs_pipeline_current_sit1_2\generated_cbts
+2026-01-27 20:39:33,997 | INFO | Compare results JSONL: outputs_pipeline_current_sit1_2\compare_results.jsonl
+2026-01-27 20:39:33,997 | INFO | [TOTAL] records existing=0 new=49 total=49
+2026-01-27 20:39:34,000 | INFO | 
+=== FINAL MEANS ===
+2026-01-27 20:39:34,001 | INFO | {
+  "n": 49,
+  "means": {
+    "embeddings_cosine": 0.5216791290105607,
+    "crossencoder_sts": 0.4603463792983366,
+    "nli_entailment_overall": 0.14471386132981268,
+    "nli_contradiction_overall": 0.06012653061224489
+  },
+  "counts": {
+    "embeddings_cosine": 49,
+    "crossencoder_sts": 49,
+    "nli_entailment_overall": 49,
+    "nli_contradiction_overall": 49
+  },
+  "core_beliefs_fine": {
+    "n": 49,
+    "micro": {
+      "precision": 0.373134328358209,
+      "recall": 0.5980861244019139,
+      "f1": 0.45955882352941174
+    },
+    "macro": {
+      "f1": 0.24230612882688315
+    },
+    "subset_accuracy": 0.0,
+    "jaccard_mean": 0.3076714668551404,
+    "unknown_pred_total": 0,
+    "label_space_size": 19,
+    "per_label": {
+      "I am a failure, loser": {
+        "precision": 0.14285714285714285,
+        "recall": 0.08333333333333333,
+        "f1": 0.10526315789473685,
+        "support": 12
+      },
+      "I am a victim": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 4
+      },
+      "I am bad - dangerous, toxic, evil": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "I am bound to be abandoned": {
+        "precision": 0.3333333333333333,
+        "recall": 0.8333333333333334,
+        "f1": 0.47619047619047616,
+        "support": 12
+      },
+      "I am bound to be alone": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 12
+      },
+      "I am bound to be rejected": {
+        "precision": 0.5,
+        "recall": 0.2727272727272727,
+        "f1": 0.3529411764705882,
+        "support": 11
+      },
+      "I am defective": {
+        "precision": 0.061224489795918366,
+        "recall": 1.0,
+        "f1": 0.11538461538461538,
+        "support": 3
+      },
+      "I am helpless": {
+        "precision": 0.46938775510204084,
+        "recall": 1.0,
+        "f1": 0.6388888888888888,
+        "support": 23
+      },
+      "I am immoral": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 2
+      },
+      "I am incompetent": {
+        "precision": 0.7142857142857143,
+        "recall": 0.25,
+        "f1": 0.37037037037037035,
+        "support": 20
+      },
+      "I am needy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 4
+      },
+      "I am out of control": {
+        "precision": 0.32653061224489793,
+        "recall": 1.0,
+        "f1": 0.4923076923076923,
+        "support": 16
+      },
+      "I am powerless, weak, vulnerable": {
+        "precision": 0.46938775510204084,
+        "recall": 1.0,
+        "f1": 0.6388888888888888,
+        "support": 23
+      },
+      "I am trapped": {
+        "precision": 0.3673469387755102,
+        "recall": 1.0,
+        "f1": 0.5373134328358209,
+        "support": 18
+      },
+      "I am unattractive": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am undesirable, unwanted": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 13
+      },
+      "I am unlovable": {
+        "precision": 0.7333333333333333,
+        "recall": 0.7857142857142857,
+        "f1": 0.7586206896551724,
+        "support": 28
+      },
+      "I am worthless, waste": {
+        "precision": 0.1,
+        "recall": 0.14285714285714285,
+        "f1": 0.11764705882352941,
+        "support": 7
+      },
+      "I don't deserve to live": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      }
+    }
+  },
+  "core_beliefs_major": {
+    "n": 49,
+    "micro": {
+      "precision": 0.7752808988764045,
+      "recall": 0.8214285714285714,
+      "f1": 0.7976878612716762
+    },
+    "subset_accuracy": 0.46938775510204084,
+    "jaccard_mean": 0.7142857142857144,
+    "label_space_size": 3
+  },
+  "resume": {
+    "existing": 0,
+    "new": 49,
+    "total": 49
+  }
+}
+2026-01-27 20:39:34,001 | INFO | 
+Saved final means to: outputs_pipeline_current_sit1_2\final_means.json
+2026-01-27 20:39:34,001 | INFO | 
+=== CORE BELIEFS (fine-grained) METRICS ===
+2026-01-27 20:39:34,002 | INFO | {
+  "n": 49,
+  "micro": {
+    "precision": 0.373134328358209,
+    "recall": 0.5980861244019139,
+    "f1": 0.45955882352941174
+  },
+  "macro": {
+    "f1": 0.24230612882688315
+  },
+  "subset_accuracy": 0.0,
+  "jaccard_mean": 0.3076714668551404,
+  "unknown_pred_total": 0,
+  "label_space_size": 19,
+  "per_label": {
+    "I am a failure, loser": {
+      "precision": 0.14285714285714285,
+      "recall": 0.08333333333333333,
+      "f1": 0.10526315789473685,
+      "support": 12
+    },
+    "I am a victim": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 4
+    },
+    "I am bad - dangerous, toxic, evil": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "I am bound to be abandoned": {
+      "precision": 0.3333333333333333,
+      "recall": 0.8333333333333334,
+      "f1": 0.47619047619047616,
+      "support": 12
+    },
+    "I am bound to be alone": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 12
+    },
+    "I am bound to be rejected": {
+      "precision": 0.5,
+      "recall": 0.2727272727272727,
+      "f1": 0.3529411764705882,
+      "support": 11
+    },
+    "I am defective": {
+      "precision": 0.061224489795918366,
+      "recall": 1.0,
+      "f1": 0.11538461538461538,
+      "support": 3
+    },
+    "I am helpless": {
+      "precision": 0.46938775510204084,
+      "recall": 1.0,
+      "f1": 0.6388888888888888,
+      "support": 23
+    },
+    "I am immoral": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2
+    },
+    "I am incompetent": {
+      "precision": 0.7142857142857143,
+      "recall": 0.25,
+      "f1": 0.37037037037037035,
+      "support": 20
+    },
+    "I am needy": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 4
+    },
+    "I am out of control": {
+      "precision": 0.32653061224489793,
+      "recall": 1.0,
+      "f1": 0.4923076923076923,
+      "support": 16
+    },
+    "I am powerless, weak, vulnerable": {
+      "precision": 0.46938775510204084,
+      "recall": 1.0,
+      "f1": 0.6388888888888888,
+      "support": 23
+    },
+    "I am trapped": {
+      "precision": 0.3673469387755102,
+      "recall": 1.0,
+      "f1": 0.5373134328358209,
+      "support": 18
+    },
+    "I am unattractive": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am undesirable, unwanted": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 13
+    },
+    "I am unlovable": {
+      "precision": 0.7333333333333333,
+      "recall": 0.7857142857142857,
+      "f1": 0.7586206896551724,
+      "support": 28
+    },
+    "I am worthless, waste": {
+      "precision": 0.1,
+      "recall": 0.14285714285714285,
+      "f1": 0.11764705882352941,
+      "support": 7
+    },
+    "I don't deserve to live": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    }
+  }
+}

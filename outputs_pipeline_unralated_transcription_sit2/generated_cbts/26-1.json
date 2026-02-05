@@ -1,0 +1,34 @@
+{
+  "history": "The client has recently separated from her husband following incidents of physical abuse, though both are now attending couples therapy. She reports ongoing anxiety and uncertainty related to her work situation. Her upbringing emphasized the importance of finding meaning in all pursuits, which has contributed to her tendency to intellectualize her interests. She struggles with self-perception, describing herself as 'immature,' and feels embarrassed about her hobbies, fearing judgment from others. She oscillates between self-criticism and self-defense, and seeks validation but feels her work does not provide the recognition she desires.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I am exposed to negative or clinical labels about my husband or myself, then it means I am failing to manage my life and others will see me as inadequate. If I show my true interests or vulnerabilities, people will judge or reject me. I must always justify my actions and preferences to avoid being seen as immature or unworthy.",
+  "intermediate_belief_depression": "If I can't reconcile how others see me with how I see myself, then I will never be accepted or understood, and I will always feel alone and inadequate.",
+  "coping_strategies": [
+    "She intellectualizes her feelings and interests to rationalize them and avoid direct emotional discomfort. She avoids social situations where she might be judged for her hobbies or vulnerabilities. She seeks validation but also withdraws or becomes self-critical when she anticipates judgment."
+  ],
+  "situation": "Exposed to clinical terms used to describe the husband's behavior, including \"delusional\" and \"pseudo-psychotic\".",
+  "auto_thought": "If people are using words like 'delusional' and 'pseudo-psychotic' about my husband, then maybe I'm part of something abnormal or broken. Others will think I'm foolish or weak for being involved in this.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "worried",
+    "confused",
+    "embarrassed",
+    "vulnerable"
+  ],
+  "behavior": "She withdraws from conversations about her relationship, avoids sharing details with others, and ruminates on what these labels mean about her and her choices. She may intellectualize or joke about the situation to deflect discomfort."
+}

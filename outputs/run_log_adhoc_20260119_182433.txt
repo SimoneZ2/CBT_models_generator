@@ -1,0 +1,89 @@
+Using description: HISTORY:
+- History of self-critical tendencies.
+- Used to maintaining control and achieving goals.
+- Current challenges involve job seeking, personal relationships, and family dynamics.
+
+SITUATION:
+- Conflict related to another person's (Ivan's) approach to job searching and life decisions. with ID=28-2
+Top results (by metadata similarity):
+  - sim=0.660 | title='Patient "M", Session April 03, 2012: Client is exhausted by her husband's lack o' | file='1004532444.txt'
+  - sim=0.651 | title='Session 8: Client is using his art as a form of therapy to increase his self-est' | file='1000013289.txt'
+  - sim=0.648 | title='Session 12: Client feels like his life is quite a mess. He needs to set some goa' | file='1000134009.txt'
+  - sim=0.645 | title='Session 21: Client feels like he is on the spot to "deliver", to be a good clien' | file='1000013415.txt'
+  - sim=0.645 | title='Patient "M", Session June 26, 2012: Client isn't happy about her performance in ' | file='1004687660.txt'
+  - sim=0.644 | title='Motivational Therapy Sessions, Client 1, Session 2: The client continues struggl' | file='1003722147.txt'
+  - sim=0.641 | title='Session 15: Client has been experiencing occupational stress' | file='1000134012.txt'
+  - sim=0.639 | title='Session 4: Client feels like he has already talked about everything pertaining t' | file='1000133848.txt'
+  - sim=0.638 | title='Session 1105: Client's husband is upset with her for not losing weight. She is l' | file='1000399412.txt'
+  - sim=0.638 | title='Volume no. 34: Rational Emotive Therapy #2: Client's low self-esteem is effectin' | file='1000916327.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.660 | file='1004532444.txt' | title='Patient "M", Session April 03, 2012: Client is exhausted by her husband's lack o'
+  - sim=0.651 | file='1000013289.txt' | title='Session 8: Client is using his art as a form of therapy to increase his self-est'
+  - sim=0.648 | file='1000134009.txt' | title='Session 12: Client feels like his life is quite a mess. He needs to set some goa'
+Using top selected file for transcript: '1004532444.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient History and Current Situation:**
+
+The patient has a history of self-critical tendencies and is accustomed to maintaining control and achieving goals. Presently, the patient is facing challenges related to job seeking, personal relationships, and family dynamics. A specific conflict involves another person's (Ivan's) approach to job searching and life decisions.
+
+**Cognitive Patterns:**
+
+The patient's history of self-critical tendencies likely contributes to a pattern of negative self-evaluation, particularly in situations where control is perceived to be lost or goals are not met. This cognitive style may manifest as harsh self-judgment and a tendency to ruminate on perceived failures or shortcomings. The patient's conflict with Ivan may exacerbate these tendencies, as differences in approach to job searching and life decisions could trigger feelings of frustration and helplessness.
+
+**Emotional Reactions:**
+
+The patient may experience a range of emotions, including anxiety, frustration, and disappointment. The anxiety likely stems from the uncertainty and lack of control in the current job-seeking process and personal relationships. Frustration may arise from the perceived inability to influence Ivan's decisions or approach, while disappointment could be linked to unmet expectations in both personal and professional domains.
+
+**Behavioral Responses:**
+
+In response to these cognitive and emotional patterns, the patient might engage in behaviors such as withdrawing from social interactions, avoiding confrontation, or procrastinating on job-seeking activities. The patient may also seek reassurance from others or fall back on familiar routines to regain a sense of control. The conflict with Ivan could lead to attempts to persuade or advise him, reflecting a desire to assert control and influence outcomes.
+
+**Coping Styles:**
+
+The patient may rely on problem-solving strategies to cope with challenges, attempting to address issues directly through advice or intervention. However, when these efforts are perceived as ineffective, the patient might resort to avoidance or disengagement to manage emotional distress. The patient's history of achieving goals suggests a strong drive for success, which could lead to perseverance in the face of setbacks, albeit accompanied by self-criticism.
+
+**Transcript-Based Psychological Patterns:**
+
+The transcript highlights common psychological patterns such as the tendency to internalize criticism and the struggle to assert oneself in interpersonal interactions. These patterns may resonate with the patient's experiences, particularly in the context of family dynamics and personal relationships. The transcript also illustrates the impact of self-critical thoughts on emotional well-being and decision-making, which may parallel the patient's cognitive and emotional experiences.
+
+**Conclusion:**
+
+The patient's history of self-critical tendencies and current challenges in job seeking, personal relationships, and family dynamics contribute to a complex interplay of cognitive, emotional, and behavioral responses. By recognizing and addressing these patterns, the patient can work towards developing more adaptive coping strategies and improving overall well-being. Cognitive Behavioral Therapy (CBT) techniques, such as cognitive restructuring and behavioral activation, may be beneficial in helping the patient manage self-critical thoughts and enhance problem-solving skills.
+Summary da mistral_.csv: The client discusses their upcoming visit home and the challenges of dealing with their parents' loud dogs. They also share their concern for a friend who they believe is underachieving and their attempts to encourage him to seek help. The client reflects on their own work performance and a recent reprimand from their boss, expressing frustration and self-criticism. They discuss the dynamic of being criticized and their tendency to agree with the criticizer rather than deflecting the attention.
+The client described an instance where a friend said something hurtful to them, and the client made excuses for their friend's behavior instead of asserting themselves. The client also discussed their difficulty in communicating effectively with others, particularly in professional settings, leading to misunderstandings and frustration. The client mentioned feeling constantly misunderstood and out of step with those around them, which contributes to feelings of anxiety and disorganization. The client expressed frustration with conducting business via text message and feeling like they are not being understood, leading to feelings of being left behind or misunderstood in their personal and professional life. The client also mentioned feeling frustrated with being asked unnecessary questions and feeling put on the spot, leading to feelings of fear and panic. The client expressed a lack of investment in some situations and a preference for letting others handle certain matters.
+The client expresses feeling pressured to take on a job with a significant salary increase but feels unable to manage the independent group of people involved. They describe a pattern of giving others the benefit of the doubt in situations where they believe they may have made a mistake, even if it means taking blame unnecessarily. The client also discusses their past ability to stand up for themselves and how they have lost this capacity in recent years. They reflect on the potential influence of their in-laws and female bosses on their self-esteem and ability to assert themselves. The client and therapist discuss the distinction between their critical thinking abilities in various situations and the client's difficulty standing up for themselves when confronted by others. The client shares an example from the past where they physically defended themselves against insults, and the therapist encourages further reflection on why they have lost this ability in the present.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of self-critical thinking and is used to maintaining control and achieving goals. These tendencies likely developed over time and are reinforced by experiences where control and achievement were valued. Currently, the client faces challenges in job seeking, personal relationships, and family dynamics, which may intensify self-criticism and the need for control. The specific conflict with Ivan highlights the client's struggle when others' approaches differ from their own standards.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't influence or guide others to do things the 'right' way, then I am failing and things will go wrong. I must maintain control to prevent disappointment. If others don't listen to my advice, it means I'm not effective or respected.",
+  "intermediate_belief_depression": "If I can't help or control the outcome, nothing I do matters and I might as well give up.",
+  "coping_strategies": [
+    "The client often tries to directly advise or persuade others, especially in situations where they feel responsible for outcomes. When these efforts are unsuccessful, the client may withdraw, avoid confrontation, or ruminate on their perceived failures. There is also a tendency to procrastinate on their own job-seeking activities and seek reassurance from others."
+  ],
+  "situation": "Conflict related to another person's (Ivan's) approach to job searching and life decisions.",
+  "auto_thought": "Ivan isn't doing things the way he should—I can't make him see what's right. This means I'm failing and things will fall apart.",
+  "emotion": [
+    "frustrated",
+    "anxious",
+    "disappointed",
+    "helpless"
+  ],
+  "behavior": "I try to persuade or advise Ivan to change his approach. When he doesn't listen, I withdraw or avoid further discussion. I may ruminate about what went wrong and delay focusing on my own job search."
+}

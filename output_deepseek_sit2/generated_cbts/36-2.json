@@ -1,0 +1,30 @@
+{
+  "name": "Patient 36",
+  "id": "36",
+  "type": [
+    "caregiver burnout",
+    "financial stress"
+  ],
+  "history": "Elevated stress from financial difficulties and relationship instability. Heavy workload covering for absent coworker Chet. Friends often have crises. Considering asking parents for therapy costs around birthday. Upcoming convention and parent visit.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am only valued for what I can provide"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must care for everyone else while neglecting myself.",
+  "intermediate_belief_depression": "My own needs are a burden to others.",
+  "coping_strategies": [
+    "Overfunctioning, resentment, avoiding asking for help until crisis."
+  ],
+  "situation": "At convention, interacting with demanding friends while managing personal stress.",
+  "auto_thought": "\"They only want something from me. No one asks how I am. I'm just a resource.\"",
+  "emotion": [
+    "resentment",
+    "exhaustion",
+    "isolation"
+  ],
+  "behavior": "Fakes enthusiasm, solves friends' problems quickly, escapes to bathroom to cry, then returns smiling."
+}

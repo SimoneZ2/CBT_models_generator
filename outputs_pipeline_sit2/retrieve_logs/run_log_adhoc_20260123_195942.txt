@@ -1,0 +1,93 @@
+Using description: HISTORY:
+- History of substance abuse and completed rehabilitation.
+- Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect.
+- Longstanding obesity since childhood.
+- Past experiences of bullying related to weight.
+
+SITUATION:
+- Missed an alarm and woke up late for work. with ID=1-2
+Top results (by metadata similarity):
+  - sim=0.629 | title='Verilogue session: Client seems to suffer from a sleep disorder but he cannot af' | file='1001084005.txt'
+  - sim=0.608 | title='Verilogue session: Client has been experiencing extreme anger outbursts and cycl' | file='1002565850.txt'
+  - sim=0.607 | title='Verilogue session: Client was recently assaulted and he quit his job after an in' | file='1001083937.txt'
+  - sim=0.603 | title='Verilogue session: Client has a stressful family life and an abundant amount of ' | file='1002565951.txt'
+  - sim=0.602 | title='Verilogue session: Client is having problems getting her work done' | file='1002565945.txt'
+  - sim=0.593 | title='Verilogue session: Client recently experienced an ectopic pregnancy and miscarri' | file='1002565841.txt'
+  - sim=0.590 | title='Verilogue session: Client is experiencing loneliness and depression. She has bee' | file='1001084031.txt'
+  - sim=0.586 | title='Verilogue session: Client's attitude and irritability have landed him in jail on' | file='1003009218.txt'
+  - sim=0.583 | title='Verilogue session: Client is unhappy with being overweight. They discuss the pos' | file='1001083933.txt'
+  - sim=0.578 | title='Verilogue session: Client has been having problems getting to sleep but, he is f' | file='1002565982.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.629 | file='1001084005.txt' | title='Verilogue session: Client seems to suffer from a sleep disorder but he cannot af'
+  - sim=0.608 | file='1002565850.txt' | title='Verilogue session: Client has been experiencing extreme anger outbursts and cycl'
+  - sim=0.607 | file='1001083937.txt' | title='Verilogue session: Client was recently assaulted and he quit his job after an in'
+Using top selected file for transcript: '1001084005.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of substance abuse and has successfully completed rehabilitation. He is currently experiencing ongoing family difficulties, particularly in his relationship with his mother, which is characterized by feelings of rejection and emotional neglect. The patient has struggled with obesity since childhood and has experienced bullying related to his weight. Recently, he missed an alarm and woke up late for work.
+
+**Emotional Impact:**
+The patient's history of substance abuse and rehabilitation suggests a previous struggle with coping mechanisms, potentially linked to underlying emotional distress. The ongoing family difficulties, particularly the perceived rejection and emotional neglect from his mother, likely contribute to feelings of sadness, loneliness, and possibly anger. These emotions may be compounded by the longstanding obesity and past bullying experiences, which could lead to feelings of shame, embarrassment, and low self-esteem.
+
+The recent incident of waking up late for work may evoke anxiety and worry about job performance and reliability. This event could also trigger feelings of guilt or disappointment in himself, especially if he perceives it as a failure to meet expectations.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive distortions such as all-or-nothing thinking, particularly in relation to his self-worth and abilities. The history of emotional neglect and bullying could lead to a negative self-image and a tendency to ruminate on past failures or perceived inadequacies. He might also engage in catastrophizing, especially in response to the missed alarm, fearing significant negative consequences at work.
+
+The transcript suggests that individuals with similar backgrounds might struggle with low energy and concentration, potentially due to underlying stress or sleep issues. The patient may also experience difficulty focusing and maintaining motivation, which could be exacerbated by his emotional state.
+
+**Behavioral Responses:**
+In response to emotional distress, the patient might withdraw from social interactions or avoid situations that could lead to further rejection or embarrassment. He may also procrastinate or struggle with initiating tasks, particularly if he doubts his ability to succeed.
+
+The missed alarm incident could lead to increased vigilance in setting alarms or seeking reassurance from others to prevent future occurrences. The patient might also engage in behaviors aimed at seeking comfort or distraction, such as scrolling social media or calling for support from friends or family.
+
+**Coping Strategies:**
+The patient may benefit from developing healthier coping strategies to manage his emotions and cognitive patterns. This could include cognitive restructuring to challenge negative thoughts and beliefs, as well as behavioral activation to increase engagement in rewarding activities. Mindfulness and relaxation techniques might also help reduce anxiety and improve emotional regulation.
+
+Given the potential impact of sleep on his energy and mood, exploring sleep hygiene practices could be beneficial. Encouraging the patient to establish a consistent sleep routine and address any sleep-related issues might improve his overall well-being.
+
+**Conclusion:**
+The patient's emotional and cognitive experiences are likely influenced by his history of substance abuse, family difficulties, obesity, and bullying. These factors contribute to a complex interplay of emotions and thoughts that affect his behavior and coping mechanisms. By addressing these areas through targeted cognitive-behavioral interventions, the patient can work towards improving his emotional health and overall quality of life.
+Summary da mistral_.csv: The patient discussed attending a family gathering for their nephew who is being deployed, mentioning their nephew's upcoming military training and travel. The patient reported ongoing issues with low energy levels and sleepiness during the day, despite getting around nine hours of sleep. They mentioned having sleepwalked and talked in their sleep, and their partner reported the patient snoring. The patient and partner had a sleep study authorized but were unable to afford it due to high cost. The patient discussed their father's history of sleep apnea and insomnia, and the possibility of a sleep disorder contributing to their daytime fatigue. The patient reported gaining weight despite eating less and mentioned difficulty with concentration and focus. They discussed feeling guilty about their financial situation and inability to hold down a job due to fatigue. The patient mentioned enjoying the family gathering and ongoing legal proceedings for their nephew's ticket.
+The patient discussed their son's employment situation at a restaurant where he has been working since May without being paid properly. The employer promised to hire him on his birthday and pay him, but has not followed through. The employer called him irregularly to work, sometimes giving him only a few hours notice, and never paid him for all the hours worked. The patient advised their son to find another job due to the financial and emotional stress caused by the situation. The doctor suggested several options to manage the patient's low energy, including trying to reduce the dosage of Trazodone, which might be causing fatigue, or pursuing a sleep study to determine if a sleep disorder is the cause. They also discussed the possibility of depression contributing to the patient's weight gain and low energy. The doctor suggested a multi-faceted approach to address the depression, weight gain, and potential sleep disorder. The patient mentioned their own physical limitations that make regular exercise difficult due to knee issues
+The doctor suggested the patient consider low-impact exercises like swimming or short walks to improve energy levels and mood, as physical activity can help alleviate depression. They discussed the upcoming class reunion and the doctor offered to help the patient access information for it. The doctor and patient scheduled another appointment for two months in the future and discussed possible session times. The patient mentioned issues with another person and the doctor offered to help if needed. The session ended with the doctor encouraging the patient to take it easy and wishing them well.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of substance abuse and has completed rehabilitation, indicating previous struggles with coping. He reports ongoing family difficulties, especially with his mother, characterized by feelings of rejection and emotional neglect. He has been obese since childhood and experienced bullying related to his weight, which likely contributed to a negative self-image and low self-esteem. These longstanding issues set the stage for current emotional and cognitive patterns.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake or let people down, it proves that I'm not good enough and others will see me as unreliable. I must always meet expectations or people will reject me. If I fail, it means I'm confirming what others have always thought about me.",
+  "intermediate_belief_depression": "If I can't even manage simple things like waking up on time, it shows that nothing will ever get better for me and I'm hopeless. There's no point in trying because I always end up failing.",
+  "coping_strategies": [
+    "He tends to withdraw or avoid situations where he fears further rejection or embarrassment, such as minimizing contact after making a mistake. He may seek comfort through distraction (e.g., scrolling social media) or reassurance from others, but also procrastinates or struggles to initiate tasks when feeling overwhelmed."
+  ],
+  "situation": "Missed an alarm and woke up late for work.",
+  "auto_thought": "I can't believe I messed up again—everyone at work will think I'm unreliable. This just proves I'm a failure and can't get anything right.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "guilty",
+    "worried",
+    "disappointed",
+    "embarrassed"
+  ],
+  "behavior": "He rushes to get ready in a panic, avoids making eye contact with coworkers, and may send an apologetic message to his boss. He might withdraw from conversations at work and ruminate about the mistake throughout the day."
+}

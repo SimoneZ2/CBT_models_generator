@@ -1,0 +1,87 @@
+Using description: HISTORY:
+- History of long work hours in demanding work environments, including past touring work.
+- Unresolved issues with father, including reports of past abuse.
+- Recent exchange of letters with father addressing this history.
+
+SITUATION:
+- Evaluating progress on personal projects, including developing a website.
+- Spending time on social media instead of working on the project. with ID=7-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.10 - Top results (by metadata similarity):
+  - sim=0.585 | title='Patient "B", Session March 22, 2012: Client talks about her family's chronic arg' | file='1004528619.txt'
+  - sim=0.575 | title='Patient "S" Session March 13, 2012: Client recently had a frustrating conversati' | file='1004522836.txt'
+  - sim=0.568 | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father ' | file='1004472411.txt'
+  - sim=0.565 | title='Patient "Ju", Session April 27, 2012: Client wants to pursue a higher degree but' | file='1004538610.txt'
+  - sim=0.557 | title='Patient "Ma", Session October 15, 2012: Client desperately wants to know what's ' | file='1004798871.txt'
+  - sim=0.554 | title='Patient "C", Therapy Session Audio Recording, April 18, 2012: Client feels much ' | file='1004538638.txt'
+  - sim=0.546 | title='Patient "D" Session April 02, 2012: Client is upset with her biological father's' | file='1004532480.txt'
+  - sim=0.545 | title='Patient "C" Therapy Session Audio Recording, March 27, 2012: Client is frustrate' | file='1004528627.txt'
+  - sim=0.542 | title='Session 3: Client talks about taking care of his ex-wife when she was addicted t' | file='1000094405.txt'
+  - sim=0.541 | title='Verilogue session: Client needs help making some life decisions' | file='1002565909.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=3 partial_match=7
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.554 | file='1004538638.txt' | title='Patient "C", Therapy Session Audio Recording, April 18, 2012: Client feels much '
+  - sim=0.545 | file='1004528627.txt' | title='Patient "C" Therapy Session Audio Recording, March 27, 2012: Client is frustrate'
+  - sim=0.542 | file='1000094405.txt' | title='Session 3: Client talks about taking care of his ex-wife when she was addicted t'
+Using top selected file for transcript: '1004538638.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of working long hours in demanding environments, including past touring work. They have unresolved issues with their father, including reports of past abuse. Recently, they have exchanged letters with their father to address this history. Currently, the patient is evaluating progress on personal projects, such as developing a website, but finds themselves spending time on social media instead of working on the project.
+
+**Cognitive Patterns:**
+The patient may experience cognitive dissonance related to their personal projects. The intention to develop a website suggests a goal-oriented mindset, yet the tendency to spend time on social media indicates potential avoidance behavior. This pattern may stem from perfectionistic thoughts or fear of failure, common in individuals with demanding work histories. The unresolved issues with the father might contribute to self-critical thoughts, impacting the patient's confidence in completing personal projects.
+
+**Emotional Responses:**
+The patient likely experiences a mix of emotions, including anxiety and frustration, when considering their personal projects. The avoidance of work on the website could be a coping mechanism to manage these uncomfortable emotions. The recent exchange of letters with the father might have resurfaced feelings of hurt or anger, which could contribute to emotional dysregulation. The patient may also feel a sense of relief or hope from addressing past issues, but this is likely tempered by the complexity of their emotions regarding the father.
+
+**Behavioral Tendencies:**
+The patient exhibits avoidance behaviors, such as spending time on social media, which may serve as a distraction from the anxiety associated with their projects. This behavior aligns with patterns observed in individuals who struggle with unresolved familial issues, as seen in the transcript. The patient might also procrastinate on tasks that require emotional investment or risk of failure, reflecting a protective mechanism to avoid potential disappointment or criticism.
+
+**Coping Styles:**
+The patient may rely on avoidance and distraction as primary coping strategies. The use of social media suggests a tendency to seek temporary relief from stressors, which can be a common response when dealing with unresolved emotional issues. The recent communication with the father indicates a willingness to confront past issues, suggesting a potential shift towards more adaptive coping strategies, such as seeking resolution and closure.
+
+**Therapeutic Focus:**
+- **Cognitive Restructuring:** Addressing maladaptive thought patterns related to self-worth and fear of failure. Encouraging the patient to challenge and reframe negative thoughts about their abilities and potential outcomes.
+- **Emotional Regulation:** Developing skills to manage and process complex emotions stemming from unresolved familial issues. Techniques such as mindfulness and emotional labeling may be beneficial.
+- **Behavioral Activation:** Encouraging the patient to engage in small, manageable tasks related to their personal projects to build confidence and reduce avoidance behaviors.
+- **Communication Skills:** Supporting the patient in maintaining open and constructive communication with their father, focusing on setting boundaries and expressing needs effectively.
+
+**Conclusion:**
+The patient's history of demanding work environments and unresolved familial issues likely contribute to their current cognitive and emotional challenges. By addressing these patterns through targeted cognitive-behavioral interventions, the patient can develop more adaptive coping strategies and make progress on their personal projects.
+Summary da mistral_.csv: The client described a family business where they used to work and their recent experience with their uncle questioning why they no longer work there. The client felt better mentally and physically since leaving the job, but was conflicted about how to approach their family about ending their involvement. They also criticized their cousin's unprofessional behavior on social media towards an employee. The client expressed concern for their aging uncle and aunt, who should not be working long hours due to their age, and felt they were being groomed to take over the business but no longer wanted to be involved. They described a Facebook incident where they were criticized for defending the business online and felt their family members prioritized keeping the business owners happy over supporting them. The client speculated that if the business were to face significant challenges, their family members would not support them. They discussed the control the three brothers held over the business and how eliminating their influence could lead to their departure.
+The client expresses their desire to end their business relationship with their family members who run a restaurant, as they feel emotionally drained and unable to give any more to the business due to past conflicts and mistreatment. They have considered going back to work there due to financial needs but have decided against it, as they believe their family members will revert to their old ways and they don't want to give them the satisfaction of thinking they've helped. The client also discusses their plans to start a home inspection business with their father and brother, as they want to carry on their family's legacy and gain practical skills for maintaining a home. They plan to continue working in guidance counseling as well. The session had to be ended for the day.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of working long hours in demanding environments, including touring work, which may have fostered perfectionistic or high self-expectations. There are unresolved issues with their father, including a history of reported abuse, which have recently been addressed through an exchange of letters. This recent communication may have resurfaced complex emotions such as hurt or anger, and could be impacting the client's current self-critical thoughts and confidence in personal projects.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't do my personal projects perfectly, it means I'm not good enough and others will see me as a failure. I must avoid making mistakes or I'll confirm what I fear about myself. If I can't meet my own expectations, it's safer to distract myself than risk failing.",
+  "intermediate_belief_depression": "If I can't even make progress on something important to me, it proves I'm hopeless and nothing will ever change. Trying and failing would just confirm that I'm not capable, so why bother?",
+  "coping_strategies": [
+    "The client tends to avoid working on personal projects by spending time on social media, using distraction to manage anxiety and self-critical thoughts. This avoidance provides temporary relief but maintains the cycle of procrastination and self-doubt. There is some evidence of seeking resolution through communication (e.g., writing to their father), but avoidance remains the primary coping pattern for project-related stress."
+  ],
+  "situation": "Evaluating progress on personal projects, including developing a website. Spending time on social media instead of working on the project.",
+  "auto_thought": "I'm wasting time again instead of working on my website. If I can't even do this, maybe I'm just not capable of finishing anything.",
+  "emotion": [
+    "anxious",
+    "frustrated",
+    "ashamed",
+    "disappointed",
+    "self-critical"
+  ],
+  "behavior": "I check social media instead of working on my website. I avoid opening the project files and tell myself I'll start later."
+}

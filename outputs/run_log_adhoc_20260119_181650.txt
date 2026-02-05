@@ -1,0 +1,88 @@
+Using description: HISTORY:
+- PhD student in a science field.
+- Deep involvement in music; previously led a college band and currently participates in a jazz group.
+- Offered a leadership position in the jazz group and declined.
+- Reports mental health struggles.
+- Feels disconnected from colleagues in the scientific work environment due to differing values and work habits.
+
+SITUATION:
+- Offered a leadership position in the jazz group and decided not to accept it due to concern about managing responsibilities alongside PhD work and mental health. with ID=12-2
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.499 | title='Verilogue session: Client is experiencing stress in the workplace' | file='1001084028.txt'
+  - sim=0.479 | title='Session 2: Client discusses her relationships with the men she works with. She t' | file='1000094532.txt'
+  - sim=0.472 | title='Patient "Ju", Session March 05, 2012: Client is anxious about her job security. ' | file='1004513644.txt'
+  - sim=0.464 | title='Verilogue session: Client has more anxiety than usual due to moving house recent' | file='1003009286.txt'
+  - sim=0.463 | title='Verilogue session: Client was recently assaulted and he quit his job after an in' | file='1001083937.txt'
+  - sim=0.461 | title='Patient "R", Session October 04, 2012: Client has a legitimate fear of fainting;' | file='1004798819.txt'
+  - sim=0.458 | title='Session 14: Client tells therapist how his mistrust of his wife has decreased so' | file='1000088082.txt'
+  - sim=0.455 | title='Session 18: Client has commitment issues with women, this leads him to wonder if' | file='1000016558.txt'
+  - sim=0.453 | title='Verilogue session: Client is having problems with his superiors at work. His moo' | file='1003009283.txt'
+  - sim=0.453 | title='Verilogue session: Client talks about the types of careers he is most interested' | file='1003075037.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=7 partial_match=3
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.499 | file='1001084028.txt' | title='Verilogue session: Client is experiencing stress in the workplace'
+  - sim=0.464 | file='1003009286.txt' | title='Verilogue session: Client has more anxiety than usual due to moving house recent'
+  - sim=0.463 | file='1001083937.txt' | title='Verilogue session: Client was recently assaulted and he quit his job after an in'
+Using top selected file for transcript: '1001084028.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient is a PhD student in a science field who has a deep involvement in music, having previously led a college band and currently participating in a jazz group. Despite being offered a leadership position in the jazz group, the patient declined the opportunity. The patient reports mental health struggles and feels disconnected from colleagues in the scientific work environment due to differing values and work habits.
+
+**Current Situation:**
+The patient was offered a leadership position in the jazz group but decided not to accept it. The decision was influenced by concerns about managing responsibilities alongside PhD work and mental health.
+
+**Emotional Experience:**
+The patient likely experiences a mix of emotions, including anxiety and stress, related to balancing academic responsibilities and personal interests. The decision to decline the leadership role in the jazz group suggests feelings of overwhelm and concern about exacerbating mental health struggles. The patient may also feel a sense of disappointment or regret for not being able to pursue a leadership role in an area of personal passion.
+
+**Cognitive Patterns:**
+The patient appears to engage in cautious and pragmatic thinking, as evidenced by the decision to decline the leadership position due to concerns about workload and mental health. This suggests a cognitive style that prioritizes stability and self-preservation over taking on additional challenges. The feeling of disconnection from colleagues may lead to thoughts of isolation or not fitting in, potentially reinforcing a belief of being misunderstood or undervalued in the scientific community.
+
+**Behavioral Responses:**
+The patient demonstrates avoidance behavior by declining the leadership position, possibly as a way to manage stress and prevent further mental health deterioration. This decision reflects a coping strategy aimed at reducing potential sources of anxiety and maintaining focus on current responsibilities. The patient may also withdraw from social interactions with colleagues, contributing to feelings of disconnection.
+
+**Coping Styles:**
+The patient employs a coping style that involves careful consideration of personal limits and prioritizing mental health. This is evident in the decision to decline additional responsibilities. The patient may also engage in music as a form of emotional expression and stress relief, although the decision to not take on a leadership role suggests a need to balance this interest with other commitments.
+
+**Interpretation Using Transcript Patterns:**
+The transcript provides insight into common psychological patterns such as stress from managing multiple responsibilities and the impact of interpersonal dynamics on mental health. The patient's decision-making process and feelings of disconnection may be supported by similar patterns of stress and interpersonal challenges seen in the transcript, where individuals manage complex situations and relationships.
+
+**Conclusion:**
+The patient is navigating the challenges of balancing academic responsibilities with personal interests and mental health. The decision to decline a leadership role in the jazz group reflects a cautious approach to managing stress and maintaining mental well-being. Feelings of disconnection from colleagues may contribute to a sense of isolation, highlighting the importance of finding supportive environments and relationships that align with the patient's values and work habits.
+Summary da mistral_.csv: The patient described a stressful vacation experience involving a malfunctioning mini van and their partner's aggressive driving. They discussed their partner's denial about her driving habits and the potential danger it poses to their family. The patient also mentioned their partner's upcoming work trip and their own work-related pressures, including a project that has been ongoing for an extended period and a new project with uncertain prospects. The patient expressed frustration with the lack of progress on the new project and the potential for downsizing if it doesn't materialize. They also mentioned a past failed project in a different location and the financial losses associated with it.
+The patient describes a situation where a research facility made contractual agreements with various companies and individuals, promising continued funding for a certain period. When the funding was unexpectedly cancelled, many people were left without jobs and had to work for free until they could find new employment. The patient, who is a researcher at the facility, managed to find a job within the organization but is considering leaving due to a lack of motivation and opportunities for advancement. The patient discusses the possibility of retiring early from their current position, but notes that leaving before a certain age would mean losing some retirement benefits. The patient also mentions the complex organizational structure of the research facility, which is operated by a conglomeration of universities and has undergone reorganizations in the past. The patient reflects on past experiences of being passed over for promotions and being moved to less desirable positions, and expresses frustration with a colleague who was favored despite lacking qualifications. The patient also
+In this therapy session, the patient discussed feeling overwhelmed with work and personal responsibilities, leading to increased anxiety and difficulty sleeping. They mentioned experiencing intrusive thoughts and difficulty focusing, which they attributed to stress. The therapist acknowledged the patient's feelings and encouraged them to explore coping mechanisms for managing stress. The patient expressed a desire to prioritize self-care and set boundaries in their personal and professional life.
+
+ REFINED CCD: description + report
+{
+  "history": "The client is a PhD student in a science field who has a deep involvement in music, having previously led a college band and currently participating in a jazz group. They were offered a leadership position in the jazz group but declined, citing concerns about managing responsibilities alongside PhD work and mental health. The client reports ongoing mental health struggles and feels disconnected from colleagues in the scientific work environment due to differing values and work habits.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I take on too much, I will become overwhelmed and my mental health will suffer. If I can't keep up with everything, it means I'm not capable enough. It's safer to avoid extra responsibilities to protect myself.",
+  "intermediate_belief_depression": "If I can't manage both my passions and my work, maybe I'm just not cut out for either. If I keep disappointing myself, things won't get better.",
+  "coping_strategies": [
+    "The client avoids taking on additional responsibilities, such as declining the leadership position in the jazz group, to prevent feeling overwhelmed. They also withdraw from situations or roles that might increase stress, and may limit social engagement with colleagues to manage feelings of disconnection."
+  ],
+  "situation": "Offered a leadership position in the jazz group and decided not to accept it due to concern about managing responsibilities alongside PhD work and mental health.",
+  "auto_thought": "If I take this leadership role, I'll get overwhelmed and won't be able to handle everything. I'll end up letting people down or making things worse for myself.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "disappointed",
+    "regretful",
+    "worried"
+  ],
+  "behavior": "Declined the leadership position in the jazz group. Avoided discussing the opportunity further. Focused on current academic responsibilities instead."
+}

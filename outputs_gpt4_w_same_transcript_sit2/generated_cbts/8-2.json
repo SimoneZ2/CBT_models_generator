@@ -1,0 +1,30 @@
+{
+  "name": "Patient X",
+  "id": "12345",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Past traumatic incident involving sexual assault by partner Ivan. Ongoing relationship difficulties involving trust and intimacy. Reports some improvement in relationship dynamics with Ivan making efforts to rebuild trust.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let my guard down, I will be hurt again.",
+  "intermediate_belief_depression": "I can't trust anyone to care for me.",
+  "coping_strategies": "Avoidance of intimacy and emotional withdrawal.",
+  "situation": "Ivan touches the patient in a way that reminds her of the past assault.",
+  "auto_thought": "I can't believe this is happening again. I need to protect myself.",
+  "emotion": [
+    "Fear",
+    "Anxiety"
+  ],
+  "behavior": "Withdrawal and avoidance of physical contact.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

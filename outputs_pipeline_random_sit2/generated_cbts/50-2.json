@@ -1,0 +1,29 @@
+{
+  "history": "The client has maintained a close friendship with Ethan for about 14 years, marked by mutual support during personal crises and professional collaborations. The recent discovery that Ethan has been abusive toward his girlfriend has created significant internal conflict. The client is now struggling with how to address Ethan directly, indicating a disruption in their previously stable relationship and a challenge to their trust and perception of Ethan.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I confront Ethan about his behavior, I might lose the friendship or make things worse. If I avoid the situation, maybe the discomfort will go away. It's safer to avoid conflict than to risk damaging important relationships.",
+  "intermediate_belief_depression": "",
+  "coping_strategies": [
+    "The client avoids directly contacting Ethan, likely to manage anxiety and discomfort about confrontation. They may ruminate and seek reassurance from others instead of addressing the issue head-on. This avoidance provides short-term relief but prolongs emotional distress."
+  ],
+  "situation": "Struggling to contact Ethan directly.",
+  "auto_thought": "If I reach out to Ethan, it could ruin everything between us. I don't know if I can handle what might happen.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "sad",
+    "confused",
+    "betrayed"
+  ],
+  "behavior": "I hesitate and put off contacting Ethan. I avoid making a decision and distract myself with other things. I might talk to others about the situation instead of addressing it directly.",
+  "source_text_id": "1000017872.txt"
+}

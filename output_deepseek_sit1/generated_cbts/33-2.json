@@ -1,0 +1,29 @@
+{
+  "name": "Patient 33",
+  "id": "33",
+  "type": [
+    "relationship complexity",
+    "emotional entanglement"
+  ],
+  "history": "Involved in complex romantic situation with Cleo, who is in long-distance relationship while engaging with patient.",
+  "helpless_belief": [
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I'm just a placeholder until Cleo's real relationship works out.",
+  "intermediate_belief_depression": "I'm not important enough for Cleo to choose me over someone else.",
+  "coping_strategies": [
+    "Emotional support provision, accepting ambiguous relationship status."
+  ],
+  "situation": "During outing, Cleo discussed relationship problems and sought emotional support.",
+  "auto_thought": "I'm just her emotional support, not a real romantic option.",
+  "emotion": [
+    "resentment",
+    "sadness",
+    "used"
+  ],
+  "behavior": "Provide emotional support to Cleo about her other relationship."
+}

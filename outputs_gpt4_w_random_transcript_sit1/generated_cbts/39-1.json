@@ -1,0 +1,29 @@
+{
+  "name": "Patient X",
+  "id": "WF090238",
+  "type": [
+    "CBT"
+  ],
+  "history": "Recurrent stomachaches and physical symptoms associated with anxiety and stress. Past difficulties involving weight management, sexuality, and academic performance. Reports a transformation during college. Reports seeking control in relationships.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must be perfect to be accepted.",
+  "intermediate_belief_depression": "If I am not perfect, I will be rejected and alone.",
+  "coping_strategies": "Attempts to control situations and relationships to avoid feelings of inadequacy.",
+  "situation": "Experiencing ongoing stomach issues and seeking reassurance about recovery.",
+  "auto_thought": "I am left out and not good enough.",
+  "emotion": [
+    "Jealousy",
+    "Inadequacy",
+    "Anxiety"
+  ],
+  "behavior": "Overcompensating by trying to control situations and seeking reassurance."
+}

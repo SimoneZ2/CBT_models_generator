@@ -1,0 +1,32 @@
+{
+  "history": "The client has a longstanding pattern of academic underperformance despite being described as intelligent, which has contributed to feelings of inadequacy. He attended college but felt isolated and eventually dropped out, leaving two years of credits unfinished. His mother had high expectations, and there is ongoing tension and pressure from her to return home due to financial difficulties. The client experiences persistent auditory hallucinations and paranoia, which have impacted his functioning and self-esteem. He reports that medications have only partially helped, and he sometimes feels down upon waking, suggesting depressive symptoms. He relies on his nephew for some financial stability.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I ask my parents for financial help and they bring up my college dropout, it means I have failed and can't take care of myself. If I don't meet my mother's expectations, I am letting everyone down. I must avoid situations where my shortcomings are exposed, or I will feel even more inadequate.",
+  "intermediate_belief_depression": "If I can't succeed on my own and have to rely on my parents, it proves that I'm hopeless and things will never get better. If my efforts don't lead to improvement, there's no point in trying.",
+  "coping_strategies": [
+    "The client relies heavily on medication to manage distress, even though he reports only partial relief. He tends to withdraw and avoid situations that highlight his perceived failures, such as discussing his academic history. He seeks support from his nephew for practical matters but avoids deeper emotional conversations with family."
+  ],
+  "situation": "Seeking financial help from parents. Recent family conversation included discussion of the college dropout experience.",
+  "auto_thought": "I'm asking for money again because I couldn't finish college. They're going to think I'm a failure and can't handle my life.",
+  "emotion": [
+    "ashamed",
+    "anxious",
+    "embarrassed",
+    "down",
+    "guilty"
+  ],
+  "behavior": "He hesitates before asking for help, avoids eye contact, and minimizes conversation about his college experience. He may withdraw after the conversation or ruminate about what his family thinks of him."
+}

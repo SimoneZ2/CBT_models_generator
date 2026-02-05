@@ -1,0 +1,27 @@
+{
+  "name": "Patient 20",
+  "id": "20",
+  "type": [
+    "workplace conflict",
+    "self-blame"
+  ],
+  "history": "Multiple past jobs involved micromanagement. Reports self-blame in work contexts.",
+  "helpless_belief": [
+    "I am incompetent"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "When things go wrong at work, it's probably my fault.",
+  "intermediate_belief_depression": "I'm fundamentally error-prone and unreliable.",
+  "coping_strategies": [
+    "Accepting blame, internalizing criticism."
+  ],
+  "situation": "Being blamed at work for spreadsheet errors that were not theirs.",
+  "auto_thought": "They're blaming me, so I must have done something wrong.",
+  "emotion": [
+    "shame",
+    "anxiety",
+    "injustice"
+  ],
+  "behavior": "Accept blame for errors despite not being responsible."
+}

@@ -1,0 +1,26 @@
+{
+  "name": "John Doe",
+  "id": "12345",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recurrent dreams during graduate school about being unprepared for a thesis defense. Father described as having high expectations.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must always be prepared and meet expectations to avoid failure.",
+  "intermediate_belief_depression": "If I am not prepared, I will fail and be judged negatively.",
+  "coping_strategies": "Overthinking and worrying excessively about tasks and social interactions.",
+  "situation": "Experiencing a recurring dream in which coworkers talk negatively about the individual.",
+  "auto_thought": "Why am I feeling wound up? Why is all this worrying me? Why can't I relax?",
+  "emotion": [
+    "Anxiety",
+    "Frustration",
+    "Tension"
+  ],
+  "behavior": "Avoidance of situations that might lead to failure or judgment."
+}

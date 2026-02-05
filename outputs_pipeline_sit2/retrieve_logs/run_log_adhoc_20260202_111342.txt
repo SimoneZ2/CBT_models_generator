@@ -1,0 +1,89 @@
+Using description: HISTORY:
+- PhD candidate engaged in scientific research.
+- References to a sequencing-related study and a colleague named Kelly.
+- Collaborated on a project with a senior scientist who has struggled to gain recognition in their career.
+- Reports difficulty completing projects.
+
+SITUATION:
+- Working on a PhD project and concerned about its progress. with ID=3-1
+Sample results (metadata similarity):
+  - sim=0.065 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.102 | title='Verilogue session: Client is having problems staying asleep; she spends too much' | file='1003075017.txt'
+  - sim=0.106 | title='Series 1, Session 7: Client is trying to be constructive with her emotions. She ' | file='1002995961.txt'
+  - sim=0.109 | title='Verilogue session: Client's insomnia seems to be causing mood swings' | file='1001280398.txt'
+  - sim=0.111 | title='Verilogue session: Client seems to be having only a partial response to his medi' | file='1003075061.txt'
+  - sim=0.113 | title='Verilogue session: Client's wife is having problems regulating her prescription ' | file='1002565885.txt'
+  - sim=0.115 | title='Adlerian Therapy: This transcript is an initial therapy session with James Bitte' | file='1000850011.txt'
+  - sim=0.120 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.126 | title='Patient "B", Session November 12, 2012: Client talks about feeling guilty for tr' | file='1004824659.txt'
+  - sim=0.126 | title='Verilogue session: Client has been feeling great' | file='1002565869.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=29 partial_match=1992
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.106 | file='1002995961.txt' | title='Series 1, Session 7: Client is trying to be constructive with her emotions. She '
+  - sim=0.204 | file='1000126011.txt' | title='Session 6: Client is confused as to what causes her depression. She becomes very'
+  - sim=0.207 | file='1002995957.txt' | title='Series 1, Session 1: Client has very low self-esteem and appears depressed. She '
+Using LEAST related file for transcript: '1002995961.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report: CBT Case Formulation**
+
+**Patient Overview:**
+The patient is a PhD candidate engaged in scientific research, currently experiencing concerns about the progress of their PhD project. They have collaborated with a senior scientist who has faced challenges in gaining recognition, and they report difficulty in completing projects.
+
+**Emotional Reactions:**
+The patient exhibits a range of emotional responses, including feelings of anxiety and worry about their project's progress. They express a sense of being overwhelmed, which manifests in physical sensations such as heavy breathing. The patient also experiences moments of self-doubt and feelings of worthlessness, although there is a noted improvement in their self-perception over recent weeks. They describe a shift towards a more balanced and realistic self-view, acknowledging imperfections without harsh self-criticism.
+
+**Cognitive Patterns:**
+The patient demonstrates a tendency towards idealistic and perfectionistic thinking, which contributes to their stress and anxiety. They recognize the irrational nature of some of their negative thoughts and are working on challenging these cognitive distortions. The patient is developing an awareness of the connection between their thoughts, emotions, and physical sensations, and they are actively working to break the cycle of negative thinking by focusing on rational thoughts and physical grounding techniques.
+
+**Behavioral Responses:**
+The patient engages in avoidance behaviors when feeling overwhelmed, such as withdrawing from tasks or situations. They also utilize physical activities, like running, to manage their emotional state and shift their mindset. The patient is learning to implement constructive coping strategies, such as taking cold showers or using humor to reduce the seriousness of their thoughts. They are also practicing not engaging in conversations when in a heightened emotional state to prevent unproductive interactions.
+
+**Coping Strategies:**
+The patient is employing several coping mechanisms to manage their emotional and cognitive challenges. They use physical grounding techniques, such as splashing water on their face and focusing on physical sensations, to regain control during moments of anxiety. The patient is also working on cognitive restructuring, challenging irrational beliefs, and reinforcing more balanced self-assessments. They express a desire to find constructive ways to bring attention to their emotional state without resorting to negative behaviors.
+
+**Progress and Outlook:**
+The patient reports significant progress in their emotional regulation and cognitive restructuring efforts. They express a sense of empowerment and increased self-awareness, recognizing the importance of accepting imperfections. The patient is developing a more realistic and compassionate self-view, which is contributing to a reduction in feelings of worthlessness and an increase in self-acceptance. They are committed to continuing their work on these areas and are optimistic about their ability to manage their emotional and cognitive challenges effectively.
+
+**Conclusion:**
+The patient is making notable strides in addressing their emotional and cognitive difficulties through the application of CBT techniques. Their growing awareness of the interplay between thoughts, emotions, and behaviors is facilitating positive changes in their self-perception and coping strategies. Continued focus on these areas, along with the support of therapeutic interventions, is likely to further enhance their progress and overall well-being.
+Summary da mistral_.csv: In this therapy session, the patient discussed various coping mechanisms for managing panic attacks. They mentioned focusing on physical sensations, such as taking a cold shower or engaging in physical activity, to help regain control and calm down. The patient also acknowledged the connection between emotions and physical sensations, noting that emotional upheaval can manifest physically. They discussed the importance of recognizing and challenging irrational thoughts during a panic attack and the benefits of self-compassion and accepting imperfections. The patient and counselor also touched on the idea that love, like other aspects of life, is not perfect and that it's essential to acknowledge and accept its imperfections. The patient expressed feeling empowered by their progress and the ability to manage panic attacks more effectively.
+The patient discussed a recent situation that triggered negative emotions and a desire to engage in destructive behavior. They acknowledged feeling a sense of control when able to break the cycle of these emotions and behaviors. The patient expressed a desire to find constructive ways to bring themselves to attention instead of reacting in anger. The counselor encouraged the patient to identify and address the root causes of their emotions and behaviors, and to report back on their progress in the following session. The patient expressed gratitude for the counseling sessions and their positive impact on their emotions.
+
+REFINED CCD: description + report
+{
+  "history": "The client is a PhD candidate engaged in scientific research, referencing a sequencing-related study and a colleague named Kelly. They have collaborated with a senior scientist who has struggled to gain recognition, which may have influenced the client's own perceptions of achievement and recognition. The client reports difficulty completing projects, suggesting a pattern of struggling with task completion and possibly internalized standards of success. There is evidence of perfectionistic and idealistic thinking, as well as a history of self-doubt and feelings of worthlessness, though the client is beginning to develop a more balanced self-view.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't make significant progress on my PhD project or if my work isn't recognized, it means I'm not competent and I will fail. I must always meet high standards, otherwise others will see me as incapable. If I struggle to complete projects, it confirms that I'm not cut out for this field.",
+  "intermediate_belief_depression": "If I keep falling behind or can't finish my project, there's no point in trying because I'll never succeed. My efforts are worthless if I can't meet expectations, so I might as well give up.",
+  "coping_strategies": [
+    "When overwhelmed, the client withdraws from tasks and avoids situations related to their project. They use physical activities like running, cold showers, and grounding techniques to manage anxiety. The client also tries to challenge negative thoughts and sometimes uses humor or refrains from engaging in conversations when emotionally heightened."
+  ],
+  "situation": "Working on a PhD project and concerned about its progress.",
+  "auto_thought": "I'm falling behind on my project and everyone will see that I'm not capable. If I don't get this right, I'll fail and all my work will be for nothing.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "worried",
+    "self-doubt",
+    "worthless"
+  ],
+  "behavior": "I avoid working on the project and withdraw from related tasks. I distract myself with physical activities like running or taking cold showers. Sometimes I don't talk to others about my concerns to avoid feeling exposed."
+}

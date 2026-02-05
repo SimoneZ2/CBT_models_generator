@@ -1,0 +1,1459 @@
+[
+  {
+    "history": "The client has a history of substance abuse and has completed rehabilitation, indicating both vulnerability and resilience. He reports ongoing family difficulties, especially with his mother, characterized by rejection and emotional neglect. He has struggled with obesity since childhood and has experienced bullying related to his weight. These experiences likely contribute to feelings of shame, low self-worth, and difficulties with assertiveness and boundary-setting.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I make a mistake or let people down, it means I am a failure and others will reject me. I must not show weakness or inadequacy, or people will see me as unworthy. If I don't meet expectations, I will confirm what others already think about me.",
+    "intermediate_belief_depression": "If I keep failing or disappointing others, there is no hope for me to ever be accepted or valued.",
+    "coping_strategies": [
+      "He tends to avoid situations that trigger anxiety or self-doubt, such as withdrawing or procrastinating after perceived failures. He may ruminate on past negative experiences and seek reassurance, but struggles to assert his needs due to fear of rejection. These strategies provide temporary relief but reinforce feelings of inadequacy and dependency."
+    ],
+    "situation": "Missed an alarm and woke up late for work.",
+    "auto_thought": "I can't even get up on time—I'm such a screw-up. Everyone at work will think I'm unreliable and useless.",
+    "emotion": [
+      "anxious",
+      "ashamed",
+      "disappointed",
+      "frustrated",
+      "guilty"
+    ],
+    "behavior": "He hesitates before getting out of bed, ruminates about what his coworkers will think, and considers calling in sick or making excuses. He may avoid checking his phone or contacting his workplace immediately.",
+    "source_text_id": "1004687628.txt",
+    "id": "1-2"
+  },
+  {
+    "history": "The patient has recently experienced family tension after a conversation with their parents about a wedding list. They have become aware of similarities between their own approval-seeking behaviors and those of their father, who is described as persistently seeking approval and unconditional love from family members. Observing their father's ongoing pursuit of approval from his sister has prompted the patient to reflect on their own patterns and emotional responses.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I don't get approval from my family, it means I am not good enough. I must avoid disappointing them or I will feel rejected. Seeking their reassurance is necessary to feel secure.",
+    "intermediate_belief_depression": "If I keep repeating these patterns and never get approval, I will always feel inadequate and disconnected.",
+    "coping_strategies": [
+      "The patient seeks reassurance or approval from family members, sometimes modifying their actions to align with family expectations. They may also withdraw or avoid situations that could lead to further tension, attempting to manage anxiety but potentially reinforcing the cycle."
+    ],
+    "situation": "Observing the father's ongoing pursuit of approval from his sister.",
+    "auto_thought": "I'm just like my father—I can't stop needing their approval. If I don't get it, I'll never feel accepted.",
+    "emotion": [
+      "anxious",
+      "self-doubt",
+      "frustrated",
+      "insecure",
+      "overwhelmed"
+    ],
+    "behavior": "I watch my father's interactions closely and compare them to my own. I try to act in ways that will please my family or avoid bringing up topics that might cause tension.",
+    "source_text_id": "1000396344.txt",
+    "id": "2-2"
+  },
+  {
+    "history": "The client is a PhD candidate engaged in scientific research, working on a sequencing-related study and collaborating with a colleague named Kelly. They are also involved in a project with a senior scientist who has struggled to gain recognition. The client is in an environment where achievement and productivity are highly valued, and there is a strong culture of comparison among peers. The client is exposed to colleagues who work longer hours and publish more, which may reinforce internalized standards of success and self-worth.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I don't work as hard or publish as much as my colleagues, then I am falling behind and will not succeed. I must always push myself to match or exceed others' achievements. My worth is measured by my productivity and recognition.",
+    "intermediate_belief_depression": "If I can't keep up with my colleagues, then I will never be successful and there's no point in trying.",
+    "coping_strategies": [
+      "The client tends to overwork, pushing themselves to work longer hours even when exhausted. They may procrastinate on tasks due to fear of not meeting high standards, and sometimes seek reassurance from peers or mentors like Kelly. These strategies temporarily reduce anxiety but reinforce the cycle of self-comparison and pressure."
+    ],
+    "situation": "Comparing themselves to colleagues who work longer hours and publish more papers.",
+    "auto_thought": "I'm not doing enough compared to them. If I don't catch up, I'll fall behind and fail.",
+    "emotion": [
+      "anxious",
+      "stressed",
+      "inadequate",
+      "guilty",
+      "disappointed"
+    ],
+    "behavior": "I stay late in the lab, working extra hours even when I'm tired. I check my colleagues' progress and publications online. Sometimes I avoid starting new tasks because I'm afraid I won't do them well enough.",
+    "source_text_id": "1000094808.txt",
+    "id": "3-2"
+  },
+  {
+    "history": "The client recently underwent shoulder surgery and is experiencing a painful recovery, with ongoing pain, numbness, and tingling from a herniated cervical disc. They have a history of physical therapy for walking difficulties and back issues, as well as a past prolonged illness that led to immobility. The return of physical symptoms coincided with starting a new relationship. These experiences have contributed to heightened vigilance about physical health and a tendency to ruminate on symptoms.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [
+      "I am worthless, waste"
+    ],
+    "intermediate_belief": "If I can't keep up with others because of my pain, they'll see me as weak or burdensome. If I try to act normal but my symptoms show, people will judge me or feel sorry for me. I must hide my struggles to be accepted.",
+    "intermediate_belief_depression": "If my pain keeps coming back no matter what I do, there's no point in trying to enjoy things or connect with others.",
+    "coping_strategies": [
+      "The client pushes themselves to attend social events despite pain, seeking normalcy and connection. They may avoid certain physical activities or withdraw from more demanding engagements to prevent symptom flare-ups. They sometimes seek reassurance from loved ones or medical professionals when symptoms worsen."
+    ],
+    "situation": "Attending a Halloween party while in persistent pain.",
+    "auto_thought": "Everyone will notice I'm struggling and think I'm weak. I can't keep up, and I'll ruin the fun for others.",
+    "emotion": [
+      "anxious",
+      "self-conscious",
+      "frustrated",
+      "vulnerable",
+      "worried"
+    ],
+    "behavior": "Tries to hide signs of pain and act normal. Avoids more physically demanding activities at the party. Seeks reassurance from a close friend or partner about how they appear.",
+    "source_text_id": "1003075023.txt",
+    "id": "4-2"
+  },
+  {
+    "history": "The client has a history of working overseas and creating a website related to that experience. He frequently starts new projects with enthusiasm but tends to abandon them when difficulties arise, indicating a pattern of avoidance and possible fear of failure. There are significant family-related difficulties, particularly with his father, which he has attempted to address through a forgiveness process by writing a personal letter. While this shows a willingness to process emotional pain, there may still be unresolved feelings that contribute to ongoing rumination and self-doubt.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "If I encounter difficulties, it means I'm not capable and should give up before I fail. If I can't maintain success, others will see me as inadequate. I must avoid situations where I might not succeed to protect myself from disappointment.",
+    "intermediate_belief_depression": "If I can't live up to my past achievements, it means I'm failing and there's no point in trying.",
+    "coping_strategies": [
+      "When faced with challenges, the client tends to avoid or abandon projects, leading to procrastination and withdrawal. He sometimes seeks reassurance by reflecting on past achievements to counter feelings of inadequacy. He has also engaged in adaptive coping, such as writing a forgiveness letter, but struggles to maintain these constructive behaviors."
+    ],
+    "situation": "Reflecting on past achievements alongside current challenges.",
+    "auto_thought": "I used to accomplish so much, but now I can't handle these problems. Maybe I'm just not capable anymore.",
+    "emotion": [
+      "disappointed",
+      "self-doubt",
+      "sad",
+      "frustrated",
+      "anxious"
+    ],
+    "behavior": "He dwells on past successes and compares them to his current struggles. He avoids working on current projects and procrastinates instead of facing the challenges directly.",
+    "source_text_id": "1002565868.txt",
+    "id": "5-2"
+  },
+  {
+    "history": "The client is a 28-year-old student who recently returned from Egypt and is now managing bills, finances, and health insurance independently for the first time, after previously relying on parents for support. The client's brother remains financially dependent on their parents. This transition to independence is a significant life change and may contribute to feelings of uncertainty and self-doubt, as suggested by the report's emphasis on worry and stress related to new responsibilities.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "If I make a mistake with my finances, it means I can't handle being independent. If something unexpected happens with money, it proves I'm not ready for adult responsibilities. I must not make errors, or it shows I'm inadequate.",
+    "intermediate_belief_depression": "If I keep struggling with these responsibilities, I'll never be able to take care of myself and things will just get worse.",
+    "coping_strategies": [
+      "The client tends to avoid dealing with financial tasks when feeling overwhelmed or uncertain, as indicated by possible procrastination and avoidance behaviors. They may also seek reassurance from parents or others when faced with difficult financial decisions, which maintains their anxiety and self-doubt."
+    ],
+    "situation": "Received an insurance claim with an unexpected balance.",
+    "auto_thought": "I don't know how to handle this. If I mess this up, it will prove I can't manage on my own.",
+    "emotion": [
+      "anxious",
+      "worried",
+      "stressed",
+      "self-doubt",
+      "tense"
+    ],
+    "behavior": "I put off looking at the insurance paperwork. I consider calling my parents to ask what to do. I avoid making a decision about how to pay the balance.",
+    "source_text_id": "1003075042.txt",
+    "id": "6-2"
+  },
+  {
+    "history": "The client has a longstanding pattern of working long hours in demanding environments, including touring work, which has likely contributed to chronic stress and limited time for self-care. There are unresolved issues with their father, including reports of past abuse, which have shaped their emotional and cognitive responses. Recently, the client initiated an exchange of letters with their father to address these issues, suggesting a shift towards confronting rather than avoiding past pain. The client is now reflecting on how to use idle time for personal development, indicating a possible transition from avoidance to growth-oriented thinking.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "If I stop working and focus on myself, I might be overwhelmed by negative feelings or memories. If I try to develop myself, I risk confronting painful truths about my past. I must keep busy to avoid uncomfortable emotions.",
+    "intermediate_belief_depression": "If I try to improve myself, it won't make a difference because my past defines me.",
+    "coping_strategies": [
+      "The client tends to cope by overworking and staying busy, which distracts from emotional pain and unresolved issues. There is a pattern of avoiding distressing topics or emotions, but recent actions suggest a tentative move towards confronting and processing these issues. Reflection on personal development may be both a new adaptive strategy and a source of uncertainty or self-doubt."
+    ],
+    "situation": "Reflecting on how to use idle time and focus on personal development.",
+    "auto_thought": "If I stop and focus on myself, all the things I've been avoiding will come up. I don't know if I can handle what I might find.",
+    "emotion": [
+      "anxious",
+      "uncertain",
+      "overwhelmed",
+      "hopeful",
+      "self-doubting"
+    ],
+    "behavior": "Spends time ruminating about the past and possible future. Hesitates to start new activities or self-improvement tasks. May distract self with minor tasks or avoid deeper reflection.",
+    "source_text_id": "1000370277.txt",
+    "id": "7-2"
+  },
+  {
+    "history": "The client experienced a traumatic sexual assault by her partner Ivan, which has led to ongoing difficulties with trust and intimacy in their relationship. There has been some improvement recently, as Ivan is making efforts to rebuild trust, but reminders of the trauma still trigger strong emotional and cognitive responses. The client is likely to experience intrusive thoughts and heightened vigilance when reminded of the assault, especially through physical touch. This background sets the stage for her current struggles with safety, vulnerability, and connection.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If someone I love hurts me, I can't ever fully trust them again. If I let my guard down, I will get hurt. I have to be on alert to protect myself from being hurt again.",
+    "intermediate_belief_depression": "If I can't feel safe with Ivan, maybe I will never feel safe or happy in a relationship.",
+    "coping_strategies": [
+      "She withdraws from physical intimacy or avoids situations that could remind her of the trauma. She seeks reassurance from Ivan or others to manage her anxiety and regain a sense of safety. She may distract herself or use excuses to avoid confronting distressing emotions or relationship issues directly."
+    ],
+    "situation": "Ivan touches the patient in a way that reminds her of the past assault.",
+    "auto_thought": "This feels just like before—I'm not safe with him. What if he hurts me again?",
+    "emotion": [
+      "anxious",
+      "fearful",
+      "distressed",
+      "vulnerable",
+      "mistrustful"
+    ],
+    "behavior": "She pulls away from Ivan or freezes in the moment. She avoids further physical contact and may withdraw emotionally. She might seek reassurance or distance herself from Ivan afterward.",
+    "source_text_id": "1004522804.txt",
+    "id": "8-2"
+  },
+  {
+    "history": "The patient has a long-standing friendship with Jersey, providing support during multiple surgeries and recovery periods, indicating a pattern of taking on caregiving roles. This supportive tendency may foster fulfillment but also emotional exhaustion, especially if the patient feels unappreciated. The ongoing conflict with roommate Ashby over household cleanliness has persisted despite attempts at communication, suggesting the patient values harmony and responsibility but may feel stuck or powerless when efforts are not reciprocated.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I try to resolve problems and people don't listen, it means my needs aren't important. If I can't get others to change, I must not matter enough. I have to take responsibility for keeping things harmonious, or things will fall apart.",
+    "intermediate_belief_depression": "If nothing I do makes a difference, maybe it's hopeless to try and things will never improve.",
+    "coping_strategies": [
+      "The patient attempts problem-solving and direct communication, but when this fails, they withdraw from interactions with Ashby or avoid the kitchen to minimize frustration. They may also ruminate on the unresolved conflict, leading to emotional fatigue and discouragement."
+    ],
+    "situation": "The kitchen becomes dirty because Ashby does not take out the trash after cooking. The patient has tried to communicate with Ashby about it, but the issue continues.",
+    "auto_thought": "No matter how many times I ask, Ashby just ignores me. I'm the only one who cares about keeping things clean.",
+    "emotion": [
+      "frustrated",
+      "irritated",
+      "helpless",
+      "unappreciated",
+      "resentful"
+    ],
+    "behavior": "I avoid using the kitchen when it's dirty. I stop bringing up the issue with Ashby and keep to myself. I spend time thinking about how unfair the situation is.",
+    "source_text_id": "1002565856.txt",
+    "id": "9-2"
+  },
+  {
+    "history": "The client recently went through a divorce, which has led to significant life changes including financial struggles and the need to adjust to single life. They are co-parenting and have experienced the breakdown of several friendships since the divorce. The client also reports a complicated relationship with their parents. These transitions have left the client with reduced social support and increased emotional distress, as suggested by the report's emphasis on feelings of isolation, loneliness, and frustration related to both friendships and family.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I can't keep my friendships after the divorce, it means there is something wrong with me. If people distance themselves, it must be my fault. I have to keep others happy or they will leave me.",
+    "intermediate_belief_depression": "If I keep losing people, I'll always be alone and things will never get better.",
+    "coping_strategies": [
+      "The client tends to withdraw from social interactions and avoids reaching out for support, as highlighted by the reluctance to ask for help. They may seek reassurance from remaining connections or engage in escapist behaviors like scrolling through social media, but these do not address the underlying issues and may increase feelings of isolation."
+    ],
+    "situation": "Experiencing the breakdown of friendships following the divorce.",
+    "auto_thought": "My friends are leaving me because I'm not good enough. No one wants to be around me now.",
+    "emotion": [
+      "sad",
+      "lonely",
+      "anxious",
+      "rejected",
+      "ashamed"
+    ],
+    "behavior": "I stop reaching out to friends and avoid social situations. I spend more time alone and distract myself with social media instead of talking to anyone about how I feel.",
+    "source_text_id": "1000393745.txt",
+    "id": "10-2"
+  },
+  {
+    "history": "The client has experienced chronic depression and isolation since late adolescence, with longstanding difficulties in forming and maintaining friendships. A recent breakup preceded a depressive relapse, and there have been recent adjustments to SSRI medication. These patterns suggest a history of social disconnection and persistent low mood, with significant life events (such as the breakup) triggering exacerbations.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "If I can't focus or complete my tasks, it means I'm failing and there's no point in trying. If I feel overwhelmed or sad, I should avoid doing things because I'll just mess them up. If I withdraw, at least I won't disappoint myself or others.",
+    "intermediate_belief_depression": "If I can't even do simple things like sewing or work, it proves that I'm hopeless and things will never get better.",
+    "coping_strategies": [
+      "The client withdraws from planned activities and avoids tasks by engaging in passive entertainment like watching television. This avoidance provides temporary relief from distressing thoughts and emotions but reinforces feelings of inadequacy and low motivation."
+    ],
+    "situation": "Planned a weekend for sewing and catching up on work tasks. Was unable to focus on familiar tasks and spent the day watching television.",
+    "auto_thought": "I can't even do the things I planned. I'm just wasting my time and failing again.",
+    "emotion": [
+      "sad",
+      "disappointed",
+      "ashamed",
+      "anxious",
+      "lonely"
+    ],
+    "behavior": "Turned on the television and watched for hours instead of starting sewing or work tasks. Stayed in one place and avoided looking at the unfinished projects.",
+    "source_text_id": "1000016536.txt",
+    "id": "11-2"
+  },
+  {
+    "history": "The client is a PhD student in a science field who has a deep involvement in music, previously leading a college band and currently participating in a jazz group. They were offered a leadership position in the jazz group but declined it. The client reports ongoing mental health struggles and feels disconnected from colleagues in their scientific work environment, citing differing values and work habits. This sense of disconnection and the need to balance multiple roles appear to contribute to their current difficulties.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "If I take on too much, I'll become overwhelmed and my mental health will suffer. If I can't manage all my responsibilities, it means I'm not as capable as others. I have to be careful not to let myself or others down.",
+    "intermediate_belief_depression": "If I can't handle this, maybe I'm just not cut out for either science or music.",
+    "coping_strategies": [
+      "The client avoids taking on additional responsibilities, such as declining the leadership position in the jazz group, to prevent feeling overwhelmed. They also withdraw from social interactions with colleagues due to perceived differences, which may reinforce feelings of isolation."
+    ],
+    "situation": "Offered a leadership position in the jazz group and decided not to accept it due to concern about managing responsibilities alongside PhD work and mental health.",
+    "auto_thought": "If I take this on, I'll get overwhelmed and won't be able to keep up with my PhD or my mental health. I'm not sure I can handle everything without something falling apart.",
+    "emotion": [
+      "anxious",
+      "overwhelmed",
+      "disappointed",
+      "regretful"
+    ],
+    "behavior": "I declined the leadership position. I avoided discussing my concerns with the group and kept my worries to myself.",
+    "source_text_id": "1001083954.txt",
+    "id": "12-2"
+  },
+  {
+    "history": "The client experienced the death of a close aunt, whom they considered a mother figure. They were unable to fulfill the aunt's last request and were not present at her death, which likely intensified feelings of guilt and regret. There is a longstanding pattern of prioritizing others' needs over their own, as seen in their recent choice to support a friend instead of engaging in a personal activity. This self-sacrificing behavior may serve as a coping mechanism to avoid confronting painful emotions related to loss and unmet obligations.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I put my own needs first, I am selfish and will disappoint others. I must always be available to help, or I am failing as a friend or family member. My worth depends on being needed and useful to others.",
+    "intermediate_belief_depression": "If I can't make up for my past mistakes or be there for others, nothing I do matters and I will always feel empty.",
+    "coping_strategies": [
+      "The client habitually puts others' needs before their own, often sacrificing personal enjoyment or self-care. They seek validation and relief from guilt by helping others, which temporarily distracts from their own emotional pain but maintains the cycle of self-neglect."
+    ],
+    "situation": "On the way to watch a movie, received a call from a friend seeking emotional support. Chose to give up the movie and talked with the friend for about an hour.",
+    "auto_thought": "If I don't help my friend right now, I'll let them down just like I let my aunt down. My needs can wait; I can't risk failing someone again.",
+    "emotion": [
+      "guilty",
+      "anxious",
+      "sad",
+      "tense",
+      "self-critical"
+    ],
+    "behavior": "Stopped on the way to the movie and answered the friend's call. Spent about an hour talking with the friend instead of going to the movie. Did not assert own need for personal time.",
+    "source_text_id": "1000399402.txt",
+    "id": "13-2"
+  },
+  {
+    "history": "The client has experienced financial difficulties following questionable investments, which has led to increased reliance on their parents for financial assistance. This reliance appears to evoke feelings of shame and inadequacy, as suggested by the report's mention of embarrassment and negative self-evaluation. The client tends to avoid confronting financial and career issues directly, possibly due to discomfort and fear of failure. There is a pattern of ruminative thinking about past mistakes and a tendency to seek reassurance from family members.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "If I rely on my parents for help, it means I am not successful. If I make another mistake, it will prove I am incapable. I must avoid making decisions unless I am certain I won't fail.",
+    "intermediate_belief_depression": "If I can't become financially independent, there's no hope for my future.",
+    "coping_strategies": [
+      "The client withdraws from social interactions and avoids making concrete career decisions, as noted in the report's reference to procrastination and avoidance. They seek reassurance from family members during discussions about future plans, relying on external validation to manage insecurity."
+    ],
+    "situation": "A discussion with family members about future plans and potential career changes.",
+    "auto_thought": "I'm letting everyone down by not having my life together. They're going to think I'm a failure and can't handle things on my own.",
+    "emotion": [
+      "anxious",
+      "ashamed",
+      "embarrassed",
+      "uncertain",
+      "fearful"
+    ],
+    "behavior": "I avoid sharing my true feelings during the discussion. I hesitate to commit to any career plans and look to my family for reassurance or guidance.",
+    "source_text_id": "1000134006.txt",
+    "id": "14-2"
+  },
+  {
+    "history": "The patient has a history of ongoing workplace difficulties, specifically feeling underappreciated and unsupported. There are repeated experiences where their ideas and suggestions are not accepted by colleagues. This pattern has led to a sense of being undervalued and overlooked, as well as possible feelings of inadequacy and self-doubt. The patient may also experience loneliness or isolation, especially when others are praised in their presence.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If my ideas are not accepted, it means I am not valuable to the team. If others are praised and I am not, I must not be good enough. I have to prove my worth by being helpful, but it never seems to be enough.",
+    "intermediate_belief_depression": "If my contributions are always overlooked, there is no point in trying anymore. Nothing I do will make a difference.",
+    "coping_strategies": [
+      "The patient tends to withdraw from colleagues and avoids sharing new ideas to protect themselves from further rejection. They may ruminate on negative experiences and seek reassurance, but also show reluctance or passive-aggressive behavior when asked to help, especially in situations where they feel excluded."
+    ],
+    "situation": "Colleagues praise a coworker and ask the patient for help with technology issues related to that coworker.",
+    "auto_thought": "They only notice me when they need something. No one values my ideas or contributions.",
+    "emotion": [
+      "hurt",
+      "resentful",
+      "sad",
+      "frustrated",
+      "excluded"
+    ],
+    "behavior": "The patient helps with the technology issue but does so reluctantly, possibly with minimal engagement. They avoid offering any suggestions or ideas and withdraw from further conversation with colleagues.",
+    "source_text_id": "1003722148.txt",
+    "id": "15-2"
+  },
+  {
+    "history": "The client spent about a year working on a project in Europe, building a website and conducting interviews, and feels proud of this accomplishment with a desire to share the results. There is a history of procrastination and anxiety, which the client manages using strategies learned from a course and reminders. The client is currently facing ambiguity about life direction and choices, with many options to consider. The report suggests the client experiences tension between pride in achievements and anxiety about future decisions, and has a tendency to ruminate and feel overwhelmed when faced with uncertainty.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "If I don't make the perfect choice, I'll regret it and others might judge me. I must be certain before committing to a direction. It's risky to act unless I'm sure I'm making the right decision.",
+    "intermediate_belief_depression": "If I can't figure out my direction, maybe I'm just not good enough to succeed at anything.",
+    "coping_strategies": [
+      "The client uses strategies learned from a course and reminders to manage daily life and reduce procrastination. When faced with ambiguity, the client tends to ruminate, delay decisions, and may seek reassurance or avoid committing to a path. These coping strategies provide temporary relief but maintain the cycle of anxiety and indecision."
+    ],
+    "situation": "Facing ambiguity about life direction and choices, with many options to consider.",
+    "auto_thought": "I have so many options and I don't know which one is right. If I choose wrong, I'll mess up my future.",
+    "emotion": [
+      "anxious",
+      "overwhelmed",
+      "uncertain",
+      "worried"
+    ],
+    "behavior": "I put off making a decision and spend a lot of time thinking about all the possibilities. I research options endlessly and sometimes avoid talking about my plans with others.",
+    "source_text_id": "1004798895.txt",
+    "id": "16-2"
+  },
+  {
+    "history": "Sarah is in a long-term relationship with Amelia, who has a demanding professional schedule, leaving Sarah feeling isolated during the week. She takes on most household tasks and experiences resentment, which she does not communicate to Amelia. Her history includes childhood separations from her parents, which were associated with distress. These early experiences may contribute to her current emotional responses and coping style, such as internalizing distress and avoiding conflict.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned",
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I express my resentment or needs, I will cause conflict or be left alone, so it's safer to keep my feelings to myself. If I am the one who keeps things running at home, maybe I will be valued. I must avoid burdening others with my feelings.",
+    "intermediate_belief_depression": "If nothing changes, I will always feel alone and unimportant, no matter what I do.",
+    "coping_strategies": [
+      "Sarah avoids discussing her feelings of resentment with Amelia, using avoidance to prevent conflict or further isolation. She distracts herself with household tasks, which provides temporary relief but reinforces her role as the primary caretaker and maintains her emotional discomfort."
+    ],
+    "situation": "Doing laundry and thinking about the future of the relationship and her domestic role.",
+    "auto_thought": "I'm always the one left alone doing everything. What if this is all my relationship will ever be?",
+    "emotion": [
+      "lonely",
+      "sad",
+      "resentful",
+      "anxious",
+      "helpless"
+    ],
+    "behavior": "She continues doing the laundry in silence. She does not bring up her feelings with Amelia. She ruminates about her role and the future while working.",
+    "source_text_id": "1003009207.txt",
+    "id": "17-2"
+  },
+  {
+    "history": "The client has a pattern of academic underperformance despite being described as intelligent, which has contributed to internal conflict and self-doubt. They experienced significant isolation while attending college, leading to dropping out before completing their degree. The client faces ongoing financial difficulties and feels pressure from their mother, who holds high expectations. Family conversations about dropping out appear to trigger shame and rumination about past decisions.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [
+      "I am worthless, waste"
+    ],
+    "intermediate_belief": "If I ask for help or admit I failed, others will see me as incompetent. I must meet my mother's expectations to be worthy. If I don't succeed academically, I am letting everyone down.",
+    "intermediate_belief_depression": "If I can't fix my situation, there's no hope for me to improve my life.",
+    "coping_strategies": [
+      "The client tends to avoid addressing academic and financial problems directly, often procrastinating or withdrawing. They seek reassurance from family, especially when feeling pressured, and ruminate on past failures, which maintains their distress."
+    ],
+    "situation": "Seeking financial help from parents. Recent family conversation included discussion of the college dropout experience.",
+    "auto_thought": "They're going to think I'm a disappointment again. I can't handle them bringing up how I dropped out.",
+    "emotion": [
+      "ashamed",
+      "anxious",
+      "overwhelmed",
+      "embarrassed",
+      "sad"
+    ],
+    "behavior": "I avoid eye contact and say as little as possible during the conversation. I withdraw from the discussion and later replay it in my mind, feeling worse.",
+    "source_text_id": "1000133940.txt",
+    "id": "18-2"
+  },
+  {
+    "history": "Rachel has a history of recurring relationship problems with her husband Ivan and ongoing work-related stress. She was recently laid off and is actively seeking new employment. Her father's successful career and strong work ethic have influenced her expectations of herself, contributing to high personal standards and self-criticism. Her sister Emma often takes a caring role, which may provide support but also leads to feelings of dependency or guilt. These factors contribute to Rachel's current difficulties in managing stress and self-worth.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "If I don't succeed in my career, then I am failing as a person. If I rely on others for support, then I am weak. I must meet high standards to be worthy and accepted.",
+    "intermediate_belief_depression": "If I keep getting rejected, there is no point in trying because nothing will change.",
+    "coping_strategies": [
+      "Rachel withdraws from social interactions, including with her husband, and procrastinates in her job search due to fear of further rejection. She seeks reassurance from her sister Emma, which temporarily reduces anxiety but reinforces dependency. She also ruminates about her job loss and relationship problems without taking constructive action."
+    ],
+    "situation": "Received a job rejection email while searching for work.",
+    "auto_thought": "I'm never going to find a job. This just proves I'm not good enough.",
+    "emotion": [
+      "disappointed",
+      "sad",
+      "anxious",
+      "frustrated",
+      "ashamed"
+    ],
+    "behavior": "She withdraws from her husband and avoids discussing her feelings. She puts off applying to new jobs and seeks comfort from her sister instead.",
+    "source_text_id": "1004472411.txt",
+    "id": "19-2"
+  },
+  {
+    "history": "The client has repeatedly worked in environments characterized by micromanagement, which has become a recurring theme in their professional life. They report a pattern of self-blame specifically in work contexts. This suggests a longstanding vulnerability to internalizing negative workplace experiences as personal failings, likely reinforcing negative self-evaluations over time.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I am being micromanaged, it means I am not doing my job well enough. If I make a mistake or someone criticizes my work, it must be my fault. I have to be perfect at work or people will not trust me.",
+    "intermediate_belief_depression": "If I keep getting micromanaged, I will never succeed or feel good about myself at work.",
+    "coping_strategies": [
+      "The client considers resignation as a way to escape the distress of micromanagement, but this does not address the underlying self-blame. They may withdraw from colleagues or avoid tasks that could be criticized, reinforcing feelings of inadequacy and perpetuating the cycle."
+    ],
+    "situation": "Experiencing micromanagement at the workplace and considering resigning.",
+    "auto_thought": "I'm being micromanaged again—this must mean I'm not good enough at my job. No matter what I do, they'll never trust me to do things right.",
+    "emotion": [
+      "anxious",
+      "overwhelmed",
+      "frustrated",
+      "inadequate",
+      "stressed"
+    ],
+    "behavior": "I withdraw from colleagues and avoid tasks I think will be criticized. I spend time thinking about quitting instead of addressing the problem directly.",
+    "source_text_id": "1002790186.txt",
+    "id": "20-2"
+  },
+  {
+    "history": "The client has a longstanding history of family conflict, particularly with a dismissive and unsupportive father, which led to estrangement. This background has contributed to heightened sensitivity to dismissive behaviors in others. The client now faces ongoing stress related to their partner's family, especially a difficult relationship with the partner's sister-in-law, which echoes earlier family dynamics.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned",
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I try to set boundaries, others will dismiss or reject me, just like my father did. If I stand up for myself, it might make things worse or push people further away. It's safer to avoid conflict, even if it means tolerating disrespect.",
+    "intermediate_belief_depression": "No matter what I do, I can't make people treat me with respect or care, so there's no point in trying.",
+    "coping_strategies": [
+      "The client tends to withdraw or avoid addressing the rude behavior directly, sometimes procrastinating on setting boundaries. They may seek reassurance from their partner or others to manage their distress, but this does not resolve the underlying issue."
+    ],
+    "situation": "Deciding how to address rude behavior from the partner's sister-in-law and whether to set boundaries.",
+    "auto_thought": "If I confront her or set boundaries, she'll just ignore me or make things worse. I'm going to end up feeling alone and unsupported again.",
+    "emotion": [
+      "anxious",
+      "tense",
+      "sad",
+      "lonely",
+      "angry"
+    ],
+    "behavior": "I avoid talking to my sister-in-law or delay bringing up the issue. I might withdraw from family gatherings or ask my partner for reassurance instead of addressing it myself.",
+    "source_text_id": "1001084032.txt",
+    "id": "21-2"
+  },
+  {
+    "history": "The patient has ongoing interpersonal difficulties involving their partner Ivan and his family. There have been recent trust and betrayal issues with Ivan, which have intensified the emotional strain. The patient continues to interact with Ivan's family, who have shown a dismissive attitude toward the betrayal, as evidenced by the mother's comment. This ongoing contact and lack of validation from the family contribute to the patient's emotional distress and sense of invalidation.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I express my hurt or stand up for myself, I will be seen as difficult or unreasonable, so it's safer to suppress my feelings. If others minimize my pain, maybe my feelings aren't valid. I have to keep the peace, even if it means ignoring my own needs.",
+    "intermediate_belief_depression": "If nothing changes and my feelings are always dismissed, things will never get better and I will always feel alone.",
+    "coping_strategies": [
+      "The patient tends to withdraw from Ivan's family or avoid discussing the betrayal to prevent further conflict. They may suppress their emotions or pretend to agree with the family's perspective to maintain peace. The patient might also seek reassurance from friends or support systems to validate their feelings."
+    ],
+    "situation": "During an interaction with Ivan's family, the mother says \"boys will be boys\" and asks the patient to \"forgive and forget\".",
+    "auto_thought": "They don't care about how much this hurt me. If I forgive and forget, my feelings will just be ignored again.",
+    "emotion": [
+      "hurt",
+      "invalidated",
+      "frustrated",
+      "sad",
+      "angry"
+    ],
+    "behavior": "I stay quiet and don't argue with Ivan's mother. I avoid sharing how I really feel. Later, I reach out to a friend to talk about what happened.",
+    "source_text_id": "1004798713.txt",
+    "id": "22-2"
+  },
+  {
+    "history": "The client has a longstanding pattern of difficult interactions with their mother, marked by strained communication and a tendency for significant family events to be shared only after delays. This background suggests the client may feel excluded or undervalued within the family system, and that their needs or perspectives are not prioritized. The pattern of delayed sharing and strained communication likely reinforces a sense of being misunderstood or unsupported.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I disagree with my mother or assert my needs, she will dismiss me or not take me seriously. If I rely on her financially, I lose control over my own choices. I must avoid conflict to prevent feeling even more excluded.",
+    "intermediate_belief_depression": "If I keep having these disagreements and feel unsupported, nothing will ever change and I'll always feel stuck in this family dynamic.",
+    "coping_strategies": [
+      "The client tends to withdraw from conversations with their mother and delays addressing disagreements directly. They may seek reassurance from others or distract themselves with other activities to avoid confrontation and emotional distress."
+    ],
+    "situation": "Disagreement with mother about weekend plans and financial assistance. The mother covers expenses during the visit.",
+    "auto_thought": "She never really listens to what I want. I have no say in my own plans because she controls everything.",
+    "emotion": [
+      "frustrated",
+      "irritated",
+      "helpless",
+      "disappointed"
+    ],
+    "behavior": "I avoid talking to my mother about the disagreement. I put off discussing the weekend plans and let her make the decisions. I might talk to someone else about how upset I feel.",
+    "source_text_id": "1004538656.txt",
+    "id": "23-2"
+  },
+  {
+    "history": "The client has a longstanding history of experiencing pressure related to performance and social interactions. They report consistently presenting a confident front and hiding their vulnerability, which suggests a pattern of impression management and fear of exposure. A recent business failure resulted in financial hardship, intensifying feelings of inadequacy and anxiety. The client chose to take out a loan rather than seek support from family or friends, indicating a preference for self-reliance and avoidance of perceived weakness. In social situations, the client actively diverts attention away from their financial difficulties, further highlighting discomfort with vulnerability and fear of negative evaluation.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I show my struggles or ask for help, others will judge me or see me as weak. I must always appear confident and in control to be accepted. Relying on others means I am failing.",
+    "intermediate_belief_depression": "If I can't handle things on my own, it means I'm a failure and things will never get better.",
+    "coping_strategies": [
+      "The client avoids seeking help from close others and instead relies on self-sufficiency, such as taking out a loan. In social situations, they distract attention away from their financial difficulties and maintain a confident facade. These strategies help them avoid feelings of shame and fear of judgment but also lead to increased isolation and lack of genuine support."
+    ],
+    "situation": "Took out a loan instead of asking family or friends for help. In social situations, acts to distract attention from financial difficulties.",
+    "auto_thought": "If I ask for help, they'll think I'm weak and a failure. I have to handle this on my own or they'll lose respect for me.",
+    "emotion": [
+      "anxious",
+      "ashamed",
+      "embarrassed",
+      "tense"
+    ],
+    "behavior": "Took out a loan to avoid asking for help. In social settings, steered conversations away from finances and acted more confident than felt.",
+    "source_text_id": "1001084055.txt",
+    "id": "24-2"
+  },
+  {
+    "history": "The client works in an educational setting with children who have learning disabilities. They report being pampered by their parents, resulting in minimal consequences for their actions earlier in life. There is a pattern of ongoing conflicts with authority figures. The client's avoidance of direct confrontation with leadership may be influenced by their upbringing and past experiences with authority.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned",
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I challenge authority, it will only lead to more conflict or rejection. It's safer to avoid confrontation, even if I feel strongly about my ideas. My contributions are likely to be dismissed, so it's better not to push back.",
+    "intermediate_belief_depression": "If my ideas are always rejected, it means I am not good enough and nothing I do will make a difference.",
+    "coping_strategies": [
+      "The client avoids direct confrontation with authority figures, choosing not to address disagreements openly. They may engage in ruminative thinking about the rejection and their ongoing conflicts, which increases frustration and helplessness."
+    ],
+    "situation": "Proposed a new teaching method that was rejected by school leadership. Does not confront leadership directly about the decision.",
+    "auto_thought": "They don't care about my ideas. No matter what I do, my input won't make a difference here.",
+    "emotion": [
+      "frustrated",
+      "disappointed",
+      "anxious",
+      "helpless"
+    ],
+    "behavior": "Avoids speaking to leadership about the rejection. Withdraws from direct discussion and keeps feelings to themselves.",
+    "source_text_id": "1004687614.txt",
+    "id": "25-2"
+  },
+  {
+    "history": "The client has ongoing work-related uncertainty and anxiety, which contributes to a sense of instability. Recently married, the relationship has included episodes of physical abuse by the spouse, Ivan, leading to separation. Both partners are interested in resolving their issues and are attending couples therapy. The client has been exposed to clinical terms like 'delusional' and 'pseudo-psychotic' used to describe the spouse's behavior, which may create confusion and distress.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "If my spouse is described with severe clinical terms, then my relationship must be fundamentally broken and I am failing to fix it. If I can't make sense of these labels, then I must not be capable of understanding or helping. I need to find answers or reassurance to feel less anxious.",
+    "intermediate_belief_depression": "If I can't resolve these issues or understand what's happening, then things will never get better and I will always feel this way.",
+    "coping_strategies": [
+      "The client seeks reassurance from therapists and possibly friends to manage emotional turmoil. They may ruminate about the meaning of clinical terms and withdraw from making decisions or engaging in social interactions. Attending couples therapy is a proactive coping strategy, but exposure to stigmatizing labels may also lead to avoidance or confusion."
+    ],
+    "situation": "Exposed to clinical terms used to describe the husband's behavior, including \"delusional\" and \"pseudo-psychotic\".",
+    "auto_thought": "If Ivan is really 'delusional' or 'pseudo-psychotic', then our relationship is much worse than I thought. Maybe I can't help him or fix this at all.",
+    "emotion": [
+      "anxious",
+      "worried",
+      "confused",
+      "helpless",
+      "sad"
+    ],
+    "behavior": "The client ruminates about the meaning of these clinical terms and what they imply for the relationship. They seek reassurance from the therapist or others. They may withdraw or avoid making decisions about the relationship.",
+    "source_text_id": "1004798815.txt",
+    "id": "26-1"
+  },
+  {
+    "history": "The client recently divorced after a long-term relationship that began at age 19. She is experiencing financial difficulties and is in the process of settling child support for her young son. She is adjusting to being alone and facing new experiences, such as traveling alone with her son and visiting family without a partner. The report suggests she feels vulnerable and insecure due to these major life changes, and she may be struggling with her new identity as a single person.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If people find out about my divorce, they will judge me or see me as a failure. I must hide my true feelings and keep up appearances to avoid being pitied or rejected. If I show vulnerability, others will think less of me.",
+    "intermediate_belief_depression": "If I can't keep my life together after the divorce, it means I'm hopeless and things will never get better.",
+    "coping_strategies": [
+      "She tries to maintain appearances and mask her true emotions in social situations to avoid judgment or pity. Afterward, she ruminates about what happened, replaying the conversation and worrying about how others perceive her. She may also withdraw from social situations or avoid discussing her divorce."
+    ],
+    "situation": "At a birthday party, guests mention her divorce during casual conversation. Tries to maintain appearances and later continues thinking about the interaction.",
+    "auto_thought": "Everyone is thinking I'm a failure because I'm divorced. They probably feel sorry for me or are judging me.",
+    "emotion": [
+      "embarrassed",
+      "ashamed",
+      "anxious",
+      "self-conscious",
+      "worried"
+    ],
+    "behavior": "She puts on a brave face and tries to act normal during the party. She avoids talking about her feelings or the divorce in depth. Later, she replays the conversation in her mind and worries about what others thought.",
+    "source_text_id": "1002565939.txt",
+    "id": "27-2"
+  },
+  {
+    "history": "The client has a longstanding pattern of self-critical thinking and is used to maintaining control and achieving goals. This tendency has shaped their approach to challenges, making them sensitive to perceived failures or setbacks, especially in areas where they have traditionally excelled. Current stressors include job seeking, personal relationships, and family dynamics, with a notable conflict arising from another person's (Ivan's) approach to job searching and life decisions.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned",
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If others don't approach things the way I do, it means my way isn't good enough. I must maintain control and achieve to prove my worth. If I let go or accept different approaches, things will fall apart.",
+    "intermediate_belief_depression": "If I can't control the situation or help others succeed, it means I'm failing and things will never get better.",
+    "coping_strategies": [
+      "The client tends to ruminate on conflicts and perceived failures, especially in relation to job seeking and family issues. They may withdraw from discussions with Ivan or seek reassurance from others to validate their own approach, maintaining a cycle of self-criticism and avoidance."
+    ],
+    "situation": "Conflict related to another person's (Ivan's) approach to job searching and life decisions.",
+    "auto_thought": "Ivan is doing it all wrong; if he keeps this up, everything will fall apart and it's my fault for not fixing it.",
+    "emotion": [
+      "anxious",
+      "frustrated",
+      "irritated",
+      "resentful"
+    ],
+    "behavior": "I withdraw from the conversation with Ivan or try to control the discussion. I ruminate about what went wrong and seek reassurance from others about my approach.",
+    "source_text_id": "1003009199.txt",
+    "id": "28-2"
+  },
+  {
+    "history": "The patient has developed a strong sense of identity and belonging within their research lab, finding camaraderie and accomplishment through both interactions and achievements. The recent departure of a close coworker has had significant emotional impact, disrupting the stability and support the patient previously experienced. The lab environment stands in contrast to the patient's personal life, which is described as less predictable and less comfortable, making the lab a primary source of security and connection.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "If I lose someone important at work, then I will feel alone and unsupported. If my environment changes, I won't be able to cope as well. I need stability and connection to feel secure.",
+    "intermediate_belief_depression": "If people keep leaving or things keep changing, it means I will always end up alone and unsupported.",
+    "coping_strategies": [
+      "The patient tends to withdraw from social interactions at the lab and avoids situations that remind them of their colleague's absence. They may focus on work tasks or take on additional responsibilities to distract themselves from feelings of loss and uncertainty."
+    ],
+    "situation": "The departure of a valued colleague and the immediate impact of this change.",
+    "auto_thought": "I can't believe they're gone; everything feels different now. I'm not sure I can handle being here without them.",
+    "emotion": [
+      "sad",
+      "anxious",
+      "lonely",
+      "uncertain",
+      "unsettled"
+    ],
+    "behavior": "I avoid common areas where we used to talk. I keep to myself more during the day. I throw myself into work tasks to distract from the change.",
+    "source_text_id": "1004687610.txt",
+    "id": "29-2"
+  },
+  {
+    "history": "The client recently completed an undergraduate degree and is entering the workforce. Within the last two and a half years, they came out to their parents and received negative reactions, leading to increased distance from their family. The client moved to New York for education, which allowed them to explore their identity away from family influence. The relationship with their mother is described as strained, with the mother focusing on practical matters rather than emotional support. There is also tension with a sister who is envious of the client's independence and achievements. The client reports feeling rejected, lonely, and unsupported, and has responded by withdrawing from family interactions.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I show my true self to my family, I will be rejected and hurt. It's safer to keep my distance and not expect support from them. I must rely on myself because others will not understand or accept me.",
+    "intermediate_belief_depression": "If my family can't accept who I am, maybe no one truly will, and I'll always feel alone.",
+    "coping_strategies": [
+      "The client withdraws from family interactions and avoids discussing personal matters to protect themselves from further emotional harm. They seek autonomy and self-discovery by maintaining distance and focusing on building a life away from family influence."
+    ],
+    "situation": "Recalling the experience of coming out to parents and the negative aftermath. Preparing for or having interactions with family while maintaining distance.",
+    "auto_thought": "They'll never really accept me for who I am. No matter what I do, I'll always be a disappointment to them.",
+    "emotion": [
+      "rejected",
+      "sad",
+      "lonely",
+      "ashamed",
+      "anxious",
+      "frustrated"
+    ],
+    "behavior": "I avoid calling or visiting my parents unless necessary. When I do interact, I keep conversations superficial and don't share personal details. I distance myself emotionally to avoid getting hurt.",
+    "source_text_id": "1000119397.txt",
+    "id": "30-2"
+  },
+  {
+    "history": "The client has recently experienced the deaths of an uncle and a cousin, which has likely heightened their sensitivity to mortality and loss. There is ongoing concern about the parents' health, especially the father's multiple chronic conditions. The relationship with the father is tense, marked by emotional distance and a lack of transparency about his health, which may contribute to the client's anxiety and feelings of helplessness. The client appears to ruminate about the possibility of further loss and struggles to engage openly with the father.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "If I get too close to my father, I will be overwhelmed by anxiety or pain if something happens to him. If I avoid thinking about or interacting with him, I can protect myself from getting hurt. I must stay vigilant about my family's health or something terrible will happen.",
+    "intermediate_belief_depression": "If I can't protect my family or connect with them, it means I am failing as a son/daughter and things will never get better.",
+    "coping_strategies": [
+      "The client avoids interacting with the father to manage overwhelming anxiety and fear of loss. They may seek reassurance from others or ruminate about the father's health, but do not directly address their concerns. This avoidance provides temporary relief but maintains emotional distance and ongoing distress."
+    ],
+    "situation": "Thinking about the possibility of the father dying before the mother. Avoiding interaction with the father.",
+    "auto_thought": "If my father dies before my mother, I won't be able to handle it. I can't face being close to him because it will hurt too much if I lose him.",
+    "emotion": [
+      "anxious",
+      "worried",
+      "fearful",
+      "sad",
+      "guilty",
+      "lonely"
+    ],
+    "behavior": "I avoid spending time with my father. I withdraw from conversations or interactions with him. I ruminate about his health and possible loss.",
+    "source_text_id": "1001084083.txt",
+    "id": "31-2"
+  },
+  {
+    "history": "The client reports a long-standing pattern of strained relationships with their parents, marked by feeling judged and disapproved of. There are references to a lack of parental support during their education and complex family dynamics, including the mother's health condition and allegations of a past affair. The client has described the mother as 'broken,' suggesting emotional distance or instability. These factors likely contribute to a persistent sense of inadequacy and a need for external validation, especially from parents.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I achieve something significant, then my parents will finally approve of me. If I don't meet their expectations, then I am a disappointment. I must keep striving for success to prove my worth.",
+    "intermediate_belief_depression": "Even when I succeed, it doesn't matter because my parents will never be satisfied; nothing I do will ever be enough.",
+    "coping_strategies": [
+      "The client tends to withdraw from family interactions or avoid sharing personal achievements to protect against perceived judgment. They ruminate on past conversations, focusing on criticisms, and seek validation through work performance and external achievements."
+    ],
+    "situation": "Received a work bonus for exceptional performance. During a call with parents about the bonus, they asked about job prospects.",
+    "auto_thought": "Even when I do something great, it's still not enough for them. They only care about what I haven't done yet.",
+    "emotion": [
+      "disappointed",
+      "frustrated",
+      "hurt",
+      "inadequate",
+      "resentful"
+    ],
+    "behavior": "I become quiet on the call and stop sharing details about my bonus. After the call, I replay the conversation in my head, focusing on what I could have said differently. I avoid calling my parents again for a while.",
+    "source_text_id": "1004798853.txt",
+    "id": "32-2"
+  },
+  {
+    "history": "The client is involved in a complex romantic situation with Cleo, who maintains a long-distance relationship with another person while also engaging with the client. The client has recently discovered concerning text messages from another person on Cleo's device. This situation appears to have triggered emotional distress, likely rooted in previous experiences of insecurity and difficulty with trust in relationships, as implied by the client's heightened sensitivity to perceived breaches of trust and fear of abandonment.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If someone I care about is interested in someone else, it means I am not good enough. If I confront them, I might push them away or be rejected. I must keep my feelings to myself to avoid losing them.",
+    "intermediate_belief_depression": "If I am not enough for Cleo, I will always end up alone and disappointed.",
+    "coping_strategies": [
+      "The client tends to withdraw from Cleo or avoid direct confrontation about the text messages, possibly to prevent conflict or rejection. They may seek reassurance from Cleo or from friends, and distract themselves with work or hobbies to avoid ruminating on the situation."
+    ],
+    "situation": "Saw concerning text messages from another person on Cleo's device.",
+    "auto_thought": "Cleo is interested in someone else. I’m going to lose her and end up alone.",
+    "emotion": [
+      "anxious",
+      "insecure",
+      "hurt",
+      "disappointed",
+      "worried"
+    ],
+    "behavior": "I avoid bringing up the messages with Cleo. I withdraw emotionally and seek reassurance from friends instead of addressing it directly.",
+    "source_text_id": "1000399416.txt",
+    "id": "33-2"
+  },
+  {
+    "history": "The client lost a brother to suicide during childhood, which was a traumatic event. There has been ongoing family conflict about discussing the loss, and the client's parents initially did not allow them to seek talk therapy after the death. This lack of open communication and support likely contributed to feelings of isolation and unresolved grief. The client may have developed patterns of emotional suppression and avoidance as a result.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I let myself feel or talk about my brother's death, it will be overwhelming and no one will support me. If I show my sadness, my family will avoid or reject me. I have to keep my feelings to myself to avoid conflict or making things worse.",
+    "intermediate_belief_depression": "If I try to express my grief, it won't matter because nothing can change and I'll always feel alone.",
+    "coping_strategies": [
+      "The client tends to avoid discussing the loss with family and withdraws emotionally when reminders arise, such as the brother's birthday. They may distract themselves or suppress emotions to manage distress, but this leads to unresolved grief and increased sadness around significant dates."
+    ],
+    "situation": "Realizing that the brother's birthday is approaching.",
+    "auto_thought": "I can't handle thinking about his birthday. No one will understand how hard this is for me.",
+    "emotion": [
+      "sad",
+      "lonely",
+      "anxious",
+      "overwhelmed"
+    ],
+    "behavior": "Withdraws from family interactions. Avoids talking about the brother or the upcoming birthday. Distracts self with other activities to avoid painful feelings.",
+    "source_text_id": "1004504888.txt",
+    "id": "34-1"
+  },
+  {
+    "history": "The patient comes from a family where emotional pain and suffering are not openly discussed, as highlighted by a difficult conversation with the mother about not talking about these topics. The father avoids talk therapy and has distressing dreams related to his brother's suicide, modeling avoidance of emotional processing. The patient reports ongoing struggles with separation and suffering, suggesting a longstanding difficulty with emotional connection and expression, likely influenced by family dynamics of avoidance and suppression.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [
+      "I am worthless, waste"
+    ],
+    "intermediate_belief": "If I try to express my pain or disconnection, others will avoid or dismiss me, so it's safer to keep these feelings to myself. Expressing emotional pain will only make things worse or push people away. I must manage my suffering alone because others won't understand or help.",
+    "intermediate_belief_depression": "If I keep feeling this detached and no one understands, things will never get better and I'll always feel alone.",
+    "coping_strategies": [
+      "The patient tends to withdraw or avoid discussing emotions, especially pain and suffering, mirroring family patterns. They may suppress or minimize their emotional experiences to avoid conflict or discomfort, which increases feelings of isolation. Occasionally, the patient attempts to articulate their feelings, but often struggles to fully express or process them."
+    ],
+    "situation": "Talking about feelings of disconnection with a person named Jeremy. Trying to describe a sense of detachment and associated pain.",
+    "auto_thought": "No matter how hard I try to explain, Jeremy won't really get how disconnected I feel. Maybe it's pointless to even try because it just hurts more.",
+    "emotion": [
+      "isolated",
+      "sad",
+      "frustrated",
+      "hopeless",
+      "anxious"
+    ],
+    "behavior": "I hesitate or struggle to put my feelings into words. I withdraw from the conversation or keep my emotions to myself. I avoid going deeper into the discussion about my pain.",
+    "source_text_id": "1000013261.txt",
+    "id": "35-2"
+  },
+  {
+    "history": "The client has a background of elevated stress due to ongoing financial difficulties and unstable personal relationships. They report a heavy workload, worsened by technical issues and the need to cover for a coworker, which adds to their sense of overwhelm. Friends frequently turn to the client during crises, placing additional emotional demands on them. The client is considering asking their parents for financial help to pay for therapy, which coincides with an upcoming birthday and may evoke feelings of embarrassment or guilt. The client is also preparing for a convention and a visit with their parents, both of which are sources of anticipatory stress.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I can't meet everyone's demands or solve my own problems, others will see me as weak or unreliable. I must handle everything on my own to be respected and valued. Asking for help means I'm inadequate.",
+    "intermediate_belief_depression": "If I can't keep up with everything, it proves I'm a failure and things will never improve.",
+    "coping_strategies": [
+      "The client tends to withdraw or avoid making difficult requests, such as delaying asking for financial help. They may seek reassurance from friends or engage in social interactions despite feeling overwhelmed. The client sometimes distracts themselves with self-soothing activities to manage anxiety and stress."
+    ],
+    "situation": "At a convention, interacting with demanding friends while managing personal stress.",
+    "auto_thought": "I'm already overwhelmed, and now my friends need even more from me. I can't keep up and they're going to think I'm letting them down.",
+    "emotion": [
+      "anxious",
+      "overwhelmed",
+      "tense",
+      "guilty",
+      "drained"
+    ],
+    "behavior": "I try to listen and help my friends even though I feel exhausted. I avoid telling them how stressed I am. I might step away briefly to collect myself or check my phone for distraction.",
+    "source_text_id": "1004824789.txt",
+    "id": "36-2"
+  },
+  {
+    "history": "The client has a history of a past labor dispute in a previous workplace, which likely contributes to their current heightened sensitivity to fairness and authority issues. They have ongoing concerns related to fairness, pay, and authority at work. The emotional impact of previous negative experiences appears to intensify their current reactions to workplace demands, especially those perceived as unjust.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I don't stand up for myself, others will take advantage of me. Authority figures can't be trusted to treat me fairly. I must be vigilant or I will be exploited.",
+    "intermediate_belief_depression": "If nothing changes, I will always be stuck in unfair situations and nothing I do will make a difference.",
+    "coping_strategies": [
+      "The client tends to avoid direct confrontation with authority figures and may withdraw from workplace interactions. They seek validation and support from colleagues who share similar concerns, but these discussions often focus on grievances, reinforcing negative emotions. The client may also comply passively or engage in minimal resistance, such as procrastination."
+    ],
+    "situation": "Being asked to work beyond regular hours without additional compensation during an ongoing labor dispute.",
+    "auto_thought": "This is so unfair—I'm being taken advantage of again. No matter what I do, they won't respect my rights.",
+    "emotion": [
+      "angry",
+      "resentful",
+      "helpless",
+      "frustrated",
+      "anxious"
+    ],
+    "behavior": "I avoid speaking up directly to my manager. I complain to coworkers about the unfairness. I do the extra work but feel resentful and disengaged.",
+    "source_text_id": "1001310132.txt",
+    "id": "37-2"
+  },
+  {
+    "history": "The client is on medical leave due to a health condition requiring physical therapy. They have had previous interactions with HR and a supervisor about their return-to-work and disability status, which may have contributed to ongoing uncertainty and apprehension about their job security. The disruption to daily routines and concerns about recovery likely increase their stress and anxiety. There is evidence of ruminative thinking about how their health impacts their professional life and how others at work may perceive them.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I am seen outside while on medical leave, others will think I am not really sick or that I am taking advantage. I must avoid being seen by coworkers or I will be judged negatively. My worth at work depends on being present and able to perform.",
+    "intermediate_belief_depression": "If I can't return to work soon, I will never regain my previous status or value, and things will only get worse.",
+    "coping_strategies": [
+      "The client tends to avoid social interactions and may withdraw to manage anxiety about being seen by coworkers. They may seek reassurance from medical professionals or HR to alleviate concerns about their status. They also use distraction and problem-solving to cope with stress, but avoidance maintains their anxiety."
+    ],
+    "situation": "Running into a coworker outside the workplace while on medical leave.",
+    "auto_thought": "They probably think I’m faking or not really that sick. I shouldn’t be out if I’m supposed to be off work.",
+    "emotion": [
+      "anxious",
+      "embarrassed",
+      "self-conscious",
+      "worried"
+    ],
+    "behavior": "I quickly try to end the interaction and avoid eye contact. I might change my route or avoid places where I could run into coworkers.",
+    "source_text_id": "1004538596.txt",
+    "id": "38-2"
+  },
+  {
+    "history": "The client has a history of recurrent stomachaches and physical symptoms linked to anxiety and stress. They have experienced past difficulties with weight management, sexuality, and academic performance, which may have contributed to self-criticism and fear of inadequacy. The client reports a significant transformation during college, suggesting a period of personal growth and increased self-efficacy. There is a pattern of seeking control in relationships, possibly as a way to manage anxiety about uncertainty or instability.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "If I lose control or things change, I will end up unhappy again. If I am not vigilant, I could slip back into my old, unhappy self. I must always maintain positive aspects of my life or I will fail.",
+    "intermediate_belief_depression": "If I can't keep things together, it means I'm a failure and things will never get better.",
+    "coping_strategies": [
+      "The client seeks control in relationships and may engage in reassurance-seeking or over-planning to manage anxiety. They may avoid situations that remind them of past difficulties or could threaten their current stability, which limits opportunities for growth. Rumination and worry about losing positive aspects of life are also present."
+    ],
+    "situation": "Concern about losing positive aspects of life or returning to a previous unhappy state.",
+    "auto_thought": "If I don't keep everything under control, I'll lose what makes me happy and end up miserable again. I can't let myself slip back to how things were before.",
+    "emotion": [
+      "anxious",
+      "worried",
+      "fearful",
+      "tense",
+      "ashamed"
+    ],
+    "behavior": "I overthink and try to plan for every possible problem. I avoid situations that feel risky or remind me of my past struggles. I seek reassurance from others to make sure things are still okay.",
+    "source_text_id": "1004503120.txt",
+    "id": "39-2"
+  },
+  {
+    "history": "The client recently moved to a new living space, which has been a significant source of stress. They report a difficult and emotionally unsupportive relationship with their mother, who is described as judgmental. Friendships have become strained, leading to increased isolation and a diminished sense of social support. These factors appear to contribute to feelings of anxiety, loneliness, and low self-worth.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [
+      "I am worthless, waste"
+    ],
+    "intermediate_belief": "If I open up to my mother, she will judge me and I will feel worse. If I am not able to connect with others, it means there is something wrong with me. I must protect myself from being hurt by keeping conversations superficial.",
+    "intermediate_belief_depression": "If my mother never understands or supports me, I will always feel alone and nothing will ever change.",
+    "coping_strategies": [
+      "The client tends to withdraw from social interactions and avoids seeking support, reinforcing their sense of isolation. They may procrastinate or avoid preparing for difficult conversations, and sometimes seek reassurance from others to manage anticipated discomfort."
+    ],
+    "situation": "Preparing for a conversation with mother and expecting it to be challenging and superficial.",
+    "auto_thought": "This is going to be pointless—she won't really listen to me. I'll just end up feeling worse and more alone.",
+    "emotion": [
+      "anxious",
+      "dread",
+      "frustrated",
+      "sad",
+      "emotionally exhausted"
+    ],
+    "behavior": "Delays preparing for the conversation. Avoids thinking about what to say. Withdraws emotionally before the interaction.",
+    "source_text_id": "1001084054.txt",
+    "id": "40-2"
+  },
+  {
+    "history": "The patient has a complex relationship history, particularly involving a person named Cricket, which has impacted their social circle. They often take on a caretaking role with friends, especially with Lucy, who has ongoing medical issues. This pattern of caretaking suggests a longstanding tendency to prioritize others' needs, possibly as a way to maintain acceptance or connection within their social group. The patient's social circle dynamics and past relationship difficulties appear to reinforce their sense of responsibility for others.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I am not there for my friends or fail to meet their expectations, they will be disappointed in me and I will lose my place in the group. My value comes from being reliable and helpful, so I must always put others first. If I let people down, it means I am failing as a friend.",
+    "intermediate_belief_depression": "",
+    "coping_strategies": [
+      "The patient tends to overcommit to social obligations and takes on additional responsibilities to maintain their relationships. They may seek reassurance from friends or try to control situations through caretaking behaviors, even when it leads to feeling overwhelmed or stressed."
+    ],
+    "situation": "Friends are gathered outside the residence waiting while the patient is running late after work.",
+    "auto_thought": "I'm letting everyone down by being late. They'll be upset with me and think I don't care about them.",
+    "emotion": [
+      "anxious",
+      "worried",
+      "guilty",
+      "tense"
+    ],
+    "behavior": "Rush to get home as quickly as possible. Apologize profusely to friends when arriving. Avoid talking about their own stress or needs, focusing instead on making it up to the group.",
+    "source_text_id": "1000061053.txt",
+    "id": "41-2"
+  },
+  {
+    "history": "The client reports recurrent dreams during graduate school about being unprepared for a thesis defense, indicating longstanding anxiety about performance and preparedness. The client's father is described as having high expectations, which likely contributed to internalized pressure to meet standards and fear of falling short. These patterns suggest a history of striving for approval and fearing criticism, with emotional distress linked to evaluative situations.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I am criticized or make a mistake, it means I am not good enough. I must always be fully prepared and meet expectations to avoid failure. Others will judge me harshly if I fall short.",
+    "intermediate_belief_depression": "If I can't meet expectations or avoid criticism, there's no point in trying because I will always disappoint myself and others.",
+    "coping_strategies": [
+      "The client tends to avoid situations involving evaluation or criticism and may withdraw or become defensive when criticized. They also seek reassurance or external validation to manage self-doubt and anxiety."
+    ],
+    "situation": "Receiving criticism during a work performance review.",
+    "auto_thought": "I'm not good enough; they're going to see that I can't meet their expectations.",
+    "emotion": [
+      "anxious",
+      "worried",
+      "tense",
+      "ashamed"
+    ],
+    "behavior": "I become quiet and withdrawn during the review. I avoid eye contact and try to minimize my responses. Later, I ruminate about what was said and seek reassurance from a colleague.",
+    "source_text_id": "1000367958.txt",
+    "id": "42-2"
+  },
+  {
+    "history": "The client experienced emotional invalidation in childhood, such as being reprimanded for crying, which likely contributed to a longstanding history of depression. These early experiences may have fostered a sense that their emotions are not valid or worthy of expression. The client has a pattern of feeling misunderstood and unsupported, which is reinforced by recent social exclusion.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I am excluded or not invited, it means I am not valued or wanted. If I show my feelings, others will reject or criticize me. I must avoid situations where I might be rejected to protect myself from pain.",
+    "intermediate_belief_depression": "If people leave me out, it proves I am unimportant and nothing will ever change, so there is no point in trying.",
+    "coping_strategies": [
+      "The client withdraws from social interactions and avoids situations where rejection is possible. They ruminate on the exclusion, focusing on perceived personal shortcomings and engaging in self-criticism."
+    ],
+    "situation": "Not invited to a dinner with friends by one acquaintance.",
+    "auto_thought": "They didn't invite me because they don't really like me. I'm always the one left out.",
+    "emotion": [
+      "rejected",
+      "sad",
+      "lonely",
+      "worthless",
+      "anxious"
+    ],
+    "behavior": "Withdraws from other social opportunities. Spends time alone, ruminating about the exclusion. Avoids reaching out to the group or expressing feelings.",
+    "source_text_id": "1004472406.txt",
+    "id": "43-2"
+  },
+  {
+    "history": "The client has a longstanding pattern of recurring conflicts and strained relationships, often marked by trust and boundary issues. Some of these relationships have involved individuals with alcoholism, contributing to unpredictability and emotional distress. There is a history of aggressive behavior, which may have served as a defense against perceived threats or boundary violations. These patterns have led to a cautious and self-protective approach in current relational decisions.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I let people who have hurt me back into my life, I will get hurt again. I need to protect myself by keeping strict boundaries. Trusting others is risky and usually leads to pain.",
+    "intermediate_belief_depression": "",
+    "coping_strategies": [
+      "The client tends to withdraw or set strict boundaries to avoid further harm in relationships, especially when trust has been broken. They may ruminate on past conflicts and worry about future interactions, leading to avoidance of potentially risky connections. Occasionally, they may respond with aggression when feeling threatened or overwhelmed."
+    ],
+    "situation": "Considering reconnecting with an estranged person who previously caused harm. Deciding not to reconnect as a self-protective choice.",
+    "auto_thought": "If I let them back in, I'll just get hurt again. I can't trust them not to cross my boundaries.",
+    "emotion": [
+      "anxious",
+      "wary",
+      "relieved",
+      "tense"
+    ],
+    "behavior": "Decides not to reach out or respond to the estranged person. Withdraws and reinforces personal boundaries. Avoids situations where contact might occur.",
+    "source_text_id": "1004538652.txt",
+    "id": "44-2"
+  },
+  {
+    "history": "The client has a pattern of relationships sometimes shifting into romantic connections, which may reflect a search for deeper emotional bonds. There is a history of conflict in relationships after expressing anger, suggesting difficulty managing strong emotions and communication. The client describes a complex relationship with parents involving obligations, which may contribute to ongoing feelings of pressure and responsibility. These dynamics appear to influence the client's emotional responses and coping strategies in social and familial contexts.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned",
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I express my emotions, especially anger, people will be upset with me and I will ruin my relationships. I must keep my feelings in check to avoid conflict. If I make a mistake in front of others, it means I am failing as a friend.",
+    "intermediate_belief_depression": "If I can't control my emotions and keep upsetting people, there's no point in trying to connect with others because I'll just end up alone.",
+    "coping_strategies": [
+      "After emotional incidents, the client tends to withdraw from social interactions to avoid further embarrassment or conflict. They ruminate on past mistakes, replaying events and focusing on what went wrong. The client seeks reassurance from close others, especially in romantic contexts, to validate their feelings and reduce anxiety."
+    ],
+    "situation": "An incident at a social gathering resulted in an emotional outburst among friends.",
+    "auto_thought": "Everyone saw me lose control. They're probably thinking I'm too much to handle and don't want me around.",
+    "emotion": [
+      "embarrassed",
+      "anxious",
+      "regretful",
+      "ashamed",
+      "worried"
+    ],
+    "behavior": "I withdrew from the group and avoided talking to my friends after the outburst. I replayed the incident in my mind, criticizing myself for what happened. I hesitated to reach out or apologize, fearing more rejection.",
+    "source_text_id": "1000088089.txt",
+    "id": "45-2"
+  },
+  {
+    "history": "The client has a pattern of forming close relationships with friends who are experiencing significant stressors. Currently, one friend is facing academic pressures and parenting an autistic child. The client is involved in supporting multiple friends who are distressed at the same time. There is an implied sense of responsibility for others' well-being and a tendency to become emotionally invested in friends' problems.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "If my friends are struggling and I can't help them, then I am failing as a friend. I must always be available and effective in supporting those I care about. If I don't do enough, I am letting people down.",
+    "intermediate_belief_depression": "If I can't keep up with everyone's needs, it means I'm not good enough and things will never get better.",
+    "coping_strategies": [
+      "The client tries to organize and control their environment (e.g., cleaning, straightening up) to manage internal chaos. They may selectively focus on certain aspects of conversations to avoid feeling overwhelmed. The client tends to over-involve themselves in friends' problems, sometimes neglecting their own needs, and may withdraw or procrastinate when feeling emotionally drained."
+    ],
+    "situation": "Multiple friends are distressed at the same time, and the patient is involved in supporting them.",
+    "auto_thought": "I'm not doing enough to help everyone. If I can't fix their problems, I'm letting them down.",
+    "emotion": [
+      "overwhelmed",
+      "anxious",
+      "helpless",
+      "guilty",
+      "confused"
+    ],
+    "behavior": "I spend extra time trying to help my friends, even when I feel exhausted. I try to organize things around me to feel more in control. Sometimes I withdraw or avoid my own tasks because I'm so focused on their needs.",
+    "source_text_id": "1000370275.txt",
+    "id": "46-2"
+  },
+  {
+    "history": "The client has a master's degree in engineering and experience in robotics. They have expressed past remorse about not dedicating enough time to a project, suggesting a tendency toward self-criticism and perfectionism. This pattern of self-blame and regret may contribute to heightened sensitivity to perceived rejection or failure in new situations.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If someone doesn't respond to me, it means I did something wrong or I am not worthy of their attention. I must always perform perfectly or others will lose interest in me. If I make a mistake or am not good enough, I will be rejected.",
+    "intermediate_belief_depression": "If people don't respond to me, it proves that I am not worth caring about and nothing I do will change that.",
+    "coping_strategies": [
+      "The client repeatedly checks their email for a response and may seek reassurance from friends or family. They may also withdraw socially or avoid further contact to protect themselves from possible rejection. Sometimes, they distract themselves with work or other activities to avoid thinking about the situation."
+    ],
+    "situation": "Sent an email to someone they are interested in dating and received no response.",
+    "auto_thought": "They must not be interested in me. I probably said something wrong and now they don't want to talk to me.",
+    "emotion": [
+      "anxious",
+      "worried",
+      "disappointed",
+      "self-doubt",
+      "tense"
+    ],
+    "behavior": "I check my email repeatedly to see if they've replied. I avoid sending another message because I'm afraid of being rejected. I might talk to a friend about what happened to get reassurance.",
+    "source_text_id": "1004503148.txt",
+    "id": "47-2"
+  },
+  {
+    "history": "The patient has been in a relationship with Ivan for about seven years and married for three. During significant life events, such as academic finals and wedding preparations, the patient experienced stress due to a lack of support from Ivan. Currently, the patient faces financial pressure related to Ivan's part-time work, therapy costs, and dental treatment expenses. Ivan's mother communicates with the patient in a critical manner, which may contribute to feelings of inadequacy and self-doubt.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If someone criticizes me, it means I have failed or I'm not good enough. If I don't meet others' expectations, I will be rejected. I must avoid conflict to keep the peace, even if it means not standing up for myself.",
+    "intermediate_belief_depression": "If I keep being criticized and unsupported, nothing I do will ever be enough and things will never improve.",
+    "coping_strategies": [
+      "The patient tends to withdraw or avoid confrontation, especially with Ivan's mother, to prevent further conflict. They may seek reassurance from Ivan or others to cope with insecurity. The patient also focuses on problem-solving for financial stress, such as budgeting, but may avoid social activities to reduce expenses."
+    ],
+    "situation": "Ivan's mother speaks to the patient in a critical manner.",
+    "auto_thought": "She's right, I'm not living up to her expectations. No matter what I do, I'll never be accepted by her.",
+    "emotion": [
+      "hurt",
+      "inadequate",
+      "anxious",
+      "resentful"
+    ],
+    "behavior": "I stay quiet and avoid responding directly to her criticism. Later, I withdraw from the conversation or leave the room. I might ruminate about what she said and seek reassurance from Ivan.",
+    "source_text_id": "1004687664.txt",
+    "id": "48-2"
+  },
+  {
+    "history": "The patient grew up in a family marked by emotional turmoil and dissatisfaction, with a father who often created misery and a maternal grandmother who negatively impacted the family, especially the patient's mother. These dynamics likely fostered an environment where the patient learned to associate family with distress and negativity. The patient has a pattern of heightened sensitivity to criticism and anticipates negative outcomes in relationships, possibly due to these early experiences. The patient is currently reflecting on the possible deaths of both the father and grandmother, which evokes a complex emotional response.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [
+      "I am worthless, waste"
+    ],
+    "intermediate_belief": "If I feel relief when my family members die, then I am a bad person. If I don't feel sad enough, it means I am cold or unloving. I must always anticipate conflict or negativity in my family relationships.",
+    "intermediate_belief_depression": "If my family is always negative and I can't change it, then nothing I do will make a difference and I might as well give up on having a better family life.",
+    "coping_strategies": [
+      "The patient tends to withdraw from family interactions to avoid conflict and minimize exposure to negativity. They may seek reassurance or validation from friends or other support networks to counterbalance familial dissatisfaction. The patient also engages in rumination, repeatedly reflecting on their mixed emotions and anticipating future family dynamics."
+    ],
+    "situation": "Reflecting on the potential death of the father and the grandmother.",
+    "auto_thought": "If they die, maybe things will finally be easier, but what kind of person does that make me? I shouldn't feel relief, but I do, and that must mean something is wrong with me.",
+    "emotion": [
+      "guilty",
+      "anxious",
+      "sad",
+      "relieved",
+      "ashamed"
+    ],
+    "behavior": "I withdraw from family conversations and avoid discussing my feelings about their potential deaths. I ruminate about what my reaction says about me and seek reassurance from close friends that my feelings are normal.",
+    "source_text_id": "1004538624.txt",
+    "id": "49-2"
+  },
+  {
+    "history": "The client has maintained a close friendship with Ethan for about 14 years, marked by mutual support during personal crises and professional collaborations. The recent discovery that Ethan has been abusive toward his girlfriend has created significant internal conflict. The client is now struggling with how to address Ethan directly, indicating a disruption in their previously stable relationship and a challenge to their trust and perception of Ethan.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am defective",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am unlovable",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I confront Ethan about his behavior, I might lose the friendship or make things worse. If I avoid the situation, maybe the discomfort will go away. It's safer to avoid conflict than to risk damaging important relationships.",
+    "intermediate_belief_depression": "",
+    "coping_strategies": [
+      "The client avoids directly contacting Ethan, likely to manage anxiety and discomfort about confrontation. They may ruminate and seek reassurance from others instead of addressing the issue head-on. This avoidance provides short-term relief but prolongs emotional distress."
+    ],
+    "situation": "Struggling to contact Ethan directly.",
+    "auto_thought": "If I reach out to Ethan, it could ruin everything between us. I don't know if I can handle what might happen.",
+    "emotion": [
+      "anxious",
+      "worried",
+      "sad",
+      "confused",
+      "betrayed"
+    ],
+    "behavior": "I hesitate and put off contacting Ethan. I avoid making a decision and distract myself with other things. I might talk to others about the situation instead of addressing it directly.",
+    "source_text_id": "1000017872.txt",
+    "id": "50-2"
+  }
+]

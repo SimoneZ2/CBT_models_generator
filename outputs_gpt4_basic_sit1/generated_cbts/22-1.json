@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "Ongoing interpersonal difficulties involving a partner named Ivan and his family. Recent trust and betrayal issues involving Ivan. Ongoing contact with Ivan's family.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "People I care about will betray me.",
+  "intermediate_belief_depression": "I cannot trust anyone close to me.",
+  "coping_strategies": "Avoid confrontation and suppress feelings to maintain peace.",
+  "situation": "Discovered that Ivan made travel plans without consulting the patient.",
+  "auto_thought": "Ivan doesn't care about my feelings or opinions.",
+  "emotion": [
+    "Hurt",
+    "Anger",
+    "Sadness"
+  ],
+  "behavior": "Withdrawing from Ivan and his family, avoiding discussions about the travel plans."
+}

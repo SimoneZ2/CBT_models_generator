@@ -1,0 +1,1274 @@
+2026-01-30 16:04:12,236 | INFO | [LOG] Writing logs to: outputs_gpt4_basic_sit1\eval_log_20260130_160412.txt
+2026-01-30 16:04:12,281 | INFO | SOURCE_ID: 1-1
+2026-01-30 16:04:12,282 | INFO | GOLD_ID: 1-1
+2026-01-30 16:04:12,282 | INFO | GOLD helpless_belief: ['I am trapped.', 'I am out of control.']
+2026-01-30 16:04:12,282 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am undesirable, unwanted.']
+2026-01-30 16:04:12,282 | INFO | GOLD worthless_belief: []
+2026-01-30 16:04:12,283 | INFO | vignette_en: HISTORY:
+- History of substance abuse and completed rehabilitation.
+- Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect.
+- Longstanding obesity since childhood.
+- Past experiences of bullying related to weight.
+
+SITUATION:
+- Received an invitation to a cousin's upcoming wedding.
+- Has not responded to the RSVP request and has not answered follow-up calls from family members.
+2026-01-30 16:04:17,817 | INFO | PRED_MD5: eb61ee5a9ab88db670f0c5607765d0fc
+2026-01-30 16:04:33,972 | INFO | ========================================
+2026-01-30 16:04:33,973 | INFO | [DONE] 1-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\1-1.json
+2026-01-30 16:04:33,973 | INFO | Scores:
+2026-01-30 16:04:33,973 | INFO |   embeddings_cosine: 0.4873164713382721
+2026-01-30 16:04:33,974 | INFO |   crossencoder_sts:  0.5533681452274323
+2026-01-30 16:04:33,974 | INFO |   nli_entailment:    0.3775390789777578
+2026-01-30 16:04:33,974 | INFO |   nli_contradiction: 0.0006000000000000001
+2026-01-30 16:04:33,974 | INFO |   fine_jaccard:      0.125
+2026-01-30 16:04:33,974 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-30 16:04:33,975 | INFO | SOURCE_ID: 2-1
+2026-01-30 16:04:33,975 | INFO | GOLD_ID: 2-1
+2026-01-30 16:04:33,975 | INFO | GOLD helpless_belief: ['I am powerless, weak, vulnerable.', 'I am trapped.']
+2026-01-30 16:04:33,975 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am undesirable, unwanted.', 'I am bound to be abandoned.', 'I am bound to be alone.']
+2026-01-30 16:04:33,976 | INFO | GOLD worthless_belief: []
+2026-01-30 16:04:33,976 | INFO | vignette_en: HISTORY:
+- Recent family tension related to a conversation with parents about a wedding list.
+- The patient noticed similarities between their own actions and their father's patterns.
+- The father is described as repeatedly seeking approval and unconditional love from family members.
+
+SITUATION:
+- Disagreement with parents regarding the guest list for an upcoming event.
+2026-01-30 16:04:38,551 | INFO | PRED_MD5: 87fff80cbb33bfe55ab5ae47d334089d
+2026-01-30 16:04:39,433 | INFO | ========================================
+2026-01-30 16:04:39,433 | INFO | [DONE] 2-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\2-1.json
+2026-01-30 16:04:39,434 | INFO | Scores:
+2026-01-30 16:04:39,434 | INFO |   embeddings_cosine: 0.40851683616638185
+2026-01-30 16:04:39,434 | INFO |   crossencoder_sts:  0.4621648371219635
+2026-01-30 16:04:39,434 | INFO |   nli_entailment:    0.10073348648013995
+2026-01-30 16:04:39,434 | INFO |   nli_contradiction: 0.10329999999999999
+2026-01-30 16:04:39,436 | INFO |   fine_jaccard:      0.14285714285714285
+2026-01-30 16:04:39,436 | INFO |   major_jaccard:     1.0
+2026-01-30 16:04:39,436 | INFO | SOURCE_ID: 3-1
+2026-01-30 16:04:39,436 | INFO | GOLD_ID: 3-1
+2026-01-30 16:04:39,437 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am helpless.', 'I am trapped.', 'I am a failure, loser.']
+2026-01-30 16:04:39,437 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:04:39,437 | INFO | GOLD worthless_belief: []
+2026-01-30 16:04:39,437 | INFO | vignette_en: HISTORY:
+- PhD candidate engaged in scientific research.
+- References to a sequencing-related study and a colleague named Kelly.
+- Working on a project with a senior scientist who has struggled to gain recognition in his career.
+
+SITUATION:
+- Working on a PhD project and concerned about its progress.
+2026-01-30 16:04:44,714 | INFO | PRED_MD5: 182c8117e37598ad91c89ed1f1740b9a
+2026-01-30 16:04:46,051 | INFO | ========================================
+2026-01-30 16:04:46,051 | INFO | [DONE] 3-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\3-1.json
+2026-01-30 16:04:46,052 | INFO | Scores:
+2026-01-30 16:04:46,052 | INFO |   embeddings_cosine: 0.5254149258136749
+2026-01-30 16:04:46,052 | INFO |   crossencoder_sts:  0.39919606745243075
+2026-01-30 16:04:46,053 | INFO |   nli_entailment:    0.023582891049579793
+2026-01-30 16:04:46,053 | INFO |   nli_contradiction: 0.132
+2026-01-30 16:04:46,053 | INFO |   fine_jaccard:      0.4
+2026-01-30 16:04:46,054 | INFO |   major_jaccard:     0.5
+2026-01-30 16:04:46,054 | INFO | SOURCE_ID: 4-1
+2026-01-30 16:04:46,054 | INFO | GOLD_ID: 4-1
+2026-01-30 16:04:46,054 | INFO | GOLD helpless_belief: ['I am helpless.', 'I am powerless, weak, vulnerable.', 'I am a victim.', 'I am trapped.', 'I am defective.']
+2026-01-30 16:04:46,055 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:04:46,055 | INFO | GOLD worthless_belief: []
+2026-01-30 16:04:46,055 | INFO | vignette_en: HISTORY:
+- Recent shoulder surgery with a painful recovery process.
+- Ongoing pain, numbness, and tingling related to a herniated cervical disc.
+- Prior history of physical therapy for past walking difficulties and back issues.
+- Past prolonged illness associated with a period of immobility.
+- Started a new relationship and later experienced a return of physical symptoms.
+
+SITUATION:
+- Received an MRI report indicating a herniated disc.
+- Contacted the therapist after receiving the report.
+2026-01-30 16:04:50,546 | INFO | PRED_MD5: 07062debb85e0638979de0deb0f2dd3e
+2026-01-30 16:04:50,903 | INFO | ========================================
+2026-01-30 16:04:50,903 | INFO | [DONE] 4-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\4-1.json
+2026-01-30 16:04:50,903 | INFO | Scores:
+2026-01-30 16:04:50,904 | INFO |   embeddings_cosine: 0.3326442465186119
+2026-01-30 16:04:50,904 | INFO |   crossencoder_sts:  0.24348814208060504
+2026-01-30 16:04:50,904 | INFO |   nli_entailment:    0.12574905101796316
+2026-01-30 16:04:50,904 | INFO |   nli_contradiction: 0.07780000000000001
+2026-01-30 16:04:50,904 | INFO |   fine_jaccard:      0.6
+2026-01-30 16:04:50,904 | INFO |   major_jaccard:     1.0
+2026-01-30 16:04:50,904 | INFO | SOURCE_ID: 5-1
+2026-01-30 16:04:50,905 | INFO | GOLD_ID: 5-1
+2026-01-30 16:04:50,905 | INFO | GOLD helpless_belief: []
+2026-01-30 16:04:50,905 | INFO | GOLD unlovable_belief: ['I am undesirable, unwanted.']
+2026-01-30 16:04:50,905 | INFO | GOLD worthless_belief: ['I am worthless, waste.']
+2026-01-30 16:04:50,905 | INFO | vignette_en: HISTORY:
+- Worked overseas and built a website related to that work.
+- Recurrent pattern of starting new ideas and later abandoning projects when difficulties arise.
+- Family-related difficulty involving his father; wrote a personal letter as part of a forgiveness process.
+
+SITUATION:
+- Working on a personal project involving the development of a website.
+2026-01-30 16:04:54,562 | INFO | PRED_MD5: 74fdb36584b778974d0e8927c5420dc9
+2026-01-30 16:04:55,037 | INFO | ========================================
+2026-01-30 16:04:55,038 | INFO | [DONE] 5-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\5-1.json
+2026-01-30 16:04:55,038 | INFO | Scores:
+2026-01-30 16:04:55,039 | INFO |   embeddings_cosine: 0.4341754615306854
+2026-01-30 16:04:55,039 | INFO |   crossencoder_sts:  0.4089760661125183
+2026-01-30 16:04:55,039 | INFO |   nli_entailment:    0.012255454998137506
+2026-01-30 16:04:55,039 | INFO |   nli_contradiction: 0.20049999999999998
+2026-01-30 16:04:55,040 | INFO |   fine_jaccard:      0.0
+2026-01-30 16:04:55,040 | INFO |   major_jaccard:     0.0
+2026-01-30 16:04:55,040 | INFO | SOURCE_ID: 6-1
+2026-01-30 16:04:55,040 | INFO | GOLD_ID: 6-1
+2026-01-30 16:04:55,040 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am helpless.', 'I am needy.', 'I am a failure, loser.']
+2026-01-30 16:04:55,041 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:04:55,041 | INFO | GOLD worthless_belief: []
+2026-01-30 16:04:55,041 | INFO | vignette_en: HISTORY:
+- 28-year-old student.
+- Returned from Egypt.
+- Previously relied on parents for support and is now managing bills, finances, and health insurance independently for the first time.
+- Brother remains financially dependent on parents.
+
+SITUATION:
+- Considering requesting financial help from parents.
+- Looking for affordable counseling services.
+2026-01-30 16:05:00,935 | INFO | PRED_MD5: 90b851717361d7259c69910cd283314a
+2026-01-30 16:05:01,289 | INFO | ========================================
+2026-01-30 16:05:01,290 | INFO | [DONE] 6-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\6-1.json
+2026-01-30 16:05:01,290 | INFO | Scores:
+2026-01-30 16:05:01,290 | INFO |   embeddings_cosine: 0.4469768047332764
+2026-01-30 16:05:01,291 | INFO |   crossencoder_sts:  0.48336550695821645
+2026-01-30 16:05:01,291 | INFO |   nli_entailment:    0.3514877749326436
+2026-01-30 16:05:01,291 | INFO |   nli_contradiction: 0.0043
+2026-01-30 16:05:01,291 | INFO |   fine_jaccard:      0.2
+2026-01-30 16:05:01,291 | INFO |   major_jaccard:     1.0
+2026-01-30 16:05:01,292 | INFO | SOURCE_ID: 7-1
+2026-01-30 16:05:01,292 | INFO | GOLD_ID: 7-1
+2026-01-30 16:05:01,292 | INFO | GOLD helpless_belief: []
+2026-01-30 16:05:01,292 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:05:01,293 | INFO | GOLD worthless_belief: ['I am worthless, waste.']
+2026-01-30 16:05:01,293 | INFO | vignette_en: HISTORY:
+- History of long work hours in demanding work environments, including past touring work.
+- Unresolved issues with father, including reports of past abuse.
+- Recent exchange of letters with father addressing this history.
+
+SITUATION:
+- Evaluating progress on personal projects, including developing a website.
+- Spending time on social media instead of working on the project.
+2026-01-30 16:05:06,027 | INFO | PRED_MD5: 952e951d36d5653045561a207d60b926
+2026-01-30 16:05:06,469 | INFO | ========================================
+2026-01-30 16:05:06,471 | INFO | [DONE] 7-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\7-1.json
+2026-01-30 16:05:06,471 | INFO | Scores:
+2026-01-30 16:05:06,472 | INFO |   embeddings_cosine: 0.4212178304791451
+2026-01-30 16:05:06,472 | INFO |   crossencoder_sts:  0.3922517955303192
+2026-01-30 16:05:06,472 | INFO |   nli_entailment:    0.35065242953453735
+2026-01-30 16:05:06,473 | INFO |   nli_contradiction: 0.0008
+2026-01-30 16:05:06,473 | INFO |   fine_jaccard:      0.0
+2026-01-30 16:05:06,473 | INFO |   major_jaccard:     0.0
+2026-01-30 16:05:06,473 | INFO | SOURCE_ID: 8-1
+2026-01-30 16:05:06,474 | INFO | GOLD_ID: 8-1
+2026-01-30 16:05:06,474 | INFO | GOLD helpless_belief: ['I am powerless, weak, vulnerable.', 'I am a victim.']
+2026-01-30 16:05:06,474 | INFO | GOLD unlovable_belief: ['I am bound to be alone.']
+2026-01-30 16:05:06,474 | INFO | GOLD worthless_belief: []
+2026-01-30 16:05:06,474 | INFO | vignette_en: HISTORY:
+- Past traumatic incident involving sexual assault by partner Ivan.
+- Ongoing relationship difficulties involving trust and intimacy.
+- Reports some improvement in relationship dynamics with Ivan making efforts to rebuild trust.
+
+SITUATION:
+- Physical intimacy is resuming in the relationship.
+2026-01-30 16:05:11,315 | INFO | PRED_MD5: 5a25a29241e86402199a465ef6518c4f
+2026-01-30 16:05:11,671 | INFO | ========================================
+2026-01-30 16:05:11,671 | INFO | [DONE] 8-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\8-1.json
+2026-01-30 16:05:11,672 | INFO | Scores:
+2026-01-30 16:05:11,672 | INFO |   embeddings_cosine: 0.5332540571689606
+2026-01-30 16:05:11,672 | INFO |   crossencoder_sts:  0.530897855758667
+2026-01-30 16:05:11,672 | INFO |   nli_entailment:    0.16782902709953845
+2026-01-30 16:05:11,672 | INFO |   nli_contradiction: 0.015100000000000002
+2026-01-30 16:05:11,673 | INFO |   fine_jaccard:      0.25
+2026-01-30 16:05:11,673 | INFO |   major_jaccard:     1.0
+2026-01-30 16:05:11,673 | INFO | SOURCE_ID: 9-1
+2026-01-30 16:05:11,673 | INFO | GOLD_ID: 9-1
+2026-01-30 16:05:11,673 | INFO | GOLD helpless_belief: ['I am incompetent.']
+2026-01-30 16:05:11,674 | INFO | GOLD unlovable_belief: ['I am undesirable, unwanted.', 'I am bound to be abandoned.', 'I am bound to be alone.']
+2026-01-30 16:05:11,674 | INFO | GOLD worthless_belief: ['I am immoral.']
+2026-01-30 16:05:11,674 | INFO | vignette_en: HISTORY:
+- Long-standing friendship with Jersey, who has had multiple surgeries related to disabilities.
+- The patient has previously provided support during Jersey's medical procedures and recovery.
+- Ongoing conflict with roommate Ashby over household issues.
+
+SITUATION:
+- Thinking about Jersey's recovery while managing other personal responsibilities.
+2026-01-30 16:05:16,451 | INFO | PRED_MD5: 95bd0242eb5bcea8dd6b53f3ed7956e1
+2026-01-30 16:05:16,833 | INFO | ========================================
+2026-01-30 16:05:16,834 | INFO | [DONE] 9-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\9-1.json
+2026-01-30 16:05:16,834 | INFO | Scores:
+2026-01-30 16:05:16,834 | INFO |   embeddings_cosine: 0.3386868596076965
+2026-01-30 16:05:16,834 | INFO |   crossencoder_sts:  0.3944192737340927
+2026-01-30 16:05:16,834 | INFO |   nli_entailment:    0.10036960948771259
+2026-01-30 16:05:16,835 | INFO |   nli_contradiction: 0.0021999999999999997
+2026-01-30 16:05:16,835 | INFO |   fine_jaccard:      0.0
+2026-01-30 16:05:16,835 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-30 16:05:16,835 | INFO | SOURCE_ID: 10-1
+2026-01-30 16:05:16,836 | INFO | GOLD_ID: 10-1
+2026-01-30 16:05:16,836 | INFO | GOLD helpless_belief: ['I am powerless, weak, vulnerable.', 'I am incompetent.', 'I am helpless.', 'I am defective.']
+2026-01-30 16:05:16,836 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:05:16,836 | INFO | GOLD worthless_belief: []
+2026-01-30 16:05:16,836 | INFO | vignette_en: HISTORY:
+- Recent divorce.
+- Financial struggles and adjustment to single life.
+- Co-parenting.
+- Multiple friendships deteriorated after the divorce.
+- Complicated relationship with parents.
+
+SITUATION:
+- Managing financial hardship following the divorce, including handling financial paperwork.
+2026-01-30 16:05:21,266 | INFO | PRED_MD5: 6f3b512b2c11ad50ca20600b26dfd6bf
+2026-01-30 16:05:21,634 | INFO | ========================================
+2026-01-30 16:05:21,634 | INFO | [DONE] 10-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\10-1.json
+2026-01-30 16:05:21,635 | INFO | Scores:
+2026-01-30 16:05:21,636 | INFO |   embeddings_cosine: 0.45568845272064207
+2026-01-30 16:05:21,636 | INFO |   crossencoder_sts:  0.45152825117111206
+2026-01-30 16:05:21,636 | INFO |   nli_entailment:    0.20797754345797598
+2026-01-30 16:05:21,636 | INFO |   nli_contradiction: 0.0017000000000000001
+2026-01-30 16:05:21,636 | INFO |   fine_jaccard:      0.14285714285714285
+2026-01-30 16:05:21,637 | INFO |   major_jaccard:     0.5
+2026-01-30 16:05:21,637 | INFO | SOURCE_ID: 11-1
+2026-01-30 16:05:21,637 | INFO | GOLD_ID: 11-1
+2026-01-30 16:05:21,637 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am helpless.', 'I am powerless, weak, vulnerable.', 'I am trapped.']
+2026-01-30 16:05:21,637 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am undesirable, unwanted.', 'I am bound to be alone.']
+2026-01-30 16:05:21,637 | INFO | GOLD worthless_belief: []
+2026-01-30 16:05:21,637 | INFO | vignette_en: HISTORY:
+- History of isolation and chronic depression since late adolescence.
+- Past difficulties with friendships.
+- Recent breakup preceding a relapse into a depressive episode.
+- History of taking SSRIs and recent medication adjustments following the relapse.
+
+SITUATION:
+- Engaged in a conversation with a friend about mental health struggles.
+2026-01-30 16:05:26,110 | INFO | PRED_MD5: 0f4d13804c09e257f17e48d0f11599cd
+2026-01-30 16:05:26,468 | INFO | ========================================
+2026-01-30 16:05:26,468 | INFO | [DONE] 11-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\11-1.json
+2026-01-30 16:05:26,469 | INFO | Scores:
+2026-01-30 16:05:26,469 | INFO |   embeddings_cosine: 0.5142068505287171
+2026-01-30 16:05:26,469 | INFO |   crossencoder_sts:  0.3892509609460831
+2026-01-30 16:05:26,470 | INFO |   nli_entailment:    0.10108294495907273
+2026-01-30 16:05:26,470 | INFO |   nli_contradiction: 0.11089999999999997
+2026-01-30 16:05:26,470 | INFO |   fine_jaccard:      0.375
+2026-01-30 16:05:26,470 | INFO |   major_jaccard:     1.0
+2026-01-30 16:05:26,470 | INFO | SOURCE_ID: 12-1
+2026-01-30 16:05:26,471 | INFO | GOLD_ID: 12-1
+2026-01-30 16:05:26,471 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am helpless.', 'I am a failure, loser.']
+2026-01-30 16:05:26,471 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:05:26,471 | INFO | GOLD worthless_belief: []
+2026-01-30 16:05:26,472 | INFO | vignette_en: HISTORY:
+- PhD student in a science field.
+- Deep involvement in music; previously led a college band and currently participates in a jazz group.
+- Offered a leadership position in the jazz group and declined.
+- Reports mental health struggles.
+- Feels disconnected from colleagues in the scientific work environment due to differing values and work habits.
+
+SITUATION:
+- Experiencing difficulty during jazz rehearsals, requiring repeated attempts to progress.
+2026-01-30 16:05:32,619 | INFO | PRED_MD5: e4f221ebd6762f2621d3201879f46c9b
+2026-01-30 16:05:33,048 | INFO | ========================================
+2026-01-30 16:05:33,049 | INFO | [DONE] 12-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\12-1.json
+2026-01-30 16:05:33,049 | INFO | Scores:
+2026-01-30 16:05:33,049 | INFO |   embeddings_cosine: 0.47026991844177246
+2026-01-30 16:05:33,049 | INFO |   crossencoder_sts:  0.39912677854299544
+2026-01-30 16:05:33,050 | INFO |   nli_entailment:    0.37399099514548534
+2026-01-30 16:05:33,050 | INFO |   nli_contradiction: 0.0012000000000000001
+2026-01-30 16:05:33,050 | INFO |   fine_jaccard:      0.2
+2026-01-30 16:05:33,050 | INFO |   major_jaccard:     0.5
+2026-01-30 16:05:33,051 | INFO | SOURCE_ID: 13-1
+2026-01-30 16:05:33,051 | INFO | GOLD_ID: 13-1
+2026-01-30 16:05:33,051 | INFO | GOLD helpless_belief: []
+2026-01-30 16:05:33,051 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:05:33,051 | INFO | GOLD worthless_belief: ['I am worthless, waste.', 'I am immoral.', 'I am bad - dangerous, toxic, evil.']
+2026-01-30 16:05:33,052 | INFO | vignette_en: HISTORY:
+- Death of a close aunt whom the patient considered a mother figure.
+- The patient did not fulfill the aunt's last request and was not present at the time of death.
+- Pattern of prioritizing others' needs over their own.
+
+SITUATION:
+- Reflecting on memories involving the aunt and the unfulfilled request.
+2026-01-30 16:05:40,235 | INFO | PRED_MD5: 59a16a2145ce8596e81975c166a8a661
+2026-01-30 16:05:40,647 | INFO | ========================================
+2026-01-30 16:05:40,647 | INFO | [DONE] 13-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\13-1.json
+2026-01-30 16:05:40,648 | INFO | Scores:
+2026-01-30 16:05:40,648 | INFO |   embeddings_cosine: 0.5118165373802185
+2026-01-30 16:05:40,648 | INFO |   crossencoder_sts:  0.5619327545166015
+2026-01-30 16:05:40,649 | INFO |   nli_entailment:    0.20355724656402835
+2026-01-30 16:05:40,649 | INFO |   nli_contradiction: 0.0026999999999999997
+2026-01-30 16:05:40,650 | INFO |   fine_jaccard:      0.0
+2026-01-30 16:05:40,650 | INFO |   major_jaccard:     0.0
+2026-01-30 16:05:40,650 | INFO | SOURCE_ID: 14-1
+2026-01-30 16:05:40,651 | INFO | GOLD_ID: 14-1
+2026-01-30 16:05:40,651 | INFO | GOLD helpless_belief: ['I am helpless.', 'I am incompetent.', 'I am a failure, loser.']
+2026-01-30 16:05:40,651 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:05:40,651 | INFO | GOLD worthless_belief: []
+2026-01-30 16:05:40,652 | INFO | vignette_en: HISTORY:
+- Financial difficulties following questionable investments.
+- Increased reliance on parents for financial assistance.
+
+SITUATION:
+- Thinking about how past financial decisions may affect future plans.
+2026-01-30 16:05:45,587 | INFO | PRED_MD5: e81914246c6bd99ab1140d7fbd6f2355
+2026-01-30 16:05:46,048 | INFO | ========================================
+2026-01-30 16:05:46,049 | INFO | [DONE] 14-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\14-1.json
+2026-01-30 16:05:46,049 | INFO | Scores:
+2026-01-30 16:05:46,050 | INFO |   embeddings_cosine: 0.34300952553749087
+2026-01-30 16:05:46,050 | INFO |   crossencoder_sts:  0.27770201191306115
+2026-01-30 16:05:46,050 | INFO |   nli_entailment:    0.10214157277759166
+2026-01-30 16:05:46,050 | INFO |   nli_contradiction: 0.007000000000000001
+2026-01-30 16:05:46,050 | INFO |   fine_jaccard:      0.5
+2026-01-30 16:05:46,051 | INFO |   major_jaccard:     0.5
+2026-01-30 16:05:46,051 | INFO | SOURCE_ID: 15-1
+2026-01-30 16:05:46,051 | INFO | GOLD_ID: 15-1
+2026-01-30 16:05:46,051 | INFO | GOLD helpless_belief: ['I am helpless.', 'I am incompetent.', 'I am trapped.']
+2026-01-30 16:05:46,051 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:05:46,052 | INFO | GOLD worthless_belief: ['I am worthless, waste.']
+2026-01-30 16:05:46,052 | INFO | vignette_en: HISTORY:
+- Ongoing workplace difficulties involving underappreciation and lack of support.
+- Repeated experiences of ideas and suggestions not being accepted.
+
+SITUATION:
+- A workplace discussion about culture and atmosphere conflicted with a client meeting scheduled by the mentor.
+2026-01-30 16:05:49,563 | INFO | PRED_MD5: f7a91f9d0d4db9d0340d5d2c854b5b48
+2026-01-30 16:05:50,025 | INFO | ========================================
+2026-01-30 16:05:50,026 | INFO | [DONE] 15-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\15-1.json
+2026-01-30 16:05:50,026 | INFO | Scores:
+2026-01-30 16:05:50,026 | INFO |   embeddings_cosine: 0.35967300534248353
+2026-01-30 16:05:50,026 | INFO |   crossencoder_sts:  0.3810069262981415
+2026-01-30 16:05:50,027 | INFO |   nli_entailment:    0.1189135026879156
+2026-01-30 16:05:50,027 | INFO |   nli_contradiction: 0.0015
+2026-01-30 16:05:50,027 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-30 16:05:50,027 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-30 16:05:50,028 | INFO | SOURCE_ID: 16-1
+2026-01-30 16:05:50,028 | INFO | GOLD_ID: 16-1
+2026-01-30 16:05:50,028 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am out of control.', 'I am a failure, loser.']
+2026-01-30 16:05:50,028 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:05:50,029 | INFO | GOLD worthless_belief: []
+2026-01-30 16:05:50,029 | INFO | vignette_en: HISTORY:
+- Spent about one year working on a project in Europe involving building a website and conducting interviews.
+- Reports pride in the work and a wish to share the results.
+- Past history of procrastination and anxiety.
+- Uses strategies learned from a course and reminders to manage daily life.
+
+SITUATION:
+- Working on a project close to its deadline with portions still needing to be posted online.
+2026-01-30 16:05:53,651 | INFO | PRED_MD5: 04f5a7f083d01bcc5794547d05f90e6a
+2026-01-30 16:05:54,055 | INFO | ========================================
+2026-01-30 16:05:54,056 | INFO | [DONE] 16-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\16-1.json
+2026-01-30 16:05:54,056 | INFO | Scores:
+2026-01-30 16:05:54,056 | INFO |   embeddings_cosine: 0.5802102982997894
+2026-01-30 16:05:54,057 | INFO |   crossencoder_sts:  0.5251640677452087
+2026-01-30 16:05:54,057 | INFO |   nli_entailment:    0.31922249762956534
+2026-01-30 16:05:54,057 | INFO |   nli_contradiction: 0.004399999999999999
+2026-01-30 16:05:54,057 | INFO |   fine_jaccard:      0.25
+2026-01-30 16:05:54,058 | INFO |   major_jaccard:     1.0
+2026-01-30 16:05:54,058 | INFO | SOURCE_ID: 17-1
+2026-01-30 16:05:54,058 | INFO | GOLD_ID: 17-1
+2026-01-30 16:05:54,058 | INFO | GOLD helpless_belief: ['I am powerless, weak, vulnerable.', 'I am needy.']
+2026-01-30 16:05:54,058 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am undesirable, unwanted.', 'I am bound to be abandoned.', 'I am bound to be alone.']
+2026-01-30 16:05:54,059 | INFO | GOLD worthless_belief: []
+2026-01-30 16:05:54,059 | INFO | vignette_en: HISTORY:
+- Sarah is in a long-term relationship with Amelia.
+- Amelia has a demanding professional schedule.
+- Sarah feels isolated during the week.
+- Sarah does most household tasks and does not discuss resentment with Amelia.
+- History includes childhood separations from parents associated with distress.
+
+SITUATION:
+- Not receiving communication from the partner during the day and attempting to make contact.
+2026-01-30 16:05:58,873 | INFO | PRED_MD5: 5fce1813b28f8a59f8fec27b09becc8e
+2026-01-30 16:05:59,268 | INFO | ========================================
+2026-01-30 16:05:59,268 | INFO | [DONE] 17-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\17-1.json
+2026-01-30 16:05:59,268 | INFO | Scores:
+2026-01-30 16:05:59,269 | INFO |   embeddings_cosine: 0.4868998467922211
+2026-01-30 16:05:59,269 | INFO |   crossencoder_sts:  0.4077737659215927
+2026-01-30 16:05:59,270 | INFO |   nli_entailment:    0.1054613209717652
+2026-01-30 16:05:59,270 | INFO |   nli_contradiction: 0.10019999999999998
+2026-01-30 16:05:59,270 | INFO |   fine_jaccard:      0.25
+2026-01-30 16:05:59,270 | INFO |   major_jaccard:     1.0
+2026-01-30 16:05:59,270 | INFO | SOURCE_ID: 18-1
+2026-01-30 16:05:59,271 | INFO | GOLD_ID: 18-1
+2026-01-30 16:05:59,271 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am helpless.', 'I am a failure, loser.']
+2026-01-30 16:05:59,271 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:05:59,272 | INFO | GOLD worthless_belief: ['I am worthless, waste.']
+2026-01-30 16:05:59,272 | INFO | vignette_en: HISTORY:
+- Academic underperformance despite being described as intelligent.
+- Attended a college (institution X), felt isolated, and dropped out.
+- About two years of credits remain to complete the degree.
+- Mother had high expectations.
+- Financial difficulties and pressure from the mother to return home.
+
+SITUATION:
+- Experienced an unproductive week due to scheduling problems.
+- Comparing themselves to their sister's achievements and time management.
+2026-01-30 16:06:07,641 | INFO | PRED_MD5: 51d9d56cbbbc3e77843ed9a5f9b2604a
+2026-01-30 16:06:08,068 | INFO | ========================================
+2026-01-30 16:06:08,069 | INFO | [DONE] 18-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\18-1.json
+2026-01-30 16:06:08,069 | INFO | Scores:
+2026-01-30 16:06:08,070 | INFO |   embeddings_cosine: 0.432112580537796
+2026-01-30 16:06:08,070 | INFO |   crossencoder_sts:  0.37308094203472136
+2026-01-30 16:06:08,070 | INFO |   nli_entailment:    0.02296875596681885
+2026-01-30 16:06:08,070 | INFO |   nli_contradiction: 0.0777
+2026-01-30 16:06:08,071 | INFO |   fine_jaccard:      0.4
+2026-01-30 16:06:08,071 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-30 16:06:08,071 | INFO | SOURCE_ID: 19-1
+2026-01-30 16:06:08,072 | INFO | GOLD_ID: 19-1
+2026-01-30 16:06:08,072 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am helpless.', 'I am a failure, loser.']
+2026-01-30 16:06:08,073 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:06:08,073 | INFO | GOLD worthless_belief: []
+2026-01-30 16:06:08,073 | INFO | vignette_en: HISTORY:
+- Rachel has recurring relationship problems with her husband Ivan.
+- Work-related stress.
+- Sister Emma often takes a caring role toward Rachel.
+- Father had a successful career and strong work ethic, influencing Rachel's expectations.
+- Recently laid off and currently looking for new employment.
+
+SITUATION:
+- Comparing personal career aspirations to those of the spouse.
+2026-01-30 16:06:13,975 | INFO | PRED_MD5: 4c3201b227b47970a4a679aecec166fd
+2026-01-30 16:06:14,446 | INFO | ========================================
+2026-01-30 16:06:14,446 | INFO | [DONE] 19-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\19-1.json
+2026-01-30 16:06:14,447 | INFO | Scores:
+2026-01-30 16:06:14,447 | INFO |   embeddings_cosine: 0.5103246331214905
+2026-01-30 16:06:14,448 | INFO |   crossencoder_sts:  0.3673336565494537
+2026-01-30 16:06:14,448 | INFO |   nli_entailment:    0.0530249161411358
+2026-01-30 16:06:14,448 | INFO |   nli_contradiction: 0.1046
+2026-01-30 16:06:14,449 | INFO |   fine_jaccard:      0.5
+2026-01-30 16:06:14,449 | INFO |   major_jaccard:     0.5
+2026-01-30 16:06:14,450 | INFO | SOURCE_ID: 20-1
+2026-01-30 16:06:14,451 | INFO | GOLD_ID: 20-1
+2026-01-30 16:06:14,451 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am helpless.', 'I am powerless, weak, vulnerable.', 'I am trapped.']
+2026-01-30 16:06:14,451 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:06:14,452 | INFO | GOLD worthless_belief: []
+2026-01-30 16:06:14,452 | INFO | vignette_en: HISTORY:
+- Multiple past jobs involved micromanagement.
+- Reports self-blame in work contexts.
+
+SITUATION:
+- Being blamed at work for spreadsheet errors that were not theirs.
+2026-01-30 16:06:18,944 | INFO | PRED_MD5: 6d05994c7d7e463a154d9153220a037e
+2026-01-30 16:06:19,397 | INFO | ========================================
+2026-01-30 16:06:19,398 | INFO | [DONE] 20-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\20-1.json
+2026-01-30 16:06:19,398 | INFO | Scores:
+2026-01-30 16:06:19,398 | INFO |   embeddings_cosine: 0.4027508348226547
+2026-01-30 16:06:19,398 | INFO |   crossencoder_sts:  0.402632075548172
+2026-01-30 16:06:19,399 | INFO |   nli_entailment:    0.07146513289010101
+2026-01-30 16:06:19,399 | INFO |   nli_contradiction: 0.1265
+2026-01-30 16:06:19,399 | INFO |   fine_jaccard:      0.25
+2026-01-30 16:06:19,400 | INFO |   major_jaccard:     1.0
+2026-01-30 16:06:19,400 | INFO | SOURCE_ID: 21-1
+2026-01-30 16:06:19,400 | INFO | GOLD_ID: 21-1
+2026-01-30 16:06:19,400 | INFO | GOLD helpless_belief: ['I am helpless.', 'I am powerless, weak, vulnerable.', 'I am trapped.']
+2026-01-30 16:06:19,400 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am undesirable, unwanted.', 'I am bound to be abandoned.']
+2026-01-30 16:06:19,400 | INFO | GOLD worthless_belief: []
+2026-01-30 16:06:19,401 | INFO | vignette_en: HISTORY:
+- History of family conflict with a dismissive and unsupportive father.
+- Estrangement from the father.
+- Ongoing stress related to partner's family, including a difficult relationship with the partner's sister-in-law.
+
+SITUATION:
+- Anticipating interactions with Candace during an upcoming family vacation in Maine.
+2026-01-30 16:06:24,815 | INFO | PRED_MD5: 996563a643425cf30b9a178f7abaed21
+2026-01-30 16:06:25,250 | INFO | ========================================
+2026-01-30 16:06:25,250 | INFO | [DONE] 21-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\21-1.json
+2026-01-30 16:06:25,251 | INFO | Scores:
+2026-01-30 16:06:25,252 | INFO |   embeddings_cosine: 0.6268447875976563
+2026-01-30 16:06:25,252 | INFO |   crossencoder_sts:  0.5495914936065673
+2026-01-30 16:06:25,252 | INFO |   nli_entailment:    0.3260836594083715
+2026-01-30 16:06:25,252 | INFO |   nli_contradiction: 0.0843
+2026-01-30 16:06:25,252 | INFO |   fine_jaccard:      0.14285714285714285
+2026-01-30 16:06:25,254 | INFO |   major_jaccard:     1.0
+2026-01-30 16:06:25,254 | INFO | SOURCE_ID: 22-1
+2026-01-30 16:06:25,255 | INFO | GOLD_ID: 22-1
+2026-01-30 16:06:25,255 | INFO | GOLD helpless_belief: ['I am helpless.', 'I am a victim.', 'I am trapped.']
+2026-01-30 16:06:25,255 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be abandoned.']
+2026-01-30 16:06:25,256 | INFO | GOLD worthless_belief: []
+2026-01-30 16:06:25,256 | INFO | vignette_en: HISTORY:
+- Ongoing interpersonal difficulties involving a partner named Ivan and his family.
+- Recent trust and betrayal issues involving Ivan.
+- Ongoing contact with Ivan's family.
+
+SITUATION:
+- Discovered that Ivan made travel plans without consulting the patient.
+2026-01-30 16:06:34,473 | INFO | PRED_MD5: 5511ce7536220b7c0a919515a2209f52
+2026-01-30 16:06:34,843 | INFO | ========================================
+2026-01-30 16:06:34,844 | INFO | [DONE] 22-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\22-1.json
+2026-01-30 16:06:34,844 | INFO | Scores:
+2026-01-30 16:06:34,844 | INFO |   embeddings_cosine: 0.4071800023317337
+2026-01-30 16:06:34,844 | INFO |   crossencoder_sts:  0.3000520318746567
+2026-01-30 16:06:34,845 | INFO |   nli_entailment:    0.09755834043722753
+2026-01-30 16:06:34,845 | INFO |   nli_contradiction: 0.3015
+2026-01-30 16:06:34,845 | INFO |   fine_jaccard:      0.0
+2026-01-30 16:06:34,845 | INFO |   major_jaccard:     1.0
+2026-01-30 16:06:34,846 | INFO | SOURCE_ID: 23-1
+2026-01-30 16:06:34,846 | INFO | GOLD_ID: 23-1
+2026-01-30 16:06:34,846 | INFO | GOLD helpless_belief: ['I am helpless.', 'I am powerless, weak, vulnerable.', 'I am trapped.', 'I am out of control.']
+2026-01-30 16:06:34,846 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be abandoned.']
+2026-01-30 16:06:34,847 | INFO | GOLD worthless_belief: []
+2026-01-30 16:06:34,847 | INFO | vignette_en: HISTORY:
+- Longstanding difficult interactions with the patient's mother.
+- Strained communication and delayed sharing of significant events within the family.
+
+SITUATION:
+- Preparing for an upcoming visit from parents.
+2026-01-30 16:06:40,857 | INFO | PRED_MD5: 7e837a1f4f02d7a33aa47a9e9f76a2b3
+2026-01-30 16:06:41,269 | INFO | ========================================
+2026-01-30 16:06:41,270 | INFO | [DONE] 23-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\23-1.json
+2026-01-30 16:06:41,270 | INFO | Scores:
+2026-01-30 16:06:41,270 | INFO |   embeddings_cosine: 0.3617986708879471
+2026-01-30 16:06:41,270 | INFO |   crossencoder_sts:  0.33197819292545316
+2026-01-30 16:06:41,270 | INFO |   nli_entailment:    0.016605390755304057
+2026-01-30 16:06:41,271 | INFO |   nli_contradiction: 0.011100000000000002
+2026-01-30 16:06:41,271 | INFO |   fine_jaccard:      0.2857142857142857
+2026-01-30 16:06:41,271 | INFO |   major_jaccard:     1.0
+2026-01-30 16:06:41,271 | INFO | SOURCE_ID: 24-1
+2026-01-30 16:06:41,272 | INFO | GOLD_ID: 24-1
+2026-01-30 16:06:41,272 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am helpless.', 'I am powerless, weak, vulnerable.', 'I am a failure, loser.']
+2026-01-30 16:06:41,272 | INFO | GOLD unlovable_belief: ['I am undesirable, unwanted.', 'I am bound to be abandoned.']
+2026-01-30 16:06:41,272 | INFO | GOLD worthless_belief: []
+2026-01-30 16:06:41,272 | INFO | vignette_en: HISTORY:
+- Past experiences of pressure related to performance and social interactions.
+- Reports presenting a confident front and hiding vulnerability.
+- A recent business failure led to financial hardship.
+
+SITUATION:
+- Invited to visit their sister while dealing with financial instability.
+2026-01-30 16:06:46,773 | INFO | PRED_MD5: bb6794392a4751520a71ed7e204cb5e8
+2026-01-30 16:06:47,247 | INFO | ========================================
+2026-01-30 16:06:47,247 | INFO | [DONE] 24-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\24-1.json
+2026-01-30 16:06:47,248 | INFO | Scores:
+2026-01-30 16:06:47,248 | INFO |   embeddings_cosine: 0.40965787768363954
+2026-01-30 16:06:47,248 | INFO |   crossencoder_sts:  0.3610814452171326
+2026-01-30 16:06:47,248 | INFO |   nli_entailment:    0.03467941308490249
+2026-01-30 16:06:47,249 | INFO |   nli_contradiction: 0.054000000000000006
+2026-01-30 16:06:47,249 | INFO |   fine_jaccard:      0.2857142857142857
+2026-01-30 16:06:47,249 | INFO |   major_jaccard:     1.0
+2026-01-30 16:06:47,250 | INFO | SOURCE_ID: 25-1
+2026-01-30 16:06:47,250 | INFO | GOLD_ID: 25-1
+2026-01-30 16:06:47,250 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am powerless, weak, vulnerable.', 'I am a failure, loser.']
+2026-01-30 16:06:47,250 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:06:47,250 | INFO | GOLD worthless_belief: []
+2026-01-30 16:06:47,251 | INFO | vignette_en: HISTORY:
+- Works in an educational setting with children who have learning disabilities.
+- Describes being pampered by parents and having minimal consequences earlier in life.
+- Ongoing conflicts with authority figures.
+
+SITUATION:
+- Encouraging students to socialize and participate in campus activities, with results falling short of expectations.
+2026-01-30 16:06:54,361 | INFO | PRED_MD5: 2e756ee5a42224748f32fa7b08dbe804
+2026-01-30 16:06:54,803 | INFO | ========================================
+2026-01-30 16:06:54,804 | INFO | [DONE] 25-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\25-1.json
+2026-01-30 16:06:54,804 | INFO | Scores:
+2026-01-30 16:06:54,804 | INFO |   embeddings_cosine: 0.37403119206428526
+2026-01-30 16:06:54,805 | INFO |   crossencoder_sts:  0.26495431661605834
+2026-01-30 16:06:54,805 | INFO |   nli_entailment:    0.11347120574620653
+2026-01-30 16:06:54,805 | INFO |   nli_contradiction: 0.18159999999999998
+2026-01-30 16:06:54,806 | INFO |   fine_jaccard:      0.25
+2026-01-30 16:06:54,806 | INFO |   major_jaccard:     0.5
+2026-01-30 16:06:54,806 | INFO | SOURCE_ID: 26-1
+2026-01-30 16:06:54,806 | INFO | GOLD_ID: 26-1
+2026-01-30 16:06:54,806 | INFO | GOLD helpless_belief: ['I am helpless.', 'I am out of control.', 'I am powerless, weak, vulnerable.', 'I am trapped.']
+2026-01-30 16:06:54,807 | INFO | GOLD unlovable_belief: ['I am unlovable.']
+2026-01-30 16:06:54,807 | INFO | GOLD worthless_belief: []
+2026-01-30 16:06:54,807 | INFO | vignette_en: HISTORY:
+- Ongoing work-related uncertainty and anxiety.
+- Married recently; the relationship included instances of physical abuse by spouse Ivan and resulted in separation.
+- Both partners are interested in resolving issues and are attending couples therapy.
+
+SITUATION:
+- Exposed to clinical terms used to describe the spouse's behavior during therapy sessions.
+2026-01-30 16:07:01,480 | INFO | PRED_MD5: 6686c54d5a70f32214a6b7d3bf706886
+2026-01-30 16:07:01,851 | INFO | ========================================
+2026-01-30 16:07:01,851 | INFO | [DONE] 26-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\26-1.json
+2026-01-30 16:07:01,852 | INFO | Scores:
+2026-01-30 16:07:01,852 | INFO |   embeddings_cosine: 0.4429119825363159
+2026-01-30 16:07:01,853 | INFO |   crossencoder_sts:  0.4803472876548767
+2026-01-30 16:07:01,854 | INFO |   nli_entailment:    0.22138860413795194
+2026-01-30 16:07:01,854 | INFO |   nli_contradiction: 0.0048000000000000004
+2026-01-30 16:07:01,854 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-30 16:07:01,854 | INFO |   major_jaccard:     1.0
+2026-01-30 16:07:01,854 | INFO | SOURCE_ID: 27-1
+2026-01-30 16:07:01,854 | INFO | GOLD_ID: 27-1
+2026-01-30 16:07:01,854 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am helpless.', 'I am powerless, weak, vulnerable.']
+2026-01-30 16:07:01,854 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be rejected.', 'I am bound to be abandoned.']
+2026-01-30 16:07:01,855 | INFO | GOLD worthless_belief: []
+2026-01-30 16:07:01,855 | INFO | vignette_en: HISTORY:
+- Recent divorce and financial difficulties.
+- Relationship since age 19.
+- Has a young son and is settling child support issues.
+- Adjusting to being alone and handling new experiences (e.g., traveling alone with her son, visiting family without a partner).
+
+SITUATION:
+- Received an email from the ex-partner refusing to agree on child support and financial arrangements.
+2026-01-30 16:07:07,147 | INFO | PRED_MD5: 039a43e57d688949296816923764d3a9
+2026-01-30 16:07:07,612 | INFO | ========================================
+2026-01-30 16:07:07,612 | INFO | [DONE] 27-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\27-1.json
+2026-01-30 16:07:07,613 | INFO | Scores:
+2026-01-30 16:07:07,613 | INFO |   embeddings_cosine: 0.5133510529994965
+2026-01-30 16:07:07,614 | INFO |   crossencoder_sts:  0.5140832602977753
+2026-01-30 16:07:07,614 | INFO |   nli_entailment:    0.29208494435003274
+2026-01-30 16:07:07,614 | INFO |   nli_contradiction: 0.3997
+2026-01-30 16:07:07,615 | INFO |   fine_jaccard:      0.125
+2026-01-30 16:07:07,615 | INFO |   major_jaccard:     1.0
+2026-01-30 16:07:07,616 | INFO | SOURCE_ID: 28-1
+2026-01-30 16:07:07,616 | INFO | GOLD_ID: 28-1
+2026-01-30 16:07:07,616 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am powerless, weak, vulnerable.', 'I am a failure, loser.']
+2026-01-30 16:07:07,617 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:07:07,618 | INFO | GOLD worthless_belief: []
+2026-01-30 16:07:07,618 | INFO | vignette_en: HISTORY:
+- History of self-critical tendencies.
+- Used to maintaining control and achieving goals.
+- Current challenges involve job seeking, personal relationships, and family dynamics.
+
+SITUATION:
+- Experiencing difficulties with job searching.
+- Dealing with ongoing relationship and family conflicts involving a person named Ivan.
+2026-01-30 16:07:16,683 | INFO | PRED_MD5: 69e08771e9996ae8f1c6960efb6da0e3
+2026-01-30 16:07:17,046 | INFO | ========================================
+2026-01-30 16:07:17,046 | INFO | [DONE] 28-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\28-1.json
+2026-01-30 16:07:17,047 | INFO | Scores:
+2026-01-30 16:07:17,047 | INFO |   embeddings_cosine: 0.4365952730178833
+2026-01-30 16:07:17,049 | INFO |   crossencoder_sts:  0.5471556127071381
+2026-01-30 16:07:17,049 | INFO |   nli_entailment:    0.196061812285031
+2026-01-30 16:07:17,049 | INFO |   nli_contradiction: 0.003999999999999999
+2026-01-30 16:07:17,049 | INFO |   fine_jaccard:      0.5
+2026-01-30 16:07:17,049 | INFO |   major_jaccard:     0.5
+2026-01-30 16:07:17,050 | INFO | SOURCE_ID: 29-1
+2026-01-30 16:07:17,050 | INFO | GOLD_ID: 29-1
+2026-01-30 16:07:17,050 | INFO | GOLD helpless_belief: ['I am powerless, weak, vulnerable.', 'I am out of control.']
+2026-01-30 16:07:17,050 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:07:17,051 | INFO | GOLD worthless_belief: ['I am worthless, waste.']
+2026-01-30 16:07:17,051 | INFO | vignette_en: HISTORY:
+- Strong identification with a research lab workplace and a sense of camaraderie from interactions and accomplishments.
+- A close coworker left, which had emotional significance for the patient.
+- The lab contrasts with the patient's personal life, described as less predictable and comfortable.
+
+SITUATION:
+- Preparing for an important discussion scheduled in January.
+- Preparing for a lab meeting involving troubleshooting equipment and learning programming.
+2026-01-30 16:07:22,992 | INFO | PRED_MD5: 386b68373fc99876ba323bff05af5673
+2026-01-30 16:07:23,457 | INFO | ========================================
+2026-01-30 16:07:23,457 | INFO | [DONE] 29-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\29-1.json
+2026-01-30 16:07:23,457 | INFO | Scores:
+2026-01-30 16:07:23,457 | INFO |   embeddings_cosine: 0.4131751716136932
+2026-01-30 16:07:23,458 | INFO |   crossencoder_sts:  0.4421372890472412
+2026-01-30 16:07:23,458 | INFO |   nli_entailment:    0.09284597815761156
+2026-01-30 16:07:23,459 | INFO |   nli_contradiction: 0.1021
+2026-01-30 16:07:23,459 | INFO |   fine_jaccard:      0.25
+2026-01-30 16:07:23,459 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-30 16:07:23,459 | INFO | SOURCE_ID: 30-1
+2026-01-30 16:07:23,459 | INFO | GOLD_ID: 30-1
+2026-01-30 16:07:23,460 | INFO | GOLD helpless_belief: ['I am helpless.', 'I am powerless, weak, vulnerable.']
+2026-01-30 16:07:23,460 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be rejected.']
+2026-01-30 16:07:23,460 | INFO | GOLD worthless_belief: []
+2026-01-30 16:07:23,460 | INFO | vignette_en: HISTORY:
+- Recently completed an undergraduate degree and is entering the workforce.
+- Came out to parents within the last two and a half years and received negative reactions.
+- Became more distant from parents afterward.
+- Moved to New York for education and explored identity away from family influence.
+- Strained relationship with mother, described as focused on practical concerns rather than emotional support.
+- Tension with sister described as envious of the patient's independence and achievements.
+
+SITUATION:
+- Deciding whether to disclose a recent breakup to parents.
+2026-01-30 16:07:28,313 | INFO | PRED_MD5: 381d417627b01e2fc2a06047fcda4167
+2026-01-30 16:07:28,791 | INFO | ========================================
+2026-01-30 16:07:28,792 | INFO | [DONE] 30-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\30-1.json
+2026-01-30 16:07:28,792 | INFO | Scores:
+2026-01-30 16:07:28,793 | INFO |   embeddings_cosine: 0.46027048826217654
+2026-01-30 16:07:28,793 | INFO |   crossencoder_sts:  0.363585302233696
+2026-01-30 16:07:28,794 | INFO |   nli_entailment:    0.009294017032566347
+2026-01-30 16:07:28,794 | INFO |   nli_contradiction: 0.1972
+2026-01-30 16:07:28,794 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-30 16:07:28,795 | INFO |   major_jaccard:     1.0
+2026-01-30 16:07:28,795 | INFO | SOURCE_ID: 31-1
+2026-01-30 16:07:28,795 | INFO | GOLD_ID: 31-1
+2026-01-30 16:07:28,795 | INFO | GOLD helpless_belief: ['I am helpless.', 'I am powerless, weak, vulnerable.']
+2026-01-30 16:07:28,796 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be alone.']
+2026-01-30 16:07:28,796 | INFO | GOLD worthless_belief: []
+2026-01-30 16:07:28,796 | INFO | vignette_en: HISTORY:
+- Recent deaths in the family: an uncle and a cousin.
+- Ongoing concern about parents' health.
+- Father's health conditions include uncontrolled diabetes, high blood pressure, kidney problems, and high cholesterol.
+- Tension with father related to emotional distance and lack of transparency about health issues.
+
+SITUATION:
+- Received a phone call from the mother regarding the father's health.
+- Watched television afterward.
+2026-01-30 16:07:34,776 | INFO | PRED_MD5: a620c1a21cb556729c677a2790268744
+2026-01-30 16:07:35,230 | INFO | ========================================
+2026-01-30 16:07:35,230 | INFO | [DONE] 31-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\31-1.json
+2026-01-30 16:07:35,230 | INFO | Scores:
+2026-01-30 16:07:35,231 | INFO |   embeddings_cosine: 0.43334590792655947
+2026-01-30 16:07:35,231 | INFO |   crossencoder_sts:  0.4313075184822083
+2026-01-30 16:07:35,231 | INFO |   nli_entailment:    0.13538449469303557
+2026-01-30 16:07:35,231 | INFO |   nli_contradiction: 0.1192
+2026-01-30 16:07:35,231 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-30 16:07:35,232 | INFO |   major_jaccard:     1.0
+2026-01-30 16:07:35,232 | INFO | SOURCE_ID: 32-1
+2026-01-30 16:07:35,232 | INFO | GOLD_ID: 32-1
+2026-01-30 16:07:35,232 | INFO | GOLD helpless_belief: ['I am a failure, loser.']
+2026-01-30 16:07:35,232 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be rejected.']
+2026-01-30 16:07:35,233 | INFO | GOLD worthless_belief: ['I am worthless, waste.']
+2026-01-30 16:07:35,233 | INFO | vignette_en: HISTORY:
+- Strained relationships with parents and a history of feeling judged and disapproved of.
+- Mother's health condition mentioned.
+- Issues related to parental support during education.
+- Mentions of the mother being described as "broken" and allegations of a past affair.
+
+SITUATION:
+- Preparing to attend a Father's Day lunch with parents.
+2026-01-30 16:07:40,083 | INFO | PRED_MD5: ab7b3c92009f090a5b46b0c2020bd8b5
+2026-01-30 16:07:40,433 | INFO | ========================================
+2026-01-30 16:07:40,433 | INFO | [DONE] 32-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\32-1.json
+2026-01-30 16:07:40,434 | INFO | Scores:
+2026-01-30 16:07:40,434 | INFO |   embeddings_cosine: 0.49711082577705384
+2026-01-30 16:07:40,434 | INFO |   crossencoder_sts:  0.41927925646305086
+2026-01-30 16:07:40,435 | INFO |   nli_entailment:    0.0318939870042395
+2026-01-30 16:07:40,435 | INFO |   nli_contradiction: 0.071
+2026-01-30 16:07:40,435 | INFO |   fine_jaccard:      0.2
+2026-01-30 16:07:40,435 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-30 16:07:40,436 | INFO | SOURCE_ID: 33-1
+2026-01-30 16:07:40,436 | INFO | GOLD_ID: 33-1
+2026-01-30 16:07:40,436 | INFO | GOLD helpless_belief: ['I am trapped.']
+2026-01-30 16:07:40,436 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be abandoned.', 'I am bound to be alone.']
+2026-01-30 16:07:40,436 | INFO | GOLD worthless_belief: []
+2026-01-30 16:07:40,437 | INFO | vignette_en: HISTORY:
+- Involvement in a complex romantic situation with a person named Cleo.
+- Cleo is in a long-distance relationship while also engaging with the patient.
+
+SITUATION:
+- During an outing, Cleo discussed relationship problems and sought emotional support.
+2026-01-30 16:07:45,125 | INFO | PRED_MD5: 66855345b50ffb53c3483da5ff7be4f2
+2026-01-30 16:07:45,589 | INFO | ========================================
+2026-01-30 16:07:45,590 | INFO | [DONE] 33-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\33-1.json
+2026-01-30 16:07:45,590 | INFO | Scores:
+2026-01-30 16:07:45,590 | INFO |   embeddings_cosine: 0.3243562325835228
+2026-01-30 16:07:45,590 | INFO |   crossencoder_sts:  0.32592293471097944
+2026-01-30 16:07:45,591 | INFO |   nli_entailment:    0.07616342827742548
+2026-01-30 16:07:45,591 | INFO |   nli_contradiction: 0.3006
+2026-01-30 16:07:45,591 | INFO |   fine_jaccard:      0.0
+2026-01-30 16:07:45,591 | INFO |   major_jaccard:     1.0
+2026-01-30 16:07:45,591 | INFO | SOURCE_ID: 34-1
+2026-01-30 16:07:45,592 | INFO | GOLD_ID: 34-1
+2026-01-30 16:07:45,592 | INFO | GOLD helpless_belief: ['I am powerless, weak, vulnerable.', 'I am trapped.', 'I am defective.']
+2026-01-30 16:07:45,592 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be rejected.']
+2026-01-30 16:07:45,592 | INFO | GOLD worthless_belief: []
+2026-01-30 16:07:45,592 | INFO | vignette_en: HISTORY:
+- Brother died by suicide when the patient was young.
+- Ongoing family conflict about discussing the loss.
+- Parents initially did not allow the patient to seek talk therapy after the death.
+
+SITUATION:
+- Noticing that the brother's birthday is approaching.
+2026-01-30 16:07:49,748 | INFO | PRED_MD5: 9c7c795bc78b705f9b443738e4450a10
+2026-01-30 16:07:50,207 | INFO | ========================================
+2026-01-30 16:07:50,208 | INFO | [DONE] 34-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\34-1.json
+2026-01-30 16:07:50,209 | INFO | Scores:
+2026-01-30 16:07:50,209 | INFO |   embeddings_cosine: 0.37031334042549136
+2026-01-30 16:07:50,210 | INFO |   crossencoder_sts:  0.37565295994281767
+2026-01-30 16:07:50,210 | INFO |   nli_entailment:    0.006714930304019495
+2026-01-30 16:07:50,210 | INFO |   nli_contradiction: 0.0125
+2026-01-30 16:07:50,211 | INFO |   fine_jaccard:      0.6
+2026-01-30 16:07:50,211 | INFO |   major_jaccard:     1.0
+2026-01-30 16:07:50,211 | INFO | [SKIP] source_id=35-1: gold non trovato in Patient_Psi_CM_Dataset.json
+2026-01-30 16:07:50,211 | INFO | SOURCE_ID: 36-1
+2026-01-30 16:07:50,211 | INFO | GOLD_ID: 36-1
+2026-01-30 16:07:50,212 | INFO | GOLD helpless_belief: ['I am needy.', 'I am out of control.']
+2026-01-30 16:07:50,212 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am undesirable, unwanted.']
+2026-01-30 16:07:50,212 | INFO | GOLD worthless_belief: []
+2026-01-30 16:07:50,212 | INFO | vignette_en: HISTORY:
+- Elevated stress related to financial difficulties and relationship instability.
+- Heavy workload due to technical issues at work and covering responsibilities when coworker Chet is absent.
+- Friends often have crises and make emotional demands.
+- Considering asking parents for financial help to cover therapy costs around an upcoming birthday.
+- Upcoming convention and upcoming visit with parents.
+
+SITUATION:
+- Discovered that their bank balance was lower than expected.
+2026-01-30 16:07:55,365 | INFO | PRED_MD5: 267a717d24ca4cf67288b382ae4d9d86
+2026-01-30 16:07:55,811 | INFO | ========================================
+2026-01-30 16:07:55,812 | INFO | [DONE] 36-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\36-1.json
+2026-01-30 16:07:55,812 | INFO | Scores:
+2026-01-30 16:07:55,812 | INFO |   embeddings_cosine: 0.47360807061195376
+2026-01-30 16:07:55,813 | INFO |   crossencoder_sts:  0.33674910962581633
+2026-01-30 16:07:55,813 | INFO |   nli_entailment:    0.10880168396088111
+2026-01-30 16:07:55,814 | INFO |   nli_contradiction: 0.4003
+2026-01-30 16:07:55,814 | INFO |   fine_jaccard:      0.0
+2026-01-30 16:07:55,814 | INFO |   major_jaccard:     1.0
+2026-01-30 16:07:55,814 | INFO | SOURCE_ID: 37-1
+2026-01-30 16:07:55,814 | INFO | GOLD_ID: 37-1
+2026-01-30 16:07:55,815 | INFO | GOLD helpless_belief: []
+2026-01-30 16:07:55,815 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be rejected.', 'I am bound to be abandoned.']
+2026-01-30 16:07:55,815 | INFO | GOLD worthless_belief: []
+2026-01-30 16:07:55,815 | INFO | vignette_en: HISTORY:
+- Past labor dispute in a previous workplace.
+- Ongoing concerns related to fairness, pay, and authority at work.
+
+SITUATION:
+- Reflecting on a work-related case and the response of a businessman involved.
+2026-01-30 16:08:00,919 | INFO | PRED_MD5: 551fc8627bd81061f30707c00aa10d6f
+2026-01-30 16:08:01,364 | INFO | ========================================
+2026-01-30 16:08:01,364 | INFO | [DONE] 37-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\37-1.json
+2026-01-30 16:08:01,364 | INFO | Scores:
+2026-01-30 16:08:01,366 | INFO |   embeddings_cosine: 0.47692148089408876
+2026-01-30 16:08:01,366 | INFO |   crossencoder_sts:  0.3017743855714798
+2026-01-30 16:08:01,367 | INFO |   nli_entailment:    0.022296798696068154
+2026-01-30 16:08:01,367 | INFO |   nli_contradiction: 0.0021
+2026-01-30 16:08:01,367 | INFO |   fine_jaccard:      0.0
+2026-01-30 16:08:01,368 | INFO |   major_jaccard:     0.0
+2026-01-30 16:08:01,368 | INFO | SOURCE_ID: 38-1
+2026-01-30 16:08:01,368 | INFO | GOLD_ID: 38-1
+2026-01-30 16:08:01,368 | INFO | GOLD helpless_belief: ['I am helpless.', 'I am trapped.', 'I am out of control.']
+2026-01-30 16:08:01,369 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be alone.']
+2026-01-30 16:08:01,369 | INFO | GOLD worthless_belief: []
+2026-01-30 16:08:01,369 | INFO | vignette_en: HISTORY:
+- Health condition requiring time off work for physical therapy.
+- Past interactions with HR and a supervisor related to return-to-work and disability status.
+
+SITUATION:
+- Recalling a prior interaction with HR that involved feeling judged during medical leave.
+2026-01-30 16:08:07,545 | INFO | PRED_MD5: 78464c9bf4aa4f52a4218fd72fa8c03e
+2026-01-30 16:08:07,987 | INFO | ========================================
+2026-01-30 16:08:07,988 | INFO | [DONE] 38-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\38-1.json
+2026-01-30 16:08:07,988 | INFO | Scores:
+2026-01-30 16:08:07,988 | INFO |   embeddings_cosine: 0.34960614442825316
+2026-01-30 16:08:07,989 | INFO |   crossencoder_sts:  0.2364064037799835
+2026-01-30 16:08:07,989 | INFO |   nli_entailment:    0.10872481143211252
+2026-01-30 16:08:07,989 | INFO |   nli_contradiction: 0.28859999999999997
+2026-01-30 16:08:07,989 | INFO |   fine_jaccard:      0.0
+2026-01-30 16:08:07,990 | INFO |   major_jaccard:     1.0
+2026-01-30 16:08:07,990 | INFO | SOURCE_ID: 39-1
+2026-01-30 16:08:07,990 | INFO | GOLD_ID: 39-1
+2026-01-30 16:08:07,990 | INFO | GOLD helpless_belief: ['I am powerless, weak, vulnerable.', 'I am trapped.', 'I am out of control.']
+2026-01-30 16:08:07,990 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be alone.']
+2026-01-30 16:08:07,990 | INFO | GOLD worthless_belief: []
+2026-01-30 16:08:07,991 | INFO | vignette_en: HISTORY:
+- Recurrent stomachaches and physical symptoms associated with anxiety and stress.
+- Past difficulties involving weight management, sexuality, and academic performance.
+- Reports a transformation during college.
+- Reports seeking control in relationships.
+
+SITUATION:
+- Experiencing ongoing stomach issues and seeking reassurance about recovery.
+2026-01-30 16:08:13,569 | INFO | PRED_MD5: 1a95c7cecf94d5e6f3318633972fe301
+2026-01-30 16:08:14,003 | INFO | ========================================
+2026-01-30 16:08:14,004 | INFO | [DONE] 39-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\39-1.json
+2026-01-30 16:08:14,004 | INFO | Scores:
+2026-01-30 16:08:14,004 | INFO |   embeddings_cosine: 0.5639066696166992
+2026-01-30 16:08:14,004 | INFO |   crossencoder_sts:  0.5534168303012847
+2026-01-30 16:08:14,005 | INFO |   nli_entailment:    0.387269653468279
+2026-01-30 16:08:14,005 | INFO |   nli_contradiction: 0.0048000000000000004
+2026-01-30 16:08:14,005 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-30 16:08:14,006 | INFO |   major_jaccard:     1.0
+2026-01-30 16:08:14,006 | INFO | SOURCE_ID: 40-1
+2026-01-30 16:08:14,006 | INFO | GOLD_ID: 40-1
+2026-01-30 16:08:14,006 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am trapped.', 'I am out of control.']
+2026-01-30 16:08:14,007 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am undesirable, unwanted.']
+2026-01-30 16:08:14,007 | INFO | GOLD worthless_belief: []
+2026-01-30 16:08:14,007 | INFO | vignette_en: HISTORY:
+- Recent move and stress related to settling into a new living space.
+- Difficult relationship with parents, especially mother, described as judgmental and emotionally unsupportive.
+- Friendships have become strained, contributing to isolation.
+
+SITUATION:
+- Feeling exhausted after attempting to unpack without support from friends.
+- Avoiding contact with friends and the mother.
+2026-01-30 16:08:19,785 | INFO | PRED_MD5: 233e6101f155ada4d46368dd1be37b97
+2026-01-30 16:08:20,215 | INFO | ========================================
+2026-01-30 16:08:20,216 | INFO | [DONE] 40-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\40-1.json
+2026-01-30 16:08:20,216 | INFO | Scores:
+2026-01-30 16:08:20,217 | INFO |   embeddings_cosine: 0.45846964716911315
+2026-01-30 16:08:20,217 | INFO |   crossencoder_sts:  0.4950262576341629
+2026-01-30 16:08:20,217 | INFO |   nli_entailment:    0.3012394813513526
+2026-01-30 16:08:20,218 | INFO |   nli_contradiction: 0.027800000000000002
+2026-01-30 16:08:20,218 | INFO |   fine_jaccard:      0.125
+2026-01-30 16:08:20,218 | INFO |   major_jaccard:     1.0
+2026-01-30 16:08:20,219 | INFO | SOURCE_ID: 41-1
+2026-01-30 16:08:20,219 | INFO | GOLD_ID: 41-1
+2026-01-30 16:08:20,219 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am helpless.', 'I am out of control.']
+2026-01-30 16:08:20,219 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be rejected.']
+2026-01-30 16:08:20,219 | INFO | GOLD worthless_belief: []
+2026-01-30 16:08:20,220 | INFO | vignette_en: HISTORY:
+- Complex relationship history involving a person named Cricket that affected the patient's social circle.
+- The patient often takes a caretaking role with friends, including a friend named Lucy with ongoing medical issues.
+
+SITUATION:
+- Running late for appointments and social gatherings, including therapy and lunches with friends.
+2026-01-30 16:08:25,132 | INFO | PRED_MD5: 741865c4052c347ddc17707b821807b5
+2026-01-30 16:08:25,593 | INFO | ========================================
+2026-01-30 16:08:25,593 | INFO | [DONE] 41-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\41-1.json
+2026-01-30 16:08:25,594 | INFO | Scores:
+2026-01-30 16:08:25,594 | INFO |   embeddings_cosine: 0.5085452854633331
+2026-01-30 16:08:25,594 | INFO |   crossencoder_sts:  0.47061678767204285
+2026-01-30 16:08:25,595 | INFO |   nli_entailment:    0.10614125448138208
+2026-01-30 16:08:25,595 | INFO |   nli_contradiction: 0.1021
+2026-01-30 16:08:25,595 | INFO |   fine_jaccard:      0.14285714285714285
+2026-01-30 16:08:25,595 | INFO |   major_jaccard:     1.0
+2026-01-30 16:08:25,595 | INFO | SOURCE_ID: 42-1
+2026-01-30 16:08:25,595 | INFO | GOLD_ID: 42-1
+2026-01-30 16:08:25,597 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am out of control.', 'I am a failure, loser.']
+2026-01-30 16:08:25,597 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am undesirable, unwanted.']
+2026-01-30 16:08:25,597 | INFO | GOLD worthless_belief: []
+2026-01-30 16:08:25,597 | INFO | vignette_en: HISTORY:
+- Recurrent dreams during graduate school about being unprepared for a thesis defense.
+- Father described as having high expectations.
+
+SITUATION:
+- Experiencing a recurring dream in which coworkers talk negatively about the individual.
+2026-01-30 16:08:30,481 | INFO | PRED_MD5: 6eff5ce01daeba96c3502c843167de4e
+2026-01-30 16:08:30,822 | INFO | ========================================
+2026-01-30 16:08:30,822 | INFO | [DONE] 42-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\42-1.json
+2026-01-30 16:08:30,823 | INFO | Scores:
+2026-01-30 16:08:30,823 | INFO |   embeddings_cosine: 0.4421730637550354
+2026-01-30 16:08:30,823 | INFO |   crossencoder_sts:  0.4363514304161072
+2026-01-30 16:08:30,824 | INFO |   nli_entailment:    0.1271772648489747
+2026-01-30 16:08:30,824 | INFO |   nli_contradiction: 0.31949999999999995
+2026-01-30 16:08:30,825 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-30 16:08:30,825 | INFO |   major_jaccard:     1.0
+2026-01-30 16:08:30,826 | INFO | SOURCE_ID: 43-1
+2026-01-30 16:08:30,826 | INFO | GOLD_ID: 43-1
+2026-01-30 16:08:30,826 | INFO | GOLD helpless_belief: []
+2026-01-30 16:08:30,827 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am undesirable, unwanted.', 'I am bound to be rejected.', 'I am bound to be abandoned.', 'I am bound to be alone.']
+2026-01-30 16:08:30,827 | INFO | GOLD worthless_belief: []
+2026-01-30 16:08:30,827 | INFO | vignette_en: HISTORY:
+- Childhood experiences of emotional invalidation (e.g., being reprimanded for crying).
+- History of depression.
+
+SITUATION:
+- Reconnecting with an individual named Edson after a period of no contact.
+2026-01-30 16:08:36,851 | INFO | PRED_MD5: 44405ba07a03119034f19a519e4b1cbf
+2026-01-30 16:08:37,209 | INFO | ========================================
+2026-01-30 16:08:37,210 | INFO | [DONE] 43-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\43-1.json
+2026-01-30 16:08:37,210 | INFO | Scores:
+2026-01-30 16:08:37,210 | INFO |   embeddings_cosine: 0.3664506494998932
+2026-01-30 16:08:37,210 | INFO |   crossencoder_sts:  0.3396937042474747
+2026-01-30 16:08:37,210 | INFO |   nli_entailment:    0.08892449880777759
+2026-01-30 16:08:37,211 | INFO |   nli_contradiction: 0.10759999999999999
+2026-01-30 16:08:37,211 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-30 16:08:37,211 | INFO |   major_jaccard:     0.5
+2026-01-30 16:08:37,211 | INFO | SOURCE_ID: 44-1
+2026-01-30 16:08:37,211 | INFO | GOLD_ID: 44-1
+2026-01-30 16:08:37,211 | INFO | GOLD helpless_belief: ['I am helpless.', 'I am powerless, weak, vulnerable.']
+2026-01-30 16:08:37,212 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be alone.']
+2026-01-30 16:08:37,212 | INFO | GOLD worthless_belief: []
+2026-01-30 16:08:37,212 | INFO | vignette_en: HISTORY:
+- History of recurring conflicts and strained relationships.
+- Ongoing trust and boundary issues in relationships.
+- Some relationships involve alcoholism.
+- History of aggressive behavior.
+
+SITUATION:
+- Spending holidays alone and reflecting on feelings of sadness and loneliness.
+2026-01-30 16:08:41,705 | INFO | PRED_MD5: 747d54d489fd7d78644e127e3c1a2d97
+2026-01-30 16:08:42,153 | INFO | ========================================
+2026-01-30 16:08:42,154 | INFO | [DONE] 44-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\44-1.json
+2026-01-30 16:08:42,154 | INFO | Scores:
+2026-01-30 16:08:42,154 | INFO |   embeddings_cosine: 0.43592674732208253
+2026-01-30 16:08:42,155 | INFO |   crossencoder_sts:  0.4511263832449913
+2026-01-30 16:08:42,155 | INFO |   nli_entailment:    0.1930244521131257
+2026-01-30 16:08:42,156 | INFO |   nli_contradiction: 0.0010999999999999998
+2026-01-30 16:08:42,156 | INFO |   fine_jaccard:      0.3333333333333333
+2026-01-30 16:08:42,156 | INFO |   major_jaccard:     1.0
+2026-01-30 16:08:42,156 | INFO | SOURCE_ID: 45-1
+2026-01-30 16:08:42,156 | INFO | GOLD_ID: 45-1
+2026-01-30 16:08:42,157 | INFO | GOLD helpless_belief: ['I am powerless, weak, vulnerable.', 'I am out of control.']
+2026-01-30 16:08:42,157 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be rejected.', 'I am bound to be abandoned.', 'I am bound to be alone.']
+2026-01-30 16:08:42,157 | INFO | GOLD worthless_belief: []
+2026-01-30 16:08:42,158 | INFO | vignette_en: HISTORY:
+- Relationships sometimes shift into romantic connections.
+- Past conflict in relationships following expressions of anger.
+- Complex relationship with parents involving obligations.
+
+SITUATION:
+- Difficulty completing work tasks due to fear of making mistakes.
+- Procrastination and avoidance impacting productivity.
+2026-01-30 16:08:47,080 | INFO | PRED_MD5: b370d16cb8734d9329f6964bfdc37681
+2026-01-30 16:08:47,559 | INFO | ========================================
+2026-01-30 16:08:47,560 | INFO | [DONE] 45-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\45-1.json
+2026-01-30 16:08:47,560 | INFO | Scores:
+2026-01-30 16:08:47,560 | INFO |   embeddings_cosine: 0.49859359860420227
+2026-01-30 16:08:47,561 | INFO |   crossencoder_sts:  0.4843766808509827
+2026-01-30 16:08:47,561 | INFO |   nli_entailment:    0.24728783338033536
+2026-01-30 16:08:47,562 | INFO |   nli_contradiction: 0.014600000000000002
+2026-01-30 16:08:47,562 | INFO |   fine_jaccard:      0.2857142857142857
+2026-01-30 16:08:47,562 | INFO |   major_jaccard:     1.0
+2026-01-30 16:08:47,562 | INFO | SOURCE_ID: 46-1
+2026-01-30 16:08:47,564 | INFO | GOLD_ID: 46-1
+2026-01-30 16:08:47,564 | INFO | GOLD helpless_belief: ['I am powerless, weak, vulnerable.', 'I am a victim.', 'I am needy.']
+2026-01-30 16:08:47,565 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be rejected.']
+2026-01-30 16:08:47,565 | INFO | GOLD worthless_belief: []
+2026-01-30 16:08:47,565 | INFO | vignette_en: HISTORY:
+- Forms close relationships with friends who experience significant stressors.
+- A friend is dealing with academic pressures and parenting an autistic child.
+
+SITUATION:
+- Considering visiting a friend managing parenting demands and housing instability.
+2026-01-30 16:08:52,486 | INFO | PRED_MD5: ce6ef8f4e2a1f48ecd342f6cd956035c
+2026-01-30 16:08:52,977 | INFO | ========================================
+2026-01-30 16:08:52,978 | INFO | [DONE] 46-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\46-1.json
+2026-01-30 16:08:52,978 | INFO | Scores:
+2026-01-30 16:08:52,978 | INFO |   embeddings_cosine: 0.4472527980804443
+2026-01-30 16:08:52,980 | INFO |   crossencoder_sts:  0.3947755068540573
+2026-01-30 16:08:52,980 | INFO |   nli_entailment:    0.194489721712806
+2026-01-30 16:08:52,980 | INFO |   nli_contradiction: 0.0129
+2026-01-30 16:08:52,981 | INFO |   fine_jaccard:      0.4
+2026-01-30 16:08:52,981 | INFO |   major_jaccard:     1.0
+2026-01-30 16:08:52,982 | INFO | SOURCE_ID: 47-1
+2026-01-30 16:08:52,982 | INFO | GOLD_ID: 47-1
+2026-01-30 16:08:52,982 | INFO | GOLD helpless_belief: ['I am incompetent.', 'I am out of control.']
+2026-01-30 16:08:52,982 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be rejected.']
+2026-01-30 16:08:52,983 | INFO | GOLD worthless_belief: []
+2026-01-30 16:08:52,983 | INFO | vignette_en: HISTORY:
+- Master's degree in engineering and experience in robotics.
+- Past remorse related to not dedicating enough time to a project.
+
+SITUATION:
+- Considering launching a micro press and changing careers.
+- Feeling uncertain about financial stability and fulfillment while comparing self to peers.
+2026-01-30 16:08:57,113 | INFO | PRED_MD5: 91ee8b8cdc4eb9f406fd682b6d143bc2
+2026-01-30 16:08:57,558 | INFO | ========================================
+2026-01-30 16:08:57,558 | INFO | [DONE] 47-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\47-1.json
+2026-01-30 16:08:57,558 | INFO | Scores:
+2026-01-30 16:08:57,559 | INFO |   embeddings_cosine: 0.3506402462720871
+2026-01-30 16:08:57,559 | INFO |   crossencoder_sts:  0.30885054767131803
+2026-01-30 16:08:57,559 | INFO |   nli_entailment:    0.08182365147097756
+2026-01-30 16:08:57,559 | INFO |   nli_contradiction: 0.002
+2026-01-30 16:08:57,560 | INFO |   fine_jaccard:      0.2
+2026-01-30 16:08:57,560 | INFO |   major_jaccard:     0.5
+2026-01-30 16:08:57,561 | INFO | SOURCE_ID: 48-1
+2026-01-30 16:08:57,561 | INFO | GOLD_ID: 48-1
+2026-01-30 16:08:57,561 | INFO | GOLD helpless_belief: ['I am trapped.', 'I am out of control.']
+2026-01-30 16:08:57,561 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am undesirable, unwanted.']
+2026-01-30 16:08:57,562 | INFO | GOLD worthless_belief: []
+2026-01-30 16:08:57,562 | INFO | vignette_en: HISTORY:
+- In a relationship with Ivan for about seven years and married for three.
+- Stressful periods during academic finals and wedding preparation due to lack of support from Ivan.
+- Current financial pressure involving Ivan's part-time work, therapy costs, and dental treatment expenses.
+
+SITUATION:
+- Partner neglects responsibilities such as contributing to expenses and completing administrative tasks.
+2026-01-30 16:09:01,710 | INFO | PRED_MD5: 51cf857d997bf4774b03fed0df4fcaa5
+2026-01-30 16:09:02,128 | INFO | ========================================
+2026-01-30 16:09:02,129 | INFO | [DONE] 48-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\48-1.json
+2026-01-30 16:09:02,129 | INFO | Scores:
+2026-01-30 16:09:02,129 | INFO |   embeddings_cosine: 0.48044111728668215
+2026-01-30 16:09:02,130 | INFO |   crossencoder_sts:  0.36060901880264284
+2026-01-30 16:09:02,130 | INFO |   nli_entailment:    0.12007404030882392
+2026-01-30 16:09:02,130 | INFO |   nli_contradiction: 0.10449999999999997
+2026-01-30 16:09:02,131 | INFO |   fine_jaccard:      0.16666666666666666
+2026-01-30 16:09:02,131 | INFO |   major_jaccard:     1.0
+2026-01-30 16:09:02,131 | INFO | SOURCE_ID: 49-1
+2026-01-30 16:09:02,132 | INFO | GOLD_ID: 49-1
+2026-01-30 16:09:02,132 | INFO | GOLD helpless_belief: ['I am powerless, weak, vulnerable.', 'I am trapped.', 'I am out of control.']
+2026-01-30 16:09:02,132 | INFO | GOLD unlovable_belief: []
+2026-01-30 16:09:02,132 | INFO | GOLD worthless_belief: []
+2026-01-30 16:09:02,132 | INFO | vignette_en: HISTORY:
+- History of complex and strained family relationships.
+- Father described as frequently creating misery for those around him and expressing dissatisfaction with his life.
+- Maternal grandmother had a significant negative impact on the family, especially on the patient's mother.
+
+SITUATION:
+- Contemplating the father's wishes for burial in Nepal and the responsibilities involved.
+2026-01-30 16:09:06,892 | INFO | PRED_MD5: 0d88ec93f827dcd00eb1b40833311f0a
+2026-01-30 16:09:07,393 | INFO | ========================================
+2026-01-30 16:09:07,393 | INFO | [DONE] 49-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\49-1.json
+2026-01-30 16:09:07,394 | INFO | Scores:
+2026-01-30 16:09:07,394 | INFO |   embeddings_cosine: 0.4527312219142914
+2026-01-30 16:09:07,394 | INFO |   crossencoder_sts:  0.405558317899704
+2026-01-30 16:09:07,394 | INFO |   nli_entailment:    0.004601367570692484
+2026-01-30 16:09:07,395 | INFO |   nli_contradiction: 0.20140000000000002
+2026-01-30 16:09:07,395 | INFO |   fine_jaccard:      0.5
+2026-01-30 16:09:07,395 | INFO |   major_jaccard:     0.5
+2026-01-30 16:09:07,395 | INFO | SOURCE_ID: 50-1
+2026-01-30 16:09:07,396 | INFO | GOLD_ID: 50-1
+2026-01-30 16:09:07,396 | INFO | GOLD helpless_belief: ['I am helpless.', 'I am out of control.']
+2026-01-30 16:09:07,396 | INFO | GOLD unlovable_belief: ['I am unlovable.', 'I am bound to be rejected.']
+2026-01-30 16:09:07,396 | INFO | GOLD worthless_belief: []
+2026-01-30 16:09:07,396 | INFO | vignette_en: HISTORY:
+- Longstanding friendship with Ethan since high school (about 14 years).
+- Shared personal crises and professional collaborations.
+- Learned that Ethan has been abusive toward his girlfriend.
+
+SITUATION:
+- Learning about Ethan's abusive behavior toward his partner and feeling distressed.
+- Observing erratic behavior and signs of substance use at a recent gathering.
+2026-01-30 16:09:11,837 | INFO | PRED_MD5: bf56eb97f5d2548872c98a5d0b31f27e
+2026-01-30 16:09:12,218 | INFO | ========================================
+2026-01-30 16:09:12,218 | INFO | [DONE] 50-1 | saved=outputs_gpt4_basic_sit1\generated_cbts\50-1.json
+2026-01-30 16:09:12,219 | INFO | Scores:
+2026-01-30 16:09:12,219 | INFO |   embeddings_cosine: 0.4265020787715912
+2026-01-30 16:09:12,219 | INFO |   crossencoder_sts:  0.29567634910345075
+2026-01-30 16:09:12,220 | INFO |   nli_entailment:    0.013445369546001826
+2026-01-30 16:09:12,220 | INFO |   nli_contradiction: 0.27449999999999997
+2026-01-30 16:09:12,221 | INFO |   fine_jaccard:      0.0
+2026-01-30 16:09:12,221 | INFO |   major_jaccard:     0.3333333333333333
+2026-01-30 16:09:12,221 | INFO | 
+Completed. Processed 49 vignette(s).
+2026-01-30 16:09:12,221 | INFO | Generated CBTs in: outputs_gpt4_basic_sit1\generated_cbts
+2026-01-30 16:09:12,221 | INFO | Compare results JSONL: outputs_gpt4_basic_sit1\compare_results.jsonl
+2026-01-30 16:09:12,226 | INFO | 
+=== FINAL MEANS ===
+2026-01-30 16:09:12,227 | INFO | {
+  "n": 49,
+  "means": {
+    "embeddings_cosine": 0.44485464494447313,
+    "crossencoder_sts": 0.4078121734003784,
+    "nli_entailment_overall": 0.14378688411414245,
+    "nli_contradiction_overall": 0.09759999999999998
+  },
+  "counts": {
+    "embeddings_cosine": 49,
+    "crossencoder_sts": 49,
+    "nli_entailment_overall": 49,
+    "nli_contradiction_overall": 49
+  },
+  "core_beliefs_fine": {
+    "n": 49,
+    "micro": {
+      "precision": 0.45454545454545453,
+      "recall": 0.28708133971291866,
+      "f1": 0.3519061583577713
+    },
+    "macro": {
+      "f1": 0.17149845046739665
+    },
+    "subset_accuracy": 0.0,
+    "jaccard_mean": 0.22541302235179783,
+    "unknown_pred_total": 0,
+    "label_space_size": 19,
+    "per_label": {
+      "I am a failure, loser": {
+        "precision": 0.6666666666666666,
+        "recall": 0.5,
+        "f1": 0.5714285714285715,
+        "support": 12
+      },
+      "I am a victim": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 4
+      },
+      "I am bad - dangerous, toxic, evil": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "I am bound to be abandoned": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 12
+      },
+      "I am bound to be alone": {
+        "precision": 0.42857142857142855,
+        "recall": 0.25,
+        "f1": 0.3157894736842105,
+        "support": 12
+      },
+      "I am bound to be rejected": {
+        "precision": 0.19444444444444445,
+        "recall": 0.6363636363636364,
+        "f1": 0.29787234042553196,
+        "support": 11
+      },
+      "I am defective": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 3
+      },
+      "I am helpless": {
+        "precision": 1.0,
+        "recall": 0.08695652173913043,
+        "f1": 0.16,
+        "support": 23
+      },
+      "I am immoral": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 2
+      },
+      "I am incompetent": {
+        "precision": 0.8571428571428571,
+        "recall": 0.6,
+        "f1": 0.7058823529411764,
+        "support": 20
+      },
+      "I am needy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 4
+      },
+      "I am out of control": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 16
+      },
+      "I am powerless, weak, vulnerable": {
+        "precision": 0.48717948717948717,
+        "recall": 0.8260869565217391,
+        "f1": 0.6129032258064516,
+        "support": 23
+      },
+      "I am trapped": {
+        "precision": 0.5789473684210527,
+        "recall": 0.6111111111111112,
+        "f1": 0.5945945945945946,
+        "support": 18
+      },
+      "I am unattractive": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am undesirable, unwanted": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 13
+      },
+      "I am unlovable": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 28
+      },
+      "I am worthless, waste": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 7
+      },
+      "I don't deserve to live": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      }
+    }
+  },
+  "core_beliefs_major": {
+    "n": 49,
+    "micro": {
+      "precision": 0.782608695652174,
+      "recall": 0.8571428571428571,
+      "f1": 0.8181818181818182
+    },
+    "subset_accuracy": 0.5714285714285714,
+    "jaccard_mean": 0.7414965986394558,
+    "label_space_size": 3
+  },
+  "resume": {
+    "total": 49
+  }
+}
+2026-01-30 16:09:12,228 | INFO | 
+Saved final means to: outputs_gpt4_basic_sit1\final_means.json

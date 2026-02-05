@@ -1,0 +1,74 @@
+Using description: HISTORY:
+- Recurrent dreams during graduate school about being unprepared for a thesis defense.
+- Father described as having high expectations.
+
+SITUATION:
+- Receiving criticism during a work performance review. with ID=42-2
+Sample results (metadata similarity):
+  - sim=0.098 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.107 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.125 | title='Session 4: Client does not understand why she cannot find someone to date her. S' | file='1000133886.txt'
+  - sim=0.127 | title='Session 20: Client assumes it is her physical deformity that keeps men from find' | file='1000133913.txt'
+  - sim=0.131 | title='Session 15: Client explains why she can make friendships with certain men but no' | file='1000133901.txt'
+  - sim=0.140 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+  - sim=0.153 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.157 | title='Verilogue session: Client is experiencing some of the common side effects associ' | file='1003009257.txt'
+  - sim=0.162 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.167 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.098 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.107 | file='1000088127.txt' | title='Session 18: Client tells how he despises people in general.  He seems to feel un'
+  - sim=0.140 | file='1002565918.txt' | title='Verilogue session: Client is having problems falling asleep'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, during the session, navigates through a complex interplay of intellectual pursuits and personal reflections, revealing a multifaceted relationship with learning and self-perception. Historically, the client has experienced recurrent dreams during graduate school about being unprepared for a thesis defense, which may reflect underlying anxieties about meeting high expectations, possibly influenced by a father described as having high expectations. This theme of preparedness and self-assessment emerges as the client discusses a recent work performance review where they received criticism. The client expresses a sense of accomplishment and clarity in understanding mathematical concepts, stating, "I felt like I really understood the material," which contrasts with the earlier anxiety of being unprepared. This juxtaposition highlights a cognitive pattern where the client oscillates between feeling competent and fearing inadequacy.
+
+Throughout the session, the client frequently returns to the theme of learning and teaching mathematics, describing the process as both challenging and rewarding. They mention, "I have to learn it or relearn I guess, to teach it," indicating a proactive approach to overcoming knowledge gaps. This reflects a coping strategy where the client immerses themselves in intellectual activities to manage feelings of inadequacy. The client also shares an experience of teaching without a PowerPoint, finding it "the best ever" because it required them to engage more directly with the material and the students. This suggests a preference for interactive and dynamic learning environments, which may provide a sense of control and mastery.
+
+The client's narrative reveals a tension between the desire for precision and the need for a broader understanding. They express frustration with the expectation to be concise in mathematical proofs, stating, "I struggled with that because I'm very conversational." This reflects a cognitive pattern of seeking depth and context, which may be at odds with environments that prioritize brevity and efficiency. The client also discusses the satisfaction derived from visualizing mathematical concepts, noting, "I find it immensely helpful" to draw relationships out. This indicates a reliance on visual-spatial strategies to process complex information, which may serve as a coping mechanism to manage cognitive overload.
+
+Interpersonal dynamics are subtly woven into the client's reflections, particularly in relation to their father. The client contrasts their own learning process with the perception that their father "already knowing a lot of stuff," suggesting a possible internalized belief that competence should be innate rather than developed through effort. This belief may contribute to feelings of inadequacy when faced with new challenges, as evidenced by the client's initial frustration with unfamiliar mathematical symbols, "I can't even do one problem." However, the client also acknowledges the value of struggle in learning, recognizing that "being aware that you don't know it" can be a catalyst for growth.
+
+The session concludes with the client contemplating the universality of mathematical language, noting, "I guess I speak math-French." This reflection underscores a broader theme of seeking connection and understanding across perceived barriers, whether linguistic or intellectual. The client's engagement with mathematics appears to provide a framework for exploring and reconciling these themes, offering both a challenge and a refuge from the pressures of external expectations. As the session ends, the client is left to ponder the balance between striving for excellence and accepting the iterative nature of learning and self-discovery.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of recurrent dreams during graduate school about being unprepared for a thesis defense, suggesting longstanding anxiety about meeting expectations. Their father is described as having high expectations, which may have contributed to internalized pressure to achieve. The client frequently oscillates between feeling competent and fearing inadequacy, as seen in their reflections on learning and teaching mathematics. They report both proactive engagement with intellectual challenges and frustration when their preferred learning style is at odds with external demands.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I receive criticism, it means I have failed to meet important standards, and others will see me as less competent. To avoid feeling inadequate, I must always be fully prepared and avoid mistakes. My worth is tied to my ability to perform without error, especially in the eyes of authority figures.",
+  "intermediate_belief_depression": "If I can't meet expectations or avoid criticism, it means I'm fundamentally inadequate and will never be good enough, no matter how hard I try. This makes me feel hopeless about ever achieving a sense of competence or acceptance.",
+  "coping_strategies": [
+    "The client immerses themselves in intellectual activities and over-prepares to manage feelings of inadequacy. They seek mastery through proactive learning and teaching, sometimes using visual-spatial strategies to cope with cognitive overload. When faced with criticism or perceived failure, they may withdraw or ruminate on their shortcomings."
+  ],
+  "situation": "Receiving criticism during a work performance review.",
+  "auto_thought": "I'm not good enough; they're going to think I can't handle this job.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "inadequate",
+    "worried",
+    "tense"
+  ],
+  "behavior": "I become quiet and avoid eye contact during the review. Afterward, I replay the criticism in my mind and start planning how to over-prepare for future tasks."
+}

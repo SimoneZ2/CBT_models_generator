@@ -1,0 +1,26 @@
+{
+  "name": "Unnamed Patient",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Longstanding friendship with Ethan since high school (about 14 years). Shared personal crises and professional collaborations. Learned that Ethan has been abusive toward his girlfriend.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must maintain relationships even if they are harmful.",
+  "intermediate_belief_depression": "I am not worthy of love if I am not needed.",
+  "coping_strategies": "Avoidance of confrontation and maintaining distance to prevent conflict.",
+  "situation": "Struggling to contact Ethan directly.",
+  "auto_thought": "If I confront Ethan, I will lose the friendship.",
+  "emotion": [
+    "Anxiety",
+    "Sadness"
+  ],
+  "behavior": "Avoiding direct contact with Ethan."
+}

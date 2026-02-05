@@ -1,0 +1,79 @@
+Using description: HISTORY:
+- Financial difficulties following questionable investments.
+- Increased reliance on parents for financial assistance.
+
+SITUATION:
+- Thinking about how past financial decisions may affect future plans. with ID=14-1
+Sample results (metadata similarity):
+  - sim=0.074 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+  - sim=0.075 | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de' | file='1001084060.txt'
+  - sim=0.083 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.092 | title='Verilogue session: Client is suffering from delusional thinking' | file='1001083981.txt'
+  - sim=0.099 | title='Verilogue session: Client has been feeling elated for a few weeks but now he is ' | file='1002565923.txt'
+  - sim=0.099 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.101 | title='Session 71: Client feels uncomfortable and vulnerable while lying down in therap' | file='1000368484.txt'
+  - sim=0.101 | title='Verilogue session: Client has recently experienced some intense mood cycling; sh' | file='1003009209.txt'
+  - sim=0.104 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.109 | title='Narrative Therapy With Children: Children can feel overtaken by family problems ' | file='1001114246.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.074 | file='1003009233.txt' | title='Verilogue session: Client may have Lyme disease; it is possible that is what is '
+  - sim=0.075 | file='1001084060.txt' | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de'
+  - sim=0.083 | file='1003075047.txt' | title='Verilogue session: Client's medications have drastically reduced her sex drive'
+Using LEAST related file for transcript: '1003009233.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a Caucasian female in her late twenties, is grappling with a complex interplay of physical and psychological symptoms, which have been exacerbated by financial stressors and a history of questionable investments. This has led to increased reliance on her parents for financial support, a situation that she finds distressing and anxiety-inducing. During the session, she expressed frustration with the conflicting medical advice she has received, particularly regarding her treatment for suspected Lyme disease and fibromyalgia. She described feeling "confused" and "depressed" by the medical literature she has been reading, which seems to suggest a bleak outlook.
+
+Her narrative reveals a pattern of anxiety and panic, particularly when faced with uncertainty or new situations. She recounted an experience of traveling to New York, where she worried about "each and every step along the way," indicating a tendency to ruminate on potential obstacles. This anxiety often manifests physically, with symptoms such as heart palpitations and a sensation of pressure in her chest, which she described as "very uncomfortable pressure" that exacerbates her anxiety.
+
+The client also discussed her struggles with fatigue and sleep disturbances, noting that while medication initially helped, she now finds herself waking up during the night, though she can "fall back asleep." This suggests a partial improvement in her sleep pattern, yet she continues to feel "tired all of the time," which complicates her ability to adhere to recommendations for regular exercise. Her fatigue is compounded by a sense of agitation, as she experiences a "tired, you know, but, like an agitated depression."
+
+Throughout the session, she expressed a desire to "figure out what's wrong" and a willingness to try new treatments, such as Levaquin, despite her concerns about adding another medication to her regimen. She is currently on Klonopin, Tofranil, and Xanax, which she uses sparingly, stating, "I took it like three times in however many months." Her cautious use of medication reflects an underlying fear of dependency, a concern echoed by her physician's warnings about the potential for addiction.
+
+Interpersonally, the client appears to avoid confrontation, preferring to "hold a grudge" rather than express anger directly. This avoidance may contribute to her internalized stress and exacerbate her physical symptoms. She also mentioned feeling "better off in the hotel room" during social outings, indicating a preference for environments where she feels safe and in control.
+
+The client's cognitive patterns reveal a tendency towards catastrophic thinking, particularly in relation to her health and financial future. She worries that her past financial decisions will "affect future plans," and this preoccupation with potential negative outcomes may be fueling her anxiety and depressive symptoms. Her coping strategies include seeking reassurance from medical professionals and attempting to gather information, though this often leads to further confusion and distress.
+
+Overall, the session highlighted the client's struggle to navigate a complex medical landscape while managing significant anxiety and depressive symptoms. Her narrative underscores the importance of providing clear, consistent medical advice and exploring cognitive-behavioral strategies to address her anxiety and improve her quality of life.
+Summary da mistral_.csv: In this therapy session, the patient discussed her recent visit to another physician who refused to perform a Lyme disease blood test and instead referred her to an infectious disease specialist. The patient expressed frustration with conflicting advice from different doctors regarding her treatment, including concerns about taking multiple medications and being labeled with various diagnoses. The therapist acknowledged the complexity of the patient's situation and provided reassurance. They discussed the patient's fatigue symptoms, which improved somewhat with Elavil but worsened at night with agitation. The therapist asked about any associations between nighttime waking and feeling flushed or hot.
+The patient discussed their experiences of having headaches and feeling hot, which they have been used to for a long time. They mentioned their temperature fluctuating between 98.6 and 99.6 degrees Fahrenheit. The doctor asked about the location of the headaches, which the patient described as feeling sick and having a flushed face. The doctor also inquired about eye symptoms, ear symptoms, sore throats, swollen glands, and anxiety or panic attacks. The patient reported occasional ringing in their ears and anxiety about traveling, but denied experiencing recurring sore throats, swollen glands, or agitation, irritability, rage, impulsivity, or aggression.
+The patient discussed various physical and emotional symptoms with the doctor during a therapy session. They reported having trouble concentrating, especially when reading, and difficulty falling asleep. The patient also mentioned experiencing stiffness and joint pain, particularly in the mornings, as well as shooting pains and muscle twitching. They described occasional heart palpitations and chest pains, for which they had previously been evaluated by a cardiologist. The patient mentioned feeling faint and shaky when experiencing strong emotions, which they were told could be due to their body misinterpreting excitement or happiness as panic. They also discussed episodes of breathlessness when anxious. The patient did not report any impulsive behavior, anger, or confusion.
+The patient described experiencing chest pressure that makes them anxious and short of breath, but not painful. They also mentioned having red streaks on their body that resemble stretch marks, dots that can be raised and itchy, and new freckles. The patient reported feeling consistently nauseous and having tenderness and pain in their shins and thighs. The doctor suggested considering a month-long trial of Levaquin in addition to the patient's current doxycycline treatment, as the patient's symptoms may indicate the presence of co-infections such as Bartonella, which may not respond as well to doxycycline alone. The doctor also mentioned that a urine test called urine PCS might be more reliable for detecting these co-infections.
+The patient and therapist discussed the possibility of having co-infections, specifically Bartonella, Babesia, Rocky Mountain spotted fever, and Ehrlichia. The therapist suggested the patient consider taking Levaquin for a month to treat Bartonella, as it is known to be effective for this condition. The patient expressed concerns about side effects and the length of treatment, and the therapist suggested consulting an infectious disease specialist for guidance. The therapist also mentioned that the patient's previous experience with doxycycline resulted in worsening pain and stomach upset. The therapist provided information on the recommended dosage and potential side effects of Levaquin, as well as the importance of magnesium supplementation as a precaution. The patient expressed concern about adding more variables to their treatment and the possibility of the magnesium supplement taking care of the issue instead. The therapist suggested consulting the local [DEIDENTIFIED] doctor for further guidance.
+The patient discussed their experiences with various symptoms, including physical pain, headaches, anxiety, and depression. They mentioned having tried different medications, such as Elavil and benzodiazepines, with limited success. The doctor shared a case of a patient who had improved significantly after taking antibiotics for Lyme disease. The patient expressed willingness to try the antibiotic Levaquin for three months, despite feeling better after a few weeks, as they believed it could lead to total recovery from their symptoms. The doctor emphasized that the length of treatment may depend on the root cause of the symptoms and the possibility of an infectious component. The patient also mentioned having patches on their arms that were not itchy or painful, which the doctor suggested could be related to their age or skin condition. The conversation touched on the patient's concerns about headaches, fevers, and the need for accommodations due to their sensitivity to chair surfaces.
+The patient discussed their ongoing health issues, including itchiness and worsening pain, despite taking medication for fibromyalgia. The doctor suggested the possibility of co-infections, specifically Bartonella and Lyme or Ehrlichia, which may be contributing to the patient's symptoms. The doctor also mentioned that fibromyalgia alone might not fully explain the patient's experiences, as their response to treatment has not been robust. The patient expressed confusion about their diagnosis and asked for clarification. The doctor reassured them that they would not dismiss their concerns and encouraged exploring other potential causes for their symptoms. They discussed the possibility of consulting an infectious disease expert for further testing. The patient mentioned feeling anxious about testing and the reliability of tests for these conditions. The doctor suggested calling in a prescription for Levaquin to begin treatment while they wait for the referral to the infectious disease specialist.
+In this session chunk, the patient and doctor discuss the recommendation of taking magnesium supplements. The doctor suggests calling in a prescription to CVS, but the patient expresses apprehension about going there due to past experiences and her mother's concerns. The doctor offers to give the patient some magnesium pills instead and explains how to take them with meals and antibiotics. The patient mentions taking all her medications at night and expresses a need to start taking vitamins. They discuss the specific dosage of magnesium and the patient mentions having the prescription information on hand. The doctor offers to find the prescription number from the patient's file instead.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of financial difficulties following questionable investments, leading to increased reliance on her parents for financial assistance. She experiences anxiety and panic, particularly when faced with uncertainty or new situations. Her narrative reveals struggles with fatigue, sleep disturbances, and a pattern of catastrophic thinking regarding her health and financial future.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make another financial mistake, it will prove that I am incapable of managing my life. I must avoid any risk to prevent further failure.",
+  "intermediate_belief_depression": "If I can't fix my financial situation, my future will be bleak and hopeless.",
+  "coping_strategies": [
+    "The client seeks reassurance from medical professionals and attempts to gather information, though this often leads to further confusion and distress. She avoids confrontation and prefers environments where she feels safe and in control."
+  ],
+  "situation": "Thinking about how past financial decisions may affect future plans.",
+  "auto_thought": "I'm going to ruin my future because of my past mistakes. I'll never recover from this.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "depressed",
+    "confused"
+  ],
+  "behavior": "She ruminates on potential negative outcomes and seeks reassurance from others, which often leads to further confusion."
+}

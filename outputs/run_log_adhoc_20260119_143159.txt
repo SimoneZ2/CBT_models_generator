@@ -1,0 +1,89 @@
+Using description: HISTORY:
+- Worked overseas and built a website related to that work.
+- Recurrent pattern of starting new ideas and later abandoning projects when difficulties arise.
+- Family-related difficulty involving his father; wrote a personal letter as part of a forgiveness process.
+
+SITUATION:
+- Reflecting on past achievements alongside current challenges. with ID=5-2
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.534 | title='Patient "M", Session April 26, 2012: Client wants to know what her diagnosis is;' | file='1004538622.txt'
+  - sim=0.522 | title='Patient "C" Therapy Session Audio Recording, March 27, 2012: Client is frustrate' | file='1004528627.txt'
+  - sim=0.521 | title='Patient "M" Session June 19, 2012: Client talks about a letter he wants to prese' | file='1004600940.txt'
+  - sim=0.509 | title='BJ - Amy 3-01 Session' | file='1000094811.txt'
+  - sim=0.506 | title='Patient "C", Therapy Session Audio Recording, April 18, 2012: Client feels much ' | file='1004538638.txt'
+  - sim=0.505 | title='Session 14: Client feels left out by his son.  He expresses his anger at his emp' | file='1000013338.txt'
+  - sim=0.500 | title='Patient "C" Therapy Session Audio Recording, April 03, 2012: Client talks about ' | file='1004532476.txt'
+  - sim=0.496 | title='Patient "B", Session March 01, 2012: Client has been engaging in self-defeating ' | file='1004504884.txt'
+  - sim=0.495 | title='Patient "S" Session March 13, 2012: Client recently had a frustrating conversati' | file='1004522836.txt'
+  - sim=0.495 | title='Patient "Ma", Session April 26, 2012: Client talks about the physical distance b' | file='1004538628.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.534 | file='1004538622.txt' | title='Patient "M", Session April 26, 2012: Client wants to know what her diagnosis is;'
+  - sim=0.522 | file='1004528627.txt' | title='Patient "C" Therapy Session Audio Recording, March 27, 2012: Client is frustrate'
+  - sim=0.521 | file='1004600940.txt' | title='Patient "M" Session June 19, 2012: Client talks about a letter he wants to prese'
+Using top selected file for transcript: '1004538622.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of working overseas and creating a website related to their work. They exhibit a recurrent pattern of initiating new ideas but tend to abandon projects when faced with difficulties. Additionally, the patient has experienced family-related challenges, particularly involving their father, and has engaged in a forgiveness process by writing a personal letter. Currently, the patient is reflecting on past achievements in the context of current challenges.
+
+**Cognitive Patterns:**
+The patient likely experiences a cognitive pattern characterized by initial enthusiasm and optimism when starting new projects, which may be accompanied by high expectations for success. However, when faced with obstacles, there may be a tendency to engage in negative self-talk or self-doubt, leading to the abandonment of these projects. This pattern suggests a possible cognitive distortion of "all-or-nothing" thinking, where the patient may perceive challenges as insurmountable, resulting in a sense of failure or inadequacy.
+
+The patient's reflection on past achievements alongside current challenges may trigger cognitive comparisons between past successes and present difficulties. This could lead to rumination on perceived shortcomings or a sense of loss regarding previous accomplishments. The patient's engagement in a forgiveness process with their father indicates a cognitive effort to reframe past family-related difficulties and seek emotional resolution.
+
+**Emotional Responses:**
+The patient may experience a range of emotions, including feelings of disappointment and frustration when projects are abandoned. These emotions could be compounded by a sense of guilt or self-blame for not meeting personal expectations. The family-related difficulty involving the patient's father may evoke emotions such as sadness, hurt, or unresolved anger, which the patient is attempting to address through the forgiveness process.
+
+Reflecting on past achievements may elicit mixed emotions, including pride in past successes and sadness or regret about current challenges. This reflection could also lead to feelings of nostalgia or longing for a time when the patient felt more accomplished or confident.
+
+**Behavioral Tendencies:**
+The patient's pattern of abandoning projects suggests a behavioral tendency to avoid or withdraw from situations perceived as challenging or overwhelming. This avoidance behavior may serve as a coping mechanism to manage feelings of inadequacy or fear of failure. The patient's decision to write a personal letter as part of a forgiveness process indicates a proactive behavioral approach to addressing and resolving family-related emotional issues.
+
+In the context of reflecting on past achievements, the patient may engage in behaviors such as reminiscing or seeking reassurance from others about their past successes. This behavior could serve as a way to bolster self-esteem or validate their sense of identity in the face of current challenges.
+
+**Coping Strategies:**
+The patient may benefit from developing more adaptive coping strategies to manage the cognitive and emotional impacts of project abandonment and family-related difficulties. Cognitive restructuring techniques could help the patient challenge all-or-nothing thinking and develop a more balanced perspective on challenges. Encouraging the patient to set realistic goals and break tasks into manageable steps may reduce the likelihood of project abandonment.
+
+Emotionally, the patient could benefit from exploring and processing feelings related to family dynamics and past achievements. Techniques such as mindfulness or journaling may assist the patient in gaining insight into their emotional responses and developing greater emotional regulation.
+
+**Conclusion:**
+The patient's history and current reflections suggest a pattern of cognitive and emotional responses that impact their behavior and coping strategies. By addressing cognitive distortions, enhancing emotional awareness, and developing adaptive coping mechanisms, the patient may improve their ability to manage challenges and achieve greater emotional well-being.
+Summary da mistral_.csv: The client expresses a desire to understand their diagnosis and asks the therapist about it. The therapist diagnoses the client as depressed and elaborates on the client's grieving of major losses in their career, family life, relationships, and health. The therapist also mentions the client's personality traits that complicate the grieving process, such as a desire to stay positive and focus on others' needs. The client shares their past experiences of being told to focus on positive things and engage in relaxation techniques for chronic pain, which they believe hindered their ability to address other issues. The client reflects on their college experiences, where they felt confident in their identity, and expresses regret over how they were manipulated by certain individuals to feel ashamed of their accomplishments and vulnerabilities.
+The client discussed past experiences of being targeted and exploited due to self-doubt during their time at HLS and later at Microsoft. At HLS, a supervisor tried to break the client's spirit by enforcing rules against using pronouns and treating them poorly. The client stood up to the supervisor, resulting in the supervisor's failure to control them. At Microsoft, a boss treated the client disrespectfully, equating them to an "idiot savant," which affected the client's performance and led to their departure from the company. The client mentioned having a boss in Cincinnati who also treated them poorly and undermined their abilities, causing significant emotional distress. The client switched to Microsoft in 2004, initially intending to work part-time but became involved in a training program and enjoyed the experience. They appreciated the new challenge and the value placed on their expertise.
+The client recounted their partner's undergraduate experience, including a change in major that led to better job prospects and the discovery of his sex addiction around 2001. The client described the ensuing period as filled with daily dramas and difficulties, including their partner's denial and deception about his addiction. The client lost their job due to their partner's behavior, and the partner also lost a job. The client expressed anger towards the therapist who initially misdiagnosed the issue and provided ineffective treatment. The client was concerned about moving to a new place where they feared their partner might be exposed to harmful ideas and felt the need to be prepared for potential future issues.
+
+ REFINED CCD: description + report
+{
+  "history": "The client worked overseas and created a website related to that work, indicating initiative and creativity. There is a recurrent pattern of starting new ideas but abandoning them when difficulties arise, suggesting a struggle with perseverance in the face of obstacles. The client has experienced family-related challenges, particularly with his father, and has attempted to address these through a forgiveness process, as evidenced by writing a personal letter. This history points to both proactive attempts at resolution and ongoing difficulties with self-efficacy and emotional processing.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I encounter difficulties, it means I'm not good enough and should give up. If I can't match my past achievements, I am failing now. I must succeed at everything I start or it reflects badly on me.",
+  "intermediate_belief_depression": "If I keep failing to finish what I start, I'll never amount to anything and things won't improve.",
+  "coping_strategies": [
+    "When faced with challenges in projects, the client tends to withdraw or abandon the effort, avoiding further engagement. The client also engages in rumination and comparison between past successes and current struggles, sometimes seeking reassurance or validation from others. Writing a letter to his father reflects a more adaptive, proactive coping attempt regarding family issues."
+  ],
+  "situation": "Reflecting on past achievements alongside current challenges.",
+  "auto_thought": "I used to accomplish so much, but now I can't even handle my current problems. Maybe I'm just not capable anymore.",
+  "emotion": [
+    "disappointed",
+    "frustrated",
+    "sad",
+    "guilty",
+    "self-doubting"
+  ],
+  "behavior": "I dwell on my past successes and compare them to my current struggles. I avoid working on current projects and may seek reassurance from others about my past achievements."
+}

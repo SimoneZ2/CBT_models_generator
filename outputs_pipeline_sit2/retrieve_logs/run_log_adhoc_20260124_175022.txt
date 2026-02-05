@@ -1,0 +1,91 @@
+Using description: HISTORY:
+- Death of a close aunt.
+- The patient did not fulfill the aunt's last request.
+- The patient was not present at the time of the aunt's death.
+- Strong bond with the aunt, described as a mother figure.
+- History of prioritizing others' needs over their own.
+
+SITUATION:
+- Thinking about the aunt and the unfulfilled request. with ID=13-1
+Top results (by metadata similarity):
+  - sim=0.666 | title='Verilogue session: Client's sister is in the last stages of dying' | file='1001083958.txt'
+  - sim=0.631 | title='Session 17: Client has been very nervous and tired recently since she has starte' | file='1000088101.txt'
+  - sim=0.629 | title='Patient "C" Therapy Session Audio Recording, June 12, 2012: Client's grandmother' | file='1004600922.txt'
+  - sim=0.628 | title='Verilogue session: Client comes from a family with a very competitive sibling su' | file='1002565888.txt'
+  - sim=0.628 | title='Verilogue session: Client has been easily overwhelmed by feelings of anxiety rec' | file='1001083994.txt'
+  - sim=0.620 | title='Verilogue session: Client discusses problems with ailing, elderly family members' | file='1001084018.txt'
+  - sim=0.611 | title='Session 1: Client tells therapist some of her reasons for coming to therapy, mai' | file='1000088094.txt'
+  - sim=0.604 | title='Verilogue session: Client feels very alone and disconnected. She is having major' | file='1002565876.txt'
+  - sim=0.604 | title='Session 18: Client cannot stop thinking about her grandmother who has recently d' | file='1000325703.txt'
+  - sim=0.601 | title='Patient "C" Therapy Session Audio Recording, January 2, 2012: Client talks about' | file='1004472420.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.666 | file='1001083958.txt' | title='Verilogue session: Client's sister is in the last stages of dying'
+  - sim=0.631 | file='1000088101.txt' | title='Session 17: Client has been very nervous and tired recently since she has starte'
+  - sim=0.629 | file='1004600922.txt' | title='Patient "C" Therapy Session Audio Recording, June 12, 2012: Client's grandmother'
+Using top selected file for transcript: '1001083958.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient has experienced the death of a close aunt, who was a significant maternal figure in their life. The patient was unable to fulfill the aunt's last request and was not present at the time of her death. Historically, the patient has a pattern of prioritizing others' needs over their own. Currently, the patient is preoccupied with thoughts about the aunt and the unfulfilled request.
+
+**Emotional Impact:**
+The death of the aunt likely evokes a complex mix of emotions for the patient, including sadness, guilt, and regret. The strong bond with the aunt, akin to a mother-child relationship, suggests that the patient may feel a profound sense of loss and loneliness. The inability to fulfill the aunt's last request and absence at her death could intensify feelings of guilt and regret, potentially leading to self-reproach and a sense of failure.
+
+**Cognitive Patterns:**
+The patient's history of prioritizing others' needs suggests a cognitive pattern of self-sacrifice, possibly leading to neglect of personal needs and desires. This pattern may contribute to a heightened sense of responsibility and guilt regarding the unfulfilled request. The patient's current preoccupation with thoughts about the aunt and the request indicates possible rumination, which can exacerbate feelings of guilt and sadness.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive patterns, the patient may engage in behaviors such as withdrawing from social interactions, avoiding situations that remind them of the aunt, or seeking reassurance from others about their actions and decisions. The patient might also procrastinate on tasks or responsibilities, as the emotional burden of grief and guilt can be overwhelming.
+
+**Coping Styles:**
+The patient may cope by immersing themselves in activities that distract from their grief, such as focusing on the needs of others, which aligns with their historical pattern. Alternatively, they might seek solace in memories of the aunt, which could provide comfort but also risk deepening the cycle of rumination.
+
+**Psychological Interpretation:**
+The patient's experience aligns with typical grief responses, where the loss of a significant figure can lead to intense emotional distress and cognitive rumination. The transcript provides a reference for understanding how individuals might react to the impending loss of a loved one, highlighting common patterns of anxiety, anticipatory grief, and the struggle to balance personal needs with caregiving roles. While the transcript is not directly applicable, it underscores the importance of addressing both the emotional and cognitive aspects of grief in therapy.
+
+**Therapeutic Focus:**
+In therapy, it would be beneficial to explore the patient's feelings of guilt and regret, helping them reframe these thoughts to reduce self-blame. Encouraging the patient to recognize and prioritize their own needs could help break the pattern of self-neglect. Cognitive restructuring techniques could be employed to challenge and modify unhelpful thoughts, while behavioral strategies might focus on gradually re-engaging with social activities and responsibilities. Supporting the patient in finding meaningful ways to honor their aunt's memory could also facilitate healing and acceptance.
+Summary da mistral_.csv: The patient's sister is dying from a cancer that has progressed to the intestines after starting in the ileus and spreading to the liver. The patient received a call last Wednesday that her sister was delirious and hallucinating, and she has since been in the hospital. The patient's sister has signed a DNR and is expected to die within a few days. The patient has informed family and friends of her sister's condition and has cleared her calendar to be present during her sister's final days. The patient has also recently purchased a new car and has been experiencing anxiety related to her sister's impending death.
+The patient's niece's friend is in hospice care due to an abdominal infection and failing organs. The patient expressed dissatisfaction with the hospice's rigid scheduling of medication, leading to the suggestion of alternative care if the situation arises again. The friend's intestines were failing, resulting in dark green bile in the bag, and she was experiencing agitation due to Ativan. The patient's nieces held a "nurse-in" as a tribute to their friend. The friend did not want to be cremated and had already picked out her outfit and wig for the memorial service. The patient discussed the impact of multiple family members' deaths and the misdiagnosis of her friend's cancer as carcinoid instead of adenocarcinoma. The patient grew up in a household where smoking was common and wondered about the potential influence on their health. The doctor shared a story about
+The patient discusses a terminally ill family member who has stopped talking about the upcoming birth of her third grandchild due to her deteriorating health. The patient expresses her regret that she was unable to be there for the second grandchild's birth when her family member found out about her liver metastases. The patient and her family have been taking care of the two youngest grandchildren, with the patient taking on a significant role. She expresses anxiety about the situation and has been prescribed medication to help manage her emotions. The patient also mentions a hearing on CSPAN about mental health budgeting and the lack of understanding of psychiatric illnesses by some policymakers.
+
+ REFINED CCD: description + report
+{
+  "history": "The patient experienced the death of a close aunt who was a maternal figure. They were not present at her death and did not fulfill her last request. There is a longstanding pattern of prioritizing others' needs over their own, suggesting a self-sacrificing cognitive style. The patient is currently preoccupied with thoughts about the aunt and the unfulfilled request, indicating possible rumination and difficulty processing the loss.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I do not meet the needs or last wishes of those I love, it means I am failing them and am not a good person. I must always put others first, or I am selfish and unworthy of love. Letting someone down, especially someone important, means I am not enough.",
+  "intermediate_belief_depression": "If I can't even be there or fulfill the last request for someone who mattered so much, then I am hopeless and nothing I do can make up for it. My actions are never enough, and I will always disappoint the people I care about.",
+  "coping_strategies": [
+    "The patient withdraws from social interactions and avoids reminders of the aunt to manage overwhelming guilt and sadness. They ruminate on the unfulfilled request and immerse themselves in caring for others as a distraction from their own grief."
+  ],
+  "situation": "Thinking about the aunt and the unfulfilled request.",
+  "auto_thought": "I failed her when it mattered most. She needed me and I let her down.",
+  "emotion": [
+    "guilty",
+    "sad",
+    "regretful",
+    "ashamed",
+    "lonely",
+    "overwhelmed"
+  ],
+  "behavior": "I avoid talking about my aunt or the request with others. I withdraw and replay what happened in my mind. I focus on helping others to distract myself from my feelings."
+}

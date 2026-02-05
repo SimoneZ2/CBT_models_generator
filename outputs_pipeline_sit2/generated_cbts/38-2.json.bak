@@ -1,0 +1,33 @@
+{
+  "name": "CBT Conceptualization for Medical Leave Client",
+  "id": "case001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client is on medical leave due to a health condition that requires ongoing physical therapy. They have previously interacted with HR and a supervisor about their return-to-work and disability status, which may have contributed to ongoing stress and uncertainty. The need to take time off work has likely led to concerns about job security and how others at work perceive their absence. These experiences may have shaped their beliefs about their value and acceptance in the workplace.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am seen outside while on leave, others will think I am not truly sick or deserving of time off, and I must prove my legitimacy to avoid being judged. I believe that if I am not visibly struggling, people will assume I am taking advantage of the system. I need to justify my absence or else others will see me as unreliable.",
+  "intermediate_belief_depression": "If people think I am not really unwell, it means I am failing and my situation is hopeless, because no matter what I do, I can't convince them otherwise. If I can't prove my worth, I might lose my place at work and nothing I do will be enough.",
+  "coping_strategies": "The client tends to avoid coworkers and social situations to prevent uncomfortable questions or judgments. They may seek reassurance from family or friends about their job security and health status. They might also over-explain or justify their situation when unexpectedly confronted, and withdraw from further contact to manage distress.",
+  "situation": "Running into a coworker outside the workplace while on medical leave.",
+  "auto_thought": "They probably think I'm faking or exaggerating my condition. I shouldn't be seen out if I'm supposed to be on leave.",
+  "emotion": [
+    "anxious",
+    "embarrassed",
+    "self-conscious",
+    "worried",
+    "ashamed"
+  ],
+  "behavior": "I quickly try to explain why I'm out or avoid talking about my medical leave. I might cut the conversation short or avoid eye contact. Afterwards, I replay the encounter in my mind and worry about what they think.",
+  "rationale": "The report notes the encounter with a coworker could trigger feelings of embarrassment or self-consciousness, and that the patient might be concerned about perceptions of their absence. It also describes cognitive distortions such as catastrophizing about others judging them, and behavioral responses like avoidance and impression management. The emotional impact section highlights anxiety, worry, and stress about job security and how others perceive the absence. The coping section mentions avoidance, reassurance seeking, and efforts to explain or justify the situation."
+}

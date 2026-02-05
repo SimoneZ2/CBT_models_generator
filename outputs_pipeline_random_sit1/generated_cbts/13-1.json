@@ -1,0 +1,30 @@
+{
+  "history": "The patient lost a close aunt, whom they considered a mother figure. They were unable to fulfill the aunt's last request and were not present at her death. There is a longstanding pattern of prioritizing others' needs over their own, which may contribute to self-critical thinking and difficulty addressing their own emotional needs. The patient is currently reflecting on memories involving the aunt and the unfulfilled request, which intensifies their emotional distress.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't meet the needs or last wishes of those I love, it means I am not a good or worthy person. I must always put others first, or I am failing them. If I make a mistake or let someone down, it reflects badly on my entire character.",
+  "intermediate_belief_depression": "If I can't make up for my mistakes or fulfill important requests, there is no way to fix things and I will always feel this regret. My failures define me and nothing I do can change that.",
+  "coping_strategies": [
+    "The patient withdraws from social interactions and avoids situations that remind them of the aunt or the unfulfilled request. They ruminate on memories and what they could have done differently, and may seek reassurance from others to cope with feelings of guilt and inadequacy."
+  ],
+  "situation": "Reflecting on memories involving the aunt and the unfulfilled request.",
+  "auto_thought": "I failed her when it mattered most. I should have been there and done what she asked.",
+  "emotion": [
+    "guilty",
+    "sad",
+    "regretful",
+    "ashamed",
+    "lonely"
+  ],
+  "behavior": "I withdraw from others and avoid talking about my aunt. I replay the memories and the unfulfilled request over and over in my mind.",
+  "source_text_id": "1000393728.txt"
+}

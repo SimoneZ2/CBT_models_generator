@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization Diagram"
+  ],
+  "history": "Childhood experiences of emotional invalidation (e.g., being reprimanded for crying). History of depression.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express my emotions, I will be reprimanded or rejected.",
+  "intermediate_belief_depression": "I can't change how I feel, and it will always be this way.",
+  "coping_strategies": "Avoid expressing emotions to prevent rejection.",
+  "situation": "Reconnecting with an individual named Edson after a period of no contact.",
+  "auto_thought": "If I reconnect with Edson, he might reject me again.",
+  "emotion": [
+    "Anxiety",
+    "Fear"
+  ],
+  "behavior": "Hesitation to fully engage or express emotions in the relationship."
+}

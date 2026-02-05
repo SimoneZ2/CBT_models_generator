@@ -1,0 +1,53 @@
+{
+  "name": "CBT Cognitive Conceptualization for Job and Relationship Stress",
+  "id": "28-1",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a longstanding pattern of self-criticism and is used to maintaining control and achieving goals. These tendencies likely developed over time and have shaped the client's approach to challenges. The current period of job searching and ongoing relationship and family conflicts, especially involving Ivan, have intensified feelings of inadequacy and frustration. The client's self-critical nature and high standards may have contributed to a cycle of striving for perfection and subsequent self-reproach when expectations are not met.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't achieve my goals or maintain control, then I am a failure and others will see me as inadequate. I must always perform perfectly to be accepted and valued. If I make mistakes or struggle, it means I am not good enough and will be judged harshly.",
+  "intermediate_belief_depression": "If I keep failing at job searching and can't resolve conflicts with Ivan, then nothing will ever improve and I will always feel stuck and inadequate. There's no point in trying because I will just disappoint myself and others again.",
+  "coping_strategies": "The client tends to withdraw from social interactions and avoids job-related tasks when feeling overwhelmed by self-criticism. They may over-prepare or excessively plan as a way to maintain control, but this often leads to burnout. In relationships, especially with Ivan, the client may avoid conflict or seek reassurance, which temporarily reduces distress but maintains the cycle of self-doubt and avoidance.",
+  "situation": "Experiencing difficulties with job searching. Dealing with ongoing relationship and family conflicts involving a person named Ivan.",
+  "auto_thought": "I'm never going to find a job and everyone can see that I'm failing. If I can't fix things with Ivan, it just proves I'm not good enough.",
+  "emotion": [
+    "anxious",
+    "frustrated",
+    "inadequate",
+    "disappointed",
+    "helpless",
+    "ashamed"
+  ],
+  "behavior": "I avoid sending out job applications or delay following up on leads. I withdraw from conversations with family or Ivan, or become overly focused on planning instead of taking action.",
+  "rationale": "\"The patient's self-critical nature likely contributes to feelings of inadequacy and frustration, especially in the context of job searching and relationship conflicts.\" \"The patient may engage in negative self-talk, characterized by harsh self-criticism and a tendency to focus on perceived failures.\" \"In response to these cognitive and emotional challenges, the patient might withdraw from social interactions, avoid job-related tasks, or procrastinate in addressing relationship conflicts.\" \"The patient’s self-critical tendencies may lead to a cycle of striving for perfection, followed by self-reproach when perfection is not achieved.\"",
+  "core_belief_predictions": {
+    "source_id": "28-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

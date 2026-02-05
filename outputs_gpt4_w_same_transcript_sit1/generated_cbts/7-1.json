@@ -1,0 +1,28 @@
+{
+  "name": "John Doe",
+  "id": "JD123",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "History of long work hours in demanding work environments, including past touring work. Unresolved issues with father, including reports of past abuse. Recent exchange of letters with father addressing this history.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must work hard to prove my worth.",
+  "intermediate_belief_depression": "If I don't succeed, I am a failure.",
+  "coping_strategies": "Avoidance through procrastination and perfectionism.",
+  "situation": "Evaluating progress on personal projects, including developing a website. Spending time on social media instead of working on the project.",
+  "auto_thought": "I can't do this perfectly, so why bother starting?",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Procrastination and avoidance of tasks."
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Patient 4",
+  "id": "4",
+  "type": [
+    "chronic pain",
+    "medical trauma"
+  ],
+  "history": "Recent shoulder surgery with painful recovery. Ongoing pain from herniated cervical disc. History of physical therapy. New relationship followed by return of symptoms.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am a burden"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "My body is broken and will always limit me.",
+  "intermediate_belief_depression": "I am a burden to others and don't deserve to participate in normal life.",
+  "coping_strategies": [
+    "Pushing through pain, minimizing symptoms, social withdrawal."
+  ],
+  "situation": "Attending a Halloween party while in persistent pain.",
+  "auto_thought": "\"No one wants to hear about my pain. I'm ruining the mood. I should just stay home.\"",
+  "emotion": [
+    "shame",
+    "isolation",
+    "frustration"
+  ],
+  "behavior": "Hides pain with smiles, drinks alcohol to numb discomfort, leaves early without explanation."
+}

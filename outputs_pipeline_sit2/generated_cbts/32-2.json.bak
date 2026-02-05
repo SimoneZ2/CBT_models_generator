@@ -1,0 +1,35 @@
+{
+  "name": "CBT Cognitive Conceptualization for Parental Judgment and Achievement",
+  "id": "ccd-2024-06-parental-bonus",
+  "type": [
+    "CBT",
+    "case formulation",
+    "CCD"
+  ],
+  "history": "The client has a long-standing pattern of strained relationships with their parents, marked by feeling judged and disapproved of. There is a history of limited parental support during education, and the mother is described as 'broken' with a background of a past affair, which may have contributed to family instability and the client's sense of shame or embarrassment. These dynamics have likely fostered a tendency to internalize criticism and seek external validation, especially in the context of achievement. The emotional impact of the mother's health and family secrets may have reinforced the client's feelings of anxiety and inadequacy.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I achieve something and share it with my parents, it still won't be enough for them to approve of me. I must keep proving myself, but even then, I expect to be judged or questioned. Their approval feels conditional and out of reach, so I anticipate criticism even when I succeed.",
+  "intermediate_belief_depression": "No matter what I do or achieve, it will never be enough to make my parents proud or satisfied. Their judgment is inevitable, so there's no point in trying to feel good about my accomplishments.",
+  "coping_strategies": "The client tends to avoid directly addressing feelings of judgment by withdrawing emotionally during family interactions and hesitating to confront underlying tensions. They seek external validation through professional achievement, hoping to counteract feelings of inadequacy. The client may also ruminate on perceived shortcomings and anticipate criticism, which maintains their distress.",
+  "situation": "Received a work bonus for exceptional performance. During a call with parents about the bonus, they asked about job prospects.",
+  "auto_thought": "Even when I do something great, it's never enough for them. They only care about what comes next, not what I've achieved.",
+  "emotion": [
+    "disappointed",
+    "hurt",
+    "sad",
+    "unappreciated",
+    "anxious",
+    "frustrated"
+  ],
+  "behavior": "I downplay my excitement about the bonus and become quiet on the call. I avoid sharing more details and end the conversation quickly. Later, I ruminate about their reaction and question whether I should have shared the news at all.",
+  "rationale": "The report states, 'The recent work bonus is a positive event, yet the parents' focus on future job prospects during the call might have triggered feelings of being disappointed or hurt, as it may have reinforced the patient's perception of parental judgment and lack of approval.' It also notes, 'The patient may engage in cognitive patterns characterized by self-doubt and a tendency to seek external validation,' and 'In response to these emotional and cognitive patterns, the patient might engage in behaviors such as withdrawing from family interactions to avoid judgment.'"
+}

@@ -1,0 +1,88 @@
+Using description: HISTORY:
+- Complex family conflicts and strained relationships.
+- Issues with trust and boundaries, including relationships involving alcoholism.
+- Feelings of being taken advantage of.
+- Past episodes of aggressive behavior.
+
+SITUATION:
+- Spending holidays alone and reflecting on feelings of sadness and loneliness. with ID=44-1
+Top results (by metadata similarity):
+  - sim=0.635 | title='Session 15: Client feels absolutely overwhelmed, like there is nothing she can d' | file='1000013266.txt'
+  - sim=0.628 | title='Verilogue session: Client's spouse has a drinking problem and it is creating wor' | file='1001084068.txt'
+  - sim=0.622 | title='Session Xa: Client feels guilty about her communication problems in her marriage' | file='1000013280.txt'
+  - sim=0.622 | title='Session 6: Client feels that her marriage may mean more to her than she thought.' | file='1000088106.txt'
+  - sim=0.620 | title='Session 8: Client has been monitoring herself and trying to calm down when she f' | file='1000094513.txt'
+  - sim=0.617 | title='Session 3: Client had a huge fight with his wife recently about money budgeting ' | file='1000056529.txt'
+  - sim=0.617 | title='Session 1: Client tells therapist some of her reasons for coming to therapy, mai' | file='1000088094.txt'
+  - sim=0.614 | title='Patient "J", Session July 20, 2012: Client is having a hard time letting go of t' | file='1004687592.txt'
+  - sim=0.609 | title='Patient "M" Therapy Session Audio Recording, January 23, 2012: Client discusses ' | file='1004478010.txt'
+  - sim=0.609 | title='Patient "C" Therapy Session Audio Recording, May 08, 2012: Client discusses his ' | file='1004565017.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.635 | file='1000013266.txt' | title='Session 15: Client feels absolutely overwhelmed, like there is nothing she can d'
+  - sim=0.628 | file='1001084068.txt' | title='Verilogue session: Client's spouse has a drinking problem and it is creating wor'
+  - sim=0.622 | file='1000013280.txt' | title='Session Xa: Client feels guilty about her communication problems in her marriage'
+Using top selected file for transcript: '1000013266.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient presents with a history of complex family conflicts and strained relationships, particularly involving issues of trust and boundaries. These issues are compounded by relationships involving alcoholism and feelings of being taken advantage of. The patient has also experienced past episodes of aggressive behavior. Currently, the patient is spending holidays alone, which has led to reflections on feelings of sadness and loneliness.
+
+**Cognitive Patterns:**
+The patient likely experiences pervasive thoughts related to mistrust and betrayal due to the history of strained family relationships and issues with boundaries. These cognitive patterns may manifest as hyper-vigilance in social interactions, leading to difficulties in forming and maintaining trusting relationships. The patient's reflections on being taken advantage of suggest a cognitive schema centered around vulnerability and exploitation, potentially resulting in a heightened sensitivity to perceived slights or injustices.
+
+**Emotional Reactions:**
+The patient's emotional landscape is characterized by feelings of sadness, loneliness, and possibly resentment. The experience of spending holidays alone may exacerbate feelings of isolation and contribute to a sense of being disconnected from others. The history of aggressive behavior might indicate underlying anger or frustration, possibly stemming from unresolved family conflicts and unmet emotional needs. These emotions could lead to a cycle of withdrawal and avoidance, particularly in situations that remind the patient of past relational disappointments.
+
+**Behavioral Responses:**
+In response to the described life circumstances, the patient may engage in behaviors such as withdrawing from social interactions, avoiding situations that require trust, and possibly ruminating on past conflicts. The feelings of being taken advantage of might lead to a defensive posture in relationships, where the patient is cautious and guarded. The past aggressive behavior episodes suggest a potential for acting out when emotions become overwhelming, possibly as a means of asserting control or expressing unmet needs.
+
+**Coping Mechanisms:**
+The patient might employ coping strategies such as avoidance and withdrawal to manage emotional distress. Reflecting on feelings of sadness and loneliness during the holidays suggests a tendency to internalize emotions rather than seeking external support. This pattern could be reinforced by a belief that others may not be trustworthy or that seeking help could lead to further disappointment. The patient may also engage in self-reflection as a way to process emotions, although this could lead to rumination if not balanced with active problem-solving or seeking social support.
+
+**Therapeutic Focus:**
+In therapy, it would be beneficial to explore the patient's cognitive patterns related to trust and vulnerability, aiming to reframe maladaptive beliefs and develop healthier relational schemas. Addressing the emotional impact of family conflicts and fostering emotional regulation skills could help the patient manage feelings of anger and sadness more effectively. Encouraging the patient to gradually engage in social activities and build supportive relationships may help alleviate feelings of loneliness and isolation. Additionally, exploring past aggressive behaviors and identifying alternative coping strategies could prevent future episodes and promote healthier emotional expression.
+
+**Conclusion:**
+The patient's history of complex family dynamics and current feelings of loneliness suggest a need for therapeutic interventions focused on building trust, enhancing emotional regulation, and fostering social connections. By addressing these areas, the patient can work towards developing a more balanced and fulfilling relational life.
+Summary da mistral_.csv: The patient described feeling unproductive and unable to maintain progress during sessions, with periods of productivity followed by extended periods of inactivity. They mentioned a difficult family Christmas experience, where they felt unwelcome and criticized, leading to a desire to avoid contact with family members. The patient also discussed feeling trapped in a cycle of productivity followed by unproductivity, and feeling overwhelmed by obligations and expectations. The patient expressed frustration with their inability to enjoy the present moment and focus on human connections, instead feeling the need to constantly work and catch up. The patient also mentioned feeling misunderstood and criticized by their family, particularly during the Christmas holiday.
+The patient describes leaving her home after a conflict with her parents and seeking refuge with a relative and a friend. She felt strongly affected by observing her stepmother's treatment of her siblings and her own fear of being condemned by her mother. The patient also discusses her need for a stable relationship and her boyfriend's feelings of being burdened by her. The counselor acknowledges the complexity of the patient's feelings and the challenges in navigating interpersonal relationships.
+The patient describes her experiences of visiting her boyfriend during difficult times, feeling torn between needing his presence for productivity and feeling guilty for imposing on him. She discusses the emotional toll of their conflicting needs and her desire to end the relationship due to the emotional pain caused by his rejection. The counselor acknowledges the complexity of the situation and validates the patient's feelings, suggesting that the neutral feeling of acceptance might be a more productive emotional state for her. The patient shares her desire to write to a long-time friend and her struggle with accepting the current state of her relationships, including her inability to connect with her friends due to feelings of jealousy and sadness.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of complex family conflicts and strained relationships, especially involving trust and boundaries. There have been significant issues with alcoholism in relationships and repeated experiences of feeling taken advantage of. Past episodes of aggressive behavior suggest difficulty managing overwhelming emotions, possibly as a response to unmet emotional needs and unresolved family issues. The client tends to internalize distress and withdraw, particularly when feeling isolated or let down by others.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let people get close to me, they will betray my trust or take advantage of me, so I have to keep my guard up. If I show my sadness or need for connection, others will just disappoint or hurt me. It's safer to be alone than risk being hurt again.",
+  "intermediate_belief_depression": "If I reach out or try to connect, it won't matter because no one truly cares about me, and I'll just end up feeling more alone. There's no point in trying because things never change for me.",
+  "coping_strategies": [
+    "The client withdraws from social interactions and avoids reaching out for support, especially during emotionally charged times like holidays. They tend to ruminate on past conflicts and disappointments, reinforcing feelings of sadness and isolation. Defensive and guarded behavior is used to protect against further hurt, but this also maintains their loneliness."
+  ],
+  "situation": "Spending holidays alone and reflecting on feelings of sadness and loneliness.",
+  "auto_thought": "Everyone else has someone to be with except me. I'm always left out and no one really cares if I'm alone.",
+  "emotion": [
+    "sad",
+    "lonely",
+    "hurt",
+    "resentful",
+    "disappointed",
+    "isolated"
+  ],
+  "behavior": "I stay at home by myself and avoid contacting anyone. I dwell on past times when I felt let down by family or friends. I don't reach out or make plans, even though I feel lonely."
+}

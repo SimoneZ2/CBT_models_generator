@@ -1,0 +1,32 @@
+{
+  "name": "Research Lab Patient",
+  "id": "RLP001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Strong identification with a research lab workplace and a sense of camaraderie from interactions and accomplishments. A close coworker left, which had emotional significance for the patient. The lab contrasts with the patient's personal life, described as less predictable and comfortable.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't get positive results, I am not competent.",
+  "intermediate_belief_depression": "Without positive results, I am not valuable.",
+  "coping_strategies": "Avoidance of scheduling meetings and reluctance to move on from experiments.",
+  "situation": "The departure of a valued colleague and the immediate impact of this change.",
+  "auto_thought": "I am afraid of being judged for not getting positive results.",
+  "emotion": [
+    "Confusion",
+    "Desperation",
+    "Shame",
+    "Sadness"
+  ],
+  "behavior": "Difficulty letting go of experiments and reluctance to take breaks.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

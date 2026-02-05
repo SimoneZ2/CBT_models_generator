@@ -1,0 +1,27 @@
+{
+  "name": "Patient 38",
+  "id": "38",
+  "type": [
+    "medical leave stress",
+    "workplace judgment"
+  ],
+  "history": "Health condition requiring time off for physical therapy. Past interactions with HR and supervisor about return-to-work and disability status.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "My workplace judges me for my health limitations.",
+  "intermediate_belief_depression": "I'm viewed as a liability because of my health issues.",
+  "coping_strategies": [
+    "Recalling past negative interactions, anticipating judgment."
+  ],
+  "situation": "Recalling prior interaction with HR involving feeling judged during medical leave.",
+  "auto_thought": "They saw me as weak and unreliable because I needed medical leave.",
+  "emotion": [
+    "shame",
+    "anger",
+    "vulnerability"
+  ],
+  "behavior": "Remember past negative HR interaction during medical leave."
+}

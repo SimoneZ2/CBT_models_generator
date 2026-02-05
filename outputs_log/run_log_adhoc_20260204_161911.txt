@@ -1,0 +1,74 @@
+Using description: HISTORY:
+- Longstanding friendship with Ethan since high school (about 14 years).
+- Shared personal crises and professional collaborations.
+- Learned that Ethan has been abusive toward his girlfriend.
+
+SITUATION:
+- Learning about Ethan's abusive behavior toward his partner and feeling distressed.
+- Observing erratic behavior and signs of substance use at a recent gathering. with ID=50-1
+Sample results (metadata similarity):
+  - sim=0.006 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.124 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.127 | title='Client "S", Session September 21, 2012: Client is currently working towards his ' | file='1004824793.txt'
+  - sim=0.150 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.156 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+  - sim=0.171 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.173 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.174 | title='Client "S", Session October 12, 2012: Client speaks extensively about his studie' | file='1004824797.txt'
+  - sim=0.176 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.185 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=1346 partial_match=675
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.124 | file='1001084079.txt' | title='Verilogue session: Client feels the urgent need to get everything done in a rush'
+  - sim=0.150 | file='1004798723.txt' | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to '
+  - sim=0.156 | file='1003009233.txt' | title='Verilogue session: Client may have Lyme disease; it is possible that is what is '
+Using LEAST related file for transcript: '1001084079.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has maintained a longstanding friendship with Ethan since high school, is currently grappling with distress after learning about Ethan's abusive behavior toward his girlfriend. This revelation has been compounded by observing Ethan's erratic behavior and signs of substance use at a recent gathering. During the session, the client expressed feeling "jumpy" and described a pattern of rushing through tasks both at work and home, despite having no immediate obligations. This behavior appears to be a coping mechanism, possibly linked to underlying anxiety and the recent emotional turmoil regarding Ethan. The client noted, "I have to hurry and do it," indicating a sense of urgency that lacks a clear purpose, which might be a way to manage the discomfort stemming from the situation with Ethan.
+
+The client also reported significant sleep disturbances, waking up every couple of hours, which they partially attribute to back pain. This physical discomfort seems to exacerbate their emotional distress, as they mentioned, "I have more actually now," referring to the back pain. The client is currently on medication, including Darvocet and Cymbalta, and is considering an increase in the Cymbalta dosage to manage both depression and neuropathic pain. The client acknowledged, "I still have the depression," suggesting that the emotional burden is intertwined with their physical health issues.
+
+Financial worries also surfaced during the session, with the client expressing concerns about retirement and financial stability. Despite working with a financial planner, the client admitted, "I don't understand why I'm worrying about it," highlighting a disconnect between rational reassurance and emotional anxiety. This pattern of worry might be linked to a broader sense of uncertainty and lack of control, possibly intensified by the recent revelations about Ethan and the client's own health challenges.
+
+Loneliness emerged as another theme, with the client feeling isolated despite having family nearby. They reflected, "I'm lonely, I have no," which suggests a deeper emotional void that isn't filled by mere proximity to others. The client lives alone and has been doing so for over a decade, which might contribute to their sense of isolation. They expressed missing companionship, noting, "I miss a companion," and reminisced about the past when their house was full of people. This longing for connection might be further complicated by the client's fear of disrupting existing relationships, such as with their daughter, if they were to live together.
+
+The client's physical pain, particularly from back issues and shingles, is a significant source of frustration and contributes to their overall sense of being "overwhelmed." They described feeling unable to perform daily activities, which adds to their emotional burden. The client is scheduled for a follow-up with their back doctor and is considering medication adjustments to better manage the pain. The therapist suggested increasing the Cymbalta dosage, which the client agreed to try, stating, "I'll try anything," indicating a willingness to explore options for relief.
+
+Throughout the session, the client demonstrated a pattern of pushing worries to the back of their mind, only for them to resurface later. The therapist encouraged the client to "think it through to a resolution," suggesting that addressing these concerns directly might alleviate some of the anxiety. The client's tendency to avoid confronting these worries might be a protective strategy, yet it seems to contribute to their ongoing distress. The session highlighted the interconnectedness of the client's physical pain, emotional struggles, and recent interpersonal conflicts, all of which contribute to their current state of distress.
+Summary da mistral_.csv: The patient expresses concerns about their rushing behavior and difficulty sleeping, as well as worries about retirement and financial readiness. They discuss their use of a financial advisor and their worries about retirement, despite reassurances from the advisor. The patient also mentions their back pain and difficulty with the medication for it. The doctor suggests increasing the dosage of Cymbalta to potentially alleviate both the patient's depression and neuropathic pain. The patient expresses concern about the potential for the medication to keep them awake at night.
+The doctor suggests increasing the patient's Cymbalta dosage to 120mg twice a day to help manage pain and improve sleep, as well as depression. The doctor also recommends continuing the Neurontin medication for shingle pain, but suggests maximizing the Cymbalta first before considering adjusting the Neurbanit dose. The patient expresses concern about taking multiple medications and feeling like a "chemical factory." The doctor assures the patient that they will try to keep the medication regimen as simple as possible. The doctor also provides a prescription for the increased Cymbalta dosage.
+
+REFINED CCD: description + report
+{
+  "history": "The client has maintained a longstanding friendship with Ethan since high school, sharing personal crises and professional collaborations. Recently, the client learned about Ethan's abusive behavior toward his girlfriend and observed his erratic behavior and signs of substance use. The client experiences significant sleep disturbances, financial worries, and loneliness, living alone for over a decade. Physical pain from back issues and shingles adds to their emotional burden.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't keep myself busy, I will be overwhelmed by my emotions and unable to cope with the distress caused by Ethan's behavior.",
+  "intermediate_belief_depression": "If I don't distract myself, I will be consumed by my depression and loneliness.",
+  "coping_strategies": [
+    "The client rushes through tasks at work and home as a way to manage discomfort and avoid confronting worries. They also push worries to the back of their mind, only for them to resurface later."
+  ],
+  "situation": "Learning about Ethan's abusive behavior toward his partner and feeling distressed. Observing erratic behavior and signs of substance use at a recent gathering.",
+  "auto_thought": "I can't believe Ethan would do something like this. What does this say about me for being his friend?",
+  "emotion": [
+    "distressed",
+    "anxious",
+    "overwhelmed",
+    "lonely"
+  ],
+  "behavior": "The client rushes through tasks at work and home, despite having no immediate obligations. They also experience significant sleep disturbances."
+}

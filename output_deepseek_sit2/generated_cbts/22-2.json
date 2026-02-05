@@ -1,0 +1,32 @@
+{
+  "name": "Patient 22",
+  "id": "22",
+  "type": [
+    "relationship trauma",
+    "family conflict"
+  ],
+  "history": "Ongoing difficulties with partner Ivan and his family. Recent trust/betrayal issues with Ivan. Ongoing contact with Ivan's family.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be taken advantage of"
+  ],
+  "worthless_belief": [
+    "I don't deserve respect"
+  ],
+  "intermediate_belief": "His family will always side with him and minimize my pain.",
+  "intermediate_belief_depression": "I'm stuck in a cycle of hurt and forgiveness.",
+  "coping_strategies": [
+    "Minimizing own feelings, compliance, silent resentment."
+  ],
+  "situation": "Ivan's mother says \"boys will be boys\" and asks patient to \"forgive and forget.\"",
+  "auto_thought": "\"My pain doesn't matter. They think I'm overreacting. I'm alone in this.\"",
+  "emotion": [
+    "betrayal",
+    "invalidation",
+    "rage"
+  ],
+  "behavior": "Forces a smile, says \"I'll try,\" leaves room quickly, cries in bathroom."
+}

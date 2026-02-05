@@ -1,0 +1,52 @@
+{
+  "name": "CBT Cognitive Conceptualization for Client Supporting Distressed Friends",
+  "id": "46-2",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client has a pattern of forming close relationships with friends who are experiencing significant stressors. They are currently supporting multiple friends in distress, including one facing academic pressures and parenting an autistic child. The client tends to prioritize others' needs and may neglect their own self-care or boundaries. There is a strong sense of responsibility and obligation to help, which can lead to emotional exhaustion and feeling overwhelmed.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If my friends are struggling and I don't do everything I can to help, then I am failing as a friend and they might not want me around. I must always be available and supportive, otherwise I am not a good person. My value comes from being needed and useful to others.",
+  "intermediate_belief_depression": "If I can't help everyone or make things better, then I'm useless and nothing I do matters. No matter how much I try, it's never enough, so what's the point in trying?",
+  "coping_strategies": "The client frequently puts their friends' needs before their own, offering constant support and reassurance, sometimes at the expense of their own well-being. They struggle to set boundaries and may neglect self-care, leading to emotional exhaustion and burnout. The client may ruminate over their friends' problems and feel guilty if they are unable to help.",
+  "situation": "Multiple friends are distressed at the same time, and the patient is involved in supporting them.",
+  "auto_thought": "I have to be there for everyone right now or they'll think I don't care. If I can't help them all, I'm letting them down.",
+  "emotion": [
+    "overwhelmed",
+    "anxious",
+    "guilty",
+    "tense",
+    "worried",
+    "helpless"
+  ],
+  "behavior": "I immediately reach out to each friend to check in and offer support. I spend extra time texting, calling, or meeting with them, even when I feel exhausted. I put off my own needs and responsibilities to prioritize helping them.",
+  "rationale": "The report states the patient 'might also feel a sense of responsibility or obligation to provide support, which can lead to feelings of being burdened or stressed.' It also notes 'cognitive patterns characterized by heightened empathy and concern for others, potentially leading to self-sacrificing tendencies' and 'thoughts centered around the need to be available and supportive, possibly accompanied by fears of letting their friends down.' The emotional impact includes 'feelings of being overwhelmed, anxious, and possibly helpless.' Behavioral responses include 'frequent communication, offering advice, or being physically present to assist' and 'prioritize their friends' needs over their own, potentially leading to neglect of self-care or personal boundaries.' The coping style is described as 'oriented towards problem-solving and emotional support for others,' with difficulty setting boundaries and a cycle of over-involvement and emotional exhaustion.",
+  "core_belief_predictions": {
+    "source_id": "46-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

@@ -1,0 +1,91 @@
+Using description: HISTORY:
+- History of substance abuse and completed rehabilitation.
+- Ongoing family conflict involving the relationship with his mother, described as emotional neglect and rejection.
+- Longstanding obesity since childhood.
+- Past experiences of bullying related to weight.
+
+SITUATION:
+- Received an invitation to a cousin's upcoming wedding.
+- Has not responded to the RSVP request and has not answered follow-up calls from family members. with ID=1-1
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.486 | title='Patient "Ju", Session June 04, 2012: Client talks about a cousin who has created' | file='1004564957.txt'
+  - sim=0.480 | title='Patient "C" Therapy Session Audio Recording, January 2, 2012: Client talks about' | file='1004472420.txt'
+  - sim=0.477 | title='Verilogue session: Client's wife committed suicide, leaving their son to her par' | file='1001084073.txt'
+  - sim=0.475 | title='Patient "M", Session October 02, 2012: Client fears that she is being stalked by' | file='1004798771.txt'
+  - sim=0.470 | title='Session 17: Client is questioning his own sexual orientation. Client blames ther' | file='1000016557.txt'
+  - sim=0.469 | title='Session 1: Client tells therapist some of her reasons for coming to therapy, mai' | file='1000088094.txt'
+  - sim=0.469 | title='Verilogue session: Client's spouse has a drinking problem and it is creating wor' | file='1001084068.txt'
+  - sim=0.469 | title='Patient "M" Therapy Session Audio Recording, March 26, 2012: Client is upset to ' | file='1004528625.txt'
+  - sim=0.466 | title='Patient "S" Session March 13, 2012: Client recently had a frustrating conversati' | file='1004522836.txt'
+  - sim=0.465 | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father ' | file='1004472411.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.486 | file='1004564957.txt' | title='Patient "Ju", Session June 04, 2012: Client talks about a cousin who has created'
+  - sim=0.480 | file='1004472420.txt' | title='Patient "C" Therapy Session Audio Recording, January 2, 2012: Client talks about'
+  - sim=0.477 | file='1001084073.txt' | title='Verilogue session: Client's wife committed suicide, leaving their son to her par'
+Using top selected file for transcript: '1004564957.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of substance abuse and has successfully completed rehabilitation. He is currently experiencing ongoing family conflict, particularly involving his relationship with his mother, which he describes as characterized by emotional neglect and rejection. The patient has struggled with obesity since childhood and has past experiences of bullying related to his weight. Recently, he received an invitation to a cousin's upcoming wedding but has not responded to the RSVP request and has not answered follow-up calls from family members.
+
+**Cognitive and Emotional Patterns:**
+The patient's history of substance abuse and successful rehabilitation suggests a capacity for change and resilience, yet it may also indicate a vulnerability to stress and a tendency to seek escape from emotional pain. The ongoing family conflict, particularly the emotional neglect and rejection from his mother, likely contributes to feelings of sadness, loneliness, and possibly anger. These emotions may be compounded by his longstanding obesity and past bullying experiences, which could lead to feelings of shame and low self-worth.
+
+The invitation to the cousin's wedding may trigger a complex emotional response. The patient might feel anxious or worried about attending due to potential judgment or rejection from family members, particularly given the unresolved family conflict. The lack of response to the RSVP and avoidance of follow-up calls suggest a tendency to withdraw or avoid situations that may evoke uncomfortable emotions or confrontations.
+
+**Behavioral Responses:**
+The patient's avoidance of responding to the wedding invitation and follow-up calls can be seen as a coping mechanism to manage anticipated stress or conflict. This behavior aligns with patterns observed in individuals who have experienced emotional neglect and rejection, where avoidance serves as a protective strategy against further emotional harm.
+
+The patient's history of obesity and bullying may contribute to a reluctance to engage in social situations where he feels exposed to judgment or criticism. This avoidance behavior may be reinforced by past experiences where social interactions led to negative outcomes, such as bullying or rejection.
+
+**Coping Styles:**
+The patient may rely on avoidance as a primary coping strategy, as evidenced by his non-response to the wedding invitation and family calls. This behavior might temporarily reduce anxiety but can lead to increased isolation and missed opportunities for positive social interactions. The patient's successful completion of rehabilitation suggests he has the capacity to engage in adaptive coping strategies, though these may be underutilized in the context of family conflict and social anxiety.
+
+**Therapeutic Considerations:**
+In therapy, it would be beneficial to explore the patient's thoughts and beliefs about his family relationships and social interactions. Cognitive restructuring techniques could help challenge and modify unhelpful beliefs related to self-worth and social acceptance. Encouraging gradual exposure to social situations, starting with low-stakes interactions, may help build confidence and reduce avoidance behaviors.
+
+Additionally, addressing the emotional impact of the patient's relationship with his mother and past bullying experiences could facilitate healing and promote healthier coping mechanisms. Building on the patient's resilience and past successes, such as completing rehabilitation, can empower him to approach current challenges with greater confidence and self-efficacy.
+
+Overall, therapy should aim to support the patient in developing more adaptive coping strategies, improving self-esteem, and fostering healthier family dynamics, while respecting his pace and readiness for change.
+Summary da mistral_.csv: The client discusses a recent weekend where they had invited a friend to stay and do dishes while they were away, but their partner objected and became upset. The client and partner have differing views on cleanliness and guests in their home. The client also shares a family history of their cousin, Daniel, who had a troubled childhood and has since struggled with addiction and health issues, including diabetes and pneumonia. The client expresses concern for Daniel's well-being and feels helpless in the situation.
+The client describes a long-standing family conflict with her brother Daniel, who has a history of health issues and a pattern of seeking attention through dramatic behavior. Daniel and the client's mother had a strained relationship, and Daniel felt neglected and unloved. Daniel's mother left her estate to the client's aunt to distribute, which Daniel resented. Daniel has a contentious relationship with their cousin Caleb, who Daniel believes is smarter and more successful. The client feels a sense of responsibility for Daniel and wishes she could have done more to help him. Daniel has a history of losing jobs due to anger issues and not taking responsibility for his actions. The client and her brother feel guilty for doing well in life and fear that their family members would be disappointed if they knew.
+The therapist indicated the end of the session and mentioned the word "hospital." The client responded with a thank you.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of substance abuse and has completed rehabilitation, indicating both vulnerability to stress and capacity for change. He reports ongoing family conflict, especially with his mother, characterized by emotional neglect and rejection. He has struggled with obesity since childhood and has experienced bullying related to his weight. These experiences likely contribute to feelings of shame, low self-worth, and a tendency to withdraw from potentially judgmental social situations.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I put myself in situations with my family, I will be judged or rejected, so it's safer to avoid them. If I show up, people will notice my flaws and I will feel exposed. I must protect myself from being hurt again by staying away from situations where I might be criticized or ignored.",
+  "intermediate_belief_depression": "No matter what I do, I will never fit in or be accepted by my family, so there's no point in trying. If I go, it will just confirm that I don't belong and make me feel worse.",
+  "coping_strategies": [
+    "The client avoids responding to invitations and ignores follow-up calls from family members to manage anticipated stress and emotional discomfort. He withdraws from social situations that may trigger feelings of shame, judgment, or rejection. This avoidance temporarily reduces anxiety but reinforces isolation and maintains his negative beliefs about himself and others."
+  ],
+  "situation": "Received an invitation to a cousin's upcoming wedding. Has not responded to the RSVP request and has not answered follow-up calls from family members.",
+  "auto_thought": "If I go to the wedding, everyone will judge me or ignore me. It's better if I just stay away so I don't get hurt again.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "lonely",
+    "sad",
+    "worried",
+    "rejected"
+  ],
+  "behavior": "Did not respond to the RSVP request. Ignored follow-up calls from family members. Withdrew from contact regarding the event."
+}

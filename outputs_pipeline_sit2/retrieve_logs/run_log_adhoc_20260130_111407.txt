@@ -1,0 +1,95 @@
+Using description: HISTORY:
+- History of substance abuse and completed rehabilitation.
+- Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect.
+- Longstanding obesity since childhood.
+- Past experiences of bullying related to weight.
+
+SITUATION:
+- Missed an alarm and woke up late for work. with ID=1-2
+Sample results (metadata similarity):
+  - sim=0.014 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.137 | title='Session 17: Client sees herself as having an overbearing, aggressive personality' | file='1000133903.txt'
+  - sim=0.151 | title='Patient "R" Session June 25, 2012: Client knows that she should be working on co' | file='1004600948.txt'
+  - sim=0.165 | title='Client "S", Session September 21, 2012: Client is currently working towards his ' | file='1004824793.txt'
+  - sim=0.177 | title='Person-Centered Child Therapy Session Transcript: Anin Utigaard masterfully teac' | file='1001114250.txt'
+  - sim=0.180 | title='Session 4: Client does not understand why she cannot find someone to date her. S' | file='1000133886.txt'
+  - sim=0.182 | title='Patient "B", Session November 12, 2012: Client talks about feeling guilty for tr' | file='1004824659.txt'
+  - sim=0.182 | title='Patient "L", Session May 09, 2012: Client has been feeling good about her work; ' | file='1004564967.txt'
+  - sim=0.184 | title='Session 8: Client tells therapist how bad she was feeling and then how she start' | file='1000013260.txt'
+  - sim=0.185 | title='Volume no. 12: Gregg: Client and therapist discuss client's dreams' | file='1002133158.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.014 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.137 | file='1000133903.txt' | title='Session 17: Client sees herself as having an overbearing, aggressive personality'
+  - sim=0.151 | file='1004600948.txt' | title='Patient "R" Session June 25, 2012: Client knows that she should be working on co'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of substance abuse and has successfully completed rehabilitation. He is currently experiencing ongoing family difficulties, particularly in his relationship with his mother, which is characterized by feelings of rejection and emotional neglect. The patient has struggled with obesity since childhood and has past experiences of bullying related to his weight. Recently, he missed an alarm and woke up late for work.
+
+**Emotional Impact:**
+The patient's history of substance abuse and subsequent rehabilitation suggests a past reliance on substances as a coping mechanism for emotional distress. The successful completion of rehabilitation indicates a significant effort to change and a desire for healthier coping strategies. However, the ongoing family difficulties, particularly the perceived rejection and emotional neglect from his mother, likely contribute to feelings of sadness, loneliness, and possibly anger. These emotions may be exacerbated by his longstanding obesity and experiences of bullying, which could lead to feelings of shame, embarrassment, and low self-esteem.
+
+The recent incident of waking up late for work might have triggered feelings of anxiety and self-criticism. Given the patient's history, he may be prone to ruminating on perceived failures, which can amplify feelings of inadequacy and disappointment.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive distortions such as all-or-nothing thinking, where he views situations in black-and-white terms, particularly in relation to his self-worth and capabilities. This could be influenced by past bullying and family dynamics, leading to a negative self-image. He might also engage in overgeneralization, applying past negative experiences to current situations, which can perpetuate a cycle of negative thinking.
+
+The transcript provides insight into how individuals with similar backgrounds might experience cognitive challenges. For instance, the struggle to comprehend complex material and the subsequent satisfaction of understanding it can parallel the patient's potential struggle with self-worth and the desire for validation. The patient might benefit from recognizing small achievements and reframing negative thoughts to foster a more balanced self-view.
+
+**Behavioral Responses:**
+The patient's behavioral responses may include avoidance of situations that remind him of past failures or rejection, such as social interactions or tasks that require self-confidence. He might also procrastinate or withdraw when feeling overwhelmed by emotions or situations. The missed alarm incident could be an example of avoidance behavior, where underlying anxiety or fear of failure leads to self-sabotage.
+
+The transcript highlights the importance of persistence and the gradual understanding of complex concepts, which can be applied to the patient's situation. Encouraging the patient to break down tasks into manageable steps and celebrate small victories can help build resilience and reduce avoidance behaviors.
+
+**Coping Styles:**
+The patient may have developed maladaptive coping styles, such as seeking reassurance or engaging in negative self-talk, as a result of his family dynamics and past experiences. These coping mechanisms might have been reinforced by the emotional neglect and rejection he perceives from his mother.
+
+Drawing from the transcript, the patient could benefit from developing healthier coping strategies, such as cognitive restructuring to challenge negative thoughts and mindfulness techniques to manage emotional distress. Engaging in activities that promote self-efficacy and self-compassion can also support the patient's emotional well-being.
+
+**Conclusion:**
+The patient's history and current circumstances suggest a complex interplay of emotional, cognitive, and behavioral challenges. By addressing these areas through cognitive-behavioral interventions, the patient can work towards developing healthier coping mechanisms, improving self-esteem, and fostering more positive relationships. The therapeutic focus should be on building resilience, enhancing self-awareness, and promoting adaptive thinking patterns to support the patient's overall psychological health.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of substance abuse and has completed rehabilitation, indicating a pattern of using substances to cope with emotional distress. He reports ongoing family difficulties, especially with his mother, characterized by feelings of rejection and emotional neglect. He has struggled with obesity since childhood and has experienced bullying related to his weight. These experiences have likely contributed to low self-esteem, shame, and a tendency to ruminate on perceived failures.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake or let people down, it proves that I am not good enough and others will see me as a failure. I have to avoid messing up, or people will reject me just like my mother did. If I can't do things right, it means I am not worthy of respect or acceptance.",
+  "intermediate_belief_depression": "If I keep failing or disappointing others, nothing will ever get better for me and I will always feel alone and inadequate. There's no point in trying because I will just mess up again.",
+  "coping_strategies": [
+    "The client tends to avoid situations that trigger memories of rejection or failure, such as withdrawing or procrastinating when overwhelmed. He may engage in negative self-talk and ruminate on his mistakes, which amplifies feelings of inadequacy. In the past, he used substances to manage distress, but now may rely on avoidance and self-criticism."
+  ],
+  "situation": "Missed an alarm and woke up late for work.",
+  "auto_thought": "I can't even do something as simple as wake up on time. Everyone at work will think I'm unreliable and a failure.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "embarrassed",
+    "disappointed",
+    "guilty",
+    "worried"
+  ],
+  "behavior": "He hesitates before getting out of bed, ruminates about what his coworkers and boss will think, and delays contacting work. He may avoid looking at his phone or checking messages out of fear of criticism."
+}

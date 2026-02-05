@@ -1,0 +1,53 @@
+{
+  "name": "CBT Cognitive Conceptualization for Client (Work Criticism)",
+  "id": "42-2",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client reports recurrent dreams during graduate school about being unprepared for a thesis defense, suggesting longstanding anxiety about performance and evaluation. The client's father is described as having high expectations, which likely contributed to internalized pressure to achieve and fear of not meeting standards. These early experiences appear to have shaped the client's current cognitive and emotional responses to criticism and evaluation.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet expectations or make a mistake, it means I'm inadequate and others will see me as a failure. I must always be fully prepared and perform perfectly to avoid criticism and maintain my self-worth. Criticism is a sign that I am not living up to what is required of me.",
+  "intermediate_belief_depression": "If I keep failing to meet expectations, I'll never be good enough and things will never improve for me. Criticism just proves that no matter how hard I try, I can't succeed or measure up.",
+  "coping_strategies": "The client tends to over-prepare or excessively self-monitor in anticipation of evaluations, attempting to avoid criticism. When faced with criticism, the client may ruminate on perceived shortcomings, withdraw from challenging tasks, or seek reassurance from others to alleviate anxiety. These strategies maintain anxiety and reinforce the belief that only perfection prevents negative outcomes.",
+  "situation": "Receiving criticism during a work performance review.",
+  "auto_thought": "I'm failing at my job. Everyone will see that I'm not good enough.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "hurt",
+    "disappointed",
+    "self-doubt"
+  ],
+  "behavior": "After the criticism, the client withdraws from colleagues and avoids taking on new tasks. They spend extra time reviewing their work for mistakes and may seek reassurance from a supervisor or peer.",
+  "rationale": "\"The recurrent dreams about being unprepared for a thesis defense suggest underlying feelings of anxiety and fear related to performance and evaluation.\" \"The high expectations from the father could contribute to a cognitive schema centered around perfectionism and fear of failure.\" \"The recent criticism during a work performance review may exacerbate these feelings, leading to emotions such as disappointment, hurt, and possibly shame.\" \"The patient's cognitive patterns may include a tendency to ruminate on perceived failures or shortcomings.\" \"The patient might engage in behaviors such as avoidance or procrastination, particularly in situations involving evaluation or performance.\" \"The patient may rely on coping mechanisms such as over-preparation or excessive self-monitoring to manage anxiety related to performance.\"",
+  "core_belief_predictions": {
+    "source_id": "42-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am bound to be rejected",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

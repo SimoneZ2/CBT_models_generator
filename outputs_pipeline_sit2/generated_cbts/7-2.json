@@ -1,0 +1,50 @@
+{
+  "name": "CBT Cognitive Conceptualization for Client Reflecting on Idle Time and Personal Development",
+  "id": "7-2",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a longstanding pattern of working long hours in demanding environments, including touring work, which may have served as a distraction from personal issues. There are unresolved issues with the client's father, including past abuse, which have recently been revisited through an exchange of letters. This history suggests a background of emotional distress, self-criticism, and difficulty relaxing or engaging in self-care, likely shaped by both work demands and familial conflict.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I am not constantly productive or achieving, then I am failing and others will see me as weak or inadequate. If I let myself reflect or slow down, painful emotions and memories will overwhelm me. I must keep busy to avoid feeling worthless or unloved.",
+  "intermediate_belief_depression": "If I stop working or striving, I will be left alone with my pain and nothing will ever improve. No matter what I do, I can't escape feeling empty or unworthy.",
+  "coping_strategies": "The client tends to use work and busyness as a way to distract from emotional pain and unresolved issues, particularly those related to their father. When faced with idle time, they may withdraw, procrastinate, or avoid engaging in personal development activities, leading to further rumination and self-criticism.",
+  "situation": "Reflecting on how to use idle time and focus on personal development.",
+  "auto_thought": "If I don't use this time to improve myself, I'm just wasting my life. I should be doing something productive or else I'm failing.",
+  "emotion": [
+    "anxious",
+    "guilty",
+    "ashamed",
+    "overwhelmed",
+    "self-critical"
+  ],
+  "behavior": "I avoid starting personal development activities and end up procrastinating. I ruminate about what I 'should' be doing instead of taking action. Sometimes I withdraw or distract myself with minor tasks to avoid uncomfortable feelings.",
+  "rationale": "The report notes 'difficulty initiating personal development activities,' 'rumination and self-criticism,' and a tendency to use work as a distraction from personal issues. It also highlights 'complex emotions such as anger, hurt,' and 'a sense of being overwhelmed or burnt out, particularly when faced with idle time.' The client's avoidance and procrastination are described as behavioral responses, and the cognitive patterns include perfectionism and negative beliefs about self-worth. The intermediate beliefs are supported by the report's mention of 'self-imposed pressure,' 'difficulty in relaxing or enjoying leisure time,' and 'negative core beliefs about self-worth or trust in relationships.'",
+  "core_belief_predictions": {
+    "source_id": "7-2",
+    "major_pred_set": [
+      "helpless",
+      "worthless"
+    ],
+    "fine_pred_set": [
+      "I am a failure, loser",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am worthless, waste"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

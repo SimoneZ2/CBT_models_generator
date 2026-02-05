@@ -1,0 +1,26 @@
+{
+  "history": "The client is a 28-year-old student who recently returned from Egypt and is now managing bills, finances, and health insurance independently for the first time, after previously relying on parents for support. The client's brother remains financially dependent on their parents. This transition to independence is a significant life change and may contribute to feelings of uncertainty and self-doubt, as suggested by the report's emphasis on worry and stress related to new responsibilities.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake with my finances, it means I can't handle being independent. If something unexpected happens with money, it proves I'm not ready for adult responsibilities. I must not make errors, or it shows I'm inadequate.",
+  "intermediate_belief_depression": "If I keep struggling with these responsibilities, I'll never be able to take care of myself and things will just get worse.",
+  "coping_strategies": [
+    "The client tends to avoid dealing with financial tasks when feeling overwhelmed or uncertain, as indicated by possible procrastination and avoidance behaviors. They may also seek reassurance from parents or others when faced with difficult financial decisions, which maintains their anxiety and self-doubt."
+  ],
+  "situation": "Received an insurance claim with an unexpected balance.",
+  "auto_thought": "I don't know how to handle this. If I mess this up, it will prove I can't manage on my own.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "stressed",
+    "self-doubt",
+    "tense"
+  ],
+  "behavior": "I put off looking at the insurance paperwork. I consider calling my parents to ask what to do. I avoid making a decision about how to pay the balance.",
+  "source_text_id": "1003075042.txt"
+}

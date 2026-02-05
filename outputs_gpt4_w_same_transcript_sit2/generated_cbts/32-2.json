@@ -1,0 +1,32 @@
+{
+  "name": "Case Study",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Strained relationships with parents and a history of feeling judged and disapproved of. Mother's health condition mentioned. Issues related to parental support during education. Mentions of the mother being described as 'broken' and allegations of a past affair.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must prove myself to be accepted.",
+  "intermediate_belief_depression": "I am not good enough, and I will always be judged.",
+  "coping_strategies": "Avoidance of confrontation and seeking validation through achievements.",
+  "situation": "Received a work bonus for exceptional performance. During a call with parents about the bonus, they asked about job prospects.",
+  "auto_thought": "They don't care about my achievements; they only see my flaws.",
+  "emotion": [
+    "Frustration",
+    "Sadness"
+  ],
+  "behavior": "Withdrawing from conversations with parents and feeling demotivated.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

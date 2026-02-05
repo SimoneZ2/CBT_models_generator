@@ -1,0 +1,82 @@
+Using description: HISTORY:
+- Holds a master's degree in engineering.
+- Experience in robotics during college.
+- Prior project involved insufficient time commitment, leading to regret.
+
+SITUATION:
+- Considering launching a micro press and changing careers.
+- Feeling uncertain about financial stability and fulfillment while comparing self to peers. with ID=47-1
+Emergency Fallback to 0.10 - Top results (by metadata similarity):
+  - sim=0.332 | title='Patient "M", Session August 21, 2012: Client is disappointed with some changes i' | file='1004687676.txt'
+  - sim=0.296 | title='Patient "R" Session June 25, 2012: Client knows that she should be working on co' | file='1004600948.txt'
+  - sim=0.292 | title='Patient "L", Session November 14, 2012: Client is interviewing for a job out of ' | file='1004824689.txt'
+  - sim=0.284 | title='Verilogue session: Client has been doing well on his medications' | file='1003009268.txt'
+  - sim=0.279 | title='Patient "M", Session May 29, 2012: Client has been feeling angry and frustrated ' | file='1004564979.txt'
+  - sim=0.274 | title='Verilogue session: Client has been going through rough times and feeling emotion' | file='1001084067.txt'
+  - sim=0.268 | title='Session 8: Client is using his art as a form of therapy to increase his self-est' | file='1000013289.txt'
+  - sim=0.267 | title='Patient "B", Session March 28, 2012: Client is having a hard time completing her' | file='1004528603.txt'
+  - sim=0.265 | title='Patient "J", Session February 21, 2012: Client sounds a bit more hopeful about h' | file='1004503124.txt'
+  - sim=0.264 | title='Patient "B", Session February 15, 2012: Client starts session by verbally batter' | file='1004503118.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.332 | file='1004687676.txt' | title='Patient "M", Session August 21, 2012: Client is disappointed with some changes i'
+  - sim=0.296 | file='1004600948.txt' | title='Patient "R" Session June 25, 2012: Client knows that she should be working on co'
+  - sim=0.292 | file='1004824689.txt' | title='Patient "L", Session November 14, 2012: Client is interviewing for a job out of '
+Using top selected file for transcript: '1004687676.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient holds a master's degree in engineering and has experience in robotics from their college years. They have expressed regret over a prior project due to insufficient time commitment. Currently, the patient is contemplating a significant career shift by launching a micro press, which has led to feelings of uncertainty about financial stability and fulfillment. The patient is also comparing themselves to their peers, which contributes to their current emotional state.
+
+**Emotional Impact:**
+The patient is likely experiencing a mix of emotions, including anxiety, worry, and fear, primarily related to the uncertainty of financial stability and the potential career change. The regret over the previous project may contribute to feelings of disappointment and self-doubt, potentially exacerbating their current anxiety about making another significant life decision. The comparison with peers might lead to feelings of inadequacy or pressure to succeed, further intensifying their anxiety and self-doubt.
+
+**Cognitive Patterns:**
+The patient may engage in ruminative thinking, particularly about past decisions and their potential impact on current circumstances. This pattern can lead to a cycle of self-criticism and doubt, as they might frequently revisit the regret associated with their prior project. The uncertainty about financial stability and career fulfillment could result in cognitive distortions such as catastrophizing, where the patient might overestimate the negative outcomes of their decisions. Additionally, the tendency to compare themselves with peers suggests a cognitive bias towards social comparison, which can undermine self-esteem and increase stress.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive patterns, the patient might exhibit avoidance behaviors, such as procrastinating on making decisions about the micro press launch. They may also seek reassurance from others to alleviate their anxiety about financial stability and career choices. The regret from the past project might lead them to overcommit to future endeavors as a way to compensate for perceived past failures. Alternatively, they might withdraw from social interactions to avoid comparisons with peers, which could further isolate them and exacerbate feelings of inadequacy.
+
+**Coping Styles:**
+The patient may rely on problem-solving strategies to cope with their uncertainty, as suggested by their engineering background and interest in launching a new venture. However, the emotional burden of regret and comparison might hinder their ability to effectively implement these strategies. They might also engage in self-reflection to understand their motivations and desires for career fulfillment, although this could lead to overthinking and increased anxiety if not balanced with action-oriented coping.
+
+**Conclusion:**
+The patient's current situation presents a complex interplay of emotions, cognitive patterns, and behaviors influenced by past experiences and current uncertainties. Addressing these issues through cognitive-behavioral strategies could help the patient develop more adaptive thinking patterns, reduce anxiety, and enhance decision-making confidence. Encouraging the patient to focus on their strengths and past successes, rather than comparisons with peers, may also improve their self-esteem and motivation as they navigate this career transition.
+Summary da mistral_.csv: The client discussed their decision to reduce their hours at Microsoft due to corporate changes and disappointments with the company's new leadership. They mentioned feeling deeply disappointed with the company's direction, including cuts to hours, training, and benefits. The client also shared their past influence and contributions to the company, feeling that they had given a lot and were now being treated unfairly. They expressed concern for the impact on their colleagues and the potential for the company to become more like Best Buy. The client also shared their personal financial difficulties and the symbolic significance of their Microsoft stock.
+The client expresses frustration and sadness about changes in their company that they perceive as extracting more money from employees and negatively impacting the work environment. They recall the unique aspects of the company, such as attracting non-traditional employees and providing opportunities for personal growth. The client intends to find a new project or endeavor to feel fulfilled and make a difference, potentially in the realm of technology and education. They discuss an idea for a mouse technology that can help individuals with Parkinson's disease by smoothing out their mouse movements.
+The client expresses their difficulty in pursuing certain projects due to a lack of official expertise and the need for additional learning, which hinders their ability to secure funding or grants. They mention their background in signal processing and noise processing but acknowledge that these skills are not officially recognized in the specific areas they are interested in. The client also shares their indifference towards money and their pride in their work, which they see as problem-solving engagements. They express concerns about being seen as egotistical due to their focus on their own opinions and feelings about their work. The client shares that they have been told they live a selfish life due to their lack of children and that they are currently working on a website for their stepmother-in-law's therapy business. The session concludes with scheduling the next appointment.
+
+ REFINED CCD: description + report
+{
+  "history": "The client holds a master's degree in engineering and has experience in robotics from college. They have expressed regret about not committing enough time to a prior project, which continues to influence their self-evaluation. Currently, they are considering a significant career change by launching a micro press, which brings up uncertainty about financial stability and fulfillment. The client compares themselves to peers, which appears to intensify feelings of inadequacy and pressure.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't fully commit and succeed in this new venture, it will prove that I'm not as capable or successful as my peers. I must avoid making mistakes like before, or it will confirm my inadequacy. I need to ensure financial stability and fulfillment to validate my worth.",
+  "intermediate_belief_depression": "If I fail at this career change, it will show that I'm incapable of improvement and that my past regrets define my future. There's no point in trying if I end up feeling disappointed again.",
+  "coping_strategies": [
+    "The client tends to procrastinate on making decisions about launching the micro press, possibly to avoid the anxiety of potential failure. They may seek reassurance from others regarding their choices and financial concerns. At times, they withdraw from social interactions to avoid comparing themselves to peers, which can increase feelings of isolation."
+  ],
+  "situation": "Considering launching a micro press and changing careers. Feeling uncertain about financial stability and fulfillment while comparing self to peers.",
+  "auto_thought": "What if I fail at this and end up worse off than I am now? Everyone else seems to be doing better, so maybe I'm just not cut out for this.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "fearful",
+    "self-doubt",
+    "inadequate",
+    "tense"
+  ],
+  "behavior": "I put off making a final decision about the micro press. I check in with friends or family for reassurance about my plans. Sometimes I avoid talking to peers about my career to escape feeling inferior."
+}

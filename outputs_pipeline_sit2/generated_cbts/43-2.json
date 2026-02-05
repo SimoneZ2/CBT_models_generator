@@ -1,0 +1,51 @@
+{
+  "name": "CBT Cognitive Conceptualization for Social Exclusion Case",
+  "id": "43-2",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client reports childhood experiences of emotional invalidation, such as being reprimanded for crying, which likely contributed to a longstanding history of depression. These early experiences may have led to internalized beliefs that their feelings are not valid or important. The client is now highly sensitive to perceived rejection or exclusion, as seen in the recent distress after not being invited to a dinner with friends.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am excluded or not invited, it means I am not valued or wanted by others. I must always be included to feel secure about my relationships. If people don't reach out to me, it confirms that I am not important.",
+  "intermediate_belief_depression": "If I am left out, it proves that I am fundamentally unworthy and will always be alone. There is nothing I can do to change how others see me, so I might as well give up trying.",
+  "coping_strategies": "The client tends to withdraw from social interactions and avoids reaching out to friends after feeling excluded. They may ruminate about the situation and seek reassurance from others about their worth, which temporarily soothes distress but reinforces their dependence on external validation.",
+  "situation": "Not invited to a dinner with friends by one acquaintance.",
+  "auto_thought": "They didn't invite me because they don't really like me. I'm just not important to them.",
+  "emotion": [
+    "rejected",
+    "sad",
+    "lonely",
+    "anxious",
+    "inadequate"
+  ],
+  "behavior": "I withdraw from the group and avoid messaging anyone. I replay the situation in my mind, wondering what I did wrong.",
+  "rationale": "\"The experience of not being invited to the dinner could lead to thoughts like 'I am not good enough' or 'They don't like me,' which are common in individuals with a history of depression and emotional invalidation.\" \"The patient might withdraw from social interactions, avoid reaching out to friends, or seek reassurance from others about their worth and likability.\" \"Being reprimanded for expressing emotions as a child may have led to internalized beliefs that their feelings are not valid or important.\"",
+  "core_belief_predictions": {
+    "source_id": "43-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

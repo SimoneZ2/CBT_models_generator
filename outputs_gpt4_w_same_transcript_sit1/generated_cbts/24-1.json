@@ -1,0 +1,25 @@
+{
+  "name": "John Doe",
+  "id": "JD123",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Past experiences of pressure related to performance and social interactions. Reports presenting a confident front and hiding vulnerability. A recent business failure led to financial hardship.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't succeed, I will be seen as weak and incapable.",
+  "intermediate_belief_depression": "I can't handle the pressure and will fail again.",
+  "coping_strategies": "Avoidance of financial discussions and seeking distractions through activities.",
+  "situation": "Invited to visit their sister while dealing with financial instability.",
+  "auto_thought": "I can't manage my finances and everything is falling apart.",
+  "emotion": [
+    "Anxiety",
+    "Overwhelm"
+  ],
+  "behavior": "Avoids addressing financial issues directly and engages in activities to distract from stress."
+}

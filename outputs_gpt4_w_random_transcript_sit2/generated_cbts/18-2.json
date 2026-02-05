@@ -1,0 +1,26 @@
+{
+  "name": "Maddie",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Academic underperformance despite being described as intelligent. Attended a college (institution X), felt isolated, and dropped out. About two years of credits remain to complete the degree. Mother had high expectations. Financial difficulties and pressure from the mother to return home.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet expectations, I will be rejected.",
+  "intermediate_belief_depression": "I must be perfect to be accepted.",
+  "coping_strategies": "Avoidance of vulnerability and emotional dependence on others.",
+  "situation": "Seeking financial help from parents. Recent family conversation included discussion of the college dropout experience.",
+  "auto_thought": "People won't believe in my holistic approach and think I'm crazy.",
+  "emotion": [
+    "Frustration",
+    "Vulnerability"
+  ],
+  "behavior": "Avoids expressing vulnerability and seeks validation through achievements."
+}

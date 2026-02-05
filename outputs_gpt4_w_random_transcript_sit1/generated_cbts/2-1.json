@@ -1,0 +1,26 @@
+{
+  "name": "Patient",
+  "id": "PV010432",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recent family tension related to a conversation with parents about a wedding list. The patient noticed similarities between their own actions and their father's patterns. The father is described as repeatedly seeking approval and unconditional love from family members.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I ask for something directly, I will be rejected or disapproved.",
+  "intermediate_belief_depression": "I need approval from others to feel worthy.",
+  "coping_strategies": "Avoids asking for changes or favors directly to prevent rejection or disapproval.",
+  "situation": "Disagreement with parents regarding the guest list for an upcoming event.",
+  "auto_thought": "If I ask to change the time, I will be rejected or it will show I am demanding.",
+  "emotion": [
+    "Anxiety",
+    "Fear of rejection"
+  ],
+  "behavior": "Avoids direct requests and seeks approval indirectly."
+}

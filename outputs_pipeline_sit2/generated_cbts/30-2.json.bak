@@ -1,0 +1,36 @@
+{
+  "name": "CBT Cognitive Conceptualization for Family Interaction Distress",
+  "id": "ccd-2024-nyc-identity-1",
+  "type": [
+    "case_formulation",
+    "cbt",
+    "identity",
+    "family_dynamics"
+  ],
+  "history": "The client recently completed an undergraduate degree and is entering the workforce. They came out to their parents within the last two and a half years and received negative reactions, leading to increased distance from their parents. The client moved to New York for education, which allowed them to explore their identity away from family influence. Their relationship with their mother is strained, with the mother described as focused on practical matters rather than emotional support. There is also tension with a sister who is described as envious of the client's independence and achievements.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am honest about who I am with my family, they will react negatively and I will be hurt. I need to keep my distance to protect myself from disappointment and rejection. If I rely on my family for emotional support, I will be let down.",
+  "intermediate_belief_depression": "No matter what I do, my family will never truly accept or support me, so there is no point in trying to connect with them emotionally.",
+  "coping_strategies": "The client withdraws from family interactions and maintains emotional distance to avoid further distress. They avoid discussing personal topics with family to prevent conflict and seek validation and support from friends or chosen family in New York.",
+  "situation": "Recalling the experience of coming out to parents and the negative aftermath. Preparing for or having interactions with family while maintaining distance.",
+  "auto_thought": "They don't really accept me for who I am. If I let my guard down, I'll just get hurt again.",
+  "emotion": [
+    "anxious",
+    "hurt",
+    "rejected",
+    "sad",
+    "tense",
+    "disappointed"
+  ],
+  "behavior": "I keep conversations with my family brief and avoid talking about my personal life. I hold back my feelings and try not to show when I'm upset. I reach out to friends in New York for support instead.",
+  "rationale": "\"The experience of coming out to their parents and receiving negative reactions likely led to feelings of rejection, hurt, and disappointment.\" \"The patient may engage in behaviors such as withdrawing from family interactions to protect themselves from further emotional distress.\" \"They might avoid discussing certain topics with their family to prevent conflict or emotional discomfort.\" \"The strained relationship with the mother, who is perceived as lacking emotional support, may lead to feelings of frustration and unmet emotional needs.\""
+}

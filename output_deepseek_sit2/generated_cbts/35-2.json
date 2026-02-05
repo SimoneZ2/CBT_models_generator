@@ -1,0 +1,29 @@
+{
+  "name": "Patient 35",
+  "id": "35",
+  "type": [
+    "family trauma",
+    "emotional avoidance"
+  ],
+  "history": "Difficult family conversation with mother about not discussing pain/suffering. Father avoids therapy, has distressing dreams about brother's suicide. Patient reports ongoing struggles with separation and suffering.",
+  "helpless_belief": [
+    "I am trapped in family silence"
+  ],
+  "unlovable_belief": [
+    "My pain is too much for others"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "Emotional pain must be hidden to protect others.",
+  "intermediate_belief_depression": "My family's trauma has permanently damaged our ability to connect.",
+  "coping_strategies": [
+    "Emotional numbing, intellectualizing feelings, avoiding vulnerable conversations."
+  ],
+  "situation": "Talking with Jeremy about feelings of disconnection, trying to describe detachment and associated pain.",
+  "auto_thought": "\"He won't understand. No one can. I should just pretend I'm fine.\"",
+  "emotion": [
+    "loneliness",
+    "frustration",
+    "numbness"
+  ],
+  "behavior": "Uses abstract metaphors, changes subject when emotions surface, makes self-deprecating joke."
+}

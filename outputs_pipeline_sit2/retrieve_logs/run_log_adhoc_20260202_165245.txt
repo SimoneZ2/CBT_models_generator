@@ -1,0 +1,81 @@
+Using description: HISTORY:
+- Multiple past jobs involved micromanagement.
+- Reports self-blame in work contexts.
+
+SITUATION:
+- Experiencing micromanagement at the workplace and considering resigning. with ID=20-2
+Sample results (metadata similarity):
+  - sim=0.006 | title='Object Relations Child Therapy: In David Scharff’s Object Relations child therap' | file='1001114251.txt'
+  - sim=0.008 | title='Session 8: Client and therapist chat generally on random subjects and client tal' | file='1000088089.txt'
+  - sim=0.014 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.015 | title='Volume no. 12: Gregg: Client and therapist discuss client's dreams' | file='1002133158.txt'
+  - sim=0.023 | title='Session 3: Client talks about his mother being more supportive and interested in' | file='1004824741.txt'
+  - sim=0.024 | title='Session 3: Client explains his sleep pattern of hypersomnia' | file='1000088119.txt'
+  - sim=0.028 | title='Session 20: Client assumes it is her physical deformity that keeps men from find' | file='1000133913.txt'
+  - sim=0.029 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.029 | title='Person-Centered Child Therapy Session Transcript: Anin Utigaard masterfully teac' | file='1001114250.txt'
+  - sim=0.030 | title='Patient "S", Session September 28, 2012: Client can't decide if she wants to rem' | file='1004798839.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1407
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.006 | file='1001114251.txt' | title='Object Relations Child Therapy: In David Scharff’s Object Relations child therap'
+  - sim=0.014 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.015 | file='1002133158.txt' | title='Volume no. 12: Gregg: Client and therapist discuss client's dreams'
+Using LEAST related file for transcript: '1001114251.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, Jeff, is currently experiencing significant distress related to his experiences of micromanagement at work, which echoes his past employment situations where he felt similarly controlled. During our session, Jeff expressed a strong sense of self-blame, stating, "I always think it's my fault," when discussing workplace issues. This pattern of self-blame appears to be a recurring theme in his professional life, contributing to his current consideration of resigning. He described feeling "trapped" and "constantly watched," which has heightened his anxiety and led to thoughts of leaving his job.
+
+Throughout the session, Jeff frequently returned to the topic of his workplace environment, describing it as "suffocating" and "unbearable." He noted that his manager's constant oversight makes him feel incompetent, despite his efforts to meet expectations. This aligns with his history of working in environments characterized by micromanagement, which has likely reinforced his tendency to internalize blame. Jeff's automatic thoughts often revolve around the idea that he is "not good enough," which fuels his anxiety and impacts his self-esteem.
+
+Jeff's emotional response to these thoughts is predominantly anxious and tense. He described feeling "on edge" and "unable to relax," both at work and at home. This pervasive anxiety seems to stem from his fear of making mistakes and being reprimanded, which he believes would confirm his perceived inadequacy. His behavioral response to these emotions includes withdrawing from colleagues and avoiding interactions that might lead to criticism. Jeff admitted, "I try to keep my head down and just get through the day," indicating a coping strategy of avoidance.
+
+Interestingly, Jeff's narrative occasionally diverged from his stated situation. For instance, he mentioned feeling "better" when working on independent projects, suggesting a potential mismatch between his skills and the demands of his current role. This discrepancy highlights the possibility that his distress may be exacerbated by a misalignment between his job responsibilities and his strengths.
+
+In terms of coping strategies, Jeff reported engaging in rumination, often replaying work interactions in his mind and fixating on perceived failures. He also mentioned seeking reassurance from his partner, although he acknowledged that this provides only temporary relief. Jeff expressed a desire to "break the cycle" of self-blame and anxiety, indicating a readiness to explore alternative coping mechanisms.
+
+Throughout the session, Jeff's interpersonal dynamics were evident in his descriptions of workplace interactions. He noted feeling "isolated" and "unsupported," which may contribute to his reluctance to seek help from colleagues. This isolation is compounded by his belief that others view him as "incompetent," a perception that likely stems from his history of being micromanaged. Jeff's avoidance of confrontation and preference for solitude suggest a pattern of withdrawing from potentially stressful situations.
+
+Overall, Jeff's current situation is characterized by a cycle of self-blame, anxiety, and avoidance, rooted in past experiences of micromanagement. His automatic thoughts and emotional responses perpetuate this cycle, impacting his self-esteem and job satisfaction. By addressing these cognitive patterns and exploring new coping strategies, Jeff may be able to reduce his anxiety and improve his overall well-being.
+Summary da mistral_.csv: In this session, David Scharff, a renowned figure in Object Relations therapy, consults with a mother (Angie) about her 11-year-old son, Jeff. Jeff, who is grieving his grandmother's death and dealing with separation anxiety, has a strained relationship with his father. Angie shares background information about Jeff's recent hip surgeries, asthma diagnosis, and his close bond with his grandmother. She also discusses the conflict between Jeff and his father, Don, and their disagreement on how to handle Jeff's behavior. Angie mentions that Jeff has been modeling his father's behavior towards his younger brothers and expresses concern about his self-esteem and vulnerability following his grandmother's death. She also shares her own history of depression and her relationship with Jeff, which has remained strong despite her postpartum depression and Jeff's separation anxiety.
+Angie and Jeff discussed their relationship dynamics, with Angie mentioning past conflicts, particularly when Jeff's dream of buying a house didn't materialize. Angie shared that Jeff's father has been a source of conflict for him, and he has a strained relationship with his father. Jeff talked about his experiences with school, including bullying from teachers and difficulty walking between classes due to hip surgery. He mentioned that his father was once nice to him but later became abusive, and he currently gets along with him better. Jeff also discussed his relationship with his mother, who he considers the best person in the family, and his siblings. He had trouble with some teachers in the past, who were mean and yelled at him frequently.
+Jeff discussed his grandma, who had Alzheimer's and burned his homework after her memory loss led to confusion. He received a week-and-a-half detention for not having a believable explanation. Jeff expressed anger towards his aunt for not being present during his grandma's illness and death. He mentioned his mom and dad's good relationship, but his father's reluctance to follow instructions. Jeff's father works at Panduit, making electronics. Jeff enjoys baseball and aspires to be a cop or work on computers. He drew a cop car and a picture of his grandma. Jeff's grandma was a nice person who was often in the hospital before her death. The family is planning a road trip to California this summer.
+In this therapy session, Jeff discusses his dislike for long car rides and his tendency to take naps during them. He mentions that his father usually does most of the driving and recalls a past trip to Alabama where they went to see his friends. Jeff also talks about his family dynamics, including his grandma's illness and death, and his strained relationship with his grandparents. He shares dreams he's had about being left behind at school and the teachers' reactions to his absence. Jeff expresses fear of being separated from his mother and the resulting anger and questioning from authority figures.
+Jeff recounted an incident where he was prevented from playing basketball for his church team due to a miscommunication between his parents and the team's coach, who disclosed confidential medical information about Jeff's condition. Jeff's parents confronted the school administration, leading to conflicts and potential legal action. The situation was eventually resolved with the coach providing a note allowing Jeff to participate in one practice and one game per week. Jeff discussed his strained relationship with his father and his plans to either homeschool or attend a Catholic school. The therapist suggested that Jeff and his father work on improving their relationship for future reference as Jeff may become a father himself.
+
+REFINED CCD: description + report
+{
+  "history": "Jeff has a history of working in environments characterized by micromanagement, which has reinforced his tendency to internalize blame. He reports a recurring theme of self-blame in professional contexts, often thinking 'it's my fault' when workplace issues arise. He describes feeling 'trapped' and 'constantly watched' at work, echoing similar experiences in past jobs. Jeff notes feeling 'isolated' and 'unsupported' by colleagues, and he tends to withdraw from interactions to avoid criticism.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake or don't meet expectations, others will see me as incompetent and I will be blamed. I must avoid drawing attention to myself to prevent criticism. If I am constantly monitored, it means I am failing and not living up to what is expected of me.",
+  "intermediate_belief_depression": "If I keep being micromanaged and blamed, it proves that I will never be good enough and nothing I do will make a difference. No matter how hard I try, I will always fall short and feel trapped in this cycle.",
+  "coping_strategies": [
+    "Jeff withdraws from colleagues and avoids interactions that might lead to criticism, keeping his head down to get through the day. He engages in rumination, replaying work interactions and fixating on perceived failures. He seeks reassurance from his partner, but finds this only provides temporary relief."
+  ],
+  "situation": "Experiencing micromanagement at the workplace and considering resigning.",
+  "auto_thought": "I'm being watched because I'm not good enough. No matter what I do, they'll find something wrong and I'll end up having to leave.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "on edge",
+    "ashamed",
+    "incompetent",
+    "trapped"
+  ],
+  "behavior": "I withdraw from colleagues and avoid speaking up in meetings. I keep my head down and try to get through the day without drawing attention. I ruminate about work interactions and seek reassurance from my partner."
+}

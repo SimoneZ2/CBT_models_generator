@@ -1,0 +1,61 @@
+Using description: HISTORY:
+- Academic underperformance despite being described as intelligent.
+- Attended a college (institution X), felt isolated, and dropped out.
+- About two years of credits remain to complete the degree.
+- Mother had high expectations.
+- Financial difficulties and pressure from the mother to return home.
+
+SITUATION:
+- Experienced an unproductive week due to scheduling problems.
+- Comparing themselves to their sister's achievements and time management. with ID=18-1
+Randomly selected transcript file: '1004687722.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient has a history of academic underperformance despite being described as intelligent. They attended college at institution X but felt isolated and subsequently dropped out, leaving approximately two years of credits to complete their degree. The patient experiences financial difficulties and pressure from their mother to return home, who had high expectations for them. Recently, the patient had an unproductive week due to scheduling problems and has been comparing themselves to their sister's achievements and time management skills.
+
+**Emotional Experience:**
+The patient likely experiences feelings of inadequacy and disappointment, both in themselves and in their perceived inability to meet their mother's expectations. The pressure to return home due to financial difficulties may exacerbate feelings of failure and helplessness. The comparison to their sister's achievements could lead to feelings of inferiority and self-doubt, potentially contributing to a sense of being overwhelmed and anxious about their future.
+
+**Cognitive Patterns:**
+The patient may engage in negative self-comparisons and ruminative thinking, particularly when reflecting on their academic performance and their sister's success. This cognitive pattern could lead to a cycle of self-criticism and diminished self-esteem. The patient's history of feeling isolated at college might contribute to a belief that they are unable to form meaningful connections, which could reinforce feelings of loneliness and withdrawal.
+
+**Behavioral Responses:**
+In response to these stressors, the patient might withdraw from social interactions and avoid situations that remind them of their perceived failures, such as academic settings or discussions about their future. The unproductive week due to scheduling problems may lead to procrastination and further avoidance of tasks, reinforcing a cycle of inactivity and self-reproach. The patient might also seek reassurance from their mother or others but feel conflicted due to the pressure and expectations placed upon them.
+
+**Coping Styles:**
+The patient may cope with their emotional distress by avoiding tasks that trigger anxiety, such as academic work or planning for their future. They might also engage in self-comparison as a way to motivate themselves, although this often results in increased stress and feelings of inadequacy. The pressure from their mother and financial difficulties may lead them to seek temporary distractions rather than addressing the underlying issues.
+
+**Conclusion:**
+The patient's experiences of academic underperformance, isolation, and familial pressure likely contribute to a complex emotional landscape characterized by anxiety, self-doubt, and feelings of inadequacy. Their cognitive patterns of negative self-comparison and rumination exacerbate these emotions, leading to behavioral avoidance and withdrawal. Addressing these patterns through cognitive restructuring and developing healthier coping strategies could be beneficial in reducing the patient's distress and improving their overall functioning.
+{
+  "history": "The client has a longstanding pattern of academic underperformance despite being described as intelligent. They attended college at institution X but felt isolated and eventually dropped out, leaving about two years of credits unfinished. The client reports financial difficulties and feels pressured by their mother, who holds high expectations for them, to return home. The client often compares themselves to their sister's achievements and time management, which intensifies their feelings of inadequacy and self-doubt.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't perform as well as others, especially my sister, then I am not good enough and others will see me as a disappointment. I must meet high expectations to be valued. If I struggle or fall behind, it means I am fundamentally flawed.",
+  "intermediate_belief_depression": "If I keep failing to meet expectations and can't get myself to be productive, then there is no hope for me to improve and I will always be stuck feeling like a failure.",
+  "coping_strategies": [
+    "The client tends to avoid tasks and situations that trigger anxiety about their performance, such as academic work or planning for the future. They withdraw from social interactions and procrastinate, leading to further inactivity and self-reproach. The client also engages in negative self-comparison, particularly with their sister, which increases their distress but feels difficult to stop."
+  ],
+  "situation": "Experienced an unproductive week due to scheduling problems. Comparing themselves to their sister's achievements and time management.",
+  "auto_thought": "I'm falling behind again and I can't get it together. My sister has her life together and I'm just failing.",
+  "emotion": [
+    "inadequate",
+    "anxious",
+    "ashamed",
+    "disappointed",
+    "overwhelmed",
+    "self-doubt"
+  ],
+  "behavior": "Procrastinated on tasks and avoided making a new schedule. Spent time ruminating about their sister's achievements. Withdrew from activities that might remind them of their own lack of progress.",
+  "source_text_id": "1004687722.txt"
+}

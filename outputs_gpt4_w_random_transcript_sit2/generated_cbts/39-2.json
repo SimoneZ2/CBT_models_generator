@@ -1,0 +1,24 @@
+{
+  "name": "Client",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Recurrent stomachaches and physical symptoms associated with anxiety and stress. Past difficulties involving weight management, sexuality, and academic performance. Reports a transformation during college. Reports seeking control in relationships.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must keep it together and handle everything myself.",
+  "intermediate_belief_depression": "If I stop and take care of myself, I won't be able to start again.",
+  "coping_strategies": "Avoidance of tasks and responsibilities to prevent feeling overwhelmed.",
+  "situation": "Concern about losing positive aspects of life or returning to a previous unhappy state.",
+  "auto_thought": "If I just sit down and don't move, I won't have to worry about the things I don't want to do.",
+  "emotion": [
+    "Overwhelmed",
+    "Despairing",
+    "Frustrated"
+  ],
+  "behavior": "Avoidance of tasks and responsibilities, debating dishonest actions to cope with work frustrations."
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Patient 31",
+  "id": "31",
+  "type": [
+    "family health stress",
+    "emotional distance"
+  ],
+  "history": "Recent family deaths. Ongoing concern about parents' health. Father has multiple health conditions. Tension with father about emotional distance and health transparency.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I can't protect my parents from their health declines.",
+  "intermediate_belief_depression": "My family is falling apart and I can't stop it.",
+  "coping_strategies": [
+    "Monitoring parents' health, emotional withdrawal after stress."
+  ],
+  "situation": "Received phone call from mother regarding father's health. Watched television afterward.",
+  "auto_thought": "My father's health is deteriorating and there's nothing I can do.",
+  "emotion": [
+    "helplessness",
+    "anxiety",
+    "numbness"
+  ],
+  "behavior": "Receive health update about father, then distract with television."
+}

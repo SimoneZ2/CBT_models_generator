@@ -1,0 +1,86 @@
+Using description: HISTORY:
+- Multiple past jobs involved micromanagement.
+- Has been blamed for errors beyond their control in work settings.
+
+SITUATION:
+- Being blamed at work for spreadsheet errors that were not theirs. with ID=20-1
+Emergency Fallback to 0.10 - Top results (by metadata similarity):
+  - sim=0.435 | title='Patient "M", Session August 29, 2012: Client hates how boring her life is now. S' | file='1004687680.txt'
+  - sim=0.432 | title='Patient "Ju" Session March 16, 2012: Client has had a frustrating and stressful ' | file='1004522810.txt'
+  - sim=0.429 | title='Session 67: Client is very worried about being tardy for anything. She becomes a' | file='1000367967.txt'
+  - sim=0.414 | title='Patient "C" Therapy Session Audio Recording, April 03, 2012: Client talks about ' | file='1004532476.txt'
+  - sim=0.405 | title='Verilogue session: Client has been very upset about a car accident she was invol' | file='1003009240.txt'
+  - sim=0.405 | title='Patient "M", Session May 16, 2012: Client is putting in for a transfer at work t' | file='1004564975.txt'
+  - sim=0.402 | title='Patient "J", Session March 12, 2012: Client is frustrated with work and notices ' | file='1004522800.txt'
+  - sim=0.399 | title='Patient "A", Session November 07, 2012: Client feels judged, frustrated, and ann' | file='1004824655.txt'
+  - sim=0.396 | title='Session 14: Client feels left out by his son.  He expresses his anger at his emp' | file='1000013338.txt'
+  - sim=0.394 | title='Patient "Ju", Session June 18, 2012: Client switched birth control pills recentl' | file='1004687624.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=4 partial_match=6
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.414 | file='1004532476.txt' | title='Patient "C" Therapy Session Audio Recording, April 03, 2012: Client talks about '
+  - sim=0.402 | file='1004522800.txt' | title='Patient "J", Session March 12, 2012: Client is frustrated with work and notices '
+  - sim=0.399 | file='1004824655.txt' | title='Patient "A", Session November 07, 2012: Client feels judged, frustrated, and ann'
+Using top selected file for transcript: '1004532476.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of working in environments characterized by micromanagement and has experienced being blamed for errors that were beyond their control. Currently, the patient is facing a situation at work where they are being blamed for spreadsheet errors that they did not commit.
+
+**Emotional Impact:**
+The patient is likely experiencing a range of negative emotions due to their current and past work experiences. Being blamed for errors they did not commit can lead to feelings of frustration, helplessness, and injustice. These emotions may be compounded by a history of micromanagement, which can contribute to feelings of being undervalued and powerless. The patient might feel anxious and tense, anticipating further blame or criticism. This situation could also evoke feelings of being misunderstood or unfairly treated, leading to potential anger or irritation.
+
+**Cognitive Patterns:**
+The patient may engage in cognitive distortions such as personalization, where they internalize blame for situations beyond their control. This pattern can lead to self-doubt and decreased self-esteem. The patient might also experience overgeneralization, expecting similar negative outcomes in future work situations based on past experiences. There may be a tendency to ruminate on these negative experiences, which can exacerbate feelings of anxiety and helplessness.
+
+**Behavioral Responses:**
+In response to these stressors, the patient might exhibit avoidance behaviors, such as withdrawing from work-related interactions to minimize the risk of further blame. They may also engage in reassurance-seeking behaviors, looking for validation from colleagues or supervisors to confirm their competence. Alternatively, the patient might overcompensate by working excessively hard to prevent future errors, which can lead to burnout.
+
+**Coping Styles:**
+The patient may rely on maladaptive coping strategies, such as avoidance or excessive reassurance-seeking, to manage their distress. These strategies can provide temporary relief but may ultimately reinforce feelings of helplessness and lack of control. The patient might benefit from developing more adaptive coping mechanisms, such as assertive communication to address misunderstandings and setting boundaries to manage micromanagement.
+
+**Therapeutic Focus:**
+In therapy, it would be beneficial to explore the patient's cognitive distortions and work on restructuring these thoughts to more accurately reflect reality. Encouraging the patient to develop assertive communication skills could help them address unfair blame and advocate for themselves in the workplace. Additionally, helping the patient identify and implement adaptive coping strategies, such as problem-solving and stress management techniques, could improve their emotional resilience and overall well-being.
+
+**Conclusion:**
+The patient's work history and current situation have likely contributed to a pattern of negative emotional and cognitive responses. By addressing these patterns in therapy, the patient can work towards developing healthier coping mechanisms and improving their emotional and cognitive responses to workplace stressors.
+Summary da mistral_.csv: The client discussed financial difficulties in continuing weekly therapy sessions due to unemployment and the cost. They proposed every-other-week sessions as an alternative. The therapist suggested a reduced fee for a limited period. The client also shared their resignation from their job at a family business due to personal reasons and trust issues. They felt guilty about leaving and considered working part-time there despite the emotional and relational challenges. The client expressed frustration with the inconsistency in how they were treated and the guilt they felt for wanting to help but being unable to do so in a way that was healthy for them.
+The client expresses feelings of being under a microscope and being constantly criticized at work, leading to a power struggle with an employee who has been prioritized over the client. The client feels resentment towards this employee for not speaking up about issues in the past and for the family members' perceived favoritism. The client also discusses a desire for closure and healing with their parents, who have recently become more supportive, and a frustration with the lack of change in their relationship with their aunt, uncle, and cousins. The client expresses a feeling of being replaced by strangers in the family business and a desire for the family to need and value their contributions.
+The patient expresses emotional distress over their strained relationship with their family, who they feel prioritizes business interests over emotional connection. They recall feeling needed and close to them in their childhood, but now feel discarded and hurt by their actions. The patient acknowledges their past mistakes, including drug use and dealing, but feels unaccountable due to others' blame-shifting. They express a desire for accountability and understanding, and feel that their need for validation and control is a source of frustration. The therapist asks if the lack of accountability makes the patient feel disrespected and invisible.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has repeatedly worked in environments where micromanagement was prevalent and has been blamed for mistakes that were not their responsibility. These experiences have contributed to a sense of being undervalued and powerless, as well as a tendency to internalize blame. The repeated exposure to unfair criticism has likely reinforced patterns of self-doubt and anxiety about being judged or blamed at work.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make any mistake or am blamed at work, it means I am incompetent and others will see me as a failure. I must always prove my worth or else I will be unfairly criticized. If I don't prevent every possible error, I will be blamed and judged.",
+  "intermediate_belief_depression": "No matter what I do, I will always be blamed for things that go wrong, so there's no point in trying to improve or defend myself.",
+  "coping_strategies": [
+    "The client tends to withdraw from work interactions to avoid further blame and seeks reassurance from colleagues or supervisors to confirm their competence. They may also overwork in an attempt to prevent future errors, which can lead to exhaustion and reinforce feelings of helplessness."
+  ],
+  "situation": "Being blamed at work for spreadsheet errors that were not theirs.",
+  "auto_thought": "This isn't my fault, but they're blaming me anyway. No matter what I do, I'll always be the one who gets blamed.",
+  "emotion": [
+    "frustrated",
+    "helpless",
+    "anxious",
+    "tense",
+    "angry",
+    "irritated"
+  ],
+  "behavior": "I avoid talking to my supervisor and keep my head down at work. I double-check my work obsessively and ask colleagues if they think I did something wrong."
+}

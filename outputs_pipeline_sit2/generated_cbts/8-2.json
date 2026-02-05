@@ -1,0 +1,54 @@
+{
+  "name": "Client A",
+  "id": "8-2",
+  "type": [
+    "trauma",
+    "relationship",
+    "trust"
+  ],
+  "history": "The client experienced a traumatic sexual assault by her partner, Ivan, which has led to ongoing difficulties with trust and intimacy in their relationship. She reports that Ivan has made efforts to rebuild trust, resulting in some improvement in their dynamic. However, reminders of the assault, especially through physical touch, continue to trigger emotional distress. The client may struggle with hypervigilance and negative self-talk, as well as questioning her own actions in the relationship.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If someone I trust hurts me, I have to be on guard because it could happen again. I need to protect myself from being hurt, even if it means pulling away from people I care about. If I let my guard down, I will be vulnerable and unsafe.",
+  "intermediate_belief_depression": "If I can't ever feel safe with Ivan, then things will never get better and I will always feel alone and misunderstood.",
+  "coping_strategies": "She tends to withdraw or avoid situations that could lead to physical intimacy with Ivan, especially when reminded of the trauma. She may seek reassurance or frequently discuss boundaries to manage her distress. These strategies provide short-term relief but can hinder rebuilding trust and intimacy.",
+  "situation": "Ivan touches the patient in a way that reminds her of the past assault.",
+  "auto_thought": "This feels just like before—I'm not safe with him. He could hurt me again at any moment.",
+  "emotion": [
+    "fearful",
+    "anxious",
+    "tense",
+    "angry",
+    "sad"
+  ],
+  "behavior": "She pulls away from Ivan and avoids further physical contact. She may become withdrawn or emotionally distant, and possibly initiate a conversation about boundaries or express discomfort.",
+  "rationale": "\"When Ivan touches her in a way that reminds her of the past assault, it is probable that she experiences a resurgence of emotions such as fear, anxiety, and possibly anger.\" \"The patient may exhibit cognitive patterns characterized by hypervigilance and mistrust, particularly in situations involving physical intimacy.\" \"Behaviorally, the patient might withdraw or avoid situations that could lead to physical intimacy with Ivan, as a way to protect herself from potential emotional distress.\"",
+  "core_belief_predictions": {
+    "source_id": "8-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am bound to be rejected",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Complex relationship history involving a person named Cricket that affected the patient's social circle. The patient often takes a caretaking role with friends, including a friend named Lucy with ongoing medical issues.",
+  "helpless_belief": [
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to take care of others to be valued.",
+  "intermediate_belief_depression": "If I don't help others, I will be abandoned.",
+  "coping_strategies": "The patient takes on a caretaking role to maintain relationships.",
+  "situation": "Friends are gathered outside the residence waiting while the patient is running late after work.",
+  "auto_thought": "They will be upset with me for being late.",
+  "emotion": [
+    "Anxiety",
+    "Guilt"
+  ],
+  "behavior": "Hurrying to meet friends despite being tired from work."
+}

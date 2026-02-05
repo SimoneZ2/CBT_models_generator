@@ -1,0 +1,32 @@
+{
+  "name": "Ethan Case Formulation",
+  "id": "ethan-cbt-ccd-001",
+  "type": [
+    "CBT",
+    "case formulation",
+    "cognitive conceptualization"
+  ],
+  "history": "The client has had a close friendship with Ethan for about 14 years, marked by mutual support during personal crises and professional collaborations. This longstanding relationship has been a significant part of the client's social and emotional life. Recently, the client learned that Ethan has been abusive toward his girlfriend, which has deeply conflicted with the client's previous understanding of Ethan. The client is now struggling with how to proceed, feeling torn between loyalty to a friend and moral discomfort about Ethan's actions.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I reach out to Ethan directly, I might have to confront the reality of his actions and risk damaging our friendship. It's safer to avoid direct contact than to face the possibility that someone I care about is not who I thought they were. I need to protect myself from the pain of disappointment and conflict.",
+  "intermediate_belief_depression": "If I try to talk to Ethan and it goes badly, I will lose one of the few close connections I have, and I won't be able to handle the fallout. It's better to do nothing than to risk feeling even more alone or helpless.",
+  "coping_strategies": "The client avoids contacting Ethan directly, delaying confrontation and hoping the issue will resolve itself. They may ruminate about the situation, replaying different scenarios in their mind, and seek reassurance or validation from others rather than addressing Ethan directly. There is a tendency to suppress emotions and withdraw from shared activities to avoid discomfort.",
+  "situation": "Struggling to contact Ethan directly.",
+  "auto_thought": "If I reach out to Ethan, I might have to face the truth about what he's done and I could lose our friendship. I don't know if I can handle that.",
+  "emotion": [
+    "anxious",
+    "conflicted",
+    "sad",
+    "disappointed",
+    "worried",
+    "guilty"
+  ],
+  "behavior": "I avoid calling or messaging Ethan directly. I hesitate and overthink what to say, ultimately doing nothing. I withdraw from shared activities or conversations involving him.",
+  "rationale": "\"The patient is experiencing difficulty in reaching out to Ethan directly after learning about his abusive behavior.\" \"The revelation about Ethan's behavior likely conflicts with the patient's previous understanding of him, causing internal turmoil.\" \"There may be fears about the potential breakdown of the friendship or the inability to resolve the situation positively.\" \"The struggle to contact Ethan directly suggests avoidance behavior, possibly to delay confronting the uncomfortable reality or potential conflict.\""
+}

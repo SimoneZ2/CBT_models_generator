@@ -1,0 +1,32 @@
+{
+  "name": "Patient 0324-006",
+  "id": "case-001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization Diagram"
+  ],
+  "history": "Difficult family conversation with mother about not discussing pain and suffering in the family. Father avoids talk therapy and has distressing dreams related to his brother's suicide. The patient reports ongoing struggles related to separation and suffering.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must not show vulnerability or I will be overwhelmed.",
+  "intermediate_belief_depression": "If I express my true feelings, I will be rejected and abandoned.",
+  "coping_strategies": "Avoid discussing deep feelings and maintain emotional distance to prevent rejection.",
+  "situation": "Talking about feelings of disconnection with a person named Jeremy. Trying to describe a sense of detachment and associated pain.",
+  "auto_thought": "If I open up, I will be hurt and left alone.",
+  "emotion": [
+    "Fear",
+    "Anxiety",
+    "Sadness"
+  ],
+  "behavior": "Avoidance of deep emotional conversations and maintaining emotional distance.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

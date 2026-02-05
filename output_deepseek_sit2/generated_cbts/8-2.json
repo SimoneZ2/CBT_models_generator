@@ -1,0 +1,32 @@
+{
+  "name": "Patient 8",
+  "id": "8",
+  "type": [
+    "PTSD",
+    "relationship trauma"
+  ],
+  "history": "Past sexual assault by partner Ivan. Ongoing relationship difficulties with trust and intimacy. Some improvement with Ivan's efforts.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [
+    "I am bad - dangerous, toxic, evil"
+  ],
+  "intermediate_belief": "My body is not my own; I can't trust my reactions.",
+  "intermediate_belief_depression": "The assault ruined me for normal relationships forever.",
+  "coping_strategies": [
+    "Hypervigilance, dissociation, minimizing own feelings."
+  ],
+  "situation": "Ivan touches the patient in a way that reminds her of the past assault.",
+  "auto_thought": "\"It's happening again. I can't move. I deserve this.\"",
+  "emotion": [
+    "terror",
+    "shame",
+    "disgust"
+  ],
+  "behavior": "Freezes, then pushes Ivan away violently, retreats to bathroom to cry."
+}

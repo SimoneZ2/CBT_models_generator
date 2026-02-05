@@ -1,0 +1,34 @@
+{
+  "history": "The client has experienced chronic depression and isolation since late adolescence, with ongoing difficulties forming and maintaining friendships. A recent breakup triggered a relapse into depression, leading to medication adjustments. The client has a pattern of withdrawing from social situations and has struggled with feelings of loneliness and sadness, often ruminating on perceived inadequacies in social contexts.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I open up about my struggles, people will see how flawed I am and eventually distance themselves. I must hide my true feelings to avoid being rejected or abandoned. If I can't maintain friendships, it means there is something fundamentally wrong with me.",
+  "intermediate_belief_depression": "If I keep losing people and can't connect, it proves that I am destined to be alone and things will never get better. There's no point in trying because nothing changes.",
+  "coping_strategies": [
+    "The client tends to withdraw and avoid social interactions, especially after negative experiences like a breakup. They sometimes seek reassurance by discussing their mental health struggles with friends, but this is often accompanied by anxiety about being a burden. The client also relies on medication adjustments as a way to manage symptoms."
+  ],
+  "situation": "Engaged in a conversation with a friend about mental health struggles.",
+  "auto_thought": "I'm just burdening them with my problems. They're probably thinking I'm too much to handle and will eventually pull away.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "worried",
+    "sad",
+    "lonely"
+  ],
+  "behavior": "I hesitate to share too much, downplay my feelings, or change the subject. After the conversation, I withdraw and avoid reaching out again for a while.",
+  "source_text_id": "1000013267.txt"
+}

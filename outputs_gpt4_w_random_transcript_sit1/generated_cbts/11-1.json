@@ -1,0 +1,29 @@
+{
+  "name": "Mae",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Interpersonal"
+  ],
+  "history": "History of isolation and chronic depression since late adolescence. Past difficulties with friendships. Recent breakup preceding a relapse into a depressive episode. History of taking SSRIs and recent medication adjustments following the relapse.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need someone to take care of me.",
+  "intermediate_belief_depression": "I can't handle my emotions on my own.",
+  "coping_strategies": "Seeks reassurance and guidance from others, avoids dealing with emotions directly.",
+  "situation": "Engaged in a conversation with a friend about mental health struggles.",
+  "auto_thought": "It's not about me, but I feel like it is.",
+  "emotion": [
+    "Anxiety",
+    "Insecurity",
+    "Vulnerability"
+  ],
+  "behavior": "Avoids confrontation, seeks validation from others, feels self-conscious about expressing emotions."
+}

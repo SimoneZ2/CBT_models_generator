@@ -1,0 +1,79 @@
+Using description: HISTORY:
+- Recent move and stress related to settling into a new living space.
+- Difficult relationship with parents, especially mother, described as judgmental and emotionally unsupportive.
+- Friendships have become strained, contributing to isolation.
+
+SITUATION:
+- Preparing for a conversation with mother and expecting it to be challenging and superficial. with ID=40-2
+Sample results (metadata similarity):
+  - sim=0.146 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.150 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.169 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.182 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.187 | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de' | file='1001084060.txt'
+  - sim=0.191 | title='Verilogue session: Client has been seeing this physician for multiple years but ' | file='1001083964.txt'
+  - sim=0.192 | title='Verilogue session: Client has been feeling very depressed and experiencing anxie' | file='1001084064.txt'
+  - sim=0.192 | title='Verilogue session: Client has kept a mood log; it shows that she has been having' | file='1003009269.txt'
+  - sim=0.200 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.202 | title='Verilogue session: Client recently started a regimen of medications; she is stil' | file='1002565903.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.146 | file='1001084079.txt' | title='Verilogue session: Client feels the urgent need to get everything done in a rush'
+  - sim=0.150 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.169 | file='1001084088.txt' | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. '
+Using LEAST related file for transcript: '1001084079.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who recently moved and is experiencing stress related to settling into a new living space, begins the session by expressing a sense of surprise at their current state, saying, "I thought I'd be a little bit better." Despite functioning better in some areas, they describe a pervasive sense of urgency, rushing through tasks at home and work without any apparent reason. This behavior seems to be a coping mechanism, perhaps linked to their strained relationships and feelings of isolation. The client acknowledges that after rushing through tasks, they often sit down only to feel compelled to get up again shortly after, indicating a cycle of restlessness and dissatisfaction.
+
+The client also reports significant sleep disturbances, waking up every couple of hours, which they attribute partly to back pain. They express concern about their health and the potential impact on their future, particularly regarding retirement. Despite working with a financial advisor, they find themselves worrying about their financial readiness, stating, "I don't understand why I'm worrying about it." This worry appears to be exacerbated by their difficult relationship with their mother, whom they describe as judgmental and emotionally unsupportive, contributing to their anxiety about an upcoming conversation with her.
+
+Throughout the session, the client reflects on their loneliness, despite having family around, and the quietness of living alone. They express a longing for companionship, saying, "I miss a companion," yet also fear the potential strain of living with someone, such as their daughter. This ambivalence highlights the complexity of their interpersonal dynamics and the impact of past losses, including the death of their husband and mother, which may still be affecting them.
+
+The client's physical pain, particularly from shingles and back issues, is a significant source of distress, impacting their ability to engage in daily activities and contributing to their feelings of being overwhelmed. They express frustration at their limitations, noting, "I can't even pick up a box." The discussion turns to medication management, with the therapist suggesting an increase in Cymbalta to address both depression and neuropathic pain. The client is open to this adjustment, acknowledging, "I'll try anything," indicating a willingness to explore options to alleviate their discomfort.
+
+The session also touches on the client's tendency to push worries to the back of their mind, which the therapist suggests might not be the most effective strategy. Instead, they encourage the client to "think it through to a resolution," which could help reduce anxiety. The client seems to understand this approach, yet remains caught in a cycle of worry and avoidance, particularly about their future and health.
+
+Overall, the client's narrative reveals a complex interplay of physical pain, emotional distress, and interpersonal challenges. Their recent move and strained relationships, especially with their mother, contribute to their current state of anxiety and loneliness. The session highlights the need for strategies to manage their worries more effectively and address the underlying issues contributing to their sense of isolation and restlessness.
+Summary da mistral_.csv: The patient expresses concerns about their rushing behavior and difficulty sleeping, as well as worries about retirement and financial readiness. They discuss their use of a financial advisor and their worries about retirement, despite reassurances from the advisor. The patient also mentions their back pain and difficulty with the medication for it. The doctor suggests increasing the dosage of Cymbalta to potentially alleviate both the patient's depression and neuropathic pain. The patient expresses concern about the potential for the medication to keep them awake at night.
+The doctor suggests increasing the patient's Cymbalta dosage to 120mg twice a day to help manage pain and improve sleep, as well as depression. The doctor also recommends continuing the Neurontin medication for shingle pain, but suggests maximizing the Cymbalta first before considering adjusting the Neurbanit dose. The patient expresses concern about taking multiple medications and feeling like a "chemical factory." The doctor assures the patient that they will try to keep the medication regimen as simple as possible. The doctor also provides a prescription for the increased Cymbalta dosage.
+
+REFINED CCD: description + report
+{
+  "history": "The client recently moved and is experiencing stress related to settling into a new living space. They report a difficult relationship with their mother, describing her as judgmental and emotionally unsupportive. Friendships have become strained, leading to increased isolation. The client also describes a pervasive sense of urgency and restlessness, often rushing through tasks and feeling dissatisfied. They have experienced significant losses, including the death of their husband and mother, and struggle with loneliness despite having family nearby. Physical pain and health concerns further contribute to their distress.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't handle conversations with my mother perfectly, she will judge me and I'll feel even more alone. I must avoid showing any vulnerability or weakness, or else I'll be criticized and unsupported. If I can't make these interactions go well, it means I'm failing as a daughter and as a person.",
+  "intermediate_belief_depression": "If I can't even have a meaningful conversation with my mother, it proves that I'm alone and things will never get better. No matter what I do, I can't change how unsupported I feel, so there's no point in trying.",
+  "coping_strategies": [
+    "The client tends to avoid or rush through distressing situations, such as preparing for conversations with their mother, to minimize discomfort. They push worries to the back of their mind rather than addressing them directly, which maintains anxiety and prevents resolution. The client also withdraws socially and isolates themselves when feeling overwhelmed."
+  ],
+  "situation": "Preparing for a conversation with mother and expecting it to be challenging and superficial.",
+  "auto_thought": "This is going to be another pointless conversation. No matter what I say, she'll just judge me and I’ll end up feeling worse.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "dread",
+    "lonely",
+    "frustrated",
+    "hopeless"
+  ],
+  "behavior": "I rehearse what I might say but keep it superficial. I consider avoiding the conversation or keeping it as brief as possible. I feel restless and may distract myself with other tasks to avoid thinking about it."
+}

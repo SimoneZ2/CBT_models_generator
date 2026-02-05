@@ -1,0 +1,26 @@
+{
+  "name": "Unnamed Client",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Childhood experiences of emotional invalidation (e.g., being reprimanded for crying). History of depression.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be strong and not show vulnerability to be accepted.",
+  "intermediate_belief_depression": "If I show weakness, I will be rejected and alone.",
+  "coping_strategies": "Avoids confrontation and suppresses emotions to maintain peace and acceptance.",
+  "situation": "Reconnecting with an individual named Edson after a period of no contact.",
+  "auto_thought": "If I express my true feelings, I will be rejected.",
+  "emotion": [
+    "Anxiety",
+    "Frustration",
+    "Sadness"
+  ],
+  "behavior": "Suppresses emotions and avoids expressing true feelings to avoid rejection."
+}

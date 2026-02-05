@@ -1,0 +1,28 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "Chronic Depression",
+    "Social Isolation"
+  ],
+  "history": "History of isolation and chronic depression since late adolescence. Past difficulties with friendships. Recent breakup preceding a relapse into a depressive episode. History of taking SSRIs and recent medication adjustments following the relapse.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I try to connect with others, I will be rejected.",
+  "intermediate_belief_depression": "I can't handle being alone, but I can't connect with others.",
+  "coping_strategies": "Avoidance through watching television instead of engaging in planned activities.",
+  "situation": "Planned a weekend for sewing and catching up on work tasks. Was unable to focus on familiar tasks and spent the day watching television.",
+  "auto_thought": "I can't do anything right, and I'll always be alone.",
+  "emotion": [
+    "Sadness",
+    "Hopelessness"
+  ],
+  "behavior": "Avoided planned activities and engaged in passive activities like watching television."
+}

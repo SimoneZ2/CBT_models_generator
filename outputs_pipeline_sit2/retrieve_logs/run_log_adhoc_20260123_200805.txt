@@ -1,0 +1,83 @@
+Using description: HISTORY:
+- Ongoing workplace difficulties involving underappreciation and lack of support.
+- Repeated experiences of ideas and suggestions not being accepted.
+
+SITUATION:
+- Colleagues praise a coworker and ask the patient for help with technology issues related to that coworker. with ID=15-2
+Top results (by metadata similarity):
+  - sim=0.621 | title='Patient "Ju" Session March 16, 2012: Client has had a frustrating and stressful ' | file='1004522810.txt'
+  - sim=0.621 | title='Patient "Ju", Session March 26, 2012: Client feels hostile towards some of her c' | file='1004528611.txt'
+  - sim=0.603 | title='Patient "Ju", Session October 10, 2012: Client is irritated at the way her super' | file='1004798747.txt'
+  - sim=0.600 | title='Verilogue session: Client recently got a new job in the medical field. Her medic' | file='1003009206.txt'
+  - sim=0.588 | title='Verilogue session: Client has been extremely physically ill recently; it's been ' | file='1001083934.txt'
+  - sim=0.588 | title='Patient "B", Session June 29, 2012: Client is worried that she may not be making' | file='1004600900.txt'
+  - sim=0.587 | title='Verilogue session: Client has been diagnosed with Fibromyalgia; she has lost her' | file='1002565943.txt'
+  - sim=0.584 | title='Patient "S", Session June 22, 2012: Client is irritated by her boyfriend's drink' | file='1004687774.txt'
+  - sim=0.584 | title='Patient "B", Session October 18, 2012: Client is frustrated with processes at wo' | file='1004798849.txt'
+  - sim=0.582 | title='Patient "Ju", Session April 09, 2012: Client is having a lot of work anxiety. Sh' | file='1004532440.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.621 | file='1004522810.txt' | title='Patient "Ju" Session March 16, 2012: Client has had a frustrating and stressful '
+  - sim=0.621 | file='1004528611.txt' | title='Patient "Ju", Session March 26, 2012: Client feels hostile towards some of her c'
+  - sim=0.603 | file='1004798747.txt' | title='Patient "Ju", Session October 10, 2012: Client is irritated at the way her super'
+Using top selected file for transcript: '1004522810.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is experiencing ongoing workplace difficulties characterized by feelings of underappreciation and a lack of support. They have repeatedly encountered situations where their ideas and suggestions are not accepted, contributing to a sense of frustration and inadequacy. Recently, colleagues have praised a coworker and sought the patient's help with technology issues related to that coworker, which may exacerbate feelings of being undervalued.
+
+**Emotional Impact:**
+The patient likely experiences a range of negative emotions in response to their workplace environment. The repeated dismissal of their ideas and lack of support may lead to feelings of being "sad, down, lonely, unhappy," as well as "anxious, worried, fearful, scared, tense." The situation where colleagues praise another coworker while seeking the patient's assistance with technology issues may evoke feelings of being "ashamed, embarrassed, humiliated," and "angry, mad, irritated, annoyed." These emotional responses are consistent with the patient's experiences of underappreciation and lack of recognition.
+
+**Cognitive Patterns:**
+The patient may engage in cognitive patterns characterized by self-doubt and negative self-evaluation. The repeated rejection of their ideas could lead to thoughts such as "I'm not good enough" or "My contributions are not valued." This cognitive style may contribute to a cycle of rumination, where the patient repeatedly revisits these negative experiences and thoughts, reinforcing their sense of inadequacy. The situation with the coworker may also trigger thoughts of unfairness or injustice, as the patient perceives a lack of recognition for their efforts.
+
+**Behavioral Responses:**
+In response to these workplace challenges, the patient may exhibit behaviors such as withdrawing from interactions, avoiding proposing new ideas, or procrastinating on tasks that require collaboration. The request for help with technology issues related to the praised coworker might lead the patient to "scroll social media" or "call for support" as a means of coping with the discomfort and frustration. The patient may also engage in behaviors aimed at seeking reassurance from colleagues or supervisors to validate their worth and contributions.
+
+**Coping Styles:**
+The patient's coping mechanisms may include seeking external validation and reassurance to counteract feelings of inadequacy. They might also engage in avoidance behaviors to minimize exposure to situations where they feel undervalued or unsupported. Additionally, the patient may attempt to distract themselves from negative emotions through activities that provide temporary relief, such as engaging in non-work-related tasks or social interactions outside of the workplace.
+
+**Conclusion:**
+The patient's workplace experiences of underappreciation and lack of support have significant emotional, cognitive, and behavioral impacts. These experiences contribute to a cycle of negative self-evaluation and emotional distress, which may be exacerbated by specific incidents, such as the recent praise of a coworker. Addressing these patterns through cognitive-behavioral strategies, such as cognitive restructuring and developing more adaptive coping mechanisms, may help the patient improve their emotional well-being and workplace satisfaction.
+Summary da mistral_.csv: The client discussed a recent staff meeting at work where they felt frustrated and disappointed as the head of the library, Karl, presented a disorganized and irrelevant PowerPoint about open source libraries, which was not related to their department. The client was also upset about Karl's narrow understanding of open source and his dismissive attitude towards their concerns about the new organizational library. Additionally, the client had a technical issue with a computer and encountered resistance from the IT department head, Harry, when reporting the problem.
+The client described an experience of feeling helpless and unsupported at work, where she was upset and cried in a bathroom stall after someone else was also crying. She felt unheard and unvalidated, especially when her colleague Harry yelled at her about documentation for the media suite tables. The client felt disrespected and excluded from the department, as she was often not included in trainings or given permission to perform certain tasks. She described feeling bullied and belittled by Harry, who made her feel incompetent and stupid. The client expressed a desire for someone to pay attention to her and validate her experiences, but felt stuck in her current situation. She mentioned feeling frustrated and helpless, and considered talking to her supervisor about the issue.
+The client expresses feelings of insecurity about their job due to perceived criticism from a colleague, Harry, who publicly devalues their IT work and questions its necessity. The client feels small and incompetent as a result, and is particularly upset because they had asked Harry for help but received contemptuous treatment instead. The client also mentions a history of discomfort with asking for help and feeling excluded from tasks they are involved in at work.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of ongoing workplace difficulties, specifically feeling underappreciated and unsupported. They have repeatedly experienced their ideas and suggestions being dismissed, which has contributed to a persistent sense of frustration and inadequacy. These experiences appear to have led to negative self-evaluation and a cycle of rumination about their worth and contributions. The pattern of not being recognized or valued by colleagues has been a recurring theme.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If my ideas are not accepted and others are praised instead, then I must not be as competent or valued as my coworkers. I need others' recognition to feel worthwhile. If I am not acknowledged, it means I am failing in my role.",
+  "intermediate_belief_depression": "If I keep being overlooked and my suggestions are ignored, then nothing I do will ever be good enough and things will never change for me at work.",
+  "coping_strategies": [
+    "The client tends to withdraw from interactions and avoids proposing new ideas to protect themselves from further rejection. They may seek reassurance from colleagues or supervisors to validate their worth, and sometimes distract themselves with non-work-related activities to temporarily escape negative emotions."
+  ],
+  "situation": "Colleagues praise a coworker and ask the patient for help with technology issues related to that coworker.",
+  "auto_thought": "They only notice me when they need something. No one actually values what I contribute.",
+  "emotion": [
+    "sad",
+    "down",
+    "anxious",
+    "irritated",
+    "ashamed",
+    "unhappy"
+  ],
+  "behavior": "I hesitate before responding to their request. I avoid making suggestions and keep my answers brief. I later withdraw from the group and distract myself with my phone."
+}

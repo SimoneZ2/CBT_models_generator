@@ -1,0 +1,32 @@
+{
+  "name": "Karen",
+  "id": "002",
+  "type": [
+    "CBT",
+    "Workplace Stress"
+  ],
+  "history": "Ongoing workplace difficulties involving underappreciation and lack of support. Repeated experiences of ideas and suggestions not being accepted.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't perform perfectly, I will be criticized and dismissed.",
+  "intermediate_belief_depression": "I am not good enough to be respected or valued at work.",
+  "coping_strategies": "Avoid confrontation and internalize feelings of frustration.",
+  "situation": "Colleagues praise a coworker and ask the patient for help with technology issues related to that coworker.",
+  "auto_thought": "They don't value my contributions and only see my mistakes.",
+  "emotion": [
+    "Frustration",
+    "Anxiety",
+    "Helplessness"
+  ],
+  "behavior": "Avoids speaking up in meetings and internalizes stress.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

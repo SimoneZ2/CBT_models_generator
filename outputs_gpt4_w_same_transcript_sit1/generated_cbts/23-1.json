@@ -1,0 +1,25 @@
+{
+  "name": "Patient X",
+  "id": "12345",
+  "type": [
+    "CBT"
+  ],
+  "history": "Longstanding difficult interactions with the patient's mother. Strained communication and delayed sharing of significant events within the family.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I can't say no to people, especially those close to me.",
+  "intermediate_belief_depression": "I am not good enough to handle my responsibilities.",
+  "coping_strategies": "Avoidance and compliance to avoid conflict.",
+  "situation": "Preparing for an upcoming visit from parents.",
+  "auto_thought": "I can't handle this visit; it will be overwhelming.",
+  "emotion": [
+    "anxiety",
+    "frustration"
+  ],
+  "behavior": "Avoidance of confrontation and compliance with others' demands."
+}

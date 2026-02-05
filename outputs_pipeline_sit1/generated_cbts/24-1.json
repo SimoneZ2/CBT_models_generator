@@ -1,0 +1,56 @@
+{
+  "name": "CBT Cognitive Conceptualization for Client Invited to Sister's While Financially Unstable",
+  "id": "24-1",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a longstanding pattern of experiencing pressure to perform and to manage social interactions successfully. They have learned to present a confident exterior and conceal their vulnerabilities, likely as a protective strategy against judgment or rejection. The recent business failure and resulting financial hardship have intensified feelings of disappointment, sadness, and shame. These experiences contribute to a heightened sensitivity to situations where their perceived inadequacy or vulnerability might be exposed, especially in family contexts.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I show my vulnerability or admit my financial struggles, others will judge me or see me as weak. I must always appear confident and in control, especially around family, to avoid being seen as a failure. If I let my guard down, I risk losing respect and acceptance.",
+  "intermediate_belief_depression": "If I can't hide my struggles and people see how much I've failed, it proves that I'm not good enough and things will never get better. There's no point in trying because my failures define me.",
+  "coping_strategies": "The client tends to withdraw from social interactions or avoid discussing their financial situation to prevent exposure of their vulnerabilities. They maintain a confident front and may over-prepare for social encounters, while internally ruminating about their failures. Seeking reassurance from close family members is also used to temporarily alleviate anxiety and self-doubt.",
+  "situation": "Invited to visit their sister while dealing with financial instability.",
+  "auto_thought": "If I go to my sister's, she'll see that I'm struggling and think less of me. I can't let her know how bad things really are.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "worried",
+    "tense",
+    "embarrassed"
+  ],
+  "behavior": "I hesitate to accept the invitation and consider making excuses to avoid the visit. I avoid talking about my financial situation and try to act as if everything is fine. I may withdraw or limit how much I share during the interaction.",
+  "rationale": "\"The patient likely experiences anxiety and stress related to performance, which may manifest as a fear of failure or inadequacy... The tendency to hide vulnerability suggests a fear of judgment or rejection... The invitation to visit their sister might evoke mixed emotions... it might trigger feelings of inadequacy or embarrassment about their financial situation... The patient may withdraw from social interactions to avoid exposing their vulnerabilities or discussing their financial situation... They might engage in behaviors aimed at maintaining their confident front, such as over-preparing for social interactions or avoiding situations where their financial status might be revealed.\"",
+  "core_belief_predictions": {
+    "source_id": "24-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable",
+      "worthless"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable",
+      "I am worthless, waste"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

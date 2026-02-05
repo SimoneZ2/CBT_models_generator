@@ -1,0 +1,31 @@
+{
+  "name": "Case Study: Social Gathering Incident",
+  "id": "CSG-001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Relationships sometimes shift into romantic connections. Past conflict in relationships following expressions of anger. Complex relationship with parents involving obligations.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't show concern, people will think I don't care.",
+  "intermediate_belief_depression": "I must always be attentive to others' needs to be valued.",
+  "coping_strategies": "Avoidance and withdrawal when feeling overwhelmed or criticized.",
+  "situation": "An incident at a social gathering resulted in an emotional outburst among friends.",
+  "auto_thought": "I don't understand why people are upset with me.",
+  "emotion": [
+    "Confusion",
+    "Frustration",
+    "Anxiety"
+  ],
+  "behavior": "Withdrawal from social interactions and attempts to apologize without resolution.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

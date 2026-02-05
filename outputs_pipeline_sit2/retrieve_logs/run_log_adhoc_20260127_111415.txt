@@ -1,0 +1,84 @@
+Using description: HISTORY:
+- Recent divorce and financial difficulties.
+- Relationship since age 19.
+- Has a young son and unresolved child support issues.
+- Adjusting to new experiences such as traveling alone and visiting family without a partner.
+- Friends have distanced themselves after the separation.
+
+SITUATION:
+- Received an email from the ex-partner refusing to agree on child support and financial arrangements. with ID=27-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.10 - Top results (by metadata similarity):
+  - sim=0.508 | title='Patient "S", Session September 10, 2012: Client still finds it hard to not be wo' | file='1004699977.txt'
+  - sim=0.499 | title='BJ - Amy 3-01 Session' | file='1000094811.txt'
+  - sim=0.498 | title='Patient "J", Session May 29, 2012: Client is stressed about his finances and fru' | file='1004564941.txt'
+  - sim=0.490 | title='Patient "S", Session November 02, 2012: Client is angry with the way her ex-boyf' | file='1004824719.txt'
+  - sim=0.480 | title='Patient "S" Session March 13, 2012: Client recently had a frustrating conversati' | file='1004522836.txt'
+  - sim=0.477 | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father ' | file='1004472411.txt'
+  - sim=0.475 | title='Patient "M", Session October 02, 2012: Client fears that she is being stalked by' | file='1004798771.txt'
+  - sim=0.471 | title='Volume no. 34: Rational Emotive Therapy #1: Client is confused about where her r' | file='1000916326.txt'
+  - sim=0.463 | title='Patient "J", Session February 24, 2012: Client is still frustrated with his fina' | file='1004503126.txt'
+  - sim=0.462 | title='Patient "S", Session October 12, 2012: Client is ambivalent about getting back t' | file='1004798885.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=0 partial_match=10
+match_used=PARTIAL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.508 | file='1004699977.txt' | title='Patient "S", Session September 10, 2012: Client still finds it hard to not be wo'
+  - sim=0.499 | file='1000094811.txt' | title='BJ - Amy 3-01 Session'
+  - sim=0.498 | file='1004564941.txt' | title='Patient "J", Session May 29, 2012: Client is stressed about his finances and fru'
+Using top selected file for transcript: '1004699977.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is a recently divorced individual who has been in a long-term relationship since the age of 19. They are currently facing financial difficulties and unresolved child support issues concerning their young son. The patient is also adjusting to new experiences such as traveling alone and visiting family without a partner. Additionally, the patient has experienced a distancing of friends following the separation. Recently, the patient received an email from their ex-partner refusing to agree on child support and financial arrangements.
+
+**Emotional Impact:**
+The recent divorce and financial difficulties likely evoke feelings of anxiety and worry, particularly concerning the unresolved child support issues. The patient may feel overwhelmed by the financial strain and the uncertainty of future arrangements. The distancing of friends could contribute to feelings of loneliness and sadness, as the patient navigates this challenging period without the support network they previously relied on. The email from the ex-partner may intensify feelings of frustration and helplessness, as it represents a barrier to resolving critical issues.
+
+**Cognitive Patterns:**
+The patient may engage in ruminative thinking, particularly about the financial difficulties and unresolved child support issues. This could manifest as persistent worries about the future and the well-being of their young son. The adjustment to new experiences, such as traveling alone, might trigger self-doubt and negative self-evaluation, as the patient grapples with their identity post-divorce. The distancing of friends may lead to cognitive distortions, such as personalization or catastrophizing, where the patient might blame themselves for the loss of friendships or fear further social isolation.
+
+**Behavioral Responses:**
+In response to these stressors, the patient might withdraw socially, avoiding interactions that could remind them of their changed circumstances. They may also procrastinate on addressing financial issues, feeling paralyzed by the complexity and emotional weight of the situation. The patient might seek reassurance from remaining friends or family, attempting to fill the void left by the distancing of other friends. Additionally, the patient may engage in avoidance behaviors, such as delaying travel or visits to family, to sidestep confronting their new reality.
+
+**Coping Styles:**
+The patient may rely on avoidance as a primary coping mechanism, as seen in their potential reluctance to address financial and child support issues directly. They might also exhibit a tendency to seek external validation or reassurance, particularly from family, to counterbalance feelings of inadequacy or loneliness. The patient could benefit from developing more adaptive coping strategies, such as problem-solving techniques and cognitive restructuring, to manage their emotional and cognitive responses more effectively.
+
+**Conclusion:**
+The patient's recent life changes have likely led to significant emotional, cognitive, and behavioral challenges. By understanding these impacts, the patient can begin to develop healthier coping mechanisms and cognitive patterns. Cognitive Behavioral Therapy (CBT) can provide a structured approach to address these issues, helping the patient to reframe negative thoughts, develop problem-solving skills, and build a supportive social network to navigate this transitional period.
+Summary da mistral_.csv: The client discussed helping her ex-partner move out and feeling taken advantage of for her efforts. She mentioned her friends' concerns about her actions and her mother's criticism. The client described organizing her ex-partner's belongings and feeling obstructed in taking time for herself. She shared her ex-partner's behavior, including his self-serving attitude and guilt-tripping her. The client mentioned a conversation with a friend who advised her to limit communication with her ex-partner and focus on her own needs.
+The client discussed her feelings of sadness about ending her relationship with her boyfriend, who she had pictured marrying and starting a family with. She listed the things he offered her as a partner, but felt these did not outweigh the negative aspects of the relationship. She mentioned his infidelity and his walking in the wrong direction during a car ride, which caused frustration and irritation. The client also expressed her desire for a partner who takes responsibility and is appreciative of her efforts. The therapist acknowledged the client's dilemma of setting limits and then continuing to put up with her boyfriend's behavior, and suggested that this was a significant issue for her to address.
+The client expresses her ambivalent feelings about continuing a relationship with her partner, acknowledging the relief she feels from not having to explain certain issues but also the fear and intimidation she experiences during their conversations. The therapist points out the client's pattern of avoiding confrontation and maintaining the fantasy of a potential resolution in the relationship. The client discusses her plans to focus on herself and her personal growth, including starting a new class, and her decision to end the relationship.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has recently divorced after a long-term relationship that began at age 19. They are experiencing financial difficulties and unresolved child support issues regarding their young son. The client is adjusting to new experiences such as traveling alone and visiting family without a partner, and has noticed friends distancing themselves after the separation. These changes have led to increased emotional distress, including anxiety, loneliness, and sadness, as the client navigates these challenges with a reduced support network.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't resolve these financial and child support issues, it means I am incapable and others will see me as a failure. If people distance themselves from me, it must be because I am not worth supporting. If I don't have control over these situations, I will be overwhelmed and unable to cope.",
+  "intermediate_belief_depression": "If I can't fix these problems, it proves that I am hopeless and things will never get better. If my friends have left me, it means I am truly alone and unworthy of support.",
+  "coping_strategies": [
+    "The client tends to withdraw socially and avoid addressing financial and child support issues directly, feeling paralyzed by the emotional weight. They may seek reassurance from remaining friends or family, but often procrastinate on taking action, which maintains their distress."
+  ],
+  "situation": "Received an email from the ex-partner refusing to agree on child support and financial arrangements.",
+  "auto_thought": "I can't believe this is happening again—I'm never going to get this resolved. I'm completely alone in dealing with this.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "helpless",
+    "frustrated",
+    "sad",
+    "lonely"
+  ],
+  "behavior": "I avoid responding to the email right away. I ruminate about the situation and withdraw from contacting friends or family. I put off taking any steps to address the financial issues."
+}

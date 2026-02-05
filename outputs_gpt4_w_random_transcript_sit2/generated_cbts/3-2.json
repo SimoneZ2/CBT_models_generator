@@ -1,0 +1,27 @@
+{
+  "name": "Patient",
+  "id": "12345",
+  "type": [
+    "CBT"
+  ],
+  "history": "PhD candidate engaged in scientific research. References to a sequencing-related study and a colleague named Kelly. Working on a project with a senior scientist who has struggled to gain recognition in his career.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must work harder to be recognized and accepted.",
+  "intermediate_belief_depression": "I am not doing enough compared to others.",
+  "coping_strategies": "Avoidance of social situations and crowds, reliance on medication.",
+  "situation": "Comparing themselves to colleagues who work longer hours and publish more papers.",
+  "auto_thought": "I am not as productive or successful as my colleagues.",
+  "emotion": [
+    "Anxiety",
+    "Sadness",
+    "Flatness"
+  ],
+  "behavior": "Withdrawal from social activities, reduced engagement in professional opportunities."
+}

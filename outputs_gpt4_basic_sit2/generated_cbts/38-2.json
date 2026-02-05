@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Health condition requiring time off work for physical therapy. Past interactions with HR and a supervisor related to return-to-work and disability status.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't work, I am not valuable.",
+  "intermediate_belief_depression": "I will never recover and return to work.",
+  "coping_strategies": "Avoidance of work-related situations and people.",
+  "situation": "Running into a coworker outside the workplace while on medical leave.",
+  "auto_thought": "They must think I'm faking or not really sick.",
+  "emotion": [
+    "Anxiety",
+    "Shame"
+  ],
+  "behavior": "Avoiding eye contact and trying to end the interaction quickly."
+}

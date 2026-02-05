@@ -1,0 +1,27 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "History of isolation and chronic depression since late adolescence. Past difficulties with friendships. Recent breakup preceding a relapse into a depressive episode. History of taking SSRIs and recent medication adjustments following the relapse.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I open up to others, they will eventually leave me.",
+  "intermediate_belief_depression": "I can't handle being alone, and I will always end up alone.",
+  "coping_strategies": "Avoids forming close relationships to prevent rejection.",
+  "situation": "Engaged in a conversation with a friend about mental health struggles.",
+  "auto_thought": "They will think I'm too much to handle and leave me.",
+  "emotion": [
+    "Anxiety",
+    "Sadness"
+  ],
+  "behavior": "Withdraws from the conversation and avoids sharing personal feelings."
+}

@@ -1,0 +1,32 @@
+{
+  "name": "John Doe",
+  "id": "12345",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization Diagram"
+  ],
+  "history": "History of long work hours in demanding work environments, including past touring work. Unresolved issues with father, including reports of past abuse. Recent exchange of letters with father addressing this history.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must work hard to prove my worth.",
+  "intermediate_belief_depression": "If I don't work hard, I will be seen as a failure.",
+  "coping_strategies": "Overworking to avoid feelings of inadequacy and to gain approval.",
+  "situation": "Reflecting on how to use idle time and focus on personal development.",
+  "auto_thought": "If I don't keep busy, I'll be overwhelmed by my problems.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Avoidance of personal issues by staying busy with work.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

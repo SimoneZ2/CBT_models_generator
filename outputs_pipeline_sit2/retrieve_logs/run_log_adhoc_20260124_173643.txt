@@ -1,0 +1,94 @@
+Using description: HISTORY:
+- 28-year-old student who returned from Egypt.
+- Previously relied on parents for support and is working toward financial independence.
+- Managing bills, budgeting, and health insurance independently for the first time.
+- Sibling remains financially dependent on the family.
+
+SITUATION:
+- Considering asking parents for financial help.
+- Looking for affordable counseling services. with ID=6-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.526 | title='Patient "R" Session August 27, 2012: Client is frustrated with the process of re' | file='1004687820.txt'
+  - sim=0.518 | title='Patient "J", Session February 17, 2012: Client is frustrated that he is still st' | file='1004503122.txt'
+  - sim=0.517 | title='Session 5: Client finds this financial situation stressful and irritating; he ma' | file='1004824745.txt'
+  - sim=0.515 | title='Patient "R" Session July 02, 2012: Client talks about her fear of asking for hel' | file='1004687804.txt'
+  - sim=0.513 | title='Patient "J", Session July 24, 2012: Client's financial issues are all coming to ' | file='1004687594.txt'
+  - sim=0.513 | title='Patient "J", Session April 13, 2012: Client is upset with his financial situatio' | file='1004532414.txt'
+  - sim=0.509 | title='Session 12: Client over schedules her days leaving her feeling like she is sprea' | file='1000133989.txt'
+  - sim=0.498 | title='Patient "Couple" Therapy Session Audio Recording, April 16, 2012: The couple tal' | file='1004538636.txt'
+  - sim=0.495 | title='Patient "R" Session May 29, 2012: Client is very concerned over money and her la' | file='1004600946.txt'
+  - sim=0.494 | title='Patient "J", Session April 17, 2012: Client recently had his bank accounts levie' | file='1004538596.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=0 partial_match=10
+match_used=PARTIAL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.526 | file='1004687820.txt' | title='Patient "R" Session August 27, 2012: Client is frustrated with the process of re'
+  - sim=0.518 | file='1004503122.txt' | title='Patient "J", Session February 17, 2012: Client is frustrated that he is still st'
+  - sim=0.517 | file='1004824745.txt' | title='Session 5: Client finds this financial situation stressful and irritating; he ma'
+Using top selected file for transcript: '1004687820.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is a 28-year-old student who recently returned from Egypt. They are transitioning towards financial independence, managing bills, budgeting, and health insurance independently for the first time. The patient has a sibling who remains financially dependent on the family. The patient is considering asking their parents for financial help and is actively seeking affordable counseling services.
+
+**Emotional Impact:**
+The patient is likely experiencing a range of emotions as they navigate their new financial responsibilities. The transition to financial independence may evoke feelings of anxiety and stress, particularly as they manage bills and health insurance for the first time. The consideration of asking parents for financial help might lead to feelings of guilt or shame, as the patient may perceive this as a step back from their goal of independence. The patient may also feel a sense of pressure or urgency in finding affordable counseling services, which could contribute to feelings of worry or overwhelm.
+
+**Cognitive Patterns:**
+The patient may be engaging in cognitive patterns such as self-doubt and negative self-evaluation. The shift from relying on parental support to managing independently could lead to thoughts of inadequacy or fear of failure. The patient might also experience cognitive distortions, such as catastrophizing potential outcomes if they are unable to manage their finances independently. The consideration of asking for parental help may trigger thoughts of being a burden, which could further exacerbate feelings of guilt or shame.
+
+**Behavioral Responses:**
+In response to these stressors, the patient may exhibit behaviors such as procrastination or avoidance, particularly in tasks related to financial management. They might delay seeking counseling services due to concerns about affordability or fear of burdening their parents. The patient may also engage in reassurance-seeking behaviors, such as frequently consulting with their parents or others about financial decisions, to alleviate anxiety.
+
+**Coping Styles:**
+The patient may rely on problem-solving strategies to cope with their new responsibilities, such as researching affordable counseling options or budgeting more rigorously. However, they might also experience moments of withdrawal or avoidance when overwhelmed by the complexity of managing finances independently. The patient could benefit from developing more adaptive coping strategies, such as breaking tasks into manageable steps and focusing on one issue at a time to reduce feelings of overwhelm.
+
+**Psychological Interpretation:**
+Drawing from the transcript, the patient’s situation may mirror common psychological patterns observed in individuals facing similar transitions. The transcript highlights themes of frustration and helplessness when dealing with complex systems, such as health insurance, which the patient might also experience. The patient’s consideration of asking for parental help could be interpreted as a pragmatic approach to managing immediate financial stress, rather than a failure of independence. Encouraging the patient to view this as a temporary and strategic decision may help mitigate feelings of guilt or shame.
+
+**Recommendations:**
+1. **Cognitive Restructuring:** Encourage the patient to challenge negative thoughts about independence and self-worth. Help them reframe asking for help as a strategic decision rather than a failure.
+   
+2. **Problem-Solving Skills:** Assist the patient in developing a step-by-step approach to managing financial tasks, reducing feelings of overwhelm by focusing on one task at a time.
+
+3. **Emotional Regulation:** Teach the patient techniques to manage anxiety and stress, such as mindfulness or relaxation exercises, to help them cope with the emotional impact of their transition.
+
+4. **Support Systems:** Encourage the patient to utilize support systems, including family and potential counseling services, to provide emotional and practical support during this transition.
+
+By addressing these areas, the patient can develop more adaptive coping mechanisms and reduce the emotional and cognitive burden associated with their current life circumstances.
+Summary da mistral_.csv: The client discussed their rejected application for state health insurance and the complications they encountered in trying to obtain insurance through their employer or privately. They expressed frustration and worry about the cost and time delays in the process, as well as the lack of clear information about where to get prescriptions filled. The therapist offered suggestions and support, acknowledging the difficulties and encouraging the client to keep following the process.
+The client discussed their difficulty in obtaining health insurance coverage through various means, including their employer and state programs. They expressed frustration with the process of making phone calls to obtain information and concerns about the cost of their prescribed medication. The therapist suggested creating a list of questions to ask when making these calls and emphasized the importance of persisting in the process to obtain necessary coverage. The client also expressed fear of being prescribed different medications due to potential cost issues, but the therapist clarified that insurance companies cannot make such decisions. The client expressed reluctance to make more phone calls and expressed a desire to hire someone to handle the process for them. The therapist encouraged the client to confront the necessary tasks and offered reassurance that they were capable of completing them.
+In this therapy session, the client expressed feelings of guilt and frustration over their parents' financial support for their prescriptions and health insurance. The client had suicidal thoughts due to feeling like a burden and not being able to contribute to society or support themselves financially. The therapist acknowledged the client's feelings and encouraged them to focus on managing their immediate needs, such as refilling their prescriptions and exploring options for reducing costs, like obtaining birth control from Planned Parenthood. The therapist also emphasized the importance of prioritizing the client's health and well-being over cost concerns. The session ended with scheduling follow-up appointments for the following week.
+
+ REFINED CCD: description + report
+{
+  "history": "The client is a 28-year-old student who recently returned from Egypt and is now managing bills, budgeting, and health insurance independently for the first time. Previously, they relied on their parents for support, while their sibling continues to be financially dependent on the family. The client is working toward financial independence but is currently considering asking their parents for financial help and is searching for affordable counseling services. The report suggests the client experiences anxiety, stress, and possible feelings of guilt or shame related to their transition and the idea of seeking parental help.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I have to ask my parents for help, it means I am not truly independent and I am failing at adulthood. I should be able to manage everything on my own, and needing support is a sign of weakness. If I can't handle these responsibilities, others will see me as incapable.",
+  "intermediate_belief_depression": "If I can't manage on my own and have to ask for help, it proves that I will never be able to succeed or be independent. No matter how hard I try, I will always fall short and disappoint myself and others.",
+  "coping_strategies": [
+    "The client tends to procrastinate or avoid financial tasks when overwhelmed, sometimes delaying seeking counseling due to affordability concerns or fear of burdening their parents. They may seek reassurance from parents or others about financial decisions to alleviate anxiety, but this can reinforce feelings of inadequacy."
+  ],
+  "situation": "Considering asking parents for financial help. Looking for affordable counseling services.",
+  "auto_thought": "If I ask my parents for money, it means I can't handle being independent. I'm letting myself and them down.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "guilty",
+    "worried",
+    "overwhelmed"
+  ],
+  "behavior": "I hesitate to contact my parents and delay the conversation. I spend extra time searching for cheaper counseling options, and I avoid making a decision about asking for help."
+}

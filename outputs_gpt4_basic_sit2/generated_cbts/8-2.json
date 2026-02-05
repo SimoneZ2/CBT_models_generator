@@ -1,0 +1,27 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "Past traumatic incident involving sexual assault by partner Ivan. Ongoing relationship difficulties involving trust and intimacy. Reports some improvement in relationship dynamics with Ivan making efforts to rebuild trust.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let my guard down, I will be hurt again.",
+  "intermediate_belief_depression": "I can't trust anyone, and I will always be hurt in relationships.",
+  "coping_strategies": "Avoidance of intimacy and emotional withdrawal.",
+  "situation": "Ivan touches the patient in a way that reminds her of the past assault.",
+  "auto_thought": "I can't believe this is happening again; I am not safe.",
+  "emotion": [
+    "Fear",
+    "Anxiety",
+    "Distrust"
+  ],
+  "behavior": "Pulling away from Ivan, emotional withdrawal."
+}

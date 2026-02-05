@@ -1,0 +1,71 @@
+Using description: HISTORY:
+- Brother died by suicide when the patient was young.
+- Ongoing family conflict about discussing the loss.
+- Parents initially did not allow the patient to seek talk therapy after the death.
+
+SITUATION:
+- Noticing that the brother's birthday is approaching. with ID=34-1
+Sample results (metadata similarity):
+  - sim=0.049 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.106 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.123 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.124 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.138 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.156 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+  - sim=0.157 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.165 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.166 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.170 | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne' | file='1004503136.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.049 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.106 | file='1000088127.txt' | title='Session 18: Client tells how he despises people in general.  He seems to feel un'
+  - sim=0.123 | file='1004798723.txt' | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to '
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history marked by the traumatic loss of a brother to suicide, often finds solace and a sense of control in the structured world of mathematics. This is evident as they describe their current engagement with complex mathematical concepts, such as proofs and functions, which offer a "certain beauty" and clarity that contrasts with the unresolved emotions surrounding their brother's death. The client mentions feeling "self-conscious" about their preoccupation with math, suggesting an awareness of using it as a coping mechanism to avoid confronting deeper emotional issues. The upcoming birthday of the brother seems to be a trigger, subtly influencing the client's current focus on intellectual pursuits as a way to manage underlying anxiety and sadness.
+
+During the session, the client shares their experience of teaching and learning math, highlighting the satisfaction derived from "drawing lots of pictures" to simplify complex ideas. This method not only aids their understanding but also helps them connect with others, providing a sense of accomplishment and belonging. The client reflects on the process of learning, noting the initial frustration of not understanding new symbols and concepts, which eventually transforms into a rewarding experience as they "choo, choo, choo" through the darkness to find clarity. This journey mirrors their emotional landscape, where the struggle to understand and articulate feelings about their brother's death remains a challenging yet necessary endeavor.
+
+The client frequently returns to the theme of intellectual immersion, describing it as a "bubble" that shields them from the emotional turmoil associated with their family dynamics. The ongoing family conflict about discussing the loss of the brother is a topic the client avoids, instead focusing on the intellectual challenges that math presents. This avoidance is evident as the client delves into the intricacies of mathematical language and the satisfaction of mastering it, which provides a temporary escape from the unresolved grief and tension at home.
+
+Throughout the session, the client exhibits a pattern of seeking reassurance through intellectual mastery, a behavior likely rooted in the lack of emotional support following their brother's death. The client's parents initially did not allow them to seek talk therapy, which may have contributed to their reliance on intellectual pursuits as a means of coping. The client expresses a sense of achievement in being able to "teach the material" to others, which contrasts with the feelings of inadequacy and helplessness that may arise when faced with the emotional complexities of their personal life.
+
+As the session concludes, the client acknowledges the universality of mathematical concepts, noting that they transcend cultural and linguistic barriers. This realization offers a sense of connection and stability, providing a stark contrast to the fragmented and contentious nature of their family relationships. The client leaves the session with a tentative plan to continue exploring these intellectual pursuits, while the therapist gently reminds them of the importance of addressing the emotional aspects of their history and current situation.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history marked by the traumatic loss of a brother to suicide. They often find solace and a sense of control in the structured world of mathematics, which contrasts with the unresolved emotions surrounding their brother's death. The client avoids family conflict about discussing the loss and focuses on intellectual pursuits as a coping mechanism.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I immerse myself in intellectual pursuits, then I can avoid the pain and conflict associated with my brother's death.",
+  "intermediate_belief_depression": "If I don't keep myself intellectually occupied, then I will be overwhelmed by sadness and conflict.",
+  "coping_strategies": [
+    "The client immerses themselves in mathematical concepts to avoid confronting deeper emotional issues. They seek reassurance through intellectual mastery and avoid discussing family conflicts."
+  ],
+  "situation": "Noticing that the brother's birthday is approaching.",
+  "auto_thought": "I can't handle the emotions that come with my brother's birthday. I need to focus on math to keep it together.",
+  "emotion": [
+    "anxious",
+    "sad",
+    "self-conscious"
+  ],
+  "behavior": "The client immerses themselves in complex mathematical concepts and avoids discussing their brother's birthday with family."
+}

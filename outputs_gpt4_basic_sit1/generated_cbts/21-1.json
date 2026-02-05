@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "History of family conflict with a dismissive and unsupportive father. Estrangement from the father. Ongoing stress related to partner's family, including a difficult relationship with the partner's sister-in-law.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't manage family relationships, I am failing.",
+  "intermediate_belief_depression": "I will never have a supportive family environment.",
+  "coping_strategies": "Avoiding family interactions and minimizing contact with difficult family members.",
+  "situation": "Anticipating interactions with Candace during an upcoming family vacation in Maine.",
+  "auto_thought": "I won't be able to handle the situation with Candace.",
+  "emotion": [
+    "Anxiety",
+    "Apprehension"
+  ],
+  "behavior": "Avoidance of family gatherings and interactions."
+}

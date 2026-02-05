@@ -1,0 +1,27 @@
+{
+  "name": "Case of Longstanding Friendship",
+  "id": "001",
+  "type": [
+    "Friendship",
+    "Moral Conflict"
+  ],
+  "history": "Longstanding friendship with Ethan since high school (about 14 years). Shared personal crises and professional collaborations. Learned that Ethan has been abusive toward his girlfriend.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am bad - dangerous, toxic, evil"
+  ],
+  "intermediate_belief": "I should be able to help my friends and prevent harm.",
+  "intermediate_belief_depression": "I am responsible for not noticing Ethan's behavior earlier.",
+  "coping_strategies": "Avoiding confrontation with Ethan and distancing from the situation.",
+  "situation": "Learning about Ethan's abusive behavior toward his partner and feeling distressed. Observing erratic behavior and signs of substance use at a recent gathering.",
+  "auto_thought": "I can't believe Ethan would do something like this. How did I not see it?",
+  "emotion": [
+    "Distress",
+    "Guilt",
+    "Confusion"
+  ],
+  "behavior": "Avoiding Ethan and feeling conflicted about the friendship."
+}

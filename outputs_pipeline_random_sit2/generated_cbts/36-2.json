@@ -1,0 +1,29 @@
+{
+  "history": "The client has a background of elevated stress due to ongoing financial difficulties and unstable personal relationships. They report a heavy workload, worsened by technical issues and the need to cover for a coworker, which adds to their sense of overwhelm. Friends frequently turn to the client during crises, placing additional emotional demands on them. The client is considering asking their parents for financial help to pay for therapy, which coincides with an upcoming birthday and may evoke feelings of embarrassment or guilt. The client is also preparing for a convention and a visit with their parents, both of which are sources of anticipatory stress.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't meet everyone's demands or solve my own problems, others will see me as weak or unreliable. I must handle everything on my own to be respected and valued. Asking for help means I'm inadequate.",
+  "intermediate_belief_depression": "If I can't keep up with everything, it proves I'm a failure and things will never improve.",
+  "coping_strategies": [
+    "The client tends to withdraw or avoid making difficult requests, such as delaying asking for financial help. They may seek reassurance from friends or engage in social interactions despite feeling overwhelmed. The client sometimes distracts themselves with self-soothing activities to manage anxiety and stress."
+  ],
+  "situation": "At a convention, interacting with demanding friends while managing personal stress.",
+  "auto_thought": "I'm already overwhelmed, and now my friends need even more from me. I can't keep up and they're going to think I'm letting them down.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "tense",
+    "guilty",
+    "drained"
+  ],
+  "behavior": "I try to listen and help my friends even though I feel exhausted. I avoid telling them how stressed I am. I might step away briefly to collect myself or check my phone for distraction.",
+  "source_text_id": "1004824789.txt"
+}

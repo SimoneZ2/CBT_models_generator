@@ -1,0 +1,29 @@
+{
+  "name": "Patient 41",
+  "id": "41",
+  "type": [
+    "caretaker role",
+    "social pressure"
+  ],
+  "history": "Complex relationship history with Cricket affecting social circle. Often takes caretaking role with friends, including Lucy with medical issues.",
+  "helpless_belief": [
+    "I am responsible for everyone's happiness"
+  ],
+  "unlovable_belief": [
+    "I am only valued for what I provide"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I'm not constantly available, I'll be replaced.",
+  "intermediate_belief_depression": "My friendships are transactional based on my usefulness.",
+  "coping_strategies": [
+    "Overcommitment, resentment, martyrdom."
+  ],
+  "situation": "Friends gathered outside residence waiting while patient runs late after work.",
+  "auto_thought": "\"They're annoyed with me. I should have left work earlier. I'm letting everyone down.\"",
+  "emotion": [
+    "anxiety",
+    "guilt",
+    "resentment"
+  ],
+  "behavior": "Apologizes profusely, offers to buy drinks to make up for it, monitors friends' moods anxiously."
+}

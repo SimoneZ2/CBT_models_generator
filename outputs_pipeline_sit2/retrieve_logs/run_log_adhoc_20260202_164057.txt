@@ -1,0 +1,76 @@
+Using description: HISTORY:
+- Recent shoulder surgery with a painful recovery process.
+- Ongoing pain, numbness, and tingling related to a herniated cervical disc.
+- Prior history of physical therapy for past walking difficulties and back issues.
+- Past prolonged illness associated with a period of immobility.
+- Started a new relationship and later experienced a return of physical symptoms.
+
+SITUATION:
+- Attending a Halloween party while in persistent pain. with ID=4-2
+Sample results (metadata similarity):
+  - sim=0.015 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.029 | title='Volume no. 7: Client feels ambivalent about his life in general. He is concerned' | file='1001282221.txt'
+  - sim=0.047 | title='Volume no. 34: Rational Emotive Therapy #2: Client's low self-esteem is effectin' | file='1000916327.txt'
+  - sim=0.060 | title='Adlerian Parent Consultation: Therapists often find themselves in over their hea' | file='1001114242.txt'
+  - sim=0.068 | title='Murphy Psychotherapy Session Transcript: We know that children need lots of posi' | file='1001114248.txt'
+  - sim=0.073 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.084 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.087 | title='Session 5: Client feels like he is becoming much more honest in his relationship' | file='1000122141.txt'
+  - sim=0.089 | title='Narrative Therapy With Children: Children can feel overtaken by family problems ' | file='1001114246.txt'
+  - sim=0.091 | title='Cross Cultural Counseling' | file='1000137955.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.015 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.029 | file='1001282221.txt' | title='Volume no. 7: Client feels ambivalent about his life in general. He is concerned'
+  - sim=0.047 | file='1000916327.txt' | title='Volume no. 34: Rational Emotive Therapy #2: Client's low self-esteem is effectin'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who is recovering from a recent shoulder surgery, is navigating a complex interplay of physical and intellectual challenges. Despite the ongoing pain and numbness from a herniated cervical disc, they have been actively engaging in academic pursuits, particularly in mathematics. During the session, the client expressed a sense of accomplishment and intellectual satisfaction from their recent experiences in learning and teaching math. They described how working out at the gym helped clear their mind, allowing them to "write off the next three pages of the proof" with clarity. This suggests that physical activity serves as a coping mechanism, providing mental clarity and a temporary reprieve from their physical discomfort.
+
+The client also discussed their involvement in tutoring precalculus, highlighting the challenges and rewards of teaching complex mathematical concepts. They noted a sense of pride in being able to "honestly, genuinely teach the material" and help others understand it. This reflects a positive shift in their self-efficacy and confidence, despite the persistent physical symptoms that have resurfaced since starting a new relationship. The client seems to find solace in the structured and logical nature of mathematics, which contrasts with the unpredictability of their physical health.
+
+Throughout the session, the client frequently returned to the theme of learning and the process of grappling with new concepts. They described the initial frustration of encountering unfamiliar mathematical symbols, likening it to being in "complete darkness" before achieving a breakthrough. This metaphor resonates with their broader life experience, where they have faced periods of immobility due to past illnesses. The client's ability to draw parallels between their intellectual pursuits and personal challenges suggests a deep introspection and a desire to find meaning in their experiences.
+
+Interestingly, the client expressed a sense of being in a "little bubble of math," which they sometimes feel self-conscious about. This introspection may be linked to their attendance at a Halloween party while in persistent pain, where social interactions could have highlighted their physical limitations. Despite this, the client appears to derive a sense of identity and purpose from their academic endeavors, which provide a counterbalance to the physical constraints they face.
+
+The session also revealed the client's struggle with conciseness in mathematical proofs, as they tend to be "very conversational" and want to display their thought process. This reflects a broader cognitive pattern of seeking to understand and communicate complex ideas thoroughly, which may be both a strength and a source of internal conflict. The client's narrative suggests that they are navigating a delicate balance between intellectual engagement and the physical realities of their condition, using their academic pursuits as a means to transcend the limitations imposed by their health.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of physical health challenges, including a recent shoulder surgery with ongoing pain and numbness from a herniated cervical disc. They previously experienced immobility due to illness and have undergone physical therapy for walking and back issues. The return of physical symptoms coincided with starting a new relationship. The client finds meaning and identity in intellectual pursuits, particularly mathematics, and uses academic engagement as a way to cope with physical limitations. They have described feeling 'in complete darkness' before breakthroughs, drawing parallels between intellectual and physical struggles.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I show my pain or limitations in social situations, others will judge me or see me as less capable. I must push through and hide my struggles to avoid being seen as weak. My value comes from being able to contribute and keep up with others, even when I'm suffering.",
+  "intermediate_belief_depression": "If my pain keeps me from participating or connecting with others, it means I'm failing and will always be left out. There's no point in trying if my body keeps betraying me and I can't be like everyone else.",
+  "coping_strategies": [
+    "The client immerses themselves in intellectual activities, such as mathematics and tutoring, to distract from physical discomfort and maintain a sense of purpose. They may avoid discussing their pain in social settings and push themselves to participate despite discomfort. Physical activity, when possible, is used to clear their mind and temporarily escape from pain."
+  ],
+  "situation": "Attending a Halloween party while in persistent pain.",
+  "auto_thought": "Everyone will notice that I'm struggling and think I'm weak. I can't keep up, and I'll just end up embarrassing myself.",
+  "emotion": [
+    "anxious",
+    "self-conscious",
+    "ashamed",
+    "frustrated",
+    "isolated"
+  ],
+  "behavior": "The client tries to mask their discomfort and act as if nothing is wrong. They may withdraw from more active parts of the party or avoid drawing attention to themselves. They focus on monitoring how others perceive them and limit their engagement."
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Multiple past jobs involved micromanagement. Reports self-blame in work contexts.",
+  "helpless_belief": [
+    "I am incompetent"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake, it means I am not good enough.",
+  "intermediate_belief_depression": "I can't do anything right.",
+  "coping_strategies": "Overworking to avoid mistakes and blame.",
+  "situation": "Being blamed at work for spreadsheet errors that were not theirs.",
+  "auto_thought": "It's my fault; I should have caught the error.",
+  "emotion": [
+    "Anxiety",
+    "Guilt"
+  ],
+  "behavior": "Apologizing and taking responsibility even when not at fault."
+}

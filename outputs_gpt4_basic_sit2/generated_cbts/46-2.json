@@ -1,0 +1,25 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "Forms close relationships with friends who experience significant stressors. A friend is dealing with academic pressures and parenting an autistic child.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must help others to be valued.",
+  "intermediate_belief_depression": "If I can't help, I am not a good friend.",
+  "coping_strategies": "Over-involvement in friends' problems to feel needed.",
+  "situation": "Multiple friends are distressed at the same time, and the patient is involved in supporting them.",
+  "auto_thought": "I need to be there for everyone, or they won't want me around.",
+  "emotion": [
+    "Anxiety",
+    "Overwhelm"
+  ],
+  "behavior": "Spending excessive time and energy supporting friends, neglecting own needs."
+}

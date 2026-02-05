@@ -1,0 +1,30 @@
+{
+  "history": "Sarah is in a long-term relationship with Amelia, who has a demanding professional schedule, leaving Sarah feeling isolated during the week. She takes on most household tasks and experiences resentment, which she does not communicate to Amelia. Her history includes childhood separations from her parents, which were associated with distress. These early experiences may contribute to her current emotional responses and coping style, such as internalizing distress and avoiding conflict.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express my resentment or needs, I will cause conflict or be left alone, so it's safer to keep my feelings to myself. If I am the one who keeps things running at home, maybe I will be valued. I must avoid burdening others with my feelings.",
+  "intermediate_belief_depression": "If nothing changes, I will always feel alone and unimportant, no matter what I do.",
+  "coping_strategies": [
+    "Sarah avoids discussing her feelings of resentment with Amelia, using avoidance to prevent conflict or further isolation. She distracts herself with household tasks, which provides temporary relief but reinforces her role as the primary caretaker and maintains her emotional discomfort."
+  ],
+  "situation": "Doing laundry and thinking about the future of the relationship and her domestic role.",
+  "auto_thought": "I'm always the one left alone doing everything. What if this is all my relationship will ever be?",
+  "emotion": [
+    "lonely",
+    "sad",
+    "resentful",
+    "anxious",
+    "helpless"
+  ],
+  "behavior": "She continues doing the laundry in silence. She does not bring up her feelings with Amelia. She ruminates about her role and the future while working.",
+  "source_text_id": "1003009207.txt"
+}

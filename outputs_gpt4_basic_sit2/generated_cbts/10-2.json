@@ -1,0 +1,29 @@
+{
+  "name": "Patient Case 1",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recent divorce, financial struggles, adjustment to single life, co-parenting, multiple friendships deteriorated after the divorce, complicated relationship with parents.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't maintain my relationships, I am not worthy of love.",
+  "intermediate_belief_depression": "I will always be alone and unsupported.",
+  "coping_strategies": "Avoiding social interactions to prevent further rejection.",
+  "situation": "Experiencing the breakdown of friendships following the divorce.",
+  "auto_thought": "I am losing everyone important to me.",
+  "emotion": [
+    "Sadness",
+    "Anxiety",
+    "Loneliness"
+  ],
+  "behavior": "Withdrawal from social activities and isolation."
+}

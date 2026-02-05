@@ -1,0 +1,27 @@
+{
+  "name": "Case Study Example",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recurrent dreams during graduate school about being unprepared for a thesis defense. Father described as having high expectations.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be perfect to be accepted.",
+  "intermediate_belief_depression": "If I am not perfect, I will be rejected and criticized.",
+  "coping_strategies": "Over-preparing and seeking reassurance to avoid criticism.",
+  "situation": "Experiencing a recurring dream in which coworkers talk negatively about the individual.",
+  "auto_thought": "They will see my flaws and reject me.",
+  "emotion": [
+    "Anxiety",
+    "Fear"
+  ],
+  "behavior": "Avoidance of situations where performance is evaluated."
+}

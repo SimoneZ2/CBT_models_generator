@@ -1,0 +1,95 @@
+Using description: HISTORY:
+- Pattern of friendships developing into romantic involvement.
+- Past social conflicts related to expressing anger.
+- Ambivalent relationship with parents involving obligation and negative emotions.
+
+SITUATION:
+- Difficulty completing work tasks due to fear of making mistakes.
+- Procrastination and avoidance impacting productivity. with ID=45-1
+Top results (by metadata similarity):
+  - sim=0.728 | title='Session 770: Client is having a hard time with her daughter' | file='1000398009.txt'
+  - sim=0.722 | title='Session 77: Client becomes angry when her needs for reassurance and approval are' | file='1000368493.txt'
+  - sim=0.704 | title='Session 61: Client is angry with her parents for exerting power over her entire ' | file='1000367960.txt'
+  - sim=0.701 | title='Session 1105: Client's husband is upset with her for not losing weight. She is l' | file='1000399412.txt'
+  - sim=0.699 | title='Session 12: Client is worried about finances.  He discusses his inability to eve' | file='1000088139.txt'
+  - sim=0.696 | title='Session 14: Client is still experiencing nervousness on her way to therapy. She ' | file='1000323473.txt'
+  - sim=0.692 | title='Session 39: Client is frustrated with her inability to express her emotions corr' | file='1000334632.txt'
+  - sim=0.690 | title='Session 263: Client discusses her fear of being deserted. She relates pregnancy ' | file='1000393727.txt'
+  - sim=0.688 | title='Patient "A" Therapy Session Audio Recording, January 11, 2012: Client discusses ' | file='1004477229.txt'
+  - sim=0.688 | title='Session 326: Client makes parallels between breastfeeding and sexual intercourse' | file='1000393741.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=1 partial_match=9
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=1
+  - sim=0.699 | file='1000088139.txt' | title='Session 12: Client is worried about finances.  He discusses his inability to eve'
+Using top selected file for transcript: '1000088139.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+
+The patient presents with a history of friendships evolving into romantic relationships, past social conflicts related to expressing anger, and an ambivalent relationship with their parents characterized by feelings of obligation and negative emotions. Currently, the patient experiences difficulty completing work tasks due to a fear of making mistakes, leading to procrastination and avoidance that impact productivity.
+
+**Cognitive Patterns:**
+
+The patient exhibits a cognitive tendency towards fear of failure and making mistakes, which is likely contributing to their procrastination and avoidance behaviors. This fear may stem from a perfectionistic mindset, where the patient feels that any error could lead to significant negative consequences. This cognitive pattern can create a cycle of anxiety and avoidance, as the fear of mistakes prevents the patient from engaging with tasks, thereby reinforcing the belief that they are incapable of completing them successfully.
+
+The patient's ambivalent relationship with their parents, marked by obligation and negative emotions, may contribute to a cognitive schema of self-worth being tied to meeting external expectations. This could manifest in the workplace as a fear of not meeting perceived standards, leading to avoidance of tasks that could potentially result in failure.
+
+**Emotional Reactions:**
+
+The patient likely experiences a range of emotions including anxiety, fear, and tension related to work tasks. The fear of making mistakes may lead to heightened anxiety, which in turn exacerbates avoidance behaviors. Additionally, the patient's ambivalent relationship with their parents may evoke feelings of guilt and obligation, contributing to emotional distress.
+
+The past social conflicts related to expressing anger suggest that the patient may struggle with assertiveness and managing emotions in interpersonal situations. This could lead to feelings of frustration and helplessness, particularly if the patient perceives themselves as unable to express their needs or boundaries effectively.
+
+**Behavioral Responses:**
+
+The patient's primary behavioral response to the fear of making mistakes is procrastination and avoidance. These behaviors serve as short-term coping mechanisms to reduce anxiety but ultimately hinder productivity and reinforce the cycle of fear and avoidance. The pattern of friendships developing into romantic involvement may indicate a tendency to seek validation and support through close relationships, potentially as a means of coping with underlying feelings of inadequacy or loneliness.
+
+The patient's history of social conflicts related to anger expression suggests a possible pattern of withdrawing or suppressing emotions to avoid confrontation. This could lead to internalized stress and contribute to the patient's overall emotional distress.
+
+**Coping Styles:**
+
+The patient appears to rely on avoidance as a primary coping strategy, particularly in the context of work-related tasks. This avoidance may be driven by a fear of negative evaluation and a desire to maintain a sense of control over their environment. Additionally, the patient's ambivalent relationship with their parents may lead to a coping style characterized by compliance and people-pleasing behaviors, as a means of managing feelings of obligation and guilt.
+
+**Therapeutic Focus:**
+
+In therapy, it would be beneficial to address the patient's fear of making mistakes and the resulting procrastination and avoidance behaviors. Cognitive restructuring techniques could be employed to challenge and modify the patient's perfectionistic beliefs and fear of failure. Additionally, exploring the patient's relationship with their parents and the associated feelings of obligation and negative emotions could provide insight into their cognitive and emotional patterns.
+
+Developing assertiveness skills and strategies for managing anger in social situations may also be beneficial, helping the patient to express their needs and boundaries more effectively. Encouraging the patient to engage in gradual exposure to feared tasks and situations could help reduce avoidance behaviors and build confidence in their ability to cope with potential mistakes.
+
+Overall, the therapeutic goal would be to help the patient develop healthier cognitive and emotional patterns, reduce avoidance behaviors, and improve their ability to manage interpersonal relationships and work-related tasks effectively.
+Summary da mistral_.csv: In this session, the patient discussed their feelings of being overcommitted to their degree program, which leaves little time for relaxation and enjoyment. They expressed regret for quitting activities in the past and the fear of being known for not finishing what they started. The patient also mentioned their struggle with the idea of quitting marriage due to the connotations of divorce and the fear of being unhappy. They acknowledged their tendency to prioritize responsibilities over comfort and their difficulty in understanding the concept of taking time for oneself. The patient expressed frustration with Susan, their counselor, for not addressing her own issues directly and instead focusing on the patient's. They also discussed their conditioning to stay rigid and disciplined in their life, which includes their work and relationships.
+The patient discusses their strong work ethic and feeling of responsibility, which leaves little time for personal relaxation or irresponsible actions. They share an experience of feeling guilty for taking 15 minutes to go play hockey, despite feeling better afterwards. The patient also mentions their upbringing, which instilled a strong work ethic and conditioned them against being irresponsible. They express a desire to question this conditioning and experience more freedom in their life, but fear the potential consequences of doing so. The patient also mentions their difficulty in balancing responsibilities to their family and profession, and the destructive impact of taking on too much responsibility in relationships. They express a desire to find a way to resolve these issues and feel more free in their life.
+The patient describes experiences of enjoying activities like fishing and tennis but feeling guilty and traumatized by the associated costs and time commitments. They mention feeling anger towards their partner for not understanding their perspective and feeling the need to be responsible, which prevents them from fully participating in these activities. The patient also expresses fear of becoming irresponsible and losing control, leading to feelings of inner death. They share an example of their partner's father, who took month-long vacations despite having children in school, and reflect on the potential need to work through their beliefs about responsibility in therapy.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a pattern of friendships turning into romantic relationships, which may suggest a need for validation and closeness. There is a history of social conflict related to expressing anger, indicating possible difficulties with assertiveness and emotional regulation. The relationship with parents is ambivalent, involving both obligation and negative emotions, which may have contributed to the development of beliefs about self-worth being tied to meeting others' expectations. These dynamics appear to influence the client's current difficulties with work tasks and avoidance behaviors.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake at work, others will see me as incompetent and I will let them down. I must avoid errors at all costs to maintain my value and avoid negative consequences. My worth depends on meeting high standards and not disappointing others.",
+  "intermediate_belief_depression": "If I keep making mistakes or can't meet expectations, it proves that I am a failure and nothing I do will ever be good enough. There's no point in trying because I will just disappoint myself and others.",
+  "coping_strategies": [
+    "The client copes by procrastinating and avoiding work tasks to temporarily reduce anxiety about making mistakes. They may also suppress or withdraw from expressing negative emotions, especially anger, to avoid conflict. Seeking validation through close relationships may serve as another way to manage feelings of inadequacy."
+  ],
+  "situation": "Difficulty completing work tasks due to fear of making mistakes. Procrastination and avoidance impacting productivity.",
+  "auto_thought": "If I start this task, I'm going to mess it up. Everyone will see that I'm not good enough.",
+  "emotion": [
+    "anxious",
+    "fearful",
+    "tense",
+    "ashamed",
+    "worried"
+  ],
+  "behavior": "I put off starting the task and distract myself with other activities. I avoid looking at the work and tell myself I'll do it later."
+}

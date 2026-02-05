@@ -1,0 +1,27 @@
+{
+  "name": "Rachel",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Rachel has recurring relationship problems with her husband Ivan. Work-related stress. Sister Emma often takes a caring role toward Rachel. Father had a successful career and strong work ethic, influencing Rachel's expectations. Recently laid off and currently looking for new employment.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must succeed in my career to be valued.",
+  "intermediate_belief_depression": "If I don't succeed, I will be a failure and unloved.",
+  "coping_strategies": "Rachel often compares herself to others and strives for perfection to avoid feelings of inadequacy.",
+  "situation": "Comparing personal career aspirations to those of the spouse.",
+  "auto_thought": "I will never be as successful as my father or my husband.",
+  "emotion": [
+    "anxiety",
+    "inadequacy"
+  ],
+  "behavior": "Rachel tends to withdraw and avoid discussing her career concerns with her husband."
+}

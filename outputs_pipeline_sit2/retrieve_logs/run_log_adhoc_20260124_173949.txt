@@ -1,0 +1,90 @@
+Using description: HISTORY:
+- Ongoing tension with parents related to family discussions.
+- Recent disagreement with parents about a guest list for an upcoming event.
+
+SITUATION:
+- Disagreement with parents about the guest list for an upcoming event. with ID=2-1
+Top results (by metadata similarity):
+  - sim=0.618 | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father ' | file='1004472411.txt'
+  - sim=0.614 | title='Patient "S" Session March 13, 2012: Client recently had a frustrating conversati' | file='1004522836.txt'
+  - sim=0.609 | title='Patient "M" Therapy Session Audio Recording, May 30, 2012: She has been very anx' | file='1004565031.txt'
+  - sim=0.593 | title='Session 405: Client feels the conflict between her husband and her parents' | file='1000393773.txt'
+  - sim=0.587 | title='Cognitive Behavioral Family Therapy' | file='1000377254.txt'
+  - sim=0.576 | title='Patient "S" Session April 16, 2012: Client is having a hard time with her roomma' | file='1004538668.txt'
+  - sim=0.571 | title='Patient "M", Session August 22, 2012: Client talks about some issues surrounding' | file='1004687678.txt'
+  - sim=0.559 | title='Patient "M" Therapy Session Audio Recording, May 23, 2012: Client is still upset' | file='1004565029.txt'
+  - sim=0.557 | title='Patient "A" Therapy Session Audio Recording, December 13, 2011: Client talks abo' | file='1004472410.txt'
+  - sim=0.552 | title='Patient "R" Session March 23, 2012: Client finds that she has less patience than' | file='1004528631.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.618 | file='1004472411.txt' | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father '
+  - sim=0.614 | file='1004522836.txt' | title='Patient "S" Session March 13, 2012: Client recently had a frustrating conversati'
+  - sim=0.609 | file='1004565031.txt' | title='Patient "M" Therapy Session Audio Recording, May 30, 2012: She has been very anx'
+Using top selected file for transcript: '1004472411.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is experiencing ongoing tension with their parents, particularly surrounding family discussions. A recent disagreement with their parents about the guest list for an upcoming event has exacerbated these tensions.
+
+**Presenting Issues:**
+The primary issue at hand is the disagreement with the patient's parents regarding the guest list for an upcoming event. This situation appears to be a catalyst for existing familial tensions, which are characterized by ongoing disagreements and a lack of effective communication.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions in response to the ongoing tension and recent disagreement with their parents. These emotions may include feeling anxious, worried, and tense due to the unresolved nature of the conflict. The disagreement about the guest list may also evoke feelings of frustration and irritation, as it represents a specific instance of broader communication issues within the family. The patient might feel sad or lonely if they perceive a lack of understanding or support from their parents.
+
+**Cognitive Patterns:**
+The patient may engage in cognitive patterns such as ruminating on the disagreement and the broader familial tensions. They might have thoughts centered around fairness, feeling misunderstood, or questioning their role in the family dynamics. The patient could also experience cognitive distortions, such as all-or-nothing thinking, where they perceive the situation as entirely negative or hopeless.
+
+**Behavioral Responses:**
+In response to the tension and disagreement, the patient might withdraw from family interactions or avoid discussing sensitive topics to prevent further conflict. They may also seek reassurance from other family members or friends to validate their feelings and perspectives. The patient might procrastinate on addressing the disagreement directly, fearing escalation or further misunderstanding.
+
+**Coping Styles:**
+The patient may cope with the situation by attempting to mediate or find a compromise, although this could lead to feelings of being caught in the middle if their efforts are not reciprocated. Alternatively, they might cope by distancing themselves emotionally from the situation, focusing on other areas of their life to mitigate stress. The patient might also engage in self-reflection to understand their emotional responses and identify potential solutions.
+
+**Psychological Interpretation:**
+The ongoing tension with the patient's parents and the recent disagreement about the guest list likely contribute to a heightened sense of anxiety and frustration. The patient may feel caught between a desire for familial harmony and the reality of persistent communication challenges. Drawing from the transcript, it is common for individuals in similar situations to experience feelings of guilt or responsibility for not meeting perceived family expectations, which can exacerbate emotional distress.
+
+**Conclusion:**
+The patient's experience of tension and disagreement with their parents is likely impacting their emotional well-being and cognitive patterns. Addressing these issues through Cognitive Behavioral Therapy (CBT) could involve exploring and challenging cognitive distortions, developing effective communication strategies, and identifying healthy coping mechanisms to manage stress and improve familial relationships.
+Summary da mistral_.csv: The client described a conflict with their father over not being able to attend his birthday celebration and the subsequent upset behavior from their father. The father had been upset for several weeks and brought up past favors and feelings of abandonment. The client felt frustrated and guilty but also felt they couldn't accommodate their father's every need. The father made threats about being put in a nursing home and criticized the client's lack of effort in their relationship. The client felt they were trying to build a final conclusion about the relationship and wanted certainty about whether they could build peace with their father or not. They felt torn between feeling sad for their father's loneliness and feeling annoyed by his behavior. The client expressed a desire for their father to seek help if he was truly sad and lonely, but felt unsure if that was the case or if he was just being difficult. The client was annoyed about upcoming holiday plans and felt their father was making them the focus of his
+The client described their father's behavior as taking up a significant amount of their time and energy, causing frustration and annoyance. They mentioned their attempts to communicate their concerns and feelings to their father, but he responds with anger and defensiveness. The client expressed feeling manipulated and embarrassed by their father's actions, and shared their anxiety about introducing their partner to their family due to fear of judgment and negative associations. They discussed their parents' divorces and the impact it has had on their relationships with their families. The client and their father have had conversations about this issue, but the father downplays its importance and the client continues to feel frustrated.
+The client expresses frustration and anxiety towards her father's behavior regarding her future wedding, as he refuses to invite her ex-stepmother and expresses a desire to confront her boyfriend. The client feels guilty for her feelings towards her father and struggles with accepting the situation, considering him selfish and uncaring. The therapist acknowledges the complexity of the situation and the client's intense emotions, suggesting that the client's feelings are valid and normal. The client shares that cutting contact with her father is the most effective way for her to manage her anxiety and emotions.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of ongoing tension with their parents, especially during family discussions. There is a recent disagreement about the guest list for an upcoming event, which has intensified existing familial strain. The client often feels misunderstood and struggles with communication within the family, leading to emotional distress. These patterns suggest a longstanding difficulty in feeling heard or validated by their parents.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express my preferences or needs in family discussions, I will be dismissed or cause more conflict, so it's safer to hold back or avoid confrontation. My efforts to communicate are unlikely to be understood or respected, which makes me feel like my input doesn't matter. I have to be careful not to make things worse, even if it means not standing up for myself.",
+  "intermediate_belief_depression": "If my family never understands or values my perspective, then nothing I do will make a difference and I might as well give up trying to connect with them.",
+  "coping_strategies": [
+    "The client tends to withdraw from family interactions or avoids discussing sensitive topics to prevent further conflict. They may seek reassurance from others outside the immediate family or distract themselves with other activities to manage stress. The client sometimes ruminates on the disagreement, which maintains their distress."
+  ],
+  "situation": "Disagreement with parents about the guest list for an upcoming event.",
+  "auto_thought": "They never listen to what I want. No matter what I say, it doesn't matter to them.",
+  "emotion": [
+    "frustrated",
+    "anxious",
+    "tense",
+    "sad",
+    "lonely",
+    "irritated"
+  ],
+  "behavior": "I stop engaging in the discussion and withdraw from the conversation. I avoid bringing up my opinion again and keep my distance from my parents for a while."
+}

@@ -1,0 +1,79 @@
+Using description: HISTORY:
+- Ongoing work-related uncertainty and anxiety.
+- Married recently; the relationship included instances of physical abuse by spouse Ivan and resulted in separation.
+- Both partners are interested in resolving issues and are attending couples therapy.
+
+SITUATION:
+- Exposed to clinical terms used to describe the husband's behavior, including "delusional" and "pseudo-psychotic". with ID=26-1
+Sample results (metadata similarity):
+  - sim=0.016 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.138 | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne' | file='1004503136.txt'
+  - sim=0.151 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.152 | title='Patient "L", Session May 09, 2012: Client has been feeling good about her work; ' | file='1004564967.txt'
+  - sim=0.174 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.182 | title='Client "S", Session September 21, 2012: Client is currently working towards his ' | file='1004824793.txt'
+  - sim=0.183 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+  - sim=0.191 | title='Murphy Psychotherapy Session Transcript: We know that children need lots of posi' | file='1001114248.txt'
+  - sim=0.197 | title='Patient "Ma", Session October 04, 2012: Client feels distanced from herself sinc' | file='1004798789.txt'
+  - sim=0.197 | title='Person-Centered Child Therapy Session Transcript: Anin Utigaard masterfully teac' | file='1001114250.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=729 partial_match=1292
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.138 | file='1004503136.txt' | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne'
+  - sim=0.182 | file='1004824793.txt' | title='Client "S", Session September 21, 2012: Client is currently working towards his '
+  - sim=0.197 | file='1004798789.txt' | title='Patient "Ma", Session October 04, 2012: Client feels distanced from herself sinc'
+Using LEAST related file for transcript: '1004503136.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has recently experienced significant life changes, including a separation from her husband due to instances of physical abuse, is navigating a complex emotional landscape. She expresses a deep-seated anxiety about her work situation, which is compounded by the uncertainty surrounding her husband's behavior, described in clinical terms as "delusional" and "pseudo-psychotic." This exposure to such terminology seems to add a layer of confusion and concern to her already fraught emotional state. During the session, she reveals a struggle with self-perception, particularly around feelings of immaturity. She candidly shares, "I feel like I'm very immature," and this self-assessment appears to be a recurring theme in her narrative.
+
+Her hobbies, which include a fondness for manga and dinosaurs, are sources of both joy and embarrassment. She recounts an incident at a comic book store where she felt judged for her interests, noting, "I can't stand the people who do them." This reflects a tension between her genuine interests and the societal perceptions she fears. Her avoidance of social settings where these hobbies are celebrated further illustrates her internal conflict. She describes herself as a "get off of my lawn kind of person," indicating a self-awareness of her own contradictions—being both drawn to youthful interests and critical of those who express them openly.
+
+The client intellectualizes her interests as a coping mechanism, attempting to justify them to herself and others. She explains, "I intellectualize all of my low-brow habits," which suggests a need to rationalize her preferences to align with her self-image as an intellectual. This pattern of thought is deeply rooted in her upbringing, where she was encouraged to find meaning in all pursuits. Her parents' influence is evident in her narrative, as she recalls, "I was taught very, very early on" to seek deeper understanding in everything.
+
+Despite her efforts to reconcile these aspects of her identity, the client experiences a persistent fear of judgment. She expresses concern about being perceived as "too simple" or "too complicated," indicating an ongoing struggle with self-acceptance. Her work environment does not provide the intellectual stimulation or recognition she craves, leading to feelings of inadequacy. She reflects on her need for validation, questioning, "Am I going to need that for the rest of my life?"
+
+Throughout the session, the client oscillates between self-criticism and self-defense, revealing a complex interplay of emotions. Her narrative is punctuated by moments of humor and self-deprecation, as she acknowledges the absurdity of her predicament. Yet, beneath this veneer lies a profound sense of vulnerability and a desire for genuine connection and understanding. As the session concludes, she remains caught in a "pickle," grappling with the dichotomy of her inner world and the external expectations she perceives.
+Summary da mistral_.csv: The client expresses difficulty in discussing negative experiences and feelings during therapy sessions, feeling insecure about being perceived as immature due to her hobbies and interests. She shares an experience of feeling judged at a comic book store for her love of Monga, a genre of manga read from right to left. The client feels uncomfortable around people who are stereotypically associated with her hobbies and finds their behavior obnoxious. She also mentions her dislike for loud and disruptive behavior, especially late at night. The client expresses a preference for quieter, more mature environments and feels judged for it. She also mentions her difficulty in processing information presented in a different visual format due to her experience with reading manga. The client expresses a lack of interest in collecting figurines or other typical collectibles and prefers to have meaningful items in her small apartment.
+The client expresses feeling frustrated that people perceive them as someone different than who they are and shares their love for the children's book "The Very Hungry Caterpillar" by Eric Carle. They discuss the appeal of Carle's illustration techniques and the impact of his work on their imagination as a child. The client also mentions their intellectualization of their interests, including their justification for liking the children's book and the TV show "Gossip Girl." They explain that they were taught to find meaning and understanding in everything they consume, and that they were not raised to passively consume entertainment. The client also shares their experience of being educated about getting their ears pierced before doing so.
+The client recounted their parents' reaction to their interest in bright makeup in the late 80s and early 90s, which they found amusing and encouraging. The client adopted this perspective and felt proud of their unique interests. They discussed the importance of positive reinforcement in their upbringing and how it influenced their curiosity and self-expression. The client expressed a sense of disappointment in not receiving the same level of praise and recognition in their current life, particularly at work. They acknowledged their high expectations for fulfillment and self-satisfaction, even without external validation. The client mentioned an exercise at work where colleagues could anonymously leave positive comments for each other, but had not yet checked their own comments. The client expressed a fear of being simple or too complicated and ended the session with a plan to continue the next time on Tuesday.
+
+REFINED CCD: description + report
+{
+  "history": "The client has recently separated from her husband following incidents of physical abuse, though both are now attending couples therapy. She reports ongoing anxiety and uncertainty related to her work situation. Her upbringing emphasized the importance of finding meaning in all pursuits, which has contributed to her tendency to intellectualize her interests. She struggles with self-perception, describing herself as 'immature,' and feels embarrassed about her hobbies, fearing judgment from others. She oscillates between self-criticism and self-defense, and seeks validation but feels her work does not provide the recognition she desires.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I am exposed to negative or clinical labels about my husband or myself, then it means I am failing to manage my life and others will see me as inadequate. If I show my true interests or vulnerabilities, people will judge or reject me. I must always justify my actions and preferences to avoid being seen as immature or unworthy.",
+  "intermediate_belief_depression": "If I can't reconcile how others see me with how I see myself, then I will never be accepted or understood, and I will always feel alone and inadequate.",
+  "coping_strategies": [
+    "She intellectualizes her feelings and interests to rationalize them and avoid direct emotional discomfort. She avoids social situations where she might be judged for her hobbies or vulnerabilities. She seeks validation but also withdraws or becomes self-critical when she anticipates judgment."
+  ],
+  "situation": "Exposed to clinical terms used to describe the husband's behavior, including \"delusional\" and \"pseudo-psychotic\".",
+  "auto_thought": "If people are using words like 'delusional' and 'pseudo-psychotic' about my husband, then maybe I'm part of something abnormal or broken. Others will think I'm foolish or weak for being involved in this.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "worried",
+    "confused",
+    "embarrassed",
+    "vulnerable"
+  ],
+  "behavior": "She withdraws from conversations about her relationship, avoids sharing details with others, and ruminates on what these labels mean about her and her choices. She may intellectualize or joke about the situation to deflect discomfort."
+}

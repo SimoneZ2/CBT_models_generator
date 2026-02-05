@@ -1,0 +1,32 @@
+{
+  "name": "Patient 12",
+  "id": "12",
+  "type": [
+    "PhD stress",
+    "identity conflict"
+  ],
+  "history": "PhD student in science. Deep involvement in music (college band, jazz group). Offered jazz leadership but declined due to mental health concerns. Feels disconnected from scientific colleagues.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am defective"
+  ],
+  "unlovable_belief": [
+    "I don't belong anywhere"
+  ],
+  "worthless_belief": [
+    "I am wasting my potential"
+  ],
+  "intermediate_belief": "I have to choose between my passion and my career; I can't have both.",
+  "intermediate_belief_depression": "My mental health makes me unreliable and limits my dreams.",
+  "coping_strategies": [
+    "Avoiding commitments, self-sabotage, compartmentalization."
+  ],
+  "situation": "Offered leadership in jazz group but declined due to PhD work and mental health concerns.",
+  "auto_thought": "\"I'm letting down the music community. I'll never be good enough at either.\"",
+  "emotion": [
+    "grief",
+    "anxiety",
+    "inadequacy"
+  ],
+  "behavior": "Skips jazz practice, procrastinates on PhD work, ruminates about the decision."
+}

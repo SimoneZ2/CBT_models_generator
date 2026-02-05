@@ -1,0 +1,100 @@
+Using description: HISTORY:
+- 28-year-old student.
+- Returned from Egypt.
+- Previously relied on parents for support and is now managing bills, finances, and health insurance independently for the first time.
+- Brother remains financially dependent on parents.
+
+SITUATION:
+- Received an insurance claim with an unexpected balance. with ID=6-2
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.543 | title='Patient "R" Session August 27, 2012: Client is frustrated with the process of re' | file='1004687820.txt'
+  - sim=0.512 | title='Verilogue session: Client has not been able to work or get out of the house  muc' | file='1001084051.txt'
+  - sim=0.505 | title='Verilogue session: Client's mood has been stable and she is sleeping well' | file='1003009246.txt'
+  - sim=0.504 | title='Verilogue session: Client is suffering from acute panic attacks' | file='1001083965.txt'
+  - sim=0.501 | title='Patient "R" Session July 02, 2012: Client talks about her fear of asking for hel' | file='1004687804.txt'
+  - sim=0.485 | title='Verilogue session: Client discusses problems with ailing, elderly family members' | file='1001084018.txt'
+  - sim=0.481 | title='Patient "J", Session April 17, 2012: Client recently had his bank accounts levie' | file='1004538596.txt'
+  - sim=0.470 | title='Patient "Ju", Session October 16, 2012: Client has been experiencing chronic pai' | file='1004798857.txt'
+  - sim=0.468 | title='Patient "M", Session October 16, 2012: Client is fed up with her in-laws' behavi' | file='1004798863.txt'
+  - sim=0.465 | title='Patient "R", Session October 11, 2012: Client and therapist discuss some logisti' | file='1004798813.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=0 partial_match=10
+match_used=PARTIAL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.543 | file='1004687820.txt' | title='Patient "R" Session August 27, 2012: Client is frustrated with the process of re'
+  - sim=0.512 | file='1001084051.txt' | title='Verilogue session: Client has not been able to work or get out of the house  muc'
+  - sim=0.505 | file='1003009246.txt' | title='Verilogue session: Client's mood has been stable and she is sleeping well'
+Using top selected file for transcript: '1004687820.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Information:**
+- Age: 28
+- Occupation: Student
+- Recent Life Change: Returned from Egypt
+- Current Challenge: Managing bills, finances, and health insurance independently for the first time
+
+**Presenting Situation:**
+The patient recently received an insurance claim with an unexpected balance. This situation marks a significant transition from previously relying on parental support to independently managing financial responsibilities, including bills and health insurance. The patient's brother remains financially dependent on their parents, which may contribute to the patient's current stress and pressure to manage independently.
+
+**Emotional Impact:**
+The patient is likely experiencing a range of emotions due to the sudden shift in financial responsibility. These emotions may include:
+- **Anxiety and Worry:** The unexpected insurance balance could lead to feelings of anxiety about financial stability and the ability to manage expenses effectively.
+- **Stress and Overwhelm:** The transition to managing finances independently, coupled with the unexpected insurance claim, may result in feelings of being overwhelmed.
+- **Fear and Uncertainty:** Concerns about making mistakes or failing to manage responsibilities effectively could lead to fear and uncertainty about the future.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive patterns such as:
+- **Catastrophic Thinking:** The unexpected insurance balance might trigger thoughts that amplify the perceived severity of the situation, leading to increased anxiety.
+- **Self-Doubt:** The shift from parental support to independence may cause the patient to question their ability to handle financial responsibilities effectively.
+- **Comparison:** Observing their brother's continued financial dependence on their parents might lead to comparisons and feelings of inadequacy or pressure to succeed independently.
+
+**Behavioral Responses:**
+In response to these cognitive and emotional patterns, the patient might:
+- **Avoid Financial Tasks:** The stress of managing finances could lead to procrastination or avoidance of tasks related to budgeting and bill payments.
+- **Seek Reassurance:** The patient might frequently seek reassurance from parents or peers about their financial decisions and capabilities.
+- **Ruminate:** The patient may engage in repetitive thinking about the unexpected insurance balance and potential financial challenges, which can exacerbate stress.
+
+**Coping Styles:**
+The patient may employ coping strategies such as:
+- **Problem-Solving Attempts:** Despite the stress, the patient might actively seek solutions to manage the unexpected balance and other financial responsibilities.
+- **Emotional Support Seeking:** The patient may reach out to family or friends for emotional support and guidance during this transition.
+- **Information Gathering:** The patient might engage in research or seek advice to better understand and manage their financial situation.
+
+**Conclusion:**
+The patient's transition to financial independence, compounded by the unexpected insurance balance, is likely contributing to significant emotional and cognitive stress. By understanding these psychological impacts, therapeutic interventions can focus on developing effective coping strategies, enhancing problem-solving skills, and addressing cognitive distortions to support the patient in navigating this challenging period.
+Summary da mistral_.csv: The client discussed their rejected application for state health insurance and the complications they encountered in trying to obtain insurance through their employer or privately. They expressed frustration and worry about the cost and time delays in the process, as well as the lack of clear information about where to get prescriptions filled. The therapist offered suggestions and support, acknowledging the difficulties and encouraging the client to keep following the process.
+The client discussed their difficulty in obtaining health insurance coverage through various means, including their employer and state programs. They expressed frustration with the process of making phone calls to obtain information and concerns about the cost of their prescribed medication. The therapist suggested creating a list of questions to ask when making these calls and emphasized the importance of persisting in the process to obtain necessary coverage. The client also expressed fear of being prescribed different medications due to potential cost issues, but the therapist clarified that insurance companies cannot make such decisions. The client expressed reluctance to make more phone calls and expressed a desire to hire someone to handle the process for them. The therapist encouraged the client to confront the necessary tasks and offered reassurance that they were capable of completing them.
+In this therapy session, the client expressed feelings of guilt and frustration over their parents' financial support for their prescriptions and health insurance. The client had suicidal thoughts due to feeling like a burden and not being able to contribute to society or support themselves financially. The therapist acknowledged the client's feelings and encouraged them to focus on managing their immediate needs, such as refilling their prescriptions and exploring options for reducing costs, like obtaining birth control from Planned Parenthood. The therapist also emphasized the importance of prioritizing the client's health and well-being over cost concerns. The session ended with scheduling follow-up appointments for the following week.
+
+ REFINED CCD: description + report
+{
+  "history": "The client is a 28-year-old student who recently returned from Egypt and is now managing bills, finances, and health insurance independently for the first time. Previously, they relied on their parents for support, while their brother continues to be financially dependent on their parents. This transition marks a significant shift in responsibility and may contribute to increased stress and self-doubt, as suggested by the report's emphasis on the client's adjustment to independence and comparison with their brother.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake with my finances, it means I'm not capable and I will fail at being independent. I have to prove I can manage on my own, otherwise I'm falling behind. If I can't handle this, it shows I'm not as competent as I should be.",
+  "intermediate_belief_depression": "If I can't manage these responsibilities, it means I'll never be able to take care of myself and things will just get worse. There's no point in trying because I'll always fall short.",
+  "coping_strategies": [
+    "The client tends to avoid or procrastinate on financial tasks when feeling overwhelmed, as indicated by the report's mention of avoidance and rumination. They may also seek reassurance from parents or peers about their financial decisions, and engage in repetitive thinking about potential financial problems."
+  ],
+  "situation": "Received an insurance claim with an unexpected balance.",
+  "auto_thought": "I can't handle this on my own—I'm going to mess this up and end up in trouble.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "worried",
+    "stressed",
+    "uncertain"
+  ],
+  "behavior": "I put off looking at the details of the claim and avoid dealing with it right away. I ask my parents or friends what I should do. I keep thinking about what could go wrong."
+}

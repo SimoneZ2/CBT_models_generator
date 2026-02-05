@@ -1,0 +1,28 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recent divorce and financial difficulties. Relationship since age 19. Has a young son and is settling child support issues. Adjusting to being alone and handling new experiences (e.g., traveling alone with her son, visiting family without a partner).",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must handle everything on my own.",
+  "intermediate_belief_depression": "I can't manage these challenges alone.",
+  "coping_strategies": "Avoidance of conflict, seeking reassurance from family.",
+  "situation": "Received an email from the ex-partner refusing to agree on child support and financial arrangements.",
+  "auto_thought": "I can't believe I'm stuck dealing with this alone.",
+  "emotion": [
+    "Frustration",
+    "Anxiety",
+    "Sadness"
+  ],
+  "behavior": "Avoids confrontation, feels overwhelmed and seeks support from family."
+}

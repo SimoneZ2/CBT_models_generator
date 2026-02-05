@@ -1,0 +1,85 @@
+Using description: HISTORY:
+- Close involvement with friends facing significant challenges, including a friend seeking tenure and parenting an autistic child.
+
+SITUATION:
+- Considering visiting a friend with complex living and parenting demands. with ID=46-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.575 | title='Verilogue session: Client needs help making some life decisions' | file='1002565909.txt'
+  - sim=0.574 | title='Session 28: Client has gotten a new job and must deal with the goodbyes and anxi' | file='1000332487.txt'
+  - sim=0.549 | title='Patient "R" Session March 23, 2012: Client finds that she has less patience than' | file='1004528631.txt'
+  - sim=0.548 | title='Patient "C" Therapy Session Audio Recording, January 2, 2012: Client talks about' | file='1004472420.txt'
+  - sim=0.538 | title='Patient "J", Session February 17, 2012: Client is frustrated that he is still st' | file='1004503122.txt'
+  - sim=0.538 | title='Session 8: Client tells how he used to become depressed and not be able to get o' | file='1000088076.txt'
+  - sim=0.537 | title='Patient "M" Therapy Session Audio Recording, May 02, 2012: Client is concerned a' | file='1004565013.txt'
+  - sim=0.536 | title='Patient "M", Session May 15, 2012: Client's energy level has been lower than usu' | file='1004564973.txt'
+  - sim=0.527 | title='Patient "Ma", Session August 06, 2012: Client has applied for a new job and seem' | file='1004687744.txt'
+  - sim=0.526 | title='Session 30: Client discusses his worries for his young daughter who is experienc' | file='1000013424.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=4 partial_match=6
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.548 | file='1004472420.txt' | title='Patient "C" Therapy Session Audio Recording, January 2, 2012: Client talks about'
+  - sim=0.538 | file='1004503122.txt' | title='Patient "J", Session February 17, 2012: Client is frustrated that he is still st'
+  - sim=0.538 | file='1000088076.txt' | title='Session 8: Client tells how he used to become depressed and not be able to get o'
+Using top selected file for transcript: '1004472420.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is closely involved with friends who are experiencing significant life challenges, including a friend seeking tenure and another friend parenting an autistic child. The patient is currently considering visiting a friend who has complex living and parenting demands.
+
+**Emotional Impact:**
+The patient is likely experiencing a range of emotions due to their involvement with friends facing significant challenges. The patient may feel anxious and worried about their friends' situations, particularly the friend seeking tenure, which can be a high-pressure and uncertain process. Similarly, the demands of parenting an autistic child can evoke feelings of concern and empathy. The consideration of visiting a friend with complex demands may also evoke feelings of apprehension or stress, as the patient may be unsure of how to provide support effectively.
+
+**Cognitive Patterns:**
+The patient may engage in cognitive patterns such as rumination or overthinking, particularly about how best to support their friends. The pressure to be a supportive friend could lead to self-doubt or questioning their ability to help, potentially resulting in feelings of inadequacy. The patient might also experience cognitive dissonance, balancing their desire to help with the fear of being overwhelmed by their friends' challenges.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive patterns, the patient might exhibit behaviors such as seeking reassurance from others about their role as a supportive friend. They may also procrastinate or avoid making decisions about visiting their friend with complex demands, due to uncertainty about how to handle the situation. Alternatively, the patient might engage in behaviors aimed at distraction, such as scrolling social media or engaging in other activities to temporarily alleviate stress.
+
+**Coping Styles:**
+The patient may rely on coping mechanisms such as seeking support from other friends or family members to navigate their feelings about their friends' challenges. They might also use problem-solving strategies to plan how to support their friends effectively, though this could be hindered by overthinking or anxiety. The patient might benefit from developing more adaptive coping strategies, such as setting boundaries to manage their involvement in their friends' challenges without becoming overwhelmed.
+
+**Psychological Interpretation:**
+Drawing from the transcript, individuals in similar situations often experience a tug-of-war between wanting to help and feeling overwhelmed by the demands placed on them. The patient might feel a sense of loyalty and obligation to their friends, similar to the loyalty issues discussed in the transcript. This could lead to internal conflict if they perceive themselves as failing to meet these obligations. The transcript also highlights the importance of processing emotions and reactions, which could be beneficial for the patient in understanding and managing their feelings about their friends' situations.
+
+**Conclusion:**
+The patient's involvement with friends facing significant challenges likely impacts their emotional, cognitive, and behavioral functioning. By recognizing these patterns and developing adaptive coping strategies, the patient can better manage their role as a supportive friend while maintaining their own well-being. Cognitive Behavioral Therapy techniques, such as cognitive restructuring and problem-solving, may be particularly useful in helping the patient navigate these complex dynamics.
+Summary da mistral_.csv: The client discussed their holiday experiences, which were generally positive, but they also shared that their grandmother, who is in the hospital, has been a source of negativity in their life. The client expressed indifference towards her and felt no desire to visit her, despite their only other grandparent being deceased. The client shared that their grandmother had criticized them and their siblings for being overweight and had shown little interest in their lives when they were younger. The client felt frustrated that she was now trying to take an interest in their lives, but they had a negative emotional attachment towards her due to past experiences. The client also discussed their anxiety and frustration regarding an upcoming test, which they needed to pass to receive credit for their master's degree. They mentioned feeling anxious and pressured, and having difficulty focusing and preparing for the test. The client also mentioned their past substance abuse issues and their current use of marijuana, which they were trying to reduce. They expressed frustration with their anxiety and in
+The client describes a pattern of explosive anger towards his girlfriend, particularly when she discusses her work. He attributes this behavior to loyalty issues and a tendency to react negatively when people or groups turn their backs on him. The client's mother and other family members also have a history of explosive tempers. The client's mother's family is characterized by constant complaining and negativity, in contrast to his grandmother who was very loving and positive. The client acknowledges the negative impact of this environment on him and expresses a desire to create a more positive family dynamic for his future children. The client also discusses his father's absence during his childhood and his mother's reluctance to drive him to activities, which contributed to feelings of neglect.
+The client shares memories of annual family vacations to a ranch in New Hampshire, where they would stay for a week with extended family. They recall feeling frustrated when they had to leave the vacation to attend baseball games, as they felt an obligation to their team and their father. The client also discusses their history of being overweight and feeling left out when their father favored their younger brother in sports. They mention their popularity and large social circle, as well as their fear of adult responsibilities and indecisiveness due to conflicting opinions from family members. The therapist suggests exploring what the client might need to embrace a more adult life.
+In this session chunk, the client expressed a need for support but felt it was not being met. The therapist provided information about upcoming absences and offered alternative appointment dates. The client confirmed upcoming absences and made arrangements for rescheduling. The session concluded with the therapist confirming the next appointment time and the client expressing gratitude.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a pattern of close involvement with friends who are experiencing significant life challenges, such as a friend seeking tenure and another parenting an autistic child. This ongoing exposure to others' high-pressure situations appears to evoke concern and empathy, as well as a sense of responsibility to provide support. The client may have developed a tendency to ruminate or overthink about how to help, which can lead to self-doubt and internal conflict about their role as a supportive friend.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I can't figure out how to support my friends when their lives are complicated, then I'm failing as a friend and they might see me as unreliable. I need to always be available and helpful, or else I'm not a good friend. It's my responsibility to meet their needs, even if it's overwhelming.",
+  "intermediate_belief_depression": "If I can't help my friends with their complex problems, it means I'm useless and nothing I do matters. No matter how hard I try, I won't be able to make a difference, so there's no point in trying.",
+  "coping_strategies": [
+    "The client tends to ruminate and overthink about how to support friends, sometimes leading to avoidance or procrastination about making decisions, such as whether to visit. They may seek reassurance from others about their role as a friend, or distract themselves with unrelated activities to temporarily reduce stress."
+  ],
+  "situation": "Considering visiting a friend with complex living and parenting demands.",
+  "auto_thought": "If I visit, I might not know how to help or make things better. I'll probably just end up feeling overwhelmed and like I'm letting them down.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "apprehensive",
+    "inadequate",
+    "overwhelmed"
+  ],
+  "behavior": "I hesitate to make plans or delay reaching out to confirm the visit. I might ask others for advice or reassurance about what to do. Sometimes I distract myself with other activities instead of deciding."
+}

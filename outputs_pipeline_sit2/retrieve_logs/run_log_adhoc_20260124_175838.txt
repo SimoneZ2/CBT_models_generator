@@ -1,0 +1,104 @@
+Using description: HISTORY:
+- Difficult family discussion with mother about the family not openly discussing emotional distress.
+- Father avoids talk therapy and has recurring dreams related to his brother's suicide.
+- The patient reports ongoing struggles related to separation and suffering.
+
+SITUATION:
+- Talking with Jeremy about feelings of disconnection and detachment. with ID=35-2
+Top results (by metadata similarity):
+  - sim=0.804 | title='Session 10: Client discusses how she feels empathy and understanding towards sui' | file='1000013261.txt'
+  - sim=0.800 | title='Session 9: Client discusses her relationship with her boyfriend. She talks about' | file='1000013078.txt'
+  - sim=0.795 | title='Session 12: Client does not know what she is doing in therapy. She really does n' | file='1000013263.txt'
+  - sim=0.794 | title='Session 3: Client discusses her family relationships and friendships. Counselor ' | file='1000056546.txt'
+  - sim=0.792 | title='Session 13: Client and counselor discuss reasons why client has not been showing' | file='1000013264.txt'
+  - sim=0.777 | title='Patient "Ma", Session October 25, 2012: Client recently had a very intense day f' | file='1004824697.txt'
+  - sim=0.770 | title='Verilogue session: Client does not know what is wrong with him. He sleeps most o' | file='1002565924.txt'
+  - sim=0.768 | title='Patient "Ma", Session September 27, 2012: Client feels both sedated and panic, p' | file='1004798809.txt'
+  - sim=0.760 | title='Verilogue session: Client worries that she is a bad person. She feels guilty tha' | file='1003009287.txt'
+  - sim=0.760 | title='Verilogue session: Client is struggling with depression and being a single paren' | file='1003075045.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.804 | file='1000013261.txt' | title='Session 10: Client discusses how she feels empathy and understanding towards sui'
+  - sim=0.800 | file='1000013078.txt' | title='Session 9: Client discusses her relationship with her boyfriend. She talks about'
+  - sim=0.795 | file='1000013263.txt' | title='Session 12: Client does not know what she is doing in therapy. She really does n'
+Using top selected file for transcript: '1000013261.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is experiencing significant emotional distress related to family dynamics and personal relationships. The primary issues revolve around difficulties in family communication, particularly concerning emotional expression, and feelings of disconnection in personal relationships.
+
+**History and Presenting Concerns:**
+The patient has had a challenging discussion with their mother about the family's tendency to avoid discussing emotional distress. This conversation likely highlights a long-standing family pattern of emotional suppression, which may contribute to the patient's current struggles. The patient's father avoids talk therapy and experiences recurring dreams related to his brother's suicide, suggesting unresolved grief and avoidance of emotional processing within the family. The patient reports ongoing struggles with separation and suffering, indicating a potential difficulty in processing and coping with loss or change.
+
+**Current Situation:**
+The patient has expressed feelings of disconnection and detachment during conversations with Jeremy. This suggests a struggle with forming or maintaining emotional connections, possibly rooted in the family's avoidance of emotional discussions.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions, including:
+- **Anxiety and Tension:** Due to the family's avoidance of emotional topics and the father's unresolved grief, the patient may feel anxious about expressing emotions or addressing difficult topics.
+- **Sadness and Loneliness:** The ongoing struggles with separation and suffering may lead to feelings of sadness and loneliness, particularly if the patient feels unsupported or misunderstood by family members.
+- **Frustration and Disappointment:** The difficult conversation with the mother and the father's avoidance of therapy may lead to frustration and disappointment, as the patient may feel that their emotional needs are not being met.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive patterns such as:
+- **Ruminative Thinking:** The focus on separation and suffering suggests a tendency to ruminate on past events or losses, which can exacerbate feelings of distress.
+- **Negative Self-Perception:** The family's avoidance of emotional discussions may contribute to a negative self-perception, where the patient feels their emotions are invalid or burdensome.
+- **Fear of Rejection:** The feelings of disconnection with Jeremy may stem from a fear of rejection or abandonment, possibly linked to the family's emotional dynamics.
+
+**Behavioral Responses:**
+The patient may engage in behaviors such as:
+- **Avoidance:** Similar to the father's avoidance of therapy, the patient may avoid discussing emotions or seeking support, leading to further isolation.
+- **Seeking Reassurance:** The conversation with Jeremy about disconnection may indicate a need for reassurance and validation from others.
+- **Withdrawal:** The patient may withdraw from social interactions or emotional discussions, mirroring the family's pattern of emotional avoidance.
+
+**Coping Styles:**
+The patient may rely on coping styles such as:
+- **Suppression of Emotions:** The family's avoidance of emotional discussions may lead the patient to suppress their own emotions, resulting in increased internal distress.
+- **Seeking External Validation:** The patient may seek validation from others, such as Jeremy, to compensate for the lack of emotional support within the family.
+- **Intellectualization:** The patient may intellectualize their emotions, focusing on logical explanations rather than addressing the underlying emotional experiences.
+
+**Conclusion:**
+The patient's emotional distress appears to be significantly influenced by family dynamics and patterns of emotional avoidance. The feelings of disconnection and detachment in personal relationships may be a reflection of these unresolved family issues. Addressing these patterns through cognitive-behavioral strategies, such as challenging negative thoughts and developing healthier emotional expression, may help the patient improve their emotional well-being and interpersonal relationships.
+Summary da mistral_.csv: In this therapy session, the patient discussed feeling good after a productive conversation with their boyfriend about their emotions and decisions. They mentioned the relief of no longer feeling the need to hide their feelings from him. The patient also shared an encounter with a clinical psychologist who labeled someone as neuropsychotic, which made them question their own reality and sanity. The patient expressed feeling close to their boyfriend and productive in their work, but struggled with identifying with a suicidal individual during a case presentation, causing them to question their own sanity.
+The patient describes experiencing intense, overwhelming feelings that they cannot express to others, including suicidal thoughts and feelings of guilt and shame. They share an experience of wanting to use an ax to harm themselves during a camping trip but were unable to communicate their feelings to their boyfriend. The patient expresses the difficulty of dealing with these feelings both in the moment and in retrospect, as well as the fear of others' reactions and the burden of keeping their feelings hidden. They discuss the impact of their mother and father's reactions to their suicide attempt, with their father's concern causing the patient to feel responsible for reassuring him and maintaining a certain image. The patient also shares their concern for their father's well-being and feeling of being a burden on him, despite wanting to help him.
+The patient expresses feelings of guilt towards their mother, feeling she is responsible for their negative behaviors, while they feel alienated and misunderstood by their father. They desire to help their father but feel ashamed of their actions and unable to work out their feelings. The patient acknowledges the persistence of these feelings despite attempts to move past them and expresses a need to understand the root causes. They question the foundation of their current experiences and feel that there is a lack of substance in their actions. The patient perceives their experiences as isolated and disconnected, with no clear beginning, middle, or end. They compare their experiences to people in capsules, unrelated to one another and to their future.
+
+ REFINED CCD: description + report
+{
+  "history": "The patient reports a difficult family discussion with their mother about the family's avoidance of discussing emotional distress, highlighting a long-standing pattern of emotional suppression. The father avoids talk therapy and has recurring dreams related to his brother's suicide, suggesting unresolved grief and avoidance of emotional processing within the family. The patient experiences ongoing struggles with separation and suffering, indicating difficulty coping with loss or change. These patterns have likely contributed to the patient's current emotional distress and difficulties in forming or maintaining emotional connections.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I try to talk about my feelings, others will avoid me or shut down, so it's safer to keep my emotions to myself. If I show how disconnected I feel, people will think I'm too much or a burden. I have to manage my feelings alone because others can't handle them.",
+  "intermediate_belief_depression": "If I keep feeling this disconnected and no one understands me, nothing will ever change and I'll always feel alone. Trying to reach out won't make a difference, so there's no point in hoping for support.",
+  "coping_strategies": [
+    "The patient tends to suppress or avoid expressing emotions, especially in conversations about emotional distress, mirroring family patterns. They may withdraw or become detached in relationships, and seek reassurance or validation from others like Jeremy, but often feel unsatisfied or unsupported. There is a tendency to ruminate on feelings of separation and suffering, which maintains their distress."
+  ],
+  "situation": "Talking with Jeremy about feelings of disconnection and detachment.",
+  "auto_thought": "I'm trying to explain how I feel, but he doesn't really get it. No matter what I say, I end up feeling even more alone.",
+  "emotion": [
+    "sad",
+    "lonely",
+    "anxious",
+    "disappointed",
+    "frustrated"
+  ],
+  "behavior": "I become quieter and withdraw from the conversation. I stop sharing my feelings and may change the subject or end the discussion. I might later ruminate about the interaction and feel more isolated."
+}

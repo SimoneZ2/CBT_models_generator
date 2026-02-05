@@ -1,0 +1,29 @@
+{
+  "name": "Patient 46",
+  "id": "46",
+  "type": [
+    "caretaker burnout",
+    "boundary issues"
+  ],
+  "history": "Forms close relationships with friends experiencing significant stressors. Friend dealing with academic pressures and parenting autistic child.",
+  "helpless_belief": [
+    "I am responsible for fixing everyone's problems"
+  ],
+  "unlovable_belief": [
+    "I am only valued as a supporter"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't help, I'm a bad friend.",
+  "intermediate_belief_depression": "My own needs are less important than others' crises.",
+  "coping_strategies": [
+    "Overextension, neglecting own needs, resentment."
+  ],
+  "situation": "Multiple friends distressed simultaneously; patient involved in supporting them.",
+  "auto_thought": "\"I'm spread too thin. I'm failing everyone. I should be doing more.\"",
+  "emotion": [
+    "overwhelm",
+    "guilt",
+    "exhaustion"
+  ],
+  "behavior": "Tries to help all friends simultaneously, cancels own plans, becomes irritable then apologetic."
+}

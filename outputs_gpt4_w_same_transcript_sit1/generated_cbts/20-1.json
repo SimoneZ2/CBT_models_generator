@@ -1,0 +1,26 @@
+{
+  "name": "Case Study Example",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Multiple past jobs involved micromanagement. Reports self-blame in work contexts.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake, it proves I am not capable.",
+  "intermediate_belief_depression": "I can't handle work stress, and it will lead to failure.",
+  "coping_strategies": "Avoidance of tasks and procrastination due to fear of making mistakes.",
+  "situation": "Being blamed at work for spreadsheet errors that were not theirs.",
+  "auto_thought": "I should have caught the mistake; now everyone thinks I'm incompetent.",
+  "emotion": [
+    "Frustration",
+    "Helplessness",
+    "Anxiety"
+  ],
+  "behavior": "Avoidance of taking on new tasks and reluctance to speak up in meetings."
+}

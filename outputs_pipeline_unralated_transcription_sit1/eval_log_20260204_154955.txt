@@ -1,0 +1,335 @@
+2026-02-04 15:49:55,154 | INFO | [RESUME] Found 0 already-evaluated source_id in outputs_pipeline_unralated_transcription_sit1\compare_results.jsonl
+2026-02-04 15:50:48,149 | INFO | 
+========================================
+2026-02-04 15:50:48,150 | INFO | [DONE] 1-1 | saved=outputs_pipeline_unralated_transcription_sit1\generated_cbts\1-1.json
+2026-02-04 15:50:48,151 | INFO | Scores:
+2026-02-04 15:50:48,151 | INFO |   embeddings_cosine: 0.6070438623428345
+2026-02-04 15:50:48,152 | INFO |   crossencoder_sts:  0.5666821300983429
+2026-02-04 15:50:48,152 | INFO |   nli_entailment:    0.19613613937044933
+2026-02-04 15:50:48,152 | INFO |   nli_contradiction: 0.0009000000000000001
+2026-02-04 15:50:48,152 | INFO |   fine_jaccard:      0.375
+2026-02-04 15:50:48,152 | INFO |   major_jaccard:     1.0
+2026-02-04 15:51:15,011 | INFO | 
+========================================
+2026-02-04 15:51:15,011 | INFO | [DONE] 2-1 | saved=outputs_pipeline_unralated_transcription_sit1\generated_cbts\2-1.json
+2026-02-04 15:51:15,011 | INFO | Scores:
+2026-02-04 15:51:15,011 | INFO |   embeddings_cosine: 0.3820484340190887
+2026-02-04 15:51:15,011 | INFO |   crossencoder_sts:  0.26750303655862806
+2026-02-04 15:51:15,011 | INFO |   nli_entailment:    0.003157067452812079
+2026-02-04 15:51:15,011 | INFO |   nli_contradiction: 0.19429999999999997
+2026-02-04 15:51:15,011 | INFO |   fine_jaccard:      0.4
+2026-02-04 15:51:15,011 | INFO |   major_jaccard:     1.0
+2026-02-04 15:51:44,274 | INFO | 
+========================================
+2026-02-04 15:51:44,274 | INFO | [DONE] 3-1 | saved=outputs_pipeline_unralated_transcription_sit1\generated_cbts\3-1.json
+2026-02-04 15:51:44,274 | INFO | Scores:
+2026-02-04 15:51:44,274 | INFO |   embeddings_cosine: 0.45447127521038055
+2026-02-04 15:51:44,274 | INFO |   crossencoder_sts:  0.43232578635215757
+2026-02-04 15:51:44,277 | INFO |   nli_entailment:    0.008315252735070094
+2026-02-04 15:51:44,277 | INFO |   nli_contradiction: 0.09440000000000001
+2026-02-04 15:51:44,278 | INFO |   fine_jaccard:      0.2857142857142857
+2026-02-04 15:51:44,278 | INFO |   major_jaccard:     1.0
+2026-02-04 15:51:44,278 | INFO | 
+Completed. Processed 3 vignette(s).
+2026-02-04 15:51:44,278 | INFO | Generated CBTs in: outputs_pipeline_unralated_transcription_sit1\generated_cbts
+2026-02-04 15:51:44,278 | INFO | Compare results JSONL: outputs_pipeline_unralated_transcription_sit1\compare_results.jsonl
+2026-02-04 15:51:44,278 | INFO | [TOTAL] records existing=0 new=3 total=3
+2026-02-04 15:51:44,282 | INFO | 
+=== FINAL MEANS ===
+2026-02-04 15:51:44,282 | INFO | {
+  "n": 3,
+  "means": {
+    "embeddings_cosine": 0.48118785719076795,
+    "crossencoder_sts": 0.4221703176697095,
+    "nli_entailment_overall": 0.06920281985277717,
+    "nli_contradiction_overall": 0.09653333333333332
+  },
+  "counts": {
+    "embeddings_cosine": 3,
+    "crossencoder_sts": 3,
+    "nli_entailment_overall": 3,
+    "nli_contradiction_overall": 3
+  },
+  "core_beliefs_fine": {
+    "n": 3,
+    "micro": {
+      "precision": 0.45,
+      "recall": 0.6428571428571429,
+      "f1": 0.5294117647058824
+    },
+    "macro": {
+      "f1": 0.21929824561403505
+    },
+    "subset_accuracy": 0.0,
+    "jaccard_mean": 0.3535714285714286,
+    "unknown_pred_total": 0,
+    "label_space_size": 19,
+    "per_label": {
+      "I am a failure, loser": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "I am a victim": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am bad - dangerous, toxic, evil": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am bound to be abandoned": {
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6666666666666666,
+        "support": 1
+      },
+      "I am bound to be alone": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "I am bound to be rejected": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am defective": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am helpless": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "support": 1
+      },
+      "I am immoral": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am incompetent": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "I am needy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am out of control": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "support": 1
+      },
+      "I am powerless, weak, vulnerable": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "support": 1
+      },
+      "I am trapped": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 3
+      },
+      "I am unattractive": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am undesirable, unwanted": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 2
+      },
+      "I am unlovable": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 2
+      },
+      "I am worthless, waste": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I don't deserve to live": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      }
+    }
+  },
+  "core_beliefs_major": {
+    "n": 3,
+    "micro": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "subset_accuracy": 1.0,
+    "jaccard_mean": 1.0,
+    "label_space_size": 3
+  },
+  "resume": {
+    "existing": 0,
+    "new": 3,
+    "total": 3
+  }
+}
+2026-02-04 15:51:44,283 | INFO | 
+Saved final means to: outputs_pipeline_unralated_transcription_sit1\final_means.json
+2026-02-04 15:51:44,283 | INFO | 
+=== CORE BELIEFS (fine-grained) METRICS ===
+2026-02-04 15:51:44,283 | INFO | {
+  "n": 3,
+  "micro": {
+    "precision": 0.45,
+    "recall": 0.6428571428571429,
+    "f1": 0.5294117647058824
+  },
+  "macro": {
+    "f1": 0.21929824561403505
+  },
+  "subset_accuracy": 0.0,
+  "jaccard_mean": 0.3535714285714286,
+  "unknown_pred_total": 0,
+  "label_space_size": 19,
+  "per_label": {
+    "I am a failure, loser": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "I am a victim": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am bad - dangerous, toxic, evil": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am bound to be abandoned": {
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "support": 1
+    },
+    "I am bound to be alone": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "I am bound to be rejected": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am defective": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am helpless": {
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1": 0.5,
+      "support": 1
+    },
+    "I am immoral": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am incompetent": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "I am needy": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am out of control": {
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1": 0.5,
+      "support": 1
+    },
+    "I am powerless, weak, vulnerable": {
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1": 0.5,
+      "support": 1
+    },
+    "I am trapped": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 3
+    },
+    "I am unattractive": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am undesirable, unwanted": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2
+    },
+    "I am unlovable": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 2
+    },
+    "I am worthless, waste": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I don't deserve to live": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    }
+  }
+}

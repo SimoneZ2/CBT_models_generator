@@ -1,0 +1,30 @@
+{
+  "name": "Case Study Example",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recent family tension related to a conversation with parents about a wedding list. The patient noticed similarities between their own actions and their father's patterns. The father is described as repeatedly seeking approval and unconditional love from family members.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must prove my worth to be accepted.",
+  "intermediate_belief_depression": "If I can't meet expectations, I am a failure.",
+  "coping_strategies": "Defensive behavior and seeking validation from others.",
+  "situation": "Disagreement with parents regarding the guest list for an upcoming event.",
+  "auto_thought": "If I don't assert myself, I will be overlooked and rejected.",
+  "emotion": [
+    "Anxiety",
+    "Frustration",
+    "Insecurity"
+  ],
+  "behavior": "Becomes defensive and argumentative in discussions."
+}

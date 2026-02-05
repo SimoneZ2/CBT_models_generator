@@ -1,0 +1,26 @@
+{
+  "name": "Patient",
+  "id": "12345",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Death of a close aunt whom the patient considered a mother figure. The patient did not fulfill the aunt's last request and was not present at the time of death. Pattern of prioritizing others' needs over their own.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must take care of others to be valued.",
+  "intermediate_belief_depression": "If I don't meet others' needs, I am failing.",
+  "coping_strategies": "Prioritizing others' needs over personal desires.",
+  "situation": "On the way to watch a movie, received a call from a friend seeking emotional support. Chose to give up the movie and talked with the friend for about an hour.",
+  "auto_thought": "I can't let them down; they need me.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Gave up personal plans to support a friend."
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Patient 18",
+  "id": "18",
+  "type": [
+    "academic underachievement",
+    "family pressure"
+  ],
+  "history": "Academic underperformance despite intelligence. Attended college, felt isolated and dropped out. Two years of credits remain. Mother has high expectations. Financial difficulties.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I'll never finish my degree and will disappoint everyone.",
+  "intermediate_belief_depression": "I'm a permanent failure compared to my sister.",
+  "coping_strategies": [
+    "Procrastination, comparison to sibling, scheduling attempts."
+  ],
+  "situation": "Experienced unproductive week due to scheduling problems. Comparing self to sister's achievements.",
+  "auto_thought": "My sister manages her life perfectly while I can't even schedule a productive week.",
+  "emotion": [
+    "shame",
+    "inadequacy",
+    "defeat"
+  ],
+  "behavior": "Have unproductive week while comparing self to sister."
+}

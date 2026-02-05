@@ -1,0 +1,88 @@
+Using description: HISTORY:
+- History of conflict with a dismissive and unsupportive father, leading to estrangement.
+- Ongoing conflict involving the partner's family, including a person named Candace.
+- Planned family vacation to Maine.
+
+SITUATION:
+- Preparing for a family vacation in Maine where Candace will be present. with ID=21-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.511 | title='Patient "M" Session June 19, 2012: Client talks about a letter he wants to prese' | file='1004600940.txt'
+  - sim=0.500 | title='Culture Sensitive Family Therapy: This transcript is an initial therapy session ' | file='1001115129.txt'
+  - sim=0.495 | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father ' | file='1004472411.txt'
+  - sim=0.493 | title='Patient "S" Session March 13, 2012: Client recently had a frustrating conversati' | file='1004522836.txt'
+  - sim=0.483 | title='Patient "M", Session October 16, 2012: Client is fed up with her in-laws' behavi' | file='1004798863.txt'
+  - sim=0.473 | title='Patient "C" Therapy Session Audio Recording, January 2, 2012: Client talks about' | file='1004472420.txt'
+  - sim=0.459 | title='Patient "A" Therapy Session Audio Recording, December 13, 2011: Client talks abo' | file='1004472410.txt'
+  - sim=0.454 | title='Patient "M" Therapy Session Audio Recording, March 07, 2012: Client talks about ' | file='1004513666.txt'
+  - sim=0.453 | title='Patient "A" Therapy Session Audio Recording, December 27, 2011: Client discusses' | file='1004472416.txt'
+  - sim=0.451 | title='Patient "M" Therapy Session Audio Recording, May 30, 2012: She has been very anx' | file='1004565031.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.511 | file='1004600940.txt' | title='Patient "M" Session June 19, 2012: Client talks about a letter he wants to prese'
+  - sim=0.500 | file='1001115129.txt' | title='Culture Sensitive Family Therapy: This transcript is an initial therapy session '
+  - sim=0.495 | file='1004472411.txt' | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father '
+Using top selected file for transcript: '1004600940.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of conflict with a dismissive and unsupportive father, leading to estrangement. Additionally, there is ongoing conflict involving the partner's family, particularly with a person named Candace. The patient is currently preparing for a family vacation in Maine, where Candace will be present.
+
+**Emotional Impact:**
+The patient's history of conflict with their father likely contributes to feelings of being unsupported and dismissed, which may manifest as feelings of sadness, loneliness, and perhaps anger. The estrangement from the father might also lead to feelings of loss or abandonment. The ongoing conflict with the partner's family, especially involving Candace, may evoke feelings of anxiety, tension, and frustration, particularly as the patient anticipates the upcoming family vacation where Candace will be present.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive patterns characterized by negative automatic thoughts related to self-worth and interpersonal relationships. Given the history of conflict with the father, the patient might have internalized beliefs about being unworthy of support or love, potentially leading to self-critical thoughts. The anticipation of the family vacation could trigger ruminative thinking about potential conflicts or negative interactions with Candace, reinforcing feelings of anxiety and apprehension.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive patterns, the patient might engage in behaviors such as avoidance or withdrawal from family interactions to minimize conflict or emotional distress. The patient may also engage in reassurance-seeking behaviors from their partner or other family members to alleviate anxiety about the upcoming vacation. Additionally, the patient might procrastinate or delay preparations for the trip as a way to cope with the anticipated stress.
+
+**Coping Styles:**
+The patient may rely on avoidance as a primary coping mechanism, both in dealing with the estrangement from the father and the conflict with Candace. This avoidance might manifest as reluctance to engage in direct communication or confrontation, preferring instead to maintain distance. The patient might also use distraction techniques, such as focusing on logistical aspects of the vacation, to manage anxiety about interpersonal dynamics.
+
+**Therapeutic Considerations:**
+In therapy, it would be beneficial to explore the patient's underlying beliefs about self-worth and support, particularly in relation to the father's dismissive behavior. Cognitive restructuring techniques could help the patient challenge and modify negative automatic thoughts. Additionally, developing assertiveness skills and effective communication strategies could empower the patient to address conflicts with Candace more constructively. Encouraging the patient to identify and utilize adaptive coping strategies, such as problem-solving and seeking social support, may also enhance their ability to manage stress related to the family vacation.
+
+**Conclusion:**
+The patient's history of familial conflict and current interpersonal challenges likely contribute to a complex emotional and cognitive landscape. By addressing these issues in therapy, the patient can work towards developing healthier thought patterns, emotional regulation skills, and more effective coping mechanisms to navigate their relationships and life circumstances.
+Summary da mistral_.csv: The client discussed their upcoming trip to visit their father and the decision to send a letter addressing past issues between them. They expressed uncertainty about the potential outcome of the conversation and their own emotional response. The therapist encouraged the client to consider the best-case and worst-case scenarios and the importance of addressing the past to move forward. The client acknowledged the difficulty of confronting the issue but recognized the need to do so for the sake of their marriage and personal growth. They also reflected on their father's past behavior and the impact it had on their upbringing.
+The client reflects on the impact of their father's past actions on their own life and the family system. They express anger towards their father for not acknowledging the long-term effects of his actions and ask for an apology. The therapist clarifies that the client is not asking for an apology for the initial screw-up but for acknowledgment of the impact on the client's reality. The client also discusses the difficulty in acknowledging the good qualities instilled in them by their father despite their anger. They also discuss the complexity of memories and how they are constructed and framed differently by individuals. The client expresses empathy for their father's courage in facing the community after his transgression and acknowledges the importance of this realization in their own healing process.
+The client expresses anxiety about sending a significant message to their partner and meeting with them in person while traveling. They discuss the potential for a "bombshell" revelation and the need for the partner to process the information. The therapist suggests allowing for multiple conversations and encourages the client to consider the partner's perspective but emphasizes the importance of communicating their own feelings. The client mentions a past referral for couples therapy and inquires about the therapist's recommendation for a specific counselor. The therapist shares positive experiences with the recommended counselor and encourages the client to contact them for an appointment.
+
+ REFINED CCD: description + report
+{
+  "history": "The client reports a longstanding pattern of conflict with a dismissive and unsupportive father, resulting in estrangement and likely contributing to feelings of being unsupported and dismissed. There is also ongoing conflict with the partner's family, particularly involving Candace, which has led to heightened anxiety and tension. The anticipation of the family vacation in Maine, where Candace will be present, is a current stressor that evokes ruminative thinking and apprehension. The client tends to withdraw or avoid direct confrontation in these family contexts.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I try to assert myself or express my feelings, others will dismiss or reject me, so it's safer to keep my distance. I have to avoid conflict because it will only prove that I'm not valued or supported. If I let myself get close, I'll just end up feeling hurt and alone again.",
+  "intermediate_belief_depression": "No matter what I do, nothing will change—I'm always going to feel unsupported and alone in these family situations. Trying to engage or fix things is pointless because it always ends the same way.",
+  "coping_strategies": [
+    "The client tends to avoid or withdraw from family interactions to minimize conflict and emotional distress, especially when anticipating negative encounters. They may seek reassurance from their partner or focus on logistical details as a distraction from interpersonal anxiety. Procrastination or delaying preparations for the trip is also used to cope with anticipated stress."
+  ],
+  "situation": "Preparing for a family vacation in Maine where Candace will be present.",
+  "auto_thought": "This trip is going to be a disaster because Candace will make things tense. I can't handle another round of conflict—I'll just end up feeling alone and unsupported.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "apprehensive",
+    "sad",
+    "frustrated",
+    "lonely"
+  ],
+  "behavior": "I avoid talking to family members about the trip and keep my distance when planning. I seek reassurance from my partner about how things will go. I procrastinate on packing and making arrangements."
+}

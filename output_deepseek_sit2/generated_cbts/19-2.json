@@ -1,0 +1,32 @@
+{
+  "name": "Patient 19",
+  "id": "19",
+  "type": [
+    "job loss",
+    "relationship stress"
+  ],
+  "history": "Recurring relationship problems with husband Ivan. Work stress. Sister Emma is supportive. Father's career success influences expectations. Recently laid off.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "Losing my job proves I'm not as capable as my father.",
+  "intermediate_belief_depression": "I'm failing at both work and marriage.",
+  "coping_strategies": [
+    "Over-applying, self-criticism, comparing to father."
+  ],
+  "situation": "Received a job rejection email while searching for work.",
+  "auto_thought": "\"No one wants me. I'm not good enough. My father would be disappointed.\"",
+  "emotion": [
+    "shame",
+    "despair",
+    "inadequacy"
+  ],
+  "behavior": "Deletes email immediately, tells Ivan 'nothing yet,' spirals into negative self-talk."
+}

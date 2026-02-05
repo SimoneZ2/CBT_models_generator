@@ -1,0 +1,23 @@
+{
+  "name": "Patient X",
+  "id": "12345",
+  "type": [
+    "CBT"
+  ],
+  "history": "Recent shoulder surgery with a painful recovery process. Ongoing pain, numbness, and tingling related to a herniated cervical disc. Prior history of physical therapy for past walking difficulties and back issues. Past prolonged illness associated with a period of immobility. Started a new relationship and later experienced a return of physical symptoms.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be able to control my physical health to feel secure.",
+  "intermediate_belief_depression": "If I can't manage my health, I will be overwhelmed and unable to cope.",
+  "coping_strategies": "Avoidance of activities that might exacerbate physical symptoms, reliance on medical interventions.",
+  "situation": "Received an MRI report indicating a herniated disc. Contacted the therapist after receiving the report.",
+  "auto_thought": "I can't handle this pain and it's only going to get worse.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Seeking reassurance from medical professionals, limiting physical activity."
+}

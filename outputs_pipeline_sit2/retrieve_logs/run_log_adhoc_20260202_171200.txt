@@ -1,0 +1,75 @@
+Using description: HISTORY:
+- Master's degree in engineering and experience in robotics.
+- Past remorse related to not dedicating enough time to a project.
+
+SITUATION:
+- Sent an email to someone they are interested in dating and received no response. with ID=47-2
+Sample results (metadata similarity):
+  - sim=0.002 | title='Verilogue session: Client has been experiencing anxiety and some manic episodes' | file='1001084024.txt'
+  - sim=0.002 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.026 | title='Verilogue session: Client has been doing well but, he occasionally experiences a' | file='1001084076.txt'
+  - sim=0.027 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.028 | title='Verilogue session: Client has recently experienced some intense mood cycling; sh' | file='1003009209.txt'
+  - sim=0.028 | title='Verilogue session: Client suffers from paranoid-delusional thinking' | file='1001083956.txt'
+  - sim=0.029 | title='Verilogue session: Client is experiencing paranoia and suffering from a long tim' | file='1001084047.txt'
+  - sim=0.033 | title='Verilogue session: Client's insomnia seems to be causing mood swings' | file='1001280398.txt'
+  - sim=0.034 | title='Verilogue session: Client has been experiencing auditory hallucinations telling ' | file='1003009235.txt'
+  - sim=0.035 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2019 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.002 | file='1001084024.txt' | title='Verilogue session: Client has been experiencing anxiety and some manic episodes'
+  - sim=0.002 | file='1003075019.txt' | title='Verilogue session: Client has been experimenting with her medications to find th'
+  - sim=0.026 | file='1001084076.txt' | title='Verilogue session: Client has been doing well but, he occasionally experiences a'
+Using LEAST related file for transcript: '1001084024.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who holds a master's degree in engineering and has a background in robotics, is currently experiencing a heightened state of anxiety and restlessness. This is partly triggered by the anticipation of the upcoming school year and exacerbated by a recent personal situation where they sent an email to someone they are interested in dating but received no response. This lack of response seems to have intensified their feelings of uncertainty and worry. During the session, the client describes feeling "up all night" and "constantly going," which suggests a cycle of racing thoughts and insomnia. This pattern of behavior is reminiscent of past episodes where they felt similarly overwhelmed, indicating a possible recurrence of previous anxiety issues.
+
+The client reports engaging in activities late into the night, particularly on the computer, which they liken to an "addiction." This compulsive behavior appears to be a coping mechanism to manage their anxiety, yet it results in physical exhaustion during the day. Despite this, they avoid napping, fearing it will disrupt their nighttime sleep further. The client also mentions feeling more "agitated" than usual, which they attribute to their children getting older and possibly to the stress of not having had a summer break to recuperate. Instead, they spent over 250 hours working on a summer camp program for their school, which they feel has left them depleted and more anxious.
+
+Throughout the session, the client frequently returns to the theme of their racing thoughts, stating, "I've got so much in my head," which prevents them from sleeping even when they are in bed. This cognitive overload seems to contribute to their irritability and a sense of being overwhelmed. The client acknowledges that their current state is not as severe as it has been in the past, yet it is significant enough to cause concern. They express a fear of "pushing themselves too far," especially given their history of back pain and the need for cervical epidurals to manage it.
+
+The client's mood is further impacted by weight gain since the birth of their child three years ago, which they describe as "going in the wrong direction." This has affected their self-esteem and contributed to feelings of being "down." They express frustration over their inability to exercise due to back and neck problems, which has compounded their weight issues. The client admits to using food as a way to cope with anxiety, stating, "I don't have to be hungry but I will find" something to eat when upset.
+
+In discussing potential interventions, the client is hesitant about medication due to past experiences where they felt "like a zombie" on certain mood stabilizers. However, they are open to trying Lamictal, as it is described as weight-neutral and less sedating. The client is also considering using Xanax more frequently to manage acute anxiety episodes. Despite these challenges, the client remains hopeful that with the right support and adjustments, they can regain a sense of balance and control over their thoughts and emotions.
+Summary da mistral_.csv: The patient discussed experiencing anxiety, manic episodes, and racing thoughts, keeping them awake at night. They mentioned a history of anxiety related to school and back pain, which has worsened in recent weeks. The patient had previously tried various mood stabilizers, including Depakote, Neurontin, and Seroquel, but found Seroquel to be particularly sedating and weight-gaining. They currently average around five hours of sleep per night and have gained weight since having a baby three years ago. The patient mentioned feeling irritable and having trouble focusing. The doctor suggested trying Lamictal, a mood stabilizer that is weight neutral and has minimal side effects, and increasing the dosage of Xanax as needed. The doctor also mentioned the importance of getting enough sleep and suggested trying to relax before bed. The patient mentioned having gained around 35 pounds since having the baby and feeling down about it. The doctor noted that the patient's weight gain was likely
+The patient discusses their tendency to turn to food for comfort when experiencing negative emotions, such as sadness or anxiety. The doctor acknowledges this issue and suggests water exercises as an alternative to alleviate back pain and potentially help the patient focus more on their diet and exercise. The doctor also mentions that they have increased the patient's Xanax prescription and encourages them to continue taking Wellbutrin and begin samples for a new medication.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a master's degree in engineering and experience in robotics. They report a pattern of anxiety and restlessness, especially around transitions such as the upcoming school year. There is a history of overworking, as seen in dedicating over 250 hours to a summer camp program, leading to exhaustion and increased anxiety. The client describes racing thoughts, insomnia, and compulsive late-night computer use as coping mechanisms. They have experienced weight gain since the birth of their child, which has negatively impacted their self-esteem. The client expresses remorse about not dedicating enough time to a past project and frustration over physical limitations due to back and neck pain.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't get a response from someone I care about, it means I did something wrong or I'm not interesting enough. I must always be productive and attentive, or I will let people down. If I am not perfect or don't get validation, others will lose interest in me.",
+  "intermediate_belief_depression": "If people don't respond to me, it confirms that I'm not important and nothing I do will make a difference. When I fail to get the outcome I want, it means I'm destined to be alone or unsuccessful.",
+  "coping_strategies": [
+    "The client copes with distress by staying up late on the computer, which distracts from anxious thoughts but leads to exhaustion. They avoid napping to prevent further sleep disruption. The client also uses food to manage anxiety and considers using medication or Xanax for acute episodes, though they are hesitant due to past side effects."
+  ],
+  "situation": "Sent an email to someone they are interested in dating and received no response.",
+  "auto_thought": "They must not be interested in me. I probably said something wrong and now I've ruined my chance.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "rejected",
+    "self-doubt",
+    "down",
+    "restless"
+  ],
+  "behavior": "Stayed up late thinking about the lack of response. Checked email repeatedly. Avoided reaching out again out of fear of further rejection."
+}

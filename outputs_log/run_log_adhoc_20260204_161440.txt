@@ -1,0 +1,76 @@
+Using description: HISTORY:
+- Recurrent dreams during graduate school about being unprepared for a thesis defense.
+- Father described as having high expectations.
+
+SITUATION:
+- Experiencing a recurring dream in which coworkers talk negatively about the individual. with ID=42-1
+Sample results (metadata similarity):
+  - sim=0.069 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.101 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.143 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+  - sim=0.158 | title='Session 15: Client explains why she can make friendships with certain men but no' | file='1000133901.txt'
+  - sim=0.161 | title='Verilogue session: Client notices that some of her children display symptoms of ' | file='1003075051.txt'
+  - sim=0.162 | title='Session 4: Client does not understand why she cannot find someone to date her. S' | file='1000133886.txt'
+  - sim=0.166 | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c' | file='1001114245.txt'
+  - sim=0.168 | title='Session 14: Client suffers from sexual dysfunction, experiences of isolation in ' | file='1000088063.txt'
+  - sim=0.169 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.172 | title='Session 20: Client assumes it is her physical deformity that keeps men from find' | file='1000133913.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.069 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.101 | file='1000088127.txt' | title='Session 18: Client tells how he despises people in general.  He seems to feel un'
+  - sim=0.143 | file='1002565918.txt' | title='Verilogue session: Client is having problems falling asleep'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a graduate student with a history of recurrent dreams about being unprepared for a thesis defense, is currently experiencing a recurring dream where coworkers talk negatively about them. This dream seems to echo past anxieties related to high expectations, particularly those set by their father. During the session, the client discusses their recent experiences with teaching and learning mathematics, revealing a complex interplay of thoughts and emotions. They describe a sense of satisfaction in "teaching the material" and helping others understand, which contrasts with their earlier feelings of inadequacy when faced with new mathematical concepts. The client often feels "self-conscious" about their focus on math, questioning its relevance and necessity in their life, which may be linked to the high expectations they internalized from their father.
+
+Throughout the session, the client frequently returns to the theme of learning through teaching, noting that "the best way" to understand something is by explaining it to others. This approach seems to provide a sense of mastery and control, counteracting feelings of being overwhelmed by new material. They express a sense of accomplishment when they can "draw a picture" to simplify complex ideas, which not only aids their understanding but also enhances their teaching effectiveness. This method of visualization appears to be a coping strategy that helps the client manage their anxiety about not knowing or understanding immediately.
+
+The client's narrative also reveals a tension between their desire for conciseness in mathematical proofs and their natural inclination to be "very conversational." This struggle reflects a broader cognitive pattern of seeking clarity and precision while grappling with the fear of not meeting expectations. The client mentions feeling "infuriated" when they cannot immediately understand a problem, but they also recognize that this frustration is a necessary part of the learning process. This acknowledgment suggests a developing resilience and a shift towards a growth mindset.
+
+In discussing their dreams, the client touches on a metaphor of being in a "dark room fumbling for the light switch," which parallels their experience of learning new mathematical concepts. This imagery captures the client's underlying anxiety about being unprepared or inadequate, a theme that resonates with their recurring dream of coworkers speaking negatively about them. The client seems to be working through these fears by engaging deeply with their studies, using the intellectual challenge as a way to prove their competence and worth.
+
+The session also highlights the client's reflections on the nature of knowledge and understanding. They express a fascination with the idea that "some infinities are greater than others," which they relate to defining the scope and limits of their learning. This philosophical contemplation appears to provide a framework for the client to reconcile their feelings of inadequacy with the reality of continuous learning and growth.
+
+Overall, the client's narrative is marked by a dynamic interplay between their intellectual pursuits and emotional responses. Their engagement with mathematics serves as both a source of anxiety and a means of coping, allowing them to navigate the high expectations they have internalized. By recognizing the value of the learning process and embracing the challenges it presents, the client is gradually building a more resilient and adaptive approach to their academic and personal life.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of recurrent dreams about being unprepared for a thesis defense, which echoes past anxieties related to high expectations set by their father. They often feel self-conscious about their focus on math, questioning its relevance and necessity, linked to the high expectations they internalized from their father.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet expectations, then I am inadequate and will be judged negatively.",
+  "intermediate_belief_depression": "If I can't meet expectations, then I am a failure and will never be good enough.",
+  "coping_strategies": [
+    "The client uses teaching and visualization as coping strategies to manage anxiety about not understanding immediately. They engage deeply with their studies to prove their competence and worth."
+  ],
+  "situation": "Experiencing a recurring dream in which coworkers talk negatively about the individual.",
+  "auto_thought": "They think I'm not good enough. I'm failing to meet expectations.",
+  "emotion": [
+    "anxious",
+    "self-conscious",
+    "inadequate",
+    "infuriated"
+  ],
+  "behavior": "The client engages deeply with their studies, using teaching and visualization to manage anxiety. They focus on proving their competence through intellectual challenges."
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Case Example",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Forms close relationships with friends who experience significant stressors. A friend is dealing with academic pressures and parenting an autistic child.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must support my friends to maintain relationships.",
+  "intermediate_belief_depression": "If I can't help my friends, I am a failure.",
+  "coping_strategies": "Avoids confrontation and withdraws from relationships to prevent conflict.",
+  "situation": "Multiple friends are distressed at the same time, and the patient is involved in supporting them.",
+  "auto_thought": "If I don't help, they will leave me.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Withdraws from friends when feeling overwhelmed.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

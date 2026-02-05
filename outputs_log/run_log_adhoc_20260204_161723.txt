@@ -1,0 +1,77 @@
+Using description: HISTORY:
+- Master's degree in engineering and experience in robotics.
+- Past remorse related to not dedicating enough time to a project.
+
+SITUATION:
+- Considering launching a micro press and changing careers.
+- Feeling uncertain about financial stability and fulfillment while comparing self to peers. with ID=47-1
+Sample results (metadata similarity):
+  - sim=0.001 | title='Verilogue session: Client takes medications for poor concentration; she has noti' | file='1002565970.txt'
+  - sim=0.002 | title='Verilogue session: Client's wife committed suicide, leaving their son to her par' | file='1001084073.txt'
+  - sim=0.003 | title='Patient "A" Therapy Session Audio Recording, December 27, 2011: Client discusses' | file='1004472416.txt'
+  - sim=0.003 | title='Verilogue session: Client feels that his mental illness stems from the child abu' | file='1003075049.txt'
+  - sim=0.004 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.005 | title='Verilogue session: Client discusses his family situation. He is concerned that h' | file='1001084030.txt'
+  - sim=0.006 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.006 | title='Verilogue session: Client's having problems gaining necessary weight' | file='1002565984.txt'
+  - sim=0.006 | title='Adolescent Family Therapy: Parents and therapists often fall into the same traps' | file='1001114243.txt'
+  - sim=0.008 | title='Verilogue session: Client was hospitalized recently for severe depression. He su' | file='1001083968.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2009 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.001 | file='1002565970.txt' | title='Verilogue session: Client takes medications for poor concentration; she has noti'
+  - sim=0.002 | file='1001084073.txt' | title='Verilogue session: Client's wife committed suicide, leaving their son to her par'
+  - sim=0.003 | file='1004472416.txt' | title='Patient "A" Therapy Session Audio Recording, December 27, 2011: Client discusses'
+Using LEAST related file for transcript: '1002565970.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a master's degree holder in engineering with a background in robotics, is currently navigating a significant career transition. She is contemplating launching a micro press, a move that brings with it a mix of excitement and anxiety about financial stability and personal fulfillment. During our session, she expressed feeling "uncertain" about her future, often comparing herself to her peers who seem to have more traditional career paths. This comparison seems to trigger a cascade of thoughts and emotions, leading her to feel "scattered" and "on guard all the time." Her history of remorse over not dedicating enough time to past projects appears to amplify these feelings, as she worries about repeating past mistakes.
+
+In our conversation, the client described her temper as "explosive" and unpredictable, which she finds distressing. She noted that since starting Lamictal, she doesn't "feel like I want to yell" as much, indicating some improvement in managing her irritability. However, she still experiences moments of anger "for no reason," suggesting that while the medication is helping, it hasn't fully addressed her emotional regulation issues. Her thoughts often "jump around," making it difficult for her to concentrate, a challenge that is compounded by her tendency to be "easily distracted." This distractibility seems to be a longstanding issue, as she was diagnosed with ADHD in elementary school.
+
+The client also reported a history of self-harm, though she hasn't "cut herself" in years, which is a positive development. She mentioned feeling "irritable" during her recent menstrual cycle, a symptom that her mother corroborated. This irritability might be linked to hormonal changes, but it also reflects her ongoing struggle with mood regulation. Despite these challenges, she has not experienced any significant side effects from her medication, which she finds reassuring.
+
+Throughout the session, the client frequently mentioned feeling "bored" when she has nothing to do, a state that seems to exacerbate her restlessness. Her mother observed that she "can't sit still," a behavior that aligns with her need to "stay busy all the time." This restlessness is evident in her habits, such as biting her nails down to the quick, a behavior she acknowledges but struggles to control. She also mentioned feeling "jumpy" and having "fidgets," though these sensations are less overwhelming than before.
+
+The client is aware of the changes in her emotional responses, noting that she can "see a difference" in herself. She described a shift from feeling overwhelmed by emotions to experiencing them in a more "modulated form." For instance, she anticipates that as her medication dosage stabilizes, her irritability will become more of a "tap on the shoulder" rather than an all-consuming force. This awareness is a positive step, as it suggests she is beginning to recognize and reflect on her emotional patterns.
+
+As we discussed her future, the client expressed concerns about the potential for weight gain associated with birth control pills, which she is currently taking. She is "scared of weight gain," a fear that seems to be tied to her broader concerns about body image and self-esteem. Her mother mentioned that the client is "kind of iffy" about the idea of having a period every four months, indicating some ambivalence about her current contraceptive method.
+
+Overall, the session highlighted the client's ongoing struggle with emotional regulation, distractibility, and the pressure of career-related decisions. Her use of medication is helping to some extent, but there is still work to be done in terms of developing coping strategies and addressing underlying cognitive patterns. As she continues to navigate this transitional period, it will be important to support her in building resilience and finding a sense of fulfillment in her new career path.
+Summary da mistral_.csv: The patient, [PATIENT NAME], is a second-time visitor to the therapist. She was previously diagnosed with ADHD and has an explosive, unpredictable temper. She was started on Lamictal 25 mg, which was later increased to 75 mg. The patient reports feeling less irritable and less inclined to yell at people since starting the medication. She still experiences some fidgeting and easily gets distracted. The therapist discusses the possibility of increasing the dosage to 100 mg in two weeks if the patient's symptoms are not fully controlled. The patient is taking folic acid and not using birth control pills. The therapist mentions the importance of taking folic acid while on Lamictal to prevent birth defects.
+The doctor discussed the potential impact of Lamictal and birth control pills on the patient's Estrogen levels and medication dosage. The doctor mentioned that some birth control pills may cause irregular periods or weight gain due to water retention. The patient expressed concerns about weight gain and irregular periods with the proposed birth control option. The doctor acknowledged these concerns and suggested monitoring the situation closely. The doctor also mentioned that the patient would need to return for a follow-up appointment in about a month.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a master's degree in engineering and experience in robotics. She has a history of remorse over not dedicating enough time to past projects, which amplifies her current feelings of uncertainty about her career transition. She was diagnosed with ADHD in elementary school and has a history of self-harm, though she hasn't engaged in it for years. She experiences emotional regulation issues, which are partially managed by medication.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't make the right career choice, then I will fail and be left behind by my peers.",
+  "intermediate_belief_depression": "If I can't find fulfillment in my career, then I will always feel inadequate and unhappy.",
+  "coping_strategies": [
+    "The client tends to stay busy all the time to avoid feelings of boredom and restlessness. She also struggles with nail-biting and experiences difficulty concentrating due to distractibility."
+  ],
+  "situation": "Considering launching a micro press and changing careers. Feeling uncertain about financial stability and fulfillment while comparing self to peers.",
+  "auto_thought": "I might fail at this new venture, and everyone will see me as a failure.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "scattered",
+    "on guard"
+  ],
+  "behavior": "She compares herself to her peers, feels scattered, and remains on guard all the time."
+}

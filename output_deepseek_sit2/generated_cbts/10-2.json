@@ -1,0 +1,33 @@
+{
+  "name": "Patient 10",
+  "id": "10",
+  "type": [
+    "divorce adjustment",
+    "social isolation"
+  ],
+  "history": "Recent divorce with financial struggles. Co-parenting. Multiple friendships deteriorated. Complicated relationship with parents.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "Divorce proves I'm unlovable and defective.",
+  "intermediate_belief_depression": "I'll always be alone; no one wants a divorced person.",
+  "coping_strategies": [
+    "Social withdrawal, overcompensating in parenting, financial anxiety."
+  ],
+  "situation": "Experiencing the breakdown of friendships following the divorce.",
+  "auto_thought": "\"They never really liked me. I'm too much trouble now. Everyone's leaving.\"",
+  "emotion": [
+    "abandonment",
+    "shame",
+    "loneliness"
+  ],
+  "behavior": "Stops reaching out to friends, declines invitations, tells self it's easier alone."
+}

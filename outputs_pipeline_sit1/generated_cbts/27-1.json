@@ -1,0 +1,55 @@
+{
+  "name": "CBT Conceptualization for Recently Divorced Mother",
+  "id": "27-1",
+  "type": [
+    "CBT",
+    "CCD",
+    "case formulation"
+  ],
+  "history": "The client recently divorced after a long-term relationship that began at age 19. She is now a single parent to a young son and is facing financial difficulties, particularly related to unresolved child support issues. She is adjusting to being alone and managing new experiences without a partner, such as traveling alone with her son and visiting family. The ongoing conflict with her ex-partner over financial arrangements has intensified her stress and sense of instability.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't get my ex-partner to agree on child support, then I won't be able to provide for my son and myself, and I'll fail as a parent. I have to handle everything alone now, and if I struggle, it means I'm not capable. I must avoid conflict, but if I can't resolve this, it shows I'm not strong enough to manage on my own.",
+  "intermediate_belief_depression": "If I can't resolve these financial issues and my ex-partner refuses to cooperate, it means things will never get better and I'll always be stuck struggling alone. No matter what I do, I can't change my situation and things are hopeless.",
+  "coping_strategies": "She tends to ruminate about her financial situation and the unresolved child support, which increases her anxiety. She sometimes avoids addressing the financial conflict directly or delays responding to her ex-partner. She seeks reassurance from friends or family and may over-prepare for new experiences to manage her anxiety.",
+  "situation": "Received an email from the ex-partner refusing to agree on child support and financial arrangements.",
+  "auto_thought": "I can't believe he's refusing again—I'm never going to get the support I need. This means I'm going to be stuck struggling to provide for my son on my own.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "frustrated",
+    "helpless",
+    "sad"
+  ],
+  "behavior": "She rereads the email multiple times, feeling overwhelmed. She puts off replying to her ex-partner and avoids making immediate decisions about the next steps. She calls a close friend or family member to talk about how stuck she feels.",
+  "rationale": "\"The refusal of her ex-partner to agree on financial arrangements could exacerbate feelings of frustration and helplessness.\" \"The patient may be engaging in ruminative thinking, particularly about her financial situation and the unresolved child support issues.\" \"In response to her current situation, the patient might exhibit avoidance behaviors, such as procrastinating on addressing financial issues or avoiding discussions with her ex-partner about child support.\" \"The transition from a long-term relationship to singlehood may also trigger thoughts of self-doubt and uncertainty about her ability to manage new responsibilities independently.\"",
+  "core_belief_predictions": {
+    "source_id": "27-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am a failure, loser",
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

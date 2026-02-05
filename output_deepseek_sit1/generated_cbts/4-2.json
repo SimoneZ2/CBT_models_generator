@@ -1,0 +1,28 @@
+{
+  "name": "Patient 4",
+  "id": "4",
+  "type": [
+    "chronic pain",
+    "medical anxiety"
+  ],
+  "history": "Recent shoulder surgery with painful recovery. Ongoing pain from herniated cervical disc. Past history of physical therapy and prolonged illness.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "My body is failing me and I'll never recover fully.",
+  "intermediate_belief_depression": "I'm permanently damaged and will always be in pain.",
+  "coping_strategies": [
+    "Medical consultation, monitoring symptoms, seeking reassurance."
+  ],
+  "situation": "Received an MRI report indicating a herniated disc. Contacted therapist after receiving report.",
+  "auto_thought": "This proves my body is broken beyond repair.",
+  "emotion": [
+    "fear",
+    "hopelessness",
+    "frustration"
+  ],
+  "behavior": "Seek immediate medical feedback about MRI results."
+}

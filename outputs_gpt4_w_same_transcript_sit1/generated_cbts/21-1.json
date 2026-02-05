@@ -1,0 +1,28 @@
+{
+  "name": "Case Study Example",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization Diagram"
+  ],
+  "history": "History of family conflict with a dismissive and unsupportive father. Estrangement from the father. Ongoing stress related to partner's family, including a difficult relationship with the partner's sister-in-law.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must avoid conflict to keep the peace.",
+  "intermediate_belief_depression": "If I express my true feelings, I will be rejected.",
+  "coping_strategies": "Avoidance of family gatherings and suppressing feelings to prevent conflict.",
+  "situation": "Anticipating interactions with Candace during an upcoming family vacation in Maine.",
+  "auto_thought": "They will judge me and make me feel uncomfortable.",
+  "emotion": [
+    "Anxiety",
+    "Frustration",
+    "Guilt"
+  ],
+  "behavior": "Avoiding interactions and suppressing feelings."
+}

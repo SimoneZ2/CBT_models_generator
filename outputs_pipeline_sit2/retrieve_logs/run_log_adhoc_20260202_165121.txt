@@ -1,0 +1,80 @@
+Using description: HISTORY:
+- Academic underperformance despite being described as intelligent.
+- Attended a college (institution X), felt isolated, and dropped out.
+- About two years of credits remain to complete the degree.
+- Mother had high expectations.
+- Financial difficulties and pressure from the mother to return home.
+
+SITUATION:
+- Seeking financial help from parents.
+- Recent family conversation included discussion of the college dropout experience. with ID=18-2
+Sample results (metadata similarity):
+  - sim=0.000 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.033 | title='Verilogue session: Client has recently experienced some intense mood cycling; sh' | file='1003009209.txt'
+  - sim=0.049 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.050 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.054 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.060 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+  - sim=0.060 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.065 | title='Session 71: Client feels uncomfortable and vulnerable while lying down in therap' | file='1000368484.txt'
+  - sim=0.065 | title='Verilogue session: Client is suffering from delusional thinking' | file='1001083981.txt'
+  - sim=0.066 | title='Eliminating Allergies' | file='1000137957.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.049 | file='1001084088.txt' | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. '
+  - sim=0.050 | file='1003075021.txt' | title='Verilogue session: Client has been angry, violent and impulsive'
+  - sim=0.065 | file='1001083981.txt' | title='Verilogue session: Client is suffering from delusional thinking'
+Using LEAST related file for transcript: '1001084088.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of academic underperformance despite being described as intelligent, has been grappling with persistent auditory hallucinations and a sense of being followed by a woman since childhood. This experience has intensified over time, impacting his sleep and daily functioning. Despite attending college, he felt isolated and eventually dropped out, leaving about two years of credits unfinished. This decision has been a source of tension, particularly with his mother, who had high expectations and has been pressuring him to return home due to financial difficulties. During the session, the client expressed that the medication Invega "didn't help me at all," as he continues to hear voices and forgets things, which contributes to his ongoing distress.
+
+The client described a recurring fear that the woman following him is "trying to destroy my life," manifesting in tangible ways such as his car not exceeding 50 miles per hour, which he attributes to her influence. This belief exacerbates his anxiety, as he worries about the potential for his car to break down, a fear rooted in past experiences where he felt she "broke a car that I had." Despite these challenges, the client has found some relief with Seroquel, which he has been taking since 1998. He noted that while it "helps quite a bit," it does not completely alleviate his symptoms, as he still experiences voices and forgetfulness.
+
+The client also mentioned that he sometimes feels "a little bit down" upon waking, despite sleeping a regular eight hours. This tired feeling suggests a lingering depressive symptomatology, which may be compounded by his ongoing financial stress and the pressure to seek financial help from his parents. The recent family conversation about his college dropout experience likely triggered feelings of inadequacy and failure, which are consistent with his history of academic struggles and the high expectations set by his mother.
+
+Throughout the session, the client repeatedly emphasized the lack of efficacy of various medications, including Abilify and Invega, stating that they "didn't do anything" to improve his condition. His reliance on Seroquel, despite its partial effectiveness, highlights a coping strategy focused on medication adherence to manage his symptoms. The client also mentioned that he sometimes hears voices while watching TV at home, which can lead to confusion and disbelief about his experiences. However, he reported a supportive relationship with his nephew, who helps with bills, providing a sense of stability in his living situation.
+
+The therapist acknowledged the client's concerns and discussed the possibility of adding another antipsychotic medication, such as Haldol or Trilafon, to better control the voices and improve his quality of life. The client agreed to this plan, indicating a willingness to try new strategies to manage his symptoms. Despite the ongoing challenges, the client expressed a cautious optimism, noting that his situation has "gotten a little bit better" with Seroquel, as he can remember things more than when he was off the medication. This improvement, albeit modest, suggests a potential pathway for further therapeutic intervention, focusing on enhancing medication efficacy and addressing the cognitive and emotional patterns contributing to his distress.
+Summary da mistral_.csv: The patient reported that Invega did not help with their symptoms of hearing voices, forgetfulness, and sleep disturbances. They described a woman figure who follows them and plays with animals, including killing them. This figure has been present since childhood but has worsened over time. The patient continued to take Seroquel, which they reported helped but not consistently. The doctor discussed adding Trilafon to the patient's medication regimen to address the voices. The patient reported some dizziness and confusion but good living situation with their nephew.
+The patient confirms that their employer provides health insurance coverage, allowing the doctor to write prescriptions for their current medications, Zoloft and Seroquel, as well as a new medication. The doctor explains that the new medicine is an old one, and they will prescribe it in a dosage of 4mg to be taken once in the morning and once at night. The patient expresses concern about having to call in the prescription for the new medication. The doctor assures them they will take care of it.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of academic underperformance despite being described as intelligent, which has contributed to feelings of inadequacy. He attended college but felt isolated and eventually dropped out, leaving two years of credits unfinished. His mother had high expectations, and there is ongoing tension and pressure from her to return home due to financial difficulties. The client experiences persistent auditory hallucinations and paranoia, which have impacted his functioning and self-esteem. He reports that medications have only partially helped, and he sometimes feels down upon waking, suggesting depressive symptoms. He relies on his nephew for some financial stability.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I ask my parents for financial help and they bring up my college dropout, it means I have failed and can't take care of myself. If I don't meet my mother's expectations, I am letting everyone down. I must avoid situations where my shortcomings are exposed, or I will feel even more inadequate.",
+  "intermediate_belief_depression": "If I can't succeed on my own and have to rely on my parents, it proves that I'm hopeless and things will never get better. If my efforts don't lead to improvement, there's no point in trying.",
+  "coping_strategies": [
+    "The client relies heavily on medication to manage distress, even though he reports only partial relief. He tends to withdraw and avoid situations that highlight his perceived failures, such as discussing his academic history. He seeks support from his nephew for practical matters but avoids deeper emotional conversations with family."
+  ],
+  "situation": "Seeking financial help from parents. Recent family conversation included discussion of the college dropout experience.",
+  "auto_thought": "I'm asking for money again because I couldn't finish college. They're going to think I'm a failure and can't handle my life.",
+  "emotion": [
+    "ashamed",
+    "anxious",
+    "embarrassed",
+    "down",
+    "guilty"
+  ],
+  "behavior": "He hesitates before asking for help, avoids eye contact, and minimizes conversation about his college experience. He may withdraw after the conversation or ruminate about what his family thinks of him."
+}

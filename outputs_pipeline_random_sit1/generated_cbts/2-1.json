@@ -1,0 +1,31 @@
+{
+  "history": "The patient has recently experienced family tension due to a disagreement with their parents about a wedding guest list. They have noticed parallels between their own behaviors and those of their father, who is described as repeatedly seeking approval and unconditional love from family members. This self-awareness has led to internal conflict and discomfort, as the patient is concerned about repeating familial patterns they find undesirable. The ongoing family conflict has contributed to stress, frustration, and possible guilt.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't get my parents' approval about important decisions, then I risk losing their love or causing conflict in the family. I must avoid repeating my father's mistakes, but I also feel compelled to seek their acceptance. Keeping the peace and being accepted feels necessary for my sense of security.",
+  "intermediate_belief_depression": "If I can't resolve this conflict or gain my parents' approval, it means I'm failing as a son/daughter and will always repeat the same negative patterns, no matter what I do.",
+  "coping_strategies": [
+    "The patient tends to withdraw from conversations or avoid discussing the guest list to minimize conflict. They may seek reassurance from others to validate their decisions and ruminate on the disagreement and their similarities to their father, which increases their anxiety and stress."
+  ],
+  "situation": "Disagreement with parents regarding the guest list for an upcoming event.",
+  "auto_thought": "I'm just like my father, always needing approval. If I push back, they'll be disappointed in me.",
+  "emotion": [
+    "anxious",
+    "guilty",
+    "frustrated",
+    "ashamed",
+    "worried"
+  ],
+  "behavior": "I avoid bringing up the guest list with my parents. I withdraw from family conversations and seek reassurance from my partner about my decisions.",
+  "source_text_id": "1001084063.txt"
+}

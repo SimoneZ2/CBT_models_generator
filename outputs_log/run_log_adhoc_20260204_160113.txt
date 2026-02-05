@@ -1,0 +1,77 @@
+Using description: HISTORY:
+- Sarah is in a long-term relationship with Amelia.
+- Amelia has a demanding professional schedule.
+- Sarah feels isolated during the week.
+- Sarah does most household tasks and does not discuss resentment with Amelia.
+- History includes childhood separations from parents associated with distress.
+
+SITUATION:
+- Not receiving communication from the partner during the day and attempting to make contact. with ID=17-1
+Sample results (metadata similarity):
+  - sim=0.067 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.173 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.180 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+  - sim=0.181 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.184 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.187 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.195 | title='Verilogue session: Client has been feeling very depressed and experiencing anxie' | file='1001084064.txt'
+  - sim=0.199 | title='Verilogue session: Client suffers from bipolar disorder with rapid cycling' | file='1001084092.txt'
+  - sim=0.201 | title='Patient "B", Session February 15, 2012: Client starts session by verbally batter' | file='1004503118.txt'
+  - sim=0.204 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.067 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.180 | file='1002565918.txt' | title='Verilogue session: Client is having problems falling asleep'
+  - sim=0.187 | file='1003075021.txt' | title='Verilogue session: Client has been angry, violent and impulsive'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+Sarah, a client with a long-term relationship with Amelia, often finds herself feeling isolated during the week due to Amelia's demanding professional schedule. This sense of isolation is compounded by her history of childhood separations from her parents, which were distressing for her. In our recent session, Sarah shared her experience of not receiving communication from Amelia during the day, which triggers her to attempt contact. She expressed, "I feel slightly self-conscious about it," indicating a sense of vulnerability and insecurity in her relationship. This lack of communication seems to exacerbate her feelings of loneliness and isolation, leading her to ruminate on her perceived lack of connection.
+
+During the session, Sarah also discussed her engagement with mathematics, a subject she finds both challenging and rewarding. She described a recent experience of tutoring precalculus, noting, "I feel like I'm gaining senility just sort of look down and sort of see how lots of math feels like they've sort of fit in these rather useful little general categories." This intellectual pursuit appears to serve as a coping mechanism for Sarah, providing her with a sense of accomplishment and a temporary escape from her emotional struggles. However, she also acknowledged feeling "in a bubble," suggesting that while math offers a refuge, it also isolates her from addressing her interpersonal issues.
+
+Sarah's narrative revealed a pattern of seeking intellectual challenges as a way to manage her emotions. She recounted a moment of clarity during a study session, saying, "I was really rather proud of myself because it feels like, 'Wow. Really, I got it.'" This highlights her reliance on academic success to bolster her self-esteem. Yet, she also expressed frustration with the demands of learning new mathematical concepts, likening it to "fumbling for the light switch" in a dark room. This metaphor reflects her broader struggle with uncertainty and the need for reassurance, both in her academic pursuits and her relationship with Amelia.
+
+Throughout the session, Sarah avoided discussing her feelings of resentment towards Amelia for the imbalance in household responsibilities. Instead, she focused on her academic achievements, perhaps as a way to divert attention from the discomfort of confronting these relational issues. Her tendency to "draw, draw, draw" to understand complex math problems mirrors her need to find clarity and control in her personal life. However, this avoidance of direct communication with Amelia may perpetuate her feelings of isolation and dissatisfaction.
+
+In exploring her relationship with Amelia, Sarah touched on the theme of intellectual connection, noting, "It's a lot of symbols, yea." This comment underscores her desire for a deeper, more meaningful connection with her partner, beyond the surface-level interactions dictated by their busy schedules. The session concluded with Sarah acknowledging the need to address these underlying issues, as she expressed a willingness to explore new ways of communicating with Amelia and managing her emotions. As her therapist, I aim to support Sarah in developing healthier coping strategies and fostering open communication in her relationship, helping her move towards a more balanced and fulfilling life.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "Sarah has a long-term relationship with Amelia, who has a demanding professional schedule, leading Sarah to feel isolated during the week. Her childhood involved distressing separations from her parents. She avoids discussing her resentment towards Amelia about household responsibilities, instead focusing on academic achievements.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't hear from Amelia during the day, it means she doesn't care about me, and I am not important to her.",
+  "intermediate_belief_depression": "If Amelia doesn't communicate with me, it confirms that I am alone and unimportant.",
+  "coping_strategies": [
+    "Sarah engages in intellectual challenges, such as tutoring precalculus, to manage her emotions and bolster her self-esteem. She avoids discussing her feelings of resentment towards Amelia, focusing instead on academic achievements."
+  ],
+  "situation": "Not receiving communication from the partner during the day and attempting to make contact.",
+  "auto_thought": "Amelia isn't reaching out because I'm not important to her. She doesn't care about me.",
+  "emotion": [
+    "lonely",
+    "insecure",
+    "vulnerable",
+    "isolated"
+  ],
+  "behavior": "Sarah attempts to contact Amelia during the day. She ruminates on her perceived lack of connection."
+}

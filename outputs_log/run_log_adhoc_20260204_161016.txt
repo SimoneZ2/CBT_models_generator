@@ -1,0 +1,77 @@
+Using description: HISTORY:
+- Involvement in a complex romantic situation with a person named Cleo.
+- Cleo is in a long-distance relationship while also engaging with the patient.
+
+SITUATION:
+- During an outing, Cleo discussed relationship problems and sought emotional support. with ID=33-1
+Sample results (metadata similarity):
+  - sim=0.096 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.124 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.165 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.165 | title='Verilogue session: Client's insomnia seems to be causing mood swings' | file='1001280398.txt'
+  - sim=0.168 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.168 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.202 | title='Verilogue session: Client notices an improvement more so in his behavior rather ' | file='1003075059.txt'
+  - sim=0.202 | title='Verilogue session: Client appears to be in a manic upswing and is very anxious a' | file='1001083971.txt'
+  - sim=0.203 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.211 | title='Series 3, Session 1: Male client in his 20s with a previous history in therapy p' | file='1003269459.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.124 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.165 | file='1001158874.txt' | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y'
+  - sim=0.202 | file='1003075059.txt' | title='Verilogue session: Client notices an improvement more so in his behavior rather '
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, deeply immersed in the world of mathematics, finds solace and intellectual stimulation in the structured and logical nature of the subject. This is a stark contrast to the complex and emotionally charged romantic situation they are involved in with Cleo, who is in a long-distance relationship yet seeks emotional support from the client. During a recent outing, Cleo discussed her relationship problems, prompting the client to reflect on their own role in providing support. The client often feels "like being in a bubble," intellectually focused on math, which serves as both a refuge and a source of self-consciousness. They express a sense of being "slightly self-conscious" about their preoccupation with math, questioning its necessity in the broader context of life.
+
+In the therapy session, the client shares their recent experiences with tutoring precalculus, noting the satisfaction derived from helping others understand complex concepts. They describe a moment of clarity during a study session, where they felt ahead of their peers, saying, "I really understood the material." This sense of mastery contrasts with their earlier struggles, where they often felt "completely confused and frustrated" by the abstract nature of mathematical proofs. The client finds joy in the process of learning and teaching, which provides a sense of accomplishment and purpose.
+
+The client also discusses the challenges of adapting to the concise nature of proof-based mathematics, which conflicts with their conversational style. They express a desire to "give the context" and struggle with the expectation to be concise, as it feels "troubling" to leave out the detailed thought process. This mirrors their interpersonal dynamics, where they may feel the need to over-explain or justify their actions and emotions, particularly in their relationship with Cleo.
+
+Throughout the session, the client reflects on the parallels between mathematics and life, drawing connections between mathematical concepts and personal experiences. They mention feeling "welcomed" in a dream-like scenario, which may symbolize a longing for acceptance and understanding in their personal relationships. The client grapples with the notion of being in a "dark room fumbling for the light switch," a metaphor for their ongoing search for clarity and meaning in both their academic pursuits and personal life.
+
+The client's engagement with math serves as a coping mechanism, providing a structured environment where they can exert control and achieve success. However, this immersion also highlights their avoidance of more emotionally charged aspects of their life, such as the complexities of their relationship with Cleo. The client acknowledges the need to balance their intellectual pursuits with emotional awareness, recognizing that their preoccupation with math may serve as a distraction from addressing deeper personal issues.
+
+As the session concludes, the therapist notes the client's progress in finding satisfaction in the learning process and encourages them to explore how this approach can be applied to their personal relationships. The client leaves with a sense of anticipation for future sessions, where they can continue to explore the interplay between their intellectual and emotional worlds.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client is deeply immersed in mathematics, which provides solace and intellectual stimulation. They feel self-conscious about their preoccupation with math and question its necessity in life. The client finds joy and satisfaction in teaching and learning math, which contrasts with their earlier struggles. They have a complex romantic situation with Cleo, who is in a long-distance relationship but seeks emotional support from the client.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I can't provide the right support to Cleo, then I am failing as a partner. If I am not intellectually successful, then I am not worthy of love.",
+  "intermediate_belief_depression": "If I can't balance my intellectual pursuits with emotional awareness, then I will never find clarity or meaning in my life.",
+  "coping_strategies": [
+    "The client immerses themselves in mathematics to avoid emotionally charged aspects of life. They focus on intellectual success as a way to exert control and achieve a sense of accomplishment."
+  ],
+  "situation": "During an outing, Cleo discussed relationship problems and sought emotional support.",
+  "auto_thought": "I need to be the one to solve Cleo's problems, or else I am failing her.",
+  "emotion": [
+    "anxious",
+    "self-conscious",
+    "overwhelmed"
+  ],
+  "behavior": "The client listens intently to Cleo, trying to offer solutions and support, while internally feeling anxious about their ability to help."
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization Diagram"
+  ],
+  "history": "History of substance abuse and completed rehabilitation. Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect. Longstanding obesity since childhood. Past experiences of bullying related to weight.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I try to connect with others, I will be rejected.",
+  "intermediate_belief_depression": "There is no point in trying because nothing will change.",
+  "coping_strategies": "Avoidance of social situations to prevent rejection.",
+  "situation": "Received an invitation to a cousin's upcoming wedding. Has not responded to the RSVP request and has not answered follow-up calls from family members.",
+  "auto_thought": "If I go to the wedding, I will be judged and rejected.",
+  "emotion": [
+    "Anxiety",
+    "Sadness"
+  ],
+  "behavior": "Avoids responding to the invitation and family calls."
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "Past experiences of pressure related to performance and social interactions. Reports presenting a confident front and hiding vulnerability. A recent business failure led to financial hardship.",
+  "helpless_belief": [
+    "I am a failure, loser",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must succeed to be accepted and valued.",
+  "intermediate_belief_depression": "If I fail, I will be rejected and alone.",
+  "coping_strategies": "Presents a confident front and hides vulnerability.",
+  "situation": "Invited to visit their sister while dealing with financial instability.",
+  "auto_thought": "If I visit my sister, she will see me as a failure.",
+  "emotion": [
+    "Anxiety",
+    "Shame"
+  ],
+  "behavior": "Avoids visiting sister to prevent perceived judgment."
+}

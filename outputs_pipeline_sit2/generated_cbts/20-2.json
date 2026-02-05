@@ -1,0 +1,51 @@
+{
+  "name": "Workplace Micromanagement Case",
+  "id": "20-2",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client has worked in multiple jobs where micromanagement was a recurring issue. They report a pattern of self-blame in work contexts, suggesting a longstanding tendency to internalize negative workplace experiences. The transcript evidence highlights that repeated exposure to micromanagement has reinforced feelings of inadequacy and self-doubt, and the client often interprets external criticism as a personal failure.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am being micromanaged, it must mean I am not competent enough to be trusted on my own. If I make a mistake or get criticized, it's my fault and I should have done better. I need to prove myself or else people will see that I am inadequate.",
+  "intermediate_belief_depression": "If I keep being micromanaged and blamed, nothing I do will ever be good enough and things will never improve for me at work.",
+  "coping_strategies": "The client tends to ruminate over perceived mistakes and withdraws from colleagues to avoid confrontation. They consider resignation as a way to escape the stressful environment, rather than addressing the underlying issues. Self-blame and internalized criticism are used as attempts to manage distress, but these strategies reinforce feelings of inadequacy.",
+  "situation": "Experiencing micromanagement at the workplace and considering resigning.",
+  "auto_thought": "They don't trust me to do anything right. No matter what I do, I'm just going to mess up again.",
+  "emotion": [
+    "frustrated",
+    "helpless",
+    "anxious",
+    "overwhelmed",
+    "uncertain"
+  ],
+  "behavior": "I withdraw from my colleagues and avoid asking for help. I spend time ruminating over my mistakes and seriously consider quitting my job.",
+  "rationale": "\"The patient likely experiences pervasive thoughts of inadequacy and self-doubt, particularly in professional settings.\" \"The history of micromanagement in multiple jobs may have reinforced a belief that they are not trusted or competent enough to work independently.\" \"The self-blame reported by the patient suggests a cognitive style that internalizes external stressors, potentially exacerbating feelings of inadequacy and self-criticism.\" \"The ongoing micromanagement may evoke feelings of frustration, helplessness, and anxiety.\" \"The consideration of resignation indicates a potential coping strategy of avoidance, where the patient might seek to escape the stressful environment rather than confront the underlying issues.\"",
+  "core_belief_predictions": {
+    "source_id": "20-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

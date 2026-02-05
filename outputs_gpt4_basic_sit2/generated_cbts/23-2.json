@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Longstanding difficult interactions with the patient's mother. Strained communication and delayed sharing of significant events within the family.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't agree with my mother, I will be rejected.",
+  "intermediate_belief_depression": "I can't change the way things are with my mother.",
+  "coping_strategies": "Avoids confrontation and agrees to mother's plans to avoid conflict.",
+  "situation": "Disagreement with mother about weekend plans and financial assistance. The mother covers expenses during the visit.",
+  "auto_thought": "If I disagree, my mother will reject me.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Complies with mother's wishes to avoid conflict."
+}

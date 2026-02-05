@@ -1,0 +1,30 @@
+{
+  "name": "Patient",
+  "id": "PV010093",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recent shoulder surgery with a painful recovery process. Ongoing pain, numbness, and tingling related to a herniated cervical disc. Prior history of physical therapy for past walking difficulties and back issues. Past prolonged illness associated with a period of immobility. Started a new relationship and later experienced a return of physical symptoms.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must avoid discomfort and confrontation to maintain peace.",
+  "intermediate_belief_depression": "I can't handle my responsibilities and emotions effectively.",
+  "coping_strategies": "Avoidance of situations that may cause discomfort or confrontation, such as avoiding going away for the weekend or engaging with others.",
+  "situation": "Attending a Halloween party while in persistent pain.",
+  "auto_thought": "I can't handle this; I just want to escape and be alone.",
+  "emotion": [
+    "Guilt",
+    "Confusion",
+    "Frustration",
+    "Ambivalence"
+  ],
+  "behavior": "Withdrawal from social interactions and responsibilities, oversleeping, and avoiding engagement."
+}

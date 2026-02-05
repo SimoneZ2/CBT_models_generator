@@ -1,0 +1,252 @@
+[
+  {
+    "patient_id": "1",
+    "source_id": "1-1",
+    "vignette_en": "HISTORY:\n- History of substance abuse and completed rehabilitation.\n- Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect.\n- Longstanding obesity since childhood.\n- Past experiences of bullying related to weight.\n\nSITUATION:\n- Received an invitation to a cousin's upcoming wedding.\n- Has not responded to the RSVP request and has not answered follow-up calls from family members."
+  },
+  {
+    "patient_id": "2",
+    "source_id": "2-1",
+    "vignette_en": "HISTORY:\n- Recent family tension related to a conversation with parents about a wedding list.\n- The patient noticed similarities between their own actions and their father's patterns.\n- The father is described as repeatedly seeking approval and unconditional love from family members.\n\nSITUATION:\n- Disagreement with parents regarding the guest list for an upcoming event."
+  },
+  {
+    "patient_id": "3",
+    "source_id": "3-1",
+    "vignette_en": "HISTORY:\n- PhD candidate engaged in scientific research.\n- References to a sequencing-related study and a colleague named Kelly.\n- Working on a project with a senior scientist who has struggled to gain recognition in his career.\n\nSITUATION:\n- Working on a PhD project and concerned about its progress."
+  },
+  {
+    "patient_id": "4",
+    "source_id": "4-1",
+    "vignette_en": "HISTORY:\n- Recent shoulder surgery with a painful recovery process.\n- Ongoing pain, numbness, and tingling related to a herniated cervical disc.\n- Prior history of physical therapy for past walking difficulties and back issues.\n- Past prolonged illness associated with a period of immobility.\n- Started a new relationship and later experienced a return of physical symptoms.\n\nSITUATION:\n- Received an MRI report indicating a herniated disc.\n- Contacted the therapist after receiving the report."
+  },
+  {
+    "patient_id": "5",
+    "source_id": "5-1",
+    "vignette_en": "HISTORY:\n- Worked overseas and built a website related to that work.\n- Recurrent pattern of starting new ideas and later abandoning projects when difficulties arise.\n- Family-related difficulty involving his father; wrote a personal letter as part of a forgiveness process.\n\nSITUATION:\n- Working on a personal project involving the development of a website."
+  },
+  {
+    "patient_id": "6",
+    "source_id": "6-1",
+    "vignette_en": "HISTORY:\n- 28-year-old student.\n- Returned from Egypt.\n- Previously relied on parents for support and is now managing bills, finances, and health insurance independently for the first time.\n- Brother remains financially dependent on parents.\n\nSITUATION:\n- Considering requesting financial help from parents.\n- Looking for affordable counseling services."
+  },
+  {
+    "patient_id": "7",
+    "source_id": "7-1",
+    "vignette_en": "HISTORY:\n- History of long work hours in demanding work environments, including past touring work.\n- Unresolved issues with father, including reports of past abuse.\n- Recent exchange of letters with father addressing this history.\n\nSITUATION:\n- Evaluating progress on personal projects, including developing a website.\n- Spending time on social media instead of working on the project."
+  },
+  {
+    "patient_id": "8",
+    "source_id": "8-1",
+    "vignette_en": "HISTORY:\n- Past traumatic incident involving sexual assault by partner Ivan.\n- Ongoing relationship difficulties involving trust and intimacy.\n- Reports some improvement in relationship dynamics with Ivan making efforts to rebuild trust.\n\nSITUATION:\n- Physical intimacy is resuming in the relationship."
+  },
+  {
+    "patient_id": "9",
+    "source_id": "9-1",
+    "vignette_en": "HISTORY:\n- Long-standing friendship with Jersey, who has had multiple surgeries related to disabilities.\n- The patient has previously provided support during Jersey's medical procedures and recovery.\n- Ongoing conflict with roommate Ashby over household issues.\n\nSITUATION:\n- Thinking about Jersey's recovery while managing other personal responsibilities."
+  },
+  {
+    "patient_id": "10",
+    "source_id": "10-1",
+    "vignette_en": "HISTORY:\n- Recent divorce.\n- Financial struggles and adjustment to single life.\n- Co-parenting.\n- Multiple friendships deteriorated after the divorce.\n- Complicated relationship with parents.\n\nSITUATION:\n- Managing financial hardship following the divorce, including handling financial paperwork."
+  },
+  {
+    "patient_id": "11",
+    "source_id": "11-1",
+    "vignette_en": "HISTORY:\n- History of isolation and chronic depression since late adolescence.\n- Past difficulties with friendships.\n- Recent breakup preceding a relapse into a depressive episode.\n- History of taking SSRIs and recent medication adjustments following the relapse.\n\nSITUATION:\n- Engaged in a conversation with a friend about mental health struggles."
+  },
+  {
+    "patient_id": "12",
+    "source_id": "12-1",
+    "vignette_en": "HISTORY:\n- PhD student in a science field.\n- Deep involvement in music; previously led a college band and currently participates in a jazz group.\n- Offered a leadership position in the jazz group and declined.\n- Reports mental health struggles.\n- Feels disconnected from colleagues in the scientific work environment due to differing values and work habits.\n\nSITUATION:\n- Experiencing difficulty during jazz rehearsals, requiring repeated attempts to progress."
+  },
+  {
+    "patient_id": "13",
+    "source_id": "13-1",
+    "vignette_en": "HISTORY:\n- Death of a close aunt whom the patient considered a mother figure.\n- The patient did not fulfill the aunt's last request and was not present at the time of death.\n- Pattern of prioritizing others' needs over their own.\n\nSITUATION:\n- Reflecting on memories involving the aunt and the unfulfilled request."
+  },
+  {
+    "patient_id": "14",
+    "source_id": "14-1",
+    "vignette_en": "HISTORY:\n- Financial difficulties following questionable investments.\n- Increased reliance on parents for financial assistance.\n\nSITUATION:\n- Thinking about how past financial decisions may affect future plans."
+  },
+  {
+    "patient_id": "15",
+    "source_id": "15-1",
+    "vignette_en": "HISTORY:\n- Ongoing workplace difficulties involving underappreciation and lack of support.\n- Repeated experiences of ideas and suggestions not being accepted.\n\nSITUATION:\n- A workplace discussion about culture and atmosphere conflicted with a client meeting scheduled by the mentor."
+  },
+  {
+    "patient_id": "16",
+    "source_id": "16-1",
+    "vignette_en": "HISTORY:\n- Spent about one year working on a project in Europe involving building a website and conducting interviews.\n- Reports pride in the work and a wish to share the results.\n- Past history of procrastination and anxiety.\n- Uses strategies learned from a course and reminders to manage daily life.\n\nSITUATION:\n- Working on a project close to its deadline with portions still needing to be posted online."
+  },
+  {
+    "patient_id": "17",
+    "source_id": "17-1",
+    "vignette_en": "HISTORY:\n- Sarah is in a long-term relationship with Amelia.\n- Amelia has a demanding professional schedule.\n- Sarah feels isolated during the week.\n- Sarah does most household tasks and does not discuss resentment with Amelia.\n- History includes childhood separations from parents associated with distress.\n\nSITUATION:\n- Not receiving communication from the partner during the day and attempting to make contact."
+  },
+  {
+    "patient_id": "18",
+    "source_id": "18-1",
+    "vignette_en": "HISTORY:\n- Academic underperformance despite being described as intelligent.\n- Attended a college (institution X), felt isolated, and dropped out.\n- About two years of credits remain to complete the degree.\n- Mother had high expectations.\n- Financial difficulties and pressure from the mother to return home.\n\nSITUATION:\n- Experienced an unproductive week due to scheduling problems.\n- Comparing themselves to their sister's achievements and time management."
+  },
+  {
+    "patient_id": "19",
+    "source_id": "19-1",
+    "vignette_en": "HISTORY:\n- Rachel has recurring relationship problems with her husband Ivan.\n- Work-related stress.\n- Sister Emma often takes a caring role toward Rachel.\n- Father had a successful career and strong work ethic, influencing Rachel's expectations.\n- Recently laid off and currently looking for new employment.\n\nSITUATION:\n- Comparing personal career aspirations to those of the spouse."
+  },
+  {
+    "patient_id": "20",
+    "source_id": "20-1",
+    "vignette_en": "HISTORY:\n- Multiple past jobs involved micromanagement.\n- Reports self-blame in work contexts.\n\nSITUATION:\n- Being blamed at work for spreadsheet errors that were not theirs."
+  },
+  {
+    "patient_id": "21",
+    "source_id": "21-1",
+    "vignette_en": "HISTORY:\n- History of family conflict with a dismissive and unsupportive father.\n- Estrangement from the father.\n- Ongoing stress related to partner's family, including a difficult relationship with the partner's sister-in-law.\n\nSITUATION:\n- Anticipating interactions with Candace during an upcoming family vacation in Maine."
+  },
+  {
+    "patient_id": "22",
+    "source_id": "22-1",
+    "vignette_en": "HISTORY:\n- Ongoing interpersonal difficulties involving a partner named Ivan and his family.\n- Recent trust and betrayal issues involving Ivan.\n- Ongoing contact with Ivan's family.\n\nSITUATION:\n- Discovered that Ivan made travel plans without consulting the patient."
+  },
+  {
+    "patient_id": "23",
+    "source_id": "23-1",
+    "vignette_en": "HISTORY:\n- Longstanding difficult interactions with the patient's mother.\n- Strained communication and delayed sharing of significant events within the family.\n\nSITUATION:\n- Preparing for an upcoming visit from parents."
+  },
+  {
+    "patient_id": "24",
+    "source_id": "24-1",
+    "vignette_en": "HISTORY:\n- Past experiences of pressure related to performance and social interactions.\n- Reports presenting a confident front and hiding vulnerability.\n- A recent business failure led to financial hardship.\n\nSITUATION:\n- Invited to visit their sister while dealing with financial instability."
+  },
+  {
+    "patient_id": "25",
+    "source_id": "25-1",
+    "vignette_en": "HISTORY:\n- Works in an educational setting with children who have learning disabilities.\n- Describes being pampered by parents and having minimal consequences earlier in life.\n- Ongoing conflicts with authority figures.\n\nSITUATION:\n- Encouraging students to socialize and participate in campus activities, with results falling short of expectations."
+  },
+  {
+    "patient_id": "26",
+    "source_id": "26-1",
+    "vignette_en": "HISTORY:\n- Ongoing work-related uncertainty and anxiety.\n- Married recently; the relationship included instances of physical abuse by spouse Ivan and resulted in separation.\n- Both partners are interested in resolving issues and are attending couples therapy.\n\nSITUATION:\n- Exposed to clinical terms used to describe the spouse's behavior during therapy sessions."
+  },
+  {
+    "patient_id": "27",
+    "source_id": "27-1",
+    "vignette_en": "HISTORY:\n- Recent divorce and financial difficulties.\n- Relationship since age 19.\n- Has a young son and is settling child support issues.\n- Adjusting to being alone and handling new experiences (e.g., traveling alone with her son, visiting family without a partner).\n\nSITUATION:\n- Received an email from the ex-partner refusing to agree on child support and financial arrangements."
+  },
+  {
+    "patient_id": "28",
+    "source_id": "28-1",
+    "vignette_en": "HISTORY:\n- History of self-critical tendencies.\n- Used to maintaining control and achieving goals.\n- Current challenges involve job seeking, personal relationships, and family dynamics.\n\nSITUATION:\n- Experiencing difficulties with job searching.\n- Dealing with ongoing relationship and family conflicts involving a person named Ivan."
+  },
+  {
+    "patient_id": "29",
+    "source_id": "29-1",
+    "vignette_en": "HISTORY:\n- Strong identification with a research lab workplace and a sense of camaraderie from interactions and accomplishments.\n- A close coworker left, which had emotional significance for the patient.\n- The lab contrasts with the patient's personal life, described as less predictable and comfortable.\n\nSITUATION:\n- Preparing for an important discussion scheduled in January.\n- Preparing for a lab meeting involving troubleshooting equipment and learning programming."
+  },
+  {
+    "patient_id": "30",
+    "source_id": "30-1",
+    "vignette_en": "HISTORY:\n- Recently completed an undergraduate degree and is entering the workforce.\n- Came out to parents within the last two and a half years and received negative reactions.\n- Became more distant from parents afterward.\n- Moved to New York for education and explored identity away from family influence.\n- Strained relationship with mother, described as focused on practical concerns rather than emotional support.\n- Tension with sister described as envious of the patient's independence and achievements.\n\nSITUATION:\n- Deciding whether to disclose a recent breakup to parents."
+  },
+  {
+    "patient_id": "31",
+    "source_id": "31-1",
+    "vignette_en": "HISTORY:\n- Recent deaths in the family: an uncle and a cousin.\n- Ongoing concern about parents' health.\n- Father's health conditions include uncontrolled diabetes, high blood pressure, kidney problems, and high cholesterol.\n- Tension with father related to emotional distance and lack of transparency about health issues.\n\nSITUATION:\n- Received a phone call from the mother regarding the father's health.\n- Watched television afterward."
+  },
+  {
+    "patient_id": "32",
+    "source_id": "32-1",
+    "vignette_en": "HISTORY:\n- Strained relationships with parents and a history of feeling judged and disapproved of.\n- Mother's health condition mentioned.\n- Issues related to parental support during education.\n- Mentions of the mother being described as \"broken\" and allegations of a past affair.\n\nSITUATION:\n- Preparing to attend a Father's Day lunch with parents."
+  },
+  {
+    "patient_id": "33",
+    "source_id": "33-1",
+    "vignette_en": "HISTORY:\n- Involvement in a complex romantic situation with a person named Cleo.\n- Cleo is in a long-distance relationship while also engaging with the patient.\n\nSITUATION:\n- During an outing, Cleo discussed relationship problems and sought emotional support."
+  },
+  {
+    "patient_id": "34",
+    "source_id": "34-1",
+    "vignette_en": "HISTORY:\n- Brother died by suicide when the patient was young.\n- Ongoing family conflict about discussing the loss.\n- Parents initially did not allow the patient to seek talk therapy after the death.\n\nSITUATION:\n- Noticing that the brother's birthday is approaching."
+  },
+  {
+    "patient_id": "35",
+    "source_id": "35-1",
+    "vignette_en": "HISTORY:\n- Difficult family conversation with mother about not discussing pain and suffering in the family.\n- Father avoids talk therapy and has distressing dreams related to his brother's suicide.\n- The patient reports ongoing struggles related to separation and suffering.\n\nSITUATION:\n- Talking with Jeremy about feelings of disconnection.\n- Attempting to articulate a sense of emotional detachment."
+  },
+  {
+    "patient_id": "36",
+    "source_id": "36-1",
+    "vignette_en": "HISTORY:\n- Elevated stress related to financial difficulties and relationship instability.\n- Heavy workload due to technical issues at work and covering responsibilities when coworker Chet is absent.\n- Friends often have crises and make emotional demands.\n- Considering asking parents for financial help to cover therapy costs around an upcoming birthday.\n- Upcoming convention and upcoming visit with parents.\n\nSITUATION:\n- Discovered that their bank balance was lower than expected."
+  },
+  {
+    "patient_id": "37",
+    "source_id": "37-1",
+    "vignette_en": "HISTORY:\n- Past labor dispute in a previous workplace.\n- Ongoing concerns related to fairness, pay, and authority at work.\n\nSITUATION:\n- Reflecting on a work-related case and the response of a businessman involved."
+  },
+  {
+    "patient_id": "38",
+    "source_id": "38-1",
+    "vignette_en": "HISTORY:\n- Health condition requiring time off work for physical therapy.\n- Past interactions with HR and a supervisor related to return-to-work and disability status.\n\nSITUATION:\n- Recalling a prior interaction with HR that involved feeling judged during medical leave."
+  },
+  {
+    "patient_id": "39",
+    "source_id": "39-1",
+    "vignette_en": "HISTORY:\n- Recurrent stomachaches and physical symptoms associated with anxiety and stress.\n- Past difficulties involving weight management, sexuality, and academic performance.\n- Reports a transformation during college.\n- Reports seeking control in relationships.\n\nSITUATION:\n- Experiencing ongoing stomach issues and seeking reassurance about recovery."
+  },
+  {
+    "patient_id": "40",
+    "source_id": "40-1",
+    "vignette_en": "HISTORY:\n- Recent move and stress related to settling into a new living space.\n- Difficult relationship with parents, especially mother, described as judgmental and emotionally unsupportive.\n- Friendships have become strained, contributing to isolation.\n\nSITUATION:\n- Feeling exhausted after attempting to unpack without support from friends.\n- Avoiding contact with friends and the mother."
+  },
+  {
+    "patient_id": "41",
+    "source_id": "41-1",
+    "vignette_en": "HISTORY:\n- Complex relationship history involving a person named Cricket that affected the patient's social circle.\n- The patient often takes a caretaking role with friends, including a friend named Lucy with ongoing medical issues.\n\nSITUATION:\n- Running late for appointments and social gatherings, including therapy and lunches with friends."
+  },
+  {
+    "patient_id": "42",
+    "source_id": "42-1",
+    "vignette_en": "HISTORY:\n- Recurrent dreams during graduate school about being unprepared for a thesis defense.\n- Father described as having high expectations.\n\nSITUATION:\n- Experiencing a recurring dream in which coworkers talk negatively about the individual."
+  },
+  {
+    "patient_id": "43",
+    "source_id": "43-1",
+    "vignette_en": "HISTORY:\n- Childhood experiences of emotional invalidation (e.g., being reprimanded for crying).\n- History of depression.\n\nSITUATION:\n- Reconnecting with an individual named Edson after a period of no contact."
+  },
+  {
+    "patient_id": "44",
+    "source_id": "44-1",
+    "vignette_en": "HISTORY:\n- History of recurring conflicts and strained relationships.\n- Ongoing trust and boundary issues in relationships.\n- Some relationships involve alcoholism.\n- History of aggressive behavior.\n\nSITUATION:\n- Spending holidays alone and reflecting on feelings of sadness and loneliness."
+  },
+  {
+    "patient_id": "45",
+    "source_id": "45-1",
+    "vignette_en": "HISTORY:\n- Relationships sometimes shift into romantic connections.\n- Past conflict in relationships following expressions of anger.\n- Complex relationship with parents involving obligations.\n\nSITUATION:\n- Difficulty completing work tasks due to fear of making mistakes.\n- Procrastination and avoidance impacting productivity."
+  },
+  {
+    "patient_id": "46",
+    "source_id": "46-1",
+    "vignette_en": "HISTORY:\n- Forms close relationships with friends who experience significant stressors.\n- A friend is dealing with academic pressures and parenting an autistic child.\n\nSITUATION:\n- Considering visiting a friend managing parenting demands and housing instability."
+  },
+  {
+    "patient_id": "47",
+    "source_id": "47-1",
+    "vignette_en": "HISTORY:\n- Master's degree in engineering and experience in robotics.\n- Past remorse related to not dedicating enough time to a project.\n\nSITUATION:\n- Considering launching a micro press and changing careers.\n- Feeling uncertain about financial stability and fulfillment while comparing self to peers."
+  },
+  {
+    "patient_id": "48",
+    "source_id": "48-1",
+    "vignette_en": "HISTORY:\n- In a relationship with Ivan for about seven years and married for three.\n- Stressful periods during academic finals and wedding preparation due to lack of support from Ivan.\n- Current financial pressure involving Ivan's part-time work, therapy costs, and dental treatment expenses.\n\nSITUATION:\n- Partner neglects responsibilities such as contributing to expenses and completing administrative tasks."
+  },
+  {
+    "patient_id": "49",
+    "source_id": "49-1",
+    "vignette_en": "HISTORY:\n- History of complex and strained family relationships.\n- Father described as frequently creating misery for those around him and expressing dissatisfaction with his life.\n- Maternal grandmother had a significant negative impact on the family, especially on the patient's mother.\n\nSITUATION:\n- Contemplating the father's wishes for burial in Nepal and the responsibilities involved."
+  },
+  {
+    "patient_id": "50",
+    "source_id": "50-1",
+    "vignette_en": "HISTORY:\n- Longstanding friendship with Ethan since high school (about 14 years).\n- Shared personal crises and professional collaborations.\n- Learned that Ethan has been abusive toward his girlfriend.\n\nSITUATION:\n- Learning about Ethan's abusive behavior toward his partner and feeling distressed.\n- Observing erratic behavior and signs of substance use at a recent gathering."
+  }
+]

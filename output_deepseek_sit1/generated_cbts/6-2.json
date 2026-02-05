@@ -1,0 +1,28 @@
+{
+  "name": "Patient 6",
+  "id": "6",
+  "type": [
+    "financial stress",
+    "independence struggles"
+  ],
+  "history": "28-year-old student recently returned from Egypt. First time managing bills and health insurance independently. Brother remains dependent on parents.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I can't handle adult responsibilities on my own.",
+  "intermediate_belief_depression": "I'm failing at being an independent adult.",
+  "coping_strategies": [
+    "Considering returning to parental support, seeking affordable counseling."
+  ],
+  "situation": "Considering requesting financial help from parents. Looking for affordable counseling.",
+  "auto_thought": "I can't make it on my own. I need to ask for help.",
+  "emotion": [
+    "shame",
+    "anxiety",
+    "inadequacy"
+  ],
+  "behavior": "Research counseling options while contemplating asking parents for money."
+}

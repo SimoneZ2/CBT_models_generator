@@ -1,0 +1,75 @@
+Using description: HISTORY:
+- In a relationship with Ivan for about seven years and married for three.
+- Stressful periods during academic finals and wedding preparation due to lack of support from Ivan.
+- Current financial pressure involving Ivan's part-time work, therapy costs, and dental treatment expenses.
+
+SITUATION:
+- Partner neglects responsibilities such as contributing to expenses and completing administrative tasks. with ID=48-1
+Sample results (metadata similarity):
+  - sim=0.052 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.077 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+  - sim=0.090 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.098 | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne' | file='1004503136.txt'
+  - sim=0.098 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.107 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.120 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.124 | title='Person-Centered Child Therapy Session Transcript: Anin Utigaard masterfully teac' | file='1001114250.txt'
+  - sim=0.125 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+  - sim=0.134 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=729 partial_match=1292
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.098 | file='1004503136.txt' | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne'
+  - sim=0.107 | file='1004798727.txt' | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day'
+  - sim=0.137 | file='1004798723.txt' | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to '
+Using LEAST related file for transcript: '1004503136.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has been in a relationship with Ivan for about seven years and married for three, presents with a complex interplay of emotions and cognitive patterns that are deeply rooted in her personal history and current life circumstances. During the session, she expresses difficulty in discussing "negative" aspects of her life, indicating a tendency to avoid confronting distressing emotions. This avoidance is evident as she describes feeling "exhausted" by the thought of discussing her insecurities, particularly her self-perceived immaturity. Her narrative reveals a struggle with self-judgment, as she fears being perceived as "not acting my age," which she attributes to her interests in hobbies typically associated with younger individuals, such as manga and dinosaurs.
+
+The client's relationship with Ivan appears to be a source of stress, particularly due to his neglect of responsibilities like contributing to expenses and completing administrative tasks. This financial pressure is compounded by Ivan's part-time work, therapy costs, and dental treatment expenses, creating a backdrop of tension and unmet expectations. The client seems to internalize these stressors, as evidenced by her self-critical thoughts and the pressure she places on herself to maintain a certain intellectual standard. She describes a scenario where she visited a comic book store and was met with a comment that implied her interests were juvenile. This interaction triggered feelings of embarrassment and reinforced her belief that she must "intellectualize" her interests to justify them.
+
+Throughout the session, the client oscillates between self-acceptance and self-criticism. She acknowledges that her hobbies are "who I am," yet she simultaneously distances herself from others who share these interests, describing them as "obnoxious" and "dramatic." This ambivalence suggests an internal conflict between her authentic self and the persona she feels compelled to present to the world. Her narrative about attending a convention with Ivan highlights this tension, as she recounts feeling irritated by the attendees' behavior, which she perceives as intrusive and inconsiderate, especially when it disrupted Ivan's interview preparations.
+
+The client's upbringing appears to have instilled a strong value on intellectual engagement and self-improvement, as she recounts her parents' emphasis on finding meaning in all pursuits. This background contributes to her current cognitive patterns, where she feels compelled to justify her interests through an intellectual lens. She describes a childhood filled with encouragement for her curiosity and creativity, which she now finds lacking in her adult life. This absence of reinforcement leaves her questioning her self-worth and seeking validation through her achievements.
+
+Despite her intellectualization of interests, the client expresses a genuine appreciation for the simplicity and emotional resonance of works like Eric Carle's "The Very Hungry Caterpillar." She articulates a desire to visit a museum dedicated to Carle's work but hesitates due to concerns about appearing "creepy" without a child. This hesitation underscores her ongoing struggle with self-perception and societal judgment.
+
+The session reveals the client's deep-seated need for validation and recognition, both from herself and others. She reflects on her experiences at work, where she feels her contributions are undervalued, and questions whether she will always seek external affirmation. Her narrative suggests a fear of being "too simple" or "too complicated," highlighting an ongoing internal dialogue about her identity and self-worth.
+
+In conclusion, the client's session provides insight into her cognitive and emotional landscape, shaped by her relationship dynamics, upbringing, and personal interests. Her avoidance of negative emotions, coupled with a need for intellectual justification, creates a cycle of self-criticism and insecurity. Addressing these patterns through cognitive restructuring and exploring alternative coping strategies may help the client achieve greater self-acceptance and emotional resilience.
+Summary da mistral_.csv: The client expresses difficulty in discussing negative experiences and feelings during therapy sessions, feeling insecure about being perceived as immature due to her hobbies and interests. She shares an experience of feeling judged at a comic book store for her love of Monga, a genre of manga read from right to left. The client feels uncomfortable around people who are stereotypically associated with her hobbies and finds their behavior obnoxious. She also mentions her dislike for loud and disruptive behavior, especially late at night. The client expresses a preference for quieter, more mature environments and feels judged for it. She also mentions her difficulty in processing information presented in a different visual format due to her experience with reading manga. The client expresses a lack of interest in collecting figurines or other typical collectibles and prefers to have meaningful items in her small apartment.
+The client expresses feeling frustrated that people perceive them as someone different than who they are and shares their love for the children's book "The Very Hungry Caterpillar" by Eric Carle. They discuss the appeal of Carle's illustration techniques and the impact of his work on their imagination as a child. The client also mentions their intellectualization of their interests, including their justification for liking the children's book and the TV show "Gossip Girl." They explain that they were taught to find meaning and understanding in everything they consume, and that they were not raised to passively consume entertainment. The client also shares their experience of being educated about getting their ears pierced before doing so.
+The client recounted their parents' reaction to their interest in bright makeup in the late 80s and early 90s, which they found amusing and encouraging. The client adopted this perspective and felt proud of their unique interests. They discussed the importance of positive reinforcement in their upbringing and how it influenced their curiosity and self-expression. The client expressed a sense of disappointment in not receiving the same level of praise and recognition in their current life, particularly at work. They acknowledged their high expectations for fulfillment and self-satisfaction, even without external validation. The client mentioned an exercise at work where colleagues could anonymously leave positive comments for each other, but had not yet checked their own comments. The client expressed a fear of being simple or too complicated and ended the session with a plan to continue the next time on Tuesday.
+
+REFINED CCD: description + report
+{
+  "history": "The client has been in a relationship with Ivan for about seven years and married for three. She experiences stress due to Ivan's neglect of responsibilities like contributing to expenses and completing administrative tasks. Her upbringing emphasized intellectual engagement and self-improvement, which contributes to her current cognitive patterns. She struggles with self-judgment and a need for validation, both from herself and others.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't intellectualize my interests, then I am immature and not acting my age.",
+  "intermediate_belief_depression": "If I can't meet my own standards, then I am a failure and will never be good enough.",
+  "coping_strategies": [
+    "The client tends to avoid confronting distressing emotions and intellectualizes her interests to justify them. She seeks validation through achievements and distances herself from others who share her interests."
+  ],
+  "situation": "Partner neglects responsibilities such as contributing to expenses and completing administrative tasks.",
+  "auto_thought": "Ivan's neglect means I have to handle everything myself, and I'm not sure I can do it.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "self-critical"
+  ],
+  "behavior": "She takes on the responsibilities herself, feeling overwhelmed and stressed. She avoids discussing the issue directly with Ivan."
+}

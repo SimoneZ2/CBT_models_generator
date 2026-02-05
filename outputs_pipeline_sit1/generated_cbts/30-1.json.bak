@@ -1,0 +1,38 @@
+{
+  "name": "CBT Cognitive Conceptualization for Disclosure Dilemma",
+  "id": "ccd-001",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client recently completed an undergraduate degree and is entering the workforce. Within the last two and a half years, they came out to their parents and received negative reactions, which led to increased distance from them. The client moved to New York for education, using the opportunity to explore their identity away from family influence. The relationship with the mother is strained, with the mother focused on practical concerns rather than emotional support. There is also tension with a sister, who is described as envious of the client's independence and achievements. These dynamics have contributed to feelings of rejection, hurt, and a sense of isolation, as well as a pattern of withdrawing from family interactions to protect themselves emotionally.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I share vulnerable parts of my life with my parents, I risk being hurt or rejected again, so it's safer to keep things to myself. I need to protect myself from their negative reactions because I can't rely on them for emotional support. If I am open, I might just end up feeling more alone.",
+  "intermediate_belief_depression": "If I try to be honest with my parents, it won't matter because they never really support me emotionally. No matter what I do, I end up feeling alone and misunderstood.",
+  "coping_strategies": "The client tends to withdraw from family interactions and avoids disclosing personal matters to their parents to prevent anticipated negative reactions. They seek independence and supportive environments, but also use avoidance to manage distress related to family rejection.",
+  "situation": "Deciding whether to disclose a recent breakup to parents.",
+  "auto_thought": "If I tell them about the breakup, they'll just judge me or make me feel worse. It's not worth opening up because they never really support me anyway.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "hurt",
+    "lonely",
+    "tense",
+    "disappointed"
+  ],
+  "behavior": "Hesitates to contact or update parents about the breakup. Delays or avoids bringing up the topic in conversations. Withdraws emotionally and keeps personal matters private.",
+  "rationale": "\"The negative reaction from the parents upon coming out may have led to feelings of rejection, hurt, and disappointment.\" \"The strained relationship with the mother, who is focused on practical rather than emotional support, might leave the patient feeling unsupported and lonely.\" \"The patient might also engage in avoidance behaviors, such as hesitating to disclose personal matters (e.g., the breakup) to their parents, to prevent anticipated negative outcomes.\" \"The decision-making process regarding whether to disclose a breakup to their parents indicates potential cognitive conflict, weighing the desire for authenticity against fear of further negative reactions.\""
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Ethan Case Conceptualization",
+  "id": "50-1",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has maintained a close friendship with Ethan for about 14 years, beginning in high school. Their relationship has involved sharing personal crises and working together professionally, indicating a deep mutual reliance. The client has recently discovered that Ethan has been abusive toward his girlfriend, which has caused significant distress. The client has also observed Ethan displaying erratic behavior and possible substance use at a recent gathering. This new information conflicts with the client's longstanding positive view of Ethan, leading to emotional turmoil and cognitive dissonance.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If someone I trust does something terrible and I didn't notice, it means I failed as a friend and can't rely on my own judgment. I must always be vigilant or else I will let people down. If I confront this, I risk losing the friendship and proving I'm not supportive.",
+  "intermediate_belief_depression": "If I missed something so important about Ethan, maybe I'm not capable of being a good friend or making good decisions, and there's no way to fix this now.",
+  "coping_strategies": "The client tends to withdraw from social situations involving Ethan or mutual friends to avoid distress. They may ruminate and seek reassurance from others, repeatedly questioning their own judgment and discussing the situation to process their feelings. The client also avoids direct confrontation with Ethan out of fear of damaging the friendship or facing uncomfortable emotions.",
+  "situation": "Learning about Ethan's abusive behavior toward his partner and feeling distressed. Observing erratic behavior and signs of substance use at a recent gathering.",
+  "auto_thought": "How could I have missed this? If Ethan is capable of this, maybe I never really knew him at all.",
+  "emotion": [
+    "betrayed",
+    "confused",
+    "sad",
+    "anxious",
+    "guilty",
+    "worried"
+  ],
+  "behavior": "I avoid talking to Ethan and skip gatherings where he might be present. I keep replaying what happened in my mind and ask other friends if they noticed anything. I withdraw from social interactions to manage my distress.",
+  "rationale": "\"The patient may engage in ruminative thinking, repeatedly questioning how they could have missed signs of Ethan's behavior or whether they could have intervened earlier.\" \"The patient might withdraw from social interactions, particularly those involving Ethan or mutual acquaintances, to avoid confronting the distressing situation.\" \"The revelation of Ethan's abusive behavior likely evokes a complex emotional response in the patient. Given the depth of their friendship, the patient may feel a mix of betrayal, confusion, and sadness.\"",
+  "core_belief_predictions": {
+    "source_id": "50-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable",
+      "worthless"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am bound to be rejected",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable",
+      "I am worthless, waste"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "CBT Cognitive Conceptualization for Website Project Client",
+  "id": "5-1",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a history of working overseas and building a website related to that work. He frequently starts new projects with enthusiasm but tends to abandon them when difficulties arise, indicating a pattern of withdrawal in the face of obstacles. There is a significant family-related difficulty involving his father, for which he wrote a personal letter as part of a forgiveness process. This suggests he is capable of reflective emotional processing and is motivated to resolve interpersonal conflicts.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I encounter obstacles in my projects, it means I'm not capable enough to succeed, so it's better to stop before I fail completely. If things don't go smoothly, it shows that I'm not cut out for this. I should avoid pushing through difficulties to protect myself from feeling like a failure.",
+  "intermediate_belief_depression": "If I can't get past these challenges, it proves that I'm a failure and nothing I do will work out, so there's no point in trying anymore.",
+  "coping_strategies": "When faced with difficulties in his projects, the client tends to withdraw and abandon the effort, which provides temporary relief from stress but reinforces avoidance. He also uses reflective writing, as seen in the letter to his father, to process complex emotions and seek closure in interpersonal conflicts.",
+  "situation": "Working on a personal project involving the development of a website.",
+  "auto_thought": "This is getting too hard; I probably won't be able to finish it. If I keep struggling, I'll just end up failing again.",
+  "emotion": [
+    "frustrated",
+    "disappointed",
+    "self-doubt",
+    "anxious",
+    "discouraged"
+  ],
+  "behavior": "I stop working on the website and leave the project unfinished. I avoid looking at the project or thinking about it further.",
+  "rationale": "The report notes, 'He appears to struggle with perseverance when encountering obstacles, often leading to the abandonment of projects.' It also states, 'This pattern may reflect a cognitive style characterized by high initial motivation and enthusiasm, followed by discouragement and withdrawal when faced with challenges.' Emotional reactions include 'frustration, disappointment, and self-doubt when difficulties arise,' and the behavioral response is described as 'a pattern of avoidance when faced with challenges.' The coping strategy of withdrawal is highlighted: 'The patient appears to cope with project-related difficulties by withdrawing and abandoning efforts, which may provide temporary relief from stress but ultimately reinforces a cycle of avoidance.'",
+  "core_belief_predictions": {
+    "source_id": "5-1",
+    "major_pred_set": [
+      "helpless"
+    ],
+    "fine_pred_set": [
+      "I am a failure, loser",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

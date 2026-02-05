@@ -1,0 +1,49 @@
+{
+  "name": "PhD Candidate - Project Progress Concern",
+  "id": "3-1",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client is a PhD candidate engaged in scientific research, working on a sequencing-related study. They collaborate with a colleague named Kelly and are involved in a project with a senior scientist who has struggled to gain recognition in his career. The client is currently concerned about the progress of their PhD project. There is a strong sense of pressure to succeed, fear of letting down colleagues, and a heightened sense of responsibility, likely influenced by the senior scientist's lack of recognition.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't make significant progress on my PhD project, others will see me as incompetent and I will let down my colleagues. I must always produce meaningful results to be respected and valued. If I struggle or fall behind, it means I am not good enough for this field.",
+  "intermediate_belief_depression": "If I can't keep up with the demands of my PhD project, it proves that I am not cut out for this work and that my efforts are pointless. No matter how hard I try, I will never be able to meet expectations or achieve recognition.",
+  "coping_strategies": "The client tends to avoid working on challenging parts of the project and procrastinates when feeling overwhelmed. They seek reassurance from colleagues like Kelly to validate their efforts. Perfectionistic behaviors are evident, as the client strives for flawless execution, which can lead to burnout and decreased productivity.",
+  "situation": "Working on a PhD project and concerned about its progress.",
+  "auto_thought": "I'm falling behind and my project isn't good enough. If I don't fix this soon, everyone will see that I'm not capable.",
+  "emotion": [
+    "anxious",
+    "stressed",
+    "frustrated",
+    "overwhelmed",
+    "worried",
+    "fearful"
+  ],
+  "behavior": "I put off working on the project and avoid discussing my progress with others. I check in with Kelly for reassurance and spend extra time trying to perfect small details instead of moving forward.",
+  "rationale": "\"The patient is experiencing significant concern regarding the progress of their PhD project.\" \"The pressure to succeed in their research may lead to feelings of being overwhelmed and worried about meeting expectations.\" \"The patient may engage in ruminative thinking, focusing on potential negative outcomes and perceived inadequacies in their research progress.\" \"In response to their concerns, the patient might exhibit avoidance behaviors, such as procrastinating on tasks related to their project or avoiding discussions about their progress. They may also seek reassurance from colleagues, like Kelly, to validate their efforts and to gain a sense of support. The patient might engage in perfectionistic behaviors, striving for flawless execution of their research tasks, which could lead to burnout and decreased productivity.\"",
+  "core_belief_predictions": {
+    "source_id": "3-1",
+    "major_pred_set": [
+      "helpless"
+    ],
+    "fine_pred_set": [
+      "I am defective",
+      "I am helpless",
+      "I am incompetent",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

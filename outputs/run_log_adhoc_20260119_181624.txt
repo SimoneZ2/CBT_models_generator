@@ -1,0 +1,87 @@
+Using description: HISTORY:
+- History of isolation and chronic depression since late adolescence.
+- Past difficulties with friendships.
+- Recent breakup preceding a relapse into a depressive episode.
+- History of taking SSRIs and recent medication adjustments following the relapse.
+
+SITUATION:
+- Planned a weekend for sewing and catching up on work tasks.
+- Was unable to focus on familiar tasks and spent the day watching television. with ID=11-2
+Top results (by metadata similarity):
+  - sim=0.674 | title='Verilogue session: Client does not believe she needs medication but is willing t' | file='1001084034.txt'
+  - sim=0.673 | title='Session 13: Client and counselor discuss reasons why client has not been showing' | file='1000013264.txt'
+  - sim=0.658 | title='Session 5: Client explains how uncomfortable she feels trying to bring up subjec' | file='1000013257.txt'
+  - sim=0.650 | title='Session 4: Client explains how she suddenly can direct her energy into positive ' | file='1000088096.txt'
+  - sim=0.644 | title='Verilogue session: Client feels unsure of her life's purpose' | file='1003009260.txt'
+  - sim=0.638 | title='Verilogue session: Client worries that she is a bad person. She feels guilty tha' | file='1003009287.txt'
+  - sim=0.636 | title='Patient "Ju", Session October 09, 2012: Client has been feeling extremely sad an' | file='1004798755.txt'
+  - sim=0.636 | title='Verilogue session: Client is frustrated because she cannot retain a state of rem' | file='1001084056.txt'
+  - sim=0.634 | title='Verilogue session: Client is currently feeling especially depressed following th' | file='1001083976.txt'
+  - sim=0.632 | title='Verilogue session: Client seems to be doing well on her medications' | file='1003009211.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.674 | file='1001084034.txt' | title='Verilogue session: Client does not believe she needs medication but is willing t'
+  - sim=0.673 | file='1000013264.txt' | title='Session 13: Client and counselor discuss reasons why client has not been showing'
+  - sim=0.658 | file='1000013257.txt' | title='Session 5: Client explains how uncomfortable she feels trying to bring up subjec'
+Using top selected file for transcript: '1001084034.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient History and Current Situation:**
+
+The patient has a history of isolation and chronic depression beginning in late adolescence, which has been compounded by difficulties in forming and maintaining friendships. Recently, the patient experienced a breakup, which preceded a relapse into a depressive episode. This relapse led to adjustments in their SSRI medication. The patient had planned a weekend dedicated to sewing and catching up on work tasks but found themselves unable to focus, instead spending the day watching television.
+
+**Emotional Impact:**
+
+The patient's history of chronic depression and isolation likely contributes to feelings of sadness, loneliness, and a sense of being overwhelmed. The recent breakup may have intensified these emotions, leading to a relapse into depression. The inability to focus on planned activities and the subsequent choice to watch television instead may indicate feelings of hopelessness or a lack of motivation, common in depressive episodes.
+
+**Cognitive Patterns:**
+
+The patient's cognitive patterns may include negative self-evaluation and a tendency to ruminate on past failures or difficulties, particularly in social contexts. The history of isolation and friendship difficulties might lead to thoughts such as "I am not good enough" or "I will always be alone," which can perpetuate depressive symptoms. The recent breakup could reinforce these beliefs, contributing to a cycle of negative thinking.
+
+**Behavioral Responses:**
+
+Behaviorally, the patient may withdraw from social interactions and avoid activities that require concentration or effort, as evidenced by the shift from planned productive activities to passive television watching. This avoidance can serve as a temporary escape from distressing thoughts and emotions but may also reinforce feelings of inadequacy and depression.
+
+**Coping Styles:**
+
+The patient's coping styles might include avoidance and distraction, as seen in the choice to watch television instead of engaging in planned tasks. This behavior suggests a possible reliance on passive activities to manage overwhelming emotions or thoughts. The history of medication adjustments indicates a willingness to seek help, although there may be ambivalence about the effectiveness of medication, as seen in the transcript's reference to concerns about medication side effects.
+
+**Conclusion and Recommendations:**
+
+The patient's history and current situation suggest a pattern of depressive symptoms exacerbated by recent relational stressors. Cognitive Behavioral Therapy (CBT) could be beneficial in addressing negative thought patterns and developing more adaptive coping strategies. Techniques such as cognitive restructuring to challenge negative beliefs and behavioral activation to increase engagement in rewarding activities may help reduce depressive symptoms. Encouraging the patient to gradually re-engage in social activities and hobbies, like sewing, could also support recovery. Regular monitoring of medication effectiveness and side effects is recommended to ensure optimal treatment outcomes.
+Summary da mistral_.csv: The patient, a new therapy client, discussed their background and reasons for seeking therapy. They have been diagnosed with mild depression by their psychologist but disagree with the diagnosis and are hesitant about taking medication. The patient mentioned experiencing stressors in their personal life, including a job restructuring that led to staff layoffs and their father's hospitalization for mood disorders. They also discussed their father's history of depression, anger issues, and a superiority complex. The patient had previously tried various antidepressant medications but found them ineffective and had concerns about the potential side effects. They reported having anxiety attacks during a period of stress, which they believe were connected to the job changes and their father's hospitalization. The patient mentioned a history of depression and had tried several medications, including Prozac, Wellbutrin, and an unidentified medication. They also discussed their relationship with their father, who they described as having a difficult and unstable childhood, and
+The patient discusses her difficulty in forming romantic relationships and her tendency to self-sabotage potential connections. She is currently considering starting a relationship with an old acquaintance but is already creating reasons not to pursue it. The doctor suggests that this behavior may be a defense mechanism to avoid potential hurt. The patient also mentions her struggle with depression and her ongoing therapy and medication management. The doctor discusses various antidepressant options, including Cymbalta, and emphasizes that the medication should not alter the patient's personality or emotions significantly. The patient shares her background, including her education and career as a production coordinator in the entertainment industry. She discusses her family's involvement in the entertainment business and how she unintentionally sought a career in that field. The session concludes with the doctor expressing appreciation for the patient's openness and setting up the next appointment.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has experienced chronic depression and isolation since late adolescence, with longstanding difficulties in forming and maintaining friendships. A recent breakup preceded a depressive relapse, leading to changes in SSRI medication. The client reports a pattern of struggling to engage in planned activities and instead withdrawing into passive behaviors, such as watching television.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't focus or be productive, it means I'm failing and there's no point in trying. If I feel overwhelmed or sad, it's better to avoid tasks because I won't succeed anyway. If I try and fail, it will just confirm that I'm not good enough.",
+  "intermediate_belief_depression": "Even if I try, nothing will change and I'll just end up feeling worse. There's no hope that things can improve for me.",
+  "coping_strategies": [
+    "The client tends to avoid planned activities and responsibilities when feeling overwhelmed or low, turning instead to passive distractions like watching television. This avoidance provides temporary relief from distressing thoughts and emotions but reinforces feelings of inadequacy and depression."
+  ],
+  "situation": "Planned a weekend for sewing and catching up on work tasks. Was unable to focus on familiar tasks and spent the day watching television.",
+  "auto_thought": "I can't even do the things I planned. I'm just wasting my time and failing again.",
+  "emotion": [
+    "sad",
+    "hopeless",
+    "ashamed",
+    "disappointed",
+    "overwhelmed"
+  ],
+  "behavior": "Sat on the couch and watched television for hours instead of sewing or working. Did not attempt to start any of the planned tasks."
+}

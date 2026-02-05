@@ -1,0 +1,75 @@
+Using description: HISTORY:
+- 28-year-old student.
+- Returned from Egypt.
+- Previously relied on parents for support and is now managing bills, finances, and health insurance independently for the first time.
+- Brother remains financially dependent on parents.
+
+SITUATION:
+- Considering requesting financial help from parents.
+- Looking for affordable counseling services. with ID=6-1
+Sample results (metadata similarity):
+  - sim=0.018 | title='Session 71: Client feels uncomfortable and vulnerable while lying down in therap' | file='1000368484.txt'
+  - sim=0.022 | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de' | file='1001084060.txt'
+  - sim=0.035 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.048 | title='Verilogue session: Client has been in pain from a recent car accident. Her hallu' | file='1003075057.txt'
+  - sim=0.050 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+  - sim=0.054 | title='The Brief Therapy-Eliminating a Compulsion: In a large psychotherapy conference ' | file='1000119395.txt'
+  - sim=0.058 | title='Session 10: Client describes how she hast to talk herself out of getting upset q' | file='1000070472.txt'
+  - sim=0.058 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.061 | title='Session 62: Client wants to feel free in responding sexually to her husband' | file='1000367961.txt'
+  - sim=0.063 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=173 partial_match=1848
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.090 | file='1000088119.txt' | title='Session 3: Client explains his sleep pattern of hypersomnia'
+  - sim=0.123 | file='1000122141.txt' | title='Session 5: Client feels like he is becoming much more honest in his relationship'
+  - sim=0.126 | file='1000133863.txt' | title='Session 12: Client has recently had sexual intercourse for the first time'
+Using LEAST related file for transcript: '1000088119.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a 28-year-old student recently returned from Egypt, is navigating a significant transition as he begins to manage his finances independently for the first time. Previously reliant on parental support, he now faces the challenge of handling bills, finances, and health insurance on his own. This shift has prompted him to consider requesting financial help from his parents, a decision he seems to approach with a mix of reluctance and necessity. During our session, he expressed a sense of frustration with the unpredictability of his current situation, particularly as he juggles changing jobs and the potential closure of his fraternity house, which may necessitate apartment hunting. He remarked, "Only the way my jobs are changing every few months it should be a real bitch to try and keep up with it," highlighting the instability he feels in his current living and working conditions.
+
+Throughout the session, the client frequently returned to the theme of change, both in his personal life and in his relationships. He described feeling disconnected from his past friendships in Boise, noting, "I just don't know them anymore," as he reflected on how both he and his friends have changed over time. This sense of disconnection extends to his relationship with Jessica, where he acknowledged receiving a letter that suggested "something awful fucked up between Jessica and I." He expressed a desire to "get everything on my side" to prepare for potential challenges, indicating a strategy of fortifying his position through financial stability and supportive relationships.
+
+The client's narrative is marked by a philosophical exploration of identity and change. He articulated a fluid sense of self, questioning whether he is "a stationary thing" or if his identity shifts with time and experience. This introspection is accompanied by a broader contemplation of societal structures, where he expressed a preference for a more fluid society, despite recognizing the necessity of some structuring. He mused, "The larger the perspective...the more room I have to be fluid," suggesting a desire for flexibility and adaptability in his worldview.
+
+His coping strategies appear to involve a mix of humor and philosophical detachment, as evidenced by his chuckling recount of past experiences and his musings on the randomness of the universe. He mentioned, "It's like often times, when the whole world doesn't make sense to me," indicating a tendency to retreat into abstract thought as a means of managing stress. This detachment, however, is not without its challenges, as he grapples with the fear of losing touch with reality and the people around him.
+
+The client also expressed a sense of urgency in addressing immediate concerns, such as securing a stable job and maintaining his relationship with Jessica. He noted, "I'd rather just go ahead and try, get myself settled," reflecting a pragmatic approach to his current challenges. Despite this, he remains wary of the potential for depression, particularly if his relationship with Jessica deteriorates further.
+
+In summary, the client is navigating a complex interplay of personal change, relationship dynamics, and philosophical inquiry. His current situation is characterized by a search for stability amidst uncertainty, with a focus on securing financial independence and maintaining meaningful connections. His introspective nature and philosophical musings provide both a coping mechanism and a source of existential questioning, as he seeks to reconcile his evolving identity with the demands of his environment.
+Summary da mistral_.csv: The patient discusses their difficulties with technology, specifically with trying to record their record collection. They also mention the possibility of the fraternity they are living in closing and the need to find a new place to live. The patient expresses feelings of emptiness regarding their connections with people in Boise and describes the rapid changes they have observed in people at the college. The patient reflects on their own changes and the urgency to attend to immediate practical matters, such as finding a job and potentially dealing with relationship issues.
+The patient describes their relationship with Jessica as an "arms race" to fortify their positions and take on conflicts. They mention that when they are separated for long periods, they become unreal to each other due to changes and lack of communication. The patient expresses a problem in rationalizing an excuse to visit Jessica, as they expect disappointment and tension. They discuss the difficulty in re-learning each other when they are together and the challenge of continuing the relationship when separated. The therapist acknowledges the issue of not having enough time to learn and reconnect. The patient also mentions their flexible vocabulary and the attraction of observing the world without being a part of it as a form of insulation from pain. They discuss their perspective on the structure and fluidity of society and their own ability to be fluid and detached. The patient questions the existence of a stable core within themselves.
+The patient discusses their philosophical belief that emotions are more real than physical objects and shares an experience where they saw an old lady and appreciated her beauty despite others finding her unattractive. They ponder whether their different perspectives and ideas come from different parts of themselves or are different aspects of the same evolving self. The patient also reflects on their past drug use and the philosophical insights they gained from it, including the idea that people communicate best when they are open and real with each other. They express a hope for a future where people can communicate without the need for power games or conflict. The patient also shares their belief in the continuity of life and the possibility that we are all connected in some way. They express fear of the idea that we may be inherently bad or that our universe may have no purpose, but also find some comfort in the idea that we may evolve to remember and understand these things. The patient mentions a past traumatic experience with acid
+The patient recounted an experience of being hospitalized after a drug-induced episode, during which they believed they had died and gone to another dimension. They described feeling confused and disoriented, unable to return to the previous reality. The patient mentioned experiencing hallucinations and feeling scared of losing consciousness. They also shared their fear of being in the wrong dimension and their desire to find their way back to their friends. The patient described a moment of realization when they were touched by a real person, which helped them accept their current reality. The patient expressed their ongoing fear of losing consciousness and the possibility of living multiple lives. They discussed their upcoming work schedule and made arrangements for future therapy sessions.
+
+REFINED CCD: description + report
+{
+  "history": "The client, a 28-year-old student, recently returned from Egypt and is managing finances independently for the first time. He previously relied on parental support. He is experiencing a sense of disconnection from past friendships and is concerned about his relationship with Jessica. He is also dealing with job instability and the potential closure of his fraternity house.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I ask for financial help, it means I am failing to be independent. I must handle everything on my own to prove my worth.",
+  "intermediate_belief_depression": "If I can't manage my finances independently, I will never be able to succeed in life.",
+  "coping_strategies": [
+    "The client uses philosophical detachment and humor to manage stress. He retreats into abstract thought when overwhelmed and focuses on securing financial stability and supportive relationships."
+  ],
+  "situation": "Considering requesting financial help from parents.",
+  "auto_thought": "If I ask my parents for help, it means I'm failing. I should be able to handle this on my own.",
+  "emotion": [
+    "frustrated",
+    "anxious",
+    "ashamed"
+  ],
+  "behavior": "He hesitates to ask for help and instead tries to manage on his own, potentially leading to increased stress and isolation."
+}

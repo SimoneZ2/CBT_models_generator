@@ -1,0 +1,29 @@
+{
+  "name": "Jay",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Long-standing friendship with Jersey, who has had multiple surgeries related to disabilities. The patient has previously provided support during Jersey's medical procedures and recovery. Ongoing conflict with roommate Ashby over household issues.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must handle everything on my own or I am failing.",
+  "intermediate_belief_depression": "If I can't manage my responsibilities, I am a failure.",
+  "coping_strategies": "Avoidance and procrastination, leading to increased stress and frustration.",
+  "situation": "Thinking about Jersey's recovery while managing other personal responsibilities.",
+  "auto_thought": "I can't keep up with everything, and I'm letting everyone down.",
+  "emotion": [
+    "Overwhelmed",
+    "Frustrated",
+    "Angry",
+    "Helpless"
+  ],
+  "behavior": "Avoidance of tasks, snapping at others, and feeling stuck."
+}

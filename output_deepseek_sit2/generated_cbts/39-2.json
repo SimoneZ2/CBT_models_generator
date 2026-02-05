@@ -1,0 +1,31 @@
+{
+  "name": "Patient 39",
+  "id": "39",
+  "type": [
+    "health anxiety",
+    "control issues"
+  ],
+  "history": "Recurrent stomachaches with anxiety/stress. Past difficulties with weight, sexuality, academic performance. Transformation during college. Reports seeking control in relationships.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [
+    "I am defective"
+  ],
+  "intermediate_belief": "If I lose control, I'll revert to my unhappy former self.",
+  "intermediate_belief_depression": "My current happiness is fragile and temporary.",
+  "coping_strategies": [
+    "Hyper-control, somatic symptoms, relationship testing."
+  ],
+  "situation": "Concern about losing positive aspects of life or returning to previous unhappy state.",
+  "auto_thought": "\"It's all going to fall apart. The stomachache means I'm slipping back.\"",
+  "emotion": [
+    "panic",
+    "dread",
+    "regression"
+  ],
+  "behavior": "Increases control behaviors (strict diet, excessive exercise), pushes partner away to test loyalty, researches symptoms online."
+}

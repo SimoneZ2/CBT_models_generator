@@ -1,0 +1,74 @@
+Using description: HISTORY:
+- Academic underperformance despite being described as intelligent.
+- Attended a college (institution X), felt isolated, and dropped out.
+- About two years of credits remain to complete the degree.
+- Mother had high expectations.
+- Financial difficulties and pressure from the mother to return home.
+
+SITUATION:
+- Experienced an unproductive week due to scheduling problems.
+- Comparing themselves to their sister's achievements and time management. with ID=18-1
+Sample results (metadata similarity):
+  - sim=0.027 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.040 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+  - sim=0.054 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.058 | title='Verilogue session: Client is suffering from delusional thinking' | file='1001083981.txt'
+  - sim=0.061 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.063 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+  - sim=0.064 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.069 | title='Session 15: Client explains why she can make friendships with certain men but no' | file='1000133901.txt'
+  - sim=0.070 | title='Verilogue session: Client has noticed much fatigue accompanying his depression' | file='1002565930.txt'
+  - sim=0.076 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.058 | file='1001083981.txt' | title='Verilogue session: Client is suffering from delusional thinking'
+  - sim=0.076 | file='1001084088.txt' | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. '
+  - sim=0.091 | file='1001083956.txt' | title='Verilogue session: Client suffers from paranoid-delusional thinking'
+Using LEAST related file for transcript: '1001083981.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of academic underperformance despite being described as intelligent, presents with significant anxiety and fearfulness. During the session, they express feeling increasingly "fearful" each day, describing a pervasive sense of being watched and receiving indirect messages from those around them. This perception of signs and messages seems to be a recurring theme, as the client mentions seeing people "dropping objects" and acting in ways that suggest they should understand something important, yet they feel "lost" and unable to decipher these cues. This sense of confusion and fear is compounded by their belief that people are "keeping their distance," which exacerbates feelings of isolation, a familiar experience from their time at college where they felt isolated and eventually dropped out.
+
+The client's current situation is further complicated by financial difficulties and pressure from their mother to return home, which may contribute to their heightened state of anxiety. They compare themselves unfavorably to their sister, who appears to manage her time and achievements more effectively, leading to feelings of inadequacy. The client reports physical symptoms of anxiety, such as a "tight" chest, which they experience alongside their emotional distress. They also mention taking Seroquel to aid sleep, indicating a reliance on medication to manage their symptoms.
+
+Throughout the session, the client repeatedly returns to the idea that they are supposed to "do something" but are unsure of what that is, reflecting a cognitive pattern of uncertainty and self-doubt. They describe interactions with neighbors and friends, interpreting their actions as coded messages they are meant to understand. This belief that others are communicating in a "code" suggests a cognitive distortion, where the client misinterprets neutral events as significant and threatening. The client also recounts a past incident where someone pointed a gun at them, which they believe was intended to "put fear" in them, further illustrating their heightened sense of threat and vulnerability.
+
+The client's coping strategies appear limited, as they express feeling "weak" and "drained" by the constant vigilance required to interpret these perceived signs. They mention a supportive relationship with a friend they've known for five years, yet even this connection is fraught with the expectation that the friend is also part of the coded messaging. This reflects an interpersonal dynamic where the client struggles to trust others, fearing ulterior motives or hidden meanings in their interactions.
+
+In summary, the client's moment-to-moment experience is characterized by a cycle of triggers, such as perceived signs and social interactions, leading to anxious thoughts and emotions, which in turn manifest in physical symptoms and avoidance behaviors. Their cognitive patterns are marked by misinterpretations and a pervasive sense of fear, which are exacerbated by their current life stressors and past experiences of isolation and unmet expectations. Addressing these cognitive distortions and developing more adaptive coping strategies will be crucial in helping the client manage their anxiety and improve their overall functioning.
+Summary da mistral_.csv: The patient described experiencing signs of fear and feeling that people around them are trying to convey messages, but they are unable to understand the meaning. They mentioned that people are acting differently towards them, dropping objects, and making indirect comments. The patient also mentioned feeling weak and having trouble sleeping, and is taking Seroquel to help with sleep. They mentioned a friend, [NAME OTHER], who is also conveying messages to them. The patient has noticed yellow signs being put up in their community and feels unwanted there. They expressed fear that people may harm or kill them if they do not understand the messages. The patient has not had any close calls or actual attempts on their life before.
+In this session, the patient recounted two separate incidents where they were confronted by individuals who appeared threatening. The first incident involved a man pointing a gun at the patient and pulling the trigger, which the patient believed might have been a blank gun. The patient did not know the man and was unsure of the reason for the encounter. In the second incident, the patient noticed a manager at a Burger King staring at them and acting suspiciously, and also observed two police officers stopping in the middle of the street. The patient felt that the individuals were trying to convey a message to them, and expressed feeling fearful and unsafe. The doctor asked questions to clarify the details of the incidents and expressed concern about the patient's anxiety.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of academic underperformance despite being described as intelligent. They felt isolated during their time at college and eventually dropped out. They experience significant anxiety and fearfulness, compounded by financial difficulties and pressure from their mother to return home. They compare themselves unfavorably to their sister, leading to feelings of inadequacy. The client has a past incident where someone pointed a gun at them, which they believe was intended to instill fear.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't manage my time and achievements like my sister, then I am a failure.",
+  "intermediate_belief_depression": "If I can't figure out what I'm supposed to do, then I'll never succeed.",
+  "coping_strategies": [
+    "The client relies on medication like Seroquel to manage symptoms and feels drained by the constant vigilance required to interpret perceived signs. They struggle to trust others, fearing hidden meanings in interactions."
+  ],
+  "situation": "Experienced an unproductive week due to scheduling problems. Comparing themselves to their sister's achievements and time management.",
+  "auto_thought": "I'm never going to be as successful as my sister. I'm falling behind and can't catch up.",
+  "emotion": [
+    "anxious",
+    "fearful",
+    "inadequate",
+    "overwhelmed"
+  ],
+  "behavior": "The client avoids engaging in productive activities and ruminates on their perceived failures. They may isolate themselves further due to feelings of inadequacy."
+}

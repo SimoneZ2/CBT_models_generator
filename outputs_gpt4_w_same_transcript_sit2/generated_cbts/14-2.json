@@ -1,0 +1,28 @@
+{
+  "name": "Case Study: Financial and Career Stress",
+  "id": "CS001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Financial difficulties following questionable investments. Increased reliance on parents for financial assistance.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must avoid making mistakes to prevent negative outcomes.",
+  "intermediate_belief_depression": "I am unable to make the right decisions for my future.",
+  "coping_strategies": "Avoid discussing financial and career plans with parents to prevent conflict.",
+  "situation": "A discussion with family members about future plans and potential career changes.",
+  "auto_thought": "My parents will not understand and will criticize my decisions.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Avoidance of conversations with parents about career and financial plans.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Patient X",
+  "id": "12345",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Past experiences of pressure related to performance and social interactions. Reports presenting a confident front and hiding vulnerability. A recent business failure led to financial hardship.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must always appear strong and capable.",
+  "intermediate_belief_depression": "If I fail, I am worthless.",
+  "coping_strategies": "Presents a confident front and hides vulnerability.",
+  "situation": "Invited to visit their sister while dealing with financial instability.",
+  "auto_thought": "I can't let anyone see I'm struggling.",
+  "emotion": [
+    "anxiety",
+    "fear"
+  ],
+  "behavior": "Avoids discussing personal struggles and maintains a facade of confidence."
+}

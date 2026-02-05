@@ -1,0 +1,28 @@
+{
+  "name": "Patient 13",
+  "id": "13",
+  "type": [
+    "grief",
+    "guilt"
+  ],
+  "history": "Death of close aunt considered a mother figure. Did not fulfill aunt's last request and wasn't present at death. Pattern of prioritizing others' needs.",
+  "helpless_belief": [],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am bad - dangerous, toxic, evil",
+    "I am immoral"
+  ],
+  "intermediate_belief": "I failed my aunt when she needed me most.",
+  "intermediate_belief_depression": "I'm a terrible person who abandoned someone I loved.",
+  "coping_strategies": [
+    "Reflection, rumination about past actions."
+  ],
+  "situation": "Reflecting on memories involving the aunt and the unfulfilled request.",
+  "auto_thought": "I should have been there. I'll never forgive myself.",
+  "emotion": [
+    "guilt",
+    "regret",
+    "sadness"
+  ],
+  "behavior": "Ruminate about aunt's death and unfulfilled promises."
+}

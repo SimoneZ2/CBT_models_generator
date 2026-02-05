@@ -1,0 +1,29 @@
+{
+  "history": "The client has repeatedly worked in environments with micromanagement, which has contributed to a pattern of self-blame in work contexts. This tendency is reinforced by past experiences where the client was held responsible for issues outside their control. The client internalizes blame, even when not at fault, and this has shaped their cognitive and emotional responses to workplace stressors.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake or am blamed for something at work, it means I am not good enough and I should have done more to prevent it. Even if it wasn't my fault, I am responsible for making sure everything is perfect. I must always catch errors or else others will see me as incompetent.",
+  "intermediate_belief_depression": "If I keep getting blamed for things at work, it proves that I will never be good enough, no matter how hard I try. There's no point in trying because I will always end up being at fault.",
+  "coping_strategies": [
+    "The client tends to ruminate over work incidents, replaying what happened and searching for what they could have done differently. They may overcheck their work or seek reassurance from colleagues, and sometimes withdraw from work-related interactions to avoid further blame."
+  ],
+  "situation": "Being blamed at work for spreadsheet errors that were not theirs.",
+  "auto_thought": "I should have caught this mistake. Everyone will think I'm incompetent, even though it wasn't my fault.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "frustrated",
+    "helpless",
+    "sad"
+  ],
+  "behavior": "I double-check my work repeatedly to make sure there are no more errors. I avoid talking to my supervisor and withdraw from team discussions. I seek reassurance from a colleague to make sure I didn't actually make the mistake.",
+  "source_text_id": "1001084032.txt"
+}

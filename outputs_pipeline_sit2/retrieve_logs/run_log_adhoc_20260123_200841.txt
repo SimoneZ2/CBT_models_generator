@@ -1,0 +1,95 @@
+Using description: HISTORY:
+- Spent about one year working on a project in Europe involving building a website and conducting interviews.
+- Reports pride in the work and a wish to share the results.
+- Past history of procrastination and anxiety.
+- Uses strategies learned from a course and reminders to manage daily life.
+
+SITUATION:
+- Facing ambiguity about life direction and choices, with many options to consider. with ID=16-2
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.583 | title='Session 12: Client over schedules her days leaving her feeling like she is sprea' | file='1000133989.txt'
+  - sim=0.565 | title='Patient "Ma" Session April 10, 2012: Client asks therapist for help in creating ' | file='1004532450.txt'
+  - sim=0.557 | title='Verilogue session: Client's mood has been depressed; he is worried about his bro' | file='1003009271.txt'
+  - sim=0.552 | title='Motivational Therapy Sessions, Client 1, Session 1: The client is a middle-aged ' | file='1003722146.txt'
+  - sim=0.542 | title='Series 3, Session 1: Male client in his 20s with a previous history in therapy p' | file='1003269459.txt'
+  - sim=0.541 | title='Patient "D" Session April 23, 2012: Client had a very promising job interview th' | file='1004538656.txt'
+  - sim=0.533 | title='Verilogue session: Client is experiencing stress in the workplace' | file='1001084028.txt'
+  - sim=0.532 | title='Patient "C" Therapy Session Audio Recording, January 9, 2012: Client feels like ' | file='1004472422.txt'
+  - sim=0.531 | title='Patient "B", Session March 28, 2012: Client is having a hard time completing her' | file='1004528603.txt'
+  - sim=0.529 | title='Verilogue session: Client has been going through rough times and feeling emotion' | file='1001084067.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=6 partial_match=4
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.557 | file='1003009271.txt' | title='Verilogue session: Client's mood has been depressed; he is worried about his bro'
+  - sim=0.552 | file='1003722146.txt' | title='Motivational Therapy Sessions, Client 1, Session 1: The client is a middle-aged '
+  - sim=0.542 | file='1003269459.txt' | title='Series 3, Session 1: Male client in his 20s with a previous history in therapy p'
+Using top selected file for transcript: '1003009271.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of working on a project in Europe, which involved building a website and conducting interviews. They express pride in this work and a desire to share the results. The patient has a past history of procrastination and anxiety and employs strategies learned from a course, along with reminders, to manage daily life. Currently, the patient is facing ambiguity about life direction and choices, with many options to consider.
+
+**Emotional Impact:**
+The patient likely experiences a mix of pride and anxiety. The pride stems from their successful project in Europe, which serves as a source of accomplishment and self-worth. However, the ambiguity regarding life direction may evoke feelings of anxiety, worry, and fear. This emotional state is compounded by the patient's history of procrastination and anxiety, suggesting a tendency to feel overwhelmed when faced with uncertainty or multiple choices.
+
+**Cognitive Patterns:**
+The patient may engage in ruminative thinking, particularly about their future and the many options available. This cognitive style can lead to indecision and a sense of being stuck, as the patient might struggle to prioritize or commit to a particular path. The pride in their past work suggests a positive self-evaluation in areas where they feel competent, but the current ambiguity may challenge their self-efficacy and confidence in making future decisions.
+
+**Behavioral Responses:**
+Given the patient's history of procrastination, they might avoid making decisions about their future, potentially delaying actions that could provide clarity or direction. The use of strategies and reminders indicates an effort to combat these tendencies, suggesting a proactive approach to managing daily tasks. However, the ambiguity about life direction might lead to behaviors such as seeking reassurance from others, excessive planning without action, or engaging in activities that provide temporary distraction from decision-making.
+
+**Coping Styles:**
+The patient employs strategies learned from a course to manage daily life, indicating a structured approach to coping with anxiety and procrastination. These strategies likely include setting reminders and breaking tasks into manageable steps, which can help mitigate feelings of being overwhelmed. However, the current life ambiguity may require additional coping mechanisms, such as exploring values and goals to guide decision-making or engaging in activities that enhance self-reflection and insight.
+
+**Psychological Interpretation:**
+The patient's pride in their European project suggests a capacity for achievement and satisfaction in work that aligns with their skills and interests. However, the current life ambiguity may trigger anxiety and procrastination, as the patient navigates the uncertainty of future choices. Drawing from the transcript, individuals facing similar uncertainties often experience heightened anxiety and may benefit from structured decision-making processes and support systems to explore and clarify their values and goals.
+
+**Recommendations:**
+1. **Cognitive Restructuring:** Encourage the patient to challenge and reframe negative or anxious thoughts about their future. This can involve identifying cognitive distortions and developing more balanced perspectives.
+
+2. **Goal Setting:** Assist the patient in setting short-term and long-term goals that align with their values and interests. This can provide direction and reduce feelings of being overwhelmed by choices.
+
+3. **Behavioral Activation:** Encourage the patient to engage in activities that promote a sense of accomplishment and enjoyment, which can counteract procrastination and anxiety.
+
+4. **Mindfulness and Relaxation Techniques:** Introduce mindfulness practices to help the patient manage anxiety and remain present-focused, reducing the impact of ruminative thinking.
+
+5. **Support Systems:** Encourage the patient to seek support from peers, mentors, or a therapist to explore options and gain perspective on their life direction.
+
+By addressing these areas, the patient can work towards reducing anxiety and procrastination, while gaining clarity and confidence in their life choices.
+Summary da mistral_.csv: In this session, a 19-34 year old Caucasian male patient discussed his brother's upcoming deployment to Iraq, his brother's decision to re-enlist, and his own feelings of worry and anxiety. The patient also mentioned his brother's previous training in California and his upcoming return home. The patient reported taking Cymbalta as a treatment for depression and discussed his academic performance, which he described as mostly Cs and Bs. He mentioned having two tests and one on Wednesday, and feeling prepared but tired. The patient also discussed his plans for the next semester, which may include a summer two class and a dental appointment at a specialized clinic. The patient expressed concerns about his future career and his lack of direction, mentioning teaching as a potential option. He also mentioned feeling down due to his brother's deployment and his own graduation approaching, and expressed anxiety about making decisions regarding his future. The patient reported having few friends and spending
+The patient expresses understanding of their partner's decision to join the military, acknowledging their own desire for military service and the potential impact on their children. They discuss their partner's argument that their children won't remember them being gone, and the patient's counterargument that their absence could mean they won't return at all. The patient mentions their partner's wife being more supportive and their own reservations. They discuss their plans to leave for a medical appointment after their partner leaves for deployment and their partner's flexible work arrangement. The patient mentions their depression improving with the addition of Cymbalta, but they still experience down times and have difficulty getting out of the house. They mention their mother's upcoming visit and their uncertainty about continuing their medication and counseling over the summer. The patient discusses their social anxiety, fear of being the center of attention, and the impact of their scars on their self-confidence. They mention their incons
+The patient discusses their involvement in helping build a fence with their grandpa as a way to feel useful and distracted from suicidal thoughts. They express concern about their future mental state if they are left alone for extended periods. The patient mentions their father's good health and frequent communication. They share their experiences with counseling, finding it helpful in expressing suicidal thoughts and gaining a new perspective. The patient is considering moving in with their sister-in-law for the summer but is hesitant due to potential emotional complications. The therapist encourages the patient to pursue their dreams, such as teaching overseas, and suggests that making choices and experiencing new opportunities can help alleviate feelings of lost time and depression.
+
+ REFINED CCD: description + report
+{
+  "history": "The client spent about a year working on a project in Europe, building a website and conducting interviews, which they feel proud of and wish to share. They have a history of procrastination and anxiety, and currently use strategies learned from a course and reminders to manage daily life. The client is now facing ambiguity about their life direction and choices, with many options to consider. Their pride in past accomplishments contrasts with current uncertainty, which may challenge their confidence and self-efficacy.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't decide on a clear direction for my life, it means I'm not competent enough to handle important decisions. I need to be certain about my future to feel secure and successful. If I make the wrong choice, it will reflect poorly on my abilities.",
+  "intermediate_belief_depression": "If I keep feeling lost about my life direction, it means I'll never figure things out and nothing I do will matter. My past achievements won't count if I can't move forward.",
+  "coping_strategies": [
+    "The client uses structured strategies and reminders to manage daily tasks and reduce anxiety. When faced with major decisions, they may avoid making choices, ruminate about options, or seek temporary distractions to escape the discomfort of uncertainty."
+  ],
+  "situation": "Facing ambiguity about life direction and choices, with many options to consider.",
+  "auto_thought": "I have so many options and I can't figure out which path to take. If I choose wrong, I'll mess up my future.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "overwhelmed",
+    "tense",
+    "self-doubting"
+  ],
+  "behavior": "I put off making decisions and spend a lot of time thinking about all the possible outcomes. I might distract myself with small tasks or seek reassurance from others instead of taking action."
+}

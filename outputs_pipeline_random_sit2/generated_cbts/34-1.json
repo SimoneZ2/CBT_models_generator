@@ -1,0 +1,28 @@
+{
+  "history": "The client lost a brother to suicide during childhood, which was a traumatic event. There has been ongoing family conflict about discussing the loss, and the client's parents initially did not allow them to seek talk therapy after the death. This lack of open communication and support likely contributed to feelings of isolation and unresolved grief. The client may have developed patterns of emotional suppression and avoidance as a result.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let myself feel or talk about my brother's death, it will be overwhelming and no one will support me. If I show my sadness, my family will avoid or reject me. I have to keep my feelings to myself to avoid conflict or making things worse.",
+  "intermediate_belief_depression": "If I try to express my grief, it won't matter because nothing can change and I'll always feel alone.",
+  "coping_strategies": [
+    "The client tends to avoid discussing the loss with family and withdraws emotionally when reminders arise, such as the brother's birthday. They may distract themselves or suppress emotions to manage distress, but this leads to unresolved grief and increased sadness around significant dates."
+  ],
+  "situation": "Realizing that the brother's birthday is approaching.",
+  "auto_thought": "I can't handle thinking about his birthday. No one will understand how hard this is for me.",
+  "emotion": [
+    "sad",
+    "lonely",
+    "anxious",
+    "overwhelmed"
+  ],
+  "behavior": "Withdraws from family interactions. Avoids talking about the brother or the upcoming birthday. Distracts self with other activities to avoid painful feelings.",
+  "source_text_id": "1004504888.txt"
+}

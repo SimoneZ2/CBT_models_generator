@@ -1,0 +1,67 @@
+Using description: HISTORY:
+- Past labor dispute in a previous workplace.
+- Ongoing concerns related to fairness, pay, and authority at work.
+
+SITUATION:
+- Reflecting on a work-related case and the response of a businessman involved. with ID=37-1
+Sample results (metadata similarity):
+  - sim=0.015 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.054 | title='Session 4: Client does not understand why she cannot find someone to date her. S' | file='1000133886.txt'
+  - sim=0.069 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.071 | title='Psychotherapy With Medically Ill Children: Many therapists feel overwhelmed with' | file='1001114244.txt'
+  - sim=0.079 | title='Verilogue session: Client has been experiencing anxiety and some manic episodes' | file='1001084024.txt'
+  - sim=0.081 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.084 | title='Verilogue session: Client notices an improvement more so in his behavior rather ' | file='1003075059.txt'
+  - sim=0.085 | title='Session 5: The SAEB System In the Treatment of Panic Disorder' | file='1000341225.txt'
+  - sim=0.088 | title='Verilogue session: Client's insomnia seems to be causing mood swings' | file='1001280398.txt'
+  - sim=0.089 | title='Verilogue session: Client's mood has lifted recently' | file='1002565845.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.069 | file='1003075021.txt' | title='Verilogue session: Client has been angry, violent and impulsive'
+  - sim=0.084 | file='1003075059.txt' | title='Verilogue session: Client notices an improvement more so in his behavior rather '
+  - sim=0.089 | file='1002565845.txt' | title='Verilogue session: Client's mood has lifted recently'
+Using LEAST related file for transcript: '1003075021.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a young male, has been grappling with significant behavioral challenges, which have been a source of distress both at home and in other environments such as school and work. His history includes a past labor dispute, which has left him with ongoing concerns about fairness and authority, potentially influencing his current reactions to perceived injustices. During the session, the client exhibits a pattern of aggressive and impulsive behavior, often escalating to "angry, aggressive, threatening" outbursts. These episodes are characterized by loud and violent actions, including making "suicidal comments" and threats towards others, which he later regrets but struggles to take responsibility for, as he states, "Nope," when asked if he acknowledges his role in these incidents.
+
+The client's current situation involves reflecting on a work-related case, where he perceives unfair treatment, echoing his past experiences with authority figures. This reflection seems to trigger his automatic thoughts of being "spoiled" or neglected compared to others, which fuels his anger and sense of injustice. His emotional response is intense, often leading to behaviors such as grabbing his mother in frustration, which resulted in physical harm. He admits that when he doesn't "get his way," his immediate reaction is to want to "leave home," indicating a pattern of avoidance and escape when faced with conflict.
+
+Throughout the session, the client avoids discussing the underlying reasons for his behavior, often responding with "Nothing" when probed about his feelings. This avoidance suggests a difficulty in processing and articulating his emotions, which may contribute to his impulsive actions. Despite the aggressive episodes, there is a noted pattern of remorse, as he often wants to "apologize" after calming down, though he recognizes that "it's too late then." This cycle of escalation and regret highlights a struggle with impulse control, which is compounded by his ADHD diagnosis.
+
+The client's coping strategies appear limited, as he relies heavily on external factors, such as medication adjustments, to manage his behavior. The discussion about his medication regimen, including Strattera and Depakote, reveals an ongoing effort to stabilize his mood and impulsivity. However, there is also a concern about his consumption of "pop," which is believed to interfere with the medication's effectiveness and exacerbate his symptoms. The client acknowledges drinking "pop after pop," particularly when away from parental supervision, suggesting a lack of self-regulation and awareness of the consequences.
+
+Interpersonal dynamics within the family are strained, as the caregiver expresses frustration with the need to "give in" to de-escalate situations, which may inadvertently reinforce the client's aggressive behavior. The caregiver's concern about the financial burden of non-generic medication further complicates the treatment plan, highlighting the need for accessible and sustainable interventions. The session concludes with a recommendation for case management and counseling outside the clinical setting, aiming to provide the client with a supportive environment to explore his thoughts and behaviors with a trained counselor. This approach seeks to address the client's impulsivity and emotional regulation in a more naturalistic setting, potentially reducing the frequency and intensity of his outbursts.
+Summary da mistral_.csv: In this session, a male patient with ADHD discussed his aggressive and violent behavior towards family members, including suicidal and homicidal threats. The patient's mother mentioned that these outbursts occur when he doesn't get his way and that they happen weekly or even every other night. The physician suggested adding Depakote to the patient's current medications to help manage impulsivity, as well as implementing case management and counseling outside of sessions. The physician also mentioned that the patient's high glucose levels and consumption of pop could negatively impact his medication's effectiveness. The physician recommended a blood test to monitor the Depakote's effect on the patient's liver and mentioned that there is no generic version of the medication.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of a past labor dispute, which has left him with ongoing concerns about fairness and authority. He exhibits aggressive and impulsive behavior, often escalating to angry, aggressive, threatening outbursts. He struggles with impulse control, compounded by his ADHD diagnosis. The client relies heavily on medication adjustments to manage his behavior, and there is a noted pattern of remorse after aggressive episodes.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't stand up for myself, I will be taken advantage of and treated unfairly.",
+  "intermediate_belief_depression": "If I don't assert myself, I will always be neglected and overlooked.",
+  "coping_strategies": [
+    "The client often resorts to avoidance and escape when faced with conflict, such as wanting to leave home. He also consumes 'pop' excessively, which interferes with his medication's effectiveness. He relies on external factors like medication adjustments to manage his behavior."
+  ],
+  "situation": "Reflecting on a work-related case and the response of a businessman involved.",
+  "auto_thought": "I'm being treated unfairly again, just like before.",
+  "emotion": [
+    "angry",
+    "frustrated",
+    "neglected"
+  ],
+  "behavior": "He reacts with aggressive outbursts, such as grabbing his mother in frustration, and later feels remorseful and wants to apologize."
+}

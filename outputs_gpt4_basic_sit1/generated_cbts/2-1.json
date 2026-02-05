@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recent family tension related to a conversation with parents about a wedding list. The patient noticed similarities between their own actions and their father's patterns. The father is described as repeatedly seeking approval and unconditional love from family members.",
+  "helpless_belief": [
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet my family's expectations, I will be rejected.",
+  "intermediate_belief_depression": "I must gain approval to feel accepted.",
+  "coping_strategies": "Attempts to please family members and avoid conflict.",
+  "situation": "Disagreement with parents regarding the guest list for an upcoming event.",
+  "auto_thought": "They won't accept my decisions.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Avoids confrontation and tries to accommodate others' wishes."
+}

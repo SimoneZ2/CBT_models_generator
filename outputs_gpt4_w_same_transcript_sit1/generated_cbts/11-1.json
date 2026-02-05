@@ -1,0 +1,32 @@
+{
+  "name": "Case Study",
+  "id": "001",
+  "type": [
+    "Depression",
+    "Anxiety"
+  ],
+  "history": "History of isolation and chronic depression since late adolescence. Past difficulties with friendships. Recent breakup preceding a relapse into a depressive episode. History of taking SSRIs and recent medication adjustments following the relapse.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I need to be perfect to be accepted.",
+  "intermediate_belief_depression": "I can't handle life's challenges.",
+  "coping_strategies": "Avoidance of relationships and social situations.",
+  "situation": "Engaged in a conversation with a friend about mental health struggles.",
+  "auto_thought": "They will think less of me if they know how I really feel.",
+  "emotion": [
+    "Sadness",
+    "Anxiety",
+    "Fear"
+  ],
+  "behavior": "Withdrawal from social interactions and reluctance to seek help."
+}

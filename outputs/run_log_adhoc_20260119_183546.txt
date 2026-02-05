@@ -1,0 +1,94 @@
+Using description: HISTORY:
+- Longstanding friendship with Ethan since high school (about 14 years).
+- Shared personal crises and professional collaborations.
+- Learned that Ethan has been abusive toward his girlfriend.
+
+SITUATION:
+- Struggling to contact Ethan directly. with ID=50-2
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.502 | title='Session 2: Client is afraid that she may lose her best friend to her lover' | file='1000122292.txt'
+  - sim=0.497 | title='Series 4, Session 7: Client sees the male friend she is interested in again but ' | file='1003269471.txt'
+  - sim=0.496 | title='Patient "B", Session November 02, 2012: Client is so angry and frustrated about ' | file='1004824661.txt'
+  - sim=0.479 | title='Patient "Ju", Session May 01, 2012: Client has been feeling exhausted. She talks' | file='1004538612.txt'
+  - sim=0.476 | title='Patient "S" Session March 19, 2012: Client had a fight with her roommates and is' | file='1004522838.txt'
+  - sim=0.476 | title='Patient "S", Session June 29, 2012: Client is upset with her boyfriend. He has b' | file='1004687752.txt'
+  - sim=0.473 | title='Session 3: Client is upset in his relationship with his mother, her feels like h' | file='1000016538.txt'
+  - sim=0.470 | title='Session 16: Client is in a stalemate in his relationship with his girlfriend' | file='1000061045.txt'
+  - sim=0.466 | title='Patient "S", Session September 21, 2012: Client talks about where her relationsh' | file='1004798837.txt'
+  - sim=0.466 | title='Symbolic/Experiential Family Therapy: This transcript is an initial therapy sess' | file='1001115118.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=7 partial_match=3
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.502 | file='1000122292.txt' | title='Session 2: Client is afraid that she may lose her best friend to her lover'
+  - sim=0.497 | file='1003269471.txt' | title='Series 4, Session 7: Client sees the male friend she is interested in again but '
+  - sim=0.496 | file='1004824661.txt' | title='Patient "B", Session November 02, 2012: Client is so angry and frustrated about '
+Using top selected file for transcript: '1000122292.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient History and Presenting Situation:**
+
+The patient has maintained a longstanding friendship with Ethan for approximately 14 years, beginning in high school. This relationship has been characterized by mutual support during personal crises and professional collaborations. Recently, the patient discovered that Ethan has been abusive toward his girlfriend. The patient is currently struggling with the decision to contact Ethan directly.
+
+**Emotional Impact:**
+
+The revelation about Ethan's abusive behavior likely evokes a complex emotional response in the patient. Given the depth and duration of their friendship, the patient may feel a mix of emotions, including disappointment, betrayal, and confusion. The patient might experience sadness and a sense of loss, as the image of Ethan as a trusted friend is now tainted by his actions. This situation could also lead to feelings of guilt or self-doubt, questioning whether there were signs of this behavior that were missed or ignored.
+
+**Cognitive Patterns:**
+
+The patient may engage in rumination, repeatedly thinking about the implications of Ethan's behavior and the impact on their friendship. There might be cognitive dissonance as the patient tries to reconcile the image of Ethan as a supportive friend with the new information about his abusive behavior. This could lead to cognitive distortions, such as all-or-nothing thinking, where the patient might view the entire friendship as negative due to this revelation.
+
+**Behavioral Responses:**
+
+The patient's struggle to contact Ethan directly suggests avoidance behavior. This avoidance may stem from a fear of confrontation or uncertainty about how to address the situation. The patient might also be procrastinating on making a decision about the friendship, hoping the situation will resolve itself without direct intervention.
+
+**Coping Styles:**
+
+The patient may be employing a passive coping style, characterized by avoidance and withdrawal. This is evident in the hesitation to contact Ethan directly. The patient might also seek reassurance from other friends or engage in social withdrawal to process the situation privately. There could be a tendency to fall back on familiar routines or distractions to avoid dealing with the emotional discomfort.
+
+**Supporting Psychological Patterns:**
+
+Drawing from the transcript, individuals often struggle with expressing their feelings directly, especially when it involves conflict within close relationships. The patient might fear that addressing the issue could lead to the loss of the friendship, similar to patterns observed in the transcript where individuals avoid direct confrontation to prevent discomfort or conflict. This aligns with the patient's current avoidance of contacting Ethan.
+
+**Conclusion:**
+
+The patient is experiencing a significant emotional and cognitive conflict due to the revelation about Ethan's behavior. The avoidance of direct contact with Ethan indicates a struggle with confronting difficult emotions and potential conflict. It may be beneficial for the patient to explore these feelings in a therapeutic setting, focusing on developing assertive communication skills and addressing cognitive distortions to navigate this challenging situation effectively.
+Summary da mistral_.csv: The patient discussed two relationship-related issues that occurred during the past week. The first issue was with their best friend, who had made the patient feel responsible for a conflict between her and her lover. The patient expressed feeling at their wit's end with this situation and was concerned about potentially losing their friendship. The second issue was with a woman the patient had been seeing, who gave mixed messages and played head games. The patient decided to no longer accept her calls and move on from the relationship. The patient also mentioned a past friendship that ended due to similar circumstances and expressed feelings of anger about that situation. The patient is anticipating that the friendship with their best friend may come to an end and is planning to spend less time with them. The patient did not express a desire for their friend to spend more time with them, but rather wanted to avoid the issues that arise when the friend's lover is present. The patient also mentioned that they know their friend well enough to understand that if
+The patient expresses their frustration with their friend Beth, who has been spending time with her lover in the presence of the patient. The patient feels that Beth is threatening their friendship by ignoring their feelings and making them feel uncomfortable. The patient has tried to communicate their discomfort to Beth but feels that she does not take their concerns seriously. The patient is unsure of how Beth would respond if they directly express their feelings and fears that she may ignore or dismiss them. The counselor points out the contradiction in the patient's expectations that Beth should understand their feelings without being explicitly told, while the patient is unwilling to express them directly. The patient shares that they have a history of feeling unheard and invalidated when expressing their feelings in relationships, leading them to avoid doing so. The counselor asks if this dynamic is unique to the relationship with Beth or if it has occurred in other relationships. The patient acknowledges that the counselor's questioning and acknowledgment of their
+The patient expresses concerns about the potential impact of a hypothetical breakup between her friend Beth and her partner Fiona. The counselor explores the patient's feelings, suggesting that she might be feeling jealous and that the situation may cause a significant loss if the friendship changes. The patient denies feeling jealous but admits to feeling angry and annoyed with Fiona's behavior. The patient also mentions Beth's tendency to ignore the patient's feelings unless they are very intense. The counselor points out that the patient may be ignoring her own feelings in this situation and suggests that the patient's response might be a pattern of avoiding uncomfortable situations, as discussed in previous sessions. The patient considers the possibility of focusing on other interests and distancing herself from the situation if the friendship changes.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has had a close friendship with Ethan for about 14 years, marked by mutual support during personal crises and professional collaborations. The recent discovery of Ethan's abusive behavior toward his girlfriend has caused the client to question the foundation of their relationship. The client may be experiencing cognitive dissonance, struggling to reconcile Ethan's supportive role in their life with his harmful actions. There is evidence of rumination and possible self-doubt, as the client wonders if warning signs were missed.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I confront Ethan, I might lose the friendship or make things worse. If I avoid the situation, maybe the discomfort will go away. It's safer to keep my feelings to myself than risk conflict with someone important to me.",
+  "intermediate_belief_depression": "If I can't fix this or make the right choice, maybe I'm not a good friend or person.",
+  "coping_strategies": [
+    "The client is avoiding direct contact with Ethan, possibly to delay confrontation and emotional discomfort. There is evidence of rumination and withdrawal, as the client struggles privately rather than seeking resolution. The client may also distract themselves or seek reassurance from others to manage distress."
+  ],
+  "situation": "Struggling to contact Ethan directly.",
+  "auto_thought": "If I reach out to Ethan, I might have to face the reality of what he's done and it could destroy our friendship. I don't know if I can handle losing him or dealing with this conflict.",
+  "emotion": [
+    "anxious",
+    "confused",
+    "sad",
+    "guilty",
+    "disappointed"
+  ],
+  "behavior": "I hesitate and put off contacting Ethan. I avoid making a decision and withdraw from direct communication. I ruminate about what to do but don't take action."
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Patient 9",
+  "id": "9",
+  "type": [
+    "caregiver stress",
+    "roommate conflict"
+  ],
+  "history": "Long-standing friendship with disabled friend Jersey whom she supports. Ongoing conflict with roommate Ashby over household issues.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be taken advantage of"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "My needs don't matter; I exist to serve others.",
+  "intermediate_belief_depression": "No one respects my boundaries; I'll always be the responsible one.",
+  "coping_strategies": [
+    "Passive aggression, complaining to others instead of confronting, overfunctioning."
+  ],
+  "situation": "The kitchen becomes dirty because Ashby does not take out the trash after cooking.",
+  "auto_thought": "\"Why do I always have to clean up after everyone? No one respects me.\"",
+  "emotion": [
+    "resentment",
+    "frustration",
+    "helplessness"
+  ],
+  "behavior": "Cleans the kitchen angrily, slams cabinets, texts Jersey to complain."
+}

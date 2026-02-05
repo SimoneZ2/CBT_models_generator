@@ -1,0 +1,90 @@
+Using description: HISTORY:
+- History of substance abuse and completed rehabilitation.
+- Ongoing family conflict involving the relationship with his mother, described as emotional neglect and rejection.
+- Longstanding obesity since childhood.
+- Past experiences of bullying related to weight.
+
+SITUATION:
+- Received an invitation to a cousin's upcoming wedding.
+- Has not responded to the RSVP request and has not answered follow-up calls from family members. with ID=1-1
+Sample results (metadata similarity):
+  - sim=0.038 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.077 | title='Patient "K", Session November 13, 2012: Client has been feeling depressed with a' | file='1004824685.txt'
+  - sim=0.084 | title='Changing Timelines: How we represent events in time has a large impact on many o' | file='1000137961.txt'
+  - sim=0.085 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.092 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+  - sim=0.092 | title='Aligning Perceptual Positions: The idea of stepping into someone else's experien' | file='1000259024.txt'
+  - sim=0.100 | title='Patient "L", Session April 24, 2012: Client struggles with letting go of her nee' | file='1004538616.txt'
+  - sim=0.100 | title='Client "S", Session September 21, 2012: Client is currently working towards his ' | file='1004824793.txt'
+  - sim=0.101 | title='Client "S", Session October 12, 2012: Client speaks extensively about his studie' | file='1004824797.txt'
+  - sim=0.101 | title='Session 71: Client feels uncomfortable and vulnerable while lying down in therap' | file='1000368484.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2020 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.038 | file='1004798723.txt' | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to '
+  - sim=0.077 | file='1004824685.txt' | title='Patient "K", Session November 13, 2012: Client has been feeling depressed with a'
+  - sim=0.084 | file='1000137961.txt' | title='Changing Timelines: How we represent events in time has a large impact on many o'
+Using LEAST related file for transcript: '1004798723.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient has a history of substance abuse and has completed rehabilitation. He is currently experiencing ongoing family conflict, particularly involving his relationship with his mother, which is characterized by feelings of emotional neglect and rejection. The patient has struggled with obesity since childhood and has past experiences of bullying related to his weight.
+
+**Current Situation:**
+The patient received an invitation to a cousin's upcoming wedding but has not responded to the RSVP request and has not answered follow-up calls from family members.
+
+**Emotional and Cognitive Reactions:**
+The patient likely experiences a complex array of emotions in response to the described facts. The ongoing family conflict, particularly the emotional neglect and rejection from his mother, may lead to feelings of sadness, loneliness, and hurt. These emotions could be compounded by a sense of shame or embarrassment related to his longstanding obesity and past bullying experiences. The invitation to the cousin's wedding might trigger anxiety and worry about potential judgment or rejection from family members, leading to avoidance behaviors.
+
+Cognitively, the patient may engage in negative self-talk and harbor beliefs of inadequacy or unworthiness, possibly stemming from the emotional neglect and past bullying. These cognitive patterns could contribute to a fear of criticism or humiliation, as suggested by the reluctance to engage with family members regarding the wedding invitation.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive patterns, the patient exhibits avoidance behaviors, such as not responding to the RSVP request and ignoring follow-up calls from family members. This avoidance may serve as a coping mechanism to protect himself from potential emotional pain or rejection. Additionally, the patient might procrastinate or withdraw from social interactions, further isolating himself from supportive relationships.
+
+The transcript provides indirect support for these interpretations, as it highlights a tendency to avoid tasks due to fear of failure or criticism, as well as a pattern of checking and double-checking work without taking action. This behavior reflects a broader pattern of avoidance and hesitation, which may extend to social situations, such as the family wedding.
+
+**Coping Styles:**
+The patient may rely on avoidance and withdrawal as primary coping strategies to manage distressing emotions and situations. These strategies, while providing temporary relief, could reinforce feelings of isolation and inadequacy. The transcript suggests that the patient is aware of these tendencies and has attempted to implement changes in his behavior, such as questioning the necessity of certain actions and seeking help when needed. However, the fear of making mistakes or being criticized may still hinder progress.
+
+**Conclusion:**
+The patient's history of emotional neglect, obesity, and bullying, combined with current family conflict, likely contributes to a complex emotional landscape characterized by sadness, anxiety, and avoidance. These emotional and cognitive patterns manifest in behaviors such as withdrawal and procrastination, particularly in social contexts. Addressing these patterns through cognitive restructuring and gradual exposure to feared situations may help the patient develop healthier coping mechanisms and improve his overall well-being.
+Summary da mistral_.csv: In this therapy session chunk, the client discusses their work day, sharing that they were able to resist the urge to use the Internet before lunch, and instead focused on their tasks. They also shared their frustration with tool failures and their reluctance to submit changes due to fear of breaking things and being criticized. The client mentioned their resistance to the therapist's suggestion that they might be holding themselves back due to past experiences of criticism and humiliation. The client also shared that not checking the Internet in the morning improves their mood and reduces their anger and crabbiness.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of substance abuse and has completed rehabilitation. He reports ongoing family conflict, especially with his mother, who he describes as emotionally neglectful and rejecting. He has struggled with obesity since childhood and has experienced bullying related to his weight. These experiences have contributed to feelings of sadness, loneliness, and hurt, as well as shame and embarrassment about his body and social standing. The emotional neglect and bullying have likely shaped his beliefs about himself and his relationships with others.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I put myself in situations with my family, I will be judged or rejected, so it's safer to avoid them. If I show up, people will notice my flaws and I will feel exposed. I must protect myself from being hurt by staying away from situations where I could be criticized or humiliated.",
+  "intermediate_belief_depression": "No matter what I do, I will always end up feeling alone and rejected, so there's no point in trying to connect. If I try to participate, I will just be reminded that I don't belong.",
+  "coping_strategies": [
+    "The client avoids responding to family invitations and ignores follow-up calls, withdrawing from social contact to protect himself from anticipated rejection or criticism. He procrastinates on social obligations and isolates himself, which provides temporary relief but reinforces his sense of isolation and inadequacy."
+  ],
+  "situation": "Received an invitation to a cousin's upcoming wedding. Has not responded to the RSVP request and has not answered follow-up calls from family members.",
+  "auto_thought": "If I go to the wedding, everyone will judge me and I'll feel completely out of place. It's better if I just stay away so I don't embarrass myself.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "worried",
+    "lonely",
+    "hurt",
+    "sad"
+  ],
+  "behavior": "He ignores the RSVP request and does not answer calls from family members. He avoids making a decision about attending and withdraws from contact with his family."
+}

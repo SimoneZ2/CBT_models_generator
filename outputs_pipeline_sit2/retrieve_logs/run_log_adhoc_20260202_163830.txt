@@ -1,0 +1,83 @@
+Using description: HISTORY:
+- History of substance abuse and completed rehabilitation.
+- Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect.
+- Longstanding obesity since childhood.
+- Past experiences of bullying related to weight.
+
+SITUATION:
+- Missed an alarm and woke up late for work. with ID=1-2
+Sample results (metadata similarity):
+  - sim=0.014 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.137 | title='Session 17: Client sees herself as having an overbearing, aggressive personality' | file='1000133903.txt'
+  - sim=0.151 | title='Patient "R" Session June 25, 2012: Client knows that she should be working on co' | file='1004600948.txt'
+  - sim=0.165 | title='Client "S", Session September 21, 2012: Client is currently working towards his ' | file='1004824793.txt'
+  - sim=0.177 | title='Person-Centered Child Therapy Session Transcript: Anin Utigaard masterfully teac' | file='1001114250.txt'
+  - sim=0.180 | title='Session 4: Client does not understand why she cannot find someone to date her. S' | file='1000133886.txt'
+  - sim=0.182 | title='Patient "B", Session November 12, 2012: Client talks about feeling guilty for tr' | file='1004824659.txt'
+  - sim=0.182 | title='Patient "L", Session May 09, 2012: Client has been feeling good about her work; ' | file='1004564967.txt'
+  - sim=0.184 | title='Session 8: Client tells therapist how bad she was feeling and then how she start' | file='1000013260.txt'
+  - sim=0.185 | title='Volume no. 12: Gregg: Client and therapist discuss client's dreams' | file='1002133158.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.014 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.137 | file='1000133903.txt' | title='Session 17: Client sees herself as having an overbearing, aggressive personality'
+  - sim=0.151 | file='1004600948.txt' | title='Patient "R" Session June 25, 2012: Client knows that she should be working on co'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of substance abuse and has completed rehabilitation, presents with ongoing family difficulties, particularly with his mother, which he describes as involving "rejection and emotional neglect." These past experiences seem to have shaped his current cognitive patterns and emotional responses. During the session, the client did not directly address these family issues, instead focusing on his academic pursuits and the intellectual challenges he faces. This avoidance might suggest a coping mechanism to manage the emotional discomfort associated with his family dynamics.
+
+The client has also struggled with obesity since childhood and has experienced bullying related to his weight. These experiences may contribute to a sense of inadequacy or self-consciousness, which could be influencing his current behavior and thought patterns. In the session, he expressed a sense of self-consciousness about being "in this little bubble of math," indicating a possible underlying insecurity about his intellectual pursuits and their relevance to his life.
+
+Recently, the client missed an alarm and woke up late for work, a situation he did not mention during the session. This omission might indicate a tendency to avoid discussing areas where he feels he has failed or lacks control. Instead, he focused on his academic achievements and the satisfaction he derives from understanding complex mathematical concepts. He described a sense of accomplishment when he was able to "teach the material" to his peers, suggesting that intellectual mastery provides him with a sense of validation and self-worth.
+
+Throughout the session, the client frequently returned to the theme of learning and understanding mathematics, describing it as a process of moving from confusion to clarity. He mentioned feeling "completely confused and frustrated" initially but then experiencing a sense of progress and mastery. This pattern of thought reflects a cognitive strategy where he seeks to transform initial feelings of inadequacy into competence through effort and learning.
+
+The client also discussed the importance of visual aids in his learning process, noting that drawing pictures helps him understand and communicate complex ideas. This preference for visual learning might be a coping strategy to manage the anxiety associated with not understanding abstract concepts immediately. He expressed pride in his ability to "draw really well," which suggests that this skill provides him with a sense of competence and confidence.
+
+Despite his intellectual focus, the client did not address the emotional or interpersonal aspects of his life, such as his relationship with his mother or the impact of his obesity and past bullying. This avoidance might indicate a reluctance to confront painful emotions or a belief that intellectual achievement can compensate for emotional distress. The client's focus on mathematics and teaching could be a way to create a sense of order and control in his life, contrasting with the unpredictability and emotional complexity of his family relationships.
+
+In conclusion, the client's session highlights a pattern of using intellectual pursuits as a coping mechanism to manage underlying feelings of inadequacy and emotional neglect. His focus on academic achievement and the satisfaction derived from teaching suggests a need for validation and self-worth, which he may not be receiving from his familial relationships. The client's avoidance of discussing personal and emotional issues indicates a potential area for therapeutic exploration, particularly in addressing how these unresolved issues might be influencing his current cognitive and emotional patterns.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of substance abuse and has completed rehabilitation. He reports ongoing family difficulties, particularly with his mother, involving rejection and emotional neglect. He has struggled with obesity since childhood and has experienced bullying related to his weight. These experiences have contributed to feelings of inadequacy and self-consciousness, as well as a tendency to avoid discussing emotionally painful topics, focusing instead on intellectual pursuits for validation.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I make a mistake or fail to meet expectations, others will see me as incompetent and I will be rejected. To avoid feeling inadequate, I must always perform perfectly and prove my worth through achievement. If I let people down, it confirms that I am not good enough and don't deserve acceptance.",
+  "intermediate_belief_depression": "If I can't even manage basic responsibilities like waking up on time, it means I am hopeless and will never be able to improve my life. My failures prove that I am fundamentally flawed and nothing I do will make a difference.",
+  "coping_strategies": [
+    "The client tends to avoid discussing emotionally charged or painful topics, focusing instead on academic or intellectual achievements to gain a sense of control and validation. He uses mastery of complex subjects and teaching others as a way to compensate for feelings of inadequacy and emotional neglect. When faced with distressing situations, he may withdraw or avoid acknowledging his perceived failures."
+  ],
+  "situation": "Missed an alarm and woke up late for work.",
+  "auto_thought": "I can't believe I messed up again—everyone at work will think I'm unreliable. This just proves I'm not good enough and can't get my life together.",
+  "emotion": [
+    "ashamed",
+    "anxious",
+    "guilty",
+    "frustrated",
+    "disappointed"
+  ],
+  "behavior": "He avoids mentioning the incident to others and tries to minimize attention at work. He ruminates about his mistake and withdraws socially, focusing instead on tasks he feels competent in, such as academic work."
+}

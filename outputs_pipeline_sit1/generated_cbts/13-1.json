@@ -1,0 +1,58 @@
+{
+  "name": "CBT Conceptualization for Grief and Guilt after Loss of Aunt",
+  "id": "13-1",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization",
+    "Grief",
+    "Guilt"
+  ],
+  "history": "The patient experienced the death of a close aunt, who was a mother figure. They were unable to fulfill her last request and were not present at her death. There is a longstanding pattern of prioritizing others' needs over their own, which may have contributed to their absence. The patient now reflects on memories with the aunt, especially the unfulfilled request, which intensifies their emotional distress.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't meet the needs or requests of those I love, it means I am failing them and I am not a good person. I must always put others first, or I am selfish and undeserving of their love. If I make a mistake or let someone down, it defines my worth.",
+  "intermediate_belief_depression": "If I can't be there for the people who matter most, then I am hopeless and nothing I do can make up for it. My mistakes are proof that I am not capable of being a good person, so there is no point in trying.",
+  "coping_strategies": "The patient ruminates on past interactions and the unfulfilled request, repeatedly replaying what they could have done differently. They avoid places or activities associated with the aunt to manage overwhelming emotions. They may immerse themselves in caretaking roles for others as a distraction from their own pain.",
+  "situation": "Reflecting on memories involving the aunt and the unfulfilled request.",
+  "auto_thought": "I should have been there for her and done what she asked. I failed her when she needed me most.",
+  "emotion": [
+    "guilty",
+    "sad",
+    "regretful",
+    "ashamed",
+    "anxious"
+  ],
+  "behavior": "I withdraw from situations that remind me of my aunt. I replay the memories and what I could have done differently. I focus on helping others to distract myself from my own feelings.",
+  "rationale": "\"The patient's inability to fulfill the aunt's last request and absence at her death may intensify feelings of guilt and regret, potentially leading to self-reproach and rumination over missed opportunities.\" \"The patient may exhibit cognitive distortions typical in grief and guilt, such as 'should have' thoughts or overgeneralizing their perceived failure...\" \"The patient might withdraw or avoid situations that remind them of the aunt, as a way to manage overwhelming emotions.\" \"The patient may cope by ruminating on past interactions with the aunt, particularly focusing on the unfulfilled request.\"",
+  "core_belief_predictions": {
+    "source_id": "13-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable",
+      "worthless"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable",
+      "I am worthless, waste"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

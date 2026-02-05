@@ -1,0 +1,31 @@
+{
+  "name": "PhD Candidate Case Formulation",
+  "id": "phd-cand-ccd-001",
+  "type": [
+    "CBT",
+    "Case Conceptualization",
+    "Academic Stress"
+  ],
+  "history": "The client is a PhD candidate engaged in scientific research, working on a sequencing-related study. They collaborate with a senior scientist who has struggled to gain recognition, which may reinforce concerns about achievement and status. The client frequently compares themselves to colleagues who work longer hours and publish more, suggesting a longstanding pattern of self-evaluation based on external metrics. The competitive academic environment and exposure to others' successes contribute to ongoing self-doubt and pressure.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't work as hard or publish as much as my colleagues, then I am falling behind and won't be respected in my field. My worth as a researcher depends on matching or exceeding the productivity of those around me. I must constantly prove myself to avoid being seen as a failure.",
+  "intermediate_belief_depression": "If I can't keep up with my colleagues, it means I'm a failure and will never succeed, so there's no point in trying because I'll always fall short.",
+  "coping_strategies": "The client tends to overwork in an attempt to match or surpass colleagues, sometimes at the expense of their well-being. They may also procrastinate or avoid tasks when feeling overwhelmed by comparison, and occasionally seek reassurance from peers or mentors to validate their worth.",
+  "situation": "Comparing themselves to colleagues who work longer hours and publish more papers.",
+  "auto_thought": "I'm not doing enough compared to everyone else. If I don't catch up, I'll never be successful in this field.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "inadequate",
+    "self-doubting"
+  ],
+  "behavior": "I stay late in the lab trying to get more done, even when I'm exhausted. Sometimes I avoid starting new tasks because I'm afraid I won't measure up. I check in with colleagues or mentors to see if I'm on the right track.",
+  "rationale": "\"The patient frequently compares themselves to colleagues who work longer hours and have a higher publication rate.\" \"Feelings of inadequacy and self-doubt may arise, particularly when comparing themselves to peers who appear more productive.\" \"This comparison could lead to emotions such as anxiety, worry, and tension.\" \"The patient might exhibit behaviors such as overworking or procrastinating.\" \"The patient may rely on maladaptive coping mechanisms such as avoidance or seeking reassurance.\""
+}

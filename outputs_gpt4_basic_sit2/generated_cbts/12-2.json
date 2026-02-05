@@ -1,0 +1,26 @@
+{
+  "name": "PhD Student",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "PhD student in a science field, deeply involved in music, previously led a college band, currently participates in a jazz group, offered a leadership position in the jazz group and declined, reports mental health struggles, feels disconnected from colleagues in the scientific work environment due to differing values and work habits.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must avoid additional responsibilities to manage my mental health.",
+  "intermediate_belief_depression": "I can't handle leadership roles because I will fail.",
+  "coping_strategies": "Avoids taking on leadership roles to prevent feeling overwhelmed.",
+  "situation": "Offered a leadership position in the jazz group and decided not to accept it due to concern about managing responsibilities alongside PhD work and mental health.",
+  "auto_thought": "I can't manage both my PhD and a leadership role in the jazz group.",
+  "emotion": [
+    "Anxiety",
+    "Fear"
+  ],
+  "behavior": "Declined the leadership position in the jazz group."
+}

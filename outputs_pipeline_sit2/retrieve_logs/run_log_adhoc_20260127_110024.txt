@@ -1,0 +1,84 @@
+Using description: HISTORY:
+- Recent shoulder surgery with a painful recovery.
+- Ongoing pain, numbness, and tingling related to a herniated cervical disc.
+- Prior history of physical therapy for past walking difficulties and back issues.
+- Past prolonged illness associated with a period of immobility.
+- Started a new relationship and later experienced a return of physical symptoms.
+
+SITUATION:
+- Received an MRI report indicating a herniated disc.
+- Contacted the therapist after receiving the report. with ID=4-1
+Top results (by metadata similarity):
+  - sim=0.632 | title='Verilogue session: Client becomes depressed at night and often ends up crying' | file='1003009289.txt'
+  - sim=0.614 | title='Verilogue session: Client suffers from chronic back pain which may require surge' | file='1001083939.txt'
+  - sim=0.605 | title='Verilogue session: Client has been in pain with chronic neck and disc aches alon' | file='1002565897.txt'
+  - sim=0.601 | title='Verilogue session: Client has been diagnosed with Fibromyalgia; she has lost her' | file='1002565943.txt'
+  - sim=0.593 | title='Verilogue session: Client is feeling depressed due to a disability keeping him f' | file='1002565955.txt'
+  - sim=0.592 | title='Verilogue session: Client is managing chronic pain but, is unable to cope with t' | file='1001084020.txt'
+  - sim=0.591 | title='Verilogue session: Client has been extremely physically ill recently; it's been ' | file='1001083934.txt'
+  - sim=0.588 | title='Verilogue session: Client's chronic pain is causing her to worry excessively and' | file='1001084016.txt'
+  - sim=0.584 | title='Verilogue session: Client is suffering from multiple physical ailments which are' | file='1001083941.txt'
+  - sim=0.567 | title='Verilogue session: Client has suffered a relapse of mood' | file='1002565865.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.632 | file='1003009289.txt' | title='Verilogue session: Client becomes depressed at night and often ends up crying'
+  - sim=0.614 | file='1001083939.txt' | title='Verilogue session: Client suffers from chronic back pain which may require surge'
+  - sim=0.605 | file='1002565897.txt' | title='Verilogue session: Client has been in pain with chronic neck and disc aches alon'
+Using top selected file for transcript: '1003009289.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has recently undergone shoulder surgery and is experiencing a painful recovery. Additionally, they are dealing with ongoing pain, numbness, and tingling due to a herniated cervical disc. The patient has a history of physical therapy for previous walking difficulties and back issues, as well as a past prolonged illness that resulted in a period of immobility. They have recently started a new relationship, which coincided with the return of physical symptoms. The patient contacted the therapist after receiving an MRI report indicating a herniated disc.
+
+**Emotional Impact:**
+The patient's recent shoulder surgery and the painful recovery process likely contribute to feelings of frustration, helplessness, and anxiety. The ongoing pain and discomfort from the herniated cervical disc may exacerbate these emotions, leading to increased stress and potential feelings of being overwhelmed. The return of physical symptoms after starting a new relationship might evoke feelings of disappointment and fear about the impact of their health on personal relationships. The MRI report confirming the herniated disc could intensify feelings of worry and uncertainty about their physical health and future mobility.
+
+**Cognitive Patterns:**
+The patient may engage in negative thought patterns, such as catastrophizing or all-or-nothing thinking, particularly in relation to their health and recovery. They might ruminate on worst-case scenarios regarding their physical condition and its implications for their daily life and relationships. The recurrence of symptoms after starting a new relationship could lead to cognitive distortions, such as personalizing or overgeneralizing, where the patient might blame themselves or view the situation as indicative of future relationship challenges.
+
+**Behavioral Responses:**
+The patient may exhibit avoidance behaviors, such as withdrawing from social activities or physical tasks that exacerbate their pain. They might also procrastinate on seeking further medical advice or engaging in recommended physical therapy exercises due to fear of pain or further injury. The patient could seek reassurance from their partner or healthcare providers about their health status and recovery prospects. Additionally, they might engage in behaviors to distract from their discomfort, such as scrolling through social media or watching television.
+
+**Coping Styles:**
+The patient may rely on maladaptive coping mechanisms, such as avoidance or denial, to manage their emotional distress. They might also use distraction techniques to temporarily alleviate anxiety or discomfort. However, the patient may benefit from developing more adaptive coping strategies, such as mindfulness practices or relaxation techniques, to better manage their pain and emotional responses. Engaging in cognitive restructuring could help the patient challenge and reframe negative thought patterns, promoting a more balanced perspective on their health and recovery.
+
+**Conclusion:**
+The patient's recent medical experiences and the return of physical symptoms present significant emotional and cognitive challenges. By addressing these through cognitive-behavioral strategies, the patient can work towards improving their emotional well-being and developing healthier coping mechanisms. Encouraging the patient to engage in physical therapy and explore adaptive coping strategies will be crucial in supporting their recovery and enhancing their quality of life.
+Summary da mistral_.csv: In this session, the patient discussed various issues with her psychiatrist, including her back pain diagnosed as arthritis, ongoing arguments with her brother, and her drinking habits. She mentioned attending Emotions Anonymous instead of AA and her reluctance to label herself an alcoholic. The psychiatrist brought up the topic of weight and the physical stress of caring for a baby on the patient's back, which she hadn't considered as a potential cause for her back pain. The patient also mentioned her past sessions with another physician and her brother's comments about her weight.
+The patient discussed their ongoing back pain and related issues with their therapist. They mentioned attending physical therapy for their back starting on Thursday and the potential need for a rubber band therapy regimen. The patient also mentioned experiencing numbness in their right hand and questioned whether this could be related to their back issues. They discussed their family history of arthritis and the different types, rheumatoid and osteo. The patient mentioned their family doctor's suggestion of a splint and their reluctance to follow through. They also discussed their sciatic nerve issue and the possibility of diaper-related trauma contributing to their balance issues. The therapist suggested considering changing to a different antidepressant, Prozac, and starting at a lower dose of 20mg for a week before stopping the current medication, Zoloft. The patient mentioned their family doctor's prescription for steroids for their back pain and their decision not to fill it. They also mentioned an
+The patient discussed with the doctor about receiving the wrong medication prescription, with two 80mg scripts filled instead of one each of 40mg and 80mg. The doctor advised the patient to contact the pharmacy to obtain the missing prescription. The patient also showed new pictures of their grandchild and discussed their weight loss. The doctor mentioned their own weight loss struggles and encouraged the patient to focus on improving their health before returning to work. The session ended with the doctor expressing excitement about a recent discovery in the patient's medical records.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a recent history of shoulder surgery with a painful recovery, ongoing pain, numbness, and tingling from a herniated cervical disc, and prior physical therapy for walking difficulties and back issues. There was a past prolonged illness that led to a period of immobility. The client recently started a new relationship, which was followed by a return of physical symptoms. These experiences may have contributed to a sense of vulnerability regarding health and fears about the impact of physical limitations on relationships and daily functioning.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If my physical health gets worse, I won't be able to manage my life or relationships, and others may see me as a burden. I must always be able to function physically to be accepted and valued. If I experience symptoms, it means things will only get worse for me.",
+  "intermediate_belief_depression": "If my health problems keep returning, it means I will never get better and my future will be bleak. There's no point in trying because my body will always let me down.",
+  "coping_strategies": [
+    "The client tends to withdraw from activities and may avoid physical tasks that could increase pain. They seek reassurance from healthcare providers and their partner about their health and future. The client also uses distraction, such as watching TV or scrolling on their phone, to temporarily escape distressing thoughts and feelings."
+  ],
+  "situation": "Received an MRI report indicating a herniated disc. Contacted the therapist after receiving the report.",
+  "auto_thought": "This MRI means my body is failing again. I won't be able to recover, and everything will get worse from here.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "overwhelmed",
+    "helpless",
+    "fearful",
+    "disappointed"
+  ],
+  "behavior": "Immediately contacted the therapist for reassurance. Withdrew from physical activities and avoided making plans. Spent time distracting myself with TV or my phone."
+}

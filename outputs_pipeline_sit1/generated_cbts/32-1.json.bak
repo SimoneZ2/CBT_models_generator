@@ -1,0 +1,36 @@
+{
+  "name": "CBT Cognitive Conceptualization for Father's Day Lunch Case",
+  "id": "case_fd_lunch_001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client reports a long-standing pattern of strained relationships with both parents, feeling judged and disapproved of, particularly during their education. The mother's health condition is a source of concern, and the client perceives her as 'broken,' which may contribute to a sense of instability in the family. There are also unresolved issues related to allegations of a past affair involving the mother. These dynamics have led to ongoing emotional distress and difficulty trusting or feeling supported by their parents.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I go to family events, I will be judged or criticized, so I must be on guard to protect myself. If I let my guard down, I will be hurt again. I have to anticipate negative interactions to avoid being blindsided.",
+  "intermediate_belief_depression": "No matter what I do, I can't make things better with my parents, so there's no point in trying to connect or hope for a positive experience.",
+  "coping_strategies": "The client mentally prepares for the lunch by rehearsing possible conversations and anticipating criticism. They may withdraw emotionally or physically during the event, and seek reassurance from friends beforehand to manage their anxiety. They also use distraction or self-soothing techniques to temporarily reduce distress.",
+  "situation": "Preparing to attend a Father's Day lunch with parents.",
+  "auto_thought": "I'm going to be judged and criticized again at this lunch. No matter what I do, it won't be good enough for them.",
+  "emotion": [
+    "anxious",
+    "apprehensive",
+    "tense",
+    "sad",
+    "disappointed",
+    "frustrated"
+  ],
+  "behavior": "I rehearse what I might say to avoid conflict. I consider ways to keep the conversation superficial or plan how I might leave early if things get tense.",
+  "rationale": "The report notes 'anticipatory worry, ruminating over potential judgments or disapproval,' and that the client 'might predict negative interactions based on past experiences.' Emotional reactions include 'anxiety, apprehension, tension, sadness, disappointment,' and behaviors such as 'avoidance or withdrawal,' 'internally rehearsing conversations,' and 'planning exit strategies.' The core beliefs are supported by the client's history of 'feeling judged and disapproved of,' and the sense of being 'caught in unresolved family dynamics.'"
+}

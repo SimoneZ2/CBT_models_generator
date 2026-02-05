@@ -1,0 +1,71 @@
+Using description: HISTORY:
+- PhD candidate engaged in scientific research.
+- References to a sequencing-related study and a colleague named Kelly.
+- Working on a project with a senior scientist who has struggled to gain recognition in his career.
+
+SITUATION:
+- Working on a PhD project and concerned about its progress. with ID=3-1
+Sample results (metadata similarity):
+  - sim=0.031 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.067 | title='Verilogue session: Client is having problems staying asleep; she spends too much' | file='1003075017.txt'
+  - sim=0.074 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.081 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.083 | title='Verilogue session: Client seems to be having only a partial response to his medi' | file='1003075061.txt'
+  - sim=0.086 | title='Verilogue session: Client's depressed mood has increased recently. She finds tha' | file='1001083936.txt'
+  - sim=0.088 | title='Verilogue session: Client is having difficulties with her mood swings. She feels' | file='1003009292.txt'
+  - sim=0.095 | title='Verilogue session: Client's wife is having problems regulating her prescription ' | file='1002565885.txt'
+  - sim=0.095 | title='Verilogue session: Client's insomnia seems to be causing mood swings' | file='1001280398.txt'
+  - sim=0.101 | title='Verilogue session: Client has been feeling great' | file='1002565869.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=29 partial_match=1992
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.123 | file='1002995961.txt' | title='Series 1, Session 7: Client is trying to be constructive with her emotions. She '
+  - sim=0.167 | file='1000126011.txt' | title='Session 6: Client is confused as to what causes her depression. She becomes very'
+  - sim=0.177 | file='1000122172.txt' | title='Session 2: Client suffers from anxiety before therapy sessions. She does not wan'
+Using LEAST related file for transcript: '1002995961.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a PhD candidate deeply immersed in scientific research, is currently grappling with concerns about the progress of their project. This project, which involves a sequencing-related study, is being conducted under the guidance of a senior scientist who has faced challenges in gaining recognition. During the session, the client expressed a heightened awareness of their physical sensations as a means to manage stress, stating, "I need to get my... on the situation." This reflects their strategy of using physical actions, such as splashing water on their face, to regain composure and control over their thoughts. The client has found that engaging in physical activities like running or even intimate moments can effectively shift their mindset, suggesting a strong connection between their emotional and physical states.
+
+Throughout the session, the client demonstrated an evolving understanding of their cognitive patterns, acknowledging that "when you're emotionally upset you feel it physically." This insight has led them to focus on breaking the cycle of automatic negative thoughts by grounding themselves in physical reality. They expressed a desire to "stop breathing heavily" before attempting to re-engage with rational thinking, highlighting their recognition of the need to manage physiological responses to stress. The client also discussed the importance of not speaking when in "panic mode," indicating a growing awareness of how heightened emotional states can impair communication and decision-making.
+
+The client has been reflecting on their perfectionistic tendencies, admitting, "I'm not perfect but that's okay, I'm still darn good." This marks a significant shift from previous feelings of worthlessness, as they now report a more balanced self-assessment, noting improvements in their responses to self-evaluation forms. They humorously described their past idealized notions of love as a "Botox version of love," acknowledging the unrealistic and unsustainable nature of such beliefs. This metaphor underscores their journey towards accepting imperfections in themselves and others, which they find "really empowering."
+
+In discussing their progress, the client expressed gratitude for the therapeutic process, stating, "I really want to thank you because it's so much of a change." They have begun to implement constructive strategies to manage their emotions, such as taking cold showers or using humor to diffuse tension, which they find "kind of looked funny." This approach has allowed them to navigate stressful situations more effectively, reducing the frequency and intensity of emotional upheavals.
+
+The client also reflected on their interpersonal dynamics, particularly in the context of their professional environment. They acknowledged the challenges of working with a senior scientist who has struggled with recognition, which may contribute to their own feelings of pressure and inadequacy. However, they are learning to set "rationale boundaries" and recognize when their thoughts are irrational, which helps them maintain a healthier perspective on their work and relationships.
+
+Overall, the client is making significant strides in managing their anxiety and perfectionism, as evidenced by their ability to "walk into a room" without overwhelming fear. They are actively applying CBT techniques to disrupt negative thought patterns and are increasingly able to "control your thought" processes. This progress is fostering a sense of empowerment and resilience, enabling the client to approach their PhD project with renewed confidence and clarity.
+Summary da mistral_.csv: In this therapy session, the patient discussed various coping mechanisms for managing panic attacks. They mentioned focusing on physical sensations, such as taking a cold shower or engaging in physical activity, to help regain control and calm down. The patient also acknowledged the connection between emotions and physical sensations, noting that emotional upheaval can manifest physically. They discussed the importance of recognizing and challenging irrational thoughts during a panic attack and the benefits of self-compassion and accepting imperfections. The patient and counselor also touched on the idea that love, like other aspects of life, is not perfect and that it's essential to acknowledge and accept its imperfections. The patient expressed feeling empowered by their progress and the ability to manage panic attacks more effectively.
+The patient discussed a recent situation that triggered negative emotions and a desire to engage in destructive behavior. They acknowledged feeling a sense of control when able to break the cycle of these emotions and behaviors. The patient expressed a desire to find constructive ways to bring themselves to attention instead of reacting in anger. The counselor encouraged the patient to identify and address the root causes of their emotions and behaviors, and to report back on their progress in the following session. The patient expressed gratitude for the counseling sessions and their positive impact on their emotions.
+
+REFINED CCD: description + report
+{
+  "history": "The client is a PhD candidate engaged in scientific research, working on a sequencing-related study under a senior scientist who has struggled to gain recognition. They have perfectionistic tendencies and have previously felt worthless but are now moving towards a more balanced self-assessment.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't make significant progress on my project, then I am not competent enough as a researcher.",
+  "intermediate_belief_depression": "If my project doesn't progress, it means I am failing and will never succeed.",
+  "coping_strategies": [
+    "The client uses physical actions like splashing water on their face or running to manage stress. They also avoid speaking when in panic mode and use humor to diffuse tension."
+  ],
+  "situation": "Working on a PhD project and concerned about its progress.",
+  "auto_thought": "I'm not making enough progress; I'm going to fail.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense"
+  ],
+  "behavior": "The client engages in physical activities to regain composure, such as splashing water on their face or running, and avoids speaking when feeling panicked."
+}

@@ -1,0 +1,88 @@
+Using description: HISTORY:
+- Long-term relationship with partner, married for three years.
+- Recurrent stress during academic periods and wedding preparations due to lack of partner support.
+- Ongoing financial strain related to shared expenses and therapy costs.
+
+SITUATION:
+- Partner neglects responsibilities such as contributing to expenses and completing administrative tasks. with ID=48-1
+Top results (by metadata similarity):
+  - sim=0.680 | title='Patient "S", Session May 21, 2012: Client comes to this session with a written l' | file='1004565007.txt'
+  - sim=0.674 | title='Patient "S", Session November 02, 2012: Client is angry with the way her ex-boyf' | file='1004824719.txt'
+  - sim=0.666 | title='Session 12: Client suffers from indecisiveness, loneliness, feelings of emotiona' | file='1000088062.txt'
+  - sim=0.659 | title='Patient "J", Session April 13, 2012: Client is upset with his financial situatio' | file='1004532414.txt'
+  - sim=0.659 | title='Session 6: Client feels that her marriage may mean more to her than she thought.' | file='1000088106.txt'
+  - sim=0.659 | title='Session Xa: Client feels guilty about her communication problems in her marriage' | file='1000013280.txt'
+  - sim=0.654 | title='Patient "J", Session July 20, 2012: Client is having a hard time letting go of t' | file='1004687592.txt'
+  - sim=0.644 | title='Patient "R" Session July 06, 2012: Client is feeling very emotionally and physic' | file='1004687812.txt'
+  - sim=0.637 | title='Patient "R" Session September 24, 2012: Client and her boyfriend recently had a ' | file='1004798925.txt'
+  - sim=0.636 | title='Session 10: Client is unhappy with his wife but, he is afraid of being alone' | file='1000056536.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=4 partial_match=6
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.666 | file='1000088062.txt' | title='Session 12: Client suffers from indecisiveness, loneliness, feelings of emotiona'
+  - sim=0.659 | file='1000088106.txt' | title='Session 6: Client feels that her marriage may mean more to her than she thought.'
+  - sim=0.659 | file='1000013280.txt' | title='Session Xa: Client feels guilty about her communication problems in her marriage'
+Using top selected file for transcript: '1000088062.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient is in a long-term relationship, having been married for three years. Throughout their relationship, the patient has experienced recurrent stress during academic periods and wedding preparations, primarily due to a lack of support from their partner. The couple is currently facing ongoing financial strain related to shared expenses and therapy costs. The patient's partner neglects responsibilities such as contributing to expenses and completing administrative tasks.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions due to the described circumstances. The recurrent stress during academic periods and wedding preparations, coupled with the lack of partner support, may lead to feelings of being overwhelmed, anxious, and frustrated. The ongoing financial strain and partner's neglect of responsibilities could contribute to feelings of worry, helplessness, and resentment. The patient may also feel lonely and unsupported, given the lack of partnership in managing shared responsibilities.
+
+**Cognitive Patterns:**
+The patient may engage in cognitive patterns characterized by rumination and self-doubt. The stress from academic and wedding preparations without adequate support could lead to thoughts of inadequacy or questioning their ability to manage these challenges alone. The financial strain might trigger thoughts of insecurity and fear about the future. The partner's neglect of responsibilities may lead to cognitive distortions such as personalization ("It's my fault we are struggling") or catastrophizing ("Things will never get better").
+
+**Behavioral Responses:**
+In response to these stressors, the patient might exhibit behaviors such as withdrawing from social interactions, avoiding discussions about finances, or procrastinating on tasks that require joint effort with their partner. The lack of support might lead the patient to take on more responsibilities, potentially resulting in burnout. The patient may also seek reassurance from others or engage in activities that provide temporary relief from stress, such as scrolling through social media or calling friends for support.
+
+**Coping Styles:**
+The patient may rely on coping mechanisms that provide short-term relief but do not address the underlying issues. For instance, they might avoid confronting their partner about the neglect of responsibilities to prevent conflict, leading to unresolved tension. The patient might also engage in problem-solving strategies, such as budgeting or seeking additional income sources, to manage financial strain, although these efforts might be hindered by the partner's lack of contribution.
+
+**Psychological Interpretation:**
+Drawing from the transcript, the patient may experience a sense of ambivalence and uncertainty about their situation. Similar to the referenced patient, they might feel trapped in a cycle of waiting for circumstances to improve, such as hoping for financial stability or partner support, without taking active steps to change their situation. This can lead to feelings of stagnation and dissatisfaction. The patient may also struggle with asserting their needs and desires, fearing that doing so might lead to conflict or further disappointment.
+
+**Conclusion:**
+The patient's current life circumstances, characterized by a lack of partner support, financial strain, and neglect of responsibilities, likely have significant emotional, cognitive, and behavioral impacts. Addressing these issues through cognitive-behavioral strategies, such as challenging cognitive distortions, enhancing problem-solving skills, and improving communication with their partner, may help the patient develop more effective coping mechanisms and improve their overall well-being.
+Summary da mistral_.csv: In this session, the patient discussed their confusion about their happiness and inability to make decisions due to constant mind changes. They mentioned their desire to do things but lack of motivation and financial resources, as well as the pressure from their partner and neighbors to get a job. The patient also expressed feelings of resentment towards their partner and the guilt of leaving their children. They mentioned their dissatisfaction with their current situation and considered the possibility of leaving their partner. The patient also discussed their conflicting feelings towards their partner's behavior and their own role as a mother.
+The patient expresses frustration with her partner's inconsistent involvement in childcare and perceived lack of support. She feels overwhelmed with taking care of their children alone and resents her partner's expectations for her to do so. The patient also feels that her partner does not truly care for the children or her, as he rarely takes an active role in their lives. The counselor acknowledges the patient's feelings of being alone in caring for the children and the unfair burden she feels. The patient also mentions that her partner's behavior fluctuates between being nice and dismissive, making it difficult for her to evaluate him positively. She expresses thoughts of leaving him but feels trapped due to financial and logistical reasons, as well as the children's attachment to their father.
+The patient expresses feelings of emptiness and lack of companionship in her relationship, regardless of financial stability. She mentions her reluctance to take initiative and seek employment, fearing the possibility of disliking the job or being unhappy with the outcome. The counselor questions the difference between waiting for someone to offer a job and actively seeking one. The patient acknowledges her fear of failure and the pressure of living up to societal expectations. She also mentions her lack of self-discipline and control, using examples of overindulgence in food and staying up late at night. The counselor acknowledges the validity of both interpretations of the patient's behavior: staying up late to avoid facing another day or to prolong the day due to a lack of motivation or excitement. The session ends with the patient expressing her realization that the counselor will not be available on Thursday.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has been in a long-term relationship and married for three years. They have repeatedly experienced stress during academic periods and wedding preparations, mainly due to a lack of support from their partner. Financial strain has been a persistent issue, particularly regarding shared expenses and therapy costs. The partner's ongoing neglect of responsibilities, such as contributing to expenses and completing administrative tasks, has contributed to the client's sense of being unsupported and overwhelmed.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I ask for help or express my needs, I will be disappointed or ignored, so it's safer to handle things myself. If my partner doesn't support me, it means I am not worthy of support. I must take on all responsibilities to prevent things from falling apart, even if it overwhelms me.",
+  "intermediate_belief_depression": "If nothing changes, I will always feel alone and unsupported, and things will never get better no matter how hard I try.",
+  "coping_strategies": [
+    "The client tends to avoid confronting their partner about neglected responsibilities to prevent conflict, leading to unresolved tension. They withdraw from social interactions and may procrastinate on joint tasks, while sometimes seeking reassurance from friends or engaging in activities that provide temporary distraction from stress."
+  ],
+  "situation": "Partner neglects responsibilities such as contributing to expenses and completing administrative tasks.",
+  "auto_thought": "I'm always left to deal with everything myself; my partner doesn't care enough to help. This will never change and I'll always be alone in this.",
+  "emotion": [
+    "overwhelmed",
+    "anxious",
+    "frustrated",
+    "resentful",
+    "lonely",
+    "helpless"
+  ],
+  "behavior": "I avoid bringing up the issue with my partner to keep the peace. I end up taking on the tasks myself, feeling resentful. Sometimes I withdraw and distract myself with social media or call a friend to vent."
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Financial Stress Case",
+  "id": "14-1",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client has experienced financial difficulties after making questionable investments, which has led to increased reliance on their parents for financial assistance. There is a pattern of ruminative thinking about past financial decisions and their impact on the future. The client appears to struggle with feelings of shame and a perceived loss of autonomy, as well as anxiety about future financial stability. These emotional and cognitive patterns are maintained by avoidance and passive coping strategies.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I depend on my parents for financial help, it means I have failed as an adult and can't handle my responsibilities. I must be financially independent to be competent and respected. If I make mistakes with money, it proves I am not capable or trustworthy.",
+  "intermediate_belief_depression": "If I keep making bad financial decisions, there is no hope for my future and I will always be stuck relying on others. No matter what I do, I can't fix my mistakes and things won't get better.",
+  "coping_strategies": "The client tends to avoid financial planning and difficult conversations about money, sometimes procrastinating or withdrawing from discussions with family. They may seek reassurance from their parents, which temporarily reduces anxiety but reinforces feelings of dependency and inadequacy. Passive coping, such as hoping things will improve on their own, is also present.",
+  "situation": "Thinking about how past financial decisions may affect future plans.",
+  "auto_thought": "I've messed up my finances and now my future is ruined. I'll never be able to recover from these mistakes.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "worried",
+    "embarrassed",
+    "helpless"
+  ],
+  "behavior": "I avoid looking at my finances or making plans for the future. I put off talking to my parents about money and hope the situation will somehow resolve itself.",
+  "rationale": "\"Feelings of shame or embarrassment may arise, as the patient might perceive this dependence as a failure to achieve financial independence.\" \"The contemplation of past financial decisions and their impact on future plans may evoke feelings of anxiety and worry.\" \"The patient's cognitive processes may include ruminative thinking, particularly focusing on past financial decisions and their consequences.\" \"Behaviorally, the patient may exhibit avoidance strategies, such as procrastinating on financial planning or avoiding discussions about money with family and friends.\" \"The patient may rely on passive coping strategies, such as hoping for external solutions or waiting for circumstances to improve without taking proactive steps.\"",
+  "core_belief_predictions": {
+    "source_id": "14-1",
+    "major_pred_set": [
+      "helpless"
+    ],
+    "fine_pred_set": [
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

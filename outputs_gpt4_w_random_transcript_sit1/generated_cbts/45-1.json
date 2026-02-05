@@ -1,0 +1,26 @@
+{
+  "name": "Unnamed Client",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Relationships sometimes shift into romantic connections. Past conflict in relationships following expressions of anger. Complex relationship with parents involving obligations.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet all qualifications, I won't get the job.",
+  "intermediate_belief_depression": "I should have done more in the past.",
+  "coping_strategies": "Avoiding applying to jobs where qualifications are not fully met.",
+  "situation": "Difficulty completing work tasks due to fear of making mistakes. Procrastination and avoidance impacting productivity.",
+  "auto_thought": "Whatever I do, it's not going to help.",
+  "emotion": [
+    "Overwhelmed",
+    "Hopeless",
+    "Stressed"
+  ],
+  "behavior": "Procrastination and avoidance of job applications."
+}

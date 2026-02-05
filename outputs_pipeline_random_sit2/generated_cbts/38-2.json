@@ -1,0 +1,28 @@
+{
+  "history": "The client is on medical leave due to a health condition requiring physical therapy. They have had previous interactions with HR and a supervisor about their return-to-work and disability status, which may have contributed to ongoing uncertainty and apprehension about their job security. The disruption to daily routines and concerns about recovery likely increase their stress and anxiety. There is evidence of ruminative thinking about how their health impacts their professional life and how others at work may perceive them.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am seen outside while on medical leave, others will think I am not really sick or that I am taking advantage. I must avoid being seen by coworkers or I will be judged negatively. My worth at work depends on being present and able to perform.",
+  "intermediate_belief_depression": "If I can't return to work soon, I will never regain my previous status or value, and things will only get worse.",
+  "coping_strategies": [
+    "The client tends to avoid social interactions and may withdraw to manage anxiety about being seen by coworkers. They may seek reassurance from medical professionals or HR to alleviate concerns about their status. They also use distraction and problem-solving to cope with stress, but avoidance maintains their anxiety."
+  ],
+  "situation": "Running into a coworker outside the workplace while on medical leave.",
+  "auto_thought": "They probably think I’m faking or not really that sick. I shouldn’t be out if I’m supposed to be off work.",
+  "emotion": [
+    "anxious",
+    "embarrassed",
+    "self-conscious",
+    "worried"
+  ],
+  "behavior": "I quickly try to end the interaction and avoid eye contact. I might change my route or avoid places where I could run into coworkers.",
+  "source_text_id": "1004538596.txt"
+}

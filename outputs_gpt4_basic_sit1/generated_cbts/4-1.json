@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "Recent shoulder surgery with a painful recovery process. Ongoing pain, numbness, and tingling related to a herniated cervical disc. Prior history of physical therapy for past walking difficulties and back issues. Past prolonged illness associated with a period of immobility. Started a new relationship and later experienced a return of physical symptoms.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I cannot control my physical health.",
+  "intermediate_belief_depression": "My physical condition will never improve.",
+  "coping_strategies": "Avoidance of physical activities that might exacerbate pain.",
+  "situation": "Received an MRI report indicating a herniated disc. Contacted the therapist after receiving the report.",
+  "auto_thought": "I will never get better, and this pain will never go away.",
+  "emotion": [
+    "Anxiety",
+    "Frustration",
+    "Hopelessness"
+  ],
+  "behavior": "Seeking reassurance from medical professionals and therapists."
+}

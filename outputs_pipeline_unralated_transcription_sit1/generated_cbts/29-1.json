@@ -1,0 +1,25 @@
+{
+  "history": "The patient has a strong identification with his research lab workplace, which provides a sense of camaraderie and accomplishment. This contrasts with his personal life, which is less predictable and comfortable. A close coworker's departure had an emotional impact on him, highlighting the importance of work relationships. He is experimenting with medication dosages to manage tiredness and symptoms, indicating a desire for agency in his treatment. He experiences anxiety and paranoia in crowded settings like school, affecting his focus and performance. He has expressed suicidal ideation when upset but has not acted on these thoughts.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't manage my medication correctly, I will become overwhelmed and unable to function effectively.",
+  "intermediate_belief_depression": "If I can't handle my symptoms, I will never succeed in my studies or personal life.",
+  "coping_strategies": [
+    "The patient self-adjusts medication dosages to reduce tiredness, though this poses a risk if not monitored. He expresses dissatisfaction with his counselor, indicating a need for a more supportive therapeutic relationship."
+  ],
+  "situation": "Preparing for a lab meeting involving troubleshooting equipment and learning programming.",
+  "auto_thought": "I can't handle this meeting; I'm going to mess up in front of everyone.",
+  "emotion": [
+    "anxious",
+    "paranoid",
+    "tense"
+  ],
+  "behavior": "He may avoid fully engaging in the meeting or seek reassurance from colleagues about his performance."
+}

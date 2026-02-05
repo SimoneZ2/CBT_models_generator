@@ -1,0 +1,32 @@
+{
+  "name": "PhD Science Student with Music Involvement",
+  "id": "case001",
+  "type": [
+    "CBT",
+    "CCD",
+    "case formulation"
+  ],
+  "history": "The client is a PhD student in a science field who has a strong passion for music, previously leading a college band and currently playing in a jazz group. They report ongoing mental health struggles and a sense of disconnection from colleagues in their scientific environment, citing differing values and work habits. The client was recently offered a leadership position in the jazz group but declined, expressing concerns about balancing this with their academic responsibilities and mental health. This pattern suggests a history of striving for achievement but also experiencing self-doubt and social disconnection.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I take on more responsibility, I will become overwhelmed and fail, so it's safer to avoid new commitments. If I can't keep up with everything perfectly, it means I'm not capable enough. If I don't fit in with others, I shouldn't put myself in situations where I might be exposed as inadequate.",
+  "intermediate_belief_depression": "If I can't handle even things I care about, like music, then there's no point in trying and I'll just end up disappointing myself and others.",
+  "coping_strategies": "The client tends to avoid taking on new roles or responsibilities when anxious about their ability to cope, as seen in declining the leadership position. They withdraw from opportunities that could increase stress, and may use music as a partial outlet, but avoid deeper engagement due to fear of failure or judgment.",
+  "situation": "Offered a leadership position in the jazz group and decided not to accept it due to concern about managing responsibilities alongside PhD work and mental health.",
+  "auto_thought": "If I take this leadership role, I'll get overwhelmed and won't be able to handle it. I'll let everyone down and mess up both my music and my PhD.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "self-doubt",
+    "tense",
+    "sad",
+    "disappointed"
+  ],
+  "behavior": "I declined the leadership position. I avoided discussing my concerns openly with the group. I focused on my existing commitments and withdrew from the possibility of taking on more.",
+  "rationale": "The report states: 'The patient's decision to decline the leadership role in the jazz group likely stems from a combination of anxiety and self-doubt. The concern about balancing responsibilities suggests a fear of being overwhelmed... leading to avoidance behaviors.' It also notes, 'The feeling of disconnection from colleagues... could lead to cognitive distortions such as \"all-or-nothing\" thinking, where the patient might perceive themselves as fundamentally different or incompatible with their peers.' The avoidance of the leadership role is described as a coping mechanism to manage anxiety and prevent potential stress, but may reinforce feelings of inadequacy and limit opportunities for growth."
+}

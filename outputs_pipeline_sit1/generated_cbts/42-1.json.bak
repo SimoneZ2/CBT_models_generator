@@ -1,0 +1,36 @@
+{
+  "name": "Anonymous Client",
+  "id": "case001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client reports recurrent dreams during graduate school about being unprepared for a thesis defense, indicating longstanding anxiety about performance and fear of not meeting expectations. The client's father is described as having high expectations, which likely contributed to the development of internalized pressure to succeed and a fear of failure. These themes of anxiety and striving to meet high standards appear to persist into the client's current professional life, as evidenced by recurring dreams involving coworkers' negative judgments.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not fully prepared or if others criticize me, it means I am failing and will be judged harshly. I must always meet high standards to avoid negative evaluation. If people talk negatively about me, it proves I am not good enough.",
+  "intermediate_belief_depression": "If I can't meet expectations or if others think poorly of me, there is no point in trying because I will always fall short. No matter what I do, I will never be good enough in others' eyes.",
+  "coping_strategies": "The client tends to ruminate on potential criticisms and worries about others' opinions, especially in professional contexts. They may avoid situations where they feel evaluated or seek reassurance to manage feelings of inadequacy. These strategies provide temporary relief but reinforce anxiety and self-doubt.",
+  "situation": "Experiencing a recurring dream in which coworkers talk negatively about the individual.",
+  "auto_thought": "My coworkers think I'm incompetent and are talking behind my back. If they see my mistakes, they'll never respect me.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "insecure",
+    "vulnerable",
+    "ashamed"
+  ],
+  "behavior": "After waking from the dream, the client dwells on what coworkers might think of them. They mentally review recent work interactions, searching for signs of criticism or disapproval.",
+  "rationale": "\"The patient's cognitive patterns appear to be influenced by a fear of negative evaluation and a desire to meet high standards, likely internalized from their father's expectations.\" \"The recurring dreams about being unprepared and coworkers speaking negatively may reflect a cognitive tendency to anticipate criticism and doubt one's abilities.\" \"The patient likely experiences emotions such as anxiety, worry, and fear in response to situations where they feel evaluated or judged.\" \"In response to these cognitive and emotional patterns, the patient may engage in behaviors such as ruminating on potential criticisms, avoiding situations where they might be evaluated, or seeking reassurance from others to mitigate feelings of inadequacy.\""
+}

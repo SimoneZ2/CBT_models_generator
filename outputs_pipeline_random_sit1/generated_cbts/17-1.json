@@ -1,0 +1,33 @@
+{
+  "history": "Sarah has a long-term relationship with Amelia, who is often unavailable due to work. Sarah feels isolated during the week and takes on most household tasks without voicing her resentment. She has a history of childhood separations from her parents that were distressing, which may contribute to her current sensitivity to perceived neglect and abandonment. The report notes that her avoidance of expressing needs and feelings may stem from a fear of confrontation or the belief that it won't help, leading to frustration and helplessness.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I reach out and Amelia doesn't respond, it means I'm not important and I'm being abandoned again. I have to avoid expressing my needs because it probably won't make a difference and could make things worse. If I keep the peace and do everything myself, maybe I can prevent being left alone.",
+  "intermediate_belief_depression": "No matter what I do, nothing changes and I'll always end up alone and unimportant. There's no point in trying to express my needs because it won't help and I'll just feel more rejected.",
+  "coping_strategies": [
+    "Sarah attempts to make contact with Amelia for reassurance, but withdraws emotionally if she feels ignored. She avoids discussing her resentment and needs, instead taking on more tasks herself. This pattern maintains her feelings of isolation and helplessness."
+  ],
+  "situation": "Not receiving communication from the partner during the day and attempting to make contact.",
+  "auto_thought": "She hasn't replied to me again. I'm not a priority to her and maybe she doesn't really care about me.",
+  "emotion": [
+    "anxious",
+    "lonely",
+    "rejected",
+    "sad",
+    "frustrated",
+    "hurt"
+  ],
+  "behavior": "Sarah sends a message or calls Amelia. When she doesn't get a response, she checks her phone repeatedly and withdraws emotionally. She avoids bringing up her feelings to Amelia later.",
+  "source_text_id": "1002565986.txt"
+}

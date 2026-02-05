@@ -1,0 +1,25 @@
+{
+  "name": "Trina",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Childhood experiences of emotional invalidation (e.g., being reprimanded for crying). History of depression.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be perfect to be accepted.",
+  "intermediate_belief_depression": "I am not good enough, which is why I feel down.",
+  "coping_strategies": "Overworking and trying to control situations to avoid feeling vulnerable.",
+  "situation": "Not invited to a dinner with friends by one acquaintance.",
+  "auto_thought": "They don't want me there because I'm not good enough.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Avoidance of social situations and overcommitment to work."
+}

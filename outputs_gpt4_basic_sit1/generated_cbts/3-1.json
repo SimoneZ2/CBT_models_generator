@@ -1,0 +1,26 @@
+{
+  "name": "PhD Candidate",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "PhD candidate engaged in scientific research, working on a sequencing-related study with a colleague named Kelly, and collaborating with a senior scientist who has struggled to gain recognition.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am a failure, loser"
+  ],
+  "intermediate_belief": "If I don't make significant progress, I will not succeed in my career.",
+  "intermediate_belief_depression": "My work is not good enough, and I will never be recognized.",
+  "coping_strategies": "Overworking and seeking validation from colleagues.",
+  "situation": "Working on a PhD project and concerned about its progress.",
+  "auto_thought": "I am not making enough progress, and I might fail.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Spending excessive hours on research and avoiding social interactions."
+}

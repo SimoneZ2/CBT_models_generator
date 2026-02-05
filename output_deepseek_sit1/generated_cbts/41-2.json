@@ -1,0 +1,27 @@
+{
+  "name": "Patient 41",
+  "id": "41",
+  "type": [
+    "caretaker role",
+    "time management"
+  ],
+  "history": "Complex relationship history affecting social circle. Often takes caretaking role with friends, including friend with ongoing medical issues.",
+  "helpless_belief": [
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I have to be available for everyone who needs me.",
+  "intermediate_belief_depression": "My own needs always come last because I'm the caretaker.",
+  "coping_strategies": [
+    "Overcommitting, running late, prioritizing others' needs."
+  ],
+  "situation": "Running late for appointments and social gatherings, including therapy and lunches with friends.",
+  "auto_thought": "I'm letting everyone down by being late, but I can't say no to anyone.",
+  "emotion": [
+    "guilt",
+    "overwhelm",
+    "resentment"
+  ],
+  "behavior": "Run late for multiple commitments."
+}

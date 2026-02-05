@@ -1,0 +1,88 @@
+Using description: HISTORY:
+- Past traumatic incident involving sexual assault by partner Ivan.
+- Ongoing relationship difficulties involving trust and intimacy.
+- Reports some improvement in relationship dynamics with Ivan making efforts to rebuild trust.
+
+SITUATION:
+- Ivan touches the patient in a way that reminds her of the past assault. with ID=8-2
+Top results (by metadata similarity):
+  - sim=0.707 | title='Verilogue session: Client is having problems getting her work done' | file='1002565945.txt'
+  - sim=0.704 | title='Session 17: Client is having difficulty in her relationship with her boyfriend. ' | file='1000013305.txt'
+  - sim=0.697 | title='Session 606: Client fears being raped however, she fantasizes about it as well' | file='1000396356.txt'
+  - sim=0.696 | title='Verilogue session: Client's mood has been down and depressed' | file='1003009224.txt'
+  - sim=0.691 | title='Patient "R" Session September 24, 2012: Client and her boyfriend recently had a ' | file='1004798925.txt'
+  - sim=0.690 | title='Symbolic/Experiential Family Therapy: This transcript is an initial therapy sess' | file='1001115118.txt'
+  - sim=0.688 | title='Session 3: Client is upset that she is so critical of everything her husband doe' | file='1000088104.txt'
+  - sim=0.687 | title='Verilogue session: Client suffers from auditory hallucinations' | file='1001083984.txt'
+  - sim=0.684 | title='Verilogue session: Client is experiencing loneliness and depression. She has bee' | file='1001084031.txt'
+  - sim=0.684 | title='Session 19: Client is frustrated and angry with her roommate' | file='1000017886.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.707 | file='1002565945.txt' | title='Verilogue session: Client is having problems getting her work done'
+  - sim=0.704 | file='1000013305.txt' | title='Session 17: Client is having difficulty in her relationship with her boyfriend. '
+  - sim=0.697 | file='1000396356.txt' | title='Session 606: Client fears being raped however, she fantasizes about it as well'
+Using top selected file for transcript: '1002565945.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient History and Current Situation:**
+
+The patient has a history of a traumatic incident involving sexual assault by her partner, Ivan. This has understandably led to ongoing difficulties in the relationship, particularly concerning trust and intimacy. Despite these challenges, the patient reports some improvement in the relationship dynamics, with Ivan making efforts to rebuild trust. However, a recent situation where Ivan touched the patient in a way that reminded her of the past assault has likely triggered significant emotional and cognitive responses.
+
+**Emotional Impact:**
+
+Given the history of sexual assault, the patient is likely to experience a range of intense emotions when reminded of the incident. The recent touch by Ivan that evoked memories of the assault could lead to feelings of anxiety, fear, and distress. These emotions are common in individuals who have experienced trauma, as they may relive the emotional intensity of the original event when faced with reminders or triggers.
+
+**Cognitive Reactions:**
+
+The patient's cognitive responses may include intrusive thoughts or flashbacks related to the assault, as well as heightened vigilance or hyper-awareness in interactions with Ivan. She might also experience cognitive distortions, such as overgeneralizing the current situation based on past trauma, leading to mistrust or suspicion even in moments where Ivan is attempting to be supportive. The transcript suggests that individuals with a history of difficult relationships may struggle with self-esteem and trust, which could exacerbate these cognitive patterns.
+
+**Behavioral Responses:**
+
+Behaviorally, the patient might withdraw from physical intimacy or avoid situations that could lead to similar reminders of the trauma. She may also engage in safety behaviors, such as seeking reassurance from Ivan or others, to manage her anxiety. The transcript indicates that individuals often adopt avoidance strategies to cope with distressing emotions, which could be relevant here.
+
+**Coping Strategies:**
+
+The patient may benefit from developing coping strategies to manage her emotional and cognitive responses. This could include grounding techniques to stay present during moments of distress, cognitive restructuring to challenge and modify unhelpful thoughts, and communication skills to express her needs and boundaries to Ivan. The transcript highlights the importance of self-care and setting boundaries, which could be useful for the patient in navigating her relationship dynamics.
+
+**Conclusion:**
+
+The patient's history of trauma and the recent triggering event are likely contributing to significant emotional and cognitive challenges. While there has been some improvement in the relationship with Ivan, ongoing support and therapeutic interventions focused on trauma-informed care and cognitive-behavioral strategies may be beneficial in helping the patient manage her responses and rebuild trust and intimacy in the relationship.
+Summary da mistral_.csv: The patient discussed past relationships, specifically a 2-year high school boyfriend and a subsequent boyfriend during college. The first relationship was characterized by the boyfriend treating the patient like a daughter due to her difficult childhood. The patient felt stifled and unable to grow, leading to the breakup. During college, the patient developed feelings for a new friend who was an equal and allowed her to be herself. However, the first boyfriend became suspicious and confronted the patient and her new boyfriend, resulting in a violent altercation. The college handled the situation poorly, allowing the first boyfriend to remain on campus and causing a divisive situation among students. The patient and her current husband, the second boyfriend, stayed together through the experience and have been married for 2 years. The patient also discussed her use of Vyvanse for focus and its impact on her work schedule.
+The patient discussed the importance of taking medication at the same time each day and the challenges of doing so, particularly with regard to their work schedule and commitments to a choir. They shared that they had dropped from the choir as a responsible decision and discussed feeling guilty but not regretting it. The doctor suggested using a baggy with a reminder to take a half dose if waking up late. The patient also discussed their performance review at work, where they had put in a significant effort and received an outstanding evaluation. They mentioned having deficiencies at work that required addressing, leading to more time to complete a project. The patient expressed feeling better and wondering if their depression and anxiety symptoms may be linked to their Attention Deficit Disorder (ADD). They acknowledged the progress they have made in managing their symptoms and the importance of setting daily goals to complete tasks. The patient will have another appointment in three weeks. They felt that the shorter medication management sessions were more helpful than longer therapy
+
+ REFINED CCD: description + report
+{
+  "history": "The client experienced a traumatic sexual assault by her partner Ivan, which has led to ongoing difficulties with trust and intimacy in their relationship. She reports that Ivan has made efforts to rebuild trust, and there has been some improvement in their dynamic. However, reminders of the assault, such as certain touches, continue to trigger distressing emotional and cognitive responses. The client struggles with self-esteem and trust, as suggested by her reactions to relationship difficulties.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If someone I trust hurts me, I can't ever feel safe with them again. If I let my guard down, I will get hurt. I have to be constantly alert to protect myself from being hurt again.",
+  "intermediate_belief_depression": "If I can't ever feel safe with Ivan, maybe I will never have a truly safe or loving relationship.",
+  "coping_strategies": [
+    "She withdraws from physical intimacy and avoids situations that remind her of the trauma. She may seek reassurance from Ivan or others to manage her anxiety. She uses avoidance and safety behaviors to cope with distressing emotions."
+  ],
+  "situation": "Ivan touches the patient in a way that reminds her of the past assault.",
+  "auto_thought": "This feels just like before—I'm not safe with him. He could hurt me again at any moment.",
+  "emotion": [
+    "anxious",
+    "fearful",
+    "distressed",
+    "tense",
+    "suspicious"
+  ],
+  "behavior": "She pulls away from Ivan and avoids further physical contact. She may become withdrawn or emotionally distant in the moment. She might seek reassurance or leave the situation to calm herself."
+}

@@ -1,0 +1,79 @@
+Using description: HISTORY:
+- Multiple past jobs involved micromanagement.
+- Reports self-blame in work contexts.
+
+SITUATION:
+- Being blamed at work for spreadsheet errors that were not theirs. with ID=20-1
+Sample results (metadata similarity):
+  - sim=0.057 | title='Verilogue session: Client is concerned that her child is expressing OCD traits' | file='1001084006.txt'
+  - sim=0.057 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.058 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.060 | title='Patient "S", Session September 28, 2012: Client can't decide if she wants to rem' | file='1004798839.txt'
+  - sim=0.061 | title='Psychotherapy With Medically Ill Children: Many therapists feel overwhelmed with' | file='1001114244.txt'
+  - sim=0.062 | title='Session 15: Client explains why she can make friendships with certain men but no' | file='1000133901.txt'
+  - sim=0.064 | title='Volume no. 12: Gregg: Client and therapist discuss client's dreams' | file='1002133158.txt'
+  - sim=0.064 | title='Patient "M", Session February 21, 2012: Client is experiencing grief over the re' | file='1004503134.txt'
+  - sim=0.066 | title='Session 20: Client assumes it is her physical deformity that keeps men from find' | file='1000133913.txt'
+  - sim=0.066 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.057 | file='1000088127.txt' | title='Session 18: Client tells how he despises people in general.  He seems to feel un'
+  - sim=0.058 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.064 | file='1002133158.txt' | title='Volume no. 12: Gregg: Client and therapist discuss client's dreams'
+Using LEAST related file for transcript: '1000088127.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client enters the session appearing visibly tired, expressing a sense of exhaustion with a simple, "Man, I'm tired." This fatigue seems to be both physical and emotional, as they recount a recent hitchhiking experience that involved walking long distances and dealing with the unpredictability of strangers. The client describes the hitchhiking journey as a mix of adventure and frustration, noting how "a couple of thousand cars must have passed" before someone finally picked them up. This experience mirrors their current work situation, where they feel overlooked and unfairly blamed for errors they did not commit, specifically spreadsheet errors. The client has a history of self-blame in work contexts, which may exacerbate their feelings of being unjustly targeted.
+
+Throughout the session, the client oscillates between moments of humor and bitterness. They recount an incident where a driver made a gesture implying they were "nuts," which the client found amusing, yet it also highlights their underlying frustration with how they are perceived by others. This duality is evident in their work life as well, where past experiences with micromanagement have left them feeling scrutinized and undervalued. Despite these challenges, the client attempts to maintain a sense of humor, laughing at the absurdity of situations, such as when a waitress gave them a funny look for ordering just one meal to share among friends.
+
+The client also reflects on their interactions with authority figures, particularly the police, describing a "routine field investigation" that left them feeling vulnerable and exposed. They express a sense of powerlessness, noting that "a policeman has a very free rein on a society," which parallels their feelings of helplessness at work. The client's narrative reveals a pattern of feeling at the mercy of others' decisions, whether it's the police or their employer, contributing to a pervasive sense of anxiety and tension.
+
+Interpersonally, the client discusses their relationship with a friend named Josie, who they admire for her courage but also criticize for being "very intolerant towards people." This dynamic reflects the client's own struggle with expressing negative emotions, as they often rephrase or avoid agreeing with cutting remarks about others. This avoidance of conflict may stem from their work history, where self-blame and micromanagement have taught them to tread carefully in interpersonal interactions.
+
+The client shares a poignant moment of vulnerability when discussing their long-distance relationship. They express a deep sense of loneliness and longing, admitting, "I miss you a whole lot," to their partner. This separation exacerbates their feelings of sadness and isolation, as they dream of shared experiences, like a camping trip in Canada, which seem "even farther away" than the physical distance between them. The client's coping strategy involves staying busy to avoid dwelling on these painful emotions, but they acknowledge that when they stop being busy, the loneliness becomes more pronounced.
+
+In exploring their interests, the client mentions a newfound engagement with intellectual pursuits, such as reading and listening to talk shows. They describe feeling "turned on about intellectual issues," which provides a sense of connection and stimulation. This intellectual engagement offers a reprieve from their work-related stress and personal loneliness, suggesting a potential coping mechanism for managing their emotional well-being.
+
+Overall, the session reveals a complex interplay of emotions and experiences, with the client navigating feelings of blame, vulnerability, and isolation. Their narrative is punctuated by moments of humor and introspection, as they seek to make sense of their experiences and find ways to cope with the challenges they face.
+Summary da mistral_.csv: The respondent shared an experience of hitchhiking, describing the various rides he received and the people he met. He found the experience enjoyable and reflective, noting the contrast between the kindness of those who picked him up and the hostility of some drivers who honked at him from their cars. The respondent also discussed his admiration for a friend named Josie, who hitchhikes and has had negative experiences with violent individuals. He expressed a desire to avoid conflict and pity those who become caught up in it. The respondent also mentioned his experience being stopped by police for a lengthy investigation, finding it a waste of time and a source of vulnerability.
+The respondent shares experiences of being stopped by police multiple times, feeling indifferent and amused during the encounters. They discuss feeling frustrated and angry when the police wished them good luck and let them go without offering a ride or assistance. The respondent also talks about missing their girlfriend and the difficulty of their long-distance relationship due to travel restrictions. They express a desire to take a camping trip with their girlfriend in Canada but acknowledge the long wait before they can do so.
+The respondent expresses a desire to go on a canoe trip with their partner to a wild, secluded area, where they could be alone and free to express themselves without the presence of others. They discuss the luxury of getting away from the constant need to pay for things and the appeal of living simply. The respondent shares their experience of trading an engine for a truck and the benefits of having a vehicle that can be used for camping. They also mention their interest in reading books, particularly those on transactional analysis and campus violence, and their newfound awareness of current events. The respondent expresses appreciation for a talk show that provides insightful perspectives and challenges the labels and assumptions people use.
+The respondent expresses amazement and engagement with a radio show featuring Stan Dale, who provides continuous intellectual discussions with various guests. The respondent enjoys the mental stimulation and the sense of connection with other listeners, finding it optimistic that not everyone is as stupid as they may believe. The long listening sessions sometimes result in physical discomfort, but the respondent is eager for the next encounter.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of self-blame in work contexts and has experienced micromanagement in multiple past jobs. They feel scrutinized and undervalued, which contributes to their feelings of being unjustly targeted.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am blamed for something at work, then it means I am not valued and others have power over me.",
+  "intermediate_belief_depression": "If I am blamed for something at work, then it confirms that I am powerless and undervalued.",
+  "coping_strategies": [
+    "The client stays busy to avoid dwelling on painful emotions and engages with intellectual pursuits for stimulation and connection."
+  ],
+  "situation": "Being blamed at work for spreadsheet errors that were not theirs.",
+  "auto_thought": "I'm going to get in trouble for this, and it shows they don't value me.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "frustrated",
+    "helpless"
+  ],
+  "behavior": "The client may try to correct the error themselves or seek reassurance from colleagues, while internally feeling anxious and undervalued."
+}

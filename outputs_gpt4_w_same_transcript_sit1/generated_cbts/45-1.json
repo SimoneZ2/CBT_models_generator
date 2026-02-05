@@ -1,0 +1,29 @@
+{
+  "name": "Case Study",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Relationships sometimes shift into romantic connections. Past conflict in relationships following expressions of anger. Complex relationship with parents involving obligations.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I express my true feelings, I will be rejected.",
+  "intermediate_belief_depression": "I can't change my past, so I am stuck with these feelings.",
+  "coping_strategies": "Avoidance of conflict and emotional expression to prevent rejection.",
+  "situation": "Difficulty completing work tasks due to fear of making mistakes. Procrastination and avoidance impacting productivity.",
+  "auto_thought": "If I make a mistake, it will confirm that I am incompetent.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Procrastination and avoidance of tasks."
+}

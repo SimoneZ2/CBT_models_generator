@@ -1,0 +1,30 @@
+{
+  "name": "Patient 8",
+  "id": "8",
+  "type": [
+    "relationship trauma",
+    "trust issues"
+  ],
+  "history": "Past traumatic sexual assault by partner Ivan. Ongoing relationship difficulties with trust and intimacy issues.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I'm not safe in intimate relationships.",
+  "intermediate_belief_depression": "My trauma has permanently damaged my ability to experience intimacy.",
+  "coping_strategies": [
+    "Monitoring partner's behavior, assessing trustworthiness gradually."
+  ],
+  "situation": "Physical intimacy is resuming in the relationship.",
+  "auto_thought": "What if he hurts me again? Can I really trust him?",
+  "emotion": [
+    "fear",
+    "anxiety",
+    "vulnerability"
+  ],
+  "behavior": "Engage in physical intimacy while monitoring for safety cues."
+}

@@ -1,0 +1,84 @@
+Using description: HISTORY:
+- History of friendships that sometimes become romantic relationships.
+- Past social conflict after expressing anger.
+- Complex relationship with parents involving obligations.
+
+SITUATION:
+- Difficulty completing work tasks and putting off tasks. with ID=45-1
+Top results (by metadata similarity):
+  - sim=0.685 | title='Patient "J", Session April 03, 2012: Client has been overwhelmed and anxious. He' | file='1004532430.txt'
+  - sim=0.668 | title='Patient "J", Session July 13, 2012: Client is overwhelmed with financial stress ' | file='1004687588.txt'
+  - sim=0.661 | title='Session 12: Client over schedules her days leaving her feeling like she is sprea' | file='1000133989.txt'
+  - sim=0.652 | title='Session 770: Client is having a hard time with her daughter' | file='1000398009.txt'
+  - sim=0.651 | title='Patient "C" Therapy Session Audio Recording, February 23, 2012: Patient is relie' | file='1004504888.txt'
+  - sim=0.648 | title='Session 12: Client is worried about finances.  He discusses his inability to eve' | file='1000088139.txt'
+  - sim=0.647 | title='Session 15: Client feels absolutely overwhelmed, like there is nothing she can d' | file='1000013266.txt'
+  - sim=0.644 | title='Patient "M" Therapy Session Audio Recording, January 9, 2012: Client has noticed' | file='1004472421.txt'
+  - sim=0.644 | title='Session 14: Client feels left out by his son.  He expresses his anger at his emp' | file='1000013338.txt'
+  - sim=0.638 | title='Patient "M", Session March 20, 2012: Client hates losing her temper; she thinks ' | file='1004522820.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=5 partial_match=5
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.685 | file='1004532430.txt' | title='Patient "J", Session April 03, 2012: Client has been overwhelmed and anxious. He'
+  - sim=0.668 | file='1004687588.txt' | title='Patient "J", Session July 13, 2012: Client is overwhelmed with financial stress '
+  - sim=0.651 | file='1004504888.txt' | title='Patient "C" Therapy Session Audio Recording, February 23, 2012: Patient is relie'
+Using top selected file for transcript: '1004532430.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient has a history of friendships that sometimes evolve into romantic relationships, indicating a pattern of interpersonal connections that may blur boundaries between platonic and romantic interactions. The patient has experienced social conflict following expressions of anger, suggesting difficulties in managing emotional responses in social contexts. Additionally, the patient has a complex relationship with their parents, characterized by a sense of obligation, which may contribute to stress or emotional burden.
+
+**Current Situation:**
+The patient is experiencing difficulty completing work tasks and tends to procrastinate, which may be indicative of underlying cognitive and emotional challenges.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions, including anxiety, frustration, and overwhelm. The difficulty in completing tasks may lead to feelings of inadequacy or self-doubt, potentially exacerbating anxiety. The complex relationship with parents may evoke emotions such as guilt or resentment, particularly if the obligations feel burdensome or unreciprocated. The history of social conflict after expressing anger suggests that the patient may feel ashamed or embarrassed about their emotional outbursts, leading to social withdrawal or avoidance.
+
+**Cognitive Patterns:**
+The patient may engage in negative self-talk or ruminate on perceived failures, particularly related to work tasks. This cognitive pattern can contribute to procrastination, as the patient may feel overwhelmed by the prospect of failure or criticism. The patient's history of blurred boundaries in relationships might lead to cognitive confusion about personal needs versus others' expectations, complicating decision-making processes. The complex parental relationship may also foster cognitive distortions, such as "should" statements or catastrophizing, particularly if the patient feels trapped by familial obligations.
+
+**Behavioral Responses:**
+The patient likely exhibits avoidance behaviors, such as putting off tasks, to temporarily alleviate anxiety or stress. This avoidance can create a cycle of procrastination and increased pressure as deadlines approach. The patient may also withdraw from social interactions following expressions of anger, fearing judgment or rejection. In relationships, the patient might seek reassurance or validation, especially if they struggle with self-esteem issues stemming from past conflicts or unmet obligations.
+
+**Coping Styles:**
+The patient may rely on distraction or escapism to cope with overwhelming emotions, such as engaging in activities that provide temporary relief from stress. However, these strategies may not address the underlying issues, leading to a cycle of avoidance and increased anxiety. The patient might also seek support from friends or family, although the complex parental relationship could complicate this dynamic, potentially leading to feelings of isolation or frustration.
+
+**Psychological Interpretation:**
+Drawing from the transcript, the patient may experience a heightened sense of frustration and anxiety when faced with multiple obligations or stressors. The tendency to procrastinate on tasks could be a response to feeling overwhelmed, similar to the transcript's depiction of a person struggling to manage numerous responsibilities. The patient's anger in social situations may mirror the transcript's expression of frustration with uncontrollable circumstances, suggesting a need for improved emotional regulation strategies.
+
+Overall, the patient's experiences and emotional responses align with patterns observed in individuals facing similar challenges. Addressing these cognitive and emotional patterns through targeted interventions, such as cognitive restructuring and behavioral activation, could help the patient develop more effective coping mechanisms and improve task completion.
+Summary da mistral_.csv: The client described a frustrating day that included difficulties with their dog, uncertainty about legal proceedings, and challenges with helping a friend care for her sick child. They also discussed attending a yoga workshop and feeling overwhelmed by various obligations and responsibilities. The therapist acknowledged the client's anger and frustration, suggesting that it may contribute to their anxiety.
+The client expresses frustration and overwhelm due to disorganization, financial issues, and deadlines. They struggle to find time and resources to complete tasks, including tax forms and office organization. The client feels stuck and unable to change their situation, citing financial constraints and reliance on others for work. They express anger and frustration towards their current circumstances and feel unable to manage their emotions while completing tasks. The client also mentions difficulties in their personal relationships and lack of food in their house. The therapist acknowledges the client's struggles and the overwhelming nature of their situation.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a pattern of friendships that sometimes become romantic, indicating blurred interpersonal boundaries. They have experienced social conflict after expressing anger, suggesting difficulty managing emotional responses and possible fear of rejection. Their relationship with their parents is complex and marked by a sense of obligation, which may contribute to ongoing stress and internalized expectations. These factors likely influence their current emotional and cognitive patterns, including self-doubt and rumination about failures.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't do everything perfectly or on time, others will see me as incompetent and I will disappoint them. I must meet all obligations or I am failing as a person. If I feel overwhelmed, it's safer to avoid tasks than risk failing and being judged.",
+  "intermediate_belief_depression": "If I keep failing to complete my work, it proves that I'm hopeless and nothing will ever change. There's no point in trying because I'll just disappoint myself and others again.",
+  "coping_strategies": [
+    "The client tends to avoid or put off tasks to temporarily reduce anxiety and overwhelm, leading to procrastination. They may distract themselves with other activities or withdraw from responsibilities, which provides short-term relief but increases long-term stress and self-criticism."
+  ],
+  "situation": "Difficulty completing work tasks and putting off tasks.",
+  "auto_thought": "I'm never going to get this done. If I try, I'll probably mess it up anyway.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "frustrated",
+    "inadequate",
+    "self-doubt"
+  ],
+  "behavior": "I avoid starting the task and distract myself with other activities. I keep putting off the work, even though I know it will make things worse later."
+}

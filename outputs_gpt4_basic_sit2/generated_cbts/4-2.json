@@ -1,0 +1,25 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recent shoulder surgery with a painful recovery process. Ongoing pain, numbness, and tingling related to a herniated cervical disc. Prior history of physical therapy for past walking difficulties and back issues. Past prolonged illness associated with a period of immobility. Started a new relationship and later experienced a return of physical symptoms.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am in pain, I cannot enjoy life.",
+  "intermediate_belief_depression": "Pain will always prevent me from being happy.",
+  "coping_strategies": "Avoiding social activities and focusing on pain.",
+  "situation": "Attending a Halloween party while in persistent pain.",
+  "auto_thought": "I won't be able to enjoy the party because of my pain.",
+  "emotion": [
+    "Frustration",
+    "Anxiety"
+  ],
+  "behavior": "Reluctantly attending the party but not engaging fully."
+}

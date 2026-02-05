@@ -1,0 +1,28 @@
+{
+  "history": "The patient has been in a relationship with Ivan for about seven years and married for three. During significant life events, such as academic finals and wedding preparations, the patient experienced stress due to a lack of support from Ivan. Currently, the patient faces financial pressure related to Ivan's part-time work, therapy costs, and dental treatment expenses. Ivan's mother communicates with the patient in a critical manner, which may contribute to feelings of inadequacy and self-doubt.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If someone criticizes me, it means I have failed or I'm not good enough. If I don't meet others' expectations, I will be rejected. I must avoid conflict to keep the peace, even if it means not standing up for myself.",
+  "intermediate_belief_depression": "If I keep being criticized and unsupported, nothing I do will ever be enough and things will never improve.",
+  "coping_strategies": [
+    "The patient tends to withdraw or avoid confrontation, especially with Ivan's mother, to prevent further conflict. They may seek reassurance from Ivan or others to cope with insecurity. The patient also focuses on problem-solving for financial stress, such as budgeting, but may avoid social activities to reduce expenses."
+  ],
+  "situation": "Ivan's mother speaks to the patient in a critical manner.",
+  "auto_thought": "She's right, I'm not living up to her expectations. No matter what I do, I'll never be accepted by her.",
+  "emotion": [
+    "hurt",
+    "inadequate",
+    "anxious",
+    "resentful"
+  ],
+  "behavior": "I stay quiet and avoid responding directly to her criticism. Later, I withdraw from the conversation or leave the room. I might ruminate about what she said and seek reassurance from Ivan.",
+  "source_text_id": "1004687664.txt"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Case Study 1",
+  "id": "CS1",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recent move and stress related to settling into a new living space. Difficult relationship with parents, especially mother, described as judgmental and emotionally unsupportive. Friendships have become strained, contributing to isolation.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must avoid failure to be accepted.",
+  "intermediate_belief_depression": "If I can't do things perfectly, there's no point in trying.",
+  "coping_strategies": "Avoidance of commitments and responsibilities to prevent failure.",
+  "situation": "Feeling exhausted after attempting to unpack without support from friends. Avoiding contact with friends and the mother.",
+  "auto_thought": "I can't do this on my own, and no one will help me.",
+  "emotion": [
+    "Overwhelmed",
+    "Anxious",
+    "Hopeless"
+  ],
+  "behavior": "Avoidance of social interactions and responsibilities."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "28-year-old student",
+  "id": "case001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "28-year-old student who has returned from Egypt and is managing bills, finances, and health insurance independently for the first time. Previously relied on parents for support. Brother remains financially dependent on parents.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be able to manage everything on my own to be competent.",
+  "intermediate_belief_depression": "If I can't manage independently, I am a failure.",
+  "coping_strategies": "Avoid asking for help to maintain a sense of independence.",
+  "situation": "Considering requesting financial help from parents and looking for affordable counseling services.",
+  "auto_thought": "I should be able to handle this on my own.",
+  "emotion": [
+    "anxiety",
+    "stress"
+  ],
+  "behavior": "Hesitates to ask for help and seeks affordable counseling services."
+}

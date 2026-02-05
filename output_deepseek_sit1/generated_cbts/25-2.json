@@ -1,0 +1,27 @@
+{
+  "name": "Patient 25",
+  "id": "25",
+  "type": [
+    "authority conflicts",
+    "workplace frustration"
+  ],
+  "history": "Works with children with learning disabilities. Describes being pampered by parents with minimal consequences earlier in life. Ongoing conflicts with authority figures.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "Authority figures never listen to my ideas or respect my expertise.",
+  "intermediate_belief_depression": "My efforts to help students are pointless because the system is against me.",
+  "coping_strategies": [
+    "Persisting with student initiatives despite resistance."
+  ],
+  "situation": "Encouraging students to socialize and participate, with results falling short of expectations.",
+  "auto_thought": "Nothing I try with these students works. The administration doesn't support me.",
+  "emotion": [
+    "frustration",
+    "powerlessness",
+    "resentment"
+  ],
+  "behavior": "Continue encouraging student participation despite poor results."
+}

@@ -1,0 +1,65 @@
+Using description: HISTORY:
+- Death of a close aunt whom the patient considered a mother figure.
+- The patient did not fulfill the aunt's last request and was not present at the time of death.
+- Pattern of prioritizing others' needs over their own.
+
+SITUATION:
+- On the way to watch a movie, received a call from a friend seeking emotional support.
+- Chose to give up the movie and talked with the friend for about an hour. with ID=13-2
+Randomly selected transcript file: '1000399402.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient History and Current Situation:**
+
+The patient has experienced the death of a close aunt, whom they regarded as a mother figure. This loss was compounded by the patient's inability to fulfill the aunt's last request and their absence at the time of her death. Additionally, the patient exhibits a pattern of prioritizing others' needs over their own, which is evident in a recent situation where they chose to forgo a personal activity (watching a movie) to provide emotional support to a friend.
+
+**Emotional Impact:**
+
+The death of the aunt likely evokes feelings of sadness, loneliness, and guilt. The patient's inability to fulfill the aunt's last request and their absence at her deathbed may intensify these emotions, leading to a sense of regret and self-blame. The patient's pattern of prioritizing others over themselves may be a coping mechanism to avoid confronting these painful emotions, as focusing on others can provide temporary relief from personal distress.
+
+**Cognitive Patterns:**
+
+The patient may engage in ruminative thinking, particularly around themes of responsibility and self-worth. The decision to prioritize a friend's needs over their own leisure activity suggests a cognitive pattern of self-sacrifice, possibly driven by a belief that their value is tied to being needed by others. This pattern may also reflect an avoidance of personal needs and desires, as attending to others can serve as a distraction from their own emotional pain.
+
+**Behavioral Responses:**
+
+The patient's behavior of giving up personal time to support a friend indicates a tendency to withdraw from self-care activities. This behavior aligns with their history of prioritizing others, suggesting a habitual response to stress or emotional discomfort. The patient may also avoid situations that could trigger feelings of inadequacy or guilt, such as engaging in activities that remind them of their unmet obligations to their aunt.
+
+**Coping Styles:**
+
+The patient appears to cope by seeking external validation through helping others, which may provide a sense of purpose and temporarily alleviate feelings of guilt or inadequacy. However, this coping style may prevent them from addressing their own emotional needs and hinder their ability to process grief effectively. The transcript suggests a pattern of indecision and difficulty articulating personal desires, which may further complicate their ability to assert their needs and set boundaries.
+
+**Conclusion and Recommendations:**
+
+The patient's experiences suggest a complex interplay of grief, guilt, and self-sacrifice. It is recommended that therapy focuses on helping the patient develop healthier coping mechanisms, such as recognizing and validating their own needs and emotions. Cognitive restructuring techniques could be employed to challenge beliefs about self-worth and responsibility, while behavioral interventions might encourage the patient to engage in self-care activities and set boundaries with others. Exploring the patient's relationship with their aunt and the impact of her death may also be beneficial in processing unresolved grief and fostering emotional healing.
+{
+  "history": "The client experienced the death of a close aunt, whom they considered a mother figure. They were unable to fulfill the aunt's last request and were not present at her death, which likely intensified feelings of guilt and regret. There is a longstanding pattern of prioritizing others' needs over their own, as seen in their recent choice to support a friend instead of engaging in a personal activity. This self-sacrificing behavior may serve as a coping mechanism to avoid confronting painful emotions related to loss and unmet obligations.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I put my own needs first, I am selfish and will disappoint others. I must always be available to help, or I am failing as a friend or family member. My worth depends on being needed and useful to others.",
+  "intermediate_belief_depression": "If I can't make up for my past mistakes or be there for others, nothing I do matters and I will always feel empty.",
+  "coping_strategies": [
+    "The client habitually puts others' needs before their own, often sacrificing personal enjoyment or self-care. They seek validation and relief from guilt by helping others, which temporarily distracts from their own emotional pain but maintains the cycle of self-neglect."
+  ],
+  "situation": "On the way to watch a movie, received a call from a friend seeking emotional support. Chose to give up the movie and talked with the friend for about an hour.",
+  "auto_thought": "If I don't help my friend right now, I'll let them down just like I let my aunt down. My needs can wait; I can't risk failing someone again.",
+  "emotion": [
+    "guilty",
+    "anxious",
+    "sad",
+    "tense",
+    "self-critical"
+  ],
+  "behavior": "Stopped on the way to the movie and answered the friend's call. Spent about an hour talking with the friend instead of going to the movie. Did not assert own need for personal time.",
+  "source_text_id": "1000399402.txt"
+}

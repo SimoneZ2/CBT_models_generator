@@ -1,0 +1,25 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Worked overseas and built a website related to that work. Recurrent pattern of starting new ideas and later abandoning projects when difficulties arise. Family-related difficulty involving his father; wrote a personal letter as part of a forgiveness process.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I encounter difficulties, I will fail.",
+  "intermediate_belief_depression": "My past failures mean I will never succeed.",
+  "coping_strategies": "Avoids completing projects to prevent potential failure.",
+  "situation": "Reflecting on past achievements alongside current challenges.",
+  "auto_thought": "I can't handle challenges; I'll just fail again.",
+  "emotion": [
+    "anxiety",
+    "frustration"
+  ],
+  "behavior": "Abandons projects when difficulties arise."
+}

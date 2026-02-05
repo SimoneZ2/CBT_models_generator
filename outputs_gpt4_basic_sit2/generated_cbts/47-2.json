@@ -1,0 +1,26 @@
+{
+  "name": "Case 1",
+  "id": "001",
+  "type": [
+    "CBT",
+    "CCD"
+  ],
+  "history": "Master's degree in engineering and experience in robotics. Past remorse related to not dedicating enough time to a project.",
+  "helpless_belief": [
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't get a response, it means I am not good enough.",
+  "intermediate_belief_depression": "I will always fail in personal relationships.",
+  "coping_strategies": "Avoid reaching out to others to prevent rejection.",
+  "situation": "Sent an email to someone they are interested in dating and received no response.",
+  "auto_thought": "They are not interested in me because I am not interesting enough.",
+  "emotion": [
+    "Anxiety",
+    "Sadness"
+  ],
+  "behavior": "Avoids checking email to prevent feeling rejected."
+}

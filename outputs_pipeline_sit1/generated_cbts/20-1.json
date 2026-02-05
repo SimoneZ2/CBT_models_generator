@@ -1,0 +1,55 @@
+{
+  "name": "CBT Cognitive Conceptualization for Work Blame Case",
+  "id": "20-1",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has repeatedly worked in environments characterized by micromanagement, which likely increased their sensitivity to criticism and blame. They report a tendency to self-blame in work contexts, suggesting a longstanding pattern of internalizing responsibility. This history may have contributed to their current cognitive and emotional responses when faced with workplace conflict or blame.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake or am blamed at work, it means I am not competent and others will see me as a failure. I must always be vigilant and responsible, or I will be criticized. If something goes wrong, it is probably my fault, even if I can't see how.",
+  "intermediate_belief_depression": "If I keep getting blamed or criticized, it proves that I will never be good enough and nothing I do will change that. No matter how hard I try, I will always fall short and disappoint others.",
+  "coping_strategies": "The client tends to withdraw from colleagues and avoid tasks that might lead to further scrutiny. They may seek reassurance from peers or supervisors to validate their competence, and engage in excessive self-monitoring or perfectionistic behaviors to prevent mistakes. These strategies are intended to reduce anxiety but often reinforce self-blame and avoidance.",
+  "situation": "Being blamed at work for spreadsheet errors that were not theirs.",
+  "auto_thought": "They think this is my fault. No matter what I do, I always end up being blamed.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "ashamed",
+    "embarrassed",
+    "sad"
+  ],
+  "behavior": "Withdraws from colleagues and avoids discussing the error. Double-checks their own work repeatedly and seeks reassurance from a peer to make sure they didn't make a mistake.",
+  "rationale": "\"The patient is likely experiencing a range of emotions due to the current work situation. Being blamed for errors they did not make can evoke feelings of being 'anxious, worried, fearful, and tense.' ... The patient's tendency to self-blame in work contexts suggests a cognitive pattern of internalizing responsibility, even when it is not warranted. ... In response to the emotional and cognitive impacts, the patient might engage in behaviors such as withdrawing from colleagues, avoiding tasks that could lead to further scrutiny, or procrastinating on work assignments due to fear of making mistakes. They might also seek reassurance from peers or supervisors to validate their competence and alleviate their self-doubt.\"",
+  "core_belief_predictions": {
+    "source_id": "20-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am incompetent",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

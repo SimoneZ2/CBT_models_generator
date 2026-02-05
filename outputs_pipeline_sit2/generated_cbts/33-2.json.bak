@@ -1,0 +1,34 @@
+{
+  "name": "Cleo Case",
+  "id": "ccd-cleo-01",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The patient is involved in a complicated romantic situation with Cleo, who is already in a long-distance relationship but is also engaging with the patient. This relational complexity likely contributes to ongoing feelings of uncertainty and instability. The patient has recently encountered evidence (concerning text messages) suggesting Cleo may be communicating with yet another person, which intensifies existing insecurities and mistrust. The patient’s emotional state appears to be shaped by repeated exposure to ambiguous or threatening relational cues.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If someone I care about is communicating with others in secret, it means I am not important enough to them, and I must constantly be on guard to avoid being hurt. I have to monitor for signs of betrayal because I can't trust that people will be honest with me. If I don't stay vigilant, I will end up abandoned or deceived.",
+  "intermediate_belief_depression": "If I can't trust the person I'm with and I keep finding evidence that I'm not their priority, it means I will always end up alone and unhappy, no matter what I do.",
+  "coping_strategies": "The patient tends to ruminate about the meaning of the messages and Cleo's intentions, repeatedly checking for more evidence and seeking reassurance. They may avoid directly confronting Cleo about their concerns, fearing the potential fallout or confirmation of their worst fears. This leads to further preoccupation and emotional withdrawal from other activities.",
+  "situation": "Saw concerning text messages from another person on Cleo's device.",
+  "auto_thought": "I can't trust Cleo—she's probably hiding things from me. I'm going to end up hurt and alone if I let myself care.",
+  "emotion": [
+    "anxious",
+    "insecure",
+    "betrayed",
+    "worried",
+    "sad",
+    "confused"
+  ],
+  "behavior": "I keep checking Cleo's device or social media for more evidence. I avoid talking to Cleo directly about what I saw. I withdraw from other people and spend time ruminating about what the messages mean.",
+  "rationale": "The report notes 'feelings of anxiety, insecurity, and confusion' and that the patient 'may engage in ruminative thinking, frequently revisiting the text messages and questioning Cleo's intentions and loyalty.' It also describes 'behaviors such as seeking reassurance from Cleo or others, frequently checking Cleo's device or social media for further evidence, or withdrawing from social interactions.' The intermediate beliefs are supported by the patient's vigilance and mistrust, as well as the fear of abandonment and not being chosen, which are implied by the patient's preoccupation with Cleo's loyalty and the impact of ambiguous relational cues. The helpless and unlovable core beliefs are consistent with the patient's emotional reactions and coping patterns in response to perceived threats to the relationship."
+}

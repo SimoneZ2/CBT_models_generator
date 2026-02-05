@@ -1,0 +1,83 @@
+Using description: HISTORY:
+- Recently completed an undergraduate degree and is entering the workforce.
+- Came out to parents within the last two and a half years and received negative reactions.
+- Became more distant from parents afterward.
+- Moved to New York for education and explored identity away from family influence.
+- Strained relationship with mother, described as focused on practical concerns rather than emotional support.
+- Tension with sister described as envious of the patient's independence and achievements.
+
+SITUATION:
+- Recalling the experience of coming out to parents and the negative aftermath.
+- Preparing for or having interactions with family while maintaining distance. with ID=30-2
+Sample results (metadata similarity):
+  - sim=0.088 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.106 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.123 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.126 | title='Verilogue session: Client has been seeing this physician for multiple years but ' | file='1001083964.txt'
+  - sim=0.126 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.132 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.132 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+  - sim=0.139 | title='Verilogue session: Client has recently experienced some intense mood cycling; sh' | file='1003009209.txt'
+  - sim=0.141 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.141 | title='Verilogue session: Client's mood swings are not as intense' | file='1002565843.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.088 | file='1001084079.txt' | title='Verilogue session: Client feels the urgent need to get everything done in a rush'
+  - sim=0.106 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.123 | file='1001084088.txt' | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. '
+Using LEAST related file for transcript: '1001084079.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, having recently completed an undergraduate degree and entered the workforce, is navigating a complex emotional landscape shaped by past experiences and current stressors. During the session, the client expressed a sense of being "not really all that bad" but acknowledged a return to old habits of rushing through tasks without apparent reason. This behavior is pervasive, occurring "at work, at home, everywhere," suggesting an underlying anxiety that propels the client into a cycle of hurried activity followed by brief periods of rest. This pattern may be linked to the client's history of strained familial relationships, particularly following the negative reaction from parents upon coming out, which led to increased distance and a focus on self-exploration in New York.
+
+The client also reported significant sleep disturbances, waking "every couple of hours," which they partly attribute to back pain. This physical discomfort seems to exacerbate feelings of being overwhelmed, as the client mentioned feeling "overwhelmed right now" and expressed concerns about the future, particularly regarding retirement. Despite working with a financial advisor, the client finds themselves worrying about retirement, a concern that seems disproportionate given their current life stage. This worry may reflect deeper insecurities about control and independence, themes that resonate with the client's experience of familial tension and the need to assert their identity.
+
+Throughout the session, the client grappled with feelings of loneliness, despite having "all these people around me," including family. This loneliness appears to be compounded by the loss of significant relationships, such as the death of the client's husband and mother, which the client acknowledged might be "catching up" with them. The client expressed a longing for companionship, noting that "it's so quiet" living alone, yet also voiced fears about the potential strain of living with others, such as their daughter, which could "ruin our relationship."
+
+The client's coping strategies include attempts to "push all these things to the back of my head," a method that seems ineffective as worries persistently resurface. The therapist suggested that instead of suppressing these concerns, the client might benefit from confronting them directly, using reassurance from trusted advisors to mitigate anxiety. This approach aligns with the client's acknowledgment that "if the pain was less then I think your mood would be better too," indicating an awareness of the interconnectedness of physical and emotional well-being.
+
+Medication management was a significant focus, with discussions about adjusting Cymbalta to address both depression and neuropathic pain. The client expressed willingness to "try anything" to alleviate their symptoms, highlighting a sense of desperation and a desire for relief. The therapist proposed increasing the Cymbalta dosage, emphasizing that "60 is good for depression, 120 is better for pain," and suggested that this adjustment might also improve the client's mood by reducing pain-related stress.
+
+Overall, the session revealed a client caught in a cycle of anxiety and physical discomfort, struggling to reconcile past familial conflicts with current life challenges. The client's tendency to rush through tasks and worry about the future reflects a broader pattern of seeking control in an unpredictable world. By addressing both the psychological and physiological aspects of the client's experience, the therapeutic process aims to foster a sense of agency and stability, enabling the client to navigate their new phase of life with greater confidence and clarity.
+Summary da mistral_.csv: The patient expresses concerns about their rushing behavior and difficulty sleeping, as well as worries about retirement and financial readiness. They discuss their use of a financial advisor and their worries about retirement, despite reassurances from the advisor. The patient also mentions their back pain and difficulty with the medication for it. The doctor suggests increasing the dosage of Cymbalta to potentially alleviate both the patient's depression and neuropathic pain. The patient expresses concern about the potential for the medication to keep them awake at night.
+The doctor suggests increasing the patient's Cymbalta dosage to 120mg twice a day to help manage pain and improve sleep, as well as depression. The doctor also recommends continuing the Neurontin medication for shingle pain, but suggests maximizing the Cymbalta first before considering adjusting the Neurbanit dose. The patient expresses concern about taking multiple medications and feeling like a "chemical factory." The doctor assures the patient that they will try to keep the medication regimen as simple as possible. The doctor also provides a prescription for the increased Cymbalta dosage.
+
+REFINED CCD: description + report
+{
+  "history": "The client recently completed an undergraduate degree and is entering the workforce, having moved to New York to explore their identity away from family influence. They came out to their parents within the last two and a half years and received negative reactions, leading to increased distance and strained relationships, particularly with their mother and sister. The client describes their mother as focused on practical concerns rather than emotional support, and their sister as envious of the client's independence. The client reports a pattern of rushing through tasks, pervasive anxiety, sleep disturbances, and feelings of loneliness despite being surrounded by people. Losses of significant relationships, such as the death of a husband and mother, contribute to a sense of loneliness and overwhelm.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I show my true self or express my needs, others will distance themselves or react negatively, so I must keep my feelings to myself to avoid further hurt. If I don't keep control over my life and future, things will fall apart and I will be left alone. If I don't keep busy and push worries away, I will be overwhelmed by my emotions.",
+  "intermediate_belief_depression": "If I can't make my family accept me or feel connected, it means I am fundamentally unlovable and things will never get better. If I can't control my worries or loneliness, I will always feel this empty and overwhelmed.",
+  "coping_strategies": [
+    "The client copes by pushing worries and emotions to the back of their mind, rushing through tasks to avoid sitting with distress, and maintaining distance from family to protect themselves from further rejection. They seek reassurance from advisors but find it only temporarily helpful, and struggle with sleep disturbances that worsen their mood."
+  ],
+  "situation": "Recalling the experience of coming out to parents and the negative aftermath. Preparing for or having interactions with family while maintaining distance.",
+  "auto_thought": "They'll never really accept me for who I am. No matter what I do, things will always be tense and I can't be myself around them.",
+  "emotion": [
+    "anxious",
+    "lonely",
+    "hurt",
+    "sad",
+    "overwhelmed",
+    "tense"
+  ],
+  "behavior": "I avoid deep conversations with my family and keep interactions brief or focused on practical matters. I keep my distance emotionally and physically, and distract myself by staying busy or pushing thoughts away."
+}

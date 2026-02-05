@@ -1,0 +1,28 @@
+{
+  "name": "Patient Similar to Case Description",
+  "id": "002",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Brother died by suicide when the patient was young. Ongoing family conflict about discussing the loss. Parents initially did not allow the patient to seek talk therapy after the death.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must keep the family together to avoid being abandoned.",
+  "intermediate_belief_depression": "I can't let go of the past or I will lose my identity.",
+  "coping_strategies": "Avoids discussing the past and focuses on maintaining family connections.",
+  "situation": "Noticing that the brother's birthday is approaching.",
+  "auto_thought": "I can't handle this alone, and my family won't support me.",
+  "emotion": [
+    "Sadness",
+    "Anxiety",
+    "Helplessness"
+  ],
+  "behavior": "Attempts to maintain family connections despite ongoing conflict."
+}

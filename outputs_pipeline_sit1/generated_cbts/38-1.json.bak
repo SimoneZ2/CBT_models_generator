@@ -1,0 +1,35 @@
+{
+  "name": "CBT Cognitive Conceptualization for Client with Health-Related Work Stress",
+  "id": "ccd-001",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client has a health condition requiring time off work for physical therapy. They have previously interacted with HR and a supervisor regarding their return-to-work and disability status. The client recalls a prior HR interaction during medical leave that left them feeling judged. This suggests a history of vulnerability and stress related to balancing health needs and workplace expectations, with a significant emotional impact stemming from perceived negative evaluation by others.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I show any weakness or need time off for my health, others will see me as less capable and judge me negatively. I must always appear strong and reliable to be respected at work. If I am perceived as a burden, I will lose my standing and acceptance.",
+  "intermediate_belief_depression": "If I can't meet work expectations because of my health, it means I'm failing and there's no way to fix how others see me. No matter what I do, I'll always be seen as inadequate.",
+  "coping_strategies": "The client tends to avoid interactions with HR or supervisors to minimize the risk of feeling judged. They may ruminate about past interactions, replaying the experience and their perceived shortcomings. These strategies provide temporary relief but maintain anxiety and self-doubt about their workplace role.",
+  "situation": "Recalling a prior interaction with HR that involved feeling judged during medical leave.",
+  "auto_thought": "They're probably thinking I'm just making excuses and not really committed to my job. I can't trust them to see my situation fairly.",
+  "emotion": [
+    "anxious",
+    "embarrassed",
+    "ashamed",
+    "worried",
+    "vulnerable"
+  ],
+  "behavior": "I replay the conversation in my mind, analyzing what I said and how they reacted. I avoid reaching out to HR or discussing my concerns with my supervisor. I withdraw from work-related communications to protect myself from further judgment.",
+  "rationale": "The report highlights the client's 'feeling judged' during the HR interaction and describes emotional responses such as anxiety, embarrassment, and shame. It notes cognitive patterns of worrying about how they are perceived and behavioral responses like avoidance and rumination. The report also discusses the client's vulnerability and stress in managing health and work, supporting the selected beliefs and coping strategies."
+}

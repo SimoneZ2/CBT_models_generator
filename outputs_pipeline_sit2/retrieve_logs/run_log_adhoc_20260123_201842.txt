@@ -1,0 +1,84 @@
+Using description: HISTORY:
+- Strained relationships with parents and a history of feeling judged and disapproved of.
+- Mother's health condition mentioned.
+- Issues related to parental support during education.
+- Mentions of the mother being described as "broken" and allegations of a past affair.
+
+SITUATION:
+- Received a work bonus for exceptional performance.
+- During a call with parents about the bonus, they asked about job prospects. with ID=32-2
+Low similarity from summary retriever, trying combined text retriever...
+Top results (by metadata similarity):
+  - sim=0.609 | title='Patient "M" Therapy Session Audio Recording, May 02, 2012: Client is concerned a' | file='1004565013.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=0 partial_match=1
+match_used=PARTIAL
+
+=== SELECTED CANDIDATES ===
+selected_n=1
+  - sim=0.609 | file='1004565013.txt' | title='Patient "M" Therapy Session Audio Recording, May 02, 2012: Client is concerned a'
+Using top selected file for transcript: '1004565013.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of strained relationships with their parents, characterized by feelings of judgment and disapproval. The patient's mother has a health condition, and there are issues related to parental support during the patient's education. The mother has been described as "broken," with allegations of a past affair. Recently, the patient received a work bonus for exceptional performance, and during a call with their parents to share this news, the parents inquired about future job prospects.
+
+**Emotional Impact:**
+The patient likely experiences a complex mix of emotions stemming from their familial relationships. The history of feeling judged and disapproved of by their parents may contribute to feelings of being "sad, down, lonely, and unhappy." The mention of the mother's health condition and the description of her as "broken" could evoke feelings of "anxious, worried, and fearful" about her well-being and the stability of family dynamics. The allegations of a past affair might lead to feelings of "ashamed, embarrassed, and humiliated," impacting the patient's self-esteem and trust in relationships.
+
+The recent work bonus is a positive event, yet the parents' focus on future job prospects during the call might have triggered feelings of being "disappointed" or "hurt," as it may have reinforced the patient's perception of parental judgment and lack of approval.
+
+**Cognitive Patterns:**
+The patient may engage in cognitive patterns characterized by self-doubt and a tendency to seek external validation. The history of feeling judged by parents could lead to internalized beliefs of inadequacy or failure, despite external achievements like the work bonus. This cognitive style may manifest as ruminating on perceived shortcomings or anticipating criticism, even in situations where they have excelled.
+
+The patient's perception of their mother as "broken" and the allegations of an affair might contribute to cognitive distortions such as overgeneralization or personalization, where the patient might internalize family issues as reflections of their own worth or capabilities.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive patterns, the patient might engage in behaviors such as withdrawing from family interactions to avoid judgment or seeking reassurance from others to counteract feelings of inadequacy. The patient may also procrastinate on addressing familial issues directly, as seen in the hesitation to confront the underlying tensions during the call about the work bonus.
+
+The patient might also exhibit a tendency to overcompensate in professional settings to gain approval and recognition, as evidenced by the exceptional performance leading to the work bonus. This behavior could be a coping mechanism to counterbalance the perceived lack of approval from parents.
+
+**Coping Styles:**
+The patient may rely on avoidance as a primary coping mechanism, avoiding direct confrontation of familial issues to prevent conflict or emotional distress. This is supported by the reluctance to address the underlying tensions during the call with parents. Additionally, the patient might engage in seeking external validation through professional achievements as a way to cope with feelings of inadequacy and judgment.
+
+The transcript provides a psychological reference for understanding how individuals might take things personally and struggle with feelings of inadequacy in the face of perceived judgment, similar to the patient's experiences. It highlights the importance of recognizing that certain behaviors and emotional responses are not personal failures but rather reactions to environmental and relational dynamics.
+
+**Conclusion:**
+The patient's history of strained parental relationships and recent interactions suggest a pattern of emotional distress linked to feelings of judgment and inadequacy. Cognitive and behavioral patterns indicate a tendency towards self-doubt and seeking external validation. Addressing these patterns through cognitive restructuring and developing healthier coping strategies could be beneficial in reducing emotional distress and improving the patient's overall well-being.
+Summary da mistral_.csv: The client discusses her current job situation, where she has been working long hours for a family and finds it challenging to handle the children's behavior. She reflects on how she used to be better at her job but feels lazy and less creative now. The client also shares her reservations about a potential job offer to run preschool groups from home and expresses feelings of isolation in her current role. She mentions a recent conversation with a high school friend where they discussed past issues and how they no longer view her in a negative light. The client also reveals an incident from high school where she punched a guy friend, which her friends were unaware of. The therapist asks what upset her about the incident.
+The client described her experiences with a friend who constantly commented on her mother's attractiveness, making her feel inferior. She also shared an incident where her friends wrote hurtful things about her and her feelings were hurt when her closest friend didn't offer support during the conversation about it. The client expressed resentment towards her friend for focusing too much on her own relationship problems and not acknowledging the client's needs. She also mentioned her desire to reconnect with her mother and the difficulty she faces in expressing her feelings towards her.
+The client expresses anxiety about discussing a sensitive issue with their partner during an upcoming move, fearing a negative reaction and potential strain in their relationship. They mention their own sensitivity and their partner's sensitivity, and the underlying tension in their family dynamics. The client wants to prioritize personal growth and letting go of past issues, but feels anxious about the potential aftermath of the conversation. The therapist suggests the importance of repairing relationships and the client acknowledges that 70% of their focus is on personal growth. The session ends with the client expressing uncertainty about the need for another appointment and the therapist's upcoming trip.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a long-standing pattern of strained relationships with their parents, marked by feeling judged and disapproved of. There is a history of limited parental support during education, and the mother is described as 'broken' with a background of a past affair, which may have contributed to family instability and the client's sense of shame or embarrassment. These dynamics have likely fostered a tendency to internalize criticism and seek external validation, especially in the context of achievement. The emotional impact of the mother's health and family secrets may have reinforced the client's feelings of anxiety and inadequacy.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I achieve something and share it with my parents, it still won't be enough for them to approve of me. I must keep proving myself, but even then, I expect to be judged or questioned. Their approval feels conditional and out of reach, so I anticipate criticism even when I succeed.",
+  "intermediate_belief_depression": "No matter what I do or achieve, it will never be enough to make my parents proud or satisfied. Their judgment is inevitable, so there's no point in trying to feel good about my accomplishments.",
+  "coping_strategies": [
+    "The client tends to avoid directly addressing feelings of judgment by withdrawing emotionally during family interactions and hesitating to confront underlying tensions. They seek external validation through professional achievement, hoping to counteract feelings of inadequacy. The client may also ruminate on perceived shortcomings and anticipate criticism, which maintains their distress."
+  ],
+  "situation": "Received a work bonus for exceptional performance. During a call with parents about the bonus, they asked about job prospects.",
+  "auto_thought": "Even when I do something great, it's never enough for them. They only care about what comes next, not what I've achieved.",
+  "emotion": [
+    "disappointed",
+    "hurt",
+    "sad",
+    "unappreciated",
+    "anxious",
+    "frustrated"
+  ],
+  "behavior": "I downplay my excitement about the bonus and become quiet on the call. I avoid sharing more details and end the conversation quickly. Later, I ruminate about their reaction and question whether I should have shared the news at all."
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "Spent about one year working on a project in Europe involving building a website and conducting interviews. Reports pride in the work and a wish to share the results. Past history of procrastination and anxiety. Uses strategies learned from a course and reminders to manage daily life.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must complete tasks perfectly or I will fail.",
+  "intermediate_belief_depression": "If I don't meet my own standards, I am a failure.",
+  "coping_strategies": "Uses strategies learned from a course and reminders to manage daily life.",
+  "situation": "Working on a project close to its deadline with portions still needing to be posted online.",
+  "auto_thought": "I won't be able to finish this project on time.",
+  "emotion": [
+    "anxiety",
+    "stress"
+  ],
+  "behavior": "Procrastinates and feels anxious about meeting the deadline."
+}

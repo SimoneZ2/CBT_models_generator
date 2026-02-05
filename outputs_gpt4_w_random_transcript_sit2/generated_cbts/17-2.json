@@ -1,0 +1,28 @@
+{
+  "name": "Sarah",
+  "id": "0426-002",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Sarah is in a long-term relationship with Amelia. Amelia has a demanding professional schedule. Sarah feels isolated during the week. Sarah does most household tasks and does not discuss resentment with Amelia. History includes childhood separations from parents associated with distress.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I should be able to handle everything on my own.",
+  "intermediate_belief_depression": "If I can't manage everything perfectly, I am failing.",
+  "coping_strategies": "Avoids discussing feelings of resentment with Amelia and tries to manage everything herself.",
+  "situation": "Doing laundry and thinking about the future of the relationship and her domestic role.",
+  "auto_thought": "Why is it me? Why not ask somebody else?",
+  "emotion": [
+    "Guilt",
+    "Frustration",
+    "Isolation"
+  ],
+  "behavior": "Avoids confrontation and internalizes feelings of inadequacy."
+}

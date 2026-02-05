@@ -1,0 +1,27 @@
+{
+  "name": "Patient 48",
+  "id": "48",
+  "type": [
+    "financial stress",
+    "relationship imbalance"
+  ],
+  "history": "In relationship with Ivan for seven years, married for three. Stressful periods during academic finals and wedding preparation due to Ivan's lack of support. Current financial pressure with Ivan's part-time work, therapy, and dental costs.",
+  "helpless_belief": [
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I carry all the responsibility in this relationship while Ivan contributes minimally.",
+  "intermediate_belief_depression": "I'm trapped in a one-sided marriage with all the burdens.",
+  "coping_strategies": [
+    "Managing finances alone, handling administrative tasks solo."
+  ],
+  "situation": "Partner neglects responsibilities like contributing to expenses and completing administrative tasks.",
+  "auto_thought": "Once again, I have to handle everything because Ivan won't step up.",
+  "emotion": [
+    "resentment",
+    "frustration",
+    "exhaustion"
+  ],
+  "behavior": "Handle expenses and administrative tasks alone due to partner's neglect."
+}

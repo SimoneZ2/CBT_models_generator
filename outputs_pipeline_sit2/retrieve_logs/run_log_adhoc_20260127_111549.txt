@@ -1,0 +1,85 @@
+Using description: HISTORY:
+- Recently completed a degree and is advancing in their career.
+- Came out to parents about sexuality about three years ago and received negative reactions.
+- Moved to New York for school.
+- Strained relationships with mother and sister.
+
+SITUATION:
+- Deciding whether to disclose a recent breakup to parents. with ID=30-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.10 - Top results (by metadata similarity):
+  - sim=0.587 | title='Session 22: Client just returned from vacation where he almost told his sister t' | file='1000013334.txt'
+  - sim=0.517 | title='Patient "Ju", Session October 02, 2012: Client talks about a discussion she had ' | file='1004798751.txt'
+  - sim=0.508 | title='Patient "S" Session May 29, 2012: Client discusses how awkward it was to have he' | file='1004600954.txt'
+  - sim=0.495 | title='Patient "A" Therapy Session Audio Recording, December 27, 2011: Client discusses' | file='1004472416.txt'
+  - sim=0.486 | title='Session 9: Client feels more at ease in sexual relationship with his girlfriend.' | file='1000133856.txt'
+  - sim=0.484 | title='Patient "M" Session August 27, 2012: Client wants to work towards forgiving hims' | file='1004687796.txt'
+  - sim=0.478 | title='Patient "Ju", Session November 05, 2012: Client talks about her relationship wit' | file='1004824677.txt'
+  - sim=0.475 | title='Session 10: Client talks about her family relationships especially with her fath' | file='1000076653.txt'
+  - sim=0.474 | title='Session 4: The clients, a married couple, are worried about whether to tell thei' | file='1003252378.txt'
+  - sim=0.474 | title='Session 2: Client discusses her relationship with her boyfriend and tells therap' | file='1000094390.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.587 | file='1000013334.txt' | title='Session 22: Client just returned from vacation where he almost told his sister t'
+  - sim=0.517 | file='1004798751.txt' | title='Patient "Ju", Session October 02, 2012: Client talks about a discussion she had '
+  - sim=0.508 | file='1004600954.txt' | title='Patient "S" Session May 29, 2012: Client discusses how awkward it was to have he'
+Using top selected file for transcript: '1000013334.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient recently completed a degree and is advancing in their career. Approximately three years ago, they came out to their parents about their sexuality, which resulted in negative reactions. They have since moved to New York for school and currently experience strained relationships with their mother and sister. The patient is contemplating whether to disclose a recent breakup to their parents.
+
+**Emotional Impact:**
+The patient is likely experiencing a mix of emotions stemming from their recent life events. The negative reaction from their parents upon coming out may have led to feelings of rejection, hurt, and possibly shame. This emotional response is compounded by the ongoing strain in their relationships with their mother and sister, which could contribute to feelings of loneliness and sadness. The recent breakup might intensify these feelings, potentially leading to increased anxiety about whether to disclose this information to their parents, fearing further negative reactions or judgment.
+
+**Cognitive Patterns:**
+The patient may engage in anticipatory thinking, worrying about potential negative outcomes of disclosing personal information to their family. This could manifest as ruminative thoughts about past negative experiences, such as the reaction to their coming out, influencing their current decision-making process. They might also experience self-critical thoughts, questioning their worth or fearing judgment, which can be inferred from the strained familial relationships and past experiences of rejection.
+
+**Behavioral Responses:**
+The patient might exhibit avoidance behaviors, such as hesitating to disclose the breakup to their parents to avoid potential conflict or negative reactions. They may also withdraw from family interactions, as suggested by the strained relationships with their mother and sister. Conversely, the patient may seek reassurance or validation from other sources, such as friends or colleagues, to compensate for the lack of familial support.
+
+**Coping Styles:**
+The patient may employ coping mechanisms such as distraction or focusing on career advancement to manage emotional distress. They might also engage in self-reflection, considering the implications of their decisions on their emotional well-being. However, the decision to withhold information about the breakup suggests a protective coping style, aiming to shield themselves from further emotional harm.
+
+**Therapeutic Considerations:**
+In therapy, it would be beneficial to explore the patient's thoughts and feelings about their family dynamics and the impact of past experiences on their current emotional state. Encouraging the patient to identify and challenge negative thought patterns could help reduce anxiety and improve decision-making. Additionally, fostering assertive communication skills may empower the patient to express their needs and boundaries more effectively within their familial relationships. Supporting the patient in developing a support network outside of their family could also provide a sense of belonging and validation.
+Summary da mistral_.csv: The patient discussed their recent vacation experience, sharing that they went to visit relatives and worked on a project for them. They mentioned feeling a sense of accomplishment from completing the project despite initial doubts and skepticism from family members. The patient also shared that they felt a need to focus during therapy sessions and expressed some fear of not having a clear agenda or being questioned. They mentioned a fear of being exposed or criticized, and shared that they had a good conversation with their younger sister about revealing their sexuality but didn't follow through. The patient felt a sense of safety with their sister but not fully safe enough to be themselves with the counselor.
+In this session, the patient discussed their hesitance to disclose personal information during a family gathering, specifically about contacting an ex-partner. They felt unsure during a conversation with the counselor about exploring their feelings towards the counselor's questioning, which they perceived as leading or pressuring them. The patient clarified that this was not a feeling of confusion but rather an uncertainty about the counselor's intentions and where the conversation might lead. They reflected on how they generally handle relationships and their tendency to avoid disclosing sensitive information.
+
+ REFINED CCD: description + report
+{
+  "history": "The client recently completed a degree and is progressing in their career. Three years ago, they came out to their parents about their sexuality and received negative reactions, which appears to have contributed to ongoing strained relationships with their mother and sister. The client moved to New York for school, which may have increased their physical and emotional distance from family. The recent breakup adds to their emotional burden, intensifying feelings of loneliness and anxiety about family interactions.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I share vulnerable information with my parents, they will judge or reject me, just like when I came out. To protect myself, I should avoid giving them reasons to criticize or hurt me further.",
+  "intermediate_belief_depression": "If my family can't accept or support me, then I will always feel alone and unsupported, no matter what I do.",
+  "coping_strategies": [
+    "The client tends to avoid disclosing personal information to their family to prevent further emotional pain. They withdraw from family interactions and may seek validation from friends or focus on career achievements as a distraction from familial distress."
+  ],
+  "situation": "Deciding whether to disclose a recent breakup to parents.",
+  "auto_thought": "If I tell them about the breakup, they'll just judge me or use it against me. It's safer to keep it to myself.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "lonely",
+    "sad",
+    "hurt"
+  ],
+  "behavior": "Hesitates to contact or communicate with parents about the breakup. Delays or avoids bringing up the topic in conversations. Withdraws from family interactions to minimize risk of negative reactions."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Past labor dispute in a previous workplace. Ongoing concerns related to fairness, pay, and authority at work.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't comply, I will face negative consequences.",
+  "intermediate_belief_depression": "Nothing I do will change the situation.",
+  "coping_strategies": "Avoid confrontation, comply with demands to avoid conflict.",
+  "situation": "Being asked to work beyond regular hours without additional compensation during an ongoing labor dispute.",
+  "auto_thought": "This is unfair, but I have no choice.",
+  "emotion": [
+    "Frustration",
+    "Resentment"
+  ],
+  "behavior": "Works extra hours despite feeling unfairly treated."
+}

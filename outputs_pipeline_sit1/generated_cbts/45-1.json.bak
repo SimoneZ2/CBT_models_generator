@@ -1,0 +1,32 @@
+{
+  "name": "Anonymous Client",
+  "id": "case001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a pattern where relationships sometimes shift into romantic connections, suggesting a possible search for validation or emotional support through intimacy. There have been past conflicts in relationships, especially after expressing anger, indicating difficulty with emotional regulation and fear of negative consequences from emotional expression. The client describes a complex relationship with parents involving obligations, which may contribute to internalized pressure to meet expectations and a heightened fear of making mistakes. These dynamics likely reinforce feelings of anxiety, guilt, and self-criticism, especially when obligations or expectations are not met.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake, it means I am not competent and others will judge me harshly. I must avoid errors at all costs to maintain my self-worth and others' approval. Meeting expectations perfectly is necessary to feel secure in my relationships and responsibilities.",
+  "intermediate_belief_depression": "If I keep failing to complete my work or make mistakes, it proves that I am incapable and will never succeed, no matter how hard I try.",
+  "coping_strategies": "The client copes by procrastinating and avoiding work tasks, seeking temporary relief from anxiety about making mistakes. They may distract themselves with non-productive activities, such as scrolling social media, and sometimes withdraw from situations that could lead to criticism or conflict. These strategies reduce immediate distress but reinforce anxiety and self-criticism in the long run.",
+  "situation": "Difficulty completing work tasks due to fear of making mistakes. Procrastination and avoidance impacting productivity.",
+  "auto_thought": "If I start this task, I'll probably mess it up and everyone will notice. It's safer to put it off than risk failing.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "worried",
+    "guilty",
+    "self-critical"
+  ],
+  "behavior": "I delay starting the work task and distract myself with other activities. I avoid looking at the task and tell myself I'll do it later.",
+  "rationale": "The report states, 'The patient exhibits a significant fear of making mistakes, which likely contributes to anxiety and avoidance behaviors.' It also notes, 'These behaviors provide short-term relief from anxiety but ultimately lead to increased stress and decreased productivity.' The emotional impact includes 'feelings of anxiety and tension when faced with tasks that could result in mistakes.' The client 'may experience guilt and self-criticism as a result of these behaviors.' The history of 'complex relationship with parents involving obligations' and 'past conflict in relationships following expressions of anger' supports the development of beliefs about needing to meet expectations and avoid mistakes to maintain worth and acceptance."
+}

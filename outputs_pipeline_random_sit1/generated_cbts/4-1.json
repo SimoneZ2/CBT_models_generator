@@ -1,0 +1,29 @@
+{
+  "history": "The patient has a history of significant medical issues, including a recent shoulder surgery with a painful recovery, ongoing pain and neurological symptoms from a herniated cervical disc, and prior walking difficulties and back issues requiring physical therapy. There was a past prolonged illness that led to immobility, which may have contributed to fears about physical decline. The return of symptoms coincided with starting a new relationship, possibly increasing anxiety about health and its impact on intimacy and connection.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If my health gets worse or I get bad news about my body, then I will not be able to cope and others may see me as a burden. I must always be in control of my health, or things will fall apart. If I show weakness or need help, people might distance themselves from me.",
+  "intermediate_belief_depression": "If my body keeps failing me, there is no hope for things to improve and I will always be stuck in this state. If my symptoms return, it means my efforts are pointless and I will never get better.",
+  "coping_strategies": [
+    "The patient seeks reassurance from medical professionals and their therapist when receiving distressing health information. They may withdraw from activities to avoid exacerbating symptoms and ruminate on worst-case scenarios, leading to increased anxiety. There is a tendency to over-explain or justify actions to others, possibly to manage perceptions and gain validation."
+  ],
+  "situation": "Received an MRI report indicating a herniated disc. Contacted the therapist after receiving the report.",
+  "auto_thought": "This MRI means my body is breaking down again. I can't handle going through all that pain and immobility once more.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "helpless",
+    "fearful",
+    "frustrated",
+    "insecure"
+  ],
+  "behavior": "Immediately contacted the therapist for reassurance and support. Avoided making any plans or commitments due to fear of worsening symptoms. Spent time ruminating about possible negative outcomes.",
+  "source_text_id": "1000013380.txt"
+}

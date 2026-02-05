@@ -1,0 +1,29 @@
+{
+  "name": "Sarah",
+  "id": "001",
+  "type": [
+    "CBT",
+    "CCD"
+  ],
+  "history": "Sarah is in a long-term relationship with Amelia. Amelia has a demanding professional schedule. Sarah feels isolated during the week. Sarah does most household tasks and does not discuss resentment with Amelia. History includes childhood separations from parents associated with distress.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express my needs, I will be rejected.",
+  "intermediate_belief_depression": "I must handle everything on my own to avoid being abandoned.",
+  "coping_strategies": "Avoids discussing feelings and needs with Amelia to prevent conflict.",
+  "situation": "Doing laundry and thinking about the future of the relationship and her domestic role.",
+  "auto_thought": "I am always going to be alone in this relationship.",
+  "emotion": [
+    "Isolation",
+    "Resentment",
+    "Anxiety"
+  ],
+  "behavior": "Continues to do household tasks without discussing feelings with Amelia."
+}

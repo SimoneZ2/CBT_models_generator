@@ -1,0 +1,30 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "History of substance abuse and completed rehabilitation. Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect. Longstanding obesity since childhood. Past experiences of bullying related to weight.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't meet expectations, I will be rejected.",
+  "intermediate_belief_depression": "I can't change my situation, so there's no point in trying.",
+  "coping_strategies": "Avoidance of social situations and emotional withdrawal.",
+  "situation": "Missed an alarm and woke up late for work.",
+  "auto_thought": "I'm going to get in trouble and everyone will think I'm unreliable.",
+  "emotion": [
+    "Anxiety",
+    "Shame"
+  ],
+  "behavior": "Rushed to work feeling anxious and preoccupied with thoughts of being judged."
+}

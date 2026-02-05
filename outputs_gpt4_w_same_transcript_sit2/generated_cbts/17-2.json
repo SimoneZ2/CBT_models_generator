@@ -1,0 +1,30 @@
+{
+  "name": "Sarah",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization Diagram"
+  ],
+  "history": "Sarah is in a long-term relationship with Amelia. Amelia has a demanding professional schedule. Sarah feels isolated during the week. Sarah does most household tasks and does not discuss resentment with Amelia. History includes childhood separations from parents associated with distress.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must not express my needs or I will be abandoned.",
+  "intermediate_belief_depression": "I am not important enough to have my needs met.",
+  "coping_strategies": "Avoids discussing feelings and needs with Amelia to prevent conflict.",
+  "situation": "Doing laundry and thinking about the future of the relationship and her domestic role.",
+  "auto_thought": "If I express my dissatisfaction, Amelia will leave me.",
+  "emotion": [
+    "Anxiety",
+    "Resentment"
+  ],
+  "behavior": "Suppresses feelings and continues to perform household tasks without discussing them.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

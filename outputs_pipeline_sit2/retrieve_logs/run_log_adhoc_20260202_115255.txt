@@ -1,0 +1,112 @@
+Using description: HISTORY:
+- History of substance abuse and completed rehabilitation.
+- Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect.
+- Longstanding obesity since childhood.
+- Past experiences of bullying related to weight.
+
+SITUATION:
+- Missed an alarm and woke up late for work. with ID=1-2
+Sample results (metadata similarity):
+  - sim=0.014 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.137 | title='Session 17: Client sees herself as having an overbearing, aggressive personality' | file='1000133903.txt'
+  - sim=0.151 | title='Patient "R" Session June 25, 2012: Client knows that she should be working on co' | file='1004600948.txt'
+  - sim=0.165 | title='Client "S", Session September 21, 2012: Client is currently working towards his ' | file='1004824793.txt'
+  - sim=0.177 | title='Person-Centered Child Therapy Session Transcript: Anin Utigaard masterfully teac' | file='1001114250.txt'
+  - sim=0.180 | title='Session 4: Client does not understand why she cannot find someone to date her. S' | file='1000133886.txt'
+  - sim=0.182 | title='Patient "B", Session November 12, 2012: Client talks about feeling guilty for tr' | file='1004824659.txt'
+  - sim=0.182 | title='Patient "L", Session May 09, 2012: Client has been feeling good about her work; ' | file='1004564967.txt'
+  - sim=0.184 | title='Session 8: Client tells therapist how bad she was feeling and then how she start' | file='1000013260.txt'
+  - sim=0.185 | title='Volume no. 12: Gregg: Client and therapist discuss client's dreams' | file='1002133158.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.014 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.137 | file='1000133903.txt' | title='Session 17: Client sees herself as having an overbearing, aggressive personality'
+  - sim=0.151 | file='1004600948.txt' | title='Patient "R" Session June 25, 2012: Client knows that she should be working on co'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**History and Situation:**
+The client has a history of substance abuse and has completed rehabilitation. He experiences ongoing family difficulties, particularly with his mother, which he describes as involving rejection and emotional neglect. He has struggled with obesity since childhood and has past experiences of bullying related to his weight. Recently, he missed an alarm and woke up late for work.
+
+**Emotional States:**
+The client exhibits a range of emotions during the session, primarily centered around his intellectual pursuits and personal growth. He expresses satisfaction and pride in his ability to understand complex mathematical concepts, as evidenced by his statement, "I felt like I really understood the material." However, there is also a sense of self-consciousness and doubt, as he mentions feeling "slightly self-conscious" about his preoccupation with math. This duality suggests an ongoing internal conflict between self-assurance and insecurity.
+
+**Transcript Anchors:**
+1. "I felt like I really understood the material."
+2. "Sometimes I feel slightly self-conscious about it."
+3. "It's amazing to me."
+
+**Automatic Thoughts and Cognitive Tendencies:**
+The client demonstrates a tendency to equate intellectual achievement with personal worth. His focus on mastering mathematical concepts and the satisfaction derived from it ("I was really rather proud of myself") indicates a cognitive pattern where success in intellectual endeavors is closely tied to self-esteem. He also shows a tendency to compare himself to others, as seen in his reflection on being ahead of classmates, which may stem from past experiences of bullying and rejection.
+
+**Transcript Anchors:**
+1. "I was really rather proud of myself."
+2. "I felt like I really understood the material and they were absolutely struggling."
+3. "I have to do it because if I don't, I'll fall behind."
+
+**Behavioral Patterns:**
+The client engages in behaviors that reinforce his intellectual pursuits, such as tutoring and drawing mathematical concepts to aid understanding. These activities seem to provide a sense of control and mastery, contrasting with his past experiences of feeling out of control due to substance abuse and family dynamics. His dedication to learning and teaching math suggests a coping strategy that helps him manage feelings of inadequacy and provides a structured way to achieve personal validation.
+
+**Transcript Anchors:**
+1. "I sat down and wrote off the next three pages of the proof."
+2. "I always bring colored chalk. I just drawing lots of pictures and teaching it."
+3. "I'm thinking about tutoring."
+
+**Interpersonal Dynamics:**
+The client appears to derive a sense of connection and validation through teaching and helping others understand complex material. His narrative about tutoring and the satisfaction he gains from it ("It was nice to feel like...I could honestly, genuinely teach the material") suggests that these interactions fulfill a need for positive social engagement and recognition, which may be lacking in his familial relationships.
+
+**Transcript Anchors:**
+1. "I could honestly, genuinely teach the material."
+2. "Feeling to have that ability to work really hard trying to read that stuff, and it not being easy but then getting it."
+3. "Feeling like you're really connected to the people you're teaching."
+
+**Themes:**
+The session reveals themes of intellectual pursuit as a means of self-validation, the struggle between self-doubt and self-assurance, and the search for meaningful connections through teaching. The client's focus on math and tutoring serves as a refuge from past and present emotional challenges, providing a structured environment where he can achieve success and recognition.
+
+**Transcript Anchors:**
+1. "It's sort of a launching pad to do interesting stuff."
+2. "It's a different way of—I mean, just in terms of the content."
+3. "There's a certain beauty to thinking about this stuff very clearly."
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of substance abuse and has completed rehabilitation. He reports ongoing family difficulties, particularly with his mother, characterized by rejection and emotional neglect. He has struggled with obesity since childhood and has experienced bullying related to his weight. These experiences have contributed to a pattern of seeking validation through achievement and a sensitivity to perceived failure or rejection.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake or fall short, others will see me as incompetent and I will lose their respect. I have to prove my value through my actions, otherwise I will be rejected or seen as a failure. Being reliable and successful is the only way to avoid criticism and feel good about myself.",
+  "intermediate_belief_depression": "If I can't even manage basic responsibilities like waking up on time, it means I'm hopeless and will never be able to change. No matter how hard I try, my failures will always define me and I will never be good enough.",
+  "coping_strategies": [
+    "The client tends to seek validation through achievement and intellectual pursuits, using success as a way to counter feelings of inadequacy. When faced with setbacks, he may withdraw, ruminate on his mistakes, or avoid situations where he fears further failure or criticism. He also uses structured activities, like tutoring or studying, to regain a sense of control."
+  ],
+  "situation": "Missed an alarm and woke up late for work.",
+  "auto_thought": "I can't believe I messed up again—everyone at work will think I'm unreliable. This just proves I'm not good enough and can't get my life together.",
+  "emotion": [
+    "ashamed",
+    "anxious",
+    "guilty",
+    "embarrassed",
+    "frustrated",
+    "hopeless"
+  ],
+  "behavior": "He rushes to get ready in a panic, avoids making eye contact with colleagues, and may not mention the reason for being late. He mentally berates himself and withdraws socially at work, trying to keep a low profile."
+}

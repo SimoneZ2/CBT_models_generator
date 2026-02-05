@@ -1,0 +1,83 @@
+Using description: HISTORY:
+- Recent family tension related to a conversation with parents about a wedding list.
+- The patient noticed similarities between their own actions and their father's patterns.
+- The father is described as repeatedly seeking approval and unconditional love from family members.
+
+SITUATION:
+- Observing the father's ongoing pursuit of approval from his sister. with ID=2-2
+Top results (by metadata similarity):
+  - sim=0.787 | title='Session 79: Client often downplays her achievements and focuses on negative aspe' | file='1000370274.txt'
+  - sim=0.766 | title='Session 5: Client discusses how much closer she feels to her friends than her fa' | file='1000061054.txt'
+  - sim=0.763 | title='Session 2: Client is having a difficult time feeling comfortable talking in ther' | file='1000323417.txt'
+  - sim=0.759 | title='Session 83: Client feels like she should take advantage of her father's generosi' | file='1000370278.txt'
+  - sim=0.749 | title='Session 3: Client talks about being a 'tomboy' as a child and how that has effec' | file='1000017862.txt'
+  - sim=0.744 | title='Session 2: Client discusses her relationship with her boyfriend and tells therap' | file='1000094390.txt'
+  - sim=0.738 | title='Session 4: Client talks about growing up with loving grandparents and how his ow' | file='1000094417.txt'
+  - sim=0.737 | title='Patient "A" Therapy Session Audio Recording, December 21, 2011: Client discusses' | file='1004466286.txt'
+  - sim=0.736 | title='Session 478: Client has not seen therapist for quite some time; she appears to b' | file='1000395261.txt'
+  - sim=0.736 | title='Session 26: Client feels like her time is encroached upon when someone else call' | file='1000329603.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.787 | file='1000370274.txt' | title='Session 79: Client often downplays her achievements and focuses on negative aspe'
+  - sim=0.766 | file='1000061054.txt' | title='Session 5: Client discusses how much closer she feels to her friends than her fa'
+  - sim=0.763 | file='1000323417.txt' | title='Session 2: Client is having a difficult time feeling comfortable talking in ther'
+Using top selected file for transcript: '1000370274.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is experiencing recent family tension related to a conversation with their parents about a wedding list. During this interaction, the patient noticed similarities between their own actions and their father's patterns. The father is described as someone who repeatedly seeks approval and unconditional love from family members. The patient also observes the father's ongoing pursuit of approval from his sister.
+
+**Emotional Impact:**
+The family tension surrounding the wedding list conversation likely evokes feelings of anxiety and worry for the patient. The similarity between their actions and their father's patterns might lead to feelings of discomfort or unease, as the patient may fear replicating behaviors they perceive as undesirable. Observing the father's pursuit of approval could evoke a mix of emotions, including sadness or frustration, as it highlights a potential familial pattern of seeking validation.
+
+**Cognitive Patterns:**
+The patient may engage in self-reflection and critical self-assessment, particularly in recognizing similarities with their father. This awareness might lead to cognitive dissonance, as the patient grapples with the desire to differentiate themselves from their father's approval-seeking behavior. The transcript suggests that individuals who feel the need to prove themselves or assert their prior knowledge may struggle with self-worth and confidence. The patient might experience similar cognitive tendencies, such as ruminating on their actions and seeking reassurance.
+
+**Behavioral Responses:**
+In response to the family tension and observed patterns, the patient might engage in behaviors such as withdrawing from family discussions to avoid conflict or seeking reassurance from others to validate their feelings and decisions. The patient may also find themselves falling into approval-seeking behaviors, mirroring their father's actions, which could manifest as seeking validation from family members or avoiding situations where their actions might be scrutinized.
+
+**Coping Styles:**
+The patient may cope with these emotional and cognitive challenges by reflecting on their experiences and attempting to understand the root of their behaviors. However, the transcript suggests that individuals with similar patterns might struggle with defensiveness or aggression when their ideas are challenged. The patient might exhibit similar coping mechanisms, such as becoming defensive during family discussions or avoiding expressing their opinions to prevent conflict.
+
+**Conclusion:**
+The patient's recent experiences with family tension and the recognition of behavioral similarities with their father likely contribute to a complex emotional and cognitive landscape. The patient may benefit from exploring these patterns further in therapy, focusing on developing healthier coping strategies and building self-confidence. Cognitive Behavioral Therapy (CBT) can help the patient identify and challenge unhelpful thought patterns, reduce approval-seeking behaviors, and enhance their ability to navigate family dynamics more effectively.
+Summary da mistral_.csv: The patient discussed their tendency to feel the need to prove themselves and assert their thoughts or actions before others, which they traced back to their upbringing in a family where their contributions were often devalued or criticized. They also shared their competitive feelings towards their therapist and assistant, and their vulnerability when letting their guard down around them. The patient wondered if their behavior towards their family, particularly towards their father, was similar. The analyst pointed out that the patient seemed to be focusing on their relationship with their mother and father, excluding other family members from the discussion.
+
+ REFINED CCD: description + report
+{
+  "history": "The patient recently experienced family tension during a conversation with their parents about a wedding list. They noticed parallels between their own actions and their father's, who is described as repeatedly seeking approval and unconditional love from family members. The patient is particularly struck by observing their father's ongoing pursuit of approval from his sister, which brings discomfort and self-reflection about their own tendencies. This awareness may contribute to cognitive dissonance and a struggle with self-worth.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't seek approval from my family, I will be rejected or seen as unworthy. I must avoid being like my father, but I can't help repeating his patterns. If I am not validated by others, I am not good enough.",
+  "intermediate_belief_depression": "If I keep acting like my father, I will never be able to change or be accepted for who I am.",
+  "coping_strategies": [
+    "The patient tends to withdraw from family discussions to avoid conflict or scrutiny. They may seek reassurance from others to validate their feelings and decisions. At times, they mirror approval-seeking behaviors, despite discomfort, and may become defensive or avoid expressing opinions to prevent conflict."
+  ],
+  "situation": "Observing the father's ongoing pursuit of approval from his sister.",
+  "auto_thought": "I'm just like my father—I can't stop needing approval. If I keep acting this way, I'll never be accepted for who I am.",
+  "emotion": [
+    "anxious",
+    "uneasy",
+    "sad",
+    "frustrated",
+    "self-critical"
+  ],
+  "behavior": "I withdraw from the conversation and avoid sharing my opinions. I ruminate about my own approval-seeking behaviors and compare myself to my father."
+}

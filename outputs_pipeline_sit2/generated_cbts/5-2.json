@@ -1,0 +1,51 @@
+{
+  "name": "CBT Cognitive Conceptualization Diagram",
+  "id": "5-2",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client has a history of working overseas and building a website related to that work. He repeatedly starts new projects or ideas but tends to abandon them when difficulties arise, indicating a pattern of initial enthusiasm followed by discouragement. There is a significant family-related difficulty involving his father, for which he wrote a personal letter as part of a forgiveness process. This suggests both unresolved emotional conflict and attempts at resolution. The client is currently reflecting on his past achievements in the context of present challenges, which may evoke mixed emotions about his self-worth and abilities.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't immediately overcome challenges, it means I'm not capable and should give up before I fail completely. If I don't achieve as much now as I did in the past, it means I've lost my value. If I face difficulties, it proves I'm not as competent as I thought.",
+  "intermediate_belief_depression": "If I keep struggling with new challenges and can't match my past achievements, it means I'll never succeed and things won't get better. If I can't finish what I start, there's no point in trying anymore.",
+  "coping_strategies": "He tends to abandon projects when difficulties arise, avoiding the discomfort of potential failure. He also engages in introspective actions, such as writing a forgiveness letter, as a way to process emotional pain and seek closure. This pattern of avoidance and occasional approach coping maintains his cycle of discouragement and unfinished goals.",
+  "situation": "Reflecting on past achievements alongside current challenges.",
+  "auto_thought": "I'm not living up to what I accomplished before. If I can't handle these challenges now, maybe I'm not really capable after all.",
+  "emotion": [
+    "disappointed",
+    "inadequate",
+    "self-doubt",
+    "sad",
+    "frustrated",
+    "discouraged"
+  ],
+  "behavior": "He mentally compares his current struggles to his past successes. He withdraws from working on current projects and avoids taking further steps when difficulties arise.",
+  "rationale": "\"The patient's tendency to start and then abandon projects suggests a cognitive pattern characterized by initial enthusiasm followed by a decrease in motivation when obstacles arise.\" \"Reflecting on past achievements while facing current challenges likely evokes a mix of emotions... feelings of inadequacy, disappointment, or self-doubt.\" \"The patient's pattern of abandoning projects when difficulties arise suggests a behavioral tendency to avoid challenges rather than confront them.\"",
+  "core_belief_predictions": {
+    "source_id": "5-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am a failure, loser",
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am incompetent",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

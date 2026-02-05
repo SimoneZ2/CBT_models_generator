@@ -1,0 +1,29 @@
+{
+  "name": "Patient 31",
+  "id": "31",
+  "type": [
+    "anticipatory grief",
+    "family health anxiety"
+  ],
+  "history": "Recent family deaths (uncle, cousin). Concern about parents' health. Father has multiple health conditions (diabetes, hypertension, kidney issues, high cholesterol). Tension with father over emotional distance and health transparency.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to lose loved ones"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I can't protect my parents from death.",
+  "intermediate_belief_depression": "Loss is inevitable and I'm powerless to stop it.",
+  "coping_strategies": [
+    "Avoidance, catastrophic thinking, emotional withdrawal."
+  ],
+  "situation": "Thinking about possibility of father dying before mother. Avoiding interaction with father.",
+  "auto_thought": "\"He's going to die and we'll never reconcile. It's already too late.\"",
+  "emotion": [
+    "dread",
+    "guilt",
+    "helplessness"
+  ],
+  "behavior": "Doesn't answer father's calls, researches health conditions obsessively, becomes irritable with mother."
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Patient 40",
+  "id": "40",
+  "type": [
+    "isolation",
+    "family estrangement"
+  ],
+  "history": "Recent move and settling stress. Difficult relationship with judgmental, unsupportive mother. Strained friendships contributing to isolation.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "No one is there for me when I need support.",
+  "intermediate_belief_depression": "I'm completely alone in dealing with life's challenges.",
+  "coping_strategies": [
+    "Avoidance of contact, attempting tasks alone, isolation."
+  ],
+  "situation": "Feeling exhausted after attempting to unpack without support. Avoiding contact with friends and mother.",
+  "auto_thought": "I have to do everything alone because no one cares enough to help.",
+  "emotion": [
+    "exhaustion",
+    "resentment",
+    "loneliness"
+  ],
+  "behavior": "Attempt unpacking alone, then avoid contacting others."
+}

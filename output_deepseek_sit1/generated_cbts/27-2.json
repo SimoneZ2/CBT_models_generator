@@ -1,0 +1,27 @@
+{
+  "name": "Patient 27",
+  "id": "27",
+  "type": [
+    "divorce conflict",
+    "co-parenting stress"
+  ],
+  "history": "Recent divorce with financial difficulties. Relationship since age 19. Has young son and settling child support. Adjusting to single parenthood.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "My ex-partner will never cooperate or support our child properly.",
+  "intermediate_belief_depression": "I'm fighting a losing battle for my child's financial security.",
+  "coping_strategies": [
+    "Legal navigation, single parenting, managing co-parenting conflict."
+  ],
+  "situation": "Received email from ex-partner refusing to agree on child support and financial arrangements.",
+  "auto_thought": "He's going to fight me on everything, and my son will suffer.",
+  "emotion": [
+    "anger",
+    "frustration",
+    "anxiety"
+  ],
+  "behavior": "Read ex-partner's email refusing child support agreement."
+}

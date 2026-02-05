@@ -1,0 +1,86 @@
+Using description: HISTORY:
+- Long-standing friendship with Ethan dating back to high school.
+- Shared personal crises and professional collaborations.
+
+SITUATION:
+- Learning about Ethan's abusive behavior toward his partner and feeling distressed.
+- Observing erratic behavior and signs of substance use at a recent gathering. with ID=50-1
+Top results (by metadata similarity):
+  - sim=0.669 | title='Patient "M" Therapy Session Audio Recording, January 23, 2012: Client discusses ' | file='1004478010.txt'
+  - sim=0.668 | title='Patient "M" Therapy Session Audio Recording, March 26, 2012: Client is upset to ' | file='1004528625.txt'
+  - sim=0.662 | title='Session 18: Client tells therapist that he is unhappy with him and explains why' | file='1000094506.txt'
+  - sim=0.646 | title='Patient "C" Therapy Session Audio Recording, April 24, 2012: Client feels engulf' | file='1004538644.txt'
+  - sim=0.644 | title='Patient "Couple" Therapy Session Audio Recording, May 08, 2012: Only the male cl' | file='1004565015.txt'
+  - sim=0.642 | title='Patient "S", Session September 21, 2012: Client talks about where her relationsh' | file='1004798837.txt'
+  - sim=0.639 | title='Patient "C" Therapy Session Audio Recording, January 26, 2012: Client is feeling' | file='1004478014.txt'
+  - sim=0.639 | title='Patient "C" Therapy Session Audio Recording, April 10, 2012: Client talks about ' | file='1004532456.txt'
+  - sim=0.633 | title='Session 2: Client is afraid that she may lose her best friend to her lover' | file='1000122292.txt'
+  - sim=0.631 | title='Session 4: Client is realizing that he cannot be dependent on his boyfriend. He'' | file='1000094547.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.669 | file='1004478010.txt' | title='Patient "M" Therapy Session Audio Recording, January 23, 2012: Client discusses '
+  - sim=0.668 | file='1004528625.txt' | title='Patient "M" Therapy Session Audio Recording, March 26, 2012: Client is upset to '
+  - sim=0.662 | file='1000094506.txt' | title='Session 18: Client tells therapist that he is unhappy with him and explains why'
+Using top selected file for transcript: '1004478010.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a long-standing friendship with Ethan, dating back to high school, characterized by shared personal crises and professional collaborations. Recently, the patient has learned about Ethan's abusive behavior toward his partner and has observed signs of erratic behavior and substance use by Ethan at a recent gathering. This situation has caused significant distress for the patient.
+
+**Emotional Impact:**
+The revelation of Ethan's abusive behavior likely evokes a complex emotional response in the patient, including feelings of distress, disappointment, and confusion. Given the depth of their friendship, the patient may feel a sense of betrayal and sadness, as Ethan's actions contradict the values and trust inherent in their relationship. The patient's distress may be compounded by feelings of helplessness or frustration, as they grapple with the implications of Ethan's behavior on their friendship and their perception of him.
+
+**Cognitive Patterns:**
+The patient may engage in ruminative thinking, repeatedly analyzing Ethan's behavior and its impact on their friendship. This cognitive pattern can lead to increased anxiety and worry, as the patient attempts to reconcile Ethan's past supportive role with his current actions. The patient might also experience cognitive dissonance, struggling to align their long-standing positive view of Ethan with the negative aspects of his recent behavior.
+
+**Behavioral Responses:**
+In response to the distressing situation, the patient may withdraw from social interactions or avoid gatherings where Ethan is present, as a means of coping with the discomfort and uncertainty surrounding their friendship. The patient might also seek reassurance from mutual friends or engage in conversations to gain clarity and support. Alternatively, the patient may attempt to confront Ethan about his behavior, driven by a desire to understand and potentially help him.
+
+**Coping Styles:**
+The patient may exhibit a tendency to internalize the situation, reflecting on their own role or responsibility in Ethan's behavior, despite having no control over his actions. This internalization can lead to feelings of guilt or self-blame. The patient might also oscillate between avoidance and confrontation, struggling to find a balance between maintaining the friendship and addressing the problematic behavior.
+
+**Psychological Mechanisms:**
+Drawing from the transcript, individuals in similar situations often experience a cycle of emotional and cognitive responses, such as feeling defensive or insulted when their values or relationships are challenged. The patient may experience a similar cycle, where initial distress leads to defensive thoughts or behaviors, followed by attempts to rationalize or make sense of the situation.
+
+**Conclusion:**
+The patient's emotional, cognitive, and behavioral responses to learning about Ethan's abusive behavior are complex and multifaceted. The distress and confusion stemming from this revelation are understandable, given the depth of their friendship and shared history. It is crucial for the patient to explore these feelings in a supportive therapeutic environment, where they can process their emotions, challenge unhelpful cognitive patterns, and develop adaptive coping strategies. Through therapy, the patient can work toward resolving the cognitive dissonance and emotional turmoil, ultimately finding a path forward in their relationship with Ethan.
+Summary da mistral_.csv: In this therapy session, the client discussed an argument with her partner, Chris, following the revelation of his lowered academic performance. The argument occurred during a dinner outing, where the client expressed frustration towards Chris and his friends for their self-aggrandizement. This led to an argument, with the client making cutting remarks and Chris leaving the room. The client acknowledged this pattern of behavior as a cycle that typically escalates into full-blown fights. The client also shared that Chris has a history of disliking her friends, particularly her male friends from the past, which leads to tension in their relationship. The client expressed frustration over Chris's negative comments about her friends and felt defensive when he openly criticizes them. The client and Chris have not had open conversations about their pasts or insecurities, leading to a lack of resolution and continued tension.
+The client recounted an incident from their past relationship where their partner's best friend had speculated that the client was a virgin, despite the client's denial. The client wondered if their partner had been truthful about his past sexual experiences and felt uncomfortable discussing it due to potential judgment and the perceived inability to relate to each other's experiences. The client also shared that their affectionate behavior, which included hugging friends and being flirty, made their partner uncomfortable and led to feelings of frustration and a desire to bring up past issues, often when drunk. The client discussed their father's history of being mean and abusive, which led to a desire for control and a belief that they were responsible for their father's absence from their childhood home. The client expressed frustration with the recurring nature of these issues despite their awareness of their origins.
+The client described their childhood experience of living with an alcoholic father who continued to disturb the family even after leaving home. They felt their mother was always present during these disturbances and felt damaged as a result, describing themselves as empty, lacking trust in themselves and others, and feeling broken. The client expressed a preference for discussing their past pain in therapy sessions rather than engaging in normal activities, acknowledging the honesty of this feeling but expressing a desire to move past it. The therapist acknowledged the client's feelings and offered support. The client mentioned accidentally wetting the therapist's stool during the session.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a long-standing friendship with Ethan, originating in high school and marked by shared personal crises and professional collaborations. This deep connection has fostered a sense of trust and loyalty. The recent discovery of Ethan's abusive behavior and substance use has created significant distress, as the client struggles to reconcile Ethan's supportive past with his current actions. The client may feel a sense of betrayal and confusion, as well as internal conflict about their own role or responsibility in the situation.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If someone I care about does something wrong and I don't intervene, then I am failing as a friend and person. I have to take responsibility for the people close to me, or else I am complicit in their actions. It's up to me to make things right, even if I feel overwhelmed or uncertain.",
+  "intermediate_belief_depression": "If I can't help or fix this situation, it means I'm not a good friend and maybe I'm not capable of making a difference at all. No matter what I do, it won't be enough to repair the damage or protect others.",
+  "coping_strategies": [
+    "The client tends to ruminate about Ethan's behavior and their own role, repeatedly analyzing the situation and seeking clarity. They may withdraw from social interactions or avoid gatherings where Ethan is present, or alternatively seek reassurance from mutual friends. The client oscillates between avoidance and confrontation, unsure how to balance maintaining the friendship with addressing the problematic behavior."
+  ],
+  "situation": "Learning about Ethan's abusive behavior toward his partner and feeling distressed. Observing erratic behavior and signs of substance use at a recent gathering.",
+  "auto_thought": "I can't believe Ethan would do something like this—how could I have missed it? If I don't do something, I'm letting everyone down.",
+  "emotion": [
+    "distressed",
+    "anxious",
+    "confused",
+    "guilty",
+    "sad",
+    "helpless"
+  ],
+  "behavior": "I withdraw from Ethan and avoid gatherings where he is present. I seek reassurance from mutual friends and ruminate about what I should do. Sometimes I consider confronting Ethan, but feel paralyzed by uncertainty."
+}

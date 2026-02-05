@@ -1,0 +1,29 @@
+{
+  "history": "The patient has ongoing interpersonal difficulties involving their partner Ivan and his family. There have been recent trust and betrayal issues with Ivan, which have intensified the emotional strain. The patient continues to interact with Ivan's family, who have shown a dismissive attitude toward the betrayal, as evidenced by the mother's comment. This ongoing contact and lack of validation from the family contribute to the patient's emotional distress and sense of invalidation.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express my hurt or stand up for myself, I will be seen as difficult or unreasonable, so it's safer to suppress my feelings. If others minimize my pain, maybe my feelings aren't valid. I have to keep the peace, even if it means ignoring my own needs.",
+  "intermediate_belief_depression": "If nothing changes and my feelings are always dismissed, things will never get better and I will always feel alone.",
+  "coping_strategies": [
+    "The patient tends to withdraw from Ivan's family or avoid discussing the betrayal to prevent further conflict. They may suppress their emotions or pretend to agree with the family's perspective to maintain peace. The patient might also seek reassurance from friends or support systems to validate their feelings."
+  ],
+  "situation": "During an interaction with Ivan's family, the mother says \"boys will be boys\" and asks the patient to \"forgive and forget\".",
+  "auto_thought": "They don't care about how much this hurt me. If I forgive and forget, my feelings will just be ignored again.",
+  "emotion": [
+    "hurt",
+    "invalidated",
+    "frustrated",
+    "sad",
+    "angry"
+  ],
+  "behavior": "I stay quiet and don't argue with Ivan's mother. I avoid sharing how I really feel. Later, I reach out to a friend to talk about what happened.",
+  "source_text_id": "1004798713.txt"
+}

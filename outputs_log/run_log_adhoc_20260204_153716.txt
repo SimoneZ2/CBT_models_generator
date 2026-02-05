@@ -1,0 +1,76 @@
+Using description: HISTORY:
+- Recent family tension related to a conversation with parents about a wedding list.
+- The patient noticed similarities between their own actions and their father's patterns.
+- The father is described as repeatedly seeking approval and unconditional love from family members.
+
+SITUATION:
+- Disagreement with parents regarding the guest list for an upcoming event. with ID=2-1
+Sample results (metadata similarity):
+  - sim=0.140 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.198 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.222 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.224 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+  - sim=0.237 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.246 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.248 | title='Patient "K", Session November 13, 2012: Client has been feeling depressed with a' | file='1004824685.txt'
+  - sim=0.253 | title='Patient "L", Session May 09, 2012: Client has been feeling good about her work; ' | file='1004564967.txt'
+  - sim=0.256 | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de' | file='1001084060.txt'
+  - sim=0.261 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.140 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.198 | file='1004798723.txt' | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to '
+  - sim=0.222 | file='1001084079.txt' | title='Verilogue session: Client feels the urgent need to get everything done in a rush'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has recently been navigating family tensions related to a disagreement over a wedding guest list, appears to be experiencing a complex interplay of emotions and cognitive patterns. During the session, the client frequently engages in discussions about mathematics, which seems to serve as both a passion and a coping mechanism. The client describes a sense of satisfaction and accomplishment when discussing their progress in understanding complex mathematical concepts, stating, "I feel like I'm gaining senility," which suggests a growing confidence in their intellectual abilities. This intellectual pursuit may provide a sense of control and mastery, contrasting with the uncertainty and frustration experienced in familial interactions.
+
+The client often reflects on their father's behavior, noting similarities in their own actions, such as the tendency to seek approval. This reflection seems to trigger a mix of emotions, including a sense of being "in a bubble" when immersed in mathematical studies, which might parallel the father's patterns of seeking unconditional love. The client expresses a certain self-consciousness about their preoccupation with math, questioning, "Why exactly am I preoccupied with this?" This introspection indicates an awareness of the potential for avoidance, as the client may be using mathematics as a way to distance themselves from the emotional complexities of family dynamics.
+
+Throughout the session, the client demonstrates a pattern of intellectualization, using detailed descriptions of mathematical proofs and teaching experiences to articulate their thoughts. This approach may serve as a defense mechanism, allowing the client to maintain a sense of control and avoid confronting more emotionally charged topics. The client mentions feeling "slightly self-conscious" about their focus on math, which suggests an underlying tension between their intellectual pursuits and the emotional demands of their personal life.
+
+The client's narrative also reveals a struggle with perfectionism and the pressure to meet high standards, both self-imposed and perceived from others. This is evident in their discussion about the need for conciseness in mathematical proofs, where they express frustration with the expectation to "be more concise." The client's desire to "draw a picture" to understand complex concepts highlights a preference for visual learning and a need for clarity, which may extend to their interpersonal relationships.
+
+In exploring the client's cognitive patterns, it becomes apparent that they experience a dichotomy between the structured world of mathematics and the unpredictable nature of human relationships. The client describes a dream of being in a "great dark theater," feeling both welcomed and out of place, which may symbolize their ambivalence about belonging and acceptance within their family. This imagery suggests a longing for connection while simultaneously feeling disconnected, a theme that resonates with their current family situation.
+
+The session concludes with the client acknowledging the universality of mathematical language, noting that it transcends cultural and linguistic barriers. This realization may offer a sense of solace, as it contrasts with the subjective and often contentious nature of familial interactions. The client's parting words, "I feel like something is transcended me," reflect a moment of insight, suggesting that their engagement with mathematics provides a temporary escape from the complexities of their emotional world. As the session ends, the client agrees to return in two weeks, indicating a willingness to continue exploring these themes in future sessions.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has been experiencing family tension related to a disagreement over a wedding guest list. They have noticed similarities between their own actions and their father's patterns, particularly the tendency to seek approval. The client uses mathematics as a coping mechanism, finding satisfaction and accomplishment in intellectual pursuits. They also struggle with perfectionism and the pressure to meet high standards.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't gain approval from my family, then I am not worthy of love. If I can't control the situation, then I am failing.",
+  "intermediate_belief_depression": "If I can't meet my family's expectations, then I will always be a disappointment.",
+  "coping_strategies": [
+    "The client uses mathematics as a way to distance themselves from family tensions, finding solace in intellectual pursuits. They also engage in intellectualization to maintain a sense of control and avoid confronting emotional issues."
+  ],
+  "situation": "Disagreement with parents regarding the guest list for an upcoming event.",
+  "auto_thought": "I'm never going to make them happy with this list. They will always find something wrong.",
+  "emotion": [
+    "anxious",
+    "frustrated",
+    "self-conscious",
+    "disconnected"
+  ],
+  "behavior": "The client immerses themselves in mathematical studies to avoid dealing with the family disagreement. They also reflect on their father's behavior and their own tendencies to seek approval."
+}

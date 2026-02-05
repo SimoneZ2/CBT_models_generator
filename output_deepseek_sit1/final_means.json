@@ -1,0 +1,163 @@
+{
+  "n": 48,
+  "means": {
+    "embeddings_cosine": 0.34126009800044504,
+    "crossencoder_sts": 0.2621975962111415,
+    "nli_entailment_overall": 0.08033152629557457,
+    "nli_contradiction_overall": 0.18664375000000002
+  },
+  "counts": {
+    "embeddings_cosine": 48,
+    "crossencoder_sts": 48,
+    "nli_entailment_overall": 48,
+    "nli_contradiction_overall": 48
+  },
+  "core_beliefs_fine": {
+    "n": 48,
+    "micro": {
+      "precision": 0.5357142857142857,
+      "recall": 0.225,
+      "f1": 0.31690140845070425
+    },
+    "macro": {
+      "f1": 0.2352392302039861
+    },
+    "subset_accuracy": 0.0,
+    "jaccard_mean": 0.21785714285714283,
+    "unknown_pred_total": 0,
+    "label_space_size": 19,
+    "per_label": {
+      "I am a failure, loser": {
+        "precision": 0.75,
+        "recall": 0.5,
+        "f1": 0.6,
+        "support": 12
+      },
+      "I am a victim": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 4
+      },
+      "I am bad - dangerous, toxic, evil": {
+        "precision": 0.25,
+        "recall": 1.0,
+        "f1": 0.4,
+        "support": 1
+      },
+      "I am bound to be abandoned": {
+        "precision": 1.0,
+        "recall": 0.07142857142857142,
+        "f1": 0.13333333333333333,
+        "support": 14
+      },
+      "I am bound to be alone": {
+        "precision": 0.5,
+        "recall": 0.14285714285714285,
+        "f1": 0.22222222222222224,
+        "support": 14
+      },
+      "I am bound to be rejected": {
+        "precision": 0.2,
+        "recall": 0.1,
+        "f1": 0.13333333333333333,
+        "support": 10
+      },
+      "I am defective": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 4
+      },
+      "I am helpless": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 21
+      },
+      "I am immoral": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 1
+      },
+      "I am incompetent": {
+        "precision": 0.7647058823529411,
+        "recall": 0.7647058823529411,
+        "f1": 0.7647058823529412,
+        "support": 17
+      },
+      "I am needy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 5
+      },
+      "I am out of control": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 15
+      },
+      "I am powerless, weak, vulnerable": {
+        "precision": 0.42105263157894735,
+        "recall": 0.4,
+        "f1": 0.41025641025641024,
+        "support": 20
+      },
+      "I am trapped": {
+        "precision": 0.6,
+        "recall": 0.5294117647058824,
+        "f1": 0.5625,
+        "support": 17
+      },
+      "I am unattractive": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am undesirable, unwanted": {
+        "precision": 0.16666666666666666,
+        "recall": 0.07692307692307693,
+        "f1": 0.10526315789473684,
+        "support": 13
+      },
+      "I am unlovable": {
+        "precision": 0.6666666666666666,
+        "recall": 0.07692307692307693,
+        "f1": 0.13793103448275862,
+        "support": 26
+      },
+      "I am worthless, waste": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 6
+      },
+      "I don't deserve to live": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      }
+    }
+  },
+  "core_beliefs_major": {
+    "n": 48,
+    "micro": {
+      "precision": 0.8333333333333334,
+      "recall": 0.625,
+      "f1": 0.7142857142857143
+    },
+    "subset_accuracy": 0.3333333333333333,
+    "jaccard_mean": 0.611111111111111,
+    "label_space_size": 3
+  },
+  "mapping": {
+    "patient_id_to_source_id": "id + '-2'"
+  },
+  "resume": {
+    "total": 48
+  }
+}

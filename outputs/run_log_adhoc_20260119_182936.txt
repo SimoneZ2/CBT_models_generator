@@ -1,0 +1,86 @@
+Using description: HISTORY:
+- Past labor dispute in a previous workplace.
+- Ongoing concerns related to fairness, pay, and authority at work.
+
+SITUATION:
+- Being asked to work beyond regular hours without additional compensation during an ongoing labor dispute. with ID=37-2
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.425 | title='Patient "S" Session September 18, 2012: Client has been feeling extremely overwh' | file='1004798935.txt'
+  - sim=0.392 | title='Session 14: Client feels left out by his son.  He expresses his anger at his emp' | file='1000013338.txt'
+  - sim=0.390 | title='Verilogue session: Client is having problems with his superiors at work. His moo' | file='1003009283.txt'
+  - sim=0.377 | title='Patient "M" Therapy Session Audio Recording, February 29, 2012: Client feels tak' | file='1004504886.txt'
+  - sim=0.370 | title='Verilogue session: Client has not been able to work or get out of the house  muc' | file='1001084051.txt'
+  - sim=0.369 | title='Patient "M", Session August 22, 2012: Client talks about some issues surrounding' | file='1004687678.txt'
+  - sim=0.364 | title='Patient "Ju" Session March 16, 2012: Client has had a frustrating and stressful ' | file='1004522810.txt'
+  - sim=0.363 | title='Patient "A" Therapy Session Audio Recording, January 31, 2012: Client discusses ' | file='1004478020.txt'
+  - sim=0.355 | title='Patient "K" Session October 12, 2012: Client recently attended a DBT group works' | file='1004798903.txt'
+  - sim=0.354 | title='Patient "J", Session March 12, 2012: Client is frustrated with work and notices ' | file='1004522800.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.425 | file='1004798935.txt' | title='Patient "S" Session September 18, 2012: Client has been feeling extremely overwh'
+  - sim=0.392 | file='1000013338.txt' | title='Session 14: Client feels left out by his son.  He expresses his anger at his emp'
+  - sim=0.390 | file='1003009283.txt' | title='Verilogue session: Client is having problems with his superiors at work. His moo'
+Using top selected file for transcript: '1004798935.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report: Case Formulation**
+
+**Patient Background:**
+The patient has a history of a past labor dispute at a previous workplace and is currently experiencing ongoing concerns related to fairness, pay, and authority at work. The current situation involves being asked to work beyond regular hours without additional compensation during an ongoing labor dispute.
+
+**Presenting Concerns:**
+The patient is likely experiencing significant emotional distress due to the current work situation, which echoes past experiences of labor disputes. The request to work extra hours without compensation may exacerbate feelings of unfairness and lack of control, potentially leading to heightened stress and anxiety.
+
+**Emotional Impact:**
+The patient may feel anxious, worried, and tense due to the ongoing labor dispute and the demand for uncompensated work. This situation can evoke feelings of being undervalued and exploited, contributing to a sense of helplessness and frustration. The emotional response may include feeling overwhelmed and stressed, as the patient navigates the complexities of workplace dynamics and personal boundaries.
+
+**Cognitive Patterns:**
+The patient might engage in ruminative thinking, focusing on perceived injustices and the imbalance of power at work. This cognitive pattern can lead to a cycle of negative thoughts, such as questioning self-worth and competence, especially in relation to authority figures. The patient may also experience cognitive distortions, such as catastrophizing the potential outcomes of the labor dispute, which can intensify feelings of anxiety and stress.
+
+**Behavioral Responses:**
+In response to the work situation, the patient may exhibit avoidance behaviors, such as hesitating to confront authority figures or express dissatisfaction with the working conditions. Alternatively, the patient might seek reassurance from colleagues or engage in discussions about fairness and rights to validate their feelings and experiences. The stress of the situation could also lead to withdrawal from social interactions outside of work, as the patient may feel emotionally drained and preoccupied with work-related concerns.
+
+**Coping Mechanisms:**
+The patient may attempt to cope with the stress by seeking support from peers or engaging in activities that provide a sense of control and accomplishment. However, the ongoing nature of the dispute and the demand for extra work hours without compensation could limit the effectiveness of these coping strategies, leading to increased feelings of burnout and exhaustion.
+
+**Conclusion:**
+The patient's current work situation, characterized by demands for uncompensated extra hours during a labor dispute, is likely to have a significant emotional, cognitive, and behavioral impact. The situation may trigger feelings of anxiety, stress, and helplessness, while also reinforcing negative cognitive patterns related to fairness and authority. Addressing these issues through cognitive-behavioral strategies, such as challenging cognitive distortions and developing assertive communication skills, may help the patient manage their emotional responses and improve their overall well-being.
+Summary da mistral_.csv: The client described a stressful two-week period marked by long hours at work, lack of time off, and academic struggles. They had difficulty completing pre-lab work due to a lack of sleep and felt overwhelmed, leading to a breakdown and crying episode on the way home. The client expressed feelings of being behind in classes and worried about their ability to meet academic requirements, particularly in science courses. They also discussed a difficult family situation involving a request to travel to Mexico to handle property matters. The client considered quitting a class or their job to alleviate stress but was unsure of the best course of action.
+The client expresses their struggle with deciding whether to drop a chemistry class and keep their job or quit the job and focus on the class. They discuss the benefits and drawbacks of each option, including financial implications and the impact on their relationships and mental well-being. The client shares their history of overcommitting in the past and feeling overwhelmed during finals. They express feelings of disappointment and loneliness due to the lack of time for friends and personal activities. The client also mentions their self-esteem being tied to their academic performance and feeling like a failure when not doing well in classes. They reflect on past experiences, including quitting Divinity school and excelling in science in high school.
+The client and therapist discuss the client's difficulty adjusting to a new academic schedule and feeling overwhelmed with coursework and a job. The therapist compares this experience to the feeling of being in a different language environment and suggests the client give themselves time to adjust. The client expresses embarrassment about having to drop a class and their insecurity about not being smart enough. They also discuss the emotional burden of dealing with family financial matters and the client's desire to have accounts under their mother's name. The client expresses fear of being out of control and the possibility of not being able to become a doctor. The therapist reassures the client that it's too early to determine their future career and encourages them to focus on the current schedule and course load.
+The client and therapist discussed the advantages and disadvantages of the client's residency program versus her current job. The therapist suggested that the residency program's focus and lack of commuting might be beneficial, while the client expressed difficulty in managing her workload and asked for fewer shifts at her job. The client shared that she had been picking up extra shifts due to a recent employee's poor performance, but wanted to reduce her hours to a normal schedule. The therapist advised the client to clearly communicate her request to her boss and not give room for misinterpretation. They also discussed scheduling the next therapy session for the following Tuesday.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of a past labor dispute at a previous workplace, which appears to sensitize them to current workplace issues involving fairness, pay, and authority. These ongoing concerns have likely contributed to a heightened sensitivity to perceived injustices and power imbalances at work. The current situation echoes previous negative experiences, reinforcing emotional and cognitive patterns related to feeling undervalued and exploited.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't stand up for myself, others will take advantage of me. If authority figures ask for more without giving back, it means they don't respect my worth. I must protect myself from being exploited, or I will lose control.",
+  "intermediate_belief_depression": "If I keep being treated unfairly, nothing I do will make a difference and I'll always feel stuck.",
+  "coping_strategies": [
+    "The client tends to avoid direct confrontation with authority figures and may hesitate to express dissatisfaction. They seek reassurance from colleagues and ruminate on perceived injustices, which maintains their distress. Withdrawal from social interactions outside of work may occur due to emotional exhaustion."
+  ],
+  "situation": "Being asked to work beyond regular hours without additional compensation during an ongoing labor dispute.",
+  "auto_thought": "They don't care about me or my time. No matter what I do, I'm just being used and nothing will change.",
+  "emotion": [
+    "anxious",
+    "frustrated",
+    "helpless",
+    "overwhelmed",
+    "angry"
+  ],
+  "behavior": "I hesitate to speak up or confront my boss. I talk to coworkers about how unfair it is. I avoid extra tasks and withdraw after work because I feel drained."
+}

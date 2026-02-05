@@ -1,0 +1,29 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization Diagram"
+  ],
+  "history": "Recent move and stress related to settling into a new living space. Difficult relationship with parents, especially mother, described as judgmental and emotionally unsupportive. Friendships have become strained, contributing to isolation.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I ask for help, I will be judged or rejected.",
+  "intermediate_belief_depression": "I can't rely on anyone; I have to do everything myself.",
+  "coping_strategies": "Avoidance of social interactions and emotional withdrawal.",
+  "situation": "Feeling exhausted after attempting to unpack without support from friends. Avoiding contact with friends and the mother.",
+  "auto_thought": "I can't do this on my own, but no one will help me.",
+  "emotion": [
+    "Exhaustion",
+    "Isolation",
+    "Frustration"
+  ],
+  "behavior": "Avoiding contact with friends and family."
+}

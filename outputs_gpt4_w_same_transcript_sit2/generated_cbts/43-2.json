@@ -1,0 +1,30 @@
+{
+  "name": "Case Study Example",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Childhood experiences of emotional invalidation (e.g., being reprimanded for crying). History of depression.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not included, it means I am not valued.",
+  "intermediate_belief_depression": "I am not good enough to be included.",
+  "coping_strategies": "Avoidance and withdrawal from social situations.",
+  "situation": "Not invited to a dinner with friends by one acquaintance.",
+  "auto_thought": "They don't want me there because I'm not important.",
+  "emotion": [
+    "Sadness",
+    "Rejection"
+  ],
+  "behavior": "Withdrawal from social interactions.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

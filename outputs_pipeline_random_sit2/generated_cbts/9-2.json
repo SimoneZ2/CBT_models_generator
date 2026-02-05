@@ -1,0 +1,29 @@
+{
+  "history": "The patient has a long-standing friendship with Jersey, providing support during multiple surgeries and recovery periods, indicating a pattern of taking on caregiving roles. This supportive tendency may foster fulfillment but also emotional exhaustion, especially if the patient feels unappreciated. The ongoing conflict with roommate Ashby over household cleanliness has persisted despite attempts at communication, suggesting the patient values harmony and responsibility but may feel stuck or powerless when efforts are not reciprocated.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I try to resolve problems and people don't listen, it means my needs aren't important. If I can't get others to change, I must not matter enough. I have to take responsibility for keeping things harmonious, or things will fall apart.",
+  "intermediate_belief_depression": "If nothing I do makes a difference, maybe it's hopeless to try and things will never improve.",
+  "coping_strategies": [
+    "The patient attempts problem-solving and direct communication, but when this fails, they withdraw from interactions with Ashby or avoid the kitchen to minimize frustration. They may also ruminate on the unresolved conflict, leading to emotional fatigue and discouragement."
+  ],
+  "situation": "The kitchen becomes dirty because Ashby does not take out the trash after cooking. The patient has tried to communicate with Ashby about it, but the issue continues.",
+  "auto_thought": "No matter how many times I ask, Ashby just ignores me. I'm the only one who cares about keeping things clean.",
+  "emotion": [
+    "frustrated",
+    "irritated",
+    "helpless",
+    "unappreciated",
+    "resentful"
+  ],
+  "behavior": "I avoid using the kitchen when it's dirty. I stop bringing up the issue with Ashby and keep to myself. I spend time thinking about how unfair the situation is.",
+  "source_text_id": "1002565856.txt"
+}

@@ -1,0 +1,26 @@
+{
+  "history": "The client is experiencing elevated stress due to financial difficulties and relationship instability. They have a heavy workload exacerbated by technical issues at work and covering for an absent coworker, Chet. They find some relief and accomplishment in academic pursuits, particularly mathematics, which serves as a coping mechanism. The client is considering asking their parents for financial help, which weighs on them due to the complexities of financial dependency and personal pride.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't manage my finances and responsibilities, then I am failing as an adult.",
+  "intermediate_belief_depression": "If I can't handle my financial situation, then I will never be able to take care of myself.",
+  "coping_strategies": [
+    "The client engages in academic pursuits, particularly mathematics, as a temporary escape from financial worries and relationship challenges. They also consider tutoring as a potential avenue for additional income and a sense of purpose."
+  ],
+  "situation": "Discovered that their bank balance was lower than expected.",
+  "auto_thought": "I can't believe my balance is this low. I'm never going to get out of this financial mess.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "overwhelmed",
+    "ashamed"
+  ],
+  "behavior": "The client considers asking their parents for financial help. They also immerse themselves in mathematics as a distraction."
+}

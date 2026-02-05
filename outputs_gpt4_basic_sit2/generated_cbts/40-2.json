@@ -1,0 +1,27 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "Recent move and stress related to settling into a new living space. Difficult relationship with parents, especially mother, described as judgmental and emotionally unsupportive. Friendships have become strained, contributing to isolation.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet expectations, I will be criticized and rejected.",
+  "intermediate_belief_depression": "I can't handle criticism and rejection, so I must avoid it.",
+  "coping_strategies": "Avoidance of difficult conversations and situations that might lead to criticism.",
+  "situation": "Preparing for a conversation with mother and expecting it to be challenging and superficial.",
+  "auto_thought": "This conversation will only end in criticism and disappointment.",
+  "emotion": [
+    "Anxiety",
+    "Fear",
+    "Sadness"
+  ],
+  "behavior": "Avoids deep conversations and keeps interactions superficial to prevent conflict."
+}

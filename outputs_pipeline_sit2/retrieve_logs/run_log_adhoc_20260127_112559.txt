@@ -1,0 +1,90 @@
+Using description: HISTORY:
+- Lifelong pattern of strained family relationships.
+- Father described as chronically dissatisfied and difficult.
+- Maternal grandmother negatively affected family dynamics.
+
+SITUATION:
+- Contemplating the father's wishes for burial in Nepal and the responsibilities involved. with ID=49-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.10 - Top results (by metadata similarity):
+  - sim=0.547 | title='Session 18: Client cannot stop thinking about her grandmother who has recently d' | file='1000325703.txt'
+  - sim=0.527 | title='Patient "C" Therapy Session Audio Recording, June 12, 2012: Client's grandmother' | file='1004600922.txt'
+  - sim=0.511 | title='Session 5: Client discusses how much closer she feels to her friends than her fa' | file='1000061054.txt'
+  - sim=0.501 | title='Jakob's Ladder: A middle-aged mother with mild depression has begun dating a man' | file='1003371496.txt'
+  - sim=0.501 | title='Verilogue session: Client comes from a family with a very competitive sibling su' | file='1002565888.txt'
+  - sim=0.498 | title='Verilogue session: Client has been easily overwhelmed by feelings of anxiety rec' | file='1001083994.txt'
+  - sim=0.486 | title='Verilogue session: Client talks about the recent holidays and being with her fam' | file='1003009213.txt'
+  - sim=0.480 | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father ' | file='1004472411.txt'
+  - sim=0.480 | title='Patient "M" Session June 19, 2012: Client talks about a letter he wants to prese' | file='1004600940.txt'
+  - sim=0.469 | title='Session 14: Client resents her parents for not being there for her in her time o' | file='1000126020.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.547 | file='1000325703.txt' | title='Session 18: Client cannot stop thinking about her grandmother who has recently d'
+  - sim=0.527 | file='1004600922.txt' | title='Patient "C" Therapy Session Audio Recording, June 12, 2012: Client's grandmother'
+  - sim=0.511 | file='1000061054.txt' | title='Session 5: Client discusses how much closer she feels to her friends than her fa'
+Using top selected file for transcript: '1000325703.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient has a lifelong history of strained family relationships, particularly with a father described as chronically dissatisfied and difficult. Additionally, the maternal grandmother has negatively affected family dynamics. The patient is currently contemplating the father's wishes for burial in Nepal and the responsibilities involved.
+
+**Emotional Impact:**
+The patient's emotional experience is likely characterized by feelings of tension and anxiety, stemming from the chronic dissatisfaction expressed by the father. This ongoing strain may lead to feelings of inadequacy or a persistent sense of not meeting expectations. The influence of the maternal grandmother on family dynamics might contribute to feelings of frustration or helplessness, as the patient navigates complex familial interactions.
+
+The contemplation of the father's burial wishes in Nepal may evoke a mix of emotions, including anxiety about the responsibilities involved and potential guilt or pressure to fulfill these wishes. The patient might also experience sadness or loneliness, reflecting on the familial relationships and the potential loss or change in family structure.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive patterns of self-doubt and rumination, particularly in relation to familial expectations and responsibilities. The father's chronic dissatisfaction could lead to a tendency to internalize criticism, resulting in negative self-evaluation and a heightened sensitivity to perceived failures.
+
+The influence of the maternal grandmother might contribute to cognitive distortions, such as overgeneralization or catastrophizing, especially when considering the impact of family dynamics on personal well-being. The contemplation of burial responsibilities could trigger thoughts of inadequacy or fear of judgment from family members.
+
+**Behavioral Responses:**
+Behaviorally, the patient might engage in avoidance or procrastination when faced with familial responsibilities or interactions, as a means of coping with the associated stress and anxiety. There may be a tendency to withdraw from family gatherings or discussions, to minimize exposure to potential conflict or criticism.
+
+The patient might also seek reassurance from others, particularly when feeling overwhelmed by the responsibilities related to the father's burial wishes. This behavior could serve as a coping mechanism to alleviate anxiety and gain a sense of support or validation.
+
+**Coping Styles:**
+The patient may rely on cognitive coping strategies, such as rationalization or intellectualization, to manage the emotional impact of strained family relationships. These strategies might help the patient maintain a sense of control and distance from overwhelming emotions.
+
+Additionally, the patient might engage in emotional suppression, particularly in situations involving family interactions, to avoid vulnerability or perceived weakness. This coping style could be reinforced by past experiences of criticism or lack of emotional support within the family.
+
+**Conclusion:**
+The patient's lifelong pattern of strained family relationships, influenced by a difficult father and a negatively impactful maternal grandmother, has likely shaped their emotional, cognitive, and behavioral responses. The current contemplation of the father's burial wishes in Nepal adds a layer of complexity, potentially exacerbating existing patterns of anxiety, self-doubt, and avoidance. Through cognitive-behavioral therapy, the patient can explore these patterns, develop healthier coping strategies, and work towards improving their emotional well-being and family interactions.
+Summary da mistral_.csv: The patient discusses the death of their grandmother and the emotional impact it has had on them. They share how their grandmother's death has brought up conflicting feelings, as she had a strained relationship with her mother and was not a significant presence in the patient's life. The patient also reflects on their tendency to suppress emotions, particularly in the presence of others, and how this relates to their upbringing and past experiences with their father. They also mention their difficulty in accepting the reality of death and the guilt they feel when not fully immersed in their grief.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has experienced a lifelong pattern of strained family relationships, particularly with a chronically dissatisfied and difficult father. The maternal grandmother has also negatively affected family dynamics, contributing to ongoing tension and emotional strain. These dynamics have likely fostered feelings of inadequacy, self-doubt, and a tendency to internalize criticism. The client may have developed patterns of avoidance and emotional suppression as coping mechanisms in response to repeated experiences of family conflict and lack of emotional support.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't fulfill my father's wishes exactly as he wants, it will prove that I am inadequate and unable to meet my family's expectations. I must avoid making mistakes or disappointing them, or else I will confirm their negative view of me. My worth is tied to how well I handle these responsibilities.",
+  "intermediate_belief_depression": "If I can't manage these responsibilities or make everyone happy, it means I am hopeless and nothing I do will ever be enough. There's no point in trying because I will always fall short in my family's eyes.",
+  "coping_strategies": [
+    "The client tends to avoid or procrastinate on family responsibilities to manage anxiety and fear of criticism. They may withdraw from family discussions or seek reassurance from others when overwhelmed. Emotional suppression and rationalization are used to cope with distress and maintain a sense of control."
+  ],
+  "situation": "Contemplating the father's wishes for burial in Nepal and the responsibilities involved.",
+  "auto_thought": "If I mess this up, everyone will blame me and see me as a failure. I can't handle all this responsibility and I'm going to let my family down.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "guilty",
+    "sad",
+    "overwhelmed",
+    "helpless"
+  ],
+  "behavior": "I put off making decisions about the burial and avoid talking to family members about it. I withdraw from discussions and seek reassurance from friends or others outside the family."
+}

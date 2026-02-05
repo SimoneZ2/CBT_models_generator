@@ -1,0 +1,54 @@
+{
+  "name": "Cleo Case",
+  "id": "33-1",
+  "type": [
+    "CBT",
+    "case conceptualization"
+  ],
+  "history": "The patient is involved in a complex romantic situation with Cleo, who is already in a long-distance relationship. The patient has taken on the role of providing emotional support to Cleo, especially when Cleo discusses her relationship problems. This dynamic has led the patient to feel caught between being a confidant and a romantic interest, contributing to ongoing confusion and ambivalence. The patient tends to ruminate about their position in Cleo's life and struggles to address their own needs directly, often focusing on Cleo's issues instead.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not always there for Cleo and support her emotionally, she will not value me or choose me over her long-distance partner. I need to put Cleo's needs first to maintain my connection with her. If I express my own needs, I risk losing her attention and affection.",
+  "intermediate_belief_depression": "No matter how much I support Cleo, it won't make a difference—I'll always end up feeling left out and unimportant. Even if I try my best, I can't change my place in her life.",
+  "coping_strategies": "The patient seeks reassurance from Cleo by being emotionally available and supportive, even when feeling insecure. They sometimes withdraw emotionally or avoid discussing their own needs, focusing instead on Cleo's problems. The patient may distract themselves with other activities to avoid the emotional intensity of the situation.",
+  "situation": "During an outing, Cleo discussed relationship problems and sought emotional support.",
+  "auto_thought": "I'm just someone Cleo turns to when she has problems—she'll never really choose me. No matter what I do, I'm always on the outside.",
+  "emotion": [
+    "anxious",
+    "insecure",
+    "sad",
+    "frustrated",
+    "vulnerable"
+  ],
+  "behavior": "I listen to Cleo and offer her support, even though it hurts. I avoid bringing up my own feelings or needs. I later ruminate about my place in her life.",
+  "rationale": "\"The patient may feel anxious and uncertain about their own position and future in this relationship... The patient might feel caught in a situation where they are both a confidant and a romantic interest... The complexity of the romantic situation with Cleo likely leads to ruminative thoughts... The patient might engage in behaviors such as seeking reassurance from Cleo or withdrawing emotionally when feeling uncertain or insecure... The patient might avoid addressing their own needs directly, focusing instead on Cleo's problems...\"",
+  "core_belief_predictions": {
+    "source_id": "33-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am bound to be rejected",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

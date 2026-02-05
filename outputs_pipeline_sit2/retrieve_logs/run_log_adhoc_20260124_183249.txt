@@ -1,0 +1,78 @@
+Using description: HISTORY:
+- In a relationship for about seven years and married for three.
+- Stress during academic finals and wedding preparation due to lack of support from the partner.
+- Current financial strain involving partner's part-time work, therapy costs, dental treatments, and insurance reimbursement delays.
+
+SITUATION:
+- Partner is not contributing to household expenses and is delaying tasks related to insurance reimbursement. with ID=48-1
+Low similarity from summary retriever, trying combined text retriever...
+Top results (by metadata similarity):
+  - sim=0.605 | title='Patient "Couple" Therapy Session Audio Recording, April 16, 2012: The couple tal' | file='1004538636.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=1 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=1
+  - sim=0.605 | file='1004538636.txt' | title='Patient "Couple" Therapy Session Audio Recording, April 16, 2012: The couple tal'
+Using top selected file for transcript: '1004538636.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+
+The patient has been in a relationship for approximately seven years and has been married for three. They have experienced significant stress during academic finals and wedding preparations due to a lack of support from their partner. Currently, the patient is facing financial strain as their partner is not contributing to household expenses and is delaying tasks related to insurance reimbursement. This financial stress is compounded by the costs of therapy, dental treatments, and delays in insurance reimbursements.
+
+**Emotional Impact:**
+
+The patient is likely experiencing a range of emotions due to their current life circumstances. The lack of support from their partner during critical times, such as academic finals and wedding preparations, may have led to feelings of disappointment, loneliness, and frustration. The ongoing financial strain and the partner's lack of contribution to household expenses could be causing anxiety, worry, and stress. The patient might feel overwhelmed by the financial responsibilities and the delays in insurance reimbursements, leading to a sense of helplessness and uncertainty about the future.
+
+**Cognitive Patterns:**
+
+The patient may exhibit cognitive patterns characterized by negative thinking and rumination. The stress from the lack of partner support during significant life events might lead to thoughts of inadequacy or self-blame. The financial strain could result in catastrophic thinking, where the patient anticipates the worst-case scenarios regarding their financial situation. The delay in insurance reimbursements and the partner's inaction might reinforce beliefs of being unsupported or undervalued, potentially leading to a negative self-image and doubts about the relationship's stability.
+
+**Behavioral Responses:**
+
+In response to these stressors, the patient might engage in avoidance behaviors, such as procrastinating on financial tasks or avoiding discussions about money with their partner. They may also withdraw socially, feeling embarrassed or ashamed about their financial situation. The patient might seek reassurance from friends or family, or alternatively, they might isolate themselves to avoid confronting the issues. The stress and lack of support could lead to difficulty concentrating on daily tasks or making decisions, further exacerbating feelings of being stuck or overwhelmed.
+
+**Coping Styles:**
+
+The patient may rely on maladaptive coping mechanisms, such as avoidance or denial, to manage their stress. They might distract themselves with activities that do not address the root of their problems, such as excessive screen time or engaging in activities that provide temporary relief but do not solve the underlying issues. Alternatively, they might attempt to cope by overworking themselves to compensate for their partner's lack of contribution, leading to burnout and further stress.
+
+**Conclusion:**
+
+The patient's current life circumstances, including the lack of partner support during critical times and ongoing financial strain, are likely contributing to significant emotional distress. These stressors may lead to negative cognitive patterns and maladaptive behavioral responses, impacting the patient's overall well-being and relationship satisfaction. Addressing these issues through cognitive restructuring, problem-solving strategies, and improving communication with their partner could be beneficial in reducing stress and improving their emotional and relational health.
+Summary da mistral_.csv: In this therapy session, CLIENT 1 discusses the source of their stress, which is the financial debt they have accumulated over the years. They mention that their debts are a major obstacle in their lives and have precipitated various problems. They recall how they took out a loan when they first started dating and paid it back without issue, but now find themselves unable to work enough to break even and unable to identify all their debts. CLIENT 2 suggests they could save money by not spending on frivolous things, but CLIENT 1 feels they are on a downward spiral and that the system makes it harder for them to get out of debt. They also discuss their frustration with not having enough computers to handle their work and bills, and the anxiety and angst caused by their relationship with authority. They plan to change jobs and save better in the meantime.
+In this therapy session, Client 1 expresses their desire to quit smoking and explores potential solutions with Client 2 and the therapist. They mention a hypnotism method and attending a summer camp as possibilities. Client 1 shares their past experiences at the camp, where they were successful in quitting smoking and had a regimented lifestyle. Client 2 suggests using the camp as a form of rehabilitation. The group discusses the potential costs and logistics of this option, with Client 1 expressing concerns about asking their families for financial support. They also touch on Client 1's past drug use and the potential impact on their ability to mentor children at the camp.
+In this therapy session, Client 1 expresses feelings of self-worthlessness and a belief that they have fallen from grace, while Client 2 acknowledges the difficulty of repairing relationships and the importance of emotional engagement. The therapist encourages the couple to discuss their feelings and consider how they can create a more positive future for themselves. Client 1 expresses a desire for solutions and a feeling of being stuck, while Client 2 suggests they have the potential to depend on each other. The conversation turns to their past plans for employment and the challenges they have faced in their current jobs. Client 1 expresses a wish for a break from responsibilities and the opportunity to focus on their goals. The therapist encourages them to harness their education and resources to create a better future.
+In this therapy session chunk, the therapist discusses how union workers have resources to succeed but struggle with accountability and financial management. Client 1 shares their experience of receiving a large sum of money from a trust at age 25, leading to financial mismanagement and debt. Clients discuss the importance of self-care, including regular exercise and healthy eating, to increase energy levels and motivation. They plan to investigate potential opportunities, such as a camp, to improve their situations. The session concludes with the therapist encouraging clients to call about the camp opportunity and scheduling the next appointment.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has been in a long-term relationship for seven years, married for three. During major life events such as academic finals and wedding preparations, they experienced significant stress due to a lack of support from their partner. Currently, the client is under financial strain, with their partner not contributing to household expenses and delaying insurance reimbursement tasks. These patterns of insufficient support appear to be longstanding and have contributed to ongoing emotional distress and doubts about the relationship.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't get support from my partner when I need it, then I have to handle everything alone, and it will always be overwhelming. If I ask for help and nothing changes, it means my needs aren't valued. I must keep things together myself or everything will fall apart.",
+  "intermediate_belief_depression": "If my partner never supports me, then things will never get better and I'll always feel alone and overwhelmed. No matter what I do, nothing will change and I'll be stuck in this stressful situation.",
+  "coping_strategies": [
+    "The client tends to avoid direct discussions about finances with their partner and may procrastinate on addressing financial tasks. They may withdraw socially or isolate themselves due to embarrassment or shame about their situation. At times, they may overwork themselves to compensate for the lack of support, leading to further exhaustion."
+  ],
+  "situation": "Partner is not contributing to household expenses and is delaying tasks related to insurance reimbursement.",
+  "auto_thought": "I'm stuck dealing with all of this by myself again. If my partner doesn't help, I'll never get out of this financial mess.",
+  "emotion": [
+    "anxious",
+    "frustrated",
+    "overwhelmed",
+    "disappointed",
+    "lonely",
+    "helpless"
+  ],
+  "behavior": "I avoid bringing up the topic with my partner because it feels pointless. I put off dealing with the insurance paperwork. Sometimes I withdraw and keep my worries to myself."
+}

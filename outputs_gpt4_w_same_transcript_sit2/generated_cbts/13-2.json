@@ -1,0 +1,30 @@
+{
+  "name": "Patient X",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Grief Counseling"
+  ],
+  "history": "Death of a close aunt whom the patient considered a mother figure. The patient did not fulfill the aunt's last request and was not present at the time of death. Pattern of prioritizing others' needs over their own.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must always be there for others or I will be alone.",
+  "intermediate_belief_depression": "If I am not there for others, I am a failure.",
+  "coping_strategies": "Prioritizing others' needs over personal desires.",
+  "situation": "On the way to watch a movie, received a call from a friend seeking emotional support. Chose to give up the movie and talked with the friend for about an hour.",
+  "auto_thought": "If I don't help, I will be a bad friend and be alone.",
+  "emotion": [
+    "Anxiety",
+    "Guilt"
+  ],
+  "behavior": "Gave up personal plans to support a friend.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

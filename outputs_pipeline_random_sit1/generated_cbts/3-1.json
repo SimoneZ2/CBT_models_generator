@@ -1,0 +1,30 @@
+{
+  "history": "The client is a PhD candidate engaged in scientific research, specifically on a sequencing-related study. They work closely with a colleague named Kelly and are involved in a project with a senior scientist who has struggled to gain recognition. The client is concerned about the progress of their PhD project. The report suggests the client may internalize the senior scientist's struggles, leading to fears about their own career trajectory and recognition. There is evidence of ruminative thinking about negative outcomes and a tendency to seek external validation, as well as possible avoidance or overworking behaviors in response to stress.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't make enough progress on my project, others will see me as a failure and I won't be able to succeed in my field. I must always meet high expectations to prove my worth. If I struggle, it means I'm not cut out for this career.",
+  "intermediate_belief_depression": "If I keep falling behind or don't achieve recognition, there's no point in trying because I'll never succeed like others. My efforts won't matter if I can't meet expectations.",
+  "coping_strategies": [
+    "When overwhelmed by concerns about project progress, the client tends to procrastinate or avoid difficult tasks. They may seek reassurance from colleagues or immerse themselves in work to the point of neglecting self-care, perpetuating a cycle of stress and burnout."
+  ],
+  "situation": "Working on a PhD project and concerned about its progress.",
+  "auto_thought": "I'm falling behind and everyone will see that I'm not capable. If I don't turn this around, my whole career could be at risk.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "inadequate",
+    "self-doubt",
+    "stressed"
+  ],
+  "behavior": "Spends excessive time ruminating about the project's progress. Avoids starting or completing difficult tasks, sometimes procrastinates. Seeks reassurance from colleagues like Kelly or the senior scientist.",
+  "source_text_id": "1002565950.txt"
+}

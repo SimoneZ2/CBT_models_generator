@@ -1,0 +1,26 @@
+{
+  "name": "Case Study: Financial Stress and Family Dynamics",
+  "id": "CS002",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Financial difficulties following questionable investments. Increased reliance on parents for financial assistance.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must avoid making decisions that could lead to financial instability.",
+  "intermediate_belief_depression": "I am unable to make sound financial decisions.",
+  "coping_strategies": "Avoid discussing financial plans with parents to prevent conflict.",
+  "situation": "Thinking about how past financial decisions may affect future plans.",
+  "auto_thought": "If I talk to my parents about my financial plans, they will think I'm making a mistake.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Avoids discussing financial matters with parents to prevent conflict."
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Spent about one year working on a project in Europe involving building a website and conducting interviews. Reports pride in the work and a wish to share the results. Past history of procrastination and anxiety. Uses strategies learned from a course and reminders to manage daily life.",
+  "helpless_belief": [
+    "I am incompetent"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be perfect to succeed.",
+  "intermediate_belief_depression": "If I don't make the right choice, I will fail.",
+  "coping_strategies": "Uses strategies learned from a course and reminders to manage daily life.",
+  "situation": "Facing ambiguity about life direction and choices, with many options to consider.",
+  "auto_thought": "I don't know what to do next, and I might make the wrong choice.",
+  "emotion": [
+    "anxiety",
+    "uncertainty"
+  ],
+  "behavior": "Procrastinates on making decisions due to fear of failure."
+}

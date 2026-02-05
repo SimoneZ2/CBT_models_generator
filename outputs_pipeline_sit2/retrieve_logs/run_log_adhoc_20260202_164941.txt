@@ -1,0 +1,77 @@
+Using description: HISTORY:
+- Spent about one year working on a project in Europe involving building a website and conducting interviews.
+- Reports pride in the work and a wish to share the results.
+- Past history of procrastination and anxiety.
+- Uses strategies learned from a course and reminders to manage daily life.
+
+SITUATION:
+- Facing ambiguity about life direction and choices, with many options to consider. with ID=16-2
+Sample results (metadata similarity):
+  - sim=0.063 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.078 | title='Patient "Ju", Session April 06, 2012: Client recently went to a friend's book re' | file='1004532438.txt'
+  - sim=0.103 | title='Session 15: Client explains why she can make friendships with certain men but no' | file='1000133901.txt'
+  - sim=0.107 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.116 | title='Session 63: Client discusses her need to be in control even while having sexual ' | file='1000367962.txt'
+  - sim=0.128 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.132 | title='Session 438: Client still wishes she had a male child' | file='1000395259.txt'
+  - sim=0.136 | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c' | file='1001114245.txt'
+  - sim=0.141 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.147 | title='Psychotherapy With Medically Ill Children: Many therapists feel overwhelmed with' | file='1001114244.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.063 | file='1003075021.txt' | title='Verilogue session: Client has been angry, violent and impulsive'
+  - sim=0.128 | file='1001084088.txt' | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. '
+  - sim=0.136 | file='1001114245.txt' | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c'
+Using LEAST related file for transcript: '1003075021.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a young male with a history of working on a project in Europe, is currently grappling with significant emotional and behavioral challenges. Despite his past pride in his work and a desire to share his accomplishments, he now faces a "sudden outrage" pattern that disrupts his daily life. This pattern is characterized by aggressive and violent outbursts, followed by a period of calm, which he acknowledges by saying, "Yeah," when confronted about the severity of his actions. His caregivers describe these episodes as escalating to "threatening" behavior, including suicidal comments and physical aggression, such as an incident where he "grabbed his mom" and caused injury. These behaviors have extended beyond the home, affecting his performance at work and school, where issues have increased over the past nine weeks.
+
+The client exhibits a notable lack of responsibility for his actions, responding with "Nope" when asked if he takes any responsibility. This deflection suggests a cognitive pattern of externalizing blame, possibly as a coping mechanism to manage underlying anxiety and ambiguity about his life direction. His caregivers note that he often apologizes after losing control, indicating some level of awareness and regret, yet the cycle of aggression continues. The psychiatrist suggests that the impulsivity and agitation might be linked to ADHD, which is being treated with Strattera, but also considers the possibility of bipolar disorder, given the "sudden outrage" and subsequent calm.
+
+The client's current treatment includes Strattera and Depakote, with the latter being monitored due to potential liver impact. Despite medication, his caregivers report that he still experiences "outrages almost, definitely weekly," highlighting the need for additional interventions. The psychiatrist recommends case management and counseling in natural settings, such as school or sports environments, to provide support outside of clinical sessions. This approach aims to address his impulsivity and help him develop better coping strategies.
+
+A recurring theme in the session is the client's consumption of pop, which his caregivers believe exacerbates his symptoms. They express concern that "when he drinks a lot of pop," it diminishes the effectiveness of his medication and raises his glucose levels, which were noted to be high in recent blood work. The psychiatrist confirms that caffeine can indeed impact medication efficacy and advises finding alternative beverages. The caregivers' struggle to manage his diet reflects the broader challenge of maintaining consistency in his treatment plan.
+
+Throughout the session, the client remains largely unresponsive, often answering with "Um—hum" or "No," indicating avoidance and possibly a reluctance to engage with the therapeutic process. This behavior aligns with his history of procrastination and anxiety, suggesting a pattern of avoidance when faced with difficult emotions or decisions. The psychiatrist emphasizes that while medication can help, the client must actively participate in managing his emotions, stating, "You have to fix it. No one else can make you mad unless you let them."
+
+In summary, the client's current situation is marked by a struggle with impulsivity and aggression, compounded by a lack of engagement in his treatment. His caregivers are actively involved but face challenges in managing his behavior and ensuring adherence to his treatment plan. The psychiatrist's recommendations for case management and counseling aim to provide additional support and help the client develop more effective coping strategies, addressing both his immediate behavioral issues and the underlying ambiguity about his life direction.
+Summary da mistral_.csv: In this session, a male patient with ADHD discussed his aggressive and violent behavior towards family members, including suicidal and homicidal threats. The patient's mother mentioned that these outbursts occur when he doesn't get his way and that they happen weekly or even every other night. The physician suggested adding Depakote to the patient's current medications to help manage impulsivity, as well as implementing case management and counseling outside of sessions. The physician also mentioned that the patient's high glucose levels and consumption of pop could negatively impact his medication's effectiveness. The physician recommended a blood test to monitor the Depakote's effect on the patient's liver and mentioned that there is no generic version of the medication.
+
+REFINED CCD: description + report
+{
+  "history": "The client spent about a year working on a project in Europe, building a website and conducting interviews, which he feels proud of and wishes to share. He has a past history of procrastination and anxiety, and uses strategies from a course and reminders to manage daily life. The report describes a pattern of sudden aggressive outbursts followed by calm, avoidance of responsibility, and a tendency to externalize blame. Caregivers note ongoing issues with impulsivity, aggression, and avoidance, as well as struggles with treatment adherence and dietary management. The client often avoids engagement and shows reluctance to address difficult emotions or decisions.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't know exactly what to do next, I'll make the wrong choice and disappoint others. If I show uncertainty or weakness, people will see me as a failure. I have to avoid making mistakes or I'll lose the respect of those around me.",
+  "intermediate_belief_depression": "If I can't figure out my life direction, it means I'm hopeless and nothing will work out for me. There's no point in trying because I'll just end up failing or letting people down.",
+  "coping_strategies": [
+    "When faced with difficult decisions or ambiguity, the client avoids engagement, procrastinates, or becomes unresponsive. He sometimes externalizes blame or has aggressive outbursts to deflect from his own uncertainty and anxiety. He may also use substances like pop to manage distress, despite knowing it interferes with his treatment."
+  ],
+  "situation": "Facing ambiguity about life direction and choices, with many options to consider.",
+  "auto_thought": "I have no idea what I'm supposed to do next. If I pick the wrong thing, everything will fall apart and people will think less of me.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "tense",
+    "ashamed",
+    "frustrated",
+    "worried"
+  ],
+  "behavior": "He withdraws from making decisions, avoids discussing options, and becomes unresponsive when asked about his plans. He may lash out or blame others when pressed, or seek comfort in familiar routines like drinking pop."
+}

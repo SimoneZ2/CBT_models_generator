@@ -1,0 +1,28 @@
+{
+  "name": "John Doe",
+  "id": "12345",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Works in an educational setting with children who have learning disabilities. Describes being pampered by parents and having minimal consequences earlier in life. Ongoing conflicts with authority figures.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am defective"
+  ],
+  "intermediate_belief": "I must be perfect in my work to be valued.",
+  "intermediate_belief_depression": "If I can't do things perfectly, I am a failure.",
+  "coping_strategies": "Avoids confronting authority and procrastinates on tasks perceived as difficult.",
+  "situation": "Proposed a new teaching method that was rejected by school leadership. Does not confront leadership directly about the decision.",
+  "auto_thought": "I can't do anything right, and I'll never be able to catch up.",
+  "emotion": [
+    "Frustration",
+    "Anxiety",
+    "Guilt"
+  ],
+  "behavior": "Procrastinates on tasks and avoids confrontation."
+}

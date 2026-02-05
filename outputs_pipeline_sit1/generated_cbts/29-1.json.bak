@@ -1,0 +1,31 @@
+{
+  "name": "Research Lab Client",
+  "id": "RL-2024-01",
+  "type": [
+    "CBT Case Formulation"
+  ],
+  "history": "The client has a strong identification with their research lab, finding camaraderie and a sense of accomplishment there. The recent departure of a close coworker has had an emotional impact, highlighting the importance of these relationships. The lab is experienced as a stable and predictable environment, in contrast to the client's personal life, which is described as less predictable and less comfortable. This contrast may contribute to the client's reliance on the lab for stability and their emotional response to changes within it.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't maintain stability and connection in the lab, then I will feel lost and unsupported. I need to be competent and prepared to keep my place in the group. If things become unpredictable, I must work harder to regain control and avoid feeling isolated.",
+  "intermediate_belief_depression": "If I lose my sense of belonging or things keep changing, it means I can't count on anything, and I'll end up alone and unsupported.",
+  "coping_strategies": "The client seeks reassurance and connection from colleagues in the lab and focuses intensely on lab-related tasks to maintain a sense of control. They may withdraw from social interactions outside of work and neglect personal needs, relying on the structured environment of the lab to manage distress.",
+  "situation": "Preparing for an important discussion scheduled in January. Preparing for a lab meeting involving troubleshooting equipment and learning programming.",
+  "auto_thought": "If I don't handle this meeting perfectly, I'll lose my place in the group. I can't let anyone see that I'm struggling with the new programming.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "insecure",
+    "lonely"
+  ],
+  "behavior": "I spend extra hours preparing for the meeting and troubleshooting every detail. I avoid asking for help about the programming, and I keep to myself, focusing only on the tasks.",
+  "rationale": "\"The patient likely experiences a strong sense of identity and belonging within their research lab, which provides a structured and predictable environment. The departure of a close coworker may have triggered feelings of loss and instability, potentially leading to thoughts of loneliness or insecurity about their place in the lab.\" \"The preparation for the upcoming discussion and lab meeting may involve increased attention to detail and problem-solving efforts, potentially leading to overworking or neglecting personal needs.\" \"The patient may be feeling a mix of emotions, including sadness and loneliness due to the coworker's departure, and anxiety or stress related to the upcoming discussion and lab meeting.\""
+}

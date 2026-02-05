@@ -1,0 +1,92 @@
+Using description: HISTORY:
+- Past traumatic incident involving sexual assault by a partner.
+- Ongoing relationship difficulties involving trust and intimacy.
+- Reports some improvement in the partner's behavior aimed at rebuilding trust.
+
+SITUATION:
+- Physical intimacy is resuming in the relationship. with ID=8-1
+Top results (by metadata similarity):
+  - sim=0.673 | title='Patient "S", Session June 04, 2012: Client is very confused, hurt and frustrated' | file='1004565011.txt'
+  - sim=0.665 | title='Session 3: Client is upset that she is so critical of everything her husband doe' | file='1000088104.txt'
+  - sim=0.658 | title='Patient "S", Session July 12, 2012: Client is very upset in this session. She re' | file='1004687758.txt'
+  - sim=0.657 | title='Session 11: Client feels hurt and jealous because his girlfriend does not spend ' | file='1000088091.txt'
+  - sim=0.655 | title='Session 15: Client discusses how physically uncomfortable sexual intercourse is ' | file='1000088115.txt'
+  - sim=0.653 | title='Session 5: The clients, a married couple, have seen progress recently due to the' | file='1003252379.txt'
+  - sim=0.652 | title='Session 1: The clients, a married couple, are having relationship problems. The ' | file='1003252375.txt'
+  - sim=0.651 | title='Symbolic/Experiential Family Therapy: This transcript is an initial therapy sess' | file='1001115118.txt'
+  - sim=0.648 | title='Session 14: Client has been enjoying his romantic relationship with a female. Ho' | file='1000133867.txt'
+  - sim=0.647 | title='Patient "M" Session February 28, 2012: Client believes he is lacking emotional i' | file='1004504893.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.673 | file='1004565011.txt' | title='Patient "S", Session June 04, 2012: Client is very confused, hurt and frustrated'
+  - sim=0.665 | file='1000088104.txt' | title='Session 3: Client is upset that she is so critical of everything her husband doe'
+  - sim=0.658 | file='1004687758.txt' | title='Patient "S", Session July 12, 2012: Client is very upset in this session. She re'
+Using top selected file for transcript: '1004565011.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Description:**
+
+The patient has a history of a past traumatic incident involving sexual assault by a partner. This experience has understandably contributed to ongoing relationship difficulties, particularly in areas of trust and intimacy. Despite these challenges, the patient reports some improvement in the partner's behavior aimed at rebuilding trust. Currently, physical intimacy is resuming in the relationship.
+
+**Cognitive and Emotional Impact:**
+
+The past traumatic incident likely continues to exert a significant cognitive and emotional influence on the patient. Such experiences often lead to heightened vigilance and mistrust, particularly in intimate relationships. The patient may experience a range of emotions, including anxiety, fear, and vulnerability, especially when engaging in physical intimacy. These feelings can be exacerbated by the memory of the trauma, potentially leading to intrusive thoughts or flashbacks.
+
+The ongoing relationship difficulties, particularly around trust and intimacy, may contribute to feelings of insecurity and self-doubt. The patient might engage in cognitive patterns such as ruminating on past events or questioning their own perceptions and judgments. This can lead to emotional states characterized by anxiety, worry, and a sense of being overwhelmed.
+
+**Behavioral Responses and Coping Styles:**
+
+In response to these cognitive and emotional challenges, the patient may exhibit behaviors aimed at self-protection and control. For instance, they might withdraw from situations that feel threatening or avoid discussions that could lead to conflict. The resumption of physical intimacy suggests a willingness to engage and rebuild trust, indicating a hopeful and resilient aspect of the patient's coping strategy.
+
+The patient may also seek reassurance from their partner or others, as a way to mitigate feelings of insecurity and to validate their experiences. This behavior can be seen as an attempt to bridge the gap between past trauma and present relationship dynamics.
+
+**Psychological Patterns and Mechanisms:**
+
+Drawing from the transcript, which provides insight into typical psychological patterns, individuals with similar experiences might display a tendency to internalize blame or doubt their own perceptions, especially when faced with conflicting messages from a partner. This can lead to a cycle of self-criticism and decreased self-esteem, where the individual might question their worth or the validity of their feelings.
+
+The transcript also highlights a common pattern of vacillating between different emotional states, such as feeling confident in one's perspective at one moment and doubting it the next. This can be reflective of the internal conflict between wanting to trust the partner and the lingering impact of past trauma.
+
+**Therapeutic Considerations:**
+
+In therapy, it is crucial to focus on strengthening the patient's self-efficacy and confidence in their perceptions and feelings. Cognitive restructuring techniques can be employed to challenge and modify unhelpful thought patterns, such as self-blame or catastrophizing. Encouraging the patient to express their needs and boundaries assertively can also be beneficial in rebuilding trust and intimacy in the relationship.
+
+Furthermore, exploring and validating the patient's emotional experiences related to the past trauma can help in reducing its impact on current relationship dynamics. Techniques such as mindfulness and grounding exercises may assist the patient in managing anxiety and staying present during moments of intimacy.
+
+Overall, the therapeutic goal is to support the patient in developing a more secure and trusting relationship with their partner, while also fostering a sense of safety and autonomy within themselves.
+Summary da mistral_.csv: The client recounted an incident where they had a disagreement with their partner, Franklin, leading to an injury and a change in their Facebook relationship status. They described feeling frustrated and irritated, unable to communicate effectively about their issues. Franklin suggested they try being friends, but the client was unsure and felt confused about the meaning of this change. They went on a work trip together, during which they fought frequently and the client's foot injury worsened. They returned to the hotel and continued arguing, ultimately deciding to separate for the remainder of the trip. The client expressed feeling hurt and misunderstood by Franklin's actions and words.
+The patient describes a contentious hotel stay with her partner, during which they argued and ultimately decided to break up. They spent the remaining time together engaging in activities with his friends. The patient slipped and fell, leading to her injury being a topic of concern for her partner. They had further discussions about their relationship, with the patient expressing her uncertainty about their living arrangement and the need for both partners to work on personal issues. The patient seeks the therapist's judgment about the situation and her role in it, expressing a lack of confidence in her perspective. The therapist encourages the patient to consider her own authority and confidence in their relationship dynamics.
+The client expresses difficulty communicating with their partner due to defensive and animated behavior, leading to feelings of shutting down and reverting to past experiences. They are also concerned about the potential consequences of expressing their thoughts, fearing the end of the relationship. The client shares an instance of their partner's excessive wine consumption and their inability to address it, adding to their frustration and uncertainty about the future of their relationship. The client expresses a desire to have a conversation with their partner but feels unprepared and hesitant, and has considered taking a break from the relationship if no progress is made. The client also mentions the pressure they feel from their partner to improve themselves and the issue of their partner's past traumas being used as a justification for their behavior. The client values the therapeutic sessions as a space to clarify their thoughts and gain perspective.
+
+ REFINED CCD: description + report
+{
+  "history": "The client experienced a past traumatic incident involving sexual assault by a partner, which has led to ongoing difficulties with trust and intimacy in relationships. There has been some improvement in the partner's behavior, with efforts to rebuild trust. The client is now in a phase where physical intimacy is resuming, but the emotional impact of the trauma continues to influence their perceptions and reactions, as evidenced by heightened vigilance, anxiety, and self-doubt during intimate moments.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let myself be vulnerable or trust my partner during physical intimacy, I might get hurt again. I need to be on guard because my feelings and boundaries might not be respected. It's safer to question my own perceptions than risk being violated or dismissed.",
+  "intermediate_belief_depression": "If I can't feel safe or trust even when things are improving, it means I'm broken and things will never really get better for me.",
+  "coping_strategies": [
+    "The client withdraws or avoids situations that feel threatening, especially around intimacy. They may seek reassurance from their partner or others to validate their feelings and reduce insecurity. There is a tendency to ruminate on past events and question their own perceptions, which maintains anxiety and self-doubt."
+  ],
+  "situation": "Physical intimacy is resuming in the relationship.",
+  "auto_thought": "What if this isn't really safe for me? I can't be sure my partner won't hurt me again.",
+  "emotion": [
+    "anxious",
+    "fearful",
+    "vulnerable",
+    "tense",
+    "self-doubting"
+  ],
+  "behavior": "I tense up or pull away during intimate moments. I might hesitate or stop the interaction to check in with myself or my partner. Sometimes I seek reassurance or avoid discussing my discomfort."
+}

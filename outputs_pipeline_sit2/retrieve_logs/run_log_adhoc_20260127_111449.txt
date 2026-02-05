@@ -1,0 +1,85 @@
+Using description: HISTORY:
+- History of self-criticism.
+- Used to maintaining control and achieving goals.
+
+SITUATION:
+- Experiencing difficulties with job searching.
+- Dealing with ongoing relationship and family conflicts involving a person named Ivan. with ID=28-1
+Emergency Fallback to 0.10 - Top results (by metadata similarity):
+  - sim=0.500 | title='Session 15: Client has been experiencing occupational stress' | file='1000134012.txt'
+  - sim=0.495 | title='Session 317: Client realizes that she needs to accept that she is a female' | file='1000393736.txt'
+  - sim=0.490 | title='Session 12: Client feels like his life is quite a mess. He needs to set some goa' | file='1000134009.txt'
+  - sim=0.487 | title='Series 2, Session 7: Client has made some progress in her irritability but still' | file='1003269456.txt'
+  - sim=0.486 | title='Motivational Therapy Sessions, Client 1, Session 2: The client continues struggl' | file='1003722147.txt'
+  - sim=0.485 | title='Session 8: Client is using his art as a form of therapy to increase his self-est' | file='1000013289.txt'
+  - sim=0.484 | title='Multimodal CBT Therapy: This transcript is an initial therapy session with Arnol' | file='1001158870.txt'
+  - sim=0.479 | title='Session 15: Client is talking about perfectionism.  He tells therapist that he i' | file='1000013339.txt'
+  - sim=0.470 | title='Session 4: Client feels like he has already talked about everything pertaining t' | file='1000133848.txt'
+  - sim=0.470 | title='Session 366: Client feels like she is fighting against the therapy and therapist' | file='1000393749.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.500 | file='1000134012.txt' | title='Session 15: Client has been experiencing occupational stress'
+  - sim=0.495 | file='1000393736.txt' | title='Session 317: Client realizes that she needs to accept that she is a female'
+  - sim=0.490 | file='1000134009.txt' | title='Session 12: Client feels like his life is quite a mess. He needs to set some goa'
+Using top selected file for transcript: '1000134012.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of self-criticism and is accustomed to maintaining control and achieving goals. Currently, the patient is experiencing difficulties with job searching and is dealing with ongoing relationship and family conflicts involving a person named Ivan.
+
+**Emotional Impact:**
+The patient's history of self-criticism likely contributes to feelings of inadequacy and frustration, especially in the context of job searching. The inability to secure employment may exacerbate feelings of failure and self-doubt, leading to a cycle of negative self-evaluation. The ongoing relationship and family conflicts with Ivan may further intensify feelings of stress and emotional turmoil, potentially resulting in emotions such as being "anxious, worried, fearful, scared, tense," and "sad, down, lonely, unhappy."
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive distortions such as all-or-nothing thinking and catastrophizing, particularly in response to setbacks in job searching and interpersonal conflicts. The tendency to maintain control and achieve goals might lead to rigid thinking patterns, where any deviation from expected outcomes is perceived as a personal failure. This cognitive style can result in persistent rumination over perceived mistakes or shortcomings, as seen in the transcript where the patient agonizes over business decisions and interactions.
+
+**Behavioral Responses:**
+In response to job search difficulties and relationship conflicts, the patient might engage in avoidance behaviors, such as procrastinating on job applications or withdrawing from social interactions to avoid conflict with Ivan. The need for control may manifest in attempts to micromanage situations or over-prepare for potential outcomes, which can lead to increased stress and burnout. The patient might also seek reassurance from others to validate their self-worth and decisions, as inferred from the transcript where the patient seeks validation for their business decisions.
+
+**Coping Styles:**
+The patient may rely on maladaptive coping mechanisms, such as excessive self-criticism and avoidance, to manage stress and emotional discomfort. The transcript suggests a pattern of internal conflict and self-doubt, which might lead the patient to oscillate between striving for success and feeling overwhelmed by perceived failures. The patient might benefit from developing more adaptive coping strategies, such as cognitive restructuring to challenge negative thoughts and problem-solving techniques to address conflicts with Ivan.
+
+**Therapeutic Focus:**
+In therapy, it would be beneficial to focus on helping the patient identify and challenge cognitive distortions related to self-criticism and control. Encouraging the patient to develop a more balanced self-view and to set realistic goals could alleviate some of the pressure they place on themselves. Additionally, exploring effective communication and conflict resolution strategies could help the patient navigate relationship issues with Ivan more constructively. Building resilience through mindfulness and stress-reduction techniques may also support the patient in managing job search challenges and interpersonal conflicts more effectively.
+Summary da mistral_.csv: In this session, the patient and counselor discuss the patient's desire for professional advancement and feelings of secondary status in his current role. The patient shares an instance where he felt disrespected when a developer he was working with had his secretary contact him instead. They also touch on the patient's past confusion about his identity and his current emotional turmoil due to business-related issues, including a potential lawsuit against his company.
+The patient discusses their motivations for starting their own business, including increased personal authority and potential for higher income. They also share their unconscious physical reactions to emotionally unpleasant situations and their negative self-image. The counselor and patient discuss the patient's tendency to focus on negative aspects and the possibility of understanding and accepting their negative self-image while working on changing it. The patient mentions their negative self-talk and the attraction to a certain lifestyle, which they associate with success and virility.
+The patient discusses their perception of two contrasting aspects of their life: one representing a successful, conventional heterosexual lifestyle and the other a passive, sensitive, potentially queer lifestyle. They express difficulty in separating these two concepts and question the possibility of changing their emotional response to situations. The counselor acknowledges the patient's concerns and encourages exploration of emotions, while the patient expresses uncertainty about the validity of their self-perception and the potential for personal growth.
+In this session chunk, the patient expresses uncertainty about the purpose of identifying past issues and feels a strong sense of peril when faced with the idea of success. The counselor encourages the patient to consider alternative ideas of success beyond the upper middle class businessman image. The patient acknowledges that many of their ideas of success involve money but expresses uncertainty about the potential of these alternatives. The counselor suggests exploring these alternatives in more detail during future sessions.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of self-criticism and is used to maintaining control and achieving goals. This background likely contributes to their current distress when faced with job search difficulties and ongoing family conflict involving Ivan. The report highlights that setbacks in these areas intensify feelings of inadequacy and self-doubt, and the client tends to ruminate over perceived mistakes or shortcomings.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't maintain control and achieve my goals, others will see me as a failure and I will feel even worse about myself. I must always succeed to prove my worth. If I make mistakes or can't resolve conflicts, it means I am not good enough.",
+  "intermediate_belief_depression": "If I keep failing at finding a job and can't fix things with Ivan, it proves that I am hopeless and things will never get better. There's no point in trying because nothing I do changes the outcome.",
+  "coping_strategies": [
+    "The client tends to avoid difficult tasks like job applications and withdraws from social interactions to escape conflict with Ivan. They also engage in excessive self-criticism and rumination, which maintains their distress and prevents them from moving forward."
+  ],
+  "situation": "Experiencing difficulties with job searching. Dealing with ongoing relationship and family conflicts involving a person named Ivan.",
+  "auto_thought": "I'm never going to find a job and everyone can see that I'm failing. I can't handle things with Ivan and it's all my fault.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "sad",
+    "down",
+    "ashamed"
+  ],
+  "behavior": "I put off applying to jobs and avoid talking to Ivan or my family. I spend hours thinking about what went wrong and criticize myself for not doing better."
+}

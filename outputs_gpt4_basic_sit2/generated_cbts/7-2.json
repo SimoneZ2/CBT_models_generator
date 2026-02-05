@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "History of long work hours in demanding work environments, including past touring work. Unresolved issues with father, including reports of past abuse. Recent exchange of letters with father addressing this history.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't work hard, I will be seen as a failure.",
+  "intermediate_belief_depression": "I can't escape my past, and it will always affect me.",
+  "coping_strategies": "Working long hours to avoid dealing with personal issues.",
+  "situation": "Reflecting on how to use idle time and focus on personal development.",
+  "auto_thought": "I don't know how to use this time effectively, and I might waste it.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Avoidance of personal development activities."
+}

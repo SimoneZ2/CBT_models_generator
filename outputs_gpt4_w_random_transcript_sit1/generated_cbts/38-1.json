@@ -1,0 +1,30 @@
+{
+  "name": "Patient",
+  "id": "PV010032",
+  "type": [
+    "CBT"
+  ],
+  "history": "Health condition requiring time off work for physical therapy. Past interactions with HR and a supervisor related to return-to-work and disability status.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must be perfect to be accepted.",
+  "intermediate_belief_depression": "If I am not perfect, I will be rejected and alone.",
+  "coping_strategies": "Avoidance of situations that may lead to judgment or failure.",
+  "situation": "Recalling a prior interaction with HR that involved feeling judged during medical leave.",
+  "auto_thought": "I can't handle this; I will be judged and rejected.",
+  "emotion": [
+    "Anxiety",
+    "Fear",
+    "Insecurity"
+  ],
+  "behavior": "Withdrawal from social interactions and avoidance of challenging situations."
+}

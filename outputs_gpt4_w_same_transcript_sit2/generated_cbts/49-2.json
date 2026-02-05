@@ -1,0 +1,30 @@
+{
+  "name": "Patient X",
+  "id": "CASE123",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization Diagram"
+  ],
+  "history": "History of complex and strained family relationships. Father described as frequently creating misery for those around him and expressing dissatisfaction with his life. Maternal grandmother had a significant negative impact on the family, especially on the patient's mother.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must control my emotions to avoid feeling vulnerable.",
+  "intermediate_belief_depression": "If I show my emotions, I will be seen as weak and will be rejected.",
+  "coping_strategies": "Suppress emotions and maintain control to avoid vulnerability.",
+  "situation": "Reflecting on the potential death of the father and the grandmother.",
+  "auto_thought": "I must not show my emotions or I will lose control.",
+  "emotion": [
+    "Anxiety",
+    "Sadness"
+  ],
+  "behavior": "Suppresses crying and emotional expression.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "history": "The client has been under sustained stress due to ongoing financial difficulties and unstable relationships. They are burdened by a heavy workload, which is made worse by technical problems at work and having to cover for a coworker. Friends frequently turn to the client with emotional crises, adding to their sense of responsibility and overwhelm. The client is considering asking their parents for financial help to cover therapy, which may evoke feelings of guilt or shame. There are upcoming stressors, including a convention and a visit with parents, which may increase anticipatory anxiety and pressure.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't keep my finances under control, it means I'm not capable and others will judge me. I should be able to handle my problems without needing help. If I ask for support, it proves I'm inadequate.",
+  "intermediate_belief_depression": "If I keep struggling financially and nothing changes, it means I will always be stuck and things will never improve for me.",
+  "coping_strategies": [
+    "The client tends to ruminate and worry about their financial situation and workload, often mentally rehearsing solutions rather than taking action. They may avoid directly addressing financial planning or delay asking for help due to guilt or shame. The client sometimes withdraws from social activities or self-care to focus on immediate stressors."
+  ],
+  "situation": "Discovered that their bank balance was lower than expected.",
+  "auto_thought": "I'm never going to get ahead—no matter how hard I try, my money just keeps disappearing. I can't handle this and I'm letting everyone down.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "helpless",
+    "ashamed"
+  ],
+  "behavior": "Stared at the bank statement for a long time, feeling frozen. Put off making any financial decisions or reaching out for help. Avoided checking other accounts or making a budget.",
+  "source_text_id": "1000013639.txt"
+}

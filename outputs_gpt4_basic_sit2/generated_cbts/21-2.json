@@ -1,0 +1,25 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "History of family conflict with a dismissive and unsupportive father. Estrangement from the father. Ongoing stress related to partner's family, including a difficult relationship with the partner's sister-in-law.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I assert myself, I will be rejected or dismissed.",
+  "intermediate_belief_depression": "I can't change how others treat me, so there's no point in trying.",
+  "coping_strategies": "Avoid confrontation and suppress feelings to prevent conflict.",
+  "situation": "Deciding how to address rude behavior from the partner's sister-in-law and whether to set boundaries.",
+  "auto_thought": "If I set boundaries, they will reject me.",
+  "emotion": [
+    "Anxiety",
+    "Fear"
+  ],
+  "behavior": "Avoids addressing the issue directly and remains passive."
+}

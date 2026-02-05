@@ -1,0 +1,26 @@
+{
+  "name": "John Doe",
+  "id": "12345",
+  "type": [
+    "Adult ADHD",
+    "Family Stress"
+  ],
+  "history": "History of complex and strained family relationships. Father described as frequently creating misery for those around him and expressing dissatisfaction with his life. Maternal grandmother had a significant negative impact on the family, especially on the patient's mother.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be perfect to be accepted.",
+  "intermediate_belief_depression": "If I can't meet expectations, I will be rejected.",
+  "coping_strategies": "Avoidance of difficult tasks and procrastination.",
+  "situation": "Contemplating the father's wishes for burial in Nepal and the responsibilities involved.",
+  "auto_thought": "I can't handle this responsibility.",
+  "emotion": [
+    "Anxiety",
+    "Overwhelm"
+  ],
+  "behavior": "Avoidance of addressing the burial plans and responsibilities."
+}

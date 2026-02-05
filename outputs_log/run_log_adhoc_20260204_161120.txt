@@ -1,0 +1,78 @@
+Using description: HISTORY:
+- Elevated stress related to financial difficulties and relationship instability.
+- Heavy workload due to technical issues at work and covering responsibilities when coworker Chet is absent.
+- Friends often have crises and make emotional demands.
+- Considering asking parents for financial help to cover therapy costs around an upcoming birthday.
+- Upcoming convention and upcoming visit with parents.
+
+SITUATION:
+- Discovered that their bank balance was lower than expected. with ID=36-1
+Sample results (metadata similarity):
+  - sim=0.097 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.099 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+  - sim=0.099 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.107 | title='Session 17: Client sees herself as having an overbearing, aggressive personality' | file='1000133903.txt'
+  - sim=0.108 | title='Volume no. 12: Gregg: Client and therapist discuss client's dreams' | file='1002133158.txt'
+  - sim=0.108 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.114 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.122 | title='Resolving Shame -Steve Andreas demonstrates this process, developed by Steve and' | file='1000119397.txt'
+  - sim=0.123 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.129 | title='Session 62: Client wants to feel free in responding sexually to her husband' | file='1000367961.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.097 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.108 | file='1002133158.txt' | title='Volume no. 12: Gregg: Client and therapist discuss client's dreams'
+  - sim=0.108 | file='1000088127.txt' | title='Session 18: Client tells how he despises people in general.  He seems to feel un'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who is currently grappling with financial stress and relationship instability, has been experiencing elevated stress levels due to a lower-than-expected bank balance. This financial strain is compounded by a heavy workload, exacerbated by technical issues at work and the absence of a coworker, Chet, which has increased their responsibilities. During the session, the client expressed a sense of relief and accomplishment in their academic pursuits, particularly in mathematics, which serves as a coping mechanism for them. They mentioned, "I love these," referring to their reading glasses, which they find helpful during testing, indicating a small but significant source of comfort amidst their stressors.
+
+The client is also considering asking their parents for financial help to cover therapy costs, especially with an upcoming birthday and a visit to their parents on the horizon. This consideration seems to weigh on them, as they navigate the complexities of financial dependency and personal pride. In the session, they shared their experience of tutoring precalculus, noting, "It's nice. I mean, it could be," which suggests a potential avenue for additional income and a sense of purpose. However, they also expressed a need to relearn certain mathematical concepts, indicating a mix of confidence and apprehension about their capabilities.
+
+Throughout the session, the client frequently returned to the theme of learning and teaching mathematics, describing it as both a challenge and a source of satisfaction. They recounted a recent study session where they felt, "I really understood the material," highlighting a moment of clarity and competence that contrasts with their usual feelings of being overwhelmed. This intellectual engagement appears to provide a temporary escape from their financial worries and relationship challenges, allowing them to focus on something within their control.
+
+The client also reflected on the nature of mathematical proofs, noting the importance of being concise and the struggle to balance this with their conversational style. They mentioned, "Please be more concise," as feedback they received, which they found troubling. This reflects a broader theme of striving for precision and clarity in their work, which parallels their desire for stability and understanding in their personal life.
+
+Despite the pressures they face, the client finds solace in the logical progression of mathematics, describing it as a "launching pad to do interesting stuff." This suggests that their engagement with math not only serves as a distraction but also as a means of personal growth and intellectual fulfillment. They expressed a sense of achievement in being able to teach others, stating, "It's like being on the bike and lifting weights somehow cleared my mind," which underscores the therapeutic nature of physical and mental exertion for them.
+
+However, the client also acknowledged feeling "in this little bubble of math," which sometimes leads to self-consciousness about their preoccupation with it. This introspection reveals an underlying tension between their intellectual pursuits and the practical demands of their life, such as financial stability and interpersonal relationships. The client seems to oscillate between moments of clarity and confusion, both in mathematics and in life, as they navigate the complexities of their current situation.
+
+In conclusion, the client's engagement with mathematics serves as both a coping strategy and a source of stress, reflecting their broader struggle to balance intellectual pursuits with real-world challenges. Their narrative is marked by a desire for understanding and control, whether through mastering mathematical concepts or managing financial and relational uncertainties. As they continue to explore these themes, the therapeutic process may help them find a more integrated approach to their challenges, drawing on their strengths and addressing areas of vulnerability.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client is experiencing elevated stress due to financial difficulties and relationship instability. They have a heavy workload exacerbated by technical issues at work and covering for an absent coworker, Chet. They find some relief and accomplishment in academic pursuits, particularly mathematics, which serves as a coping mechanism. The client is considering asking their parents for financial help, which weighs on them due to the complexities of financial dependency and personal pride.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't manage my finances and responsibilities, then I am failing as an adult.",
+  "intermediate_belief_depression": "If I can't handle my financial situation, then I will never be able to take care of myself.",
+  "coping_strategies": [
+    "The client engages in academic pursuits, particularly mathematics, as a temporary escape from financial worries and relationship challenges. They also consider tutoring as a potential avenue for additional income and a sense of purpose."
+  ],
+  "situation": "Discovered that their bank balance was lower than expected.",
+  "auto_thought": "I can't believe my balance is this low. I'm never going to get out of this financial mess.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "overwhelmed",
+    "ashamed"
+  ],
+  "behavior": "The client considers asking their parents for financial help. They also immerse themselves in mathematics as a distraction."
+}

@@ -1,0 +1,94 @@
+Using description: HISTORY:
+- Academic underperformance despite being described as intelligent.
+- Attended Grinnell and later dropped out.
+- Reports feeling disconnected during college.
+- About two years of credits remain to complete the degree.
+- Mother had high expectations.
+- Financial difficulties and pressure from the mother to return home.
+
+SITUATION:
+- Experienced an unproductive week due to scheduling problems.
+- Comparing themselves to their sister's achievements and time management. with ID=18-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.10 - Top results (by metadata similarity):
+  - sim=0.557 | title='Patient "Ju", Session September 19, 2012: Client describes how she doesn't perce' | file='1004798761.txt'
+  - sim=0.548 | title='Cognitive-Therapy: This transcript is an initial therapy session with Dr. Krumbo' | file='1001158872.txt'
+  - sim=0.524 | title='Patient "Ju", Session April 27, 2012: Client wants to pursue a higher degree but' | file='1004538610.txt'
+  - sim=0.510 | title='Session 12: Client over schedules her days leaving her feeling like she is sprea' | file='1000133989.txt'
+  - sim=0.503 | title='Patient "B", Session May 16, 2012: Client finds her mother's contradictory behav' | file='1004564929.txt'
+  - sim=0.485 | title='Patient "D" Session April 02, 2012: Client is upset with her biological father's' | file='1004532480.txt'
+  - sim=0.481 | title='Patient "Ma", Session August 20, 2012: Client didn't get either job she had inte' | file='1004687726.txt'
+  - sim=0.474 | title='Verilogue session: Client has been getting so wrapped up in her family conflicts' | file='1001083917.txt'
+  - sim=0.472 | title='Session 1: Client tells therapist some of her reasons for coming to therapy, mai' | file='1000088094.txt'
+  - sim=0.470 | title='Patient "C" Therapy Session Audio Recording, January 2, 2012: Client talks about' | file='1004472420.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=1 partial_match=9
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=1
+  - sim=0.470 | file='1004472420.txt' | title='Patient "C" Therapy Session Audio Recording, January 2, 2012: Client talks about'
+Using top selected file for transcript: '1004472420.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+
+The patient is an individual who has experienced academic underperformance despite being recognized as intelligent. They attended Grinnell College but eventually dropped out, leaving approximately two years of credits to complete their degree. During their time in college, the patient reported feeling disconnected. They are currently facing financial difficulties and experiencing pressure from their mother to return home. Additionally, the patient is comparing themselves to their sister's achievements and time management, which has been a source of distress.
+
+**Cognitive Patterns:**
+
+The patient exhibits cognitive patterns that suggest a tendency towards self-comparison and self-criticism. The comparison to their sister's achievements may lead to feelings of inadequacy and self-doubt. This cognitive style can contribute to a cycle of negative self-evaluation, where the patient may ruminate on perceived failures or shortcomings. The pressure from the mother and the financial difficulties may exacerbate these thoughts, leading to a heightened sense of stress and anxiety.
+
+**Emotional Reactions:**
+
+The patient likely experiences a range of emotions including anxiety, worry, and disappointment. The pressure to return home and the financial difficulties may evoke feelings of being overwhelmed and trapped. The disconnection felt during college could contribute to feelings of loneliness and isolation. The comparison to their sister may lead to feelings of inadequacy and low self-worth. These emotional reactions are consistent with patterns observed in individuals who face high expectations and pressure from family, as seen in the transcript.
+
+**Behavioral Responses:**
+
+In response to these cognitive and emotional patterns, the patient may engage in behaviors such as avoidance and procrastination. The unproductive week due to scheduling problems might be indicative of difficulties in managing time and responsibilities, potentially as a way to cope with overwhelming stress. The patient may also withdraw from social interactions or activities that could otherwise provide support and relief. This withdrawal can further perpetuate feelings of disconnection and isolation.
+
+**Coping Styles:**
+
+The patient may rely on avoidance as a primary coping mechanism, potentially avoiding situations that remind them of their perceived inadequacies or failures. This avoidance can manifest in procrastination or disengagement from tasks that are associated with high expectations or pressure. The patient might also seek reassurance from others, particularly in relation to their academic and personal achievements, as a way to mitigate feelings of self-doubt and inadequacy.
+
+**Conclusion:**
+
+The patient's current psychological state is influenced by a combination of cognitive, emotional, and behavioral factors. The pressure from family, financial difficulties, and self-comparison contribute to a cycle of negative thoughts and emotions. These factors may lead to avoidance behaviors and a sense of disconnection. Addressing these patterns through cognitive-behavioral strategies, such as cognitive restructuring and behavioral activation, could help the patient develop more adaptive coping mechanisms and improve their overall psychological well-being.
+Summary da mistral_.csv: The client discussed their holiday experiences, which were generally positive, but they also shared that their grandmother, who is in the hospital, has been a source of negativity in their life. The client expressed indifference towards her and felt no desire to visit her, despite their only other grandparent being deceased. The client shared that their grandmother had criticized them and their siblings for being overweight and had shown little interest in their lives when they were younger. The client felt frustrated that she was now trying to take an interest in their lives, but they had a negative emotional attachment towards her due to past experiences. The client also discussed their anxiety and frustration regarding an upcoming test, which they needed to pass to receive credit for their master's degree. They mentioned feeling anxious and pressured, and having difficulty focusing and preparing for the test. The client also mentioned their past substance abuse issues and their current use of marijuana, which they were trying to reduce. They expressed frustration with their anxiety and in
+The client describes a pattern of explosive anger towards his girlfriend, particularly when she discusses her work. He attributes this behavior to loyalty issues and a tendency to react negatively when people or groups turn their backs on him. The client's mother and other family members also have a history of explosive tempers. The client's mother's family is characterized by constant complaining and negativity, in contrast to his grandmother who was very loving and positive. The client acknowledges the negative impact of this environment on him and expresses a desire to create a more positive family dynamic for his future children. The client also discusses his father's absence during his childhood and his mother's reluctance to drive him to activities, which contributed to feelings of neglect.
+The client shares memories of annual family vacations to a ranch in New Hampshire, where they would stay for a week with extended family. They recall feeling frustrated when they had to leave the vacation to attend baseball games, as they felt an obligation to their team and their father. The client also discusses their history of being overweight and feeling left out when their father favored their younger brother in sports. They mention their popularity and large social circle, as well as their fear of adult responsibilities and indecisiveness due to conflicting opinions from family members. The therapist suggests exploring what the client might need to embrace a more adult life.
+In this session chunk, the client expressed a need for support but felt it was not being met. The therapist provided information about upcoming absences and offered alternative appointment dates. The client confirmed upcoming absences and made arrangements for rescheduling. The session concluded with the therapist confirming the next appointment time and the client expressing gratitude.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of academic underperformance despite being described as intelligent. They attended Grinnell College but dropped out with about two years of credits remaining. During college, they reported feeling disconnected, which may have contributed to their difficulties. The client faces ongoing financial difficulties and experiences pressure from their mother to return home, who has high expectations. The client frequently compares themselves to their sister's achievements and time management, which intensifies their self-criticism and feelings of inadequacy.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't measure up to my sister's achievements or meet my mother's expectations, then I am not good enough and others will see me as a disappointment. I must always perform well to prove my value. If I fall behind or have an unproductive week, it means I am failing and letting everyone down.",
+  "intermediate_belief_depression": "If I keep falling short and can't manage my responsibilities, then there's no point in trying because I will never be able to catch up or be good enough. My efforts are futile and things won't improve.",
+  "coping_strategies": [
+    "The client tends to avoid tasks and procrastinate, especially when feeling overwhelmed by expectations or self-comparison. They may withdraw from social interactions and disengage from activities that could provide support, further increasing their sense of isolation. These avoidance behaviors temporarily reduce distress but reinforce negative beliefs and maintain the cycle of underperformance."
+  ],
+  "situation": "Experienced an unproductive week due to scheduling problems. Comparing themselves to their sister's achievements and time management.",
+  "auto_thought": "I'm falling behind again and can't get my life together like my sister. Everyone can see that I'm failing and not living up to what I'm supposed to be.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "disappointed",
+    "overwhelmed",
+    "inadequate",
+    "sad"
+  ],
+  "behavior": "Procrastinated on tasks and avoided responsibilities. Spent time ruminating about their sister's success and their own shortcomings. Withdrew from social interactions and did not seek support."
+}

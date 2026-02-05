@@ -1,0 +1,30 @@
+{
+  "name": "Patient 16",
+  "id": "16",
+  "type": [
+    "indecision",
+    "procrastination"
+  ],
+  "history": "Spent year in Europe on project (website, interviews). Proud of work but history of procrastination/anxiety. Uses strategies from course to manage life.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am wasting my potential"
+  ],
+  "intermediate_belief": "Too many options means I'll choose wrong and regret it.",
+  "intermediate_belief_depression": "My past success was a fluke; I can't recreate it.",
+  "coping_strategies": [
+    "Over-researching options, seeking external validation, procrastination."
+  ],
+  "situation": "Facing ambiguity about life direction with many options to consider.",
+  "auto_thought": "\"What if I choose wrong? I'll waste years. Everyone else seems sure.\"",
+  "emotion": [
+    "paralysis",
+    "anxiety",
+    "overwhelm"
+  ],
+  "behavior": "Creates endless pro/con lists, asks friends for opinions but discounts them, delays decision."
+}

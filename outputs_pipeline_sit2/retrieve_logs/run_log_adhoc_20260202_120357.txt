@@ -1,0 +1,79 @@
+Using description: HISTORY:
+- Recent family tension related to a conversation with parents about a wedding list.
+- The patient noticed similarities between their own actions and their father's patterns.
+- The father is described as repeatedly seeking approval and unconditional love from family members.
+
+SITUATION:
+- Observing the father's ongoing pursuit of approval from his sister. with ID=2-2
+Sample results (metadata similarity):
+  - sim=0.138 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.201 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+  - sim=0.213 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.217 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.235 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.250 | title='Patient "L", Session May 09, 2012: Client has been feeling good about her work; ' | file='1004564967.txt'
+  - sim=0.250 | title='Verilogue session: Client appears to be in a manic upswing and is very anxious a' | file='1001083971.txt'
+  - sim=0.251 | title='Patient "B", Session February 15, 2012: Client starts session by verbally batter' | file='1004503118.txt'
+  - sim=0.251 | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de' | file='1001084060.txt'
+  - sim=0.253 | title='Verilogue session: Client has been experiencing very drastic mood swings and won' | file='1001084037.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.138 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.201 | file='1002565918.txt' | title='Verilogue session: Client is having problems falling asleep'
+  - sim=0.213 | file='1001084079.txt' | title='Verilogue session: Client feels the urgent need to get everything done in a rush'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, during our session, navigated through a complex web of thoughts and emotions, primarily revolving around their current academic pursuits and reflections on familial dynamics. The recent family tension, particularly the conversation about a wedding list, seems to have triggered introspection about their relationship with their father. The client noted, "I noticed similarities between my actions and my father's patterns," which suggests a growing awareness of inherited behavioral tendencies. This observation is particularly poignant given the client's description of their father as someone who "repeatedly seeks approval and unconditional love from family members." This familial context provides a backdrop to the client's current intellectual endeavors and their emotional responses to them.
+
+Throughout the session, the client expressed a deep engagement with their mathematical studies, describing the process of learning as both challenging and rewarding. They shared, "It's like being in a dark room fumbling for the light switch," which captures the initial confusion and eventual clarity they experience. This metaphor of moving from darkness to light parallels their journey of understanding complex mathematical concepts, such as proofs and functions. The client finds satisfaction in this intellectual struggle, noting, "It's amazing to me," when they finally grasp a difficult problem. This sense of achievement is a crucial coping mechanism, providing a counterbalance to the frustration they initially feel.
+
+The client's narrative also revealed a tension between their desire for thorough understanding and the academic expectation of conciseness. They expressed discomfort with the notion that "you can leave a ton out" in mathematical proofs, as it conflicts with their teaching philosophy of making concepts accessible to others. This internal conflict mirrors their reflections on their father's pursuit of approval, as both involve a struggle between personal values and external expectations. The client seems to grapple with the idea of being concise, stating, "It's troubling there, isn't it?" This struggle highlights a broader theme of seeking validation through mastery and clarity, both in personal and academic realms.
+
+Interestingly, the client also touched upon the universality of mathematical language, sharing an anecdote about watching a French math lecture and realizing, "I speak math-French." This experience underscores their appreciation for the objective nature of mathematics, which contrasts with the subjective and often contentious nature of human relationships and emotions. The client finds solace in the fact that, unlike familial interactions, "people don't get angry about math." This observation suggests that the client may use their academic pursuits as a refuge from the complexities and emotional turbulence of family dynamics.
+
+The session also revealed the client's reflective nature, as they pondered the broader implications of their learning. They drew parallels between mathematical concepts and life, noting, "In life, how do you want to define where your first step is going to start from?" This philosophical inquiry indicates a deeper search for meaning and understanding, both in their studies and personal life. The client's engagement with these abstract ideas seems to provide a sense of control and agency, which may be lacking in their familial interactions.
+
+Overall, the session highlighted the client's intricate cognitive processes and emotional responses, shaped by both their academic pursuits and family history. Their reflections on learning, teaching, and familial patterns reveal a complex interplay of seeking approval, understanding, and personal growth. As they continue to navigate these themes, the client's awareness and introspection will likely serve as valuable tools in their journey toward greater self-understanding and emotional resilience.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client recently experienced family tension during a conversation with their parents about a wedding list. They have become aware of similarities between their own behaviors and those of their father, who is described as repeatedly seeking approval and unconditional love from family members. This recognition has prompted introspection about inherited patterns and the client's own responses to familial expectations. The client’s academic pursuits and desire for mastery provide a sense of control and achievement, which contrasts with the emotional complexity of family relationships.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I act like my father and keep seeking approval, then maybe I will finally feel accepted by my family. But if I don't, I risk being left out or not loved. I need to avoid making mistakes or being misunderstood, or else I will be seen as less worthy.",
+  "intermediate_belief_depression": "No matter what I do, I will always end up repeating the same patterns as my father, and I will never truly be accepted or valued by my family.",
+  "coping_strategies": [
+    "The client turns to academic pursuits and intellectual mastery as a refuge from family stress, finding satisfaction in solving complex problems. They also engage in introspection and philosophical reflection to gain a sense of control. When faced with family tension, they may withdraw emotionally or mentally, focusing on areas where they feel more competent and validated."
+  ],
+  "situation": "Observing the father's ongoing pursuit of approval from his sister.",
+  "auto_thought": "I'm just like him—I keep looking for approval too. No matter what I do, it feels like it's never enough for them.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "frustrated",
+    "sad",
+    "self-critical"
+  ],
+  "behavior": "I compare myself to my father and ruminate about our similarities. I withdraw from the family conversation and focus my attention on my studies or internal thoughts. I avoid directly addressing my feelings with my family."
+}

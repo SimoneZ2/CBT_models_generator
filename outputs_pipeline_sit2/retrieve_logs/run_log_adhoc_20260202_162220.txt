@@ -1,0 +1,78 @@
+Using description: HISTORY:
+- History of substance abuse and completed rehabilitation.
+- Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect.
+- Longstanding obesity since childhood.
+- Past experiences of bullying related to weight.
+
+SITUATION:
+- Missed an alarm and woke up late for work. with ID=1-2
+Sample results (metadata similarity):
+  - sim=0.014 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.137 | title='Session 17: Client sees herself as having an overbearing, aggressive personality' | file='1000133903.txt'
+  - sim=0.151 | title='Patient "R" Session June 25, 2012: Client knows that she should be working on co' | file='1004600948.txt'
+  - sim=0.165 | title='Client "S", Session September 21, 2012: Client is currently working towards his ' | file='1004824793.txt'
+  - sim=0.177 | title='Person-Centered Child Therapy Session Transcript: Anin Utigaard masterfully teac' | file='1001114250.txt'
+  - sim=0.180 | title='Session 4: Client does not understand why she cannot find someone to date her. S' | file='1000133886.txt'
+  - sim=0.182 | title='Patient "B", Session November 12, 2012: Client talks about feeling guilty for tr' | file='1004824659.txt'
+  - sim=0.182 | title='Patient "L", Session May 09, 2012: Client has been feeling good about her work; ' | file='1004564967.txt'
+  - sim=0.184 | title='Session 8: Client tells therapist how bad she was feeling and then how she start' | file='1000013260.txt'
+  - sim=0.185 | title='Volume no. 12: Gregg: Client and therapist discuss client's dreams' | file='1002133158.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.014 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.137 | file='1000133903.txt' | title='Session 17: Client sees herself as having an overbearing, aggressive personality'
+  - sim=0.151 | file='1004600948.txt' | title='Patient "R" Session June 25, 2012: Client knows that she should be working on co'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of substance abuse and has successfully completed rehabilitation, presents with ongoing family difficulties, particularly with his mother, which he describes as experiences of rejection and emotional neglect. These familial challenges seem to have left a lasting impact on his self-esteem and interpersonal relationships. During the session, the client engages in an extensive discussion about his current academic pursuits, particularly in mathematics, which appears to be a significant focus of his life at present. He mentions feeling "self-conscious" about his preoccupation with math, suggesting an underlying tension between his intellectual interests and the perceived practicality or necessity of these pursuits in his life.
+
+The client describes a recent experience of waking up late for work due to missing an alarm, which may reflect underlying issues with time management or motivation, possibly linked to his longstanding struggles with obesity and past bullying related to his weight. Despite these challenges, he expresses a sense of accomplishment and satisfaction in his ability to understand and teach complex mathematical concepts, stating, "I really understood the material," which contrasts with his earlier feelings of confusion and frustration. This suggests that his engagement with mathematics provides a sense of mastery and competence, serving as a coping mechanism for managing feelings of inadequacy or self-doubt.
+
+Throughout the session, the client frequently returns to the theme of learning and teaching mathematics, highlighting the cognitive processes involved in understanding abstract concepts. He notes the importance of "drawing pictures" to aid comprehension, indicating a preference for visual learning strategies. This approach seems to help him bridge the gap between abstract mathematical theories and practical understanding, allowing him to feel more connected to the material and to others when teaching. The client also reflects on the nature of mathematical language, expressing a fascination with the universality of mathematical symbols, which transcends cultural and linguistic barriers. This insight appears to provide him with a sense of belonging and connection to a broader intellectual community, counteracting feelings of isolation or exclusion stemming from his family dynamics.
+
+The client's narrative reveals a complex interplay between his intellectual pursuits and his emotional world. His engagement with mathematics seems to offer a structured and predictable environment, contrasting with the unpredictability and emotional complexity of his family relationships. He describes the process of learning new mathematical concepts as initially "infuriating," yet ultimately rewarding, suggesting that the challenge of mastering difficult material may serve as a metaphor for his broader life struggles. The client's ability to find "beauty" in the clarity and logic of mathematics may reflect a desire for order and control in other areas of his life, where such qualities are lacking.
+
+Despite the intellectual satisfaction he derives from mathematics, the client acknowledges a sense of being in a "bubble," indicating an awareness of the potential disconnect between his academic interests and the practical demands of everyday life. This awareness may contribute to his feelings of self-consciousness and the perception that his focus on mathematics is not entirely aligned with his personal or professional goals. However, the client's enthusiasm for teaching and his ability to communicate complex ideas effectively suggest that he possesses valuable skills that could be leveraged in various contexts, potentially offering a pathway to greater fulfillment and integration of his intellectual and emotional selves.
+
+In summary, the client's engagement with mathematics serves as both a source of intellectual stimulation and a coping strategy for managing underlying emotional challenges. His ability to find meaning and satisfaction in this pursuit highlights the importance of fostering environments that support his cognitive strengths while addressing the emotional and relational issues that continue to impact his well-being.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of substance abuse and has completed rehabilitation, indicating prior maladaptive coping with distress. He reports ongoing family difficulties, especially with his mother, characterized by rejection and emotional neglect, which have impacted his self-esteem and relationships. He has struggled with obesity since childhood and experienced bullying related to his weight, contributing to longstanding issues with self-worth. The client finds intellectual engagement, particularly in mathematics, to be a source of mastery and coping, but also feels self-conscious and disconnected from practical life demands.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake or fail to meet expectations, it proves that I am inadequate and others will see me as a failure. I must always be competent and in control to avoid being judged or rejected. If I don't manage everything perfectly, it confirms that I am not good enough.",
+  "intermediate_belief_depression": "If I can't even manage basic responsibilities like waking up on time, it means I will never succeed or be accepted. No matter what I do, I will always fall short and disappoint myself and others.",
+  "coping_strategies": [
+    "The client immerses himself in intellectual pursuits, particularly mathematics, to gain a sense of mastery and escape feelings of inadequacy and rejection. He tends to withdraw into a 'bubble' of academic focus, which provides structure and predictability but may increase disconnection from real-life demands. When faced with distressing situations, he may avoid confronting emotional pain directly, instead seeking reassurance through achievement or intellectual control."
+  ],
+  "situation": "Missed an alarm and woke up late for work.",
+  "auto_thought": "I can't even do something as simple as wake up on time. This just proves I'm a failure and everyone will see it.",
+  "emotion": [
+    "ashamed",
+    "anxious",
+    "embarrassed",
+    "frustrated",
+    "self-critical"
+  ],
+  "behavior": "He rushes to get ready, feeling tense and flustered. He avoids making eye contact with coworkers and tries to minimize attention to his lateness. He mentally berates himself for being irresponsible."
+}

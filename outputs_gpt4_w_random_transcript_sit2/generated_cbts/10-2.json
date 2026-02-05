@@ -1,0 +1,30 @@
+{
+  "name": "Julie",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recent divorce. Financial struggles and adjustment to single life. Co-parenting. Multiple friendships deteriorated after the divorce. Complicated relationship with parents.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I am not perfect, I will be rejected.",
+  "intermediate_belief_depression": "I must hide my true self to be accepted.",
+  "coping_strategies": "Avoidance of intimacy and emotional expression.",
+  "situation": "Experiencing the breakdown of friendships following the divorce.",
+  "auto_thought": "If I let people in, they will see how flawed I am.",
+  "emotion": [
+    "Fear",
+    "Guilt",
+    "Anxiety"
+  ],
+  "behavior": "Withdrawal from social interactions and emotional closeness."
+}

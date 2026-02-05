@@ -1,0 +1,47 @@
+{
+  "name": "Anonymous Client",
+  "id": "18-1",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client has a history of academic underperformance despite being described as intelligent, which may have contributed to ongoing self-doubt. They attended college but felt isolated, leading to dropping out with two years of credits remaining. The sense of isolation during college likely fostered feelings of loneliness and disconnection. The client faces financial difficulties and pressure from their mother to return home, which may increase stress and feelings of inadequacy. The mother’s high expectations appear to be a significant source of pressure and may have shaped the client’s self-evaluation and coping style.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't manage my time and achievements as well as my sister, then it means I'm not competent and will disappoint my family. I must always meet high standards to be worthy of approval. If I fall behind, others will see me as incapable.",
+  "intermediate_belief_depression": "If I keep falling short and can't get myself together, there's no point in trying because I'll never measure up. My efforts are pointless if I can't meet expectations.",
+  "coping_strategies": "The client tends to avoid academic tasks and withdraws from challenging situations, such as dropping out of college and not addressing scheduling problems. They engage in negative self-comparison and rumination about their perceived shortcomings, particularly in relation to their sister. These strategies maintain their distress and reinforce feelings of inadequacy.",
+  "situation": "Experienced an unproductive week due to scheduling problems. Comparing themselves to their sister's achievements and time management.",
+  "auto_thought": "I'm wasting my time and falling behind again. My sister has it all together and I'm just failing.",
+  "emotion": [
+    "inadequate",
+    "anxious",
+    "ashamed",
+    "disappointed",
+    "overwhelmed",
+    "sad"
+  ],
+  "behavior": "I avoid tackling my schedule and put off tasks. I spend time thinking about how much better my sister is doing. I withdraw from activities that remind me of my setbacks.",
+  "rationale": "\"The patient may engage in negative self-comparisons, particularly with their sister, which can exacerbate feelings of inadequacy and self-doubt.\" \"The unproductive week due to scheduling problems might reinforce a belief of inefficacy, contributing to a cycle of procrastination and avoidance.\" \"Comparing themselves to their sister's achievements could result in feelings of inadequacy and low self-esteem, as they perceive themselves as falling short in comparison.\" \"In response to these emotional and cognitive experiences, the patient may engage in avoidance behaviors, such as withdrawing from academic pursuits and delaying their return to college.\"",
+  "core_belief_predictions": {
+    "source_id": "18-1",
+    "major_pred_set": [
+      "helpless"
+    ],
+    "fine_pred_set": [
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

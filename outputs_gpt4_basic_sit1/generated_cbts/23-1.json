@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "Longstanding difficult interactions with the patient's mother. Strained communication and delayed sharing of significant events within the family.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't communicate perfectly, I will be misunderstood and rejected.",
+  "intermediate_belief_depression": "I can't change the way my family interacts with me.",
+  "coping_strategies": "Avoidance of communication and emotional withdrawal.",
+  "situation": "Preparing for an upcoming visit from parents.",
+  "auto_thought": "This visit will be stressful and I will feel trapped.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Avoidance of preparation and procrastination."
+}

@@ -1,0 +1,75 @@
+Using description: HISTORY:
+- Past traumatic incident involving sexual assault by partner Ivan.
+- Ongoing relationship difficulties involving trust and intimacy.
+- Reports some improvement in relationship dynamics with Ivan making efforts to rebuild trust.
+
+SITUATION:
+- Physical intimacy is resuming in the relationship. with ID=8-1
+Sample results (metadata similarity):
+  - sim=0.088 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.156 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.162 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.190 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.194 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.194 | title='Client "S", Session September 21, 2012: Client is currently working towards his ' | file='1004824793.txt'
+  - sim=0.203 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.207 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+  - sim=0.208 | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne' | file='1004503136.txt'
+  - sim=0.211 | title='Eliminating Allergies' | file='1000137957.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.088 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.156 | file='1003075019.txt' | title='Verilogue session: Client has been experimenting with her medications to find th'
+  - sim=0.162 | file='1003009210.txt' | title='Verilogue session: Client feels that medicine cannot help her but, she is willin'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of a traumatic incident involving sexual assault by her partner Ivan, is currently navigating the complexities of rebuilding trust and intimacy in their relationship. During the session, she reflects on her experiences with learning and teaching mathematics, which seems to serve as both a cognitive escape and a metaphor for her personal journey. She describes how "being on the bike and lifting weights" helped clear her mind, allowing her to solve complex mathematical proofs. This moment of clarity parallels her efforts to find balance and understanding in her personal life, particularly in her relationship with Ivan, where physical intimacy is gradually resuming.
+
+Throughout the session, the client frequently returns to the theme of learning and teaching, expressing a sense of accomplishment when she can "genuinely teach the material" to others. This mirrors her desire to rebuild her relationship with Ivan, where both parties are learning to trust and communicate effectively. Her engagement with mathematics provides a structured environment where she can control variables and outcomes, unlike the unpredictability of human relationships. She mentions feeling "self-conscious" about her preoccupation with math, which she describes as being in a "little bubble," suggesting a possible avoidance of confronting more emotionally charged issues in her life.
+
+The client also discusses the challenges of understanding complex mathematical concepts, likening it to "fumbling for the light switch" in a dark room. This metaphor resonates with her ongoing struggle to navigate the emotional aftermath of her past trauma and her efforts to rebuild a sense of safety and trust with Ivan. She acknowledges the frustration of not immediately understanding new concepts, but also finds satisfaction in the process of learning, which she describes as "a launching pad to do interesting stuff." This reflects her cautious optimism about the progress in her relationship, where both she and Ivan are making efforts to move forward.
+
+Her narrative is punctuated by moments of humor and self-awareness, such as when she jokes about "speaking math-French" after watching a lecture in French. This lightheartedness contrasts with the underlying tension she feels about her relationship, where she is still working through feelings of vulnerability and trust. The client’s focus on the logical progression of mathematical proofs, where "no spare words" are allowed, may also reflect her desire for clear and concise communication in her personal life, particularly with Ivan.
+
+As the session progresses, the client reflects on the nature of learning and the satisfaction of overcoming initial confusion to achieve understanding. She describes the process of "choo, choo, choo, choo, and all of a sudden, brrrrrrrut," capturing the moment when everything clicks into place. This mirrors her hope for similar breakthroughs in her relationship, where she and Ivan can move past their difficulties and find a new equilibrium. The session concludes with the client expressing a sense of accomplishment and a readiness to continue her journey, both in her academic pursuits and in her personal life.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of a traumatic incident involving sexual assault by her partner Ivan. She is currently navigating the complexities of rebuilding trust and intimacy in their relationship. She uses learning and teaching mathematics as a cognitive escape and metaphor for her personal journey.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I cannot control the situation, then I am vulnerable and unsafe. If I am vulnerable, then I will be hurt again.",
+  "intermediate_belief_depression": "If I cannot control the situation, then I will never feel safe or secure.",
+  "coping_strategies": [
+    "The client uses engagement with mathematics as a structured environment to control variables and outcomes, avoiding emotionally charged issues. She also uses humor and self-awareness to manage underlying tension."
+  ],
+  "situation": "Physical intimacy is resuming in the relationship.",
+  "auto_thought": "What if I get hurt again? I can't fully trust him yet.",
+  "emotion": [
+    "anxious",
+    "self-conscious",
+    "vulnerable",
+    "tense"
+  ],
+  "behavior": "She becomes self-conscious and retreats into her 'little bubble' of mathematics, avoiding direct confrontation of her emotions."
+}

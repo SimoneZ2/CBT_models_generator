@@ -1,0 +1,84 @@
+Using description: HISTORY:
+- History of long work hours in demanding work environments, including past touring work.
+- Unresolved issues with father, including reports of past abuse.
+- Recent exchange of letters with father addressing this history.
+
+SITUATION:
+- Reflecting on how to use idle time and focus on personal development. with ID=7-2
+Top results (by metadata similarity):
+  - sim=0.634 | title='Patient "J" Session September 18, 2012: Client is adjusting to life as a new mot' | file='1004798901.txt'
+  - sim=0.621 | title='Verilogue session: Client needs help making some life decisions' | file='1002565909.txt'
+  - sim=0.614 | title='Patient "D" Session April 02, 2012: Client is upset with her biological father's' | file='1004532480.txt'
+  - sim=0.608 | title='Patient "M" Therapy Session Audio Recording, January 9, 2012: Client has noticed' | file='1004472421.txt'
+  - sim=0.606 | title='Patient "S" Session September 18, 2012: Client has been feeling extremely overwh' | file='1004798935.txt'
+  - sim=0.606 | title='Patient "Ma", Session October 15, 2012: Client desperately wants to know what's ' | file='1004798871.txt'
+  - sim=0.605 | title='Patient "J" Session September 11, 2012: Client has been working hard on adjustin' | file='1004798899.txt'
+  - sim=0.597 | title='Five Approaches to Linda: Session One, Cognitive-Affective Behavior Therapy' | file='1000699476.txt'
+  - sim=0.589 | title='Patient "D" Session April 30, 2012: Client is angry, anxious and frustrated. Her' | file='1004565033.txt'
+  - sim=0.588 | title='Session 14: Client feels left out by his son.  He expresses his anger at his emp' | file='1000013338.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=1 partial_match=9
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=1
+  - sim=0.588 | file='1000013338.txt' | title='Session 14: Client feels left out by his son.  He expresses his anger at his emp'
+Using top selected file for transcript: '1000013338.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of working long hours in demanding environments, including past touring work. There are unresolved issues with the patient's father, including reports of past abuse. Recently, the patient has exchanged letters with their father addressing this history. The patient is currently reflecting on how to use idle time and focus on personal development.
+
+**Emotional Impact:**
+The patient's history of long work hours in demanding environments likely contributes to feelings of stress and exhaustion. This may manifest as a sense of being overwhelmed or burnt out, particularly when faced with idle time. The unresolved issues with the father, especially the reported past abuse, likely evoke complex emotions such as anger, hurt, and possibly a lingering sense of betrayal or mistrust. The recent exchange of letters with the father may have stirred these emotions further, potentially leading to a mix of hope for resolution and anxiety about reopening old wounds.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive patterns characterized by rumination and self-criticism, particularly in relation to their work and personal relationships. The demanding work history suggests a possible tendency towards perfectionism or a high need for achievement, which could lead to self-imposed pressure and difficulty in relaxing or enjoying leisure time. The unresolved paternal issues might contribute to negative core beliefs about self-worth or trust in relationships, potentially leading to cognitive distortions such as overgeneralization or personalization.
+
+**Behavioral Responses:**
+In response to stress and unresolved emotional issues, the patient might engage in behaviors such as avoidance or withdrawal, particularly when faced with idle time. This could manifest as procrastination or difficulty initiating personal development activities. The patient might also seek reassurance or validation from others, especially in the context of unresolved familial relationships. The recent letter exchange with the father could lead to behaviors aimed at reconciliation or, conversely, avoidance of further contact to protect oneself from potential emotional harm.
+
+**Coping Styles:**
+The patient may rely on work as a primary coping mechanism, using it as a distraction from personal issues or as a means to achieve a sense of control and accomplishment. However, this coping style might be maladaptive in the long term, as it could prevent the patient from addressing underlying emotional issues. The reflection on personal development indicates a potential shift towards more adaptive coping strategies, such as engaging in self-reflection or seeking therapeutic support to process unresolved emotions.
+
+**Psychological Interpretation:**
+The patient's history and current situation suggest a complex interplay of emotional, cognitive, and behavioral factors. The demanding work environment may have reinforced a pattern of overwork and self-neglect, while unresolved paternal issues contribute to emotional distress and cognitive distortions. The recent letter exchange with the father could serve as a catalyst for emotional processing and potential reconciliation, but it also poses a risk of re-traumatization if not navigated carefully. The patient's focus on personal development indicates a readiness to explore new coping strategies and address underlying issues, which could lead to more adaptive emotional and behavioral patterns.
+
+**Conclusion:**
+The patient is at a critical juncture, with the potential to transform idle time into an opportunity for personal growth and healing. By addressing unresolved emotional issues and exploring new coping strategies, the patient can work towards a more balanced and fulfilling life. Therapeutic support, particularly through Cognitive Behavioral Therapy, could be beneficial in helping the patient identify and challenge cognitive distortions, develop healthier coping mechanisms, and navigate complex emotional landscapes related to familial relationships.
+Summary da mistral_.csv: The patient discussed their current stressors, including a stoppage of insurance payments for medical treatments and a strained relationship with their son. They shared an experience of reconnecting with their son during the holidays and their plans to help him find a jacket. The patient also mentioned their ongoing health concerns, specifically gastrointestinal issues and back pain. They described feeling upset with Macy's Claim Services for not paying for their treatments and their intention to take time off work to deal with the situation. The patient expressed anger towards Macy's and considered withholding their services as a form of retaliation, acknowledging the potential financial consequences.
+The patient discussed their feelings of mistrusting their judgment in a current situation and how it reminded them of past self-destructive behaviors. They mentioned feeling angry towards a large entity, Macy's, and considering not showing up to work, which could potentially lead to being fired. The patient acknowledged a history of self-destructive tendencies and a desire for good things, including job satisfaction and sales success, which they would also lose if they didn't go to work. They also mentioned a need for time off to handle personal matters, but recognized the potential negative consequences of not showing up to work. The counselor acknowledged the complexity of the patient's situation and encouraged exploring judgment and feelings further.
+The patient discussed their need for perfection and the importance of taking time off work to write letters and complete projects. They explained that this need for perfection is not just about the end product, but also about the process and the impact on others. The counselor expressed concern about the patient's tendency to spend excessive time on these projects and the potential for self-sabotage. The patient acknowledged the desire for revenge and ego satisfaction in the process, but also expressed uncertainty about how to give up this pattern.
+The counselor expressed concern about the patient's reluctance to change despite experiencing physical and emotional suffering. The patient acknowledged wanting to change theoretically but was unsure about what specifically they wanted to alter. They discussed their perfectionist tendencies and the potential connection between perfectionism and self-destructive behaviors. The counselor suggested exploring other options and encouraged the patient to consider that there might be more choices available than they currently believed.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of working long hours in demanding environments, including touring work, which may have served as a distraction from personal issues. There are unresolved issues with the client's father, including past abuse, which have recently been revisited through an exchange of letters. This history suggests a background of emotional distress, self-criticism, and difficulty relaxing or engaging in self-care, likely shaped by both work demands and familial conflict.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I am not constantly productive or achieving, then I am failing and others will see me as weak or inadequate. If I let myself reflect or slow down, painful emotions and memories will overwhelm me. I must keep busy to avoid feeling worthless or unloved.",
+  "intermediate_belief_depression": "If I stop working or striving, I will be left alone with my pain and nothing will ever improve. No matter what I do, I can't escape feeling empty or unworthy.",
+  "coping_strategies": [
+    "The client tends to use work and busyness as a way to distract from emotional pain and unresolved issues, particularly those related to their father. When faced with idle time, they may withdraw, procrastinate, or avoid engaging in personal development activities, leading to further rumination and self-criticism."
+  ],
+  "situation": "Reflecting on how to use idle time and focus on personal development.",
+  "auto_thought": "If I don't use this time to improve myself, I'm just wasting my life. I should be doing something productive or else I'm failing.",
+  "emotion": [
+    "anxious",
+    "guilty",
+    "ashamed",
+    "overwhelmed",
+    "self-critical"
+  ],
+  "behavior": "I avoid starting personal development activities and end up procrastinating. I ruminate about what I 'should' be doing instead of taking action. Sometimes I withdraw or distract myself with minor tasks to avoid uncomfortable feelings."
+}

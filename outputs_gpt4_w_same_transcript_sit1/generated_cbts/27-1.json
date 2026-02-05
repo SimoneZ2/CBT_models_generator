@@ -1,0 +1,27 @@
+{
+  "name": "Jane Doe",
+  "id": "12345",
+  "type": [
+    "CBT"
+  ],
+  "history": "Recent divorce and financial difficulties. Relationship since age 19. Has a young son and is settling child support issues. Adjusting to being alone and handling new experiences (e.g., traveling alone with her son, visiting family without a partner).",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must maintain relationships at all costs to avoid being alone.",
+  "intermediate_belief_depression": "If I am not included or wanted, it means I am not worthy.",
+  "coping_strategies": "Seeks validation and advice from others to avoid making decisions alone.",
+  "situation": "Received an email from the ex-partner refusing to agree on child support and financial arrangements.",
+  "auto_thought": "I can't handle this alone; I'm going to be left without support.",
+  "emotion": [
+    "Anxiety",
+    "Sadness",
+    "Frustration"
+  ],
+  "behavior": "Seeks reassurance from others and avoids confrontation."
+}

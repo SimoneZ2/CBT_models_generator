@@ -1,0 +1,26 @@
+{
+  "name": "Alex",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recently completed an undergraduate degree and is entering the workforce. Came out to parents within the last two and a half years and received negative reactions. Became more distant from parents afterward. Moved to New York for education and explored identity away from family influence. Strained relationship with mother, described as focused on practical concerns rather than emotional support. Tension with sister described as envious of the patient's independence and achievements.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to manage my parents' emotions to maintain peace.",
+  "intermediate_belief_depression": "If I can't make my parents happy, I am failing.",
+  "coping_strategies": "Avoids sharing personal information with family to prevent conflict.",
+  "situation": "Deciding whether to disclose a recent breakup to parents.",
+  "auto_thought": "If I tell them about the breakup, they'll just judge me.",
+  "emotion": [
+    "Anxiety",
+    "Fear"
+  ],
+  "behavior": "Avoids the topic and keeps interactions with family superficial."
+}

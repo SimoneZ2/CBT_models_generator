@@ -1,0 +1,27 @@
+{
+  "name": "Patient Case 1",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Death of a close aunt whom the patient considered a mother figure. The patient did not fulfill the aunt's last request and was not present at the time of death. Pattern of prioritizing others' needs over their own.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet others' expectations, I will be rejected.",
+  "intermediate_belief_depression": "I failed to be there for someone important, so I am not good enough.",
+  "coping_strategies": "Avoids thinking about personal needs and focuses on others to gain acceptance.",
+  "situation": "Reflecting on memories involving the aunt and the unfulfilled request.",
+  "auto_thought": "I should have been there; I failed her.",
+  "emotion": [
+    "guilt",
+    "sadness"
+  ],
+  "behavior": "Ruminates on past events and neglects self-care."
+}

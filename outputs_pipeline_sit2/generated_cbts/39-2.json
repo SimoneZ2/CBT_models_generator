@@ -1,0 +1,47 @@
+{
+  "name": "CBT Conceptualization for Client Concerned About Regression",
+  "id": "39-2",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client has a longstanding pattern of experiencing physical symptoms like stomachaches in response to anxiety and stress. There is a background of struggling with weight management, sexuality, and academic performance, which may have contributed to self-criticism or shame. The client describes a significant positive transformation during college, suggesting a period of increased confidence or relief. However, there is an ongoing need to maintain control in relationships, possibly as a way to manage anxiety about uncertainty or instability.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't stay vigilant and in control, I could lose everything I've worked for and end up unhappy again. I must always be on guard to prevent slipping back into my old self. If things start to go wrong, it means I am failing and I need to try harder to keep everything together.",
+  "intermediate_belief_depression": "If I can't maintain the positive changes in my life, it means all my efforts were pointless and I will never truly be happy. No matter what I do, I might end up back where I started, so what's the point in trying?",
+  "coping_strategies": "The client tends to seek control in relationships and other areas of life, possibly through meticulous planning or over-preparation. They may avoid situations that trigger anxiety or stress, and sometimes overcommit to activities or relationships to prevent feeling out of control. These strategies may provide temporary relief but maintain the cycle of anxiety and fear of regression.",
+  "situation": "Concern about losing positive aspects of life or returning to a previous unhappy state.",
+  "auto_thought": "If I lose what I've gained, I'll end up miserable like before. I can't let myself slip back or everything will fall apart.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "insecure",
+    "fearful",
+    "overwhelmed"
+  ],
+  "behavior": "I double-check everything I do and try to control situations and people around me. I avoid anything that feels risky or uncertain. Sometimes I push myself to take on more than I can handle to make sure I don't lose progress.",
+  "rationale": "\"The patient's recurrent stomachaches and physical symptoms suggest a high level of anxiety and stress.\" \"The fear of losing this progress could result in feelings of anxiety and insecurity.\" \"The patient may engage in catastrophic thinking, fearing a return to a previous unhappy state.\" \"The need for control in relationships suggests a cognitive pattern of seeking stability and predictability, possibly as a defense against the anxiety of uncertainty.\" \"The fear of reverting to an unhappy state could drive the patient to overcommit to activities or relationships, potentially leading to burnout or further stress.\"",
+  "core_belief_predictions": {
+    "source_id": "39-2",
+    "major_pred_set": [
+      "helpless"
+    ],
+    "fine_pred_set": [
+      "I am a failure, loser",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Patient 5",
+  "id": "5",
+  "type": [
+    "project abandonment",
+    "family conflict"
+  ],
+  "history": "Recurrent pattern of starting new ideas and abandoning projects. Family difficulty involving father; wrote forgiveness letter.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I never finish anything because I'm not capable of seeing things through.",
+  "intermediate_belief_depression": "I'm fundamentally flawed in my ability to commit and complete tasks.",
+  "coping_strategies": [
+    "Starting new projects as distraction, abandoning when challenges arise."
+  ],
+  "situation": "Working on a personal project involving website development.",
+  "auto_thought": "I'll probably give up on this like everything else.",
+  "emotion": [
+    "self-doubt",
+    "frustration",
+    "resignation"
+  ],
+  "behavior": "Work on website project with anticipation of eventual abandonment."
+}

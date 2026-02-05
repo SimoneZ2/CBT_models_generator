@@ -1,0 +1,29 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recent divorce. Financial struggles and adjustment to single life. Co-parenting. Multiple friendships deteriorated after the divorce. Complicated relationship with parents.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must handle everything on my own or I will fail.",
+  "intermediate_belief_depression": "I am not capable of managing my life successfully.",
+  "coping_strategies": "Avoidance of financial responsibilities, withdrawal from social interactions.",
+  "situation": "Managing financial hardship following the divorce, including handling financial paperwork.",
+  "auto_thought": "I can't manage this on my own.",
+  "emotion": [
+    "Anxiety",
+    "Sadness",
+    "Overwhelm"
+  ],
+  "behavior": "Procrastination in dealing with financial matters, isolation from friends and family."
+}

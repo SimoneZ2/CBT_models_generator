@@ -1,0 +1,29 @@
+{
+  "history": "The client has a pattern of forming close relationships with friends who are experiencing significant stressors. This includes friends facing academic pressures, parenting challenges (such as raising an autistic child), and housing instability. The client tends to internalize their friends' problems and feels a strong sense of responsibility to support them, sometimes at the expense of their own emotional needs.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If someone I care about is struggling, I must step in and help, or else I am failing as a friend. My value in relationships comes from being supportive, even if it is overwhelming. If I don't do enough, I am letting them down.",
+  "intermediate_belief_depression": "If I can't make things better for my friends, it means I'm not good enough and nothing I do really helps. My efforts don't matter, and I might as well give up trying to support them.",
+  "coping_strategies": [
+    "The client often prioritizes their friends' needs over their own, sometimes neglecting self-care. They may visit friends or offer support as a way to manage their own anxiety about the situation, but may also withdraw or ruminate when feeling overwhelmed. There is a tendency to avoid addressing their own emotional needs by focusing on others."
+  ],
+  "situation": "Considering visiting a friend managing parenting demands and housing instability.",
+  "auto_thought": "If I don't go see them, they'll feel abandoned and things might get even worse. It's up to me to help them right now.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "overwhelmed",
+    "guilty",
+    "responsible"
+  ],
+  "behavior": "Plans to visit the friend despite feeling stressed. Focuses on the friend's needs and offers support, possibly neglecting their own emotional state.",
+  "source_text_id": "1000056553.txt"
+}

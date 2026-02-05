@@ -1,0 +1,88 @@
+Using description: HISTORY:
+- Recent deaths in the family: an uncle and a cousin.
+- Ongoing concern about parents' health.
+- Father's health conditions include uncontrolled diabetes, high blood pressure, kidney problems, and high cholesterol.
+- Tension with father related to emotional distance and lack of transparency about health issues.
+
+SITUATION:
+- Received a phone call from the mother about the father's health issues.
+- Watched TV afterward. with ID=31-1
+Top results (by metadata similarity):
+  - sim=0.644 | title='Verilogue session: Client is experiencing loneliness and depression. She has bee' | file='1001084031.txt'
+  - sim=0.639 | title='Verilogue session: Client discusses problems with ailing, elderly family members' | file='1001084018.txt'
+  - sim=0.628 | title='Verilogue session: Client's mood has been down and depressed' | file='1003009224.txt'
+  - sim=0.619 | title='Patient "Ju", Session November 05, 2012: Client talks about her relationship wit' | file='1004824677.txt'
+  - sim=0.618 | title='Session 405: Client feels the conflict between her husband and her parents' | file='1000393773.txt'
+  - sim=0.618 | title='Verilogue session: Client has been doing well in school. She plans on taking the' | file='1003075056.txt'
+  - sim=0.613 | title='Verilogue session: Client talks about money problems and her job' | file='1002565853.txt'
+  - sim=0.611 | title='Verilogue session: Client has been struggling with increased anxiety; his depres' | file='1003075050.txt'
+  - sim=0.608 | title='Verilogue session: Client has been experiencing severe anxiety' | file='1002565962.txt'
+  - sim=0.605 | title='Session 16: Client discusses her problems sleeping. She talks about being more a' | file='1000122009.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.644 | file='1001084031.txt' | title='Verilogue session: Client is experiencing loneliness and depression. She has bee'
+  - sim=0.639 | file='1001084018.txt' | title='Verilogue session: Client discusses problems with ailing, elderly family members'
+  - sim=0.628 | file='1003009224.txt' | title='Verilogue session: Client's mood has been down and depressed'
+Using top selected file for transcript: '1001084031.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+
+The patient has recently experienced the deaths of an uncle and a cousin, which may contribute to feelings of grief and loss. Additionally, there is ongoing concern about the health of the patient's parents, particularly the father, who has multiple health issues including uncontrolled diabetes, high blood pressure, kidney problems, and high cholesterol. The patient experiences tension with the father due to emotional distance and a lack of transparency regarding his health issues. A recent phone call from the patient's mother about the father's health issues was followed by the patient watching TV.
+
+**Emotional Impact:**
+
+The recent deaths in the family likely evoke feelings of sadness, grief, and possibly anxiety about the patient's own family dynamics and future. The ongoing concern for the parents' health, especially the father's, may lead to persistent worry and fear about potential loss or deterioration of their condition. The tension with the father, characterized by emotional distance and lack of transparency, might contribute to feelings of frustration, helplessness, and possibly resentment. These emotions could be compounded by a sense of responsibility or guilt for not being able to improve the situation.
+
+**Cognitive Patterns:**
+
+The patient may engage in ruminative thinking, particularly about the health of the parents and the recent family losses. This could manifest as persistent worry about the father's health and the potential for further loss. The emotional distance from the father might lead to cognitive distortions such as "all-or-nothing" thinking or personalization, where the patient might feel personally responsible for the lack of communication or transparency. The patient's cognitive focus might also be on the perceived inability to change or influence the father's health outcomes, leading to feelings of helplessness.
+
+**Behavioral Responses:**
+
+In response to the phone call about the father's health issues, the patient chose to watch TV, which might indicate a coping mechanism of distraction or avoidance to manage overwhelming emotions. This behavior could serve as a temporary escape from distressing thoughts and feelings. The patient might also withdraw from engaging in conversations about the father's health to avoid conflict or emotional discomfort. The tension with the father might lead to avoidance of direct communication, further perpetuating the emotional distance.
+
+**Coping Styles:**
+
+The patient may rely on avoidance and distraction as primary coping strategies to manage distressing emotions related to family health concerns and recent losses. This is evidenced by the choice to watch TV following the distressing phone call. The patient might also exhibit a tendency to internalize emotions, as suggested by the tension with the father and the lack of open communication about health issues. This internalization could lead to increased emotional burden and stress.
+
+**Conclusion:**
+
+The patient's recent experiences of family loss and ongoing concern for parental health are likely contributing to significant emotional distress. The tension with the father and the associated emotional distance may exacerbate feelings of helplessness and frustration. The patient's coping strategies, including avoidance and distraction, may provide temporary relief but could also prevent effective emotional processing and resolution. Cognitive Behavioral Therapy (CBT) could be beneficial in addressing these cognitive patterns and developing healthier coping mechanisms, such as assertive communication and emotional regulation skills.
+Summary da mistral_.csv: The patient described a recent incident where they witnessed their niece's mother physically abusing her son, leading to the patient feeling sad, depressed, and afraid. They also discussed their breast cancer surgery and the resulting pain, their decision not to undergo reconstruction, and their dissatisfaction with their living situation and lack of excitement in their life. The patient expressed a desire to help troubled children and volunteer, but had faced challenges in the past when trying to do so. They also mentioned a relapse and a change in work schedule that led to conflict with a child they were caring for.
+The patient discussed an emotional encounter with their child and subsequent relapse, leading to tears during a check-in with their supervisor. The doctor acknowledged the draining experience and prescribed a stronger medication, encouraging the patient to focus on regaining strength and addressing their responsibilities. The doctor also suggested the patient prioritize self-care and boosting others when ready. The patient expressed gratitude for the conversation and asked no questions.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has recently experienced the deaths of an uncle and a cousin, which likely contributes to ongoing grief and heightened sensitivity to family health issues. There is a persistent concern about the parents' health, especially the father's, who has multiple chronic conditions. The client reports tension with the father, characterized by emotional distance and a lack of transparency about health matters. These dynamics may foster feelings of helplessness, frustration, and a sense of responsibility or guilt for not being able to improve the situation.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not able to help or fix my father's health problems, then I am failing as a family member and I am powerless to make a difference. If I don't know everything about his condition, I can't protect him, and that means I am not doing enough. If I avoid talking about it, maybe I can avoid feeling overwhelmed or responsible.",
+  "intermediate_belief_depression": "If I can't do anything to help or change my father's situation, then nothing I do matters and things will only get worse. If I keep my distance, I'll just end up feeling more alone and hopeless.",
+  "coping_strategies": [
+    "The client tends to use avoidance and distraction, such as watching TV, to escape overwhelming emotions after distressing news about family health. There is also a pattern of withdrawing from direct communication about the father's health, likely to avoid conflict or emotional discomfort. These strategies provide temporary relief but maintain emotional distance and prevent effective processing."
+  ],
+  "situation": "Received a phone call from the mother about the father's health issues. Watched TV afterward.",
+  "auto_thought": "Something bad is going to happen to my father and I can't do anything about it. I just want to stop thinking about this right now.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "helpless",
+    "sad",
+    "overwhelmed",
+    "frustrated"
+  ],
+  "behavior": "Turned on the TV and focused on watching it to distract myself. Avoided talking further about my father's health. Withdrew from engaging with family members."
+}

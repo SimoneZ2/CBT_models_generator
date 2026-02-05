@@ -1,0 +1,75 @@
+Using description: HISTORY:
+- History of self-critical tendencies.
+- Used to maintaining control and achieving goals.
+- Current challenges involve job seeking, personal relationships, and family dynamics.
+
+SITUATION:
+- Experiencing difficulties with job searching.
+- Dealing with ongoing relationship and family conflicts involving a person named Ivan. with ID=28-1
+Sample results (metadata similarity):
+  - sim=0.155 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+  - sim=0.181 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.190 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.232 | title='Verilogue session: Client has been seeing this physician for multiple years but ' | file='1001083964.txt'
+  - sim=0.239 | title='Patient "M", Session February 21, 2012: Client is experiencing grief over the re' | file='1004503134.txt'
+  - sim=0.239 | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c' | file='1001114245.txt'
+  - sim=0.241 | title='Patient "K" Session October 12, 2012: Client recently attended a DBT group works' | file='1004798903.txt'
+  - sim=0.243 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+  - sim=0.245 | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de' | file='1001084060.txt'
+  - sim=0.248 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.155 | file='1002565918.txt' | title='Verilogue session: Client is having problems falling asleep'
+  - sim=0.181 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.190 | file='1003075028.txt' | title='Verilogue session: Client is having problems concentrating; she wonders if it is'
+Using LEAST related file for transcript: '1002565918.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a young adult with a history of self-critical tendencies, is currently navigating the challenges of job searching, personal relationships, and family dynamics, particularly involving a person named Ivan. During the session, the client presents as someone who is used to maintaining control and achieving goals, yet is experiencing difficulties in these areas. The client reports doing "pretty good" academically, with midterm grades mostly consisting of A's and one B, which, despite being a good grade, "really stressed" them out. This reaction highlights the client's perfectionistic tendencies and the pressure they place on themselves to achieve high standards.
+
+Throughout the session, the client discusses their struggles with focus and concentration, particularly in class, where they find it "really hard" to pay attention. They describe a pattern of getting absorbed in tasks like reading textbooks, where they can "get into it" and not get sidetracked, but in class, they often "space out" and have to "catch up." This difficulty with sustained attention appears to be a significant source of frustration, as the client finds it "extremely" challenging to keep up with the pace of lectures.
+
+The client's social interactions are limited, as they report not having "very many, any friends" in their current location. They avoid social situations, sitting "in the very back of the class" to leave quickly and avoid the discomfort of being around others. This avoidance behavior is consistent with their reported anxiety in social settings, where they feel "more anxious" around both strangers and friends. The client acknowledges that they "used to skip class" due to anxiety, indicating a pattern of avoidance that impacts their academic engagement.
+
+In terms of coping strategies, the client engages in regular physical activity, biking "an hour a day" and lifting weights "every other day," which may serve as a positive outlet for stress. However, they also use substances like marijuana "2 or 3 times a week" to relax, though they note it can make them "a little more anxious" at times. The client is cautious about medication, expressing concern that treatments for ADD and anxiety "can exasperate each other," yet they are open to trying Strattera to help with focus, provided it doesn't worsen their anxiety.
+
+The client's relationship with their family, particularly their mother, seems supportive, as she "just wanted" to check in on them, which the client perceives as a "routine thing." However, the ongoing conflicts involving Ivan are not explicitly discussed in the session, suggesting potential avoidance or discomfort in addressing these issues directly.
+
+Overall, the client's narrative reveals a complex interplay of high self-expectations, anxiety, and avoidance behaviors, impacting their academic performance, social interactions, and emotional well-being. The session highlights the need for strategies to manage perfectionism, improve focus, and address social anxiety, potentially through a combination of therapeutic interventions and medication management.
+Summary da mistral_.csv: The patient reported getting mostly A's and one B in their midterms, with the lowest grade being an 80. They are carrying 20 credits and have spoken with their mother, who was not overly concerned. The patient mentioned having trouble getting to sleep but not staying asleep, and they are working out regularly. They mentioned difficulty focusing in class and using coffee to help, but not every day. They described feeling anxious and worrying a lot, particularly about social and academic matters. The patient's major is math.
+The patient discussed their academic performance, revealing they had a low GPA in high school but managed to maintain a 3.6 GPA in college despite missing two weeks of classes during their second semester. They mentioned struggling to focus in class and having difficulty making friends. The patient reported feeling anxious in social situations, particularly around strangers, and mentioned avoiding classes that required public speaking. They did not express any suicidal thoughts and mentioned smoking pot a few times a week with their roommate, who is undeclared and with whom they have a good relationship. The patient did not drink alcohol or use other drugs. They reported that pot made them more anxious mentally but relaxed physically. They had not experienced panic attacks after smoking pot.
+The patient discussed their avoidance of drug use, specifically meth and cocaine, and their current lack of desire to use these substances. They mentioned the presence of a business district near their school, known as "the hill," where some students reportedly obtain drugs. The doctor asked about the patient's feelings towards medication for their attention deficit disorder (ADD) and anxiety. The patient expressed concern about the potential interaction between the medications for ADD and anxiety, as they have heard that treatments for the two conditions can exacerbate each other. The doctor discussed various medication options for ADD, including Strattera and Wellbutrin, and offered the patient samples to try. The patient inquired about Wellbutrin, which is an antidepressant also used off-label for ADD.
+The doctor discussed medication dosage options with the patient, suggesting starting with the lowest dose and gradually increasing if necessary, with regular follow-up appointments. The doctor provided instructions on how to adjust dosages and obtain prescriptions, and discussed potential side effects and emergency contact information. The patient expressed frustration with attention span issues in class and agreed to a follow-up appointment in 4 weeks.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of self-critical tendencies and is used to maintaining control and achieving goals. They are currently facing challenges in job searching, personal relationships, and family dynamics, particularly involving a person named Ivan. The client experiences perfectionistic tendencies, as evidenced by their stress over receiving a B grade despite having mostly A's. They also struggle with focus and concentration, particularly in class, and have limited social interactions due to anxiety.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't achieve high standards, then I am a failure. If I can't maintain control, then I am inadequate.",
+  "intermediate_belief_depression": "If I can't meet my own expectations, then I am hopeless and will never succeed.",
+  "coping_strategies": [
+    "The client engages in regular physical activity, such as biking and lifting weights, which serves as a positive outlet for stress. However, they also use marijuana a few times a week to relax, despite it sometimes increasing their anxiety. They avoid social situations and have expressed caution about medication due to concerns about exacerbating their anxiety."
+  ],
+  "situation": "Experiencing difficulties with job searching. Dealing with ongoing relationship and family conflicts involving a person named Ivan.",
+  "auto_thought": "I can't find a job, and I'm failing in my relationships. I'm never going to succeed.",
+  "emotion": [
+    "anxious",
+    "stressed",
+    "frustrated",
+    "overwhelmed"
+  ],
+  "behavior": "The client avoids addressing conflicts directly, particularly those involving Ivan. They may also avoid social interactions and focus on physical activities to manage stress."
+}

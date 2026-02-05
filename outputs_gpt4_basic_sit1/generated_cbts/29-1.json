@@ -1,0 +1,25 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "Strong identification with a research lab workplace and a sense of camaraderie from interactions and accomplishments. A close coworker left, which had emotional significance for the patient. The lab contrasts with the patient's personal life, described as less predictable and comfortable.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to maintain strong connections at work to feel secure.",
+  "intermediate_belief_depression": "Without my coworker, I might not be able to handle challenges effectively.",
+  "coping_strategies": "Focus on work tasks and accomplishments to avoid feelings of loneliness and vulnerability.",
+  "situation": "Preparing for an important discussion scheduled in January. Preparing for a lab meeting involving troubleshooting equipment and learning programming.",
+  "auto_thought": "I might not be able to handle the lab meeting without my coworker's support.",
+  "emotion": [
+    "Anxiety",
+    "Insecurity"
+  ],
+  "behavior": "Over-preparing for the lab meeting and discussion to compensate for feelings of inadequacy."
+}

@@ -1,0 +1,82 @@
+Using description: HISTORY:
+- Complex romantic relationship with Cleo.
+- Cleo is in a long-distance relationship while also seeing the patient.
+
+SITUATION:
+- During an outing, Cleo discussed relationship problems and sought emotional support. with ID=33-1
+Top results (by metadata similarity):
+  - sim=0.732 | title='Verilogue session: Client's mood has been down and depressed' | file='1003009224.txt'
+  - sim=0.731 | title='Session 17: Client is having difficulty in her relationship with her boyfriend. ' | file='1000013305.txt'
+  - sim=0.730 | title='Session 20: Client does not find his relationship with his girlfriend to be sati' | file='1000133876.txt'
+  - sim=0.729 | title='Session 12: Client explains how dependent she realizes she is on her husband.  S' | file='1000088112.txt'
+  - sim=0.725 | title='Verilogue session: Client talks about his relationship with his daughters' | file='1003009239.txt'
+  - sim=0.723 | title='Session 29: Client still having problems with her best friend's lover.  She tell' | file='1000013362.txt'
+  - sim=0.722 | title='Session 2: Client is afraid that she may lose her best friend to her lover' | file='1000122292.txt'
+  - sim=0.710 | title='Verilogue session: Client is considering a medication increase due to the stress' | file='1002565896.txt'
+  - sim=0.709 | title='Session 19: Client is disgusted with his relationship with his girlfriend. He is' | file='1000061048.txt'
+  - sim=0.708 | title='Session 19: Client is frustrated and angry with her roommate' | file='1000017886.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=3 partial_match=7
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.730 | file='1000133876.txt' | title='Session 20: Client does not find his relationship with his girlfriend to be sati'
+  - sim=0.725 | file='1003009239.txt' | title='Verilogue session: Client talks about his relationship with his daughters'
+  - sim=0.709 | file='1000061048.txt' | title='Session 19: Client is disgusted with his relationship with his girlfriend. He is'
+Using top selected file for transcript: '1000133876.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is involved in a complex romantic relationship with Cleo, who is simultaneously in a long-distance relationship. During a recent outing, Cleo discussed relationship problems and sought emotional support from the patient.
+
+**Cognitive Patterns:**
+The patient may experience cognitive dissonance due to the dual nature of Cleo's relationships. This situation could lead to thoughts of uncertainty and confusion about their role and significance in Cleo's life. The patient might engage in rumination, questioning their value and the future of the relationship. Such cognitive patterns can be supported by the transcript's portrayal of individuals in similar situations feeling bewildered and unsure about their relationships.
+
+**Emotional Reactions:**
+The patient is likely to experience a range of emotions, including feeling anxious and insecure about their relationship with Cleo. The complexity of the relationship may evoke feelings of jealousy, inadequacy, and fear of abandonment. The transcript provides a reference for how individuals in similar situations might feel upset and overwhelmed by relational dynamics, which can lead to emotional distress.
+
+**Behavioral Responses:**
+In response to these cognitive and emotional challenges, the patient might engage in behaviors such as seeking reassurance from Cleo, withdrawing emotionally, or avoiding confrontation to maintain harmony. The transcript suggests that individuals in similar situations might feel compelled to distance themselves or express frustration indirectly, which could manifest in the patient's interactions with Cleo.
+
+**Coping Styles:**
+The patient may cope by attempting to provide emotional support to Cleo, despite their own emotional turmoil. This behavior might stem from a desire to maintain the relationship and avoid conflict. The transcript indicates that individuals in similar situations might struggle with asserting their needs, leading to a pattern of accommodating others at the expense of their own well-being.
+
+**Conclusion:**
+The patient's involvement in a complex romantic relationship with Cleo presents significant cognitive, emotional, and behavioral challenges. The dual nature of Cleo's relationships likely contributes to the patient's feelings of insecurity and confusion. By exploring these patterns through a CBT framework, the patient can work towards developing healthier cognitive and emotional responses, as well as more adaptive coping strategies. The transcript serves as a psychological reference, illustrating how similar relational dynamics can impact individuals' inner experiences.
+Summary da mistral_.csv: The patient expresses feelings of confusion and frustration towards their partner, Tanya, following a weekend where Tanya fell asleep during their conversation and was insistent on making love despite the patient's lack of desire. The patient felt disrespected by Tanya's behavior and her insistence on paying for their trip to California unevenly. The patient felt overwhelmed by Tanya's demands and expressed a desire to be alone. Tanya's gynecologist had advised her that she had a high sexual appetite, which the patient was unaware of, leading to feelings of incompatibility.
+The patient expresses feeling overwhelmed by the thought of the patient's girlfriend going to Spain and returning, leading to a conversation where the patient tried to end the relationship graciously. The patient felt the girlfriend was being arrogant and demanding, and the patient felt suffocated in the relationship. The patient considered ending the relationship but was unsure how to do so without hurting the girlfriend's feelings. The patient also discussed past issues of feeling annoyed by the girlfriend when they were just friends and how her behavior had changed since they became romantic. The patient felt the relationship had become a source of stress and pressure, and they wanted to maintain their independence. The patient considered telling the girlfriend they were not in love and ending the relationship but was unsure if they should let things ride and see what happened upon her return.
+The patient expresses feelings of dependence on a relationship and difficulty in moving on, using the example of his sister's past experience. He questions whether he is truly in love with his current partner and wonders if a cooling off period might be beneficial. The patient expresses uncertainty about his feelings and lack of comparison for evaluation. The counselor acknowledges the complexity of emotions and the importance of self-understanding. The patient mentions upcoming tests and plans to face the situation, expressing a desire to understand his partner's thoughts and feelings.
+
+ REFINED CCD: description + report
+{
+  "history": "The patient has a history of involvement in a complex romantic relationship with Cleo, who is also in a long-distance relationship with someone else. This dual relationship dynamic has led the patient to experience ongoing uncertainty about their role and significance in Cleo's life. The patient often finds themselves providing emotional support to Cleo, even when feeling conflicted or insecure. There is evidence of rumination and difficulty asserting personal needs, as the patient tends to accommodate Cleo to maintain the relationship.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't provide emotional support and keep Cleo happy, she might distance herself or choose someone else over me. I need to be there for her, even if it makes me uncomfortable, because otherwise I could lose her. My value in this relationship depends on how much I can help and support her.",
+  "intermediate_belief_depression": "No matter what I do, it won't be enough for Cleo to truly want to be with me, so there's no point in trying to express my own needs or feelings.",
+  "coping_strategies": [
+    "The patient tends to suppress their own feelings and needs in order to provide support to Cleo. They avoid confrontation and withdraw emotionally when feeling insecure, sometimes seeking subtle reassurance instead of direct communication. This pattern maintains their distress and prevents resolution of underlying issues."
+  ],
+  "situation": "During an outing, Cleo discussed relationship problems and sought emotional support.",
+  "auto_thought": "I'm just the backup for Cleo—she doesn't really want to be with me. If I don't help her now, she'll pull away and I'll lose her.",
+  "emotion": [
+    "anxious",
+    "insecure",
+    "jealous",
+    "overwhelmed",
+    "sad"
+  ],
+  "behavior": "I listen to Cleo and try to comfort her, even though I feel upset inside. I avoid bringing up my own feelings or questions about our relationship. I act supportive and hide my discomfort."
+}

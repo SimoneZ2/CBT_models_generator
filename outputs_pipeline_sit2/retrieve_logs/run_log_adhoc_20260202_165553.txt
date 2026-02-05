@@ -1,0 +1,76 @@
+Using description: HISTORY:
+- Works in an educational setting with children who have learning disabilities.
+- Describes being pampered by parents and having minimal consequences earlier in life.
+- Ongoing conflicts with authority figures.
+
+SITUATION:
+- Proposed a new teaching method that was rejected by school leadership.
+- Does not confront leadership directly about the decision. with ID=25-2
+Sample results (metadata similarity):
+  - sim=0.017 | title='Verilogue session: Client's insomnia seems to be causing mood swings' | file='1001280398.txt'
+  - sim=0.023 | title='Verilogue session: Client's depression and anxiety have been severe recently' | file='1002565958.txt'
+  - sim=0.044 | title='Verilogue session: Client notices an improvement more so in his behavior rather ' | file='1003075059.txt'
+  - sim=0.059 | title='Verilogue session: Client appears to be in a manic upswing and is very anxious a' | file='1001083971.txt'
+  - sim=0.064 | title='Verilogue session: Client is having problems staying asleep; she spends too much' | file='1003075017.txt'
+  - sim=0.066 | title='Verilogue session: Client is overwhelming herself by worrying about her children' | file='1001083962.txt'
+  - sim=0.073 | title='Session 5: The SAEB System In the Treatment of Panic Disorder' | file='1000341225.txt'
+  - sim=0.075 | title='Verilogue session: Client is suffering from depression; her current antidepressa' | file='1001083929.txt'
+  - sim=0.078 | title='Verilogue session: Client has been experiencing anxiety and some manic episodes' | file='1001084024.txt'
+  - sim=0.080 | title='Verilogue session: Client has been doing well but, he occasionally experiences a' | file='1001084076.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.017 | file='1001280398.txt' | title='Verilogue session: Client's insomnia seems to be causing mood swings'
+  - sim=0.023 | file='1002565958.txt' | title='Verilogue session: Client's depression and anxiety have been severe recently'
+  - sim=0.044 | file='1003075059.txt' | title='Verilogue session: Client notices an improvement more so in his behavior rather '
+Using LEAST related file for transcript: '1001280398.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who works in an educational setting with children who have learning disabilities, has been experiencing significant sleep disturbances, which she attributes to her ongoing worries about her children. Despite her professional environment, where she proposed a new teaching method that was rejected by school leadership, she avoids confronting the leadership directly about their decision. This pattern of avoiding direct confrontation seems to extend into her personal life as well, where she is deeply concerned about her son's recent marriage, describing it as "a train wreck before it even started." Her son, who has already considered moving back home multiple times in the three weeks since his marriage, communicates primarily with his father, leaving the client feeling somewhat sidelined. She expresses that "he talks to his dad" and not to her, which may contribute to her feelings of helplessness and worry.
+
+The client's sleep issues are compounded by her anxiety about her daughter, who lives two hours away with her three children. The client worries about her daughter's financial stability and car troubles, noting that "having to help her financially worries me." Although her daughter is making more money where she currently resides, the lack of nearby family support is a significant concern for the client. Her husband, who has recently stopped drinking and smoking, is supportive, yet the client feels the weight of her children's issues heavily, which disrupts her sleep. She reports that even with medication, she "wakes up" during the night and does not achieve restful sleep.
+
+The client is currently taking Neurontin, Xanax, and Wellbutrin for her mood swings, which she describes as "leveled out," except for the sleep disturbances. Her psychiatrist has suggested increasing her Xanax dosage to help manage her anxiety and improve her sleep, advising her to take it "around 9:00-9:30 at night" before her Ambien. Despite this, the client remains skeptical about the effectiveness of her sleep medication, noting that "that's not the way it is" with Ambien, as she still struggles to fall asleep before 2:00 AM.
+
+Throughout the session, the client demonstrates a pattern of ruminating on her children's issues, which she acknowledges by saying, "I worry constantly every day." This rumination appears to be a significant trigger for her anxiety and sleep problems. Her psychiatrist encourages her to practice good sleep hygiene and to try not to know too much about her children's issues, suggesting that "people have to handle what they have to handle." However, the client finds it difficult to detach, as she is often informed about her children's problems through her husband, who communicates with them more directly.
+
+The client's history of being pampered by her parents and experiencing minimal consequences earlier in life may contribute to her current difficulties in setting boundaries and managing her anxiety. Her ongoing conflicts with authority figures, both at work and in her family life, suggest a need for developing more effective coping strategies. The psychiatrist's plan to adjust her medication aims to alleviate some of her immediate anxiety symptoms, but the underlying cognitive patterns of worry and avoidance may require further exploration in therapy. As the session concludes, the psychiatrist emphasizes the importance of sleep for managing her bipolar disorder, noting that "once you don't sleep, it can lead into more and more problems." The client agrees to try the adjusted medication regimen and to return for a follow-up in four weeks, with the option to come back sooner if her sleep issues persist.
+Summary da mistral_.csv: The patient discussed their ongoing struggles with depression and sleep disturbances. They reported not sleeping well due to worries about their children, specifically their son's marriage and financial assistance for their daughter. The patient expressed concern about their son's drinking habits and their daughter's financial management. The doctor suggested increasing the patient's Xanax dosage to help manage anxiety and suggested taking Xanax earlier in the evening to reduce worry before bedtime. The patient mentioned that Ambien, which they take to help sleep, does not always work effectively.
+The doctor suggests increasing the patient's Xanax prescription to help manage anxiety and improve sleep, as sleep is crucial for managing bipolar disorder. The patient expresses constant worry but acknowledges improvement compared to the past. The doctor advises the patient to take Xanax an hour before Ambien and to return in four weeks for evaluation.
+
+REFINED CCD: description + report
+{
+  "history": "The client works in an educational setting with children who have learning disabilities. She describes being pampered by her parents and having minimal consequences earlier in life. She has ongoing conflicts with authority figures, both at work and in her family life. She tends to avoid direct confrontation, as seen in her response to the rejection of her teaching method. She ruminates about her children's issues, feels sidelined in family communication, and experiences significant sleep disturbances due to worry. Her psychiatrist has noted the importance of sleep for her bipolar disorder and is adjusting her medication.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I assert myself or challenge authority, I will be dismissed or ignored, so it's safer to stay quiet. If I try to make changes, it probably won't matter because others don't value my contributions. It's better to avoid conflict than risk being rejected or causing problems.",
+  "intermediate_belief_depression": "Even if I try to stand up for myself, nothing will change and I'll just end up feeling worse. My efforts are pointless because people don't care about what I have to say.",
+  "coping_strategies": [
+    "She avoids direct confrontation with authority figures, choosing not to address disagreements openly. She ruminates about problems, especially regarding her children, which increases her anxiety and disrupts her sleep. She relies on medication and seeks reassurance from her husband, but continues to feel overwhelmed."
+  ],
+  "situation": "Proposed a new teaching method that was rejected by school leadership. Does not confront leadership directly about the decision.",
+  "auto_thought": "They don't care about my ideas. No matter what I do, my input won't make a difference.",
+  "emotion": [
+    "disappointed",
+    "hurt",
+    "anxious",
+    "frustrated",
+    "powerless",
+    "unimportant"
+  ],
+  "behavior": "She avoids bringing up her concerns or defending her teaching method to leadership. She withdraws from direct communication and instead ruminates about the rejection. She may discuss her frustrations with her husband but does not address them with those involved."
+}

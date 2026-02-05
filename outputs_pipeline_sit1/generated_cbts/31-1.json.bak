@@ -1,0 +1,32 @@
+{
+  "name": "CBT Cognitive Conceptualization for Family Health Anxiety Case",
+  "id": "case_001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has recently lost an uncle and a cousin, which likely contributes to ongoing grief and sadness. There is persistent worry about the parents' health, especially the father's multiple serious medical conditions. The client experiences emotional distance and tension with the father, partly due to the father's lack of transparency about his health. These dynamics may foster feelings of helplessness, responsibility, and unresolved emotional strain. The client tends to internalize stress and avoids direct confrontation, as implied by the pattern of distraction after distressing family news.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't stay vigilant and worry about my father's health, something bad will happen and it will be my fault. If I can't get clear information or help, I am failing as a family member. I must always be prepared for the worst because I can't trust things to turn out okay.",
+  "intermediate_belief_depression": "If I can't help my father or change anything, then nothing I do matters and I might as well give up. If my efforts don't make a difference, it means I'm powerless and things will only get worse.",
+  "coping_strategies": "After receiving distressing news, the client distracts themselves by watching television to avoid overwhelming emotions and intrusive thoughts. The client tends to avoid direct discussions with the father about health issues, maintaining emotional distance rather than seeking clarity or resolution. There is a pattern of internalizing stress and using avoidance to manage anxiety.",
+  "situation": "Received a phone call from the mother regarding the father's health. Watched television afterward.",
+  "auto_thought": "Something terrible is going to happen to my father and I won't be able to do anything about it. I can't handle this uncertainty and I need to escape these feelings.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "helpless",
+    "sad",
+    "frustrated"
+  ],
+  "behavior": "Turned on the television and focused on watching it to distract myself from the distressing thoughts and feelings. Avoided calling my father or asking more questions. Stayed physically and emotionally distant.",
+  "rationale": "\"The ongoing concern about the parents' health, particularly the father's, may lead to feelings of anxiety and worry. The tension with the father could contribute to feelings of frustration, helplessness, or even guilt... The phone call from the mother might have intensified these emotions, leading to a need for distraction or avoidance, as indicated by watching television afterward.\" \"The patient may engage in ruminative thinking, particularly about the health and well-being of the parents, which can exacerbate feelings of anxiety and helplessness... The lack of transparency from the father could also result in assumptions or misinterpretations about the severity of his health conditions.\" \"The act of watching television after receiving the phone call suggests a coping mechanism aimed at distraction or temporary relief from distressing thoughts and emotions.\""
+}

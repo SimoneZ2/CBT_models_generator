@@ -1,0 +1,33 @@
+{
+  "name": "CBT Conceptualization for Client with Recurrent Stomachaches and Anxiety",
+  "id": "ccd-001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a history of recurrent stomachaches and physical symptoms linked to anxiety and stress. They have previously struggled with weight management, sexuality, and academic performance, which may have contributed to feelings of shame or embarrassment. The client reports experiencing a transformation during college, suggesting a period of positive change and adaptation. Currently, they seek control in relationships, indicating a possible pattern of managing anxiety through external control. These patterns are likely to have shaped their current beliefs and coping strategies.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am powerless, weak, vulnerable",
+    "I am out of control",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't have control over my symptoms or get reassurance, then something bad will happen and I won't be able to cope. If I show weakness or uncertainty, others may judge me or not support me. I must always be vigilant about my health and seek certainty to feel safe.",
+  "intermediate_belief_depression": "If I can't control my symptoms or get reassurance, it means I'm failing and things will never get better. If I keep struggling with these issues, it shows I'm not capable of change and my efforts are pointless.",
+  "coping_strategies": "The client frequently seeks reassurance from others about their recovery, which provides temporary relief but reinforces dependency on external validation. They may also attempt to control their environment or relationships to reduce anxiety. Avoidance of uncertainty and over-monitoring of physical symptoms are likely recurring patterns.",
+  "situation": "Experiencing ongoing stomach issues and seeking reassurance about recovery.",
+  "auto_thought": "What if these stomach problems never go away? I need to know for sure that I'll recover or else I won't be able to handle it.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "fearful",
+    "uncertain"
+  ],
+  "behavior": "I ask others for reassurance about my health and recovery. I check my symptoms repeatedly and look for signs of improvement. I avoid situations where I might feel worse or out of control.",
+  "rationale": "\"The patient's recurrent stomachaches and physical symptoms are likely contributing to a heightened state of anxiety and stress... The ongoing stomach issues might trigger catastrophic thinking patterns, where the patient fears the worst outcomes regarding their health. The need for reassurance suggests a cognitive pattern of doubt and uncertainty about their ability to recover or manage their symptoms independently... In response to anxiety and stress, the patient may engage in behaviors such as seeking reassurance from others, which provides temporary relief but may reinforce dependency on external validation... The patient's history of seeking control in relationships may indicate a cognitive tendency towards perfectionism or a need for predictability.\""
+}

@@ -1,0 +1,70 @@
+Using description: HISTORY:
+- Strong identification with a research lab workplace and a sense of camaraderie from interactions and accomplishments.
+- A close coworker left, which had emotional significance for the patient.
+- The lab contrasts with the patient's personal life, described as less predictable and comfortable.
+
+SITUATION:
+- Preparing for an important discussion scheduled in January.
+- Preparing for a lab meeting involving troubleshooting equipment and learning programming. with ID=29-1
+Sample results (metadata similarity):
+  - sim=0.186 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.186 | title='Patient "B", Session August 03, 2012: Client talks about being sexually assaulte' | file='1004687572.txt'
+  - sim=0.190 | title='Patient "B", Session November 12, 2012: Client talks about feeling guilty for tr' | file='1004824659.txt'
+  - sim=0.190 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.194 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.199 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.202 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.203 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.204 | title='Session 63: Client discusses her need to be in control even while having sexual ' | file='1000367962.txt'
+  - sim=0.206 | title='Session 15: Client explains why she can make friendships with certain men but no' | file='1000133901.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.186 | file='1003075019.txt' | title='Verilogue session: Client has been experimenting with her medications to find th'
+  - sim=0.186 | file='1004687572.txt' | title='Patient "B", Session August 03, 2012: Client talks about being sexually assaulte'
+  - sim=0.190 | file='1004824659.txt' | title='Patient "B", Session November 12, 2012: Client talks about feeling guilty for tr'
+Using LEAST related file for transcript: '1003075019.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The patient, a young African-American male, has been navigating a complex interplay of medication management and psychological challenges. He has a strong identification with his research lab workplace, where he finds a sense of camaraderie and accomplishment. This environment contrasts sharply with his personal life, which he describes as less predictable and comfortable. Recently, a close coworker left the lab, which had an emotional impact on him, highlighting the importance of these work relationships in his life. During the session, he discusses his experimentation with medication dosages, noting that "taking half as much" of his prescribed medication has helped him feel less tired while still managing his symptoms. This self-adjustment reflects his desire for agency in his treatment, though it also indicates a potential risk if not monitored closely.
+
+The patient is preparing for an important discussion scheduled in January and a lab meeting involving troubleshooting equipment and learning programming. These upcoming events seem to weigh on him, as he mentions feeling "paranoid" and experiencing "anxiety" in crowded settings like school. His anxiety manifests as a feeling of being "compact and compressed" in class, which affects his focus and performance. Despite these challenges, he reports that he is "doing pretty good" with his homework, although he struggles with tests, often feeling that he is not "going anywhere" with his studies. This discrepancy between homework and test performance may be linked to the heightened stress and paranoia he experiences in school settings.
+
+Throughout the session, the patient expresses a desire to reduce the tiredness caused by his medication, particularly Depakote, which he believes is "making me tired." He is cautious about increasing his medication dosages, as he fears the return of his voices, which he describes as "faint talk" when he becomes upset. The psychiatrist acknowledges his concerns and suggests adjusting the trifluoperazine dosage, which "shouldn't cause the tiredness" and may help manage his anxiety and paranoia more effectively. The patient is receptive to this suggestion, indicating a willingness to find a balance that maintains his mental health without compromising his energy levels.
+
+The patient also shares his feelings of "suicidal" ideation when upset, though he has not acted on these thoughts. He expresses dissatisfaction with his current counselor, feeling that the counselor is "just some guy" who tells him how he should feel, rather than providing meaningful support. This highlights a potential area for intervention, as a more effective therapeutic alliance could help him manage his emotions and reduce his risk of self-harm. The psychiatrist emphasizes the importance of medication management to control his paranoia and psychotic symptoms, which, if left unchecked, could become more difficult to manage over time.
+
+In summary, the patient is navigating a delicate balance between managing his symptoms and maintaining his energy levels. His strong identification with his workplace provides a sense of stability, yet his personal life and school environment present ongoing challenges. The session underscores the importance of a collaborative approach to medication management and the need for a supportive therapeutic relationship to address his emotional and psychological needs.
+Summary da mistral_.csv: In this psychotherapy session, a female patient with schizophrenia discussed her experimentation with her prescribed medications. She found that taking half the prescribed dosage of Depakote resulted in fewer side effects and no return of voices, but she experienced paranoia and anxiety in school. The physician suggested increasing the dosage of trifluoperazine to help with these issues and keep the Depakote dose low to avoid tiredness. The patient also mentioned feeling suicidal when upset and expressed dissatisfaction with her counseling sessions. The physician emphasized the importance of continuing counseling and adjusting medications as needed.
+
+REFINED CCD: description + report
+{
+  "history": "The patient has a strong identification with his research lab workplace, which provides a sense of camaraderie and accomplishment. This contrasts with his personal life, which is less predictable and comfortable. A close coworker's departure had an emotional impact on him, highlighting the importance of work relationships. He is experimenting with medication dosages to manage tiredness and symptoms, indicating a desire for agency in his treatment. He experiences anxiety and paranoia in crowded settings like school, affecting his focus and performance. He has expressed suicidal ideation when upset but has not acted on these thoughts.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't manage my medication correctly, I will become overwhelmed and unable to function effectively.",
+  "intermediate_belief_depression": "If I can't handle my symptoms, I will never succeed in my studies or personal life.",
+  "coping_strategies": [
+    "The patient self-adjusts medication dosages to reduce tiredness, though this poses a risk if not monitored. He expresses dissatisfaction with his counselor, indicating a need for a more supportive therapeutic relationship."
+  ],
+  "situation": "Preparing for a lab meeting involving troubleshooting equipment and learning programming.",
+  "auto_thought": "I can't handle this meeting; I'm going to mess up in front of everyone.",
+  "emotion": [
+    "anxious",
+    "paranoid",
+    "tense"
+  ],
+  "behavior": "He may avoid fully engaging in the meeting or seek reassurance from colleagues about his performance."
+}

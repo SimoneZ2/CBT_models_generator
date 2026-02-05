@@ -1,0 +1,32 @@
+{
+  "name": "Case Study: Family and Relationship Conflicts",
+  "id": "CS-001",
+  "type": [
+    "CBT",
+    "Family Conflict",
+    "Relationship Issues"
+  ],
+  "history": "History of family conflict with a dismissive and unsupportive father. Estrangement from the father. Ongoing stress related to partner's family, including a difficult relationship with the partner's sister-in-law.",
+  "helpless_belief": [
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must avoid conflict to keep the peace.",
+  "intermediate_belief_depression": "I am powerless to change my family dynamics.",
+  "coping_strategies": "Avoidance of family gatherings and confrontation.",
+  "situation": "Deciding how to address rude behavior from the partner's sister-in-law and whether to set boundaries.",
+  "auto_thought": "If I confront them, it will only make things worse.",
+  "emotion": [
+    "Anxiety",
+    "Guilt",
+    "Frustration"
+  ],
+  "behavior": "Avoids confrontation and feels trapped in family gatherings.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

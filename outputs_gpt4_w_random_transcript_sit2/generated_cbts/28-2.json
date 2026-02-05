@@ -1,0 +1,25 @@
+{
+  "name": "Client",
+  "id": "12345",
+  "type": [
+    "CBT"
+  ],
+  "history": "History of self-critical tendencies. Used to maintaining control and achieving goals. Current challenges involve job seeking, personal relationships, and family dynamics.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must maintain control to avoid chaos.",
+  "intermediate_belief_depression": "If I can't control everything, everything will fall apart.",
+  "coping_strategies": "Overthinking and trying to solve others' problems to maintain a sense of control.",
+  "situation": "Conflict related to another person's (Ivan's) approach to job searching and life decisions.",
+  "auto_thought": "I can't let go of things until they are resolved.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Attempts to control situations and solve problems for others."
+}

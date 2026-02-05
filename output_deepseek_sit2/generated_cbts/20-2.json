@@ -1,0 +1,30 @@
+{
+  "name": "Patient 20",
+  "id": "20",
+  "type": [
+    "workplace conflict",
+    "self-blame"
+  ],
+  "history": "Multiple past jobs involved micromanagement. Reports self-blame in work contexts.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am bad - dangerous, toxic, evil"
+  ],
+  "intermediate_belief": "If I were more competent, I wouldn't be micromanaged.",
+  "intermediate_belief_depression": "Every workplace ends up the same because of my flaws.",
+  "coping_strategies": [
+    "Over-compliance, self-criticism, avoidance of responsibility."
+  ],
+  "situation": "Experiencing micromanagement at workplace and considering resigning.",
+  "auto_thought": "\"They don't trust me because I'm incompetent. I should quit before they fire me.\"",
+  "emotion": [
+    "humiliation",
+    "anger",
+    "anxiety"
+  ],
+  "behavior": "Works excessively to please manager, then impulsively updates resume during work hours."
+}

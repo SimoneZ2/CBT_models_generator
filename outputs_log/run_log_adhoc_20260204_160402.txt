@@ -1,0 +1,79 @@
+Using description: HISTORY:
+- Ongoing interpersonal difficulties involving a partner named Ivan and his family.
+- Recent trust and betrayal issues involving Ivan.
+- Ongoing contact with Ivan's family.
+
+SITUATION:
+- Discovered that Ivan made travel plans without consulting the patient. with ID=22-1
+Sample results (metadata similarity):
+  - sim=0.037 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.157 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.159 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.178 | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne' | file='1004503136.txt'
+  - sim=0.184 | title='Client "S", Session September 21, 2012: Client is currently working towards his ' | file='1004824793.txt'
+  - sim=0.184 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.192 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.200 | title='The Brief Therapy-Eliminating a Compulsion: In a large psychotherapy conference ' | file='1000119395.txt'
+  - sim=0.210 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.210 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.037 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.157 | file='1004798723.txt' | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to '
+  - sim=0.159 | file='1001158874.txt' | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has been experiencing ongoing interpersonal difficulties with their partner Ivan and his family, recently discovered that Ivan made travel plans without consulting them. This revelation seems to have triggered a cascade of thoughts and emotions, as evidenced by the client's focus on intellectual pursuits during the session. The client begins by discussing their recovery from a cold and their recent activities, such as walking to the gym and tutoring in precalculus. They express a sense of accomplishment in understanding complex mathematical concepts, stating, "I really understood the material," which contrasts with their feelings of betrayal and lack of control in their personal life.
+
+Throughout the session, the client delves deeply into the intricacies of mathematics, describing the satisfaction of solving proof-based problems and the clarity that comes from teaching others. They mention, "It's like being on the bike and lifting weights somehow cleared my mind," suggesting that physical activity and intellectual engagement serve as coping mechanisms. The client appears to find solace in the structured and logical world of mathematics, which offers a stark contrast to the unpredictability of their relationship with Ivan.
+
+The client's narrative reveals a pattern of seeking control and understanding through intellectual endeavors. They describe the process of learning new mathematical symbols and concepts as initially frustrating but ultimately rewarding, noting, "It's amazing to me" how they can now comprehend complex problems. This mirrors their struggle with the unpredictability of their interpersonal relationships, where they may feel less equipped to navigate the emotional terrain.
+
+The client also reflects on the nature of learning and the satisfaction derived from overcoming intellectual challenges. They express a sense of pride in their ability to teach and communicate complex ideas, stating, "I have the knack to be able draw really well," which highlights their desire for mastery and competence. This focus on intellectual achievement may serve as a way to compensate for feelings of inadequacy or lack of control in their personal life, particularly in relation to Ivan's unilateral decisions.
+
+Despite the client's intellectual focus, there is an underlying sense of self-consciousness and vulnerability. They mention feeling "slightly self-conscious" about their preoccupation with mathematics, which may reflect a deeper insecurity about their worth or capabilities. This insecurity could be exacerbated by the recent trust issues with Ivan, as the client grapples with feelings of betrayal and exclusion.
+
+The client's avoidance of directly addressing the situation with Ivan suggests a reluctance to confront the emotional pain associated with the betrayal. Instead, they immerse themselves in the world of mathematics, where they can exert control and achieve clarity. The session reveals a complex interplay between the client's intellectual pursuits and their emotional struggles, highlighting the ways in which they navigate and cope with the challenges in their personal life.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has ongoing interpersonal difficulties with their partner Ivan and his family, with recent trust and betrayal issues involving Ivan. They have a pattern of seeking control and understanding through intellectual pursuits, such as mathematics, to cope with feelings of inadequacy or lack of control in their personal life.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't have control over situations, then I am powerless and unimportant.",
+  "intermediate_belief_depression": "If I can't control my relationship with Ivan, then I am destined to be powerless and unimportant.",
+  "coping_strategies": [
+    "The client immerses themselves in intellectual pursuits and physical activities, such as mathematics and exercise, to exert control and achieve clarity, avoiding directly addressing emotional pain associated with interpersonal issues."
+  ],
+  "situation": "Discovered that Ivan made travel plans without consulting the patient.",
+  "auto_thought": "Ivan doesn't care about my opinion. I'm not important to him.",
+  "emotion": [
+    "betrayed",
+    "excluded",
+    "insecure",
+    "self-conscious",
+    "vulnerable"
+  ],
+  "behavior": "The client avoids confronting Ivan about the travel plans. They immerse themselves in mathematics and physical activities to distract from the emotional pain."
+}

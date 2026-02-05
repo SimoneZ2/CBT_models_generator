@@ -1,0 +1,31 @@
+{
+  "history": "The client has ongoing interpersonal difficulties with their partner Ivan and his family, which have persisted over time. There have been recent incidents involving trust and betrayal, specifically with Ivan making decisions without consulting the client. The client continues to have contact with Ivan's family, which may serve as a reminder of unresolved issues and contribute to ongoing emotional distress.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If someone I care about makes important decisions without consulting me, it means my feelings and opinions don't matter to them. I have to be vigilant because I can't trust that my needs will be considered. If I don't protect myself, I will keep getting hurt.",
+  "intermediate_belief_depression": "If the people closest to me don't include me in their decisions, it proves that I'm not valued and nothing I do will change that. There's no point in trying because I'll always end up feeling hurt and alone.",
+  "coping_strategies": [
+    "The client tends to withdraw from Ivan and his family or avoid discussing sensitive topics, possibly to protect themselves from further hurt. They may seek reassurance from others outside the immediate situation, or distract themselves with work or hobbies to avoid confronting the issue directly."
+  ],
+  "situation": "Discovered that Ivan made travel plans without consulting the patient.",
+  "auto_thought": "Ivan didn't even think to ask me about the travel plans. I must not matter to him at all.",
+  "emotion": [
+    "hurt",
+    "sad",
+    "angry",
+    "disappointed",
+    "betrayed"
+  ],
+  "behavior": "Withdrew from Ivan and avoided talking to him about the travel plans. Sought reassurance from friends about whether her feelings were justified.",
+  "source_text_id": "1003009258.txt"
+}

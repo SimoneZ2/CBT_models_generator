@@ -1,0 +1,92 @@
+Using description: HISTORY:
+- History of family conflict with a dismissive and unsupportive father.
+- Estrangement from the father.
+- Ongoing stress related to partner's family, including a difficult relationship with the partner's sister-in-law.
+
+SITUATION:
+- Deciding how to address rude behavior from the partner's sister-in-law and whether to set boundaries. with ID=21-2
+Top results (by metadata similarity):
+  - sim=0.639 | title='Patient "A" Therapy Session Audio Recording, December 27, 2011: Client discusses' | file='1004472416.txt'
+  - sim=0.620 | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father ' | file='1004472411.txt'
+  - sim=0.591 | title='Patient "M" Therapy Session Audio Recording, April 09, 2012: Client was at a fam' | file='1004532454.txt'
+  - sim=0.590 | title='Session 4: Client talks about growing up with loving grandparents and how his ow' | file='1000094417.txt'
+  - sim=0.586 | title='Patient "M" Therapy Session Audio Recording, March 07, 2012: Client talks about ' | file='1004513666.txt'
+  - sim=0.574 | title='Patient "M" Therapy Session Audio Recording, May 30, 2012: She has been very anx' | file='1004565031.txt'
+  - sim=0.572 | title='Patient "S", Session August 22, 2012: Client has been very annoyed by the behavi' | file='1004687766.txt'
+  - sim=0.570 | title='Patient "M", Session October 16, 2012: Client is fed up with her in-laws' behavi' | file='1004798863.txt'
+  - sim=0.568 | title='Patient "A" Therapy Session Audio Recording, December 28, 2011: Client wants to ' | file='1004472417.txt'
+  - sim=0.566 | title='Patient "SZ" Session June 25, 2012: Client talks about a visit with her family a' | file='1004600960.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.639 | file='1004472416.txt' | title='Patient "A" Therapy Session Audio Recording, December 27, 2011: Client discusses'
+  - sim=0.620 | file='1004472411.txt' | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father '
+  - sim=0.591 | file='1004532454.txt' | title='Patient "M" Therapy Session Audio Recording, April 09, 2012: Client was at a fam'
+Using top selected file for transcript: '1004472416.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient presents with a history of family conflict, particularly with a dismissive and unsupportive father, leading to estrangement. Currently, the patient experiences ongoing stress related to their partner's family, specifically concerning a difficult relationship with the partner's sister-in-law. The patient is in the process of deciding how to address rude behavior from the sister-in-law and whether to set boundaries.
+
+**Emotional Impact:**
+The patient's history of family conflict, particularly with a dismissive father, likely contributes to feelings of being unsupported and undervalued. This may manifest as feelings of sadness, loneliness, and possibly anger or irritation when faced with similar dismissive or rude behavior from others, such as the partner's sister-in-law. The ongoing stress related to the partner's family likely exacerbates feelings of anxiety and tension, as the patient navigates these complex interpersonal dynamics.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive patterns characterized by heightened sensitivity to dismissive or unsupportive behavior, potentially leading to negative automatic thoughts such as "I am not valued" or "I am not respected." These thoughts could contribute to a cycle of rumination, where the patient repeatedly replays interactions with the partner's sister-in-law, leading to increased stress and anxiety. The patient's decision-making process regarding setting boundaries may be influenced by a fear of conflict or rejection, rooted in past familial experiences.
+
+**Behavioral Responses:**
+In response to the rude behavior from the partner's sister-in-law, the patient may engage in avoidance behaviors, such as withdrawing from interactions or delaying confrontation. This avoidance may serve as a temporary coping mechanism to reduce immediate stress but could lead to increased long-term anxiety and tension. Alternatively, the patient may oscillate between avoidance and confrontation, struggling to find a balanced approach to setting boundaries.
+
+**Coping Styles:**
+The patient's coping style may include seeking reassurance from their partner or others, as well as internalizing stress, leading to feelings of being overwhelmed. The patient might also engage in social comparison, feeling envious of others who have more supportive family dynamics, which can further exacerbate feelings of isolation and dissatisfaction.
+
+**Therapeutic Focus:**
+1. **Cognitive Restructuring:** Work on identifying and challenging negative automatic thoughts related to self-worth and interpersonal interactions. Encourage the patient to develop more balanced and realistic appraisals of situations involving the partner's family.
+
+2. **Boundary Setting:** Assist the patient in developing assertive communication skills to effectively set and maintain boundaries with the partner's sister-in-law. Role-playing scenarios in therapy may help the patient feel more confident in addressing rude behavior.
+
+3. **Emotional Regulation:** Introduce techniques for managing anxiety and stress, such as mindfulness or relaxation exercises, to help the patient cope with the emotional impact of familial interactions.
+
+4. **Support System Enhancement:** Encourage the patient to build a supportive network outside of the familial context, which can provide emotional validation and reduce reliance on potentially unsupportive family members.
+
+By addressing these areas, therapy can help the patient develop healthier coping mechanisms and improve their interpersonal relationships, leading to a greater sense of emotional well-being and autonomy.
+Summary da mistral_.csv: The client describes a difficult holiday season spent with their family, during which they were subjected to offensive and inappropriate comments. They found it particularly challenging when their family discussed their boyfriend, who is of a different ethnicity, and made derogatory assumptions about him. The client felt unable to respond effectively to these comments and ended up feeling upset and anxious. They also mentioned their mother's boyfriend, who was more normal and engaging, but her mother's family continued to make insensitive remarks. The client expressed frustration and sadness over the situation, feeling that they couldn't have normal conversations with their family and that they didn't know how to deal with their behavior. They felt torn between wanting to be polite and not wanting to engage in the inappropriate conversations. The client also mentioned their longing for normal conversation and feeling jealous of friends who could have normal relationships with their families.
+The client expresses feelings of embarrassment and guilt about her mother's loud and crude boyfriend's family, feeling they are a part of her family but not wanting to be involved with them. She feels trapped and anxious about the idea of introducing her boyfriend to them, fearing negative judgments and comments. The client has difficulty reconciling her feelings of wanting her boyfriend to meet her family with her discomfort and embarrassment about their behavior. She shares past experiences of feeling judged by families in relationships and fears a similar outcome with her current situation.
+The client expresses feelings of guilt and anxiety regarding her inability to separate herself from her family, particularly her mother, in her relationship with her partner. She fears that her mother's inability to separate herself from her new family will lead to the loss of her old relationships and identity. The client feels trapped between wanting to please both her partner and her family, and experiences guilt and unhappiness in either situation. The therapist acknowledges the client's dilemma and suggests that she may fear becoming like her mother and losing her old identity if she leaves her family behind. The client expresses feelings of guilt and anger towards her family, particularly her father, for not welcoming her partner into their family. The session ends with the client expressing a feeling of being unable to win in this situation.
+
+ REFINED CCD: description + report
+{
+  "history": "The client reports a history of family conflict, especially with a dismissive and unsupportive father, which led to estrangement. This background likely contributes to a heightened sensitivity to dismissive or rude behavior from others. The client is currently experiencing ongoing stress related to their partner's family, particularly in relation to a difficult relationship with the partner's sister-in-law. The client’s decision-making around setting boundaries appears to be influenced by past familial experiences of feeling unsupported and undervalued.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I try to stand up for myself or set boundaries, others will dismiss or reject me, just like my father did. To avoid being hurt or feeling unsupported, I must tread carefully and not make things worse. I need to protect myself from further conflict, even if it means not expressing my needs.",
+  "intermediate_belief_depression": "If I try to assert myself, it won't make any difference and I'll just end up feeling even more alone and unsupported, so there's no point in trying.",
+  "coping_strategies": [
+    "The client tends to avoid direct confrontation with the partner's sister-in-law, withdrawing from interactions or delaying decisions about setting boundaries. They may also seek reassurance from their partner or ruminate on past interactions, which increases stress and maintains the cycle of anxiety and avoidance."
+  ],
+  "situation": "Deciding how to address rude behavior from the partner's sister-in-law and whether to set boundaries.",
+  "auto_thought": "If I say something about her rudeness, she'll just dismiss me or make things worse. I can't get anyone to take me seriously in this family.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "sad",
+    "irritated",
+    "lonely"
+  ],
+  "behavior": "I avoid bringing up the issue directly with my sister-in-law. I withdraw from family gatherings or keep interactions minimal. I replay the situation in my mind and seek reassurance from my partner."
+}

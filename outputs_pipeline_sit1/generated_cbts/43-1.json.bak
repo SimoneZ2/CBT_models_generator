@@ -1,0 +1,37 @@
+{
+  "name": "Client Reconnecting with Edson",
+  "id": "case001",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client experienced emotional invalidation in childhood, such as being reprimanded for crying, which likely contributed to a history of depression. These early experiences may have led to feelings of being misunderstood and unsupported, fostering internalized sadness and a tendency to suppress emotional expression. The client’s depressive episodes may be linked to these patterns of emotional suppression and self-doubt.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I show my true emotions or needs to others, they will dismiss or reject me, so I must keep my feelings hidden to avoid being hurt. I assume that expressing vulnerability will only lead to more pain or invalidation. I need to be careful and guarded in relationships to protect myself from disappointment.",
+  "intermediate_belief_depression": "If I let my guard down and reach out, I will only end up feeling alone and unsupported again, so there’s no point in trying to connect. It’s safer to expect disappointment than to hope for understanding.",
+  "coping_strategies": "The client tends to avoid emotional expression and withdraws from social interactions to protect themselves from potential invalidation. They may ruminate on past negative experiences and use distraction or procrastination to avoid confronting emotional discomfort, especially when facing situations that could expose their vulnerability.",
+  "situation": "Reconnecting with an individual named Edson after a period of no contact.",
+  "auto_thought": "What if Edson ignores me or thinks I’m too emotional? I’ll just end up feeling rejected again.",
+  "emotion": [
+    "anxious",
+    "apprehensive",
+    "sad",
+    "vulnerable",
+    "tense"
+  ],
+  "behavior": "I hesitate before reaching out or responding to Edson. I keep my messages brief and neutral, avoiding sharing how I really feel. I monitor his responses closely for signs of disinterest or rejection.",
+  "rationale": "\"The patient's childhood experiences of emotional invalidation likely led to feelings of being misunderstood and unsupported... The invalidation of their emotions could lead to beliefs such as 'My feelings are not important'... The recent reconnection with Edson may trigger anxiety or apprehension about potential emotional invalidation or rejection, leading the patient to be cautious or guarded in their interactions... The patient might engage in behaviors such as withdrawing from social interactions, avoiding emotional expression, and seeking reassurance from others.\""
+}

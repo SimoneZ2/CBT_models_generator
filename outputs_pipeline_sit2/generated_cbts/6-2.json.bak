@@ -1,0 +1,30 @@
+{
+  "name": "Insurance Claim Stress Case",
+  "id": "case_001",
+  "type": [
+    "CBT",
+    "case_formulation"
+  ],
+  "history": "The client is a 28-year-old student who recently returned from Egypt and is now managing bills, finances, and health insurance independently for the first time. Previously, they relied on their parents for support, while their brother continues to be financially dependent on their parents. This transition marks a significant shift in responsibility and may contribute to increased stress and self-doubt, as suggested by the report's emphasis on the client's adjustment to independence and comparison with their brother.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake with my finances, it means I'm not capable and I will fail at being independent. I have to prove I can manage on my own, otherwise I'm falling behind. If I can't handle this, it shows I'm not as competent as I should be.",
+  "intermediate_belief_depression": "If I can't manage these responsibilities, it means I'll never be able to take care of myself and things will just get worse. There's no point in trying because I'll always fall short.",
+  "coping_strategies": "The client tends to avoid or procrastinate on financial tasks when feeling overwhelmed, as indicated by the report's mention of avoidance and rumination. They may also seek reassurance from parents or peers about their financial decisions, and engage in repetitive thinking about potential financial problems.",
+  "situation": "Received an insurance claim with an unexpected balance.",
+  "auto_thought": "I can't handle this on my own—I'm going to mess this up and end up in trouble.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "worried",
+    "stressed",
+    "uncertain"
+  ],
+  "behavior": "I put off looking at the details of the claim and avoid dealing with it right away. I ask my parents or friends what I should do. I keep thinking about what could go wrong.",
+  "rationale": "\"The unexpected insurance balance could lead to feelings of anxiety about financial stability and the ability to manage expenses effectively.\" \"The patient may exhibit catastrophic thinking... leading to increased anxiety.\" \"The shift from parental support to independence may cause the patient to question their ability to handle financial responsibilities effectively.\" \"The patient might frequently seek reassurance from parents or peers about their financial decisions and capabilities.\" \"The stress of managing finances could lead to procrastination or avoidance of tasks related to budgeting and bill payments.\""
+}

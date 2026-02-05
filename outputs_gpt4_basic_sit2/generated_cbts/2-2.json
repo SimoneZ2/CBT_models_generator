@@ -1,0 +1,25 @@
+{
+  "name": "Patient Case 1",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "Recent family tension related to a conversation with parents about a wedding list. The patient noticed similarities between their own actions and their father's patterns. The father is described as repeatedly seeking approval and unconditional love from family members.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need approval to feel valued.",
+  "intermediate_belief_depression": "Without approval, I am not worthy.",
+  "coping_strategies": "Seeking approval from others to validate self-worth.",
+  "situation": "Observing the father's ongoing pursuit of approval from his sister.",
+  "auto_thought": "I must gain approval to be accepted.",
+  "emotion": [
+    "Anxiety",
+    "Insecurity"
+  ],
+  "behavior": "Attempts to please others to gain approval."
+}

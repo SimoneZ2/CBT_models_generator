@@ -1,0 +1,32 @@
+{
+  "name": "Patient 27",
+  "id": "27",
+  "type": [
+    "divorce adjustment",
+    "social stigma"
+  ],
+  "history": "Recent divorce with financial difficulties. Relationship since 19. Young son, settling child support. Adjusting to single life.",
+  "helpless_belief": [
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [
+    "I am damaged goods"
+  ],
+  "intermediate_belief": "Divorce makes me a failure and less desirable.",
+  "intermediate_belief_depression": "I'll always be seen as the divorced mom, not a whole person.",
+  "coping_strategies": [
+    "Maintaining appearances, avoiding divorce topic, overcompensating as parent."
+  ],
+  "situation": "At birthday party, guests mention divorce during casual conversation.",
+  "auto_thought": "\"They're pitying me. I'm the sad divorcee story. They think I failed.\"",
+  "emotion": [
+    "shame",
+    "exposure",
+    "sadness"
+  ],
+  "behavior": "Forces cheerful smile, changes subject to son's achievements, leaves party early."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Case Study Example",
+  "id": "001",
+  "type": [
+    "Depression"
+  ],
+  "history": "Works in an educational setting with children who have learning disabilities. Describes being pampered by parents and having minimal consequences earlier in life. Ongoing conflicts with authority figures.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be perfect in my work to be valued.",
+  "intermediate_belief_depression": "If I can't meet expectations, I am a failure.",
+  "coping_strategies": "Overworking and taking on too many responsibilities to prove worth.",
+  "situation": "Encouraging students to socialize and participate in campus activities, with results falling short of expectations.",
+  "auto_thought": "I am not doing enough; I am failing my students.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Overworking and feeling overwhelmed by responsibilities."
+}

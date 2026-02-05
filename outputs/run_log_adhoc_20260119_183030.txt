@@ -1,0 +1,106 @@
+Using description: HISTORY:
+- Recurrent stomachaches and physical symptoms associated with anxiety and stress.
+- Past difficulties involving weight management, sexuality, and academic performance.
+- Reports a transformation during college.
+- Reports seeking control in relationships.
+
+SITUATION:
+- Concern about losing positive aspects of life or returning to a previous unhappy state. with ID=39-2
+Top results (by metadata similarity):
+  - sim=0.625 | title='Verilogue session: Client and her husband are having marital problems. She has b' | file='1003009265.txt'
+  - sim=0.623 | title='Session 18: Client has commitment issues with women, this leads him to wonder if' | file='1000016558.txt'
+  - sim=0.619 | title='Verilogue session: Client is unsure if going on medication is the right treatmen' | file='1001083966.txt'
+  - sim=0.611 | title='Session 7: Client's frustrations with her sense of losing control make her want ' | file='1000323422.txt'
+  - sim=0.610 | title='Verilogue session: Client is unhappy with being overweight. They discuss the pos' | file='1001083933.txt'
+  - sim=0.607 | title='Verilogue session: Client feels like his medications are helping to ease his anx' | file='1003075025.txt'
+  - sim=0.606 | title='Verilogue session: Client is frustrated because she cannot retain a state of rem' | file='1001084056.txt'
+  - sim=0.597 | title='Verilogue session: Client is suffering from much more depression than mania rece' | file='1003075038.txt'
+  - sim=0.597 | title='Verilogue session: Client wants to feel less apathetic about life in general' | file='1003009278.txt'
+  - sim=0.594 | title='Verilogue session: Client gets very teary-eyed and agitated easily. She has been' | file='1003075024.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=3 partial_match=7
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.623 | file='1000016558.txt' | title='Session 18: Client has commitment issues with women, this leads him to wonder if'
+  - sim=0.619 | file='1001083966.txt' | title='Verilogue session: Client is unsure if going on medication is the right treatmen'
+  - sim=0.607 | file='1003075025.txt' | title='Verilogue session: Client feels like his medications are helping to ease his anx'
+Using top selected file for transcript: '1000016558.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient History and Current Situation:**
+
+The patient has a history of recurrent stomachaches and physical symptoms that are associated with anxiety and stress. There have been past difficulties related to weight management, sexuality, and academic performance. The patient reports experiencing a transformation during college and expresses a need to seek control in relationships. Currently, the patient is concerned about losing positive aspects of life or reverting to a previously unhappy state.
+
+**Cognitive and Emotional Patterns:**
+
+1. **Anxiety and Stress:**
+   - The recurrent stomachaches suggest a strong physiological response to anxiety and stress. This aligns with the transcript's depiction of individuals experiencing physical symptoms when overwhelmed by stress or anxiety.
+   - The patient likely experiences heightened worry and tension, particularly in situations perceived as threatening or uncertain.
+
+2. **Control and Relationships:**
+   - The need to seek control in relationships may stem from a desire to manage anxiety and prevent feelings of vulnerability. This is consistent with patterns where individuals attempt to exert control to mitigate feelings of uncertainty and insecurity.
+   - The patient might engage in behaviors such as seeking reassurance or attempting to dictate relationship dynamics to maintain a sense of stability.
+
+3. **Transformation and Fear of Regression:**
+   - The reported transformation during college suggests a period of positive change and personal growth. However, the current concern about losing these positive aspects indicates an underlying fear of regression.
+   - This fear may manifest as anxiety about returning to past difficulties, leading to behaviors aimed at preserving current achievements and status.
+
+4. **Past Difficulties:**
+   - Difficulties with weight management, sexuality, and academic performance may contribute to feelings of inadequacy or low self-esteem. These issues could lead to self-critical thoughts and a tendency to compare oneself unfavorably to others.
+   - The transcript suggests that individuals with similar histories might experience feelings of inadequacy and engage in self-sabotaging behaviors, such as procrastination or avoidance.
+
+**Behavioral Responses and Coping Styles:**
+
+1. **Avoidance and Procrastination:**
+   - The patient may avoid situations that trigger anxiety or remind them of past failures, leading to procrastination in tasks related to weight management, relationships, or academic pursuits.
+   - This avoidance can perpetuate a cycle of stress and anxiety, as unaddressed issues continue to linger.
+
+2. **Seeking Reassurance:**
+   - In relationships, the patient might seek reassurance from partners to alleviate fears of losing control or regressing. This behavior can provide temporary relief but may also strain relationships over time.
+
+3. **Ruminative Thinking:**
+   - The patient may engage in ruminative thinking, particularly about past difficulties and the fear of regression. This can lead to increased anxiety and difficulty focusing on present tasks.
+
+4. **Efforts to Maintain Control:**
+   - The patient might engage in behaviors aimed at maintaining control over their environment and relationships, such as setting strict personal goals or attempting to influence others' behaviors.
+
+**Conclusion:**
+
+The patient's history of anxiety-related physical symptoms, past difficulties, and current concerns about regression suggest a complex interplay of cognitive and emotional patterns. The need for control in relationships and fear of losing positive aspects of life are central themes. Addressing these issues through Cognitive Behavioral Therapy (CBT) could involve exploring and challenging maladaptive thought patterns, developing healthier coping strategies, and fostering a more balanced sense of self-efficacy and control.
+Summary da mistral_.csv: In this therapy session, the patient discussed their current state of feeling unstable and uncertain about various aspects of their life. They mentioned having a cold that had lasted for a week, feeling disconnected during a car ride with a client, and struggling to commit to individual therapy or relationships with women, specifically Kathleen and Jane. The patient also shared their feelings of confusion and instability in their job and mentioned feeling tired and unmotivated. They expressed difficulty in making decisions and feeling unsure of their identity, mentioning the possibility of being gay but not feeling it was significant. The patient also mentioned feeling inadequate during a group session and using unprofessional language, which they regretted. The patient expressed feeling overwhelmed and unsure of how to move forward.
+In this therapy session, the patient discussed their feelings of inadequacy during a seminar, comparing themselves to others and feeling they didn't measure up professionally. They also spoke about their past experiences of feeling they didn't deserve praise or success, even when they had achieved it. The patient mentioned a pattern of self-doubt and difficulty accepting compliments, which extended to their personal relationships and academic achievements. They also shared an instance where they felt they couldn't admit to doing something well, even when they had. The counselor asked questions to clarify the patient's experiences and feelings.
+In this session, the patient discussed their desire to lose weight as a means of being useful to themselves and others, but also expressed feeling overwhelmed by the number of things they wanted to accomplish. The counselor suggested focusing on one thing at a time and reducing the number of commitments. The patient acknowledged the difficulty of doing so but also mentioned their involvement in individual therapy, group therapy, and a teaching course. The counselor encouraged the patient to give themselves a chance to make changes and not be afraid of themselves. The session ended with the patient expressing frustration over their busy schedule and the upcoming date of April 1st.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of recurrent stomachaches and physical symptoms linked to anxiety and stress. They have faced past difficulties with weight management, sexuality, and academic performance, which may have contributed to feelings of inadequacy or low self-esteem. The client reports a significant transformation during college, suggesting a period of positive change. There is a pattern of seeking control in relationships, likely as a way to manage anxiety and prevent vulnerability.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't stay in control and maintain the positive changes I've made, I will go back to being unhappy and inadequate. If I let my guard down, everything I've worked for could be lost. I must constantly monitor myself and my relationships to prevent things from falling apart.",
+  "intermediate_belief_depression": "If I can't keep things together, it means I'm a failure and nothing will ever get better for me.",
+  "coping_strategies": [
+    "The client tends to avoid situations that trigger anxiety about regression, sometimes procrastinating on tasks related to self-care or relationships. They seek reassurance from others to temporarily alleviate fears of losing control or returning to a previous unhappy state. There is also a pattern of ruminative thinking about past difficulties and the possibility of regression."
+  ],
+  "situation": "Concern about losing positive aspects of life or returning to a previous unhappy state.",
+  "auto_thought": "What if I lose everything I've worked for and end up miserable again? I can't let myself slip back to how things were before.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "fearful",
+    "sad"
+  ],
+  "behavior": "I check in with people close to me to make sure things are okay. I avoid situations that remind me of my past struggles. I spend a lot of time thinking about what could go wrong and trying to plan for every possibility."
+}

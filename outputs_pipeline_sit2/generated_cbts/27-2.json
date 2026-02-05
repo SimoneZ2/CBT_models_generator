@@ -1,0 +1,56 @@
+{
+  "name": "Divorced Female Client (Birthday Party Incident)",
+  "id": "27-2",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client recently divorced after a long-term relationship that began at age 19. She is experiencing financial difficulties and is in the process of settling child support for her young son. She is adjusting to being alone and handling new experiences, such as traveling alone with her son and visiting family without a partner. These transitions have left her feeling vulnerable and uncertain, especially in social situations where her divorce may be discussed.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If people know about my divorce, they will see me as a failure and judge me negatively. I must hide my struggles and appear composed, or others will think less of me. It's important to maintain appearances to avoid being pitied or rejected.",
+  "intermediate_belief_depression": "If I can't handle these situations or if people judge me, it means I really am a failure and things will never get better for me. There's no point in trying because I will always be seen as less than others.",
+  "coping_strategies": "She tries to maintain appearances and suppress her true feelings in social situations to avoid vulnerability. Afterward, she ruminates on the interaction, replaying what was said and worrying about others' judgments. She may withdraw from or avoid social events where her divorce could be mentioned.",
+  "situation": "At a birthday party, guests mention her divorce during casual conversation. Tries to maintain appearances and later continues thinking about the interaction.",
+  "auto_thought": "Everyone is judging me because I'm divorced. They must think I'm a failure and can't keep my life together.",
+  "emotion": [
+    "embarrassed",
+    "ashamed",
+    "anxious",
+    "self-conscious",
+    "lonely",
+    "vulnerable"
+  ],
+  "behavior": "She puts on a composed front and tries to act as if everything is fine during the party. Afterward, she replays the conversation in her mind, overthinks what others might have thought, and withdraws emotionally.",
+  "rationale": "\"She attempted to maintain appearances during the interaction but continued to ruminate on the conversation afterward.\" \"The mention of her divorce at the party could have triggered feelings of embarrassment or shame, leading to her ruminating on the interaction afterward.\" \"The patient may exhibit cognitive tendencies such as overthinking and self-criticism, particularly in social situations where her divorce is mentioned.\"",
+  "core_belief_predictions": {
+    "source_id": "27-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable",
+      "worthless"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable",
+      "I am worthless, waste"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

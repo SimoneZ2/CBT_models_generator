@@ -1,0 +1,28 @@
+{
+  "history": "The client recently went through a divorce, which has resulted in financial struggles and the need to adapt to single life. They are also navigating co-parenting responsibilities. Several friendships have deteriorated since the divorce, increasing feelings of isolation. The client describes a complicated relationship with their parents, which may contribute to emotional distress and avoidance behaviors. These life changes have led to increased anxiety, sadness, and a tendency to ruminate on past events.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't manage my finances after the divorce, it means I'm incapable and others will see me as a failure. I must handle everything perfectly on my own, or it proves I'm not good enough. If I struggle, it confirms that I can't cope with life on my own.",
+  "intermediate_belief_depression": "If I keep failing to get my finances under control, things will never get better and I'll always be stuck in this situation. There's no point in trying because nothing I do will make a difference.",
+  "coping_strategies": [
+    "The client tends to avoid dealing with financial paperwork due to anxiety and stress, leading to procrastination. They withdraw from social interactions, which contributes to the loss of friendships and increased isolation. The client may also seek reassurance from others but struggles to maintain supportive connections."
+  ],
+  "situation": "Managing financial hardship following the divorce, including handling financial paperwork.",
+  "auto_thought": "I'm never going to get this under control. If I mess this up, it just proves I can't handle life on my own.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "ashamed",
+    "sad",
+    "stressed"
+  ],
+  "behavior": "I put off opening or completing the financial paperwork. I avoid looking at bills or bank statements. I distract myself with other tasks or withdraw from people.",
+  "source_text_id": "1004472420.txt"
+}

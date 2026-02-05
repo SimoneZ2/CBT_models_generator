@@ -1,0 +1,31 @@
+{
+  "history": "The client has experienced financial difficulties after making questionable investments, which has resulted in increased reliance on their parents for financial support. This shift in financial independence appears to have triggered feelings of shame and disappointment, as the client now views themselves as less self-sufficient. The client tends to ruminate on their past financial mistakes and is preoccupied with how these decisions may negatively impact their future plans. There are indications of self-criticism and avoidance of discussing financial matters, especially with family.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make mistakes with money, it means I am incapable and others will see me as irresponsible. I must be financially independent to be respected and valued. If I rely on my parents, it proves I am not competent as an adult.",
+  "intermediate_belief_depression": "If I can't fix my financial problems, it means my future is hopeless and I will always be dependent and disappointed in myself.",
+  "coping_strategies": [
+    "The client tends to avoid discussing financial matters with others, including their parents, and may withdraw from social interactions. They also engage in rumination about past mistakes and procrastinate on making future financial plans, which maintains their distress. Seeking reassurance from parents provides temporary relief but reinforces dependency and feelings of inadequacy."
+  ],
+  "situation": "Thinking about how past financial decisions may affect future plans.",
+  "auto_thought": "I've ruined my chances for the future because of my bad decisions. I'll never be able to get back on track and will always have to rely on my parents.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "worried",
+    "disappointed",
+    "overwhelmed"
+  ],
+  "behavior": "I avoid talking to my parents about my finances. I put off making any new financial plans and distract myself with social media instead of facing the situation.",
+  "source_text_id": "1004600944.txt"
+}

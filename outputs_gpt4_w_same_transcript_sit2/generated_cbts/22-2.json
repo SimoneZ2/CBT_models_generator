@@ -1,0 +1,30 @@
+{
+  "name": "Case Study: Ivan's Partner",
+  "id": "CSIP001",
+  "type": [
+    "CBT",
+    "Interpersonal"
+  ],
+  "history": "Ongoing interpersonal difficulties involving a partner named Ivan and his family. Recent trust and betrayal issues involving Ivan. Ongoing contact with Ivan's family.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must avoid conflict to maintain relationships.",
+  "intermediate_belief_depression": "If I express my true feelings, I will be abandoned.",
+  "coping_strategies": "Avoiding confrontation and suppressing emotions to maintain peace.",
+  "situation": "During an interaction with Ivan's family, the mother says 'boys will be boys' and asks the patient to 'forgive and forget'.",
+  "auto_thought": "If I confront them, they will reject me.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Suppresses feelings and avoids confrontation.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

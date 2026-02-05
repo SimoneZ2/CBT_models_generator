@@ -1,0 +1,30 @@
+{
+  "name": "Case Study: Divorce Adjustment",
+  "id": "CS-001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recent divorce and financial difficulties. Relationship since age 19. Has a young son and is settling child support issues. Adjusting to being alone and handling new experiences (e.g., traveling alone with her son, visiting family without a partner).",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to maintain appearances to be accepted.",
+  "intermediate_belief_depression": "If I am alone, it means I am not worthy of love.",
+  "coping_strategies": "Avoid confrontation and seek validation from others.",
+  "situation": "At a birthday party, guests mention her divorce during casual conversation. Tries to maintain appearances and later continues thinking about the interaction.",
+  "auto_thought": "They must think I'm a failure because of my divorce.",
+  "emotion": [
+    "Embarrassment",
+    "Sadness"
+  ],
+  "behavior": "Avoids discussing personal issues and seeks reassurance from friends.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

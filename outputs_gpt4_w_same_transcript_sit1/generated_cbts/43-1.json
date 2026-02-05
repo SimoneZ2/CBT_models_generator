@@ -1,0 +1,26 @@
+{
+  "name": "Case Study",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Childhood experiences of emotional invalidation (e.g., being reprimanded for crying). History of depression.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not perfect, I will be rejected.",
+  "intermediate_belief_depression": "I am not good enough, so I will always be alone.",
+  "coping_strategies": "Attempts to gain approval and avoid rejection by trying to meet others' expectations.",
+  "situation": "Reconnecting with an individual named Edson after a period of no contact.",
+  "auto_thought": "If I don't meet Edson's expectations, he will reject me.",
+  "emotion": [
+    "Anxiety",
+    "Fear"
+  ],
+  "behavior": "Overanalyzing interactions and trying to be overly accommodating."
+}

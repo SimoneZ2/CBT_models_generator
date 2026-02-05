@@ -1,0 +1,31 @@
+{
+  "name": "Patient 32",
+  "id": "32",
+  "type": [
+    "achievement pressure",
+    "family judgment"
+  ],
+  "history": "Strained relationships with parents, feeling judged/disapproved. Mother's health condition mentioned. Issues with parental support during education. Mother described as \"broken\" with affair allegations.",
+  "helpless_belief": [
+    "I can never please them"
+  ],
+  "unlovable_belief": [
+    "I am a disappointment"
+  ],
+  "worthless_belief": [
+    "I am not good enough"
+  ],
+  "intermediate_belief": "No achievement will ever be enough for my parents.",
+  "intermediate_belief_depression": "I'm chasing approval from people who can't give it.",
+  "coping_strategies": [
+    "Overachieving, emotional detachment, seeking external validation."
+  ],
+  "situation": "Received work bonus for exceptional performance. During call with parents, they asked about job prospects.",
+  "auto_thought": "\"The bonus doesn't matter; they just want to know about my next move. Nothing is ever enough.\"",
+  "emotion": [
+    "frustration",
+    "invalidation",
+    "emptiness"
+  ],
+  "behavior": "Minimizes bonus achievement, changes subject to mother's health, ends call quickly."
+}

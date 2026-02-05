@@ -1,0 +1,28 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Ongoing work-related uncertainty and anxiety. Married recently; the relationship included instances of physical abuse by spouse Ivan and resulted in separation. Both partners are interested in resolving issues and are attending couples therapy.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't resolve the issues, I will be alone.",
+  "intermediate_belief_depression": "I can't handle the uncertainty and conflict.",
+  "coping_strategies": "Attending couples therapy to resolve relationship issues.",
+  "situation": "Exposed to clinical terms used to describe the spouse's behavior during therapy sessions.",
+  "auto_thought": "I am afraid of being hurt again and not being able to fix things.",
+  "emotion": [
+    "Anxiety",
+    "Fear",
+    "Uncertainty"
+  ],
+  "behavior": "Engages in therapy sessions, but feels anxious and uncertain about the outcome."
+}

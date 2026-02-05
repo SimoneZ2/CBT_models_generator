@@ -1,0 +1,29 @@
+{
+  "name": "Patient 12",
+  "id": "12",
+  "type": [
+    "academic stress",
+    "identity conflict"
+  ],
+  "history": "PhD student in science field with deep music involvement. Previously led college band, currently in jazz group. Declined leadership position. Feels disconnected from scientific colleagues.",
+  "helpless_belief": [
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I don't fit in anywhere - not in science, not fully in music.",
+  "intermediate_belief_depression": "I'm fragmented between different identities and good at neither.",
+  "coping_strategies": [
+    "Musical engagement, avoidance of leadership roles."
+  ],
+  "situation": "Experiencing difficulty during jazz rehearsals, requiring repeated attempts.",
+  "auto_thought": "Even in music, I'm struggling. Maybe I'm not good at anything.",
+  "emotion": [
+    "frustration",
+    "inadequacy",
+    "confusion"
+  ],
+  "behavior": "Struggle through jazz rehearsals with repeated attempts."
+}

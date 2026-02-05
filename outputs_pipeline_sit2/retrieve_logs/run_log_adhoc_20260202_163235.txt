@@ -1,0 +1,77 @@
+Using description: HISTORY:
+- PhD candidate engaged in scientific research.
+- References to a sequencing-related study and a colleague named Kelly.
+- Working on a project with a senior scientist who has struggled to gain recognition in his career.
+
+SITUATION:
+- Comparing themselves to colleagues who work longer hours and publish more papers. with ID=3-2
+Sample results (metadata similarity):
+  - sim=0.057 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.061 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.068 | title='Verilogue session: Client is having problems staying asleep; she spends too much' | file='1003075017.txt'
+  - sim=0.069 | title='Verilogue session: Client's wife is having problems regulating her prescription ' | file='1002565885.txt'
+  - sim=0.076 | title='This is an EMDR session with a 45-year-old woman whose son, George, was killed i' | file='1000606010.txt'
+  - sim=0.078 | title='Session 1: Client discusses her eating disorder of over-exercising and obsessing' | file='1000094808.txt'
+  - sim=0.078 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.083 | title='Verilogue session: Client feels overwhelmed with her duties as mother and as a c' | file='1001083953.txt'
+  - sim=0.086 | title='Verilogue session: Client's depressed mood has increased recently. She finds tha' | file='1001083936.txt'
+  - sim=0.087 | title='Series 1, Session 7: Client is trying to be constructive with her emotions. She ' | file='1002995961.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=29 partial_match=1992
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.087 | file='1002995961.txt' | title='Series 1, Session 7: Client is trying to be constructive with her emotions. She '
+  - sim=0.135 | file='1003009259.txt' | title='Verilogue session: Client's mood has not improved or worsened since starting med'
+  - sim=0.153 | file='1000126016.txt' | title='Session 10: Client has recently discovered that she is pregnant. She is embarras'
+Using LEAST related file for transcript: '1002995961.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a PhD candidate deeply immersed in scientific research, is currently grappling with feelings of inadequacy and self-doubt, particularly when comparing themselves to colleagues who seem to work longer hours and publish more papers. This comparison often triggers a cascade of anxious thoughts and emotions, leading to a sense of being overwhelmed. During the session, the client expressed a strategy to manage these feelings by physically grounding themselves, stating, "I'm going to get up and spot my water on my face," which indicates a conscious effort to disrupt the cycle of anxiety through physical sensation.
+
+The client has been working on a project with a senior scientist who has struggled to gain recognition, which may contribute to the client's own fears of inadequacy and failure. In the session, the client acknowledged the physical manifestations of their emotional distress, noting, "when you're emotionally upset you feel it physically," and expressed a desire to regain control over their thoughts and emotions. This reflects an understanding of the interconnectedness of their physical and emotional states, and a recognition of the need to address both to achieve a sense of calm and focus.
+
+Throughout the session, the client demonstrated an awareness of their automatic thoughts and the impact these have on their behavior. They mentioned, "I just feel like I'm not in a productive frame of mind," highlighting the struggle to maintain productivity amidst emotional turmoil. The client is actively working on shifting their cognitive patterns, as evidenced by their reflection on past feelings of worthlessness and the progress they have made in developing a more balanced self-view. They shared, "I'm not perfect but that's okay, I'm still darn good," indicating a growing acceptance of their imperfections and a move towards self-compassion.
+
+The client also discussed the importance of humor in managing their emotional state, noting that it helps them "stop taking myself so fricking seriously." This suggests a developing coping strategy that involves reframing their experiences in a way that reduces the intensity of negative emotions. Additionally, the client expressed a newfound understanding of love and relationships, comparing their previous idealized notions to a "Botox version of love," which they now see as unrealistic and unsustainable. This metaphor illustrates the client's shift towards embracing the imperfections inherent in human connections.
+
+As the session progressed, the client articulated a desire for constructive ways to manage their emotions, expressing regret over past impulsive actions driven by emotional distress. They are seeking strategies that allow them to "bring myself to attention" without resorting to destructive behaviors. This indicates a commitment to personal growth and a willingness to experiment with new approaches to emotional regulation.
+
+Overall, the client is making significant strides in recognizing and altering their cognitive and emotional patterns. They expressed gratitude for the progress made, stating, "it's so much of a change how I was feeling a few weeks ago," and acknowledged the role of the therapeutic process in facilitating this transformation. The session concluded with a sense of optimism and a commitment to continue exploring and implementing strategies that support their well-being.
+Summary da mistral_.csv: In this therapy session, the patient discussed various coping mechanisms for managing panic attacks. They mentioned focusing on physical sensations, such as taking a cold shower or engaging in physical activity, to help regain control and calm down. The patient also acknowledged the connection between emotions and physical sensations, noting that emotional upheaval can manifest physically. They discussed the importance of recognizing and challenging irrational thoughts during a panic attack and the benefits of self-compassion and accepting imperfections. The patient and counselor also touched on the idea that love, like other aspects of life, is not perfect and that it's essential to acknowledge and accept its imperfections. The patient expressed feeling empowered by their progress and the ability to manage panic attacks more effectively.
+The patient discussed a recent situation that triggered negative emotions and a desire to engage in destructive behavior. They acknowledged feeling a sense of control when able to break the cycle of these emotions and behaviors. The patient expressed a desire to find constructive ways to bring themselves to attention instead of reacting in anger. The counselor encouraged the patient to identify and address the root causes of their emotions and behaviors, and to report back on their progress in the following session. The patient expressed gratitude for the counseling sessions and their positive impact on their emotions.
+
+REFINED CCD: description + report
+{
+  "history": "The client is a PhD candidate engaged in scientific research, working closely with a senior scientist who has struggled to gain recognition. The client has a history of feeling inadequate and experiencing self-doubt, particularly when comparing themselves to high-achieving colleagues. They have previously struggled with feelings of worthlessness and have made efforts to develop a more balanced and self-compassionate perspective. The client is aware of the physical manifestations of their emotional distress and is actively seeking healthier ways to manage their emotions, moving away from impulsive or destructive behaviors.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't work as hard or publish as much as my colleagues, it means I'm not competent and I won't be respected in my field. I need to constantly prove my worth through productivity and recognition. Falling behind is a sign that I'm failing and that others are surpassing me.",
+  "intermediate_belief_depression": "If I can't keep up with my colleagues, it proves that I'm fundamentally inadequate and that my efforts are pointless. No matter what I do, I'll always fall short and won't be able to change how I feel about myself.",
+  "coping_strategies": [
+    "The client attempts to manage distress by physically grounding themselves, such as splashing water on their face, to disrupt anxious thoughts. They use humor to reduce the intensity of negative emotions and try to reframe their experiences. The client also withdraws or becomes less productive when overwhelmed, and is working to replace impulsive, destructive behaviors with more constructive emotional regulation strategies."
+  ],
+  "situation": "Comparing themselves to colleagues who work longer hours and publish more papers.",
+  "auto_thought": "I'm falling behind and everyone else is doing better than me. If I don't catch up, I'll never be respected or successful.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "inadequate",
+    "ashamed",
+    "self-doubt",
+    "sad"
+  ],
+  "behavior": "I stop working and lose focus, feeling unable to be productive. I physically ground myself by splashing water on my face to try to regain control. Sometimes I withdraw from tasks or avoid interacting with colleagues."
+}

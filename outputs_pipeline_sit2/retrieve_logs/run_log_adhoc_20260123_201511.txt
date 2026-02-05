@@ -1,0 +1,95 @@
+Using description: HISTORY:
+- Recent divorce and financial difficulties.
+- Relationship since age 19.
+- Has a young son and is settling child support issues.
+- Adjusting to being alone and handling new experiences (e.g., traveling alone with her son, visiting family without a partner).
+
+SITUATION:
+- At a birthday party, guests mention her divorce during casual conversation.
+- Tries to maintain appearances and later continues thinking about the interaction. with ID=27-2
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.569 | title='Patient "S", Session June 18, 2012: Client talks about not being invited to two ' | file='1004687750.txt'
+  - sim=0.529 | title='Patient "Ju", Session August 22, 2012: Client wants to meet with therapist more ' | file='1004687638.txt'
+  - sim=0.522 | title='Patient "S", Session October 05, 2012: Client talks about how her relationship i' | file='1004798833.txt'
+  - sim=0.518 | title='Patient "M" Therapy Session Audio Recording, May 21, 2012: Client is very upset ' | file='1004565025.txt'
+  - sim=0.513 | title='Session 11: Client describes a recent night out where a woman admonished him and' | file='1004824757.txt'
+  - sim=0.511 | title='Patient "M" Therapy Session Audio Recording, January 23, 2012: Client discusses ' | file='1004478010.txt'
+  - sim=0.501 | title='Series 4, Session 7: Client sees the male friend she is interested in again but ' | file='1003269471.txt'
+  - sim=0.500 | title='Patient "A" Therapy Session Audio Recording, December 20, 2011: Client is angry ' | file='1004466285.txt'
+  - sim=0.499 | title='Patient "Ju", Session July 16, 2012: Client had a stressful weekend. She ended u' | file='1004687628.txt'
+  - sim=0.499 | title='Patient "A" Therapy Session Audio Recording, January 24, 2012: Client talks abou' | file='1004478012.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=0 partial_match=10
+match_used=PARTIAL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.569 | file='1004687750.txt' | title='Patient "S", Session June 18, 2012: Client talks about not being invited to two '
+  - sim=0.529 | file='1004687638.txt' | title='Patient "Ju", Session August 22, 2012: Client wants to meet with therapist more '
+  - sim=0.522 | file='1004798833.txt' | title='Patient "S", Session October 05, 2012: Client talks about how her relationship i'
+Using top selected file for transcript: '1004687750.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is a recently divorced individual who has been in a long-term relationship since the age of 19. She is currently facing financial difficulties and is in the process of settling child support issues for her young son. The patient is adjusting to being alone and managing new experiences, such as traveling alone with her son and visiting family without a partner.
+
+**Current Situation:**
+The patient attended a birthday party where guests casually mentioned her divorce. She attempted to maintain appearances during the interaction but continued to ruminate on the conversation afterward.
+
+**Emotional Impact:**
+The patient's recent divorce and financial difficulties likely contribute to feelings of being overwhelmed, anxious, and stressed. The transition from a long-term relationship to single parenthood may evoke emotions of loneliness and vulnerability, particularly as she navigates new experiences without a partner. The mention of her divorce at the party could have triggered feelings of embarrassment or shame, leading to her ruminating on the interaction afterward.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive tendencies such as overthinking and self-criticism, particularly in social situations where her divorce is mentioned. This is supported by her continued rumination on the party interaction, suggesting a pattern of dwelling on perceived social judgments or criticisms. She might also experience cognitive distortions, such as catastrophizing or all-or-nothing thinking, which could exacerbate her emotional distress.
+
+**Behavioral Responses:**
+In response to her current life circumstances, the patient might engage in behaviors such as withdrawing from social interactions or avoiding situations where her divorce might be discussed. Her attempt to maintain appearances at the party suggests a coping mechanism of masking her true feelings to avoid vulnerability. Additionally, she may seek reassurance from others to validate her feelings or decisions, as indicated by her rumination on the party conversation.
+
+**Coping Styles:**
+The patient appears to be in the process of adjusting to her new reality, which involves developing new coping strategies. She may rely on problem-solving approaches to manage practical aspects of her life, such as financial issues and child support. However, emotionally, she might struggle with acceptance and self-compassion, potentially leading to increased stress and anxiety.
+
+**Therapeutic Focus:**
+In therapy, it would be beneficial to focus on helping the patient develop healthier cognitive and emotional coping strategies. This could include cognitive restructuring to address negative thought patterns and mindfulness techniques to reduce rumination. Encouraging self-compassion and acceptance of her current situation may also help alleviate feelings of shame or embarrassment. Additionally, exploring ways to build a supportive social network could provide her with emotional support and reduce feelings of loneliness.
+
+**Conclusion:**
+The patient's recent life changes have had a significant emotional and cognitive impact, leading to stress, anxiety, and potential social withdrawal. By addressing these areas in therapy, she can develop more adaptive coping mechanisms and improve her overall well-being as she navigates this transitional period in her life.
+Summary da mistral_.csv: The client discussed their involvement in a friend's wedding planning and feeling left out of the rehearsal dinner and bachelorette party. They mentioned that they had helped with various tasks and expected to be invited but were not. The client expressed hurt and frustration, particularly since some friends who lived out of town were included. They considered confronting their friend about the issue but were unsure if it was worth doing so close to the wedding. The client also mentioned seeking advice from various sources, including the therapist, about how to handle the situation.
+The client expresses feelings of being left out and pushed away by a group of friends, specifically mentioning the influence of a friend named Lucy. They have tried to assert themselves and communicate their feelings to their friends and parents, but have received advice to maintain the friendships. The client feels more and more resentful as they see their friends attending each other's weddings and events without their inclusion. They express envy and a desire for closer friendships, but also acknowledge their own role in the situation. The client is unsure of how to proceed, seeking guidance from the therapist on whether to continue trying to communicate with their friends or to distance themselves. The client also discusses their self-doubt and fear of confrontation, as well as their belief that Lucy is a significant factor in the situation.
+The client expresses feelings of envy and hurt regarding a group of friends who prioritize one member over her. She reflects on the desire to keep her circle smaller and only invest time in friends who reciprocate. The client also discusses her upcoming wedding and the decision to involve fewer people, as well as her struggle with seeking outside opinions and control over her emotions. The therapist acknowledges the client's pattern of seeking validation and offers some insight into her motivations. The session concludes with a plan to continue the conversation on a future date.
+
+ REFINED CCD: description + report
+{
+  "history": "The client recently divorced after a long-term relationship that began at age 19. She is experiencing financial difficulties and is in the process of settling child support for her young son. She is adjusting to being alone and handling new experiences, such as traveling alone with her son and visiting family without a partner. These transitions have left her feeling vulnerable and uncertain, especially in social situations where her divorce may be discussed.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If people know about my divorce, they will see me as a failure and judge me negatively. I must hide my struggles and appear composed, or others will think less of me. It's important to maintain appearances to avoid being pitied or rejected.",
+  "intermediate_belief_depression": "If I can't handle these situations or if people judge me, it means I really am a failure and things will never get better for me. There's no point in trying because I will always be seen as less than others.",
+  "coping_strategies": [
+    "She tries to maintain appearances and suppress her true feelings in social situations to avoid vulnerability. Afterward, she ruminates on the interaction, replaying what was said and worrying about others' judgments. She may withdraw from or avoid social events where her divorce could be mentioned."
+  ],
+  "situation": "At a birthday party, guests mention her divorce during casual conversation. Tries to maintain appearances and later continues thinking about the interaction.",
+  "auto_thought": "Everyone is judging me because I'm divorced. They must think I'm a failure and can't keep my life together.",
+  "emotion": [
+    "embarrassed",
+    "ashamed",
+    "anxious",
+    "self-conscious",
+    "lonely",
+    "vulnerable"
+  ],
+  "behavior": "She puts on a composed front and tries to act as if everything is fine during the party. Afterward, she replays the conversation in her mind, overthinks what others might have thought, and withdraws emotionally."
+}

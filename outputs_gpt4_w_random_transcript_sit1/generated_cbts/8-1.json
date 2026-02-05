@@ -1,0 +1,26 @@
+{
+  "name": "Patient",
+  "id": "Interview 12",
+  "type": [
+    "CBT"
+  ],
+  "history": "Past traumatic incident involving sexual assault by partner Ivan. Ongoing relationship difficulties involving trust and intimacy. Reports some improvement in relationship dynamics with Ivan making efforts to rebuild trust.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must adhere to societal expectations and obligations.",
+  "intermediate_belief_depression": "I am not entitled to prioritize my own needs or feelings.",
+  "coping_strategies": "Avoidance of confrontation and adherence to perceived obligations.",
+  "situation": "Physical intimacy is resuming in the relationship.",
+  "auto_thought": "I feel like I don't belong here and that I'm taking up space for someone who needs it more.",
+  "emotion": [
+    "Frustration",
+    "Boredom",
+    "Resentment"
+  ],
+  "behavior": "Attending therapy sessions out of obligation rather than desire."
+}

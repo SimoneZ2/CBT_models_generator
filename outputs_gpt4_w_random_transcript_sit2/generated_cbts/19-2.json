@@ -1,0 +1,28 @@
+{
+  "name": "Rachel",
+  "id": "PV010728",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Rachel has recurring relationship problems with her husband Ivan. Work-related stress. Sister Emma often takes a caring role toward Rachel. Father had a successful career and strong work ethic, influencing Rachel's expectations. Recently laid off and currently looking for new employment.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't keep everything under control, things will fall apart.",
+  "intermediate_belief_depression": "I must avoid feeling vulnerable or powerless.",
+  "coping_strategies": "Rachel tries to distract herself from feelings towards Ivan by focusing on therapy sessions and routines.",
+  "situation": "Received a job rejection email while searching for work.",
+  "auto_thought": "If I don't close up everything now, I'll get all tied up in knots.",
+  "emotion": [
+    "anxiety",
+    "fear",
+    "frustration"
+  ],
+  "behavior": "Rachel attempts to control her environment and emotions to avoid feeling vulnerable."
+}

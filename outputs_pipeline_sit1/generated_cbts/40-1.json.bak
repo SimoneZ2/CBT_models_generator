@@ -1,0 +1,36 @@
+{
+  "name": "CBT Cognitive Conceptualization for Recent Move/Isolation Case",
+  "id": "ccd-001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client recently moved to a new living space, which has been a significant source of stress. They describe a difficult relationship with their mother, who is perceived as judgmental and emotionally unsupportive. Friendships have become strained, leading to increased feelings of isolation. The client has attempted to manage the move and unpacking alone, without support from friends, and is currently avoiding contact with both friends and their mother.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I ask for help or reach out, I will be judged or rejected, so it's safer to do everything on my own. If people don't offer support, it means I am not important to them. I must handle things myself to avoid being disappointed or hurt.",
+  "intermediate_belief_depression": "If I can't manage everything alone and no one is there for me, it means I am truly alone and things will never get better. If I keep failing to connect, it proves I'm not worth supporting.",
+  "coping_strategies": "The client avoids reaching out to friends or their mother, withdrawing from social contact to protect themselves from perceived judgment or conflict. They attempt to manage stressful tasks alone, which leads to exhaustion and reinforces their sense of isolation.",
+  "situation": "Feeling exhausted after attempting to unpack without support from friends. Avoiding contact with friends and the mother.",
+  "auto_thought": "No one cares enough to help me. I have to do everything by myself because I can't count on anyone.",
+  "emotion": [
+    "exhausted",
+    "lonely",
+    "anxious",
+    "hurt",
+    "disappointed",
+    "overwhelmed"
+  ],
+  "behavior": "I stop responding to messages and avoid calling or texting friends and my mother. I continue unpacking alone, even though I feel drained.",
+  "rationale": "\"The lack of support from friends during this transition may exacerbate feelings of loneliness and isolation.\" \"The patient's relationship with their mother, characterized by judgment and lack of emotional support, may lead to feelings of inadequacy, disappointment, and hurt.\" \"The patient is currently avoiding contact with friends and their mother, which may be a coping mechanism to protect themselves from perceived judgment or conflict.\" \"The stress of the move and the lack of support could lead to thoughts like 'I have to do everything myself' or 'No one cares about me,' which can contribute to feelings of helplessness and hopelessness.\""
+}

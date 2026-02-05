@@ -1,0 +1,77 @@
+Using description: HISTORY:
+- PhD student in a science field.
+- Deep involvement in music; previously led a college band and currently participates in a jazz group.
+- Offered a leadership position in the jazz group and declined.
+- Reports mental health struggles.
+- Feels disconnected from colleagues in the scientific work environment due to differing values and work habits.
+
+SITUATION:
+- Experiencing difficulty during jazz rehearsals, requiring repeated attempts to progress. with ID=12-1
+Sample results (metadata similarity):
+  - sim=0.060 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.091 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.100 | title='Session 438: Client still wishes she had a male child' | file='1000395259.txt'
+  - sim=0.114 | title='Verilogue session: Client's wife is expecting twins soon; he is experiencing nor' | file='1003009197.txt'
+  - sim=0.114 | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne' | file='1004503136.txt'
+  - sim=0.121 | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c' | file='1001114245.txt'
+  - sim=0.121 | title='Session 427: Client does not want to think about the baby being born' | file='1000393776.txt'
+  - sim=0.123 | title='Patient "D" Session April 09, 2012: Client talks about a conversation she had wi' | file='1004532462.txt'
+  - sim=0.130 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.130 | title='Patient "M", Session February 21, 2012: Client is experiencing grief over the re' | file='1004503134.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.060 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.091 | file='1003075028.txt' | title='Verilogue session: Client is having problems concentrating; she wonders if it is'
+  - sim=0.100 | file='1000395259.txt' | title='Session 438: Client still wishes she had a male child'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a PhD student in a science field, has a rich background in music, having led a college band and currently participating in a jazz group. Despite being offered a leadership position in the jazz group, he declined, citing mental health struggles and a sense of disconnection from colleagues in his scientific work environment due to differing values and work habits. During our session, he expressed a deep engagement with mathematics, describing it as an "immersion into an intellectual, really intellectual activity." He finds beauty in the logical progression of proofs and the economy of language required, although he struggles with the expectation to be concise, feeling that it "leaves me a little cold" because it doesn't capture the full process of discovery.
+
+The client shared an experience of tutoring precalculus, noting the challenge of relearning material to teach it effectively. He described a sense of accomplishment when he was able to "teach the material and be helpful" to his peers, which provided a boost to his confidence. However, he also expressed feeling "slightly self-conscious" about his preoccupation with mathematics, questioning its relevance and necessity. This reflects a broader theme of feeling disconnected from the immediate world, as he often feels like he's in a "little bubble of math."
+
+In discussing his approach to learning, the client highlighted the importance of grappling with new concepts, stating that the initial frustration of not understanding is "the spark that makes the learning happen." He described the process of moving from confusion to clarity as a rewarding journey, akin to "fumbling for the light switch" in a dark room. This metaphor captures his experience of gradually illuminating complex ideas through persistent effort.
+
+The client also reflected on the universality of mathematical language, sharing an anecdote about watching a French math lecture and realizing that "I totally understand what's going on" despite the language barrier. This experience reinforced his appreciation for the transcendent nature of mathematics, which he finds "amazing" and deeply human. He contrasted this with the contentiousness he perceives in fields like philosophy and psychoanalysis, where debates are ongoing and subjective.
+
+Throughout the session, the client demonstrated a strong preference for visual learning, frequently drawing pictures to aid his understanding and teaching. He recounted a successful teaching experience where he used colored chalk to illustrate complex concepts, which helped his peers grasp the material. This aligns with his belief that creating visual representations makes learning "much more real" and engaging.
+
+Despite his intellectual pursuits, the client acknowledged a lack of recent writing, which he previously used as a means of exploring personal and philosophical ideas. He expressed a sense of distance from this aspect of his life, noting that his focus on mathematics has overshadowed other interests. This shift may contribute to his feelings of disconnection and the perception that he is "behind the scenes" in some way.
+
+As the session concluded, the client expressed a willingness to continue exploring these themes, indicating a desire to integrate his mathematical interests with a broader understanding of his place in the world. His reflections suggest an ongoing journey of self-discovery, as he navigates the complexities of his academic and personal life.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client is a PhD student in a science field with a strong background in music, having led a college band and currently participating in a jazz group. He declined a leadership position in the jazz group due to mental health struggles and a sense of disconnection from colleagues in his scientific work environment. He has a deep engagement with mathematics, describing it as an intellectual activity, and finds beauty in the logical progression of proofs. He feels slightly self-conscious about his preoccupation with mathematics and often feels disconnected from the immediate world.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't progress smoothly during rehearsals, then I am not competent enough to be part of the group.",
+  "intermediate_belief_depression": "If I struggle during rehearsals, it means I will never be able to fit in or succeed.",
+  "coping_strategies": [
+    "The client tends to immerse himself in mathematics, creating a 'bubble' that disconnects him from the immediate world. He also avoids leadership roles and writing, which previously helped him explore personal ideas."
+  ],
+  "situation": "Experiencing difficulty during jazz rehearsals, requiring repeated attempts to progress.",
+  "auto_thought": "I'm struggling again; I must not be good enough for this group.",
+  "emotion": [
+    "anxious",
+    "self-conscious",
+    "frustrated",
+    "disconnected"
+  ],
+  "behavior": "He hesitates to take initiative during rehearsals and avoids suggesting ideas. He may withdraw from the group, focusing instead on his mathematical pursuits."
+}

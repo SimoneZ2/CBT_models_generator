@@ -1,0 +1,72 @@
+Using description: HISTORY:
+- Ongoing workplace difficulties involving underappreciation and lack of support.
+- Repeated experiences of ideas and suggestions not being accepted.
+
+SITUATION:
+- A workplace discussion about culture and atmosphere conflicted with a client meeting scheduled by the mentor. with ID=15-1
+Sample results (metadata similarity):
+  - sim=0.160 | title='Verilogue session: Client has been experiencing anxiety and some manic episodes' | file='1001084024.txt'
+  - sim=0.168 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.176 | title='Verilogue session: Client's insomnia seems to be causing mood swings' | file='1001280398.txt'
+  - sim=0.179 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.182 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.188 | title='Psychotherapy With Medically Ill Children: Many therapists feel overwhelmed with' | file='1001114244.txt'
+  - sim=0.193 | title='Verilogue session: Client is suffering from depression; her current antidepressa' | file='1001083929.txt'
+  - sim=0.201 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.206 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+  - sim=0.206 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.160 | file='1001084024.txt' | title='Verilogue session: Client has been experiencing anxiety and some manic episodes'
+  - sim=0.168 | file='1003075019.txt' | title='Verilogue session: Client has been experimenting with her medications to find th'
+  - sim=0.176 | file='1001280398.txt' | title='Verilogue session: Client's insomnia seems to be causing mood swings'
+Using LEAST related file for transcript: '1001084024.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has been experiencing ongoing workplace difficulties, describes a persistent feeling of being underappreciated and unsupported, particularly when their ideas and suggestions are not accepted. During our session, they expressed a sense of "anxiety from school getting ready to start," which seems to exacerbate their feelings of being overwhelmed. This anxiety manifests in what they describe as "manic type episodes," where they find themselves staying up all night, unable to wind down, and feeling "tired during the day." The client admits to getting caught up in activities, particularly on the computer, which they liken to an "addiction," indicating a struggle to disengage from work-related tasks even when they know it's time to rest.
+
+The client also shared that their thoughts often feel "racing," leading to irritability and a sense of being overwhelmed by the sheer volume of ideas in their head. This racing mind seems to be a significant barrier to sleep, as they often find themselves lying awake, unable to quiet their thoughts. The client has noticed this pattern for "about three or four weeks," coinciding with increased stress from work and the impending school year. They mentioned that they have been working over 250 hours during the summer on a program they presented, feeling that they are "working there for free" and that this lack of compensation contributes to their stress and anxiety.
+
+Physically, the client is dealing with back pain, having undergone "two cervical epidurals" to avoid surgery, which adds another layer of stress. They express frustration with their physical limitations, feeling that they are "pushing themselves too far" despite the pain. This physical discomfort, combined with their mental stress, has led to weight gain, which they find distressing. They note that they have put on "a good 35 pounds" since their baby was born, which they attribute to a lack of exercise due to their back issues and emotional eating when their "mood is down."
+
+The client is currently managing their symptoms with medication, though they express concern about the side effects, particularly with Seroquel, which made them feel "like a zombie." They are hesitant about medications that cause weight gain, given their current struggles with weight. The client is considering starting Lamictal, as it is "weight neutral" and could help stabilize their mood without the sedating effects they wish to avoid. They are also using Xanax as needed, though they sometimes feel they "need more" on particularly rough days.
+
+Throughout the session, the client repeatedly returns to the theme of feeling overwhelmed by their responsibilities and the lack of support at work. They express a desire for more balance and time to "recuperate and gather" their energy, which they feel would alleviate some of their anxiety. The client is aware that their current coping strategies, such as staying up late and emotional eating, are not sustainable and are contributing to their stress. They express a hope that with the right medication and some lifestyle adjustments, they can regain a sense of control and calm in their life.
+Summary da mistral_.csv: The patient discussed experiencing anxiety, manic episodes, and racing thoughts, keeping them awake at night. They mentioned a history of anxiety related to school and back pain, which has worsened in recent weeks. The patient had previously tried various mood stabilizers, including Depakote, Neurontin, and Seroquel, but found Seroquel to be particularly sedating and weight-gaining. They currently average around five hours of sleep per night and have gained weight since having a baby three years ago. The patient mentioned feeling irritable and having trouble focusing. The doctor suggested trying Lamictal, a mood stabilizer that is weight neutral and has minimal side effects, and increasing the dosage of Xanax as needed. The doctor also mentioned the importance of getting enough sleep and suggested trying to relax before bed. The patient mentioned having gained around 35 pounds since having the baby and feeling down about it. The doctor noted that the patient's weight gain was likely
+The patient discusses their tendency to turn to food for comfort when experiencing negative emotions, such as sadness or anxiety. The doctor acknowledges this issue and suggests water exercises as an alternative to alleviate back pain and potentially help the patient focus more on their diet and exercise. The doctor also mentions that they have increased the patient's Xanax prescription and encourages them to continue taking Wellbutrin and begin samples for a new medication.
+
+REFINED CCD: description + report
+{
+  "history": "The client has ongoing workplace difficulties involving underappreciation and lack of support, with repeated experiences of ideas and suggestions not being accepted. They have been working over 250 hours during the summer on a program they presented, feeling that they are working there for free. This lack of compensation contributes to their stress and anxiety. The client is also dealing with physical discomfort from back pain, having undergone two cervical epidurals to avoid surgery. They express frustration with their physical limitations and have gained weight, which they find distressing.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If my ideas are not accepted, then I am not valued at work. If I don't receive support, then I cannot manage my responsibilities effectively.",
+  "intermediate_belief_depression": "If my ideas are not accepted, then I am not valued at work, and I will never be able to manage my responsibilities effectively.",
+  "coping_strategies": [
+    "The client stays up late, unable to wind down, and gets caught up in activities on the computer, which they liken to an addiction. They engage in emotional eating when their mood is down and are aware that these strategies are not sustainable."
+  ],
+  "situation": "A workplace discussion about culture and atmosphere conflicted with a client meeting scheduled by the mentor.",
+  "auto_thought": "I can't believe they scheduled this meeting over my important discussion. They don't care about my input.",
+  "emotion": [
+    "frustrated",
+    "overwhelmed",
+    "anxious"
+  ],
+  "behavior": "The client stays up late, unable to wind down, and gets caught up in activities on the computer. They feel tired during the day and struggle to disengage from work-related tasks."
+}

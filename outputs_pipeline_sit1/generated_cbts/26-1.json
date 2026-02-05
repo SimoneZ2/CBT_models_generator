@@ -1,0 +1,59 @@
+{
+  "name": "Client Exposed to Clinical Terms in Couples Therapy",
+  "id": "26-1",
+  "type": [
+    "CBT Case Formulation",
+    "CCD Model"
+  ],
+  "history": "The client has ongoing work-related uncertainty and anxiety, which contributes to persistent worry and tension. Recently, the client married Ivan, but the relationship included instances of physical abuse, leading to a separation. Despite the separation, both partners are interested in resolving their issues and are attending couples therapy. The client is now exposed to clinical terms describing the spouse's behavior during therapy, which may feel impersonal or stigmatizing and could impact self-perception and perception of the relationship.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If others use clinical terms to describe my spouse's behavior, it means our problems are too serious or abnormal, and I must have failed to prevent this. If I am seen through these labels, I will be misunderstood and judged. I need to protect myself from being defined by these terms, or else I will lose my sense of self and connection.",
+  "intermediate_belief_depression": "If my relationship is described in clinical terms, it means things are hopeless and I am broken beyond repair. No matter what I do, I can't escape being seen as damaged or at fault.",
+  "coping_strategies": "The client tends to withdraw or avoid engaging deeply when clinical terms are used, possibly to protect against feeling judged or exposed. They may seek reassurance from the therapist or spouse to validate their perspective and reduce distress. Attending couples therapy reflects a proactive attempt to address issues, but emotional avoidance and rumination may maintain anxiety.",
+  "situation": "Exposed to clinical terms used to describe the spouse's behavior during therapy sessions.",
+  "auto_thought": "They're talking about Ivan like he's a case, not a person. If they see him this way, maybe our whole relationship is just a problem to be fixed or judged.",
+  "emotion": [
+    "vulnerable",
+    "defensive",
+    "anxious",
+    "ashamed",
+    "worried",
+    "sad"
+  ],
+  "behavior": "I become quiet and withdraw during the session. I avoid making eye contact and hesitate to share my feelings. Later, I ask the therapist or Ivan for reassurance that things aren't as bad as they sound.",
+  "rationale": "\"Exposure to clinical terms in therapy could evoke feelings of vulnerability or defensiveness, as these terms might feel impersonal or stigmatizing.\" \"The patient may engage in ruminative thinking... about the dynamics of the marital relationship.\" \"The patient might exhibit avoidance behaviors, such as withdrawing from discussions... to avoid confrontation or distress.\" \"The patient may also seek reassurance from the spouse or therapist, reflecting a need for validation and support.\"",
+  "core_belief_predictions": {
+    "source_id": "26-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable",
+      "worthless"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am bound to be rejected",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable",
+      "I am worthless, waste"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Patient 23",
+  "id": "23",
+  "type": [
+    "family conflict",
+    "financial dependency"
+  ],
+  "history": "Longstanding difficult interactions with mother. Strained communication and delayed sharing of significant events.",
+  "helpless_belief": [
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am a disappointment"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need my mother's financial help, so I must tolerate her control.",
+  "intermediate_belief_depression": "I'll never have a healthy relationship with my mother.",
+  "coping_strategies": [
+    "Compliance followed by resentment, emotional distancing."
+  ],
+  "situation": "Disagreement with mother about weekend plans. Mother covers expenses during visit.",
+  "auto_thought": "\"She's buying my compliance. I'm a sellout. I can't say no while she's paying.\"",
+  "emotion": [
+    "resentment",
+    "shame",
+    "entrapment"
+  ],
+  "behavior": "Gives in to mother's plans, acts cheerful, later cancels plans with friends to recover."
+}

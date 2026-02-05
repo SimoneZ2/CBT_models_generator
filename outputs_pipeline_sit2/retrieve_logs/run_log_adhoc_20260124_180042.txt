@@ -1,0 +1,88 @@
+Using description: HISTORY:
+- Recurrent stomachaches associated with anxiety.
+- Past difficulties involving weight management, academics, and sexuality.
+- Reports a pattern of seeking control in relationships.
+
+SITUATION:
+- Ongoing stomach issues and following medical advice related to diet and treatment. with ID=39-1
+Top results (by metadata similarity):
+  - sim=0.628 | title='Verilogue session: Client is experiencing medical issues that cannot be diagnose' | file='1001083999.txt'
+  - sim=0.602 | title='Verilogue session: Client is concerned about his obesity and is considering gast' | file='1001083959.txt'
+  - sim=0.587 | title='Verilogue session: Client has been experiencing persistent anxiety' | file='1001084065.txt'
+  - sim=0.585 | title='Verilogue session: Client has been experiencing anxiety and sleep disturbances s' | file='1001084045.txt'
+  - sim=0.583 | title='Verilogue session: Client is frustrated because she cannot retain a state of rem' | file='1001084056.txt'
+  - sim=0.582 | title='Verilogue session: Client is depressed when she is away at school' | file='1002565987.txt'
+  - sim=0.581 | title='Verilogue session: Client is unhappy with being overweight. They discuss the pos' | file='1001083933.txt'
+  - sim=0.577 | title='Verilogue session: Client started getting in shape with his son recently but, he' | file='1002565862.txt'
+  - sim=0.572 | title='Verilogue session: Client's medications sometimes make her feel drunk and exhaus' | file='1003009245.txt'
+  - sim=0.571 | title='Verilogue session: Client is suffering from severe anxiety that she feels is unm' | file='1001084046.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2 partial_match=8
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=2
+  - sim=0.602 | file='1001083959.txt' | title='Verilogue session: Client is concerned about his obesity and is considering gast'
+  - sim=0.577 | file='1002565862.txt' | title='Verilogue session: Client started getting in shape with his son recently but, he'
+Using top selected file for transcript: '1001083959.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient presents with recurrent stomachaches associated with anxiety, past difficulties with weight management, academics, and sexuality, and a pattern of seeking control in relationships. Currently, the patient is experiencing ongoing stomach issues and is following medical advice related to diet and treatment.
+
+**Emotional Impact:**
+The patient's recurrent stomachaches, linked to anxiety, suggest a significant emotional burden. The physical discomfort likely exacerbates feelings of anxiety, creating a cycle where anxiety contributes to stomach issues, which in turn heighten anxiety. This cycle can lead to feelings of being overwhelmed and may contribute to a sense of helplessness or frustration.
+
+Past difficulties with weight management, academics, and sexuality may contribute to feelings of inadequacy or low self-esteem. These challenges can evoke emotions such as sadness, disappointment, or shame, particularly if the patient perceives these difficulties as personal failures. The ongoing effort to manage these areas may lead to persistent worry or tension, especially if the patient feels pressure to meet certain standards or expectations.
+
+**Cognitive Patterns:**
+The patient's history of seeking control in relationships suggests a cognitive pattern characterized by a need for predictability and stability. This need for control may stem from past experiences where the patient felt powerless or uncertain. The desire to control aspects of relationships could be a coping mechanism to mitigate anxiety and create a sense of security.
+
+The patient's ongoing medical issues and adherence to dietary and treatment recommendations indicate a cognitive focus on health and well-being. This focus may be driven by a fear of negative health outcomes or a desire to regain control over physical symptoms. The patient might engage in frequent rumination about health, leading to heightened vigilance and possibly contributing to anxiety.
+
+**Behavioral Responses:**
+The patient likely engages in behaviors aimed at managing anxiety and gaining control over their circumstances. These behaviors may include strict adherence to medical advice, dietary adjustments, and possibly seeking reassurance from healthcare providers. The patient's pattern of seeking control in relationships might manifest as attempts to influence or direct interactions with others, potentially leading to tension or conflict if others perceive these attempts as overbearing.
+
+In response to past difficulties with weight management, the patient might engage in behaviors such as monitoring food intake, exercising, or seeking information about weight loss strategies. These behaviors could be motivated by a desire to improve self-esteem and achieve a sense of accomplishment.
+
+**Coping Styles:**
+The patient appears to utilize problem-focused coping strategies, such as following medical advice and making lifestyle changes, to address ongoing stomach issues. This approach suggests a proactive stance towards managing health-related concerns. However, the patient's need for control in relationships may indicate an avoidance of emotional vulnerability, potentially limiting the effectiveness of emotional coping strategies.
+
+The patient's past experiences with weight management, academics, and sexuality may have fostered a coping style characterized by self-monitoring and self-regulation. This style might involve setting personal goals and striving for self-improvement, although it could also lead to self-criticism if goals are not met.
+
+**Conclusion:**
+The patient's psychological experience is shaped by a complex interplay of anxiety, a need for control, and past challenges. Addressing these issues through cognitive-behavioral strategies could involve exploring and modifying cognitive patterns related to control and self-worth, developing adaptive coping mechanisms, and enhancing emotional regulation skills. By fostering a more balanced approach to control and acceptance, the patient may achieve greater emotional well-being and improved management of anxiety-related symptoms.
+Summary da mistral_.csv: The patient discussed their stable condition during the previous session, mentioning some family issues and occasional forgetfulness in taking medications. They reported problems with their daughter's academic dishonesty and their tendency to take her side, causing tension with their spouse. The patient also shared concerns about their liver functions due to medication side effects and considered getting a gastric bypass. They joined a gym, started working out, and lost 12 pounds in a month. The patient discussed their daughter's academic issues, their wife's reaction, and their attempts to mediate the situation. They also mentioned their doctor's concern about their liver functions, which could be related to their medication. The patient expressed interest in the gastric bypass procedure but acknowledged the risks and potential complications. They also mentioned their wife's friend's success with a weight loss program and considered joining it. The doctor discussed the effectiveness of various weight loss programs, including [DEIDENTIFIED], and
+The doctor discusses his encounters with patients who have undergone weight loss surgeries, including gastric bypass, and the potential risks and challenges associated with maintaining weight loss after the procedure. He also provides advice to the patient on weight loss strategies, such as portion control, eating smaller meals throughout the day, and avoiding processed foods. The doctor mentions the importance of considering the long-term consequences of weight loss methods and the potential risks of taking appetite suppressant medications, especially for individuals with bipolar disorder.
+The patient discussed their gym routine and the positive effects it has on their mood. The doctor suggested Provigil as a potential alternative medication to help with daytime wakefulness and appetite control, as the patient had previously taken it for sleep apnea. The doctor offered to provide samples and a prescription for the patient to try. The patient mentioned they had been taking 200mg of Provigil before and that their moods had been stable overall, with no instability or substance use issues.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of recurrent stomachaches linked to anxiety, as well as past difficulties with weight management, academics, and sexuality. There is a pattern of seeking control in relationships, which may stem from earlier experiences of feeling powerless or uncertain. These past challenges appear to have contributed to feelings of inadequacy, low self-esteem, and a tendency toward self-criticism, as well as a coping style focused on self-monitoring and self-regulation.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't strictly follow medical advice and control my diet, my stomach issues will get worse and I won't be able to handle it. I must always be in control of my health and circumstances to feel safe. If I lose control, it means I am weak or inadequate.",
+  "intermediate_belief_depression": "If I can't get my stomach issues under control no matter how hard I try, it means I'm hopeless and nothing I do will ever be enough.",
+  "coping_strategies": [
+    "The client strictly adheres to medical advice and dietary recommendations in an effort to manage anxiety and regain a sense of control. There is frequent self-monitoring and rumination about health, as well as seeking reassurance from healthcare providers. The client may avoid emotional vulnerability in relationships by focusing on control and problem-solving."
+  ],
+  "situation": "Ongoing stomach issues and following medical advice related to diet and treatment.",
+  "auto_thought": "No matter how hard I try to follow the advice, my stomach still hurts. I must be doing something wrong or I'm never going to get better.",
+  "emotion": [
+    "anxious",
+    "frustrated",
+    "overwhelmed",
+    "worried",
+    "helpless",
+    "disappointed"
+  ],
+  "behavior": "I carefully monitor everything I eat and follow the treatment plan exactly. I check in with my doctor or look up more information online when symptoms persist. I avoid situations where I might lose control over my diet or symptoms."
+}

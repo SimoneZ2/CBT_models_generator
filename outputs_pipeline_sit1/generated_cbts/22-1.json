@@ -1,0 +1,53 @@
+{
+  "name": "CBT Cognitive Conceptualization for Patient (Ivan Case)",
+  "id": "22-1",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The patient has a history of ongoing interpersonal difficulties with a partner named Ivan and his family. There have been recent issues around trust and betrayal, particularly after discovering Ivan made travel plans without consulting the patient. The patient continues to have contact with Ivan's family, which adds to the complexity and emotional strain of the situation. These dynamics appear to contribute to persistent worries about relationship stability and self-worth.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not consulted or included in important decisions by those close to me, it means I am not valued or respected. I must always be involved to feel secure in my relationships. If I am left out, it confirms my fear that I am not important to them.",
+  "intermediate_belief_depression": "If I am repeatedly excluded or betrayed by people I care about, it means I will always end up alone and unloved, no matter what I do.",
+  "coping_strategies": "The patient tends to withdraw from social interactions and avoids discussing the travel plans with Ivan. They may seek reassurance about the relationship or try to maintain peace with Ivan's family by accommodating their needs, even at the expense of their own comfort. There is evidence of ruminative thinking and attempts to distract from distress through external support or activities.",
+  "situation": "Discovered that Ivan made travel plans without consulting the patient.",
+  "auto_thought": "Ivan didn't even think to include me. I must not matter to him as much as I thought.",
+  "emotion": [
+    "hurt",
+    "disappointed",
+    "anxious",
+    "excluded",
+    "angry",
+    "worried"
+  ],
+  "behavior": "Withdrew from Ivan and avoided bringing up the travel plans. Sought reassurance from others about the relationship. Tried to keep interactions with Ivan's family peaceful, even if it felt uncomfortable.",
+  "rationale": "\"The trust and betrayal issues with Ivan may lead to feelings of being hurt, disappointed, and possibly angry. The discovery of unconsulted travel plans could intensify feelings of exclusion and betrayal, potentially leading to increased anxiety and worry about the stability of the relationship.\" \"The patient may engage in ruminative thinking, particularly focusing on the trust and betrayal issues with Ivan. This could manifest as persistent thoughts about the implications of Ivan's actions and what they mean for the relationship.\" \"In response to these emotional and cognitive patterns, the patient might exhibit behaviors such as withdrawing from social interactions, avoiding discussions about the travel plans, or seeking reassurance from Ivan or others about the relationship's status.\"",
+  "core_belief_predictions": {
+    "source_id": "22-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

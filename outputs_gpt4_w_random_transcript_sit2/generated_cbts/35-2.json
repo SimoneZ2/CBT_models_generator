@@ -1,0 +1,25 @@
+{
+  "name": "Patient",
+  "id": "12345",
+  "type": [
+    "CBT"
+  ],
+  "history": "Difficult family conversation with mother about not discussing pain and suffering in the family. Father avoids talk therapy and has distressing dreams related to his brother's suicide. The patient reports ongoing struggles related to separation and suffering.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be available for others to feel valued.",
+  "intermediate_belief_depression": "I am not doing enough to connect with others.",
+  "coping_strategies": "Avoids activities to keep time available for potential visits from Jeremy.",
+  "situation": "Talking about feelings of disconnection with a person named Jeremy. Trying to describe a sense of detachment and associated pain.",
+  "auto_thought": "I can't go on with this relationship.",
+  "emotion": [
+    "Loneliness",
+    "Anxiety"
+  ],
+  "behavior": "Avoids making plans to keep time open for Jeremy."
+}

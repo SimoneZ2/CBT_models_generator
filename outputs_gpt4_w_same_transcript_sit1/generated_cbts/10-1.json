@@ -1,0 +1,28 @@
+{
+  "name": "Case Study: Post-Divorce Adjustment",
+  "id": "002",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recent divorce. Financial struggles and adjustment to single life. Co-parenting. Multiple friendships deteriorated after the divorce. Complicated relationship with parents.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must maintain friendships even if they are draining.",
+  "intermediate_belief_depression": "I am responsible for fixing others' problems.",
+  "coping_strategies": "Maintaining relationships with 'fixer-up' friends to avoid feeling alone.",
+  "situation": "Managing financial hardship following the divorce, including handling financial paperwork.",
+  "auto_thought": "I can't handle this financial situation alone.",
+  "emotion": [
+    "Overwhelmed",
+    "Sad",
+    "Guilty"
+  ],
+  "behavior": "Avoids addressing financial issues directly, maintains draining friendships to avoid loneliness."
+}

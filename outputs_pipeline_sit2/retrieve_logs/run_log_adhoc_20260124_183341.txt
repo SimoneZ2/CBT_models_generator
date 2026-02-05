@@ -1,0 +1,87 @@
+Using description: HISTORY:
+- Longstanding friendship with Ethan since high school (about 14 years).
+- Shared personal crises and professional collaborations.
+- The patient previously had an abusive ex-boyfriend and received support from Ethan.
+
+SITUATION:
+- Learned that Ethan has been abusive toward his girlfriend.
+- At a recent gathering, Ethan appeared intoxicated and used drugs. with ID=50-1
+Top results (by metadata similarity):
+  - sim=0.705 | title='Verilogue session: Client was hospitalized recently for severe depression. He su' | file='1001083968.txt'
+  - sim=0.677 | title='Verilogue session: Client's attitude and irritability have landed him in jail on' | file='1003009218.txt'
+  - sim=0.669 | title='Verilogue session: Client's mood has been down and depressed' | file='1003009224.txt'
+  - sim=0.669 | title='Verilogue session: Client recently experienced an ectopic pregnancy and miscarri' | file='1002565841.txt'
+  - sim=0.669 | title='Verilogue session: Client is having problems getting her work done' | file='1002565945.txt'
+  - sim=0.665 | title='Verilogue session: Client is experiencing loneliness and depression. She has bee' | file='1001084031.txt'
+  - sim=0.661 | title='Verilogue session: Client has a stressful family life and an abundant amount of ' | file='1002565951.txt'
+  - sim=0.655 | title='Patient "M" Therapy Session Audio Recording, March 26, 2012: Client is upset to ' | file='1004528625.txt'
+  - sim=0.653 | title='Verilogue session: Client has some conflicts with her brother she is trying to w' | file='1003075034.txt'
+  - sim=0.650 | title='Patient "C" Therapy Session Audio Recording, April 24, 2012: Client feels engulf' | file='1004538644.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=8 partial_match=2
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.705 | file='1001083968.txt' | title='Verilogue session: Client was hospitalized recently for severe depression. He su'
+  - sim=0.669 | file='1003009224.txt' | title='Verilogue session: Client's mood has been down and depressed'
+  - sim=0.669 | file='1002565841.txt' | title='Verilogue session: Client recently experienced an ectopic pregnancy and miscarri'
+Using top selected file for transcript: '1001083968.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient has maintained a longstanding friendship with Ethan for approximately 14 years, dating back to high school. This relationship has been characterized by mutual support during personal crises and professional collaborations. The patient has a history of being in an abusive relationship with a former boyfriend, during which Ethan provided significant support.
+
+**Current Situation:**
+Recently, the patient discovered that Ethan has been abusive toward his girlfriend. Additionally, at a recent social gathering, Ethan appeared intoxicated and was observed using drugs.
+
+**Emotional Impact:**
+The revelation about Ethan's abusive behavior likely evokes a complex mix of emotions for the patient. Given the history of receiving support from Ethan during their own abusive relationship, the patient may feel betrayed, disappointed, and confused. This situation could trigger feelings of sadness and loneliness, as the patient grapples with the dissonance between their past perception of Ethan and his current actions.
+
+**Cognitive Reactions:**
+The patient may experience cognitive dissonance as they reconcile Ethan's supportive role in their life with his abusive behavior toward his girlfriend. This could lead to ruminative thoughts, as the patient attempts to make sense of Ethan's actions and their implications for their friendship. The patient might also engage in self-reflection, questioning their judgment and the authenticity of their past experiences with Ethan.
+
+**Behavioral Responses:**
+In response to these emotions and thoughts, the patient might withdraw from social interactions, particularly those involving Ethan, to avoid confronting the discomfort associated with the situation. Alternatively, the patient may seek reassurance from other friends or confidants to validate their feelings and gain perspective on the situation. The patient might also avoid gatherings where Ethan is present to prevent further emotional distress.
+
+**Coping Styles:**
+The patient may employ avoidance as a coping mechanism, distancing themselves from Ethan and situations that remind them of his behavior. They might also engage in problem-solving strategies, such as discussing the situation with trusted friends or seeking professional guidance to process their emotions and determine the best course of action. Additionally, the patient may reflect on their values and boundaries, considering how to maintain their integrity while navigating this challenging situation.
+
+**Conclusion:**
+The patient's longstanding friendship with Ethan, coupled with the recent discovery of his abusive behavior, presents a significant emotional and cognitive challenge. The patient is likely to experience a range of emotions, including betrayal, confusion, and sadness, as they navigate this complex situation. By employing coping strategies such as seeking support and reflecting on personal values, the patient can work toward resolving the cognitive dissonance and emotional turmoil associated with this revelation.
+Summary da mistral_.csv: The patient discussed their strained relationship with a person named [NAME OTHER], who has expressed hate, envy, and jealousy towards the patient for the past four years. The patient has attempted to maintain communication through letters and phone calls but has not received a response. The patient went to the hospital due to feeling stressed and dealing with [NAME OTHER]'s negative emotions towards them. The patient mentioned hearing thoughts and feelings of others, which they described as positive in nature. The patient also mentioned feeling depressed and having confused thoughts. The patient was diagnosed with a chemical imbalance and is currently on various medications, including Trilafon, a nerve pill. The patient expressed concern about their emotions potentially leading them to harm someone and the possibility of going to jail. The patient is dealing with [NAME OTHER]'s improvement in mental health and their own spiritual struggles. The patient is seeing a physician for liver problems and is receiving treatments with Pegasus and Copegus.
+
+ REFINED CCD: description + report
+{
+  "history": "The patient has had a close friendship with Ethan for about 14 years, marked by mutual support during personal and professional challenges. Ethan played a significant role in supporting the patient during her own experience with an abusive ex-boyfriend. This history of trust and reliance on Ethan amplifies the emotional impact of learning about his abusive behavior. The patient’s previous experience with abuse likely sensitizes her to issues of betrayal and safety in relationships.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If someone I deeply trust and rely on turns out to be abusive, then my judgment about people is fundamentally flawed and I can't trust myself to choose safe relationships. If I confront or distance myself from Ethan, I risk losing one of the few people who supported me, which means I might end up alone or unsupported.",
+  "intermediate_belief_depression": "If even the people who helped me through my lowest points are capable of hurting others, then there is no one I can truly rely on, and I am destined to be alone and unsupported.",
+  "coping_strategies": [
+    "The patient withdraws from social interactions involving Ethan and avoids gatherings where he is present. She seeks reassurance and validation from other friends to help process her feelings and make sense of the situation. She ruminates about the contradiction between Ethan’s past support and his current behavior, which maintains her distress."
+  ],
+  "situation": "Learned that Ethan has been abusive toward his girlfriend. At a recent gathering, Ethan appeared intoxicated and used drugs.",
+  "auto_thought": "How could Ethan do something like this after everything we've been through? Maybe I never really knew him at all.",
+  "emotion": [
+    "betrayed",
+    "confused",
+    "sad",
+    "lonely",
+    "disappointed",
+    "anxious"
+  ],
+  "behavior": "I avoid talking to Ethan and distance myself from him at gatherings. I reach out to other friends to talk about what happened and try to make sense of it. I spend time alone, replaying past interactions with Ethan in my mind."
+}

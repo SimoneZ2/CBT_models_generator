@@ -1,0 +1,30 @@
+{
+  "name": "Patient 14",
+  "id": "14",
+  "type": [
+    "financial stress",
+    "family dependency"
+  ],
+  "history": "Financial difficulties after questionable investments. Increased reliance on parents for assistance.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am a disappointment"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I made stupid decisions and can't recover on my own.",
+  "intermediate_belief_depression": "I'll never be financially independent; I'm a perpetual child.",
+  "coping_strategies": [
+    "Avoiding financial planning, depending on parents, minimizing losses."
+  ],
+  "situation": "Discussion with family about future plans and potential career changes.",
+  "auto_thought": "\"They think I'm irresponsible. I have no real plan. I'm just pretending.\"",
+  "emotion": [
+    "shame",
+    "anxiety",
+    "embarrassment"
+  ],
+  "behavior": "Deflects questions, makes vague promises, changes subject quickly."
+}

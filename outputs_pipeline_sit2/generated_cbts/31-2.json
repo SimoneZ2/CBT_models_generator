@@ -1,0 +1,48 @@
+{
+  "name": "CBT Cognitive Conceptualization for Family Health Anxiety Case",
+  "id": "31-2",
+  "type": [
+    "CBT",
+    "case formulation",
+    "anxiety",
+    "family health",
+    "bereavement"
+  ],
+  "history": "The client has recently experienced the deaths of an uncle and a cousin, which has heightened their anxiety about mortality within the family. There is ongoing concern about both parents' health, with particular focus on the father's multiple chronic conditions. The client describes tension and emotional distance with the father, especially due to a lack of transparency about his health. This background of recent loss, ongoing health fears, and relational strain likely contributes to the client's current emotional and cognitive patterns.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I get too close to my father or try to talk about his health, I will be overwhelmed by fear and pain, and nothing I do will make a difference. If I avoid him, I can protect myself from being hurt by his possible death or by conflict between us.",
+  "intermediate_belief_depression": "If I try to connect or help, it won't matter because I can't change anything, and I'll just end up feeling more alone and hopeless.",
+  "coping_strategies": "The client avoids interacting with the father to manage overwhelming anxiety and emotional pain. They withdraw emotionally and may ruminate about worst-case scenarios regarding the father's health and mortality. This avoidance provides temporary relief but reinforces feelings of isolation and helplessness.",
+  "situation": "Thinking about the possibility of the father dying before the mother. Avoiding interaction with the father.",
+  "auto_thought": "If my father dies before my mother, I won't be able to handle it. It's better to keep my distance so I don't get hurt.",
+  "emotion": [
+    "anxious",
+    "fearful",
+    "sad",
+    "helpless",
+    "lonely"
+  ],
+  "behavior": "I avoid talking to or spending time with my father. I keep my distance and don't ask about his health. I withdraw from interactions that might bring up painful emotions.",
+  "rationale": "\"The recent deaths of an uncle and a cousin have likely intensified the patient's anxiety and fear regarding mortality, particularly concerning the health of the patient's father... The avoidance of interaction with the father suggests a fear of confronting these emotions directly, possibly leading to a cycle of avoidance and increased anxiety.\" \"The patient's thoughts may be dominated by worry and catastrophic thinking, particularly regarding the father's potential death before the mother.\" \"The patient is engaging in avoidance behavior by avoiding interaction with the father. This behavior may serve as a temporary relief from anxiety but can ultimately reinforce feelings of isolation and helplessness.\"",
+  "core_belief_predictions": {
+    "source_id": "31-2",
+    "major_pred_set": [
+      "helpless"
+    ],
+    "fine_pred_set": [
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

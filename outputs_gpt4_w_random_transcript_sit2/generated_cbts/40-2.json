@@ -1,0 +1,27 @@
+{
+  "name": "John Doe",
+  "id": "12345",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization Diagram"
+  ],
+  "history": "Recent move and stress related to settling into a new living space. Difficult relationship with parents, especially mother, described as judgmental and emotionally unsupportive. Friendships have become strained, contributing to isolation.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must meet my mother's expectations to be accepted.",
+  "intermediate_belief_depression": "I am a failure if I cannot live up to my family's standards.",
+  "coping_strategies": "Avoidance of confrontation and compliance with family expectations.",
+  "situation": "Preparing for a conversation with mother and expecting it to be challenging and superficial.",
+  "auto_thought": "I will fail to meet her expectations and feel rejected.",
+  "emotion": [
+    "Anxiety",
+    "Resentment",
+    "Sadness"
+  ],
+  "behavior": "Avoids confrontation and complies with family expectations to minimize conflict."
+}

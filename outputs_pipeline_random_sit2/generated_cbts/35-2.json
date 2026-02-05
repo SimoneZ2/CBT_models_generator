@@ -1,0 +1,28 @@
+{
+  "history": "The patient comes from a family where emotional pain and suffering are not openly discussed, as highlighted by a difficult conversation with the mother about not talking about these topics. The father avoids talk therapy and has distressing dreams related to his brother's suicide, modeling avoidance of emotional processing. The patient reports ongoing struggles with separation and suffering, suggesting a longstanding difficulty with emotional connection and expression, likely influenced by family dynamics of avoidance and suppression.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I try to express my pain or disconnection, others will avoid or dismiss me, so it's safer to keep these feelings to myself. Expressing emotional pain will only make things worse or push people away. I must manage my suffering alone because others won't understand or help.",
+  "intermediate_belief_depression": "If I keep feeling this detached and no one understands, things will never get better and I'll always feel alone.",
+  "coping_strategies": [
+    "The patient tends to withdraw or avoid discussing emotions, especially pain and suffering, mirroring family patterns. They may suppress or minimize their emotional experiences to avoid conflict or discomfort, which increases feelings of isolation. Occasionally, the patient attempts to articulate their feelings, but often struggles to fully express or process them."
+  ],
+  "situation": "Talking about feelings of disconnection with a person named Jeremy. Trying to describe a sense of detachment and associated pain.",
+  "auto_thought": "No matter how hard I try to explain, Jeremy won't really get how disconnected I feel. Maybe it's pointless to even try because it just hurts more.",
+  "emotion": [
+    "isolated",
+    "sad",
+    "frustrated",
+    "hopeless",
+    "anxious"
+  ],
+  "behavior": "I hesitate or struggle to put my feelings into words. I withdraw from the conversation or keep my emotions to myself. I avoid going deeper into the discussion about my pain.",
+  "source_text_id": "1000013261.txt"
+}

@@ -1,0 +1,69 @@
+Using description: HISTORY:
+- Spent about one year working on a project in Europe involving building a website and conducting interviews.
+- Reports pride in the work and a wish to share the results.
+- Past history of procrastination and anxiety.
+- Uses strategies learned from a course and reminders to manage daily life.
+
+SITUATION:
+- Working on a project close to its deadline with portions still needing to be posted online. with ID=16-1
+Sample results (metadata similarity):
+  - sim=0.083 | title='Session 15: Client explains why she can make friendships with certain men but no' | file='1000133901.txt'
+  - sim=0.087 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.102 | title='Patient "Ju", Session April 06, 2012: Client recently went to a friend's book re' | file='1004532438.txt'
+  - sim=0.104 | title='Session 438: Client still wishes she had a male child' | file='1000395259.txt'
+  - sim=0.105 | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c' | file='1001114245.txt'
+  - sim=0.106 | title='Aligning Perceptual Positions: The idea of stepping into someone else's experien' | file='1000259024.txt'
+  - sim=0.107 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.111 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.112 | title='Session 6: Therapist has found a couple of people with physical deformities for ' | file='1000133888.txt'
+  - sim=0.117 | title='Volume no. 20: Two Group Sessions: These two group sessions were selected becaus' | file='1002133163.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.087 | file='1003075021.txt' | title='Verilogue session: Client has been angry, violent and impulsive'
+  - sim=0.105 | file='1001114245.txt' | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c'
+  - sim=0.111 | file='1001084088.txt' | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. '
+Using LEAST related file for transcript: '1003075021.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a young male with a history of working on a project in Europe, has been experiencing significant challenges related to anger and impulsivity, which have been impacting his daily life and relationships. During the session, he expressed frustration and a sense of injustice, stating, "The way you spoil [INAUDIBLE] and not me," which highlights a perceived imbalance in attention or resources that may be contributing to his emotional responses. This perception of unfairness seems to trigger intense emotions, leading to aggressive behaviors that he later regrets. Despite these outbursts, he struggles to take responsibility, often responding with "Nope" when asked if he acknowledges his role in these situations. This pattern of externalizing blame may be a defense mechanism to cope with feelings of inadequacy or anxiety, which aligns with his past history of procrastination and anxiety.
+
+The client's current situation involves working on a project nearing its deadline, with some portions still needing to be posted online. This looming deadline may exacerbate his stress levels, contributing to the frequency of his outbursts. His caregiver noted that these episodes occur "almost, definitely weekly," suggesting a chronic pattern that may be influenced by both environmental stressors and underlying psychological conditions. The client uses strategies learned from a course to manage daily life, but these seem insufficient in the face of his current challenges. His reliance on medication, such as Strattera and Depakote, indicates an ongoing struggle with managing symptoms of ADHD and possibly bipolar disorder, as suggested by the psychiatrist. The psychiatrist mentioned that "seizure medicines like Depakote" could help with impulse control, indicating a need for pharmacological support alongside behavioral interventions.
+
+Throughout the session, the client avoided discussing certain topics, such as the state of his hands, which his caregiver pointed out as a sign of ongoing self-harm or stress-related behaviors. His reluctance to show his hands, responding with "No," suggests avoidance and possibly shame or embarrassment about these behaviors. This avoidance may hinder his ability to fully engage in therapeutic processes that require confronting uncomfortable emotions and behaviors. The psychiatrist recommended exploring case management options, suggesting that "someone more like a peer" could provide support in a less formal setting, which might be more acceptable to the client and facilitate engagement.
+
+The client's coping strategies appear limited, as he resorts to aggression and threats when overwhelmed, a behavior pattern that his caregiver described as escalating until he "wants to apologize, but it's too late then." This cycle of escalation and regret indicates a need for developing more adaptive coping mechanisms to manage his emotions and interactions. The psychiatrist emphasized the importance of self-regulation, stating, "No one else can make you mad unless you let them," highlighting the need for the client to develop internal control over his emotional responses. The client's situation is further complicated by dietary habits, such as excessive consumption of pop, which his caregiver believes interferes with medication efficacy and exacerbates his symptoms. The psychiatrist confirmed that "pop will raise it even more," referring to glucose levels, suggesting a need for dietary modifications as part of a comprehensive treatment plan.
+
+Overall, the client's moment-to-moment experience is characterized by a cycle of triggers, such as perceived unfairness, leading to intense emotions like anger and frustration, which manifest in aggressive behaviors. These behaviors are followed by regret and avoidance, indicating a need for interventions that address both cognitive patterns and behavioral responses. The integration of medication management, behavioral strategies, and possibly peer-based support could provide a multifaceted approach to help the client navigate his current challenges and improve his overall functioning.
+Summary da mistral_.csv: In this session, a male patient with ADHD discussed his aggressive and violent behavior towards family members, including suicidal and homicidal threats. The patient's mother mentioned that these outbursts occur when he doesn't get his way and that they happen weekly or even every other night. The physician suggested adding Depakote to the patient's current medications to help manage impulsivity, as well as implementing case management and counseling outside of sessions. The physician also mentioned that the patient's high glucose levels and consumption of pop could negatively impact his medication's effectiveness. The physician recommended a blood test to monitor the Depakote's effect on the patient's liver and mentioned that there is no generic version of the medication.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of working on a project in Europe and experiences significant challenges with anger and impulsivity. He has a past history of procrastination and anxiety, and uses strategies learned from a course to manage daily life. He relies on medication like Strattera and Depakote for managing symptoms of ADHD and possibly bipolar disorder.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't receive the attention or resources I deserve, then I am not valued.",
+  "intermediate_belief_depression": "If I can't manage my emotions, then I am a failure.",
+  "coping_strategies": [
+    "The client resorts to aggression and threats when overwhelmed, and avoids discussing certain topics, such as the state of his hands. He also consumes excessive pop, which interferes with medication efficacy."
+  ],
+  "situation": "Working on a project close to its deadline with portions still needing to be posted online.",
+  "auto_thought": "I can't believe I'm not done yet. This is going to be a disaster.",
+  "emotion": [
+    "anxious",
+    "frustrated",
+    "overwhelmed"
+  ],
+  "behavior": "He becomes aggressive and externalizes blame, avoiding responsibility for the situation."
+}

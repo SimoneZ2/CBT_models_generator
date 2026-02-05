@@ -1,0 +1,29 @@
+{
+  "history": "The client has recently experienced the deaths of an uncle and a cousin, which may contribute to ongoing grief and heightened sensitivity to mortality. There is persistent worry about the parents' health, especially the father's multiple serious conditions. The client reports tension with the father, characterized by emotional distance and a lack of transparency about health matters. These factors likely contribute to feelings of vulnerability, frustration, and difficulty processing emotions directly.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let myself think about my father's health, I'll be overwhelmed and unable to cope, so I need to avoid these feelings. If my father isn't open with me, it means I can't rely on him for support, and I have to handle everything alone. If I don't distract myself, the anxiety and sadness will become unbearable.",
+  "intermediate_belief_depression": "If I can't do anything to help or change my father's situation, then nothing I do matters and I might as well give up trying to connect or process my feelings.",
+  "coping_strategies": [
+    "The client tends to avoid confronting distressing emotions by engaging in passive distraction, such as watching television after upsetting news. This avoidance provides temporary relief but prevents emotional processing and maintains underlying anxiety and sadness."
+  ],
+  "situation": "Received a phone call from the mother regarding the father's health. Watched television afterward.",
+  "auto_thought": "Something bad is going to happen to my father and I can't do anything about it. If I think about it too much, I'll fall apart.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "helpless",
+    "sad",
+    "frustrated",
+    "lonely"
+  ],
+  "behavior": "After the phone call, I turned on the television and focused on the show to distract myself. I avoided talking about the call or thinking further about my father's health.",
+  "source_text_id": "1000088077.txt"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Patient 47",
+  "id": "47",
+  "type": [
+    "rejection sensitivity",
+    "perfectionism"
+  ],
+  "history": "Master's in engineering and robotics experience. Past remorse about not dedicating enough time to a project.",
+  "helpless_belief": [
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I'm not perfect, I'll be rejected.",
+  "intermediate_belief_depression": "My technical skills are my only value; without them I'm nothing.",
+  "coping_strategies": [
+    "Over-preparation, avoidance of romantic risk, rumination about mistakes."
+  ],
+  "situation": "Sent email to someone interested in dating and received no response.",
+  "auto_thought": "\"The email was stupid. I came on too strong/not strong enough. They're not interested.\"",
+  "emotion": [
+    "shame",
+    "rejection",
+    "embarrassment"
+  ],
+  "behavior": "Analyzes email repeatedly, asks friends to review it, checks email obsessively for response."
+}

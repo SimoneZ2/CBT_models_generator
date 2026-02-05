@@ -1,0 +1,27 @@
+{
+  "name": "Will",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Complex relationship history involving a person named Cricket that affected the patient's social circle. The patient often takes a caretaking role with friends, including a friend named Lucy with ongoing medical issues.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must not show my true feelings or I will be judged.",
+  "intermediate_belief_depression": "I am never going to be helped.",
+  "coping_strategies": "Avoids expressing true feelings to prevent judgment and conflict.",
+  "situation": "Friends are gathered outside the residence waiting while the patient is running late after work.",
+  "auto_thought": "I am not making sense; I am going to be judged.",
+  "emotion": [
+    "Anxiety",
+    "Frustration",
+    "Hopelessness"
+  ],
+  "behavior": "Avoids confrontation and expressing true feelings, leading to internalized blame."
+}

@@ -1,0 +1,31 @@
+{
+  "history": "The client has a history of substance abuse and has completed rehabilitation. He reports ongoing family difficulties, especially with his mother, characterized by rejection and emotional neglect. He has struggled with obesity since childhood and has experienced bullying related to his weight. These experiences appear to contribute to a negative self-image and heightened sensitivity to perceived judgment or rejection from others.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I put myself in situations with my family, I will be judged or rejected, so it's safer to avoid them. I need to protect myself from being hurt again, especially by those who have already made me feel unwanted. If I show up, I risk confirming that I don't belong.",
+  "intermediate_belief_depression": "If I try to connect with my family, it will just remind me that I am not wanted and nothing will ever change. There's no point in trying because I will always end up feeling alone and rejected.",
+  "coping_strategies": [
+    "He avoids responding to family invitations and ignores follow-up calls to protect himself from anticipated judgment or rejection. He withdraws from social situations that might trigger feelings of vulnerability or inadequacy, relying on avoidance as a primary coping mechanism."
+  ],
+  "situation": "Received an invitation to a cousin's upcoming wedding. Has not responded to the RSVP request and has not answered follow-up calls from family members.",
+  "auto_thought": "If I go to the wedding, everyone will judge me and see how much of a failure I am. It's better if I just stay away so I don't embarrass myself.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "worried",
+    "sad",
+    "lonely"
+  ],
+  "behavior": "He does not respond to the RSVP request and ignores follow-up calls from family members. He avoids any engagement related to the wedding.",
+  "source_text_id": "1001083988.txt"
+}

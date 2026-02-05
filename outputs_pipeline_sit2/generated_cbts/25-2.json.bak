@@ -1,0 +1,34 @@
+{
+  "name": "Educational Setting Authority Conflict Case",
+  "id": "case001",
+  "type": [
+    "CBT",
+    "CCD",
+    "Case Formulation"
+  ],
+  "history": "The client works with children who have learning disabilities and reports being pampered by parents with minimal consequences during childhood. There is a pattern of ongoing conflicts with authority figures. The client appears unaccustomed to handling rejection or criticism, which may stem from their upbringing. This background likely contributes to current difficulties in managing negative feedback and assertively addressing disagreements with authority.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I challenge authority or express disagreement, I will be rejected or dismissed, and it will confirm that my ideas are not valued. It's safer to avoid confrontation because standing up for myself will only lead to more conflict or prove that I'm inadequate.",
+  "intermediate_belief_depression": "If my ideas are rejected and I don't stand up for them, it means I am not capable or respected, and nothing I do will make a difference.",
+  "coping_strategies": "The client avoids direct confrontation with authority figures, withdrawing from discussions and not voicing opinions when their ideas are rejected. They may seek reassurance from colleagues to validate their methods, using avoidance and external validation to manage distress.",
+  "situation": "Proposed a new teaching method that was rejected by school leadership. Does not confront leadership directly about the decision.",
+  "auto_thought": "They don't value my ideas. If I speak up, it will just make things worse for me.",
+  "emotion": [
+    "disappointed",
+    "frustrated",
+    "irritated",
+    "anxious",
+    "inadequate"
+  ],
+  "behavior": "Does not confront leadership about the rejection. Withdraws from further discussion and avoids bringing up the topic. May talk to colleagues for reassurance instead.",
+  "rationale": "\"The rejection of the proposed teaching method likely evokes feelings of disappointment and frustration... The ongoing conflicts with authority figures may contribute to feelings of irritation or annoyance... The patient's decision not to confront leadership directly might stem from a belief that confrontation could lead to further rejection or conflict, reinforcing a pattern of avoidance... The patient appears to avoid direct confrontation with authority figures, possibly as a coping mechanism to prevent further conflict or rejection... The patient might also seek reassurance from colleagues or engage in discussions with peers to validate their teaching methods and alleviate feelings of inadequacy.\""
+}

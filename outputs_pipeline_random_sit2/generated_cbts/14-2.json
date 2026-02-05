@@ -1,0 +1,26 @@
+{
+  "history": "The client has experienced financial difficulties following questionable investments, which has led to increased reliance on their parents for financial assistance. This reliance appears to evoke feelings of shame and inadequacy, as suggested by the report's mention of embarrassment and negative self-evaluation. The client tends to avoid confronting financial and career issues directly, possibly due to discomfort and fear of failure. There is a pattern of ruminative thinking about past mistakes and a tendency to seek reassurance from family members.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I rely on my parents for help, it means I am not successful. If I make another mistake, it will prove I am incapable. I must avoid making decisions unless I am certain I won't fail.",
+  "intermediate_belief_depression": "If I can't become financially independent, there's no hope for my future.",
+  "coping_strategies": [
+    "The client withdraws from social interactions and avoids making concrete career decisions, as noted in the report's reference to procrastination and avoidance. They seek reassurance from family members during discussions about future plans, relying on external validation to manage insecurity."
+  ],
+  "situation": "A discussion with family members about future plans and potential career changes.",
+  "auto_thought": "I'm letting everyone down by not having my life together. They're going to think I'm a failure and can't handle things on my own.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "embarrassed",
+    "uncertain",
+    "fearful"
+  ],
+  "behavior": "I avoid sharing my true feelings during the discussion. I hesitate to commit to any career plans and look to my family for reassurance or guidance.",
+  "source_text_id": "1000134006.txt"
+}

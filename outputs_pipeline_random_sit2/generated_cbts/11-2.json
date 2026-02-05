@@ -1,0 +1,26 @@
+{
+  "history": "The client has experienced chronic depression and isolation since late adolescence, with longstanding difficulties in forming and maintaining friendships. A recent breakup preceded a depressive relapse, and there have been recent adjustments to SSRI medication. These patterns suggest a history of social disconnection and persistent low mood, with significant life events (such as the breakup) triggering exacerbations.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't focus or complete my tasks, it means I'm failing and there's no point in trying. If I feel overwhelmed or sad, I should avoid doing things because I'll just mess them up. If I withdraw, at least I won't disappoint myself or others.",
+  "intermediate_belief_depression": "If I can't even do simple things like sewing or work, it proves that I'm hopeless and things will never get better.",
+  "coping_strategies": [
+    "The client withdraws from planned activities and avoids tasks by engaging in passive entertainment like watching television. This avoidance provides temporary relief from distressing thoughts and emotions but reinforces feelings of inadequacy and low motivation."
+  ],
+  "situation": "Planned a weekend for sewing and catching up on work tasks. Was unable to focus on familiar tasks and spent the day watching television.",
+  "auto_thought": "I can't even do the things I planned. I'm just wasting my time and failing again.",
+  "emotion": [
+    "sad",
+    "disappointed",
+    "ashamed",
+    "anxious",
+    "lonely"
+  ],
+  "behavior": "Turned on the television and watched for hours instead of starting sewing or work tasks. Stayed in one place and avoided looking at the unfinished projects.",
+  "source_text_id": "1000016536.txt"
+}

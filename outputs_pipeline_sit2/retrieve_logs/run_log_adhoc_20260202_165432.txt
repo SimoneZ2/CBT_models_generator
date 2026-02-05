@@ -1,0 +1,77 @@
+Using description: HISTORY:
+- Longstanding difficult interactions with the patient's mother.
+- Strained communication and delayed sharing of significant events within the family.
+
+SITUATION:
+- Disagreement with mother about weekend plans and financial assistance.
+- The mother covers expenses during the visit. with ID=23-2
+Sample results (metadata similarity):
+  - sim=0.006 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.052 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.094 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.095 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.108 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.111 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.137 | title='Patient "R" Session June 25, 2012: Client knows that she should be working on co' | file='1004600948.txt'
+  - sim=0.138 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.140 | title='Patient "L", Session April 24, 2012: Client struggles with letting go of her nee' | file='1004538616.txt'
+  - sim=0.153 | title='Volume no. 6: Mr. Lin: Client believes himself to be homosexual and wants to cha' | file='1002094563.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.006 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.052 | file='1004798727.txt' | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day'
+  - sim=0.094 | file='1004798723.txt' | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to '
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of challenging interactions with their mother, finds themselves currently embroiled in a disagreement regarding weekend plans and financial assistance. The mother, who typically covers expenses during visits, is a source of tension, yet the client avoids directly addressing these familial issues during the session. Instead, the client immerses themselves in discussing their academic pursuits, particularly in mathematics, which seems to serve as both a refuge and a source of intellectual stimulation. The client expresses a sense of accomplishment and satisfaction from their recent progress in understanding complex mathematical concepts, stating, "I feel like I really understood the material," which contrasts with their earlier struggles. This intellectual engagement appears to provide a sense of control and achievement, perhaps compensating for the unresolved familial tensions.
+
+Throughout the session, the client repeatedly returns to the theme of learning and teaching mathematics, describing it as a process of "drawing lots of pictures and teaching it," which allows them to distill complex ideas into understandable forms. This method of teaching and learning seems to offer the client a structured way to manage their thoughts and emotions, providing a sense of clarity and order that might be lacking in their personal life. The client mentions feeling "self-conscious" about their preoccupation with mathematics, yet it is clear that this focus offers them a way to channel their energy productively, avoiding the emotional discomfort associated with their family dynamics.
+
+The client's narrative is punctuated by moments of self-reflection, as they acknowledge the effort required to keep up with their studies, noting, "It takes effort to keep up." This acknowledgment of effort and perseverance suggests a coping mechanism that involves immersing themselves in intellectual challenges to distract from personal issues. The client also reflects on the nature of learning, describing the initial frustration of not understanding new concepts as a "spark that makes the learning happen." This insight into their learning process highlights a cognitive pattern of embracing challenges as opportunities for growth, which might be a way to counterbalance feelings of inadequacy or tension in other areas of their life.
+
+Despite the heavy focus on mathematics, there are glimpses of the client's emotional landscape, particularly when they describe feeling "in a dark room fumbling for the light switch," a metaphor that may reflect their broader life experience of seeking understanding and clarity amidst confusion. This metaphor resonates with their academic journey, where they describe the satisfaction of finally grasping complex concepts after initial confusion. The client's avoidance of discussing their mother directly suggests a reluctance to confront the emotional complexities of their familial relationships, choosing instead to focus on the more manageable and predictable realm of mathematics.
+
+In conclusion, the client's engagement with mathematics serves as both a coping strategy and a source of self-esteem, providing a structured environment where they can experience success and clarity. This focus on intellectual pursuits allows the client to sidestep the emotional challenges posed by their strained relationship with their mother, offering a temporary reprieve from the unresolved tensions that linger in their personal life. The session highlights the client's reliance on cognitive engagement as a means of managing emotional discomfort, while also revealing the underlying need for resolution and understanding in their familial interactions.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of difficult interactions with their mother, characterized by strained communication and delayed sharing of significant events. They tend to avoid directly addressing familial issues, instead immersing themselves in academic pursuits, particularly mathematics, which provides a sense of control and accomplishment. The client describes feeling self-conscious about their focus on mathematics, suggesting an underlying discomfort with their emotional world. Their metaphor of 'fumbling for the light switch in a dark room' implies a broader struggle for clarity and understanding in life.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I avoid talking about difficult issues with my mother, I can prevent things from getting worse and protect myself from feeling rejected. If I focus on things I can control, like mathematics, I can feel competent and avoid the pain of family conflict. I must not let my mother see how much her actions affect me, or she will think less of me.",
+  "intermediate_belief_depression": "If I can't fix things with my mother, it means I am not good enough and nothing I do will ever change how she treats me. No matter how hard I try, I will always feel lost and misunderstood in my family.",
+  "coping_strategies": [
+    "The client immerses themselves in academic work, especially mathematics, as a way to distract from and avoid emotional discomfort related to family tensions. They avoid directly addressing or discussing conflicts with their mother, instead channeling their energy into intellectual pursuits that provide a sense of achievement and control."
+  ],
+  "situation": "Disagreement with mother about weekend plans and financial assistance. The mother covers expenses during the visit.",
+  "auto_thought": "This is going to turn into another argument and I can't handle it. She'll think I'm ungrateful and I'll never get through to her.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "self-conscious",
+    "frustrated",
+    "sad"
+  ],
+  "behavior": "I avoid bringing up my true feelings or concerns with my mother. Instead, I change the subject or withdraw, focusing on something else like my studies. I let her cover the expenses without discussing my discomfort."
+}

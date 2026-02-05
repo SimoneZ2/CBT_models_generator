@@ -1,0 +1,89 @@
+Using description: HISTORY:
+- History of pressure in social situations and attempts to conceal vulnerabilities.
+- Past relationship disappointments.
+- A recent business failure led to financial hardship.
+
+SITUATION:
+- Invited to visit their sister while dealing with financial instability. with ID=24-1
+Top results (by metadata similarity):
+  - sim=0.675 | title='Patient "J", Session May 29, 2012: Client is stressed about his finances and fru' | file='1004564941.txt'
+  - sim=0.672 | title='Patient "M" Therapy Session Audio Recording, December 9, 2011: Client discusses ' | file='1004472405.txt'
+  - sim=0.671 | title='BJ - Amy 3-01 Session' | file='1000094811.txt'
+  - sim=0.669 | title='Patient "A" Therapy Session Audio Recording, December 13, 2011: Client talks abo' | file='1004472410.txt'
+  - sim=0.668 | title='Session 5: Client finds this financial situation stressful and irritating; he ma' | file='1004824745.txt'
+  - sim=0.668 | title='Patient "C" Therapy Session Audio Recording, March 01, 2012: Client is feeling a' | file='1004513664.txt'
+  - sim=0.666 | title='Patient "J", Session February 10, 2012: Client feels increasingly anxious and st' | file='1004488853.txt'
+  - sim=0.662 | title='Patient "C" Therapy Session Audio Recording, May 01, 2012: Client talks about th' | file='1004538650.txt'
+  - sim=0.657 | title='Patient "M", Session October 16, 2012: Client is fed up with her in-laws' behavi' | file='1004798863.txt'
+  - sim=0.657 | title='Patient "M", Session October 02, 2012: Client fears that she is being stalked by' | file='1004798771.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.675 | file='1004564941.txt' | title='Patient "J", Session May 29, 2012: Client is stressed about his finances and fru'
+  - sim=0.672 | file='1004472405.txt' | title='Patient "M" Therapy Session Audio Recording, December 9, 2011: Client discusses '
+  - sim=0.671 | file='1000094811.txt' | title='BJ - Amy 3-01 Session'
+Using top selected file for transcript: '1004564941.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of feeling pressured in social situations and has often attempted to conceal vulnerabilities. They have experienced disappointments in past relationships and are currently facing financial hardship due to a recent business failure. The patient has been invited to visit their sister while dealing with ongoing financial instability.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions in response to their current life circumstances. The history of pressure in social situations may lead to feelings of anxiety and tension, particularly when interacting with others or in situations where they feel exposed. The attempt to conceal vulnerabilities suggests a fear of judgment or rejection, which can contribute to feelings of shame or embarrassment.
+
+The past relationship disappointments may evoke feelings of sadness, loneliness, and possibly a sense of being let down or hurt. These emotions could be exacerbated by the current financial hardship, which might also trigger feelings of worry, fear, and stress about the future.
+
+The invitation to visit their sister, while potentially a source of support, might also bring about mixed emotions. The patient may feel anxious about revealing their financial instability or ashamed of their current situation. However, there might also be a sense of relief or comfort in the possibility of familial support.
+
+**Cognitive Patterns:**
+The patient may engage in negative thinking patterns, such as catastrophizing or all-or-nothing thinking, particularly in relation to their financial situation. They might ruminate on past failures or disappointments, which can reinforce feelings of hopelessness or inadequacy. The tendency to conceal vulnerabilities suggests a cognitive pattern of self-protection, possibly driven by a belief that showing weakness will lead to negative outcomes.
+
+**Behavioral Responses:**
+In response to social pressure and the need to conceal vulnerabilities, the patient might withdraw from social interactions or avoid situations where they feel exposed. They may also engage in behaviors aimed at maintaining a façade of stability, such as over-preparing for social encounters or rehearsing conversations.
+
+The financial hardship might lead to behaviors such as procrastination in addressing financial issues, seeking reassurance from others, or avoiding discussions about money. The invitation to visit their sister could prompt avoidance behaviors if the patient fears judgment or feels overwhelmed by the prospect of travel amidst financial instability.
+
+**Coping Styles:**
+The patient may rely on avoidance as a primary coping mechanism, both in social situations and in dealing with financial stress. They might also seek reassurance from close relationships to mitigate feelings of insecurity or inadequacy. The history of relationship disappointments suggests a potential pattern of seeking validation or support from others, which may not always be reciprocated, leading to further disappointment.
+
+**Conclusion:**
+The patient's current life circumstances are likely contributing to a complex interplay of emotions, cognitive patterns, and behaviors. The history of social pressure and relationship disappointments, combined with the recent business failure and financial instability, create a challenging environment for the patient. Cognitive Behavioral Therapy (CBT) can be beneficial in helping the patient identify and modify negative thought patterns, develop healthier coping strategies, and build resilience in the face of adversity.
+Summary da mistral_.csv: The client expresses frustration with their partner, Jess, for not providing necessary information for tax filings and for wanting to take their daughter to see friends instead of attending a barbecue with the client's friends. The client also discusses financial struggles, including unpaid rent, car insurance, and potential mortgage contingency issues. They express anxiety about an upcoming summary judgment motion and feel overwhelmed by their responsibilities. The client wishes for more support but feels unable to share their issues with others.
+The client expresses frustration over being behind on student loan payments and unable to afford healthy food or pay rent for their apartment, which their partner wants to take from them. They also discuss their unrequited feelings for a woman and the pressure to network and grow their business to afford a new living situation. The client feels overwhelmed by various financial and relational issues.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of feeling pressured in social situations and has often tried to hide their vulnerabilities, likely due to a fear of judgment or rejection. They have experienced disappointments in past relationships, which may have contributed to feelings of sadness and a sense of being let down. Recently, a business failure resulted in significant financial hardship, intensifying stress and worry about the future. These experiences seem to reinforce a tendency to ruminate on past failures and avoid situations where they might feel exposed.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let others see my financial struggles or vulnerabilities, they will judge me or think less of me, so I must always appear in control and hide my problems. Showing weakness will only lead to rejection or disappointment. I need to manage others' impressions to avoid feeling exposed or inadequate.",
+  "intermediate_belief_depression": "If I can't hide my failures and vulnerabilities, it means I really am a disappointment and things will never get better. There's no point in reaching out because I'll just end up feeling worse about myself.",
+  "coping_strategies": [
+    "The client tends to avoid social situations or withdraw when feeling exposed, especially when struggling financially. They may over-prepare or rehearse interactions to maintain a façade of stability, and sometimes seek reassurance from close relationships to manage insecurity. Avoidance and concealment are used to cope with distress but may reinforce feelings of isolation and inadequacy."
+  ],
+  "situation": "Invited to visit their sister while dealing with financial instability.",
+  "auto_thought": "If I go to see my sister, she'll notice I'm struggling and think less of me. I can't let her see how much I've failed.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "worried",
+    "tense",
+    "embarrassed"
+  ],
+  "behavior": "I hesitate to accept the invitation and consider making excuses not to go. I avoid talking about my financial situation and try to act as if everything is fine. I might withdraw or keep conversations superficial to avoid revealing my struggles."
+}

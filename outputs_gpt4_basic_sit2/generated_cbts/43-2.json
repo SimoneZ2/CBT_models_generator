@@ -1,0 +1,27 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Childhood experiences of emotional invalidation (e.g., being reprimanded for crying). History of depression.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express my emotions, I will be reprimanded or rejected.",
+  "intermediate_belief_depression": "I am not worthy of being included or cared for.",
+  "coping_strategies": "Avoids expressing emotions and withdraws from social situations.",
+  "situation": "Not invited to a dinner with friends by one acquaintance.",
+  "auto_thought": "They don't want me there; I'm not important to them.",
+  "emotion": [
+    "Sadness",
+    "Rejection"
+  ],
+  "behavior": "Withdraws and avoids reaching out to friends."
+}

@@ -1,0 +1,32 @@
+{
+  "name": "CBT Cognitive Conceptualization for Financial Stress Trigger",
+  "id": "case001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has been experiencing ongoing stress due to financial difficulties and unstable relationships. They are under pressure at work, having to manage technical issues and cover for an absent coworker, which increases their workload. Friends frequently turn to them for emotional support during crises, adding to their emotional burden. The client is considering asking their parents for financial help to pay for therapy, which coincides with an upcoming birthday and a planned visit with their parents. These factors contribute to a sense of being overburdened and emotionally depleted.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't keep my finances in order, it means I'm not capable and others will see me as irresponsible. I should be able to handle my own problems without needing to rely on others. If I ask for help, it proves I'm inadequate.",
+  "intermediate_belief_depression": "If I keep failing to manage my finances, nothing will ever get better and I'll always be a burden to others. There's no point in trying because I can't seem to get it right.",
+  "coping_strategies": "The client tends to avoid directly addressing financial issues, such as procrastinating on financial planning or delaying conversations about money with their parents. They may withdraw from social interactions to conserve emotional energy and sometimes seek reassurance from trusted individuals, though this is accompanied by reluctance due to fears of judgment.",
+  "situation": "Discovered that their bank balance was lower than expected.",
+  "auto_thought": "I can't believe I let this happen again. I'm never going to get on top of my finances.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "ashamed",
+    "worried",
+    "disappointed"
+  ],
+  "behavior": "Stared at the bank statement for a long time, feeling frozen. Put off looking at other financial documents. Avoided reaching out to parents or friends for help.",
+  "rationale": "\"The unexpected discovery of a lower bank balance may trigger thoughts of inadequacy or fear of financial insecurity.\" \"This cognitive pattern can lead to rumination, where the patient repeatedly thinks about their financial difficulties and potential consequences, which may exacerbate their stress levels.\" \"The patient's consideration of asking their parents for financial help suggests a potential internal conflict between a desire for independence and the need for support. This may lead to feelings of shame or embarrassment, as they might perceive asking for help as a personal failure.\" \"In response to these stressors, the patient may engage in avoidance behaviors, such as procrastinating on financial planning or delaying difficult conversations with their parents.\""
+}

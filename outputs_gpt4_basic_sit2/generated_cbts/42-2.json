@@ -1,0 +1,25 @@
+{
+  "name": "Graduate Student",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recurrent dreams during graduate school about being unprepared for a thesis defense. Father described as having high expectations.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet expectations, I will fail.",
+  "intermediate_belief_depression": "I can't handle criticism; it means I am failing.",
+  "coping_strategies": "Over-preparing for tasks to avoid criticism.",
+  "situation": "Receiving criticism during a work performance review.",
+  "auto_thought": "I am not good enough; I will never meet expectations.",
+  "emotion": [
+    "Anxiety",
+    "Fear"
+  ],
+  "behavior": "Becomes defensive or overly apologetic during reviews."
+}

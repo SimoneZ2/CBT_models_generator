@@ -1,0 +1,31 @@
+{
+  "name": "John Doe",
+  "id": "12345",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "History of substance abuse and completed rehabilitation. Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect. Longstanding obesity since childhood. Past experiences of bullying related to weight.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet expectations, I will be rejected.",
+  "intermediate_belief_depression": "I can't change my situation, so there's no point in trying.",
+  "coping_strategies": "Avoidance of situations that might lead to rejection or failure.",
+  "situation": "Missed an alarm and woke up late for work.",
+  "auto_thought": "I'm going to get in trouble and everyone will see me as unreliable.",
+  "emotion": [
+    "Anxiety",
+    "Shame"
+  ],
+  "behavior": "Rushed to work in a state of panic, possibly leading to mistakes.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

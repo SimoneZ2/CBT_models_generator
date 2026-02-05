@@ -1,0 +1,76 @@
+Using description: HISTORY:
+- Past experiences of pressure related to performance and social interactions.
+- Reports presenting a confident front and hiding vulnerability.
+- A recent business failure led to financial hardship.
+
+SITUATION:
+- Invited to visit their sister while dealing with financial instability. with ID=24-1
+Sample results (metadata similarity):
+  - sim=0.114 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.120 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.130 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.136 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.158 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.158 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.161 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.164 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+  - sim=0.164 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.169 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.114 | file='1003075021.txt' | title='Verilogue session: Client has been angry, violent and impulsive'
+  - sim=0.130 | file='1001084088.txt' | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. '
+  - sim=0.158 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+Using LEAST related file for transcript: '1003075021.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a male, has a history of experiencing pressure related to performance and social interactions, often presenting a confident front while concealing vulnerability. This pattern of behavior is evident in his interactions during the session, where he initially responds with "nothing" when asked about his aggressive outbursts, suggesting an avoidance of discussing his emotions and underlying issues. His recent business failure has led to financial hardship, adding another layer of stress to his current situation. Despite these challenges, he has been invited to visit his sister, which presents an opportunity for support but also potential triggers for his anxiety.
+
+During the session, the client exhibits a pattern of externalizing blame, as seen when he attributes his violent behavior to feeling "spoiled" compared to others. This reflects a cognitive distortion where he perceives unfair treatment as justification for his actions. The psychiatrist attempts to explore this further, asking if he takes any responsibility, to which the client responds with "nope," indicating a lack of insight into his role in these conflicts. This denial may be a defense mechanism to protect his self-esteem, which has been compromised by past experiences of pressure and recent financial instability.
+
+The client's emotional state fluctuates rapidly, with episodes of aggression followed by periods of calm. His caregiver notes that these outbursts occur "almost, definitely weekly," and are exacerbated by missed medication doses. This suggests a possible link between his emotional regulation difficulties and his ADHD diagnosis. The psychiatrist discusses the potential for bipolar disorder, given the "sudden outrage" and subsequent remorse, but acknowledges that these symptoms could also be attributed to ADHD-related impulsivity.
+
+The session reveals the client's struggle with impulsivity, as he often "says things and then backtracks later." This impulsivity is further complicated by his consumption of caffeinated beverages, which his caregiver believes undermines the effectiveness of his medication. The psychiatrist confirms that high glucose levels, potentially exacerbated by his soda intake, could be problematic. The client appears to avoid addressing this issue directly, as seen when he refuses to show his hands, possibly indicating a reluctance to confront behaviors that contribute to his difficulties.
+
+Financial concerns are a recurring theme, with the caregiver expressing worry about the cost of medication, stating, "that's expensive." This financial strain likely adds to the client's stress, impacting his ability to manage his symptoms effectively. The psychiatrist suggests a generic alternative to alleviate some of this burden, highlighting the importance of accessible treatment options in managing chronic conditions like ADHD and potential bipolar disorder.
+
+Throughout the session, the client exhibits a pattern of avoidance and deflection, which may be rooted in his history of hiding vulnerability. His reluctance to engage with the psychiatrist's suggestions, such as case management, indicates a resistance to change and a fear of exposing his weaknesses. However, the invitation to visit his sister could provide a supportive environment where he might feel more comfortable addressing these issues. The psychiatrist emphasizes the need for the client to take responsibility for his emotions, stating, "you have to fix it," underscoring the importance of self-awareness and proactive coping strategies in managing his condition.
+Summary da mistral_.csv: In this session, a male patient with ADHD discussed his aggressive and violent behavior towards family members, including suicidal and homicidal threats. The patient's mother mentioned that these outbursts occur when he doesn't get his way and that they happen weekly or even every other night. The physician suggested adding Depakote to the patient's current medications to help manage impulsivity, as well as implementing case management and counseling outside of sessions. The physician also mentioned that the patient's high glucose levels and consumption of pop could negatively impact his medication's effectiveness. The physician recommended a blood test to monitor the Depakote's effect on the patient's liver and mentioned that there is no generic version of the medication.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of experiencing pressure related to performance and social interactions, often presenting a confident front while concealing vulnerability. His recent business failure has led to financial hardship, adding another layer of stress to his current situation. He exhibits a pattern of avoidance and deflection, rooted in his history of hiding vulnerability.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a victim"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I admit my vulnerabilities, then others will see me as weak and I will lose their respect.",
+  "intermediate_belief_depression": "If I can't manage my financial situation, then I am a complete failure and there's no hope for improvement.",
+  "coping_strategies": [
+    "The client avoids discussing his emotions and underlying issues, externalizes blame, and deflects responsibility. He also consumes caffeinated beverages, which undermines the effectiveness of his medication."
+  ],
+  "situation": "Invited to visit their sister while dealing with financial instability.",
+  "auto_thought": "I can't let my sister see how much I'm struggling financially.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "worried"
+  ],
+  "behavior": "He avoids discussing his financial situation with his sister and presents a confident front to hide his vulnerability."
+}

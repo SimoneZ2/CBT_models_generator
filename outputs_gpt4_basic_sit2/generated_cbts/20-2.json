@@ -1,0 +1,27 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "Workplace Stress",
+    "Self-Blame"
+  ],
+  "history": "Multiple past jobs involved micromanagement. Reports self-blame in work contexts.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am incompetent"
+  ],
+  "intermediate_belief": "If I can't meet expectations, I am not good enough.",
+  "intermediate_belief_depression": "I will never be able to succeed in my job.",
+  "coping_strategies": "Considering resigning to escape the situation.",
+  "situation": "Experiencing micromanagement at the workplace and considering resigning.",
+  "auto_thought": "I can't handle this pressure; I need to leave.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Contemplating resignation as a way to cope with the stress."
+}

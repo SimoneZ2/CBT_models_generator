@@ -1,0 +1,101 @@
+Using description: HISTORY:
+- Brother died by suicide during the patient's adolescence.
+- Ongoing family tension related to the suicide.
+- Parents did not allow the patient to seek talk therapy after the death.
+
+SITUATION:
+- Noticing that the brother's birthday is approaching. with ID=34-1
+Top results (by metadata similarity):
+  - sim=0.619 | title='Verilogue session: Client comes from a family with a very competitive sibling su' | file='1002565888.txt'
+  - sim=0.600 | title='Session 1: Therapist explains to client that they are not bound to each other. T' | file='1000094387.txt'
+  - sim=0.585 | title='Verilogue session: Client is struggling with depression and being a single paren' | file='1003075045.txt'
+  - sim=0.579 | title='Session 20: Client is worried about seeing his family during the holidays.  He t' | file='1000013333.txt'
+  - sim=0.577 | title='Verilogue session: Client talks about the recent holidays and being with her fam' | file='1003009213.txt'
+  - sim=0.569 | title='Verilogue session: Client worries that she is a bad person. She feels guilty tha' | file='1003009287.txt'
+  - sim=0.567 | title='Session 4: Therapist explains to client that she is leaving the clinic and would' | file='1000094445.txt'
+  - sim=0.566 | title='Verilogue session: Client has been easily overwhelmed by feelings of anxiety rec' | file='1001083994.txt'
+  - sim=0.566 | title='Verilogue session: Client tends to overwhelm others in an attempt to make them s' | file='1001083963.txt'
+  - sim=0.565 | title='Patient "M" Therapy Session Audio Recording, January 26, 2012: Client feels dama' | file='1004478016.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.619 | file='1002565888.txt' | title='Verilogue session: Client comes from a family with a very competitive sibling su'
+  - sim=0.600 | file='1000094387.txt' | title='Session 1: Therapist explains to client that they are not bound to each other. T'
+  - sim=0.585 | file='1003075045.txt' | title='Verilogue session: Client is struggling with depression and being a single paren'
+Using top selected file for transcript: '1002565888.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient experienced the suicide of their brother during adolescence, a traumatic event that has led to ongoing family tension. The patient's parents did not permit them to seek talk therapy following the brother's death. Currently, the patient is aware that their brother's birthday is approaching, which may be triggering memories and emotions related to the loss.
+
+**Emotional Impact:**
+The patient is likely experiencing a complex mix of emotions as the anniversary of their brother's birth approaches. Given the history of family tension and the lack of therapeutic support after the brother's death, the patient may feel a resurgence of grief, sadness, and loneliness. The absence of therapy during a critical time likely contributed to unresolved feelings of guilt or helplessness, which may resurface around significant dates related to the brother.
+
+**Cognitive Patterns:**
+The patient may engage in ruminative thinking, particularly around the circumstances of their brother's death and the family dynamics that followed. The lack of permission to seek therapy might have led to internalized beliefs about the acceptability of seeking help or expressing emotions. The patient might also experience intrusive thoughts or memories related to the brother's suicide, especially as the birthday approaches.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive patterns, the patient might withdraw from social interactions or avoid family gatherings to minimize exposure to tension. They may also engage in behaviors such as scrolling through social media or seeking reassurance from friends to distract from distressing thoughts. The patient might procrastinate on tasks or responsibilities due to the emotional burden they are carrying.
+
+**Coping Styles:**
+The patient may have developed coping mechanisms that include avoidance of discussing the brother's death or the associated family tension. They might also rely on distraction techniques, such as engaging in hobbies or spending time with supportive friends, to manage their emotions. However, the lack of early therapeutic intervention suggests that these coping strategies might not fully address the underlying grief and tension.
+
+**Psychological Interpretation:**
+The patient's experience aligns with common psychological patterns observed in individuals who have faced significant loss without adequate support. The transcript provides insight into how unresolved family dynamics and grief can manifest in ongoing emotional and cognitive struggles. The patient's situation highlights the importance of addressing unresolved grief and family tension through therapeutic means, even if these issues have been longstanding.
+
+**Recommendations:**
+1. **Therapeutic Intervention:** Encourage the patient to seek therapy to process unresolved grief and family dynamics. Cognitive Behavioral Therapy (CBT) could be beneficial in addressing ruminative thoughts and developing healthier coping strategies.
+
+2. **Mindfulness and Relaxation Techniques:** Introduce mindfulness practices to help the patient manage intrusive thoughts and reduce anxiety as the brother's birthday approaches.
+
+3. **Support Network:** Encourage the patient to identify and lean on supportive relationships outside the family to provide emotional support and validation.
+
+4. **Journaling:** Suggest journaling as a tool for the patient to express and process emotions related to their brother's death and the approaching birthday.
+
+By addressing these areas, the patient can work towards resolving longstanding emotional burdens and develop healthier ways to cope with significant dates and family tension.
+Summary da mistral_.csv: The patient discussed their recent experiences with family conflicts, specifically regarding their brother and sister's exclusion of them from their late brother's funeral. They mentioned feeling bad about their son's inability to attend due to his sister's actions. The patient also shared that they found closure through planning and attending a memorial service for their brother, as well as writing letters to their siblings expressing their feelings. They expressed disappointment and surprise at their siblings' behavior and noted that they believe reconciliation is unlikely. The patient shared an instance where they attempted to send a harsh letter to their brother through an invitation envelope, but it was returned multiple times. They found the situation amusing and saw it as a sign of divine intervention.
+The patient discussed their estrangement from their family, specifically their aunt and brother. They mentioned that their aunt had pulled away from them after they bought a house, and their brother had sold the family house without consulting anyone. The patient felt that their brother's actions were cold and callous, and they had a strained relationship with him. They also mentioned that their brother had revealed his picture on their mother's tombstone with his birth date but not his death date, which caused distress for the patient and their sister. The patient had paid for their father's funeral expenses and had taken tuition money for their sibling while they were in college. They felt that their sibling had taken advantage of them during a difficult time. The patient expressed feeling relieved that they were focusing on their own family now and had accepted the lack of closeness with their siblings. They mentioned that one sibling was in school and attending church regularly, and another sibling was a retired professor teaching
+The patient discussed her friend's passing and attending the memorial service. She mentioned her friend's illness and the strong bond they shared, as they grew up together. The patient also talked about her friend's illness progression and the hospital visits. She shared that her friend had trust issues and thought she was meeting someone else, but the patient proved otherwise. The friend is now helping the patient's friend with her new home, and they are all spending more time together. The patient expressed that it is better when they are not in conflict and that her friend is starting to accept the situation. They plan to go to dinner together and visit the friend's favorite place. The patient's friend is excited about helping her friend with her house and painting it to make it beautiful.
+The patient expresses her excitement about transforming her guest room and shares her feelings of apathy towards the reactions of her estranged family members to her actions. She recounts a story about a man in a town where nobody attended his funeral, which she finds comforting and representative of her current feelings. The patient discusses her siblings' estrangement and the close relationship between her children and their cousins. She mentions her brother's recent church attendance and the positive influence of their pastor. The patient expresses her dislike for her brother's visits to a particular place and her concern about his alcohol consumption. She shares her difficulty in finding a therapist for her brother with Medicare and describes a recent encounter where he showed up at a McDonald's and followed through with plans to return home with her. The patient mentions various affordable activities offered by their church, which they have attended and enjoyed.
+The patient discusses their morning routine and the support they receive from their partner during the bereavement process following the loss of two important men in their life. They mention their partner's fear that the partner's ex-wife leaving may cause the patient to act up, but the patient believes their relationship will become stronger as a result. The doctor advises the patient to allow time for quiet reflection during the grieving process and encourages them to express their feelings to their partner. The patient also shares their creative project of creating a memorial book for their brother using attributes for each letter of his name, which they plan to present to the family. The patient mentions the difficulty in coming up with attributes for the letters Y and U and the support they have received from their colleagues in completing the project. The patient expresses their gratitude for the Prozac medication, which they believe helps them cope with the grief.
+The patient discusses their sleep medication use and the reaction of their partner. The partner had discovered the medication and expressed concern, leading to a conversation about the patient's sleep patterns and stressors. The patient mentions their mother's insomnia and suggests she may need medication as well. The conversation also touches on the patient's upcoming move and the support they will receive from their brother. The patient reflects on the loss of their nephew's guardian, who passed away shortly after the patient's brother. The patient expresses feelings of exhaustion and the need for rest during the grieving process. The doctor acknowledges the patient's loss and the importance of self-care during bereavement. The conversation also touches on the patient's strained relationship with their partner and the challenges of communicating their needs.
+The patient discussed her partner's behavior during her grieving process, mentioning his support and his reluctance to advance in his education. The patient also shared her own struggles with depression and the passing of loved ones, as well as her attempts to encourage a friend to attend a funeral. The doctor acknowledged the patient's strength and offered support.
+The patient described organizing a memorial picnic for their deceased friend, which was scheduled for the same day as the annual picnic for their childhood community. They shared memories of the house where they grew up and the importance of the event in bringing the community together. The patient also discussed the memorial service they had held for their friend, which included a Caribbean catering service, a group singing performance, and the release of balloons. The patient expressed the significance of the event in helping them cope with their grief and the importance of allowing themselves time and space to heal. The patient also discussed their use of medication to help manage their emotions and their efforts to communicate with their friend's partner about their feelings.
+The patient discussed their brother's behavior during their mother's funeral, specifically his decision to have his picture included on her headstone without consulting his wife. The patient expressed frustration over the lack of consideration given to other family members and felt excluded. The doctor acknowledged the issue and emphasized the importance of open communication in relationships. The conversation shifted to the patient's preference for quiet reflection and their church attendance, with the patient expressing a desire for less activity and more focus on the words during services. The doctor and patient agreed to schedule another appointment for ongoing therapy sessions.
+The patient discussed their disorganized pocketbook and their plan to clean it out. They also mentioned having other responsibilities that required their attention, including redecorating a guest room and dealing with someone's objection to the change. The doctor offered to move up the next appointment if needed, and the patient expressed gratitude for the session and the doctor's medical career.
+
+ REFINED CCD: description + report
+{
+  "history": "The client lost their brother to suicide during adolescence, which was a traumatic event. Family tension has persisted since the loss, and the client was not allowed to seek talk therapy by their parents at the time. This lack of support likely contributed to unresolved grief and complicated family dynamics, as well as internalized beliefs about expressing emotions and seeking help. The client may have developed patterns of avoidance and withdrawal as a result.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let myself feel or show my grief, it will make things worse for my family and I won't be supported. I have to keep my feelings to myself because no one will help me. Expressing my pain will only lead to more tension or rejection.",
+  "intermediate_belief_depression": "If I let myself think about my brother or the loss, I'll just feel even more alone and hopeless, and nothing will change. There's no point in reaching out because it won't help.",
+  "coping_strategies": [
+    "The client tends to avoid discussing their brother's death and withdraws from family interactions to minimize distress. They distract themselves with hobbies or social media and seek support from friends rather than family. These strategies help manage immediate distress but do not resolve underlying grief or family tension."
+  ],
+  "situation": "Noticing that the brother's birthday is approaching.",
+  "auto_thought": "I can't handle this day coming up again. No one in my family will understand how much this still hurts me.",
+  "emotion": [
+    "anxious",
+    "sad",
+    "lonely",
+    "overwhelmed",
+    "helpless"
+  ],
+  "behavior": "Withdraws from family members and avoids conversations about the upcoming birthday. Spends more time alone or distracts self with social media. May reach out to friends for support but avoids expressing deeper feelings."
+}

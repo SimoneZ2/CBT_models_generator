@@ -1,0 +1,31 @@
+{
+  "history": "The client has a history of elevated stress related to financial difficulties and relationship instability. They often feel burdened by a heavy workload, especially when covering for absent coworkers, and their friends frequently make emotional demands. The client finds relief and satisfaction in academic pursuits, particularly mathematics, which provides a structured escape from personal chaos. Physical activity, such as biking and lifting weights, is used as a coping strategy to clear their mind. The client values thoroughness and transparency, possibly to manage anxiety about being misunderstood. There is a pattern of immersing in intellectual activities to gain a sense of control and predictability, and the client is aware this may serve as avoidance from emotional needs.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't meet everyone's demands or keep everything under control, then I'll be overwhelmed and people will be disappointed in me. I need to be thorough and competent to be accepted and to avoid being judged. If I show weakness or ask for help, others will see me as inadequate.",
+  "intermediate_belief_depression": "If I can't manage all these pressures or help my friends, then I'm failing and things will never get better. No matter how hard I try, I can't escape feeling overwhelmed and alone.",
+  "coping_strategies": [
+    "The client immerses themselves in intellectual activities like mathematics to escape from emotional stress and gain a sense of mastery. They use physical activity to temporarily clear their mind and manage anxiety. The client tends to avoid directly addressing emotional needs or asking for help, instead focusing on competence and control."
+  ],
+  "situation": "At a convention, interacting with demanding friends while managing personal stress.",
+  "auto_thought": "I'm already so stressed and now my friends want more from me—I can't handle this. If I let them down, they'll think less of me and I’ll lose their support.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "tense",
+    "self-conscious",
+    "worried",
+    "inadequate"
+  ],
+  "behavior": "I try to keep up with my friends' demands even though I'm exhausted. I withdraw into my thoughts or look for ways to escape, like checking my phone or thinking about math problems. I avoid asking for support or expressing how overwhelmed I feel."
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Patient 22",
+  "id": "22",
+  "type": [
+    "trust issues",
+    "relationship conflict"
+  ],
+  "history": "Ongoing interpersonal difficulties with partner Ivan and his family. Recent trust and betrayal issues. Ongoing contact with Ivan's family.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "Ivan doesn't respect me or consider my needs.",
+  "intermediate_belief_depression": "I'm trapped in a relationship where I'm not valued.",
+  "coping_strategies": [
+    "Monitoring partner's behavior, confronting inconsistencies."
+  ],
+  "situation": "Discovered that Ivan made travel plans without consulting the patient.",
+  "auto_thought": "He's making decisions without me again. Nothing has changed.",
+  "emotion": [
+    "betrayal",
+    "anger",
+    "powerlessness"
+  ],
+  "behavior": "Discover partner's unilateral travel planning."
+}

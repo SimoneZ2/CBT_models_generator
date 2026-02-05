@@ -1,0 +1,34 @@
+{
+  "name": "Financially Dependent Adult Facing Career Uncertainty",
+  "id": "case_001",
+  "type": [
+    "CBT",
+    "case_formulation"
+  ],
+  "history": "The client has experienced financial difficulties after making questionable investments, resulting in increased reliance on their parents for financial assistance. This dependency appears to conflict with their desire for independence and self-sufficiency, leading to internal conflict. The client has recently engaged in discussions with family members about future plans and potential career changes, which has intensified their anxiety and self-doubt. There is evidence of rumination about past decisions and a tendency to question their own judgment and competence.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I rely on my parents for help, it means I am incapable and others will see me as a failure. If I make another mistake, it will prove that I can't be trusted to make decisions. I must avoid making the wrong choice or I will disappoint myself and my family.",
+  "intermediate_belief_depression": "If I can't fix my financial situation or make the right career move, it means I will always be stuck and things will never improve. No matter what I do, I can't escape feeling like a failure.",
+  "coping_strategies": "The client tends to avoid making decisions about their career or finances, sometimes procrastinating or withdrawing from discussions with family to avoid conflict or feelings of inadequacy. They seek reassurance from their parents despite discomfort, and may distract themselves with unrelated activities or engage in excessive planning and overthinking to regain a sense of control.",
+  "situation": "A discussion with family members about future plans and potential career changes.",
+  "auto_thought": "I'm going to mess this up again and everyone will see that I can't handle my own life. I can't make the right decision and I'll just disappoint them.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "worried",
+    "tense",
+    "overwhelmed",
+    "frustrated"
+  ],
+  "behavior": "I hesitate to speak up or share my ideas during the discussion. I avoid making any commitments or decisions about my future plans. I might withdraw from the conversation or seek reassurance from my parents.",
+  "rationale": "\"The patient may feel tense and apprehensive about their financial future and the implications of their current situation... This dependency could also evoke feelings of shame or embarrassment, as relying on parents for financial support might conflict with their desire for independence and self-sufficiency.\" \"The discussion about future plans might prompt the patient to engage in 'catastrophizing,' imagining worst-case scenarios regarding their career and financial stability.\" \"They might withdraw from discussions with family members to avoid conflict or feelings of inadequacy. The patient could also seek reassurance from their parents, despite the discomfort it may cause, as a way to cope with their anxiety.\""
+}

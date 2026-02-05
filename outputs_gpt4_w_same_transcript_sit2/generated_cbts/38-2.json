@@ -1,0 +1,30 @@
+{
+  "name": "John Doe",
+  "id": "001",
+  "type": [
+    "Depression",
+    "Work-related Stress"
+  ],
+  "history": "Health condition requiring time off work for physical therapy. Past interactions with HR and a supervisor related to return-to-work and disability status.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am a failure, loser"
+  ],
+  "intermediate_belief": "I must perform perfectly at work to be valued.",
+  "intermediate_belief_depression": "If I can't meet work expectations, I am a failure.",
+  "coping_strategies": "Avoidance of confrontation and seeking validation from coworkers.",
+  "situation": "Running into a coworker outside the workplace while on medical leave.",
+  "auto_thought": "They must think I'm not really sick.",
+  "emotion": [
+    "Anxiety",
+    "Shame"
+  ],
+  "behavior": "Avoiding eye contact and rushing away from the situation.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

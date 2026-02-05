@@ -1,0 +1,88 @@
+Using description: HISTORY:
+- Sarah is in a long-term relationship with Amelia.
+- Amelia has a demanding professional schedule.
+- Sarah feels isolated during the week.
+- Sarah does most household tasks and does not discuss resentment with Amelia.
+- History includes childhood separations from parents associated with distress.
+
+SITUATION:
+- Doing laundry and thinking about the future of the relationship and her domestic role. with ID=17-2
+Top results (by metadata similarity):
+  - sim=0.656 | title='Session 7: Client has been experiencing "cold" feelings towards her fiancé which' | file='1000126013.txt'
+  - sim=0.655 | title='Session 12: Client suffers from indecisiveness, loneliness, feelings of emotiona' | file='1000088062.txt'
+  - sim=0.654 | title='Session 3: Client is angry with her husband and his lack of interest in her as a' | file='1000088053.txt'
+  - sim=0.653 | title='Patient "M" Therapy Session Audio Recording, January 9, 2012: Client has noticed' | file='1004472421.txt'
+  - sim=0.649 | title='Session 5: Client discusses her outburst at her father during a recent family vi' | file='1000088105.txt'
+  - sim=0.646 | title='Session 13: Client is feeling suffocated by her boyfriend's neediness. She canno' | file='1000133990.txt'
+  - sim=0.643 | title='Session 6: Client suffers from lack of happiness in marriage and lack of orgasm ' | file='1000088056.txt'
+  - sim=0.637 | title='Adolescent Family Therapy: Parents and therapists often fall into the same traps' | file='1001114243.txt'
+  - sim=0.632 | title='Patient "B", Session September 13, 2012: Client is having problems concentrating' | file='1004798717.txt'
+  - sim=0.631 | title='Patient "R" Session May 07, 2012: Client talks about not being able to rely on h' | file='1004565049.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=0 partial_match=10
+match_used=PARTIAL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.656 | file='1000126013.txt' | title='Session 7: Client has been experiencing "cold" feelings towards her fiancé which'
+  - sim=0.655 | file='1000088062.txt' | title='Session 12: Client suffers from indecisiveness, loneliness, feelings of emotiona'
+  - sim=0.654 | file='1000088053.txt' | title='Session 3: Client is angry with her husband and his lack of interest in her as a'
+Using top selected file for transcript: '1000126013.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report: Sarah**
+
+**Background and Context:**
+Sarah is in a long-term relationship with Amelia, who has a demanding professional schedule. This leaves Sarah feeling isolated during the week. She manages most of the household tasks and harbors unspoken resentment towards Amelia. Sarah's history includes childhood separations from her parents, which were distressing for her. Recently, while doing laundry, Sarah found herself contemplating the future of her relationship and her domestic role.
+
+**Emotional Experience:**
+Sarah likely experiences a mix of emotions stemming from her current life circumstances. The isolation she feels during the week may lead to feelings of loneliness and sadness. This emotional state is compounded by the unspoken resentment she harbors towards Amelia for the imbalance in household responsibilities. The lack of communication about her feelings may also contribute to feelings of frustration and helplessness. Her childhood experiences with separation might amplify these feelings, as they could trigger a sense of abandonment or neglect.
+
+**Cognitive Patterns:**
+Sarah's thoughts may revolve around themes of inadequacy and self-doubt. The imbalance in her relationship and her domestic role might lead her to question her worth and contribution, potentially fostering negative self-talk. Her contemplation about the future of her relationship suggests she might be experiencing uncertainty and anxiety about her long-term stability and happiness. The lack of open communication with Amelia could lead to cognitive distortions, such as assuming Amelia's intentions or feelings without verification, which might exacerbate her emotional distress.
+
+**Behavioral Responses:**
+Sarah's behavioral responses appear to include avoidance and withdrawal. By not discussing her resentment with Amelia, she avoids potential conflict but at the cost of her emotional well-being. This avoidance might lead to passive-aggressive behaviors or increased tension in the relationship. Additionally, her tendency to ruminate on her domestic role and the future of her relationship while performing household tasks suggests a pattern of overthinking, which could further entrench her feelings of dissatisfaction and helplessness.
+
+**Coping Mechanisms:**
+Sarah's current coping mechanisms seem to be largely ineffective, as they involve avoidance and internalization of her feelings. The lack of communication with Amelia prevents resolution and perpetuates her feelings of isolation and resentment. Her tendency to ruminate might serve as a temporary distraction from her emotions but ultimately reinforces her negative cognitive patterns. To improve her emotional well-being, Sarah might benefit from developing more adaptive coping strategies, such as assertive communication and problem-solving skills.
+
+**Conclusion:**
+Sarah's emotional and cognitive experiences are deeply intertwined with her current life circumstances and past experiences. Her feelings of isolation, resentment, and uncertainty are likely exacerbated by her avoidance of open communication with Amelia. Addressing these issues through cognitive-behavioral strategies, such as challenging negative thoughts and fostering effective communication, could help Sarah achieve greater emotional balance and relationship satisfaction.
+Summary da mistral_.csv: The client discussed feeling cold towards their partner, Don, and the resulting conflict in their relationship. They described a recent incident where they mentioned Don's drunken state to their friends, which upset Don and led to a heated argument. The client felt confused about their feelings and why they have been distant, and expressed guilt for not being more responsive to Don's affections. They also discussed past patterns of conflict and expectations in their relationship.
+The client and her partner had an argument during which the partner criticized the client for not being perfect. The client felt hurt and unsure of the authenticity of their relationship. She felt uncomfortable with the cold feelings she experienced after the argument and was unable to communicate effectively with her partner. The client felt unappreciated and unrecognized for her personal growth, leading to a fear of the relationship ending. The counselor acknowledged the client's feelings and validated her experiences, encouraging her to address the issue with her partner in a constructive manner.
+The client expresses feelings of dissatisfaction and hurt in their relationship, with a sense of rehashing past issues and questioning their partner's actions and commitments. They discuss their concerns about their partner's trustworthiness and consistency in following through on promises, leading to feelings of mistrust and the need for constant reassurance. The client also reflects on their own role in the dynamic and the possibility of over-questioning or taking on a mothering role. The counselor acknowledges the client's feelings and encourages reflection on the nature of their relationship dynamics and the role they play in them.
+In this session, the counselor and client discussed the client's tendency to respond with irritation and nagging when her partner doesn't complete household chores. The counselor suggested the client consider using a more neutral tone when asking for help or expressing her irritation. The client acknowledged her struggle with this and shared examples of her reactions, including feeling stubborn and irritated when her partner doesn't help with chores. The counselor suggested practicing patience and the client expressed uncertainty about her ability to do so. They also discussed the time of their next session.
+
+ REFINED CCD: description + report
+{
+  "history": "Sarah is in a long-term relationship with Amelia, who has a demanding professional schedule, leaving Sarah feeling isolated during the week. She takes on most household tasks and does not express her resentment to Amelia. Sarah experienced distressing separations from her parents during childhood, which may contribute to her current sensitivity to feeling alone and unacknowledged. The ongoing imbalance in her domestic role and lack of communication reinforce her emotional struggles.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express my resentment or needs, I will be dismissed or create conflict, so it's safer to keep my feelings to myself. If I am left alone or my efforts go unnoticed, it means I am not valued in the relationship. I must handle things on my own to avoid being a burden or abandoned.",
+  "intermediate_belief_depression": "If nothing changes and I keep feeling alone and unappreciated, it means my relationship will never fulfill me and I will always feel this empty and helpless.",
+  "coping_strategies": [
+    "Sarah avoids discussing her resentment with Amelia, choosing to internalize her feelings rather than risk conflict. She withdraws emotionally and ruminates on her dissatisfaction and uncertainty about the future while performing household tasks. This pattern of avoidance and rumination maintains her sense of isolation and helplessness."
+  ],
+  "situation": "Doing laundry and thinking about the future of the relationship and her domestic role.",
+  "auto_thought": "I'm always the one left alone to do everything. If this keeps going, I'll never be truly happy in this relationship.",
+  "emotion": [
+    "lonely",
+    "sad",
+    "resentful",
+    "helpless",
+    "anxious",
+    "frustrated"
+  ],
+  "behavior": "She continues doing the laundry in silence, avoids bringing up her feelings with Amelia, and withdraws emotionally. She ruminates about her role and the future of the relationship."
+}

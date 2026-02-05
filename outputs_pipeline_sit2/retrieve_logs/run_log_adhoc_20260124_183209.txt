@@ -1,0 +1,83 @@
+Using description: HISTORY:
+- Master's degree in engineering.
+- Experience in robotics during college.
+- Past experience of not dedicating enough time to a project and feeling embarrassed about the outcome.
+
+SITUATION:
+- Considering launching a micro press and changing careers. with ID=47-1
+Emergency Fallback to 0.10 - Top results (by metadata similarity):
+  - sim=0.297 | title='Patient "M", Session August 21, 2012: Client is disappointed with some changes i' | file='1004687676.txt'
+  - sim=0.275 | title='Patient "M", Session May 29, 2012: Client has been feeling angry and frustrated ' | file='1004564979.txt'
+  - sim=0.265 | title='Patient "R" Session June 25, 2012: Client knows that she should be working on co' | file='1004600948.txt'
+  - sim=0.265 | title='Patient "B", Session March 28, 2012: Client is having a hard time completing her' | file='1004528603.txt'
+  - sim=0.260 | title='Session 8: Client is using his art as a form of therapy to increase his self-est' | file='1000013289.txt'
+  - sim=0.245 | title='Patient "R", Session October 26, 2012: Client is stressed out with her lab work,' | file='1004824713.txt'
+  - sim=0.231 | title='Multimodal CBT Therapy: This transcript is an initial therapy session with Arnol' | file='1001158870.txt'
+  - sim=0.231 | title='Patient "M", Session October 17, 2012: Client talks about her weight problems du' | file='1004798865.txt'
+  - sim=0.231 | title='Patient "B", Session March 08, 2012: Client fears she won't graduate and won't c' | file='1004513638.txt'
+  - sim=0.225 | title='Patient "R", Session September 10, 2012: Client talks about an impending job int' | file='1004798921.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.297 | file='1004687676.txt' | title='Patient "M", Session August 21, 2012: Client is disappointed with some changes i'
+  - sim=0.275 | file='1004564979.txt' | title='Patient "M", Session May 29, 2012: Client has been feeling angry and frustrated '
+  - sim=0.265 | file='1004600948.txt' | title='Patient "R" Session June 25, 2012: Client knows that she should be working on co'
+Using top selected file for transcript: '1004687676.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient holds a master's degree in engineering and has experience in robotics from their college years. They have previously experienced embarrassment due to not dedicating enough time to a project. Currently, the patient is contemplating a career change, specifically considering launching a micro press.
+
+**Cognitive and Emotional Patterns:**
+The patient's past experience of embarrassment from not dedicating sufficient time to a project likely contributes to a heightened sensitivity to perceived failures or inadequacies. This experience may lead to a cognitive pattern characterized by self-critical thoughts and a fear of repeating past mistakes. The contemplation of a career change suggests a desire for a fresh start, possibly driven by a need to prove oneself or to avoid similar feelings of embarrassment in the future.
+
+The decision to consider launching a micro press indicates a cognitive shift towards exploring new opportunities and a willingness to take risks. This may be accompanied by mixed emotions, including excitement about the potential for personal growth and fulfillment, as well as anxiety about the uncertainties and challenges of a new venture.
+
+**Behavioral Responses:**
+The patient may exhibit behaviors such as ruminating on past experiences, which could lead to procrastination or avoidance in decision-making. The consideration of a career change suggests a proactive approach to seeking fulfillment and aligning their career with personal values and interests. This behavior reflects a coping strategy aimed at regaining a sense of control and purpose.
+
+**Coping Styles:**
+The patient's coping style may involve seeking reassurance from past successes, such as their educational achievements and experience in robotics, to bolster confidence in their ability to succeed in a new career path. Additionally, the patient may engage in planning and researching the logistics of launching a micro press as a way to manage anxiety and uncertainty.
+
+**Emotional Impact:**
+The contemplation of a career change may evoke a range of emotions, including excitement about new possibilities and fear of the unknown. The patient may feel anxious about the potential for failure or embarrassment, similar to past experiences. However, the prospect of pursuing a passion project like a micro press may also bring feelings of hope and motivation.
+
+**Conclusion:**
+The patient's current situation reflects a complex interplay of past experiences, cognitive patterns, and emotional responses. The decision to consider a career change suggests a desire for personal growth and fulfillment, driven by both past experiences and future aspirations. The patient may benefit from cognitive-behavioral strategies to address self-critical thoughts, manage anxiety, and build confidence in their ability to succeed in a new venture. Encouraging the patient to focus on their strengths and past achievements may help reinforce a positive self-image and support their transition into a new career path.
+Summary da mistral_.csv: The client discussed their decision to reduce their hours at Microsoft due to corporate changes and disappointments with the company's new leadership. They mentioned feeling deeply disappointed with the company's direction, including cuts to hours, training, and benefits. The client also shared their past influence and contributions to the company, feeling that they had given a lot and were now being treated unfairly. They expressed concern for the impact on their colleagues and the potential for the company to become more like Best Buy. The client also shared their personal financial difficulties and the symbolic significance of their Microsoft stock.
+The client expresses frustration and sadness about changes in their company that they perceive as extracting more money from employees and negatively impacting the work environment. They recall the unique aspects of the company, such as attracting non-traditional employees and providing opportunities for personal growth. The client intends to find a new project or endeavor to feel fulfilled and make a difference, potentially in the realm of technology and education. They discuss an idea for a mouse technology that can help individuals with Parkinson's disease by smoothing out their mouse movements.
+The client expresses their difficulty in pursuing certain projects due to a lack of official expertise and the need for additional learning, which hinders their ability to secure funding or grants. They mention their background in signal processing and noise processing but acknowledge that these skills are not officially recognized in the specific areas they are interested in. The client also shares their indifference towards money and their pride in their work, which they see as problem-solving engagements. They express concerns about being seen as egotistical due to their focus on their own opinions and feelings about their work. The client shares that they have been told they live a selfish life due to their lack of children and that they are currently working on a website for their stepmother-in-law's therapy business. The session concludes with scheduling the next appointment.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a master's degree in engineering and experience in robotics from college. They previously felt embarrassed after not dedicating enough time to a project, which has left a lasting impact on their self-evaluation and sensitivity to perceived inadequacy. This past embarrassment appears to influence their current self-critical thinking and fear of repeating mistakes. Now, as they consider launching a micro press and changing careers, they are motivated by both a desire for a fresh start and a need to avoid repeating past failures.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't dedicate enough time and effort to this new venture, I will embarrass myself again and prove that I can't succeed. I must avoid repeating past mistakes at all costs, or it will mean I am not capable. Success depends entirely on my ability to avoid failure.",
+  "intermediate_belief_depression": "If I fail at this career change, it will confirm that I am not good enough and that my past embarrassments define my future. There's no point in trying if I am just going to repeat the same mistakes.",
+  "coping_strategies": [
+    "The client tends to ruminate on past failures, leading to procrastination and avoidance when faced with big decisions. They seek reassurance from their academic and technical achievements to bolster confidence, and may over-plan or excessively research as a way to manage anxiety about the new venture."
+  ],
+  "situation": "Considering launching a micro press and changing careers.",
+  "auto_thought": "What if I don't put in enough effort and end up embarrassing myself again? People will see that I'm not really capable of succeeding at something new.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "fearful",
+    "tense",
+    "self-critical",
+    "hopeful"
+  ],
+  "behavior": "I spend a lot of time thinking about my past embarrassment and worry about repeating it. I hesitate to make concrete plans or take the first step, and instead, I research and plan excessively to try to avoid mistakes."
+}

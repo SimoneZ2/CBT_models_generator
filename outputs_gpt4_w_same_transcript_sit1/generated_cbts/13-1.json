@@ -1,0 +1,29 @@
+{
+  "name": "Patient A",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Grief Counseling"
+  ],
+  "history": "Death of a close aunt whom the patient considered a mother figure. The patient did not fulfill the aunt's last request and was not present at the time of death. Pattern of prioritizing others' needs over their own.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must always be there for others, or I am not a good person.",
+  "intermediate_belief_depression": "If I am not able to fulfill others' needs, I am failing.",
+  "coping_strategies": "Avoidance of personal needs and focusing on others.",
+  "situation": "Reflecting on memories involving the aunt and the unfulfilled request.",
+  "auto_thought": "I should have been there; I failed her.",
+  "emotion": [
+    "Guilt",
+    "Sadness",
+    "Anxiety"
+  ],
+  "behavior": "Withdrawing from personal needs and focusing on others' needs."
+}

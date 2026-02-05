@@ -1,0 +1,26 @@
+{
+  "name": "Case 1",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Works in an educational setting with children who have learning disabilities. Describes being pampered by parents and having minimal consequences earlier in life. Ongoing conflicts with authority figures.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I propose new ideas, they will be rejected.",
+  "intermediate_belief_depression": "My ideas are not good enough to be accepted.",
+  "coping_strategies": "Avoids confrontation with authority figures.",
+  "situation": "Proposed a new teaching method that was rejected by school leadership. Does not confront leadership directly about the decision.",
+  "auto_thought": "They don't value my ideas.",
+  "emotion": [
+    "Frustration",
+    "Disappointment"
+  ],
+  "behavior": "Avoids discussing the rejection with leadership."
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Involvement in a complex romantic situation with a person named Cleo. Cleo is in a long-distance relationship while also engaging with the patient.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't provide support, I will be abandoned.",
+  "intermediate_belief_depression": "I am not good enough to be chosen.",
+  "coping_strategies": "Providing emotional support to feel needed and avoid rejection.",
+  "situation": "During an outing, Cleo discussed relationship problems and sought emotional support.",
+  "auto_thought": "I need to help Cleo, or I will lose them.",
+  "emotion": [
+    "Anxiety",
+    "Insecurity"
+  ],
+  "behavior": "Offering emotional support and reassurance to Cleo."
+}

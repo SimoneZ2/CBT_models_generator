@@ -1,0 +1,28 @@
+{
+  "name": "PhD Candidate",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "PhD candidate engaged in scientific research. References to a sequencing-related study and a colleague named Kelly. Working on a project with a senior scientist who has struggled to gain recognition in his career.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must do things perfectly or not at all.",
+  "intermediate_belief_depression": "If I can't meet expectations, I am a failure.",
+  "coping_strategies": "Avoidance of tasks due to fear of imperfection, leading to procrastination.",
+  "situation": "Working on a PhD project and concerned about its progress.",
+  "auto_thought": "I'm a loser for not completing tasks on time.",
+  "emotion": [
+    "Anxiety",
+    "Overwhelm",
+    "Shame"
+  ],
+  "behavior": "Procrastination and avoidance of tasks, leading to increased anxiety and feelings of inadequacy."
+}

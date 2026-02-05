@@ -1,0 +1,82 @@
+Using description: HISTORY:
+- Strained relationships with parents and a history of feeling judged and disapproved of.
+- Mother's health condition mentioned.
+- Issues related to parental support during education.
+- Mentions of the mother being described as "broken" and allegations of a past affair.
+
+SITUATION:
+- Received a work bonus for exceptional performance.
+- During a call with parents about the bonus, they asked about job prospects. with ID=32-2
+Sample results (metadata similarity):
+  - sim=0.050 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.058 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.072 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+  - sim=0.072 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.078 | title='Verilogue session: Client notices an improvement more so in his behavior rather ' | file='1003075059.txt'
+  - sim=0.103 | title='Verilogue session: Client is experiencing some of the common side effects associ' | file='1003009257.txt'
+  - sim=0.103 | title='Client 002: Female over 60 with a history of crash dieting describes typical goo' | file='1003221182.txt'
+  - sim=0.106 | title='Patient "L", Session April 24, 2012: Client struggles with letting go of her nee' | file='1004538616.txt'
+  - sim=0.110 | title='Session 2: The SAEB System In the Treatment of Panic Disorder' | file='1000341223.txt'
+  - sim=0.111 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.058 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.078 | file='1003075059.txt' | title='Verilogue session: Client notices an improvement more so in his behavior rather '
+  - sim=0.103 | file='1003009257.txt' | title='Verilogue session: Client is experiencing some of the common side effects associ'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of strained relationships with their parents, particularly around feelings of judgment and disapproval, recently received a work bonus for exceptional performance. During a call with their parents to share this news, the conversation quickly shifted to inquiries about future job prospects, which seemed to overshadow the client's achievement. This interaction may have triggered underlying feelings of inadequacy and the need for parental approval, themes that have been present throughout their life. In the session, the client speaks extensively about their engagement with mathematics, describing the intellectual satisfaction and challenges it brings. They mention how "being on the bike and lifting weights" helped clear their mind, allowing them to solve complex problems, which suggests that physical activity serves as a coping mechanism for stress and mental clarity.
+
+The client expresses a sense of accomplishment in their ability to teach and understand complex mathematical concepts, noting that they "felt good" being able to genuinely help others during a study session. This contrasts with their earlier experiences of feeling judged and inadequate, indicating a shift towards self-efficacy and confidence in their intellectual abilities. However, there is a recurring theme of feeling "in a bubble" or isolated in their mathematical pursuits, which may reflect a broader sense of disconnection from others, possibly stemming from their familial relationships.
+
+Throughout the session, the client frequently returns to the idea of learning and understanding through teaching, stating that "the best way" to learn is by teaching others. This approach not only reinforces their knowledge but also seems to provide a sense of purpose and validation, countering the internalized narrative of not being good enough. The client also reflects on the nature of mathematical proofs, expressing a desire to "give the context" and make the learning process transparent, which may parallel their wish for clarity and understanding in their personal life.
+
+The client's discussion of mathematical concepts is interspersed with reflections on their learning process, highlighting a pattern of initial confusion followed by clarity and mastery. They describe the experience of "fumbling for the light switch" in a dark room, which metaphorically captures their journey from uncertainty to understanding. This process mirrors their broader life experience of navigating feelings of inadequacy and seeking validation, both from themselves and others.
+
+Despite the intellectual satisfaction derived from mathematics, the client acknowledges moments of self-consciousness, questioning the practical relevance of their pursuits. They express a sense of being "preoccupied" with math, which may serve as both a refuge from and a barrier to addressing deeper emotional and relational issues. The client's narrative suggests a tension between their intellectual achievements and the emotional fulfillment they seek, particularly in the context of their family dynamics.
+
+In conclusion, the session reveals the client's complex interplay between intellectual pursuits and emotional needs. Their engagement with mathematics provides a sense of control and accomplishment, yet it also highlights underlying themes of isolation and the ongoing quest for approval and connection. The client's reflections on teaching and learning suggest a potential pathway for integrating these experiences, fostering both personal growth and relational healing.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of strained relationships with their parents, characterized by feelings of judgment and disapproval. There are references to the mother's health and being described as 'broken,' as well as allegations of a past affair, which may have contributed to family tension. The client reports a lack of parental support during their education, and a recurring sense of not being good enough in their parents' eyes. They have found intellectual satisfaction and some self-efficacy through mathematics and teaching, but also describe feeling isolated or 'in a bubble' in these pursuits.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet my parents' expectations or achieve more, they will continue to judge and disapprove of me. My worth is tied to their approval, so I must keep striving for recognition. If I share my successes and they aren't acknowledged, it means I haven't done enough.",
+  "intermediate_belief_depression": "Even when I accomplish something significant, it feels empty because my parents will never truly value or accept me. No matter how hard I try, I can't escape the feeling that I'm fundamentally inadequate.",
+  "coping_strategies": [
+    "The client immerses themselves in intellectual pursuits like mathematics and teaching, seeking validation through mastery and helping others. They use physical activity (biking, lifting weights) to manage stress and clear their mind. However, they also withdraw emotionally and avoid directly addressing feelings of inadequacy or seeking emotional connection with their parents, which maintains their sense of isolation."
+  ],
+  "situation": "Received a work bonus for exceptional performance. During a call with parents about the bonus, they asked about job prospects.",
+  "auto_thought": "They don't really care about what I've achieved; it's never enough for them. No matter what I do, they'll always focus on what I haven't done yet.",
+  "emotion": [
+    "disappointed",
+    "hurt",
+    "frustrated",
+    "inadequate",
+    "sad",
+    "resentful"
+  ],
+  "behavior": "I downplay my excitement about the bonus and quickly shift the conversation away from my achievement. I become quieter and less engaged on the call. Afterward, I distract myself by focusing on work or mathematical problems, or go for a bike ride to clear my mind."
+}

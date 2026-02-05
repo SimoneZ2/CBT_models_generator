@@ -1,0 +1,79 @@
+Using description: HISTORY:
+- Long-standing friendship with Jersey, who has had multiple surgeries related to disabilities.
+- The patient has previously provided support during Jersey's medical procedures and recovery.
+- Ongoing conflict with roommate Ashby over household issues.
+
+SITUATION:
+- The kitchen becomes dirty because Ashby does not take out the trash after cooking.
+- The patient has tried to communicate with Ashby about it, but the issue continues. with ID=9-2
+Sample results (metadata similarity):
+  - sim=0.062 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.169 | title='Session 4: Client does not understand why she cannot find someone to date her. S' | file='1000133886.txt'
+  - sim=0.178 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.194 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.202 | title='Session 15: Client explains why she can make friendships with certain men but no' | file='1000133901.txt'
+  - sim=0.204 | title='Session 2: The SAEB System In the Treatment of Panic Disorder' | file='1000341223.txt'
+  - sim=0.205 | title='This is an EMDR session with a 45-year-old woman whose son, George, was killed i' | file='1000606010.txt'
+  - sim=0.207 | title='Verilogue session: Client is having problems staying asleep; she spends too much' | file='1003075017.txt'
+  - sim=0.207 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+  - sim=0.207 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.062 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.169 | file='1000133886.txt' | title='Session 4: Client does not understand why she cannot find someone to date her. S'
+  - sim=0.178 | file='1001158874.txt' | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a long-standing friendship with Jersey, often finds themselves in a supportive role, especially during Jersey's medical procedures and recovery. This history of caregiving seems to influence the client's current interpersonal dynamics, including ongoing conflicts with their roommate, Ashby, over household issues like the kitchen becoming dirty due to Ashby's neglect in taking out the trash. Despite attempts to communicate about this issue, it remains unresolved, which may contribute to the client's feelings of frustration and helplessness. During the session, the client did not directly address this conflict, instead focusing on their academic pursuits and experiences with mathematics, which might serve as a coping mechanism or distraction from unresolved interpersonal tensions.
+
+Throughout the session, the client expressed a deep engagement with mathematical concepts, describing the process of learning and teaching precalculus and proof-based mathematics. They mentioned, "I feel like everything we're doing is sort of chapter zero," indicating a sense of foundational learning that parallels their life experiences. The client finds satisfaction in the clarity and logic of mathematics, which contrasts with the ambiguity and unresolved nature of their conflict with Ashby. This intellectual immersion seems to provide a sense of control and achievement, as evidenced by their pride in being able to teach others, saying, "I could honestly, genuinely teach the material and be helpful."
+
+The client frequently returned to themes of understanding and mastery, noting the initial struggle with new mathematical symbols and concepts. They described the process as "infuriating" when they couldn't initially solve problems, but also acknowledged the satisfaction of eventual comprehension, stating, "It's amazing to me." This pattern of initial frustration followed by mastery may reflect their broader approach to challenges, including interpersonal ones, where they might feel stuck initially but find resolution through persistence.
+
+Interestingly, the client avoided discussing the roommate conflict directly, instead focusing on the intellectual challenges and rewards of mathematics. This avoidance might suggest a reluctance to confront emotional or interpersonal issues directly, preferring the structured and predictable world of numbers. The client mentioned feeling "self-conscious" about their preoccupation with math, which could hint at underlying insecurities or a need for validation that they might not be receiving in their personal relationships.
+
+The client also reflected on the nature of learning and teaching, drawing parallels between their experiences and broader philosophical concepts. They expressed a sense of being in a "bubble" of intellectual focus, which might serve as a refuge from the messiness of real-world interactions. This intellectual focus seems to provide a sense of identity and purpose, as they navigate the complexities of both mathematical proofs and personal relationships.
+
+Overall, the session highlighted the client's cognitive patterns of seeking understanding and mastery, their emotional responses of frustration and satisfaction, and their behavioral tendency to immerse themselves in intellectual pursuits as a coping strategy. The unresolved conflict with Ashby remains a background issue, potentially influencing the client's emotional state and interpersonal dynamics, yet it was not directly addressed, suggesting an area for future exploration in therapy.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a long-standing friendship with Jersey, often taking on a caregiving and supportive role during Jersey's medical procedures and recovery. This history of being relied upon for support appears to influence the client's current interpersonal dynamics, including ongoing, unresolved conflict with their roommate Ashby over household responsibilities. The client has attempted to communicate about the kitchen cleanliness issue, but it persists. In session, the client avoided discussing this conflict directly, instead focusing on academic pursuits and mathematics, which may serve as a coping mechanism or distraction from interpersonal stress. The client expressed satisfaction and pride in their intellectual achievements, and described feeling 'self-conscious' about their preoccupation with math, suggesting possible underlying insecurities or unmet needs for validation.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't get others to listen or change their behavior, it means I'm not effective or respected. I have to take responsibility for making things work, but if I fail, it reflects badly on me. When I can't resolve conflicts, I should focus on things I can control to feel competent.",
+  "intermediate_belief_depression": "If I keep failing to resolve these issues, it means I'm not good enough and things will never improve. No matter how hard I try, nothing changes, so maybe it's pointless to keep trying.",
+  "coping_strategies": [
+    "The client tends to avoid directly addressing interpersonal conflicts, instead immersing themselves in intellectual pursuits like mathematics for a sense of control and achievement. They may withdraw from emotionally charged situations and focus on areas where they feel competent, using academic success as a distraction from unresolved personal issues."
+  ],
+  "situation": "The kitchen becomes dirty because Ashby does not take out the trash after cooking. The patient has tried to communicate with Ashby about it, but the issue continues.",
+  "auto_thought": "Ashby doesn't care about how this affects me. No matter what I say, nothing will change.",
+  "emotion": [
+    "frustrated",
+    "helpless",
+    "resentful",
+    "disappointed",
+    "tense"
+  ],
+  "behavior": "I avoid bringing up the issue again and withdraw from interacting with Ashby. Instead, I spend more time focusing on my math work or other solitary activities."
+}

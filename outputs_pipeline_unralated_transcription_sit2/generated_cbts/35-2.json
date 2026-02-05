@@ -1,0 +1,35 @@
+{
+  "history": "The client grew up in a family where discussions about pain and suffering were avoided, particularly with their father, who refuses talk therapy and is haunted by distressing dreams about his brother's suicide. The client reports ongoing struggles with separation and suffering, and this is mirrored in their difficulty articulating feelings of detachment, especially in relationships like the one with Jeremy. The client often finds solace in intellectual pursuits such as mathematics, which provide a sense of clarity and control absent in their emotional life. They express self-consciousness about their focus on math, feeling isolated from broader life concerns, and describe physical activity as a way to reset mentally.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I let myself feel or express my pain and detachment, others will not understand and I will end up more alone. I must keep my struggles to myself to avoid burdening others or being rejected. If I can't articulate my feelings clearly, it means I am failing to connect and something is wrong with me.",
+  "intermediate_belief_depression": "If I can't overcome this sense of detachment, it means I will always be alone and nothing I do will make a difference. My efforts to connect are pointless because I am fundamentally different and disconnected from others.",
+  "coping_strategies": [
+    "The client turns to intellectual pursuits like mathematics and teaching as a way to find clarity and avoid emotional pain. They use physical activity to clear their mind and distract from distressing feelings. When feeling disconnected, they withdraw or focus on tasks that provide a sense of control, rather than addressing the emotional issue directly."
+  ],
+  "situation": "Talking about feelings of disconnection with a person named Jeremy. Trying to describe a sense of detachment and associated pain.",
+  "auto_thought": "I can't really explain what I'm feeling to Jeremy. If I try, he'll just think I'm strange and pull away.",
+  "emotion": [
+    "anxious",
+    "sad",
+    "self-conscious",
+    "lonely",
+    "frustrated",
+    "disconnected"
+  ],
+  "behavior": "I hesitate or avoid sharing my feelings with Jeremy. I focus on other topics or intellectualize the conversation instead. I withdraw emotionally and keep my pain to myself."
+}

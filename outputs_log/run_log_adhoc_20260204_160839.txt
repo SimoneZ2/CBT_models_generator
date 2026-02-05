@@ -1,0 +1,82 @@
+Using description: HISTORY:
+- Recently completed an undergraduate degree and is entering the workforce.
+- Came out to parents within the last two and a half years and received negative reactions.
+- Became more distant from parents afterward.
+- Moved to New York for education and explored identity away from family influence.
+- Strained relationship with mother, described as focused on practical concerns rather than emotional support.
+- Tension with sister described as envious of the patient's independence and achievements.
+
+SITUATION:
+- Deciding whether to disclose a recent breakup to parents. with ID=30-1
+Sample results (metadata similarity):
+  - sim=0.032 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.087 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.094 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.107 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.119 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.122 | title='Verilogue session: Client's moods decline and become unstable when her medicatio' | file='1001083950.txt'
+  - sim=0.126 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.128 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+  - sim=0.129 | title='The Brief Therapy-Eliminating a Compulsion: In a large psychotherapy conference ' | file='1000119395.txt'
+  - sim=0.133 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.032 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.087 | file='1004798723.txt' | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to '
+  - sim=0.094 | file='1000275936.txt' | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a '
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, having recently completed an undergraduate degree and transitioned into the workforce, is navigating a complex period of personal and professional growth. During our session, they expressed a sense of accomplishment and intellectual engagement, particularly in their exploration of mathematics. This exploration seems to serve as both a cognitive challenge and a form of escapism from more emotionally charged aspects of their life. The client described their recent experience with tutoring precalculus, noting the satisfaction derived from "being able to teach the material" and feeling competent in a subject that once seemed daunting. This sense of mastery contrasts with their ongoing struggle to reconcile their identity with familial expectations, particularly following their coming out to their parents, which was met with negative reactions and led to increased distance.
+
+Throughout the session, the client frequently returned to themes of learning and understanding, both in mathematics and in life. They recounted a recent study session where they felt "ahead of people in class," which provided a rare moment of confidence and validation. This contrasts with their earlier experiences of feeling "completely confused and frustrated" in their real analysis course. The client’s narrative suggests a parallel between their mathematical journey and their personal life, where they are often "fumbling for the light switch" in a dark room, seeking clarity and acceptance.
+
+The client’s relationship with their family remains strained, particularly with their mother, who is described as more focused on "practical concerns rather than emotional support." This dynamic appears to contribute to the client's hesitance in disclosing personal matters, such as a recent breakup, to their parents. The client’s avoidance of this disclosure may be linked to a fear of further negative reactions or a desire to maintain some degree of autonomy and control over their personal narrative. They expressed feeling "self-conscious" about their preoccupation with mathematics, which may serve as a refuge from these familial tensions.
+
+The session also highlighted the client's cognitive patterns, particularly their tendency to ruminate on the complexities of mathematical concepts as a metaphor for life's challenges. They spoke of the "beauty to thinking about this stuff very clearly," suggesting a desire for order and predictability in contrast to the unpredictability of interpersonal relationships. The client’s reflections on the "common thing that is also universal" in mathematics may reflect a longing for connection and understanding that transcends cultural and personal differences.
+
+In discussing their teaching experiences, the client noted the importance of "drawing lots of pictures" to communicate complex ideas, which parallels their need to articulate and process their own emotions and experiences. This method of externalizing and visualizing thoughts may serve as a coping strategy, allowing the client to manage anxiety and gain perspective. The client’s engagement with mathematics and teaching appears to provide a structured environment in which they can exert control and experience success, counterbalancing the uncertainty and emotional complexity of their familial relationships.
+
+As the session concluded, the client acknowledged the ongoing nature of their personal and intellectual journey, expressing a willingness to continue exploring these themes in future sessions. Their parting words, "See you maybe in two weeks," suggest a tentative commitment to this process, reflecting both their ambivalence and their hope for continued growth and understanding.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has recently completed an undergraduate degree and transitioned into the workforce. They came out to their parents within the last two and a half years, which was met with negative reactions, leading to increased distance. The client moved to New York for education and explored their identity away from family influence. They have a strained relationship with their mother, who is focused on practical concerns rather than emotional support, and tension with a sister who is envious of the client's independence and achievements.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a victim"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I disclose personal matters to my parents, then they will react negatively, and I will feel rejected.",
+  "intermediate_belief_depression": "If I open up about my breakup, it will only confirm that I am not accepted by my family.",
+  "coping_strategies": [
+    "The client uses mathematics as a form of escapism from emotionally charged aspects of their life. They avoid disclosing personal matters to maintain autonomy and control over their narrative."
+  ],
+  "situation": "Deciding whether to disclose a recent breakup to parents.",
+  "auto_thought": "If I tell them about the breakup, they'll just judge me again.",
+  "emotion": [
+    "anxious",
+    "self-conscious",
+    "fearful",
+    "hesitant"
+  ],
+  "behavior": "The client avoids discussing the breakup with their parents and instead focuses on their work and mathematical interests."
+}

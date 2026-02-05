@@ -1,0 +1,29 @@
+{
+  "history": "The client has a longstanding pattern of academic underperformance despite being described as intelligent. They attended college at institution X but felt isolated and eventually dropped out, leaving about two years of credits unfinished. The client reports financial difficulties and feels pressured by their mother, who holds high expectations for them, to return home. The client often compares themselves to their sister's achievements and time management, which intensifies their feelings of inadequacy and self-doubt.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't perform as well as others, especially my sister, then I am not good enough and others will see me as a disappointment. I must meet high expectations to be valued. If I struggle or fall behind, it means I am fundamentally flawed.",
+  "intermediate_belief_depression": "If I keep failing to meet expectations and can't get myself to be productive, then there is no hope for me to improve and I will always be stuck feeling like a failure.",
+  "coping_strategies": [
+    "The client tends to avoid tasks and situations that trigger anxiety about their performance, such as academic work or planning for the future. They withdraw from social interactions and procrastinate, leading to further inactivity and self-reproach. The client also engages in negative self-comparison, particularly with their sister, which increases their distress but feels difficult to stop."
+  ],
+  "situation": "Experienced an unproductive week due to scheduling problems. Comparing themselves to their sister's achievements and time management.",
+  "auto_thought": "I'm falling behind again and I can't get it together. My sister has her life together and I'm just failing.",
+  "emotion": [
+    "inadequate",
+    "anxious",
+    "ashamed",
+    "disappointed",
+    "overwhelmed",
+    "self-doubt"
+  ],
+  "behavior": "Procrastinated on tasks and avoided making a new schedule. Spent time ruminating about their sister's achievements. Withdrew from activities that might remind them of their own lack of progress.",
+  "source_text_id": "1004687722.txt"
+}

@@ -1,0 +1,33 @@
+{
+  "history": "The client has a health condition requiring time off work for physical therapy. They have had past interactions with HR and a supervisor regarding their return-to-work and disability status. The client recalls feeling judged during a prior interaction with HR while on medical leave. There is evidence of emotional distress related to these interactions, including feelings of shame, self-doubt, and vulnerability, as well as a tendency to ruminate about how others perceive them.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I show that I need time off for my health, others will see me as weak or unreliable, and I will be judged negatively. I must prove that my problems are legitimate or people will think less of me. I have to minimize my needs to avoid being seen as a burden.",
+  "intermediate_belief_depression": "If I can't convince others that my health issues are real, it means I'm just making excuses and I don't deserve support. No matter what I do, people will always think I'm not trying hard enough, so there's no point in explaining myself.",
+  "coping_strategies": [
+    "The client tends to withdraw or avoid discussing their health and work situation, fearing judgment. They may seek reassurance or validation from others, but also try to rationalize or minimize their feelings, which does not resolve their distress. Avoidance and self-doubt persist as coping patterns."
+  ],
+  "situation": "Recalling a prior interaction with HR that involved feeling judged during medical leave.",
+  "auto_thought": "They think I'm exaggerating my condition and just trying to get out of work. I'm coming across as weak and unreliable.",
+  "emotion": [
+    "ashamed",
+    "anxious",
+    "embarrassed",
+    "self-doubt",
+    "vulnerable"
+  ],
+  "behavior": "I avoid bringing up my health needs with HR or my supervisor. I keep my feelings to myself and try not to ask for help. I replay the conversation in my head, wondering if I said something wrong.",
+  "source_text_id": "1000133889.txt"
+}

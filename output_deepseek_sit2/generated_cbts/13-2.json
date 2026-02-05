@@ -1,0 +1,31 @@
+{
+  "name": "Patient 13",
+  "id": "13",
+  "type": [
+    "grief",
+    "caretaker burnout"
+  ],
+  "history": "Death of close aunt (mother figure). Did not fulfill aunt's last request or attend death. Pattern of prioritizing others' needs over own.",
+  "helpless_belief": [
+    "I am defective"
+  ],
+  "unlovable_belief": [
+    "I am a disappointment"
+  ],
+  "worthless_belief": [
+    "I am bad - dangerous, toxic, evil"
+  ],
+  "intermediate_belief": "I must always put others first to be a good person.",
+  "intermediate_belief_depression": "I failed my aunt; I don't deserve happiness.",
+  "coping_strategies": [
+    "Overgiving, self-neglect, guilt-driven behavior."
+  ],
+  "situation": "On way to movie, friend calls for emotional support; gives up movie to talk.",
+  "auto_thought": "\"My movie can wait. If I don't help, I'm selfish like when I failed my aunt.\"",
+  "emotion": [
+    "obligation",
+    "resentment",
+    "guilt"
+  ],
+  "behavior": "Cancels plans, listens to friend for hour, feels secretly angry but doesn't show it."
+}

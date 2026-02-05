@@ -1,0 +1,29 @@
+{
+  "history": "The client is a PhD candidate engaged in scientific research, working on a sequencing-related study and collaborating with a colleague named Kelly. They are also involved in a project with a senior scientist who has struggled to gain recognition. The client is in an environment where achievement and productivity are highly valued, and there is a strong culture of comparison among peers. The client is exposed to colleagues who work longer hours and publish more, which may reinforce internalized standards of success and self-worth.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't work as hard or publish as much as my colleagues, then I am falling behind and will not succeed. I must always push myself to match or exceed others' achievements. My worth is measured by my productivity and recognition.",
+  "intermediate_belief_depression": "If I can't keep up with my colleagues, then I will never be successful and there's no point in trying.",
+  "coping_strategies": [
+    "The client tends to overwork, pushing themselves to work longer hours even when exhausted. They may procrastinate on tasks due to fear of not meeting high standards, and sometimes seek reassurance from peers or mentors like Kelly. These strategies temporarily reduce anxiety but reinforce the cycle of self-comparison and pressure."
+  ],
+  "situation": "Comparing themselves to colleagues who work longer hours and publish more papers.",
+  "auto_thought": "I'm not doing enough compared to them. If I don't catch up, I'll fall behind and fail.",
+  "emotion": [
+    "anxious",
+    "stressed",
+    "inadequate",
+    "guilty",
+    "disappointed"
+  ],
+  "behavior": "I stay late in the lab, working extra hours even when I'm tired. I check my colleagues' progress and publications online. Sometimes I avoid starting new tasks because I'm afraid I won't do them well enough.",
+  "source_text_id": "1000094808.txt"
+}

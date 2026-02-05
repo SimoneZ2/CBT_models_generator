@@ -1,0 +1,81 @@
+Using description: HISTORY:
+- Past labor dispute in a previous workplace.
+- Ongoing concerns related to fairness, pay, and authority at work.
+
+SITUATION:
+- Being asked to work beyond regular hours without additional compensation during an ongoing labor dispute. with ID=37-2
+Sample results (metadata similarity):
+  - sim=0.004 | title='Session 8: Client and therapist chat generally on random subjects and client tal' | file='1000088089.txt'
+  - sim=0.007 | title='Session 15: Client explains why she can make friendships with certain men but no' | file='1000133901.txt'
+  - sim=0.010 | title='Session 7: Client's frustrations with her sense of losing control make her want ' | file='1000323422.txt'
+  - sim=0.011 | title='Session 5: The SAEB System In the Treatment of Panic Disorder' | file='1000341225.txt'
+  - sim=0.012 | title='Psychotherapy With Medically Ill Children: Many therapists feel overwhelmed with' | file='1001114244.txt'
+  - sim=0.013 | title='Patient "J", Session July 06, 2012: Client feels anxious about his feelings for ' | file='1004687598.txt'
+  - sim=0.013 | title='Series 4, Session 6: Client experienced an awkward social situation with the mal' | file='1003269470.txt'
+  - sim=0.017 | title='Session 20: Client assumes it is her physical deformity that keeps men from find' | file='1000133913.txt'
+  - sim=0.024 | title='Session 41: Client becomes angry when she is questioned or corrected by anyone; ' | file='1000334634.txt'
+  - sim=0.028 | title='Series 1, Session 7: Client is trying to be constructive with her emotions. She ' | file='1002995961.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2015 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.004 | file='1000088089.txt' | title='Session 8: Client and therapist chat generally on random subjects and client tal'
+  - sim=0.007 | file='1000133901.txt' | title='Session 15: Client explains why she can make friendships with certain men but no'
+  - sim=0.010 | file='1000323422.txt' | title='Session 7: Client's frustrations with her sense of losing control make her want '
+Using LEAST related file for transcript: '1000088089.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+In this session, the client navigates a complex interplay of thoughts and emotions, reflecting on both personal and work-related experiences. The client's history of a past labor dispute and ongoing concerns about fairness and authority at work seem to underpin much of the dialogue, even as these themes are not explicitly addressed. The session begins with a seemingly mundane conversation about clothing, where the client mentions carrying a jacket because "there's no place for a wallet in these stupid things," hinting at a practical approach to daily challenges. This practical mindset might be a coping mechanism developed from past experiences of feeling undervalued or unsupported in professional settings.
+
+As the conversation shifts to the topic of commuting, the client expresses strong feelings about the "mind pollution" of commuting from the suburbs, describing it as "the worst experience in the world." This sentiment may mirror the client's feelings about the current work situation, where being asked to work beyond regular hours without additional compensation could feel similarly overwhelming and unjust. The client's reaction to commuting—becoming "upset" and "growling and howling"—suggests a pattern of intense emotional responses to perceived unfairness or lack of control.
+
+The discussion about cats provides a metaphorical exploration of identity and perception. The client muses on how cats might perceive each other and humans, pondering, "Can cats tell just by looking at another cat's face?" This curiosity about perception may reflect the client's own concerns about how they are viewed by others, particularly in the workplace. The client's mention of feeling like "a charity a little bit" when talking suggests an underlying sense of inadequacy or being undervalued, possibly stemming from the labor dispute and current work demands.
+
+Throughout the session, the client engages in a reflective process, considering how they judge others and themselves. The client acknowledges a tendency to judge people based on appearance, admitting, "I always tend to judge people on how they look." This self-awareness extends to their own self-perception, as they discuss recent weight loss and the mixed reactions from others. The client notes, "It's strange to have to react like instead of why I look good," indicating a conflict between personal achievement and external validation.
+
+The client's reflections on possessions and materialism further illustrate a desire for simplicity and autonomy. They express satisfaction in having "only a few suitcases instead of being weighted down with all this crap," which could symbolize a broader wish to shed unnecessary burdens, both material and emotional. This aligns with their feelings about the current work situation, where the demand for extra hours without compensation might feel like an unjust burden.
+
+In discussing exercise and self-improvement, the client reveals a complex relationship with self-esteem and external judgment. They express embarrassment about exercising in front of others, fearing judgment from "really muscular guys" at the gym. This mirrors the client's work-related concerns, where authority and fairness are central issues. The client's avoidance of exercising with others may parallel their reluctance to confront work-related injustices directly, opting instead for internal coping strategies.
+
+Overall, the session highlights the client's ongoing struggle with self-perception, fairness, and authority, both in personal and professional contexts. The client's reflections reveal a pattern of seeking control and validation, while grappling with feelings of inadequacy and judgment. These themes are intricately linked to their history of labor disputes and current work challenges, suggesting a need for strategies that address both cognitive and emotional responses to perceived injustices.
+Summary da mistral_.csv: In this session, the patient discusses various topics including her jacket, her cats, and her experiences with cats. She recalls receiving the jacket as a birthday gift from her little sister or mother. The patient also talks about the difference in appearance between her two cats, one of which looks like a cactus. She expresses her preference for quiet cats and mentions her nephew's constant demand for attention. The conversation also includes a discussion about the origins of the Abyssinian cat breed and the British stealing them from Egypt. The patient expresses her desire to get a Himalayan cat in the future, but is unsure if she is allergic to cats. The session ends with the patient mentioning her nephew's persistent demand for attention.
+In this therapy session, the patient expresses difficulty understanding their partner's needs and feelings, leading to misunderstandings and hurt feelings. They also discuss their own feelings of discomfort when they are perceived as looking "skinny" by others, despite their recent weight loss. The patient shares that they prefer to exercise alone and feel self-conscious around others due to perceived judgments. The counselor acknowledges the challenges of understanding others' perspectives and feelings, and the importance of self-acceptance.
+The patient discusses their tendency to judge people based on their appearance and feels embarrassed about expressing compliments or criticisms. They also reflect on their own appearance and the role of clothing in their self-confidence and comfort. The patient shares their ambivalence towards possessions, expressing a desire for minimalism but feeling attached to certain items, particularly books. They also mention their past dislike for reading but now read more frequently. The counselor asks questions to clarify the patient's thoughts and feelings.
+The patient expresses having broadened their interests and enjoyment in reading, but still prefers conversing over reading. They discuss the dislike of being forced to read and write book reports in the past.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of a past labor dispute and ongoing concerns about fairness, pay, and authority at work. They report feeling undervalued and unsupported in professional settings, as reflected in their comments about being 'a charity a little bit.' The client also describes intense emotional responses to perceived unfairness, such as becoming 'upset' and 'growling and howling' about commuting, which mirrors their reactions to work demands. There is evidence of self-judgment and concerns about how others perceive them, both in appearance and in their professional role. The client expresses a desire for autonomy and simplicity, wishing to shed unnecessary burdens, which parallels their frustration with extra work demands.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't comply with authority or extra demands, people will see me as difficult or ungrateful, and I will be judged negatively. I must avoid confrontation to prevent being seen as a problem employee. If I stand up for myself, it might confirm that I am not valued or respected.",
+  "intermediate_belief_depression": "If I try to assert my needs and nothing changes, it proves that I am powerless and nothing I do will make a difference. Standing up for myself will only lead to disappointment and reinforce that I am not worthy of fair treatment.",
+  "coping_strategies": [
+    "The client tends to avoid direct confrontation with authority and internalizes frustration, as seen in their intense emotional responses and withdrawal. They seek validation through self-reflection and practical coping (e.g., focusing on material simplicity), but also engage in avoidance behaviors, such as not exercising with others to avoid judgment. These strategies provide temporary relief but maintain feelings of inadequacy and powerlessness."
+  ],
+  "situation": "Being asked to work beyond regular hours without additional compensation during an ongoing labor dispute.",
+  "auto_thought": "This isn't fair—they're taking advantage of me again. No matter what I do, they don't respect my time or effort.",
+  "emotion": [
+    "angry",
+    "frustrated",
+    "resentful",
+    "powerless",
+    "unappreciated",
+    "anxious"
+  ],
+  "behavior": "I stay silent and do the extra work, feeling resentful the whole time. Later, I vent my frustration privately or withdraw from colleagues. I avoid bringing up my concerns directly to my supervisor."
+}

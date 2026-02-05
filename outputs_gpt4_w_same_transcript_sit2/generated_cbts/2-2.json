@@ -1,0 +1,33 @@
+{
+  "name": "Case Study: Family Dynamics and Approval Seeking",
+  "id": "CS-001",
+  "type": [
+    "CBT",
+    "Family Dynamics"
+  ],
+  "history": "Recent family tension related to a conversation with parents about a wedding list. The patient noticed similarities between their own actions and their father's patterns. The father is described as repeatedly seeking approval and unconditional love from family members.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must prove my worth to be accepted.",
+  "intermediate_belief_depression": "If I don't meet expectations, I will be rejected.",
+  "coping_strategies": "Seeking approval and validation from others, being defensive or aggressive when challenged.",
+  "situation": "Observing the father's ongoing pursuit of approval from his sister.",
+  "auto_thought": "I need to prove myself to be accepted.",
+  "emotion": [
+    "Anxiety",
+    "Fear",
+    "Guilt"
+  ],
+  "behavior": "Becoming defensive or aggressive in conversations, seeking validation.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

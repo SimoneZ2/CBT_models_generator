@@ -1,0 +1,31 @@
+{
+  "name": "Ivan Conflict Case",
+  "id": "case_001",
+  "type": [
+    "CBT",
+    "CCD",
+    "case formulation"
+  ],
+  "history": "The patient has a longstanding pattern of self-criticism and is used to maintaining control and achieving goals. This tendency has shaped their approach to challenges, particularly in job seeking, personal relationships, and family dynamics. The patient often ruminates on perceived shortcomings or mistakes, which can hinder effective problem-solving and decision-making. In family situations, especially conflicts involving others' decisions, the patient feels internal conflict between maintaining harmony and asserting their own perspective.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't influence or guide others' important decisions, then I am failing as a supportive person and things will go wrong. I must maintain control to prevent mistakes or negative outcomes. If I don't step in, I will be responsible for things turning out badly.",
+  "intermediate_belief_depression": "If I can't help or control the situation, then nothing I do matters and I am just a bystander to failure. My efforts are pointless if I can't make a difference.",
+  "coping_strategies": "The patient tends to withdraw from social interactions or avoid difficult conversations when feeling overwhelmed by conflict. They may seek reassurance from others or over-prepare and excessively plan in an attempt to regain control. Sometimes, they offer unsolicited advice or try to manage others' decisions, which can strain relationships.",
+  "situation": "Conflict related to another person's (Ivan's) approach to job searching and life decisions.",
+  "auto_thought": "Ivan is making the wrong choices and I can't stop him. If I don't intervene, everything will fall apart and it will be my fault.",
+  "emotion": [
+    "anxious",
+    "frustrated",
+    "helpless",
+    "irritated",
+    "guilty"
+  ],
+  "behavior": "I try to give Ivan advice or push him to change his approach. When that doesn't work, I withdraw or avoid further discussion. Sometimes, I ruminate about what I should have done differently.",
+  "rationale": "\"The patient exhibits a strong tendency toward self-criticism, which likely exacerbates feelings of inadequacy and failure, particularly in situations where control is perceived to be lost.\" \"The conflict with Ivan may evoke feelings of irritation or helplessness, as the patient perceives a lack of control over Ivan's decisions and actions.\" \"The patient may engage in behaviors such as withdrawing from social interactions, avoiding difficult conversations, or seeking reassurance from others.\""
+}

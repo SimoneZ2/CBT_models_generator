@@ -1,0 +1,34 @@
+{
+  "name": "Workplace Underappreciation Case",
+  "id": "case001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "The client has a history of ongoing workplace difficulties, specifically feeling underappreciated and unsupported. They have repeatedly experienced their ideas and suggestions being dismissed, which has contributed to a persistent sense of frustration and inadequacy. These experiences appear to have led to negative self-evaluation and a cycle of rumination about their worth and contributions. The pattern of not being recognized or valued by colleagues has been a recurring theme.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If my ideas are not accepted and others are praised instead, then I must not be as competent or valued as my coworkers. I need others' recognition to feel worthwhile. If I am not acknowledged, it means I am failing in my role.",
+  "intermediate_belief_depression": "If I keep being overlooked and my suggestions are ignored, then nothing I do will ever be good enough and things will never change for me at work.",
+  "coping_strategies": "The client tends to withdraw from interactions and avoids proposing new ideas to protect themselves from further rejection. They may seek reassurance from colleagues or supervisors to validate their worth, and sometimes distract themselves with non-work-related activities to temporarily escape negative emotions.",
+  "situation": "Colleagues praise a coworker and ask the patient for help with technology issues related to that coworker.",
+  "auto_thought": "They only notice me when they need something. No one actually values what I contribute.",
+  "emotion": [
+    "sad",
+    "down",
+    "anxious",
+    "irritated",
+    "ashamed",
+    "unhappy"
+  ],
+  "behavior": "I hesitate before responding to their request. I avoid making suggestions and keep my answers brief. I later withdraw from the group and distract myself with my phone.",
+  "rationale": "\"The repeated dismissal of their ideas and lack of support may lead to feelings of being 'sad, down, lonely, unhappy,' as well as 'anxious, worried, fearful, scared, tense.' The situation where colleagues praise another coworker while seeking the patient's assistance with technology issues may evoke feelings of being 'ashamed, embarrassed, humiliated,' and 'angry, mad, irritated, annoyed.' ... The repeated rejection of their ideas could lead to thoughts such as 'I'm not good enough' or 'My contributions are not valued.' ... In response to these workplace challenges, the patient may exhibit behaviors such as withdrawing from interactions, avoiding proposing new ideas, or procrastinating on tasks that require collaboration. ... The patient's coping mechanisms may include seeking external validation and reassurance to counteract feelings of inadequacy. They might also engage in avoidance behaviors to minimize exposure to situations where they feel undervalued or unsupported.\""
+}

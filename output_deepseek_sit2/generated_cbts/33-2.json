@@ -1,0 +1,31 @@
+{
+  "name": "Patient 33",
+  "id": "33",
+  "type": [
+    "relationship anxiety",
+    "trust issues"
+  ],
+  "history": "Complex romantic situation with Cleo, who is in long-distance relationship while engaging with patient.",
+  "helpless_belief": [
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [
+    "I don't deserve commitment"
+  ],
+  "intermediate_belief": "I'm just the backup option; I'll never be chosen.",
+  "intermediate_belief_depression": "I'm destined for ambiguous, unsatisfying relationships.",
+  "coping_strategies": [
+    "Surveillance, passive acceptance, jealousy-driven behavior."
+  ],
+  "situation": "Saw concerning text messages from another person on Cleo's device.",
+  "auto_thought": "\"I knew it. I'm not special. There's always someone else.\"",
+  "emotion": [
+    "betrayal",
+    "anxiety",
+    "worthlessness"
+  ],
+  "behavior": "Confronts Cleo anxiously, checks phone more frequently, becomes clingy."
+}

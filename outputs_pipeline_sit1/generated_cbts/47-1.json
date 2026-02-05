@@ -1,0 +1,54 @@
+{
+  "name": "Client considering career change to micro press",
+  "id": "47-1",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization Diagram"
+  ],
+  "history": "The client has a master's degree in engineering and experience in robotics. They report past remorse about not dedicating enough time to a project, which suggests a pattern of self-criticism and possibly perfectionism. There is evidence of comparing themselves to peers, which may contribute to self-doubt and a focus on perceived shortcomings. The client is now considering a significant career change, indicating a search for greater fulfillment and alignment with personal values.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am powerless, weak, vulnerable",
+    "I am out of control",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't make the right career move, I will fall behind my peers and regret my choices. I need to be certain about my decisions to avoid making mistakes like I did in the past. My worth is tied to how well I measure up to others and to my achievements.",
+  "intermediate_belief_depression": "If I can't figure out the right path, I'll always feel like I've failed and missed my chance for fulfillment. No matter what I do, it won't be enough to catch up with others.",
+  "coping_strategies": "The client tends to ruminate and compare themselves to peers, which increases anxiety and self-doubt. They may avoid making decisions or procrastinate when faced with uncertainty about the career change. Occasionally, they seek reassurance from others to manage their anxiety about their choices.",
+  "situation": "Considering launching a micro press and changing careers. Feeling uncertain about financial stability and fulfillment while comparing self to peers.",
+  "auto_thought": "What if I fail at this and end up worse off than my peers? I might never catch up or feel truly fulfilled.",
+  "emotion": [
+    "anxious",
+    "uncertain",
+    "self-doubt",
+    "inadequate",
+    "regretful"
+  ],
+  "behavior": "I hesitate to make a final decision about the micro press. I spend time comparing my career path to others and looking for reassurance. Sometimes I avoid working on the new venture because I'm worried about making the wrong choice.",
+  "rationale": "\"The comparison to peers may lead to feelings of inadequacy or self-doubt, potentially exacerbating anxiety.\" \"The past remorse about not dedicating enough time to a project suggests a possible pattern of self-criticism.\" \"The uncertainty about financial stability and fulfillment could lead to overthinking and dwelling on potential negative outcomes.\" \"In response to these cognitive and emotional experiences, the patient might engage in behaviors such as procrastination or avoidance when faced with decisions about the career change.\"",
+  "core_belief_predictions": {
+    "source_id": "47-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am incompetent",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

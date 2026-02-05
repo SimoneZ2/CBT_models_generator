@@ -1,0 +1,26 @@
+{
+  "name": "Case Study",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization Diagram"
+  ],
+  "history": "Forms close relationships with friends who experience significant stressors. A friend is dealing with academic pressures and parenting an autistic child.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't show enough concern, people will think I don't care and will leave me.",
+  "intermediate_belief_depression": "I am not good enough to maintain relationships.",
+  "coping_strategies": "Avoids confrontation and tries to be overly accommodating to avoid conflict.",
+  "situation": "Considering visiting a friend managing parenting demands and housing instability.",
+  "auto_thought": "If I don't visit, my friend will think I don't care and will distance themselves from me.",
+  "emotion": [
+    "Anxiety",
+    "Guilt"
+  ],
+  "behavior": "Overextends self to meet perceived expectations of others."
+}

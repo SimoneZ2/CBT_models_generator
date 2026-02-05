@@ -1,0 +1,81 @@
+Using description: HISTORY:
+- Multiple past jobs involved micromanagement.
+- Reports self-blame in work contexts.
+
+SITUATION:
+- Experiencing micromanagement at the workplace and considering resigning. with ID=20-2
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.393 | title='Patient "J", Session March 12, 2012: Client is frustrated with work and notices ' | file='1004522800.txt'
+  - sim=0.370 | title='Patient "Ju" Session March 16, 2012: Client has had a frustrating and stressful ' | file='1004522810.txt'
+  - sim=0.359 | title='Patient "C" Therapy Session Audio Recording, April 03, 2012: Client talks about ' | file='1004532476.txt'
+  - sim=0.358 | title='Patient "Ju", Session April 02, 2012: Client is frustrated with work and her sup' | file='1004532436.txt'
+  - sim=0.358 | title='Patient "Ju", Session June 18, 2012: Client switched birth control pills recentl' | file='1004687624.txt'
+  - sim=0.350 | title='Session 67: Client is very worried about being tardy for anything. She becomes a' | file='1000367967.txt'
+  - sim=0.349 | title='Verilogue session: Client is experiencing stress in the workplace' | file='1001084028.txt'
+  - sim=0.348 | title='Patient "M", Session August 29, 2012: Client hates how boring her life is now. S' | file='1004687680.txt'
+  - sim=0.347 | title='Session 14: Client tells therapist how his mistrust of his wife has decreased so' | file='1000088082.txt'
+  - sim=0.345 | title='Patient "M", Session May 16, 2012: Client is putting in for a transfer at work t' | file='1004564975.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=4 partial_match=6
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.393 | file='1004522800.txt' | title='Patient "J", Session March 12, 2012: Client is frustrated with work and notices '
+  - sim=0.359 | file='1004532476.txt' | title='Patient "C" Therapy Session Audio Recording, April 03, 2012: Client talks about '
+  - sim=0.349 | file='1001084028.txt' | title='Verilogue session: Client is experiencing stress in the workplace'
+Using top selected file for transcript: '1004522800.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is currently experiencing micromanagement at their workplace and is contemplating resignation. They have a history of working in environments characterized by micromanagement and have reported a tendency to engage in self-blame within work contexts.
+
+**Cognitive Patterns:**
+The patient likely experiences pervasive thoughts of inadequacy and self-doubt, particularly in professional settings. The history of micromanagement in multiple jobs may have reinforced a belief that they are not trusted or competent enough to work independently. This cognitive pattern could lead to a heightened sensitivity to criticism and a tendency to interpret micromanagement as a personal failure. The self-blame reported by the patient suggests a cognitive style that internalizes external stressors, potentially exacerbating feelings of inadequacy and self-criticism.
+
+**Emotional Reactions:**
+The patient is likely to experience a range of negative emotions in response to their current work situation. The ongoing micromanagement may evoke feelings of frustration, helplessness, and anxiety. These emotions could be intensified by the contemplation of resignation, which might also bring about feelings of uncertainty and fear regarding the future. The emotional response to micromanagement may include feeling trapped or powerless, contributing to a sense of being overwhelmed.
+
+**Behavioral Responses:**
+In response to the stressors at work, the patient might engage in behaviors such as ruminating over perceived mistakes or inadequacies, procrastinating on tasks due to fear of further criticism, or withdrawing from colleagues to avoid confrontation. The consideration of resignation indicates a potential coping strategy of avoidance, where the patient might seek to escape the stressful environment rather than confront the underlying issues. This aligns with the pattern observed in the transcript, where frustration and a sense of helplessness led to thoughts of wanting to leave the situation.
+
+**Coping Styles:**
+The patient's coping mechanisms may include seeking reassurance from colleagues or supervisors, although this could be limited by a lack of trust in their supportiveness. The tendency to self-blame suggests an internalized coping style, where the patient might focus on self-improvement or self-criticism rather than addressing external factors contributing to their stress. The transcript highlights a similar pattern, where feelings of frustration and helplessness were prominent, and the individual struggled to find effective outlets for their emotions.
+
+**Conclusion:**
+The patient's experience of micromanagement and self-blame at work likely contributes to a cycle of negative thoughts and emotions, impacting their overall well-being. The consideration of resignation may be a reflection of their desire to regain control and reduce stress. Therapeutic interventions could focus on challenging cognitive distortions related to self-worth and competence, developing assertive communication skills to address micromanagement, and exploring alternative coping strategies to manage work-related stress.
+Summary da mistral_.csv: The client described a series of frustrating events on a Monday morning, including oversleeping, computer issues, and coworkers' behavior. They felt incompetent, frustrated, and helpless, leading to feelings of sadness and the desire to stay home. The client also mentioned past experiences of being treated poorly at work and feeling frustrated with the lack of support from coworkers and IT department. They expressed fear of expressing anger or crying at work due to potential negative reactions from colleagues. The client felt that they were being set up to fail and that their efforts to resolve issues were met with indifference or passive aggression. They also mentioned a desire to have someone else take on certain tasks but felt that they were being shut down and expected to do them themselves.
+The client expresses frustration with their manager, Gean, for not supporting them or acknowledging their experiences, particularly in regards to handling difficult situations and making decisions. The client feels ignored and unempowered, and believes that Gean is not fulfilling his managerial responsibilities. The client also mentions feeling frustrated with the lack of decision-making and the uncertainty of the upcoming restructuring. They express a desire for a more assertive and decisive approach, drawing inspiration from a reality show character.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has worked in multiple jobs where micromanagement was a recurring issue. They report a pattern of self-blame in work contexts, suggesting a longstanding tendency to internalize negative workplace experiences. The transcript evidence highlights that repeated exposure to micromanagement has reinforced feelings of inadequacy and self-doubt, and the client often interprets external criticism as a personal failure.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am being micromanaged, it must mean I am not competent enough to be trusted on my own. If I make a mistake or get criticized, it's my fault and I should have done better. I need to prove myself or else people will see that I am inadequate.",
+  "intermediate_belief_depression": "If I keep being micromanaged and blamed, nothing I do will ever be good enough and things will never improve for me at work.",
+  "coping_strategies": [
+    "The client tends to ruminate over perceived mistakes and withdraws from colleagues to avoid confrontation. They consider resignation as a way to escape the stressful environment, rather than addressing the underlying issues. Self-blame and internalized criticism are used as attempts to manage distress, but these strategies reinforce feelings of inadequacy."
+  ],
+  "situation": "Experiencing micromanagement at the workplace and considering resigning.",
+  "auto_thought": "They don't trust me to do anything right. No matter what I do, I'm just going to mess up again.",
+  "emotion": [
+    "frustrated",
+    "helpless",
+    "anxious",
+    "overwhelmed",
+    "uncertain"
+  ],
+  "behavior": "I withdraw from my colleagues and avoid asking for help. I spend time ruminating over my mistakes and seriously consider quitting my job."
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Case Study: Financial and Insurance Stress",
+  "id": "CS001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "28-year-old student. Returned from Egypt. Previously relied on parents for support and is now managing bills, finances, and health insurance independently for the first time. Brother remains financially dependent on parents.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I can't manage my finances and insurance, I am a failure.",
+  "intermediate_belief_depression": "I am a burden to my parents if I ask for help.",
+  "coping_strategies": "Avoidance of making necessary phone calls and feeling overwhelmed by the process.",
+  "situation": "Considering requesting financial help from parents. Looking for affordable counseling services.",
+  "auto_thought": "I don't deserve health insurance because I don't have a job.",
+  "emotion": [
+    "Anxiety",
+    "Hopelessness",
+    "Frustration"
+  ],
+  "behavior": "Avoidance of taking steps to resolve insurance issues and feeling overwhelmed by the process."
+}

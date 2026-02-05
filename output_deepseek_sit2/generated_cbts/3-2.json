@@ -1,0 +1,32 @@
+{
+  "name": "Patient 3",
+  "id": "3",
+  "type": [
+    "academic stress",
+    "imposter syndrome"
+  ],
+  "history": "PhD candidate in scientific research. Works with senior scientist struggling for recognition. References to colleague Kelly.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "Unless I work harder than everyone else and publish more, I'm a fraud.",
+  "intermediate_belief_depression": "My work has no real value; I'm just pretending to be a scientist.",
+  "coping_strategies": [
+    "Constant comparison to others, overworking, minimizing own achievements."
+  ],
+  "situation": "Comparing themselves to colleagues who work longer hours and publish more papers.",
+  "auto_thought": "\"I'll never be as good as them. My work is meaningless. I'm falling behind.\"",
+  "emotion": [
+    "inadequacy",
+    "anxiety",
+    "shame"
+  ],
+  "behavior": "Procrastination, avoidance of lab work, spending excessive time reading others' papers instead of writing."
+}

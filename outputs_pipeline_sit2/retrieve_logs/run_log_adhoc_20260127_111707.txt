@@ -1,0 +1,91 @@
+Using description: HISTORY:
+- Complex and strained relationship dynamics with parents.
+- Mother's illness mentioned.
+- Past issues related to parental support for education.
+- Mentions of a past infidelity.
+
+SITUATION:
+- Preparing to attend a Father's Day lunch with parents. with ID=32-1
+Top results (by metadata similarity):
+  - sim=0.672 | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father ' | file='1004472411.txt'
+  - sim=0.659 | title='Patient "S" Session March 13, 2012: Client recently had a frustrating conversati' | file='1004522836.txt'
+  - sim=0.654 | title='Patient "Ma", Session October 09, 2012: Client has been feeling very low and sui' | file='1004798793.txt'
+  - sim=0.645 | title='Jakob's Ladder: A middle-aged mother with mild depression has begun dating a man' | file='1003371496.txt'
+  - sim=0.645 | title='Patient "M" Session June 19, 2012: Client talks about a letter he wants to prese' | file='1004600940.txt'
+  - sim=0.644 | title='Patient "M" Therapy Session Audio Recording, May 30, 2012: She has been very anx' | file='1004565031.txt'
+  - sim=0.635 | title='Session 2: Client discusses her relationship with her boyfriend and tells therap' | file='1000094390.txt'
+  - sim=0.634 | title='Session 12: Client feels like his life is quite a mess. He needs to set some goa' | file='1000134009.txt'
+  - sim=0.632 | title='Patient "Ju", Session April 27, 2012: Client wants to pursue a higher degree but' | file='1004538610.txt'
+  - sim=0.625 | title='Patient "Ju", Session November 05, 2012: Client talks about her relationship wit' | file='1004824677.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.672 | file='1004472411.txt' | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father '
+  - sim=0.659 | file='1004522836.txt' | title='Patient "S" Session March 13, 2012: Client recently had a frustrating conversati'
+  - sim=0.654 | file='1004798793.txt' | title='Patient "Ma", Session October 09, 2012: Client has been feeling very low and sui'
+Using top selected file for transcript: '1004472411.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is preparing to attend a Father's Day lunch with their parents, amidst a backdrop of complex and strained relationship dynamics with them. The patient's history includes issues related to parental support for education, a past infidelity, and the mother's illness.
+
+**Emotional Impact:**
+The patient likely experiences a mix of emotions, including anxiety, tension, and apprehension, as they prepare for the Father's Day lunch. The strained relationship dynamics with their parents, particularly in light of past issues related to parental support for education and the mention of a past infidelity, may contribute to feelings of disappointment, hurt, and possibly resentment. The mother's illness could evoke sadness and concern, adding another layer of emotional complexity.
+
+**Cognitive Patterns:**
+The patient may engage in anticipatory thinking, possibly ruminating on past interactions with their parents and predicting potential conflicts or emotional discomfort during the upcoming lunch. This cognitive pattern can lead to heightened anxiety and a sense of dread. The patient's thoughts might include doubts about their ability to navigate the lunch successfully, concerns about unresolved issues, and questions about their parents' expectations and reactions.
+
+**Behavioral Responses:**
+In response to these emotions and cognitive patterns, the patient might exhibit behaviors such as avoidance or withdrawal, either mentally or physically, during the lunch. They may also engage in people-pleasing behaviors, attempting to minimize conflict by acquiescing to their parents' expectations. Alternatively, the patient might prepare mentally for potential confrontations, rehearsing responses or strategies to manage difficult conversations.
+
+**Coping Styles:**
+The patient may rely on coping mechanisms such as seeking reassurance from friends or family members, engaging in self-soothing activities, or mentally rehearsing positive outcomes to alleviate anxiety. They might also use distraction techniques, such as focusing on neutral topics during the lunch, to avoid triggering emotional responses.
+
+**Psychological Interpretation:**
+The patient's strained relationship with their parents, particularly in the context of past educational support issues and infidelity, likely contributes to a sense of mistrust and emotional distance. The mother's illness may exacerbate feelings of vulnerability and helplessness. These dynamics can lead to a heightened sensitivity to perceived criticism or rejection, influencing the patient's emotional and behavioral responses.
+
+Drawing on the transcript for psychological patterns, the patient might experience a sense of guilt or responsibility for their parents' emotional states, similar to the referenced individual's feelings of guilt and obligation. This could manifest in attempts to manage or mitigate their parents' emotions during interactions, potentially at the expense of their own emotional well-being.
+
+**Conclusion:**
+The patient is navigating a complex emotional landscape as they prepare for the Father's Day lunch. Their history with their parents, combined with current stressors, likely influences their emotional, cognitive, and behavioral responses. Understanding these patterns can aid in developing strategies to manage interactions with their parents more effectively, focusing on maintaining emotional boundaries and prioritizing self-care.
+Summary da mistral_.csv: The client described a conflict with their father over not being able to attend his birthday celebration and the subsequent upset behavior from their father. The father had been upset for several weeks and brought up past favors and feelings of abandonment. The client felt frustrated and guilty but also felt they couldn't accommodate their father's every need. The father made threats about being put in a nursing home and criticized the client's lack of effort in their relationship. The client felt they were trying to build a final conclusion about the relationship and wanted certainty about whether they could build peace with their father or not. They felt torn between feeling sad for their father's loneliness and feeling annoyed by his behavior. The client expressed a desire for their father to seek help if he was truly sad and lonely, but felt unsure if that was the case or if he was just being difficult. The client was annoyed about upcoming holiday plans and felt their father was making them the focus of his
+The client described their father's behavior as taking up a significant amount of their time and energy, causing frustration and annoyance. They mentioned their attempts to communicate their concerns and feelings to their father, but he responds with anger and defensiveness. The client expressed feeling manipulated and embarrassed by their father's actions, and shared their anxiety about introducing their partner to their family due to fear of judgment and negative associations. They discussed their parents' divorces and the impact it has had on their relationships with their families. The client and their father have had conversations about this issue, but the father downplays its importance and the client continues to feel frustrated.
+The client expresses frustration and anxiety towards her father's behavior regarding her future wedding, as he refuses to invite her ex-stepmother and expresses a desire to confront her boyfriend. The client feels guilty for her feelings towards her father and struggles with accepting the situation, considering him selfish and uncaring. The therapist acknowledges the complexity of the situation and the client's intense emotions, suggesting that the client's feelings are valid and normal. The client shares that cutting contact with her father is the most effective way for her to manage her anxiety and emotions.
+
+ REFINED CCD: description + report
+{
+  "history": "The client reports a longstanding, complex, and strained relationship with their parents, marked by past issues around parental support for education and a previous infidelity. The mother's illness is a current stressor, adding emotional weight to family interactions. There is a pattern of emotional distance, mistrust, and sensitivity to criticism or rejection, likely rooted in these past experiences. The client may feel a sense of guilt or responsibility for their parents' emotional states, as inferred from their tendency to manage or mitigate parental emotions.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet my parents' expectations or avoid conflict, I will be criticized or rejected, which means I am not good enough as a son/daughter. I must manage their emotions to keep the peace, even if it means suppressing my own needs. If I let my guard down, past issues will resurface and I will be blamed or shamed.",
+  "intermediate_belief_depression": "No matter what I do, I can't fix things with my parents, so there's no point in trying to connect or assert myself. If I try to be myself, it will only lead to disappointment and conflict, confirming that I am a failure in their eyes.",
+  "coping_strategies": [
+    "The client tends to mentally rehearse possible conversations and outcomes before family events, often ruminating on past conflicts. They may withdraw emotionally or avoid expressing their true feelings during interactions, instead focusing on appeasing their parents or steering conversations to neutral topics. They sometimes seek reassurance from others or distract themselves to manage anxiety."
+  ],
+  "situation": "Preparing to attend a Father's Day lunch with parents.",
+  "auto_thought": "I'm going to mess this up again and they'll just be disappointed in me. No matter what I do, it won't be good enough for them.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "apprehensive",
+    "sad",
+    "guilty",
+    "hurt"
+  ],
+  "behavior": "I mentally rehearse what I might say to avoid conflict. I try to keep the conversation neutral and avoid bringing up sensitive topics. I hold back my true feelings and focus on keeping the peace."
+}

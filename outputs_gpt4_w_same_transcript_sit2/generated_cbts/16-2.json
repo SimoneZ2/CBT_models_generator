@@ -1,0 +1,32 @@
+{
+  "name": "John Doe",
+  "id": "001",
+  "type": [
+    "Depression",
+    "Anxiety"
+  ],
+  "history": "Spent about one year working on a project in Europe involving building a website and conducting interviews. Reports pride in the work and a wish to share the results. Past history of procrastination and anxiety. Uses strategies learned from a course and reminders to manage daily life.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must have a clear direction in life to be successful.",
+  "intermediate_belief_depression": "If I don't have a clear path, I will fail.",
+  "coping_strategies": "Uses reminders and strategies from a course to manage daily life. Engages in small projects like cooking to distract from negative thoughts.",
+  "situation": "Facing ambiguity about life direction and choices, with many options to consider.",
+  "auto_thought": "I don't know what I want to do with my life, and that means I'm failing.",
+  "emotion": [
+    "Anxiety",
+    "Melancholy",
+    "Worry"
+  ],
+  "behavior": "Procrastinates and avoids making decisions about the future. Engages in activities like drumming and cooking to distract from worries.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

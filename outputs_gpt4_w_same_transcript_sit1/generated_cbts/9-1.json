@@ -1,0 +1,25 @@
+{
+  "name": "Case Study: Jersey",
+  "id": "CSJ-001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Long-standing friendship with Jersey, who has had multiple surgeries related to disabilities. The patient has previously provided support during Jersey's medical procedures and recovery. Ongoing conflict with roommate Ashby over household issues.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must manage everything on my own to avoid conflict.",
+  "intermediate_belief_depression": "If I can't handle everything, it means I'm failing.",
+  "coping_strategies": "Avoids confrontation with Ashby and takes on more responsibilities to maintain peace.",
+  "situation": "Thinking about Jersey's recovery while managing other personal responsibilities.",
+  "auto_thought": "If I don't handle everything, things will fall apart.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Takes on additional responsibilities and avoids discussing issues with Ashby."
+}

@@ -1,0 +1,436 @@
+2026-01-20 13:15:06,863 | INFO | SOURCE_ID:1-2
+2026-01-20 13:15:06,864 | INFO | GOLD_ID:1-2
+2026-01-20 13:15:06,864 | INFO | GOLD helpless_belief =['I am trapped.', 'I am out of control.']
+2026-01-20 13:15:06,864 | INFO | GOLD unlovable_belief =[]
+2026-01-20 13:15:06,865 | INFO | GOLD worthless_belief =[]
+2026-01-20 13:15:12,124 | INFO | CBT generated
+2026-01-20 13:15:12,124 | INFO | {
+  "history": "History of substance abuse and completed rehabilitation. Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect. Longstanding obesity since childhood. Past experiences of bullying related to weight.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet expectations, I will be rejected.",
+  "intermediate_belief_depression": "I can't change my situation, so there's no point in trying.",
+  "coping_strategies": [
+    "Avoidance of situations that might lead to failure or rejection."
+  ],
+  "situation": "Missed an alarm and woke up late for work.",
+  "auto_thought": "I'm going to get in trouble and everyone will see me as unreliable.",
+  "emotion": [
+    "Anxiety",
+    "Shame"
+  ],
+  "behavior": "Rushing to work in a state of panic, avoiding eye contact with colleagues."
+}
+2026-01-20 13:15:12,133 | INFO | TRANSCRIPT_FILE:1001084005.txt
+2026-01-20 13:15:12,133 | INFO | PRED_MD5:6ac9a8cbcd70a461c3e4e069e2bf7f4c
+2026-01-20 13:15:12,133 | INFO | PRED helpless_belief =['I am powerless, weak, vulnerable', 'I am a failure, loser']
+2026-01-20 13:15:12,135 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-20 13:15:12,135 | INFO | PRED worthless_belief =[]
+2026-01-20 13:15:21,910 | INFO | 
+========================================
+2026-01-20 13:15:21,911 | INFO | [DONE] 1-2 | saved=outputs_gpt4_current\generated_cbts\1-2.json
+2026-01-20 13:15:21,911 | INFO | Scores:
+2026-01-20 13:15:21,911 | INFO |   embeddings_cosine: 0.2884094148874283
+2026-01-20 13:15:21,912 | INFO |   crossencoder_sts:  0.2868116516619921
+2026-01-20 13:15:21,912 | INFO |   nli_entailment:    0.0037677970967065896
+2026-01-20 13:15:21,912 | INFO |   nli_contradiction: 0.3039
+2026-01-20 13:15:21,913 | INFO |   fine_jaccard:      0.0
+2026-01-20 13:15:21,913 | INFO |   major_jaccard:     0.5
+2026-01-20 13:15:21,913 | INFO | SOURCE_ID:2-2
+2026-01-20 13:15:21,913 | INFO | GOLD_ID:2-2
+2026-01-20 13:15:21,913 | INFO | GOLD helpless_belief =['I am needy.', 'I am trapped.']
+2026-01-20 13:15:21,913 | INFO | GOLD unlovable_belief =['I am unlovable.', 'I am undesirable, unwanted.', 'I am bound to be abandoned.', 'I am bound to be alone.']
+2026-01-20 13:15:21,914 | INFO | GOLD worthless_belief =[]
+2026-01-20 13:15:27,661 | INFO | CBT generated
+2026-01-20 13:15:27,662 | INFO | {
+  "history": "Recent family tension related to a conversation with parents about a wedding list. The patient noticed similarities between their own actions and their father's patterns. The father is described as repeatedly seeking approval and unconditional love from family members.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must prove myself to be accepted.",
+  "intermediate_belief_depression": "If I can't prove myself, I will be rejected and feel worthless.",
+  "coping_strategies": [
+    "The patient becomes defensive or aggressive in conversations to assert their worth and avoid criticism."
+  ],
+  "situation": "Observing the father's ongoing pursuit of approval from his sister.",
+  "auto_thought": "I need to defend myself or I will be criticized and rejected.",
+  "emotion": [
+    "Anxiety",
+    "Fear",
+    "Guilt"
+  ],
+  "behavior": "The patient reacts defensively or aggressively in social situations to assert their competence and worth."
+}
+2026-01-20 13:15:27,662 | INFO | TRANSCRIPT_FILE:1000370274.txt
+2026-01-20 13:15:27,663 | INFO | PRED_MD5:0f15f92272e942e842c80f9d5fe3591b
+2026-01-20 13:15:27,663 | INFO | PRED helpless_belief =['I am incompetent', 'I am powerless, weak, vulnerable']
+2026-01-20 13:15:27,664 | INFO | PRED unlovable_belief =['I am bound to be rejected']
+2026-01-20 13:15:27,664 | INFO | PRED worthless_belief =['I am worthless, waste']
+2026-01-20 13:15:28,652 | INFO | 
+========================================
+2026-01-20 13:15:28,652 | INFO | [DONE] 2-2 | saved=outputs_gpt4_current\generated_cbts\2-2.json
+2026-01-20 13:15:28,652 | INFO | Scores:
+2026-01-20 13:15:28,653 | INFO |   embeddings_cosine: 0.3514775723218918
+2026-01-20 13:15:28,653 | INFO |   crossencoder_sts:  0.3399441123008728
+2026-01-20 13:15:28,653 | INFO |   nli_entailment:    0.09277592934321496
+2026-01-20 13:15:28,653 | INFO |   nli_contradiction: 0.0027999999999999995
+2026-01-20 13:15:28,654 | INFO |   fine_jaccard:      0.0
+2026-01-20 13:15:28,654 | INFO |   major_jaccard:     0.6666666666666666
+2026-01-20 13:15:28,654 | INFO | SOURCE_ID:3-2
+2026-01-20 13:15:28,655 | INFO | GOLD_ID:3-2
+2026-01-20 13:15:28,655 | INFO | GOLD helpless_belief =['I am incompetent.', 'I am a failure, loser.', 'I am defective.']
+2026-01-20 13:15:28,655 | INFO | GOLD unlovable_belief =[]
+2026-01-20 13:15:28,655 | INFO | GOLD worthless_belief =[]
+2026-01-20 13:15:30,899 | INFO | CBT generated
+2026-01-20 13:15:30,900 | INFO | {
+  "history": "PhD candidate engaged in scientific research. References to a sequencing-related study and a colleague named Kelly. Working on a project with a senior scientist who has struggled to gain recognition in his career.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must work harder to be recognized.",
+  "intermediate_belief_depression": "I will never be as successful as my colleagues.",
+  "coping_strategies": [
+    "Overworking and comparing self to others."
+  ],
+  "situation": "Comparing themselves to colleagues who work longer hours and publish more papers.",
+  "auto_thought": "I am not doing enough; I will fall behind.",
+  "emotion": [
+    "Anxiety",
+    "Inadequacy"
+  ],
+  "behavior": "Working excessive hours and feeling demotivated."
+}
+2026-01-20 13:15:30,900 | INFO | TRANSCRIPT_FILE:1000134003.txt
+2026-01-20 13:15:30,901 | INFO | PRED_MD5:eef55e8d035358ae78ca6349aad1b49e
+2026-01-20 13:15:30,901 | INFO | PRED helpless_belief =['I am incompetent', 'I am powerless, weak, vulnerable']
+2026-01-20 13:15:30,902 | INFO | PRED unlovable_belief =[]
+2026-01-20 13:15:30,902 | INFO | PRED worthless_belief =['I am worthless, waste']
+2026-01-20 13:15:32,191 | INFO | 
+========================================
+2026-01-20 13:15:32,191 | INFO | [DONE] 3-2 | saved=outputs_gpt4_current\generated_cbts\3-2.json
+2026-01-20 13:15:32,191 | INFO | Scores:
+2026-01-20 13:15:32,192 | INFO |   embeddings_cosine: 0.4517903566360474
+2026-01-20 13:15:32,192 | INFO |   crossencoder_sts:  0.31120243966579436
+2026-01-20 13:15:32,192 | INFO |   nli_entailment:    0.0869313703846853
+2026-01-20 13:15:32,192 | INFO |   nli_contradiction: 0.0010999999999999998
+2026-01-20 13:15:32,193 | INFO |   fine_jaccard:      0.2
+2026-01-20 13:15:32,193 | INFO |   major_jaccard:     0.5
+2026-01-20 13:15:32,193 | INFO | 
+Completed. Processed 3 vignette(s).
+2026-01-20 13:15:32,193 | INFO | Generated CBTs in: outputs_gpt4_current\generated_cbts
+2026-01-20 13:15:32,193 | INFO | Compare results JSONL: outputs_gpt4_current\compare_results.jsonl
+2026-01-20 13:15:32,196 | INFO | 
+=== FINAL MEANS ===
+2026-01-20 13:15:32,196 | INFO | {
+  "n": 3,
+  "means": {
+    "embeddings_cosine": 0.3638924479484558,
+    "crossencoder_sts": 0.31265273454288645,
+    "nli_entailment_overall": 0.061158365608202286,
+    "nli_contradiction_overall": 0.10260000000000001
+  },
+  "counts": {
+    "embeddings_cosine": 3,
+    "crossencoder_sts": 3,
+    "nli_entailment_overall": 3,
+    "nli_contradiction_overall": 3
+  },
+  "core_beliefs_fine": {
+    "n": 3,
+    "micro": {
+      "precision": 0.1,
+      "recall": 0.09090909090909091,
+      "f1": 0.09523809523809525
+    },
+    "macro": {
+      "f1": 0.03508771929824561
+    },
+    "subset_accuracy": 0.0,
+    "jaccard_mean": 0.06666666666666667,
+    "unknown_pred_total": 0,
+    "label_space_size": 19,
+    "per_label": {
+      "I am a failure, loser": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "I am a victim": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am bad - dangerous, toxic, evil": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am bound to be abandoned": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "I am bound to be alone": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "I am bound to be rejected": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am defective": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "I am helpless": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am immoral": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am incompetent": {
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6666666666666666,
+        "support": 1
+      },
+      "I am needy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "I am out of control": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "I am powerless, weak, vulnerable": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am trapped": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 2
+      },
+      "I am unattractive": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I am undesirable, unwanted": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "I am unlovable": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "I am worthless, waste": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "I don't deserve to live": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      }
+    }
+  },
+  "core_beliefs_major": {
+    "n": 3,
+    "micro": {
+      "precision": 0.5714285714285714,
+      "recall": 1.0,
+      "f1": 0.7272727272727273
+    },
+    "subset_accuracy": 0.0,
+    "jaccard_mean": 0.5555555555555555,
+    "label_space_size": 3
+  },
+  "resume": {
+    "total": 3
+  }
+}
+2026-01-20 13:15:32,197 | INFO | 
+Saved final means to: outputs_gpt4_current\final_means.json
+2026-01-20 13:15:32,197 | INFO | 
+=== CORE BELIEFS (fine-grained) METRICS ===
+2026-01-20 13:15:32,197 | INFO | {
+  "n": 3,
+  "micro": {
+    "precision": 0.1,
+    "recall": 0.09090909090909091,
+    "f1": 0.09523809523809525
+  },
+  "macro": {
+    "f1": 0.03508771929824561
+  },
+  "subset_accuracy": 0.0,
+  "jaccard_mean": 0.06666666666666667,
+  "unknown_pred_total": 0,
+  "label_space_size": 19,
+  "per_label": {
+    "I am a failure, loser": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "I am a victim": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am bad - dangerous, toxic, evil": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am bound to be abandoned": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "I am bound to be alone": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "I am bound to be rejected": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am defective": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "I am helpless": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am immoral": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am incompetent": {
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "support": 1
+    },
+    "I am needy": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "I am out of control": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "I am powerless, weak, vulnerable": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am trapped": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2
+    },
+    "I am unattractive": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I am undesirable, unwanted": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "I am unlovable": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "I am worthless, waste": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "I don't deserve to live": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    }
+  }
+}

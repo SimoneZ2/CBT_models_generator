@@ -1,0 +1,28 @@
+{
+  "name": "Patient",
+  "id": "12345",
+  "type": [
+    "Bipolar Disorder",
+    "Depression"
+  ],
+  "history": "Recent deaths in the family: an uncle and a cousin. Ongoing concern about parents' health. Father's health conditions include uncontrolled diabetes, high blood pressure, kidney problems, and high cholesterol. Tension with father related to emotional distance and lack of transparency about health issues.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I can't make good decisions.",
+  "intermediate_belief_depression": "I am a burden to others.",
+  "coping_strategies": "Avoidance of interaction with father, excessive exercise, reliance on medication.",
+  "situation": "Thinking about the possibility of the father dying before the mother. Avoiding interaction with the father.",
+  "auto_thought": "I could stop being a burden to everybody.",
+  "emotion": [
+    "Hopelessness",
+    "Anger",
+    "Sadness"
+  ],
+  "behavior": "Avoiding interaction with father, excessive exercise, fluctuating between depressive and manic states."
+}

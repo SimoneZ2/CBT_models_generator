@@ -1,0 +1,31 @@
+{
+  "name": "Patient 45",
+  "id": "45",
+  "type": [
+    "emotional dysregulation",
+    "relationship conflict"
+  ],
+  "history": "Relationships sometimes shift to romantic connections. Past conflict after expressions of anger. Complex relationship with parents involving obligations.",
+  "helpless_belief": [
+    "I am out of control"
+  ],
+  "unlovable_belief": [
+    "I am too much for people"
+  ],
+  "worthless_belief": [
+    "I am bad when angry"
+  ],
+  "intermediate_belief": "My anger destroys relationships.",
+  "intermediate_belief_depression": "I'll always be alone because I can't regulate my emotions.",
+  "coping_strategies": [
+    "Emotional suppression followed by explosion, over-apologizing, relationship sabotage."
+  ],
+  "situation": "Incident at social gathering resulted in emotional outburst among friends.",
+  "auto_thought": "\"I ruined everything. They'll never forgive me. I'm toxic.\"",
+  "emotion": [
+    "shame",
+    "regret",
+    "panic"
+  ],
+  "behavior": "Leaves gathering abruptly, sends lengthy apology texts, avoids friends for weeks."
+}

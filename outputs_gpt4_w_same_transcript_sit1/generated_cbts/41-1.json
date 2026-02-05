@@ -1,0 +1,25 @@
+{
+  "name": "Cricket",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Complex relationship history involving a person named Cricket that affected the patient's social circle. The patient often takes a caretaking role with friends, including a friend named Lucy with ongoing medical issues.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must take care of others to be valued.",
+  "intermediate_belief_depression": "If I don't meet others' expectations, I am a failure.",
+  "coping_strategies": "Overextending to meet others' needs and seeking validation through caretaking.",
+  "situation": "Running late for appointments and social gatherings, including therapy and lunches with friends.",
+  "auto_thought": "If I'm late, they'll think I'm unreliable and won't want to be around me.",
+  "emotion": [
+    "Anxiety",
+    "Guilt"
+  ],
+  "behavior": "Rushing and overcommitting to avoid disappointing others."
+}

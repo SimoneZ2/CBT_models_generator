@@ -1,0 +1,28 @@
+{
+  "name": "Patient 3",
+  "id": "3",
+  "type": [
+    "academic stress",
+    "professional uncertainty"
+  ],
+  "history": "PhD candidate engaged in scientific research. Working with senior scientist who has struggled for recognition.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If my project doesn't succeed, I'll end up like my senior scientist - unrecognized and struggling.",
+  "intermediate_belief_depression": "I'm not smart enough to complete meaningful research.",
+  "coping_strategies": [
+    "Overworking, comparison to others' career trajectories."
+  ],
+  "situation": "Working on a PhD project and concerned about its progress.",
+  "auto_thought": "My research isn't going anywhere. I'm wasting my time.",
+  "emotion": [
+    "anxiety",
+    "self-doubt",
+    "pressure"
+  ],
+  "behavior": "Worry about project progress without taking concrete action."
+}

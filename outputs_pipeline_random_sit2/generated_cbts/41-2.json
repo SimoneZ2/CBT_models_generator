@@ -1,0 +1,28 @@
+{
+  "history": "The patient has a complex relationship history, particularly involving a person named Cricket, which has impacted their social circle. They often take on a caretaking role with friends, especially with Lucy, who has ongoing medical issues. This pattern of caretaking suggests a longstanding tendency to prioritize others' needs, possibly as a way to maintain acceptance or connection within their social group. The patient's social circle dynamics and past relationship difficulties appear to reinforce their sense of responsibility for others.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not there for my friends or fail to meet their expectations, they will be disappointed in me and I will lose my place in the group. My value comes from being reliable and helpful, so I must always put others first. If I let people down, it means I am failing as a friend.",
+  "intermediate_belief_depression": "",
+  "coping_strategies": [
+    "The patient tends to overcommit to social obligations and takes on additional responsibilities to maintain their relationships. They may seek reassurance from friends or try to control situations through caretaking behaviors, even when it leads to feeling overwhelmed or stressed."
+  ],
+  "situation": "Friends are gathered outside the residence waiting while the patient is running late after work.",
+  "auto_thought": "I'm letting everyone down by being late. They'll be upset with me and think I don't care about them.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "guilty",
+    "tense"
+  ],
+  "behavior": "Rush to get home as quickly as possible. Apologize profusely to friends when arriving. Avoid talking about their own stress or needs, focusing instead on making it up to the group.",
+  "source_text_id": "1000061053.txt"
+}

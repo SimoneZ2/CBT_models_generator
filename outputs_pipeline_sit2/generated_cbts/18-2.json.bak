@@ -1,0 +1,35 @@
+{
+  "name": "Anonymous Client",
+  "id": "case001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a history of academic underperformance despite being described as intelligent, which has likely contributed to persistent self-doubt and frustration. Their experience of isolation at college and subsequent dropout may have reinforced feelings of loneliness and inadequacy. The mother's high expectations appear to have created ongoing pressure and anxiety about meeting familial standards. Financial difficulties and the need to seek help from parents have intensified feelings of dependency and shame. The client has not yet completed their degree and faces ongoing uncertainty about their future.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't succeed academically or financially, others will see me as a failure and I will let them down. I must avoid disappointing my mother or I will lose her approval. Depending on others for help means I am not capable or independent.",
+  "intermediate_belief_depression": "If I can't handle things on my own and keep failing, there's no point in trying because nothing will change. My failures mean I will never be good enough, no matter what I do.",
+  "coping_strategies": "The client tends to avoid discussing academic and financial issues to escape feelings of shame and anxiety. They withdraw from challenging situations and delay decisions about returning to college or seeking employment due to fear of failure. They also seek reassurance and financial support from their parents, which temporarily relieves anxiety but reinforces dependency.",
+  "situation": "Seeking financial help from parents. Recent family conversation included discussion of the college dropout experience.",
+  "auto_thought": "I'm asking for money again because I couldn't finish college. They must think I'm a failure and can't handle my own life.",
+  "emotion": [
+    "ashamed",
+    "anxious",
+    "embarrassed",
+    "inadequate",
+    "dependent",
+    "sad"
+  ],
+  "behavior": "I avoid eye contact and keep the conversation brief. I don't bring up my plans or feelings. I accept the help but feel uncomfortable and withdrawn.",
+  "rationale": "\"The academic underperformance, despite intelligence, may lead to feelings of frustration, inadequacy, and self-doubt.\" \"The high expectations from the mother might evoke feelings of pressure, anxiety, and fear of disappointing her.\" \"Financial difficulties and the need to seek help from parents could lead to feelings of embarrassment, shame, and dependency.\" \"The patient may engage in negative self-talk, characterized by thoughts of inadequacy and self-criticism due to their academic struggles.\" \"They may procrastinate on making decisions about returning to college or seeking employment due to fear of failure.\" \"The patient might also seek reassurance from their parents, which could perpetuate feelings of dependency and hinder their sense of independence.\""
+}

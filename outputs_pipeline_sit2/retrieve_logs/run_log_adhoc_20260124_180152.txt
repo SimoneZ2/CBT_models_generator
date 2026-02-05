@@ -1,0 +1,98 @@
+Using description: HISTORY:
+- Recent move and ongoing unpacking and organizing.
+- Difficult relationship with parents, especially mother.
+- Friends were not available during a recent period of need.
+
+SITUATION:
+- Tried to unpack belongings without help after friends were unavailable. with ID=40-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.507 | title='Session 15: Client is getting along very well with her parents but, she is havin' | file='1000126021.txt'
+  - sim=0.499 | title='Patient "B", Session September 13, 2012: Client is having problems concentrating' | file='1004798717.txt'
+  - sim=0.499 | title='Patient "C" Therapy Session Audio Recording, January 2, 2012: Client talks about' | file='1004472420.txt'
+  - sim=0.499 | title='Patient "Ju", Session April 27, 2012: Client wants to pursue a higher degree but' | file='1004538610.txt'
+  - sim=0.498 | title='Session 2: Client only knows himself as a depressed person. He feels he does not' | file='1000013629.txt'
+  - sim=0.490 | title='Patient "R" Session March 23, 2012: Client finds that she has less patience than' | file='1004528631.txt'
+  - sim=0.489 | title='Patient "J", Session February 17, 2012: Client is frustrated that he is still st' | file='1004503122.txt'
+  - sim=0.486 | title='Patient "S" Session October 23, 2012: Client has been unhappy with her living ar' | file='1004798931.txt'
+  - sim=0.484 | title='Patient "Ju", Session October 16, 2012: Client has been experiencing chronic pai' | file='1004798857.txt'
+  - sim=0.482 | title='Patient "S" Session March 13, 2012: Client recently had a frustrating conversati' | file='1004522836.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.507 | file='1000126021.txt' | title='Session 15: Client is getting along very well with her parents but, she is havin'
+  - sim=0.499 | file='1004798717.txt' | title='Patient "B", Session September 13, 2012: Client is having problems concentrating'
+  - sim=0.499 | file='1004472420.txt' | title='Patient "C" Therapy Session Audio Recording, January 2, 2012: Client talks about'
+Using top selected file for transcript: '1000126021.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has recently undergone a significant life transition, having moved to a new location and is currently engaged in the process of unpacking and organizing their belongings. This transition has been compounded by a challenging relationship with their parents, particularly their mother, and a recent experience of feeling unsupported by friends during a time of need. The patient attempted to manage the unpacking process independently after friends were unavailable to assist.
+
+**Emotional Impact:**
+The recent move and the associated tasks of unpacking and organizing likely evoke feelings of being overwhelmed and stressed. The absence of support from friends during this period may contribute to feelings of loneliness and disappointment. The difficult relationship with the patient's mother could exacerbate feelings of frustration and emotional strain, potentially leading to a sense of isolation or being misunderstood.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive tendencies such as self-reliance and a belief that they must handle challenges independently, possibly due to the unavailability of friends and strained familial relationships. This could lead to thoughts of self-doubt or questioning their worthiness of support. The patient might also engage in negative self-talk, particularly if they perceive their efforts to manage the move as inadequate or if they internalize the lack of support as a reflection of their relationships.
+
+**Behavioral Responses:**
+In response to these stressors, the patient may withdraw from social interactions, choosing to focus on tasks such as unpacking to regain a sense of control. The patient might also avoid reaching out for help in the future, anticipating similar outcomes of unavailability or rejection. This self-reliant behavior, while adaptive in the short term, could lead to increased stress and burnout if sustained over time.
+
+**Coping Styles:**
+The patient appears to cope by taking on tasks independently, possibly as a way to assert control over their environment and mitigate feelings of helplessness. However, this coping style may limit opportunities for social support and connection, reinforcing feelings of isolation. The patient might benefit from developing more adaptive coping strategies, such as seeking support from a broader network or engaging in self-compassionate practices to alleviate self-critical thoughts.
+
+**Psychological Interpretation:**
+Drawing from the transcript, which highlights common patterns of interpersonal tension and avoidance, the patient's experience of strained relationships and unmet needs for support may lead to similar patterns of avoidance and withdrawal. The patient might fear confrontation or expressing needs, anticipating negative outcomes based on past experiences. This could result in a cycle of unmet needs and emotional distress.
+
+**Recommendations:**
+1. **Cognitive Restructuring:** Encourage the patient to challenge negative thoughts about self-worth and the availability of support. This can involve identifying and reframing cognitive distortions related to their perceived independence and relational dynamics.
+
+2. **Behavioral Activation:** Suggest activities that promote social engagement and connection, even in small ways, to counteract tendencies to withdraw. This could include reaching out to acquaintances or joining community groups.
+
+3. **Communication Skills:** Provide strategies for effective communication, particularly in expressing needs and setting boundaries with family and friends. Role-playing scenarios may help the patient practice these skills in a supportive environment.
+
+4. **Self-Compassion:** Introduce exercises that foster self-compassion, helping the patient to treat themselves with kindness and understanding, especially when facing challenges or perceived failures.
+
+5. **Support Network Expansion:** Explore ways to broaden the patient's support network, potentially through community involvement or online support groups, to reduce reliance on a limited number of individuals.
+
+By addressing these areas, the patient can work towards developing healthier cognitive and behavioral patterns, enhancing their emotional well-being and resilience in the face of life's challenges.
+Summary da mistral_.csv: The client discussed her weekend visit to her parents' house, where she had avoided discussing her abortion with them. She mentioned her father's reaction to her wedding plans and her roommates' behavior at her apartment, which had led to feelings of anger and frustration. She expressed her desire to leave the apartment due to the living conditions and the inability to communicate effectively with her roommates.
+The client expresses feeling frustrated and irritated with their living situation and the behavior of their roommates, leading to a desire to move out. They discuss an instance where Kevin lost the client's camera and the client's struggle to ask for its return. The client also shares an experience where Jill damaged their car and did not inform them, leading to feelings of anger and resentment. The client expresses difficulty in approaching these situations and feeling guilty for wanting their belongings back. The counselor suggests being direct and expressing their needs to their roommates.
+The client described an incident where their roommate, Jill, put a dent in their car and didn't tell them about it until later. The client felt angry but didn't confront her due to fear of conflict. They also discussed their avoidance of conflict in general and the difficulty of resolving tensions with their roommates. The client expressed frustration with the anticipation of potential negative outcomes if they tried to address the issues. They also mentioned a party they were planning and the fear that addressing conflicts could negatively impact the event. The client shared that they have been trying to structure their life to avoid being in the apartment when their roommates are there due to the tensions.
+The client expresses feelings of anxiety and guilt over their living situation and the lack of resolution to issues with their roommate, Daisy, specifically regarding the division of household chores. They acknowledge that their complaints may have contributed to Daisy's recent decrease in cleaning efforts. The client also discusses their anticipation of leaving and feeling anxious for the termination of their friendship. They have planned out their remaining sessions and have minimal contact with Daisy until their departure. The client and interviewer discuss the number of sessions they have attended, with the interviewer confirming it is their 15th session. The client expresses feeling depleted and the interviewer suggests ending the session.
+
+ REFINED CCD: description + report
+{
+  "history": "The client recently moved and is in the process of unpacking and organizing their belongings. They report a difficult relationship with their parents, especially their mother, which has contributed to ongoing emotional strain. During a recent period of need, friends were not available to help, leading to feelings of being unsupported. The client attempted to manage unpacking alone, which may reinforce patterns of self-reliance and withdrawal. The combination of strained familial relationships and lack of friend support appears to have fostered a sense of isolation and disappointment.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I ask for help, people won't be there for me, so I have to handle everything by myself. Depending on others just leads to disappointment, so it's safer to rely only on myself. If I can't manage on my own, it means I'm weak or a burden.",
+  "intermediate_belief_depression": "If I can't do this alone and no one helps, it proves that I'm not worth supporting and things will never get better for me.",
+  "coping_strategies": [
+    "The client copes by withdrawing and focusing on tasks independently, such as unpacking alone, to regain a sense of control. They avoid reaching out for help, anticipating rejection or unavailability, which reinforces their sense of isolation. This self-reliant approach may provide short-term relief but perpetuates emotional distress and limits opportunities for support."
+  ],
+  "situation": "Tried to unpack belongings without help after friends were unavailable.",
+  "auto_thought": "No one is really there for me when I need them. I have to do everything by myself because I can't count on anyone.",
+  "emotion": [
+    "lonely",
+    "disappointed",
+    "overwhelmed",
+    "frustrated",
+    "sad"
+  ],
+  "behavior": "I withdrew from reaching out to others and focused on unpacking alone. I avoided contacting friends or family for further help. I kept to myself and tried to push through the task independently."
+}

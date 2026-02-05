@@ -1,0 +1,28 @@
+{
+  "name": "Sarah",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Sarah is in a long-term relationship with Amelia. Amelia has a demanding professional schedule. Sarah feels isolated during the week. Sarah does most household tasks and does not discuss resentment with Amelia. History includes childhood separations from parents associated with distress.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I express my needs, I will be rejected.",
+  "intermediate_belief_depression": "I must handle everything on my own because I am not worthy of support.",
+  "coping_strategies": "Avoids discussing feelings and needs with Amelia, leading to internalized resentment.",
+  "situation": "Not receiving communication from the partner during the day and attempting to make contact.",
+  "auto_thought": "Amelia doesn't care about me or my needs.",
+  "emotion": [
+    "Isolation",
+    "Resentment",
+    "Anxiety"
+  ],
+  "behavior": "Attempts to make contact with Amelia but avoids discussing feelings of resentment."
+}

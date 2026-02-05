@@ -1,0 +1,96 @@
+Using description: HISTORY:
+- Past experiences of pressure related to performance and social interactions.
+- Reports presenting a confident front and hiding vulnerability.
+- A recent business failure led to financial hardship.
+
+SITUATION:
+- Took out a loan instead of asking family or friends for help.
+- In social situations, acts to distract attention from financial difficulties. with ID=24-2
+Top results (by metadata similarity):
+  - sim=0.624 | title='Patient "J", Session July 24, 2012: Client's financial issues are all coming to ' | file='1004687594.txt'
+  - sim=0.608 | title='Patient "M", Session June 26, 2012: Client isn't happy about her performance in ' | file='1004687660.txt'
+  - sim=0.603 | title='Patient "J", Session May 04, 2012: Client's financial issues are creating proble' | file='1004564943.txt'
+  - sim=0.602 | title='Patient "J", Session April 10, 2012: Client just had a birthday; he was extremel' | file='1004532428.txt'
+  - sim=0.581 | title='Patient "Ma", Session July 12, 2012: Client worries about being boring when she ' | file='1004687704.txt'
+  - sim=0.581 | title='Patient "J", Session August 13, 2012: Client feels extremely anxious and overwhe' | file='1004687604.txt'
+  - sim=0.581 | title='Session 5: Client finds this financial situation stressful and irritating; he ma' | file='1004824745.txt'
+  - sim=0.578 | title='Patient "J", Session February 21, 2012: Client sounds a bit more hopeful about h' | file='1004503124.txt'
+  - sim=0.578 | title='Patient "J", Session August 24, 2012: Client talks about family and money proble' | file='1004687610.txt'
+  - sim=0.573 | title='Patient "C" Therapy Session Audio Recording, March 01, 2012: Client is feeling a' | file='1004513664.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=8 partial_match=2
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.624 | file='1004687594.txt' | title='Patient "J", Session July 24, 2012: Client's financial issues are all coming to '
+  - sim=0.603 | file='1004564943.txt' | title='Patient "J", Session May 04, 2012: Client's financial issues are creating proble'
+  - sim=0.602 | file='1004532428.txt' | title='Patient "J", Session April 10, 2012: Client just had a birthday; he was extremel'
+Using top selected file for transcript: '1004687594.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient History and Current Situation:**
+
+The patient has a history of experiencing pressure related to performance and social interactions. This has led to a pattern of presenting a confident front while concealing vulnerability. Recently, the patient faced a business failure, resulting in financial hardship. Instead of seeking help from family or friends, the patient opted to take out a loan. In social settings, the patient actively diverts attention away from their financial difficulties.
+
+**Cognitive and Emotional Patterns:**
+
+1. **Cognitive Patterns:**
+   - **Perfectionism and Self-Presentation:** The patient likely holds a belief that they must appear competent and self-sufficient, which aligns with their tendency to present a confident front. This may stem from past experiences of performance pressure, leading to a fear of judgment or failure if vulnerabilities are exposed.
+   - **Avoidance of Vulnerability:** The decision to take out a loan rather than ask for help suggests a cognitive pattern of avoiding perceived weakness. This may be driven by beliefs that seeking help is a sign of failure or inadequacy.
+   - **Rumination and Worry:** The financial hardship resulting from the business failure likely triggers rumination about past decisions and worry about future stability. This cognitive pattern can exacerbate feelings of being overwhelmed and contribute to difficulty in problem-solving.
+
+2. **Emotional Patterns:**
+   - **Anxiety and Fear:** The financial difficulties and the need to maintain a facade in social situations likely lead to feelings of anxiety and fear. The patient may worry about being exposed or judged, which can intensify stress levels.
+   - **Shame and Embarrassment:** The need to hide financial struggles suggests underlying feelings of shame and embarrassment. The patient may fear that revealing their situation would lead to social rejection or diminished self-worth.
+   - **Sadness and Disappointment:** The business failure and subsequent financial hardship may evoke feelings of sadness and disappointment, both in themselves and in their circumstances.
+
+**Behavioral Responses and Coping Strategies:**
+
+1. **Behavioral Responses:**
+   - **Distraction and Deflection:** In social situations, the patient actively distracts attention from their financial issues. This behavior serves as a coping mechanism to manage anxiety and maintain social standing.
+   - **Avoidance of Help-Seeking:** The choice to take out a loan instead of asking for help indicates a pattern of avoiding reliance on others. This behavior may be rooted in a desire to maintain independence and control.
+   - **Overcompensation:** By presenting a confident front, the patient may engage in overcompensation to counteract feelings of inadequacy or vulnerability.
+
+2. **Coping Strategies:**
+   - **Cognitive Reframing:** Encouraging the patient to reframe their beliefs about vulnerability and help-seeking could be beneficial. Recognizing that asking for support is a strength rather than a weakness may reduce self-imposed pressure.
+   - **Problem-Solving Skills:** Developing structured problem-solving skills can help the patient manage financial stressors more effectively, reducing feelings of being overwhelmed.
+   - **Mindfulness and Relaxation Techniques:** Incorporating mindfulness or relaxation exercises may assist in managing anxiety and promoting emotional regulation.
+
+**Conclusion:**
+
+The patient's history of performance pressure and current financial difficulties contribute to a complex interplay of cognitive, emotional, and behavioral patterns. By addressing these patterns through cognitive-behavioral strategies, the patient can work towards reducing anxiety, enhancing emotional resilience, and fostering healthier coping mechanisms.
+Summary da mistral_.csv: The client discusses financial struggles, including falling behind on rent payments, owing money to various individuals, and facing potential eviction. They also mention difficulties with a psychiatrist regarding prescription medication and a friend's unexpected expenses. The client expresses anxiety and frustration over their financial situation and the numerous obligations they have, including a tournament they cannot afford to miss. They also mention a lack of control over their finances and feeling overwhelmed by the various demands on their time and resources. The therapist suggests exploring potential areas where the client can make choices to alleviate some of the financial stress.
+The client expresses feelings of being overwhelmed and paralyzed due to financial issues, specifically regarding rent payments and unpaid checks from attorneys for closed real estate titles. The client is anxious about the consequences of not paying rent on time and the delay in receiving money from title closings. The client also mentions feeling frustrated with the lack of communication from attorneys and the importance of being able to ride their bike to a finance meeting. The therapist acknowledges the client's concerns and the difficulties in making financial decisions with uncertainty.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of experiencing pressure to perform and to manage social impressions, which has led to presenting a confident front and hiding vulnerability. There is a history of avoiding showing weakness, likely due to fear of judgment or rejection. Recently, a business failure resulted in financial hardship, intensifying these patterns. The client chose to take out a loan rather than seek help from family or friends, indicating a preference for self-reliance and avoidance of perceived weakness.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I show vulnerability or ask for help, others will see me as weak or incompetent. I must always appear confident and in control to be accepted. Admitting financial difficulties means I have failed.",
+  "intermediate_belief_depression": "If I can't solve my problems alone, it means I'm hopeless and things will never get better.",
+  "coping_strategies": [
+    "The client avoids seeking support from others, opting for self-reliant solutions such as taking out a loan. In social situations, they distract attention away from their financial difficulties and maintain a confident front, avoiding disclosure of vulnerability."
+  ],
+  "situation": "Took out a loan instead of asking family or friends for help. In social situations, acts to distract attention from financial difficulties.",
+  "auto_thought": "If I ask for help, they'll think I'm a failure. I have to handle this on my own or people will lose respect for me.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "worried",
+    "embarrassed"
+  ],
+  "behavior": "Avoided discussing financial problems with family or friends. Took out a loan privately. In social settings, steered conversations away from personal finances and acted upbeat."
+}

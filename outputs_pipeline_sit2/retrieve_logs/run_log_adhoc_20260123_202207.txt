@@ -1,0 +1,71 @@
+Using description: HISTORY:
+- Health condition requiring time off work for physical therapy.
+- Past interactions with HR and a supervisor related to return-to-work and disability status.
+
+SITUATION:
+- Running into a coworker outside the workplace while on medical leave. with ID=38-2
+Top results (by metadata similarity):
+  - sim=0.602 | title='Verilogue session: Client is having problems with his superiors at work. His moo' | file='1003009283.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=1 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=1
+  - sim=0.602 | file='1003009283.txt' | title='Verilogue session: Client is having problems with his superiors at work. His moo'
+Using top selected file for transcript: '1003009283.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is currently on medical leave due to a health condition that necessitates physical therapy. This situation has led to time away from work, during which the patient has had interactions with HR and a supervisor concerning their return-to-work status and disability considerations. Recently, the patient encountered a coworker outside the workplace while on leave.
+
+**Emotional Impact:**
+The patient's medical leave and the need for physical therapy likely evoke a range of emotions. The necessity to take time off work can lead to feelings of anxiety and worry about job security and future career prospects. The interactions with HR and a supervisor regarding return-to-work and disability status may contribute to feelings of uncertainty and stress. The encounter with a coworker outside the workplace could trigger feelings of embarrassment or self-consciousness, as the patient might be concerned about perceptions of their absence.
+
+**Cognitive Patterns:**
+The patient may be experiencing cognitive distortions typical in situations involving health-related work absences. These could include catastrophizing about the potential impact of their absence on their career or engaging in all-or-nothing thinking regarding their ability to return to work. The interactions with HR and the supervisor might lead to ruminative thoughts about their job performance and future at the company. The encounter with the coworker could prompt overgeneralization, where the patient assumes that others are judging them negatively for being on leave.
+
+**Behavioral Responses:**
+In response to these stressors, the patient might engage in avoidance behaviors, such as withdrawing from social interactions with coworkers or delaying communication with HR and supervisors. The patient may also seek reassurance from family or friends about their job security and health status. The encounter with the coworker might lead to increased self-monitoring and efforts to manage impressions, such as explaining their situation or avoiding further encounters.
+
+**Coping Styles:**
+The patient may rely on problem-focused coping strategies, such as seeking information about their rights and options regarding disability status and return-to-work procedures. Emotion-focused coping might involve seeking emotional support from family and friends or engaging in activities that provide temporary relief from stress, such as hobbies or relaxation techniques.
+
+**Conclusion:**
+The patient's current situation involves significant stressors related to health and employment. The emotional, cognitive, and behavioral responses observed are consistent with common reactions to such circumstances. It is important for the patient to continue engaging in physical therapy and to seek support from HR and supervisors to clarify their work status and options. Cognitive Behavioral Therapy (CBT) techniques, such as cognitive restructuring and problem-solving, may be beneficial in addressing cognitive distortions and enhancing coping strategies.
+Summary da mistral_.csv: The patient, a 35-54 year old Caucasian male, discussed his evaluation report with his psychiatrist. He explained that his employer is requiring him to show significant improvement in two weeks or face termination. The patient noted that his work performance is being compared to a coworker in a different location, and he feels that his boss is under pressure from his superior to let him go. The patient also mentioned that he has considered going on disability but is unsure if he qualifies. The psychiatrist advised the patient about the potential benefits of disclosing his condition under the Americans With Disabilities Act and the possibility of going on short-term disability.
+The patient discussed their current struggles with depression and attention deficit symptoms, expressing concerns about the effectiveness of their current medication regimen. The doctor suggested increasing the dosage of Adderall to improve focus and concentration. The patient expressed anxiety about going on disability but acknowledged the potential benefits of taking a leave to focus on their mental health. They also mentioned feeling better in terms of mood but still experiencing some nervousness and attention to detail issues. The doctor advised the patient to communicate with their employer about their situation and the possibility of taking a short-term disability leave.
+The patient is in a dilemma about taking a leave of absence from work due to a probation period that is about to end. The HR representative contacted the patient to discuss the matter, and the patient feels unsure about her supervisor's attitude towards the situation. The doctor suggests that the patient take the leave if there is any doubt, as it offers some protection. The patient expresses concerns about the potential consequences of taking the leave and feels embarrassed about having to do so. They agree to meet the following week to discuss the matter further.
+
+ REFINED CCD: description + report
+{
+  "history": "The client is on medical leave due to a health condition that requires ongoing physical therapy. They have previously interacted with HR and a supervisor about their return-to-work and disability status, which may have contributed to ongoing stress and uncertainty. The need to take time off work has likely led to concerns about job security and how others at work perceive their absence. These experiences may have shaped their beliefs about their value and acceptance in the workplace.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am seen outside while on leave, others will think I am not truly sick or deserving of time off, and I must prove my legitimacy to avoid being judged. I believe that if I am not visibly struggling, people will assume I am taking advantage of the system. I need to justify my absence or else others will see me as unreliable.",
+  "intermediate_belief_depression": "If people think I am not really unwell, it means I am failing and my situation is hopeless, because no matter what I do, I can't convince them otherwise. If I can't prove my worth, I might lose my place at work and nothing I do will be enough.",
+  "coping_strategies": [
+    "The client tends to avoid coworkers and social situations to prevent uncomfortable questions or judgments. They may seek reassurance from family or friends about their job security and health status. They might also over-explain or justify their situation when unexpectedly confronted, and withdraw from further contact to manage distress."
+  ],
+  "situation": "Running into a coworker outside the workplace while on medical leave.",
+  "auto_thought": "They probably think I'm faking or exaggerating my condition. I shouldn't be seen out if I'm supposed to be on leave.",
+  "emotion": [
+    "anxious",
+    "embarrassed",
+    "self-conscious",
+    "worried",
+    "ashamed"
+  ],
+  "behavior": "I quickly try to explain why I'm out or avoid talking about my medical leave. I might cut the conversation short or avoid eye contact. Afterwards, I replay the encounter in my mind and worry about what they think."
+}

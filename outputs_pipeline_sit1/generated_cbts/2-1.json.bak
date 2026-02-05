@@ -1,0 +1,36 @@
+{
+  "name": "CBT Cognitive Conceptualization for Family Tension Case",
+  "id": "case_001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The patient has recently experienced family tension, specifically related to a disagreement with their parents about a wedding guest list. They have become aware of similarities between their own behaviors and their father's, who is described as repeatedly seeking approval and unconditional love from family members. This recognition has led the patient to reflect on their own patterns and may contribute to discomfort or embarrassment. The patient’s family interactions appear to be characterized by a fear of criticism and a desire for validation, as evidenced by both their own and their father's behaviors.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I assert my own preferences and they are not accepted, it means I am not valued or loved by my family. I must avoid conflict and seek approval to maintain harmony, otherwise I risk being rejected or criticized. My worth is tied to whether my family agrees with my choices.",
+  "intermediate_belief_depression": "If my family disagrees with me or criticizes my choices, it proves that I am not good enough and will never be fully accepted, no matter what I do.",
+  "coping_strategies": "The patient tends to withdraw from family interactions or avoid addressing the guest list issue to prevent conflict. They may seek reassurance from others or engage in distracting activities to manage their anxiety. These strategies provide temporary relief but maintain the cycle of stress and avoidance.",
+  "situation": "Disagreement with parents regarding the guest list for an upcoming event.",
+  "auto_thought": "They don't respect what I want; no matter what I say, they'll just judge me or dismiss my feelings.",
+  "emotion": [
+    "anxious",
+    "frustrated",
+    "disappointed",
+    "tense",
+    "self-doubt",
+    "embarrassed"
+  ],
+  "behavior": "I avoid bringing up the guest list again and withdraw from conversations with my parents. I seek reassurance from friends about whether my preferences are reasonable.",
+  "rationale": "The report notes the patient 'may engage in cognitive processes that involve seeking validation and approval,' and 'might become defensive when discussing the guest list, fearing judgment or criticism from their parents.' Emotional responses include 'anxiety and stress,' 'frustration or disappointment,' and 'self-doubt.' Behavioral responses include 'withdrawing from family interactions to avoid conflict,' 'seeking reassurance,' and 'avoidance behaviors, such as procrastinating on addressing the guest list issue.' The core beliefs and intermediate beliefs are supported by the patient's recognition of their own and their father's patterns of seeking approval and fear of rejection. The coping strategies are drawn from the report's mention of avoidance, reassurance-seeking, and distraction."
+}

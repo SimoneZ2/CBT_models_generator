@@ -1,0 +1,77 @@
+Using description: HISTORY:
+- Recent family tension related to a conversation with parents about a wedding list.
+- The patient noticed similarities between their own actions and their father's patterns.
+- The father is described as repeatedly seeking approval and unconditional love from family members.
+
+SITUATION:
+- Observing the father's ongoing pursuit of approval from his sister. with ID=2-2
+Sample results (metadata similarity):
+  - sim=0.138 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.201 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+  - sim=0.213 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.217 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.235 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.250 | title='Patient "L", Session May 09, 2012: Client has been feeling good about her work; ' | file='1004564967.txt'
+  - sim=0.250 | title='Verilogue session: Client appears to be in a manic upswing and is very anxious a' | file='1001083971.txt'
+  - sim=0.251 | title='Patient "B", Session February 15, 2012: Client starts session by verbally batter' | file='1004503118.txt'
+  - sim=0.251 | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de' | file='1001084060.txt'
+  - sim=0.253 | title='Verilogue session: Client has been experiencing very drastic mood swings and won' | file='1001084037.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.138 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.201 | file='1002565918.txt' | title='Verilogue session: Client is having problems falling asleep'
+  - sim=0.213 | file='1001084079.txt' | title='Verilogue session: Client feels the urgent need to get everything done in a rush'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has recently been navigating family tensions related to a wedding list conversation with their parents, finds themselves reflecting on their own behaviors and noticing similarities with their father's patterns. The father is described as someone who persistently seeks approval and unconditional love from family members, a trait that the client observes in themselves as well. During the session, the client shares a detailed account of their experiences with mathematics, which serves as both a source of intellectual engagement and a metaphor for their personal journey. They express a sense of satisfaction in overcoming challenges, stating, "I felt like I really understood the material," which highlights their ability to find clarity and confidence through hard work and persistence.
+
+The client describes their recent experience of tutoring precalculus, noting the complexities involved in teaching and learning mathematical concepts. They mention, "I just have to learn it or relearn I guess, to teach it," indicating a willingness to engage deeply with the material to be effective in their role. This mirrors their father's pursuit of approval, as the client seeks validation through mastery and teaching. The session reveals the client's cognitive patterns, where they grapple with the need to be concise in mathematical proofs, feeling "troubled" by the expectation to leave out detailed explanations. This struggle reflects a broader theme of seeking approval and the discomfort of not meeting perceived standards.
+
+Throughout the session, the client frequently returns to the theme of learning and understanding, both in mathematics and in life. They describe the process of grappling with new concepts, saying, "It's amazing to me," when they finally grasp the material. This mirrors their emotional journey, where they navigate feelings of inadequacy and the desire for approval, similar to their father's behavior. The client also reflects on the nature of knowledge and understanding, comparing the certainty of mathematical truths to the subjective nature of philosophical and psychological theories. They express a sense of relief in the clarity that mathematics provides, noting, "People don't get angry about math," which contrasts with the contentiousness they perceive in other areas of life.
+
+The client's narrative is punctuated by moments of self-awareness and introspection. They acknowledge feeling "self-conscious" about their preoccupation with mathematics, yet they find comfort in the intellectual focus it provides. This reflects a coping strategy where the client immerses themselves in intellectual pursuits to manage underlying anxieties and the need for approval. The session also touches on the client's interpersonal dynamics, as they describe the satisfaction of teaching and connecting with others through shared understanding. They recount an experience of teaching without technology, emphasizing the value of real-time interaction and the "mirror neurons" effect, which enhances learning and connection.
+
+As the session progresses, the client explores the parallels between mathematical concepts and life experiences. They draw connections between the abstract nature of math and the complexities of human relationships, pondering the idea that "some infinities are greater than others." This metaphorical thinking reveals the client's cognitive style, where they seek to understand the world through logical frameworks while grappling with the emotional nuances of their personal life. The session concludes with the client expressing a sense of accomplishment and growth, having navigated both mathematical challenges and personal reflections. They leave the session with a sense of anticipation for future learning and the ongoing journey of self-discovery.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has recently experienced family tension related to a wedding list conversation with their parents. They notice similarities between their own behavior and their father's, who persistently seeks approval and unconditional love from family members. The client often reflects on their own need for validation, as seen in their approach to teaching and learning mathematics. They describe feeling self-conscious about their intellectual pursuits and find comfort in the clarity and certainty of mathematics, contrasting it with the emotional complexity of family relationships.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't gain approval from important people in my life, it means I'm not good enough and I won't be loved. I must work hard and prove myself to be accepted. If I see myself acting like my father, it confirms that I am stuck in this pattern and must keep striving for validation.",
+  "intermediate_belief_depression": "If I keep failing to get approval, it means I'll always be inadequate and alone, no matter what I do. There's no way out of this cycle, and my efforts will never be enough.",
+  "coping_strategies": [
+    "The client immerses themselves in intellectual pursuits, such as mathematics, to manage anxiety and the need for approval. They seek validation through mastery and teaching, finding satisfaction in overcoming challenges and connecting with others through shared understanding. They also avoid emotional conflict by focusing on areas where certainty is possible, like math, rather than addressing interpersonal tensions directly."
+  ],
+  "situation": "Observing the father's ongoing pursuit of approval from his sister.",
+  "auto_thought": "I'm just like him—I keep needing people to approve of me. If I don't get their approval, it means I'm not good enough.",
+  "emotion": [
+    "self-conscious",
+    "anxious",
+    "ashamed",
+    "inadequate",
+    "tense"
+  ],
+  "behavior": "I withdraw and become quiet, watching the interaction closely. Later, I ruminate about my own need for approval and compare myself to my father. I distract myself by thinking about or engaging in intellectual activities."
+}

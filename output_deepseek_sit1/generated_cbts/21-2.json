@@ -1,0 +1,29 @@
+{
+  "name": "Patient 21",
+  "id": "21",
+  "type": [
+    "family conflict",
+    "anticipatory anxiety"
+  ],
+  "history": "History of family conflict with dismissive father. Estranged from father. Ongoing stress with partner's family, including difficult sister-in-law.",
+  "helpless_belief": [
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "Family gatherings always end with me being criticized or rejected.",
+  "intermediate_belief_depression": "I'm not welcome in any family, neither mine nor my partner's.",
+  "coping_strategies": [
+    "Anticipation of conflict, emotional preparation."
+  ],
+  "situation": "Anticipating interactions with Candace during upcoming family vacation.",
+  "auto_thought": "Candace is going to make this vacation miserable for me.",
+  "emotion": [
+    "dread",
+    "anxiety",
+    "resentment"
+  ],
+  "behavior": "Worry about upcoming interactions with difficult family member."
+}

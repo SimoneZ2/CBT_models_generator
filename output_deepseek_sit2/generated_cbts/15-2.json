@@ -1,0 +1,32 @@
+{
+  "name": "Patient 15",
+  "id": "15",
+  "type": [
+    "workplace stress",
+    "undervaluation"
+  ],
+  "history": "Ongoing workplace underappreciation. Repeated experiences of ideas not being accepted.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "My contributions don't matter; I'm invisible here.",
+  "intermediate_belief_depression": "I'll never be recognized no matter how hard I work.",
+  "coping_strategies": [
+    "Withdrawing effort, resentment, passive resistance."
+  ],
+  "situation": "Colleagues praise a coworker and ask patient for help with tech issues for that coworker.",
+  "auto_thought": "\"They only value me for tech support. My ideas are worthless.\"",
+  "emotion": [
+    "bitterness",
+    "invisibility",
+    "resentment"
+  ],
+  "behavior": "Helps reluctantly with minimal effort, makes sarcastic comment, withdraws from conversation."
+}

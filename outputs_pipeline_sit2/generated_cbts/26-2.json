@@ -1,0 +1,45 @@
+{
+  "name": "Client exposed to clinical terms about spouse",
+  "id": "26-2",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has ongoing work-related uncertainty and anxiety, which contributes to chronic stress. They recently married Ivan, but the relationship included episodes of physical abuse, leading to a separation. Despite this, both partners are motivated to resolve their issues and are attending couples therapy. Exposure to clinical terms describing the husband's behavior adds another layer of emotional complexity, possibly evoking confusion and fear. The client may ruminate about both work and relationship stability, and struggles with reconciling their desire to repair the marriage with the reality of past abuse.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I hear clinical terms like 'delusional' or 'pseudo-psychotic' used about my husband, it means the situation is out of my control and I can't do anything to help or protect myself. I must always be on guard because things could get worse at any moment. If I can't understand or fix what's happening, it means I'm failing as a partner.",
+  "intermediate_belief_depression": "If these clinical terms mean things are truly serious and I can't change them, then there's no hope for my relationship or for things to get better for me.",
+  "coping_strategies": "The client tends to withdraw or avoid confronting distressing aspects of their relationship and work, sometimes ruminating on worst-case scenarios. They seek reassurance from therapists or friends and have separated from their spouse as a form of self-protection, but also engage in couples therapy as a proactive coping effort.",
+  "situation": "Exposed to clinical terms used to describe the husband's behavior, including 'delusional' and 'pseudo-psychotic'.",
+  "auto_thought": "If experts are saying Ivan is 'delusional' or 'pseudo-psychotic', things must be really bad and maybe I can't do anything to make this safe or better.",
+  "emotion": [
+    "anxious",
+    "fearful",
+    "confused",
+    "helpless",
+    "sad"
+  ],
+  "behavior": "I withdraw from conversations about Ivan's behavior and avoid asking questions about the clinical terms. I seek reassurance from the therapist about what these terms mean. I ruminate about what might happen next in my relationship.",
+  "rationale": "\"Exposure to clinical terms describing the husband's behavior might evoke confusion, fear, or even a sense of helplessness, as these terms can carry significant weight and implications.\" \"The patient may engage in ruminative thinking, particularly about the stability of their work situation and the dynamics of their marriage.\" \"In response to these stressors, the patient might withdraw or avoid confronting certain aspects of their work or relationship.\"",
+  "core_belief_predictions": {
+    "source_id": "26-1",
+    "major_pred_set": [
+      "helpless"
+    ],
+    "fine_pred_set": [
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

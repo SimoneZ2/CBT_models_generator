@@ -1,0 +1,93 @@
+Using description: HISTORY:
+- PhD student in a science field.
+- Involved in music, including leading a college band and participating in a jazz group.
+- Previously declined a leadership position in the jazz group.
+- Reports mental health struggles.
+- Feels disconnected from colleagues in the scientific work environment.
+
+SITUATION:
+- Experiencing difficulty during jazz rehearsals, requiring repeated attempts to progress. with ID=12-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.10 - Top results (by metadata similarity):
+  - sim=0.565 | title='Verilogue session: Client has more anxiety than usual due to moving house recent' | file='1003009286.txt'
+  - sim=0.552 | title='Patient "R", Session September 13, 2012: Client talks about a near fainting phen' | file='1004798823.txt'
+  - sim=0.526 | title='Session 21: Client feels like he is on the spot to "deliver", to be a good clien' | file='1000013415.txt'
+  - sim=0.522 | title='Patient "B", Session September 20, 2012: Client feels like she is not doing well' | file='1004798721.txt'
+  - sim=0.520 | title='Verilogue session: Client's mood has been depressed; he is worried about his bro' | file='1003009271.txt'
+  - sim=0.518 | title='Verilogue session: Client was recently assaulted and he quit his job after an in' | file='1001083937.txt'
+  - sim=0.517 | title='Patient "R" Session May 14, 2012: Client talks about her recent motivation to wr' | file='1004565045.txt'
+  - sim=0.517 | title='Session 1: Client feels unsure about therapy. He avoids thinking about having to' | file='1000122152.txt'
+  - sim=0.515 | title='Verilogue session: Client is experiencing stress in the workplace' | file='1001084028.txt'
+  - sim=0.507 | title='Session 3: Client feels the pressure of doing well on her entrance exams for gra' | file='1000094423.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.565 | file='1003009286.txt' | title='Verilogue session: Client has more anxiety than usual due to moving house recent'
+  - sim=0.552 | file='1004798823.txt' | title='Patient "R", Session September 13, 2012: Client talks about a near fainting phen'
+  - sim=0.526 | file='1000013415.txt' | title='Session 21: Client feels like he is on the spot to "deliver", to be a good clien'
+Using top selected file for transcript: '1003009286.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient is a PhD student in a science field who is actively involved in music, leading a college band and participating in a jazz group. The patient has previously declined a leadership position in the jazz group and reports experiencing mental health struggles. Additionally, the patient feels disconnected from colleagues in the scientific work environment and is currently facing difficulties during jazz rehearsals, requiring repeated attempts to progress.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions stemming from their current circumstances. The feeling of disconnection from colleagues in the scientific environment may lead to emotions such as loneliness, isolation, and perhaps a sense of not belonging. This emotional state can be exacerbated by the mental health struggles the patient reports, potentially leading to feelings of sadness or being down.
+
+During jazz rehearsals, the difficulty in progressing despite repeated attempts may evoke frustration, irritation, and possibly self-doubt. The patient might feel anxious or tense about their performance and ability to meet personal or group expectations. The decision to decline a leadership position in the jazz group could be associated with feelings of inadequacy or fear of additional responsibility, contributing to a sense of relief but also potential regret or self-criticism.
+
+**Cognitive Patterns:**
+The patient may engage in cognitive patterns such as rumination or negative self-talk, particularly when reflecting on their struggles in both academic and musical settings. The feeling of disconnection from colleagues might lead to thoughts of being an outsider or not being valued, which can reinforce a negative self-image. The challenges faced during rehearsals might trigger thoughts of failure or incompetence, potentially leading to a cycle of self-doubt and decreased motivation.
+
+The decision to decline a leadership role could be influenced by cognitive distortions such as catastrophizing (anticipating negative outcomes) or all-or-nothing thinking (believing they must be perfect to lead). These cognitive patterns might prevent the patient from recognizing their strengths and contributions, both in music and academia.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive experiences, the patient might engage in behaviors such as withdrawing from social interactions, avoiding leadership opportunities, or procrastinating on tasks related to their PhD or music. The repeated attempts to progress during rehearsals indicate a level of perseverance, but the difficulty in achieving desired outcomes might lead to avoidance or reduced participation over time.
+
+The patient may also seek reassurance from peers or mentors, or alternatively, they might isolate themselves to cope with feelings of inadequacy. The involvement in music, despite challenges, suggests a coping mechanism that provides a sense of identity and purpose, even if it is currently a source of stress.
+
+**Coping Styles:**
+The patient may rely on coping strategies such as immersing themselves in music or academic work to distract from negative emotions. However, the effectiveness of these strategies might be limited if they do not address underlying cognitive patterns. The patient might benefit from developing more adaptive coping mechanisms, such as cognitive restructuring to challenge negative thoughts, or mindfulness practices to manage anxiety and stress.
+
+**Conclusion:**
+The patient's experiences in both academic and musical settings are likely contributing to a complex interplay of emotions, thoughts, and behaviors. Addressing these through cognitive-behavioral strategies could help the patient develop a more balanced perspective, improve their sense of connection with colleagues, and enhance their ability to manage challenges in rehearsals. By focusing on strengths and fostering adaptive coping skills, the patient can work towards achieving greater emotional well-being and fulfillment in their pursuits.
+Summary da mistral_.csv: In this session, the patient discussed his free time activities, which include working out at Gold's Gym three times a week and spending time at his new place, which is currently shared with a roommate. The patient mentioned that he has not yet fully moved in and is in a semi-moved state. The patient also talked about the security and safety of the living complex, and the difficulty of getting into it. The patient mentioned that his girlfriend is a teacher and is currently on summer break, and they are unsure of her plans for the upcoming school year. The patient expressed some anxiety about the moving process and the changes it brings, but overall, he reported that he has no significant worries. The patient mentioned that he has a daily routine and finds it difficult to delegate tasks to others. He is an assistant manager at his job and has four employees under him.
+The patient discusses his job at a car rental company, which was recently bought by a larger corporation. He expresses dissatisfaction with the nature of the work and his desire to pursue a career in the music industry, specifically the business side. The patient and his girlfriend are considering moving to a new city to find opportunities, but he is only willing to do so if he has a job secured first. The patient mentions his brother's music career and his role as potential tour manager, but acknowledges the difficulty of breaking into the music industry without connections. The patient also talks about his stable job and his girlfriend's support, and mentions taking Adderall daily for focus.
+The patient discusses their use of Adderall for managing their OCD tendencies and routine nature, which they find beneficial for their work. They do not take other medications and have their OCD under control. The patient's girlfriend, [NAME OTHER], has noticed their tendencies but it is not interfering with their life. The patient mentions their job in [DEIDENTIFIED] and their plans for the future, which may involve moving but are not yet set in stone. They also discuss their friend's job in the music industry and the exclusivity deals that companies have with bands.
+
+ REFINED CCD: description + report
+{
+  "history": "The client is a PhD student in a science field who is also actively involved in music, leading a college band and participating in a jazz group. They previously declined a leadership position in the jazz group, which may reflect concerns about responsibility or self-doubt. The client reports ongoing mental health struggles and feels disconnected from colleagues in their scientific work environment. This sense of disconnection and history of declining leadership may contribute to feelings of isolation, inadequacy, or not belonging, as suggested by their emotional responses in both academic and musical settings.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I struggle or can't keep up during rehearsals, others will see that I'm not competent, and I'll let the group down. I have to perform perfectly to be accepted and valued. If I can't progress quickly, it means I'm failing and don't deserve my place in the group.",
+  "intermediate_belief_depression": "If I keep struggling and can't improve, it proves that I'm not good enough and never will be, so there's no point in trying. My difficulties just confirm that I don't belong anywhere.",
+  "coping_strategies": [
+    "The client persists with repeated attempts during rehearsals, showing perseverance but may also ruminate on their difficulties. They tend to withdraw from social interactions and avoid leadership opportunities, possibly to protect themselves from perceived failure or judgment. Immersing in music serves as both a coping mechanism and a source of stress, and they may isolate themselves when feeling inadequate."
+  ],
+  "situation": "Experiencing difficulty during jazz rehearsals, requiring repeated attempts to progress.",
+  "auto_thought": "I'm messing this up again; everyone must think I'm not good enough to be here.",
+  "emotion": [
+    "frustrated",
+    "anxious",
+    "self-doubt",
+    "tense",
+    "ashamed",
+    "disappointed"
+  ],
+  "behavior": "I keep trying to get it right, repeating the same section over and over. I avoid making eye contact with others and say little during breaks. I hesitate to ask for help or feedback, worried it will confirm my fears."
+}

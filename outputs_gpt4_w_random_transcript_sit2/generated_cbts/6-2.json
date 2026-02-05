@@ -1,0 +1,26 @@
+{
+  "name": "Connor",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "28-year-old student. Returned from Egypt. Previously relied on parents for support and is now managing bills, finances, and health insurance independently for the first time. Brother remains financially dependent on parents.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet expectations, I will be rejected.",
+  "intermediate_belief_depression": "I must be self-sufficient to be accepted.",
+  "coping_strategies": "Avoidance of confrontation and seeking validation.",
+  "situation": "Received an insurance claim with an unexpected balance.",
+  "auto_thought": "I can't handle this on my own.",
+  "emotion": [
+    "Anxiety",
+    "Apprehension"
+  ],
+  "behavior": "Avoidance of addressing the issue directly."
+}

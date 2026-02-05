@@ -1,0 +1,28 @@
+{
+  "name": "Patient",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Ongoing work-related uncertainty and anxiety. Married recently; the relationship included instances of physical abuse by spouse Ivan and resulted in separation. Both partners are interested in resolving issues and are attending couples therapy.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must not express my true feelings or desires because they will be rejected or criticized.",
+  "intermediate_belief_depression": "I should not expect to be understood or supported.",
+  "coping_strategies": "Avoidance of expressing true feelings and desires, self-isolation, and self-criticism.",
+  "situation": "Exposed to clinical terms used to describe the husband's behavior, including 'delusional' and 'pseudo-psychotic'.",
+  "auto_thought": "I am afraid I can't be good enough for someone.",
+  "emotion": [
+    "Anxiety",
+    "Fear",
+    "Sadness"
+  ],
+  "behavior": "Avoidance of expressing true feelings, self-isolation, and reluctance to engage in tasks due to fear of failure."
+}

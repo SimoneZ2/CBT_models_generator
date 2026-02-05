@@ -1,0 +1,29 @@
+{
+  "history": "The client reports a long-standing pattern of strained relationships with their parents, marked by feeling judged and disapproved of. There are references to a lack of parental support during their education and complex family dynamics, including the mother's health condition and allegations of a past affair. The client has described the mother as 'broken,' suggesting emotional distance or instability. These factors likely contribute to a persistent sense of inadequacy and a need for external validation, especially from parents.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I achieve something significant, then my parents will finally approve of me. If I don't meet their expectations, then I am a disappointment. I must keep striving for success to prove my worth.",
+  "intermediate_belief_depression": "Even when I succeed, it doesn't matter because my parents will never be satisfied; nothing I do will ever be enough.",
+  "coping_strategies": [
+    "The client tends to withdraw from family interactions or avoid sharing personal achievements to protect against perceived judgment. They ruminate on past conversations, focusing on criticisms, and seek validation through work performance and external achievements."
+  ],
+  "situation": "Received a work bonus for exceptional performance. During a call with parents about the bonus, they asked about job prospects.",
+  "auto_thought": "Even when I do something great, it's still not enough for them. They only care about what I haven't done yet.",
+  "emotion": [
+    "disappointed",
+    "frustrated",
+    "hurt",
+    "inadequate",
+    "resentful"
+  ],
+  "behavior": "I become quiet on the call and stop sharing details about my bonus. After the call, I replay the conversation in my head, focusing on what I could have said differently. I avoid calling my parents again for a while.",
+  "source_text_id": "1004798853.txt"
+}

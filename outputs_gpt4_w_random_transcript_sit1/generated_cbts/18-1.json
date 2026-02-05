@@ -1,0 +1,24 @@
+{
+  "name": "John Doe",
+  "id": "22252",
+  "type": [
+    "Depression"
+  ],
+  "history": "Academic underperformance despite being described as intelligent. Attended a college (institution X), felt isolated, and dropped out. About two years of credits remain to complete the degree. Mother had high expectations. Financial difficulties and pressure from the mother to return home.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must stay on top of things from the beginning to succeed.",
+  "intermediate_belief_depression": "If I don't stay on top of things, I will fall behind and fail.",
+  "coping_strategies": "Using a planner to organize tasks and schedule, seeking help from advisors, and planning to exercise.",
+  "situation": "Experienced an unproductive week due to scheduling problems. Comparing themselves to their sister's achievements and time management.",
+  "auto_thought": "I need to stay on top of things from the beginning.",
+  "emotion": [
+    "Worried",
+    "Frustrated"
+  ],
+  "behavior": "Using a planner to organize tasks, planning to exercise, and seeking academic support."
+}

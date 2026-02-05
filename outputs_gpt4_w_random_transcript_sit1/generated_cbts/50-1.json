@@ -1,0 +1,24 @@
+{
+  "name": "John Doe",
+  "id": "12345",
+  "type": [
+    "CBT",
+    "Individual Therapy"
+  ],
+  "history": "Longstanding friendship with Ethan since high school (about 14 years). Shared personal crises and professional collaborations. Learned that Ethan has been abusive toward his girlfriend.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be responsible for others' actions.",
+  "intermediate_belief_depression": "I am failing if I cannot help those I care about.",
+  "coping_strategies": "Avoidance and distraction through work and family activities.",
+  "situation": "Learning about Ethan's abusive behavior toward his partner and feeling distressed. Observing erratic behavior and signs of substance use at a recent gathering.",
+  "auto_thought": "I should have seen this coming and done something to prevent it.",
+  "emotion": [
+    "Distress",
+    "Guilt"
+  ],
+  "behavior": "Engaging in conversations about family and work to avoid thinking about Ethan's situation."
+}

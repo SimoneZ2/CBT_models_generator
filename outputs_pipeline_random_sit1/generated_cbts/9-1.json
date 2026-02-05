@@ -1,0 +1,28 @@
+{
+  "history": "The patient has a long-standing friendship with Jersey, who has required multiple surgeries due to disabilities, and the patient has consistently provided support during these times. There is also an ongoing conflict with the patient's roommate, Ashby, over household issues. The patient is currently juggling personal responsibilities alongside concerns for Jersey's recovery. The report suggests the patient often focuses on others' needs, sometimes at the expense of their own, leading to emotional strain and cognitive overload.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't stay on top of supporting Jersey and managing everything else, things will fall apart and it will be my fault. I have to keep everyone else okay, even if it means putting my own needs aside. If I can't do it all, it means I'm not good enough as a friend or person.",
+  "intermediate_belief_depression": "If I can't keep up with supporting Jersey and handling my responsibilities, it proves I'm failing and nothing I do will make a difference. No matter how hard I try, it's never enough and things won't get better.",
+  "coping_strategies": [
+    "The patient tends to ruminate about Jersey's recovery and the conflict with Ashby, dividing their attention and making it hard to focus on personal tasks. They may seek reassurance about Jersey, avoid direct confrontation with Ashby, and sometimes withdraw or procrastinate on their own responsibilities to manage the emotional load."
+  ],
+  "situation": "Thinking about Jersey's recovery while managing other personal responsibilities.",
+  "auto_thought": "I'm not doing enough for Jersey right now, and if I don't keep helping, something bad might happen. I can't let anything slip, or I'll let everyone down.",
+  "emotion": [
+    "worried",
+    "anxious",
+    "overwhelmed",
+    "guilty",
+    "tense"
+  ],
+  "behavior": "I check in on Jersey even when I'm busy. I put off my own tasks to focus on Jersey's needs. I avoid dealing with Ashby to keep the peace.",
+  "source_text_id": "1004824683.txt"
+}

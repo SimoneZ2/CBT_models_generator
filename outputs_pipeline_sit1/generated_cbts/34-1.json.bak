@@ -1,0 +1,37 @@
+{
+  "name": "CBT Cognitive Conceptualization Diagram for Client",
+  "id": "CCD-001",
+  "type": [
+    "case formulation",
+    "CBT",
+    "grief",
+    "family conflict"
+  ],
+  "history": "The client lost a brother to suicide during childhood, which was a traumatic event. The family has ongoing conflict about discussing the loss, and the parents initially prevented the client from seeking talk therapy after the death. This likely contributed to feelings of confusion, sadness, and isolation, as well as difficulties in processing grief due to lack of support and open communication. The family’s reluctance to discuss the loss may have reinforced the client’s tendency to suppress emotions and avoid conflict.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let myself feel or talk about my brother's death, it will only make things worse and no one will support me. I have to handle this pain alone because my family avoids it. Expressing my emotions will lead to conflict or rejection.",
+  "intermediate_belief_depression": "If I try to talk about my brother or show how much I’m hurting, nothing will change and I’ll just feel more alone. There’s no point in reaching out because it won’t help.",
+  "coping_strategies": "The client tends to avoid conversations or situations that remind them of the brother or the family conflict, withdrawing from family gatherings or discussions. They may distract themselves with activities or suppress their emotions to avoid feeling the pain of the loss. These strategies help manage distress in the short term but maintain unresolved grief and isolation.",
+  "situation": "Noticing that the brother's birthday is approaching.",
+  "auto_thought": "I can’t let myself think about his birthday or I’ll fall apart. No one else wants to talk about it, so I have to keep it to myself.",
+  "emotion": [
+    "sad",
+    "lonely",
+    "anxious",
+    "isolated",
+    "tense"
+  ],
+  "behavior": "Avoids mentioning the birthday to family or friends. Withdraws from family interactions and distracts self with other activities. Suppresses thoughts and emotions related to the loss.",
+  "rationale": "\"The ongoing family conflict about discussing the loss suggests that the patient might feel isolated or unsupported in processing these emotions.\" \"The restriction from accessing talk therapy could have led to internalized beliefs about the appropriateness of seeking help or expressing emotions.\" \"Behaviorally, the patient might exhibit avoidance of conversations or situations that remind them of the brother or the family conflict.\" \"The patient may also engage in behaviors aimed at distraction or emotional numbing, such as excessive work, social media use, or other activities that prevent dwelling on the loss.\""
+}

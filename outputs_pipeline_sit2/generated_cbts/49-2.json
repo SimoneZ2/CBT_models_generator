@@ -1,0 +1,50 @@
+{
+  "name": "CBT Cognitive Conceptualization for Family Loss Reflection",
+  "id": "49-2",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The patient has a longstanding history of complex and strained family relationships, especially with the father and maternal grandmother. The father is described as a source of misery and dissatisfaction, which has contributed to a tense family environment. The maternal grandmother's negative influence particularly affected the patient's mother, further complicating family dynamics. These patterns have likely shaped the patient's emotional responses and coping mechanisms, as suggested by the report's emphasis on ruminative thinking and difficulty reconciling feelings of duty with past grievances.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I allow myself to feel relief or indifference about my father's or grandmother's death, then I am a bad person and my feelings are wrong. I must respond in the 'right' way, even if it doesn't match how I actually feel. If I don't mourn properly, it means I am cold or ungrateful.",
+  "intermediate_belief_depression": "If I can't feel the expected sadness or connection when thinking about their deaths, it means something is wrong with me and I will always feel disconnected or empty.",
+  "coping_strategies": "The patient tends to avoid family discussions and situations that evoke strong emotions about the father or grandmother. They may suppress or control emotional expression, preferring to process feelings privately and intellectually rather than openly. The patient may also seek reassurance from others to validate their emotional responses.",
+  "situation": "Reflecting on the potential death of the father and the grandmother.",
+  "auto_thought": "If they die, I don't know if I'll feel what I'm supposed to feel. Maybe I'll just feel relief, and that makes me a bad person.",
+  "emotion": [
+    "guilty",
+    "anxious",
+    "conflicted",
+    "sad",
+    "ashamed",
+    "resentful"
+  ],
+  "behavior": "Withdraws from conversations about family loss. Suppresses emotional expression in front of others. Ruminates privately about whether their feelings are appropriate.",
+  "rationale": "The report notes 'conflicting emotions, such as relief mixed with guilt or sadness,' and that the patient 'might also question their emotional responses, wondering if they are appropriate or sufficient.' It also highlights 'a tendency to control emotional expression' and 'avoidance behaviors, such as withdrawing from family discussions.' The intermediate beliefs are drawn from the report's mention of difficulty reconciling feelings of duty and affection with past grievances, and the coping strategies reflect the described patterns of avoidance, suppression, and seeking reassurance.",
+  "core_belief_predictions": {
+    "source_id": "49-2",
+    "major_pred_set": [
+      "helpless",
+      "worthless"
+    ],
+    "fine_pred_set": [
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am worthless, waste"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

@@ -1,0 +1,108 @@
+Using description: HISTORY:
+- In a relationship with a partner who has a demanding work schedule.
+- The partner is frequently absent during the week.
+- The patient takes on household responsibilities.
+- History includes prolonged separations from parents in childhood.
+
+SITUATION:
+- Not receiving communication from the partner during the day and attempting to make contact. with ID=17-1
+Top results (by metadata similarity):
+  - sim=0.688 | title='Verilogue session: Client discusses her problems with her spouse and how differe' | file='1003009238.txt'
+  - sim=0.673 | title='Session 1: Client gives therapist some background.  She opens up about her fathe' | file='1000013299.txt'
+  - sim=0.666 | title='Verilogue session: Client's mood has been down and depressed' | file='1003009224.txt'
+  - sim=0.661 | title='Session 16: Client discusses her problems sleeping. She talks about being more a' | file='1000122009.txt'
+  - sim=0.652 | title='Verilogue session: Client talks about money problems and her job' | file='1002565853.txt'
+  - sim=0.651 | title='Patient "J", Session July 20, 2012: Client is having a hard time letting go of t' | file='1004687592.txt'
+  - sim=0.648 | title='Verilogue session: Client suffers from auditory hallucinations' | file='1001083984.txt'
+  - sim=0.646 | title='Verilogue session: Client is experiencing loneliness and depression. She has bee' | file='1001084031.txt'
+  - sim=0.646 | title='Session 6: Client feels that her marriage may mean more to her than she thought.' | file='1000088106.txt'
+  - sim=0.646 | title='Session Xa: Client feels guilty about her communication problems in her marriage' | file='1000013280.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=0 partial_match=10
+match_used=PARTIAL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.688 | file='1003009238.txt' | title='Verilogue session: Client discusses her problems with her spouse and how differe'
+  - sim=0.673 | file='1000013299.txt' | title='Session 1: Client gives therapist some background.  She opens up about her fathe'
+  - sim=0.666 | file='1003009224.txt' | title='Verilogue session: Client's mood has been down and depressed'
+Using top selected file for transcript: '1003009238.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is in a relationship with a partner who has a demanding work schedule, resulting in frequent absences during the week. The patient assumes the majority of household responsibilities. Additionally, the patient has a history of prolonged separations from parents during childhood. Currently, the patient experiences a lack of communication from the partner during the day and makes attempts to initiate contact.
+
+**Cognitive and Emotional Impact:**
+
+1. **Feelings of Loneliness and Isolation:**
+   - The frequent absence of the partner due to work commitments likely contributes to feelings of loneliness and isolation. The patient's attempts to make contact during the day suggest a need for connection and reassurance, which is unmet, potentially exacerbating these feelings.
+
+2. **Anxiety and Uncertainty:**
+   - The lack of communication from the partner may lead to anxiety and uncertainty about the relationship's status and the partner's well-being. This uncertainty can cause the patient to ruminate on potential negative outcomes, increasing stress levels.
+
+3. **Responsibility and Overwhelm:**
+   - Taking on household responsibilities in the partner's absence might lead to feelings of being overwhelmed. The patient may experience stress from managing these tasks alone, which could be compounded by the emotional burden of feeling unsupported.
+
+4. **Impact of Childhood Separations:**
+   - The history of prolonged separations from parents during childhood may influence the patient's current emotional responses. Such early experiences can contribute to attachment-related concerns, potentially heightening sensitivity to the partner's absences and communication gaps.
+
+**Behavioral Responses:**
+
+1. **Attempts to Initiate Contact:**
+   - The patient's efforts to reach out to the partner during the day indicate a proactive approach to seeking reassurance and maintaining the connection. This behavior suggests a coping mechanism aimed at reducing anxiety and loneliness.
+
+2. **Assumption of Household Responsibilities:**
+   - By taking on household duties, the patient demonstrates a sense of responsibility and adaptability. However, this may also lead to feelings of resentment or burnout if perceived as an unequal distribution of tasks.
+
+3. **Potential for Withdrawal:**
+   - In response to unmet emotional needs, the patient might withdraw emotionally or socially, focusing inward or reducing engagement in activities that previously brought joy or connection.
+
+**Coping Styles:**
+
+1. **Seeking Reassurance:**
+   - The patient's attempts to communicate with the partner during the day reflect a coping style centered on seeking reassurance and validation of the relationship's stability.
+
+2. **Adaptation and Problem-Solving:**
+   - The patient shows adaptability by managing household responsibilities, indicating a problem-solving approach to coping with the partner's absence.
+
+3. **Potential for Ruminative Thinking:**
+   - Given the lack of communication and history of separations, the patient may engage in ruminative thinking, focusing on negative thoughts or scenarios, which could exacerbate feelings of anxiety and sadness.
+
+**Conclusion:**
+The patient's current situation, characterized by a partner's demanding work schedule and lack of communication, likely impacts their emotional well-being, leading to feelings of loneliness, anxiety, and overwhelm. The history of childhood separations may further influence these responses, contributing to attachment-related concerns. The patient employs coping strategies such as seeking reassurance and managing responsibilities, but may benefit from exploring additional coping mechanisms to address emotional needs and reduce stress.
+Summary da mistral_.csv: In this therapy session, the patient discussed her relationship with her significant other, who she described as having no concept of what she wants or needs. She mentioned that he has informed her that he doesn't have a problem and that she has been working on herself instead. The physician suggested that the patient could try to figure out what her partner wants and likes and reward him for desired behaviors. The patient acknowledged the difference in their emotional and feeling-oriented natures and expressed frustration with the disconnect between them. She listed the various tasks she handles in the household and her work outside the home, while her partner primarily focuses on work. The physician suggested assigning specific tasks to her partner, such as cooking on Wednesday nights, to make him feel more involved in the family. The patient mentioned that they don't discuss their relationship much and that she finds his irritating behaviors frustrating.
+The patient discusses their partner's routine and their three children's ages. They mention their weekly therapy sessions with [NAME OTHER] and their difficulty discussing hard topics with them. The patient expresses concern about their memory and a recent incident where they couldn't recall the name of an apostrophe. They mention taking Pristiq for anxiety and depression, and express concern about their memory and the potential side effects. They also mention taking Lunesta for sleep and being concerned about their allergy to sulfa drugs. The doctor discusses refilling prescriptions for Lunesta and Adderall, and the patient mentions wanting to come back for therapy in six weeks. They also discuss insurance coverage for Adderall and the possibility of a change in policy.
+
+ REFINED CCD: description + report
+{
+  "history": "The patient is in a relationship where the partner is frequently absent due to a demanding work schedule, leading the patient to take on most household responsibilities. There is a history of prolonged separations from parents in childhood, which may contribute to heightened sensitivity to absence and unmet emotional needs. The patient attempts to maintain connection by reaching out to the partner during the day, but often does not receive communication in return. These patterns suggest early attachment disruptions influencing current relationship dynamics.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not able to reach my partner or get a response, it means I am not valued or important to them. If I am left alone or ignored, it confirms that people close to me will not be there when I need them. I must try to maintain contact or I risk being abandoned or forgotten.",
+  "intermediate_belief_depression": "If I can't get a response from my partner, it means I am alone and nothing I do will change that. No matter how hard I try, I will always end up feeling isolated and unsupported.",
+  "coping_strategies": [
+    "The patient frequently attempts to contact the partner during the day to seek reassurance and maintain connection. When communication is not received, the patient may ruminate on negative thoughts and withdraw emotionally. The patient also takes on household responsibilities, which may serve as a distraction but can lead to overwhelm and resentment."
+  ],
+  "situation": "Not receiving communication from the partner during the day and attempting to make contact.",
+  "auto_thought": "They aren't replying because I'm not important to them. I'm being left alone again, just like before.",
+  "emotion": [
+    "lonely",
+    "anxious",
+    "rejected",
+    "sad",
+    "uncertain",
+    "hurt"
+  ],
+  "behavior": "I check my phone repeatedly and send more messages to my partner. When there is still no response, I withdraw and feel more isolated."
+}

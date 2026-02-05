@@ -1,0 +1,28 @@
+{
+  "name": "Client 1927-112",
+  "id": "Case-Example-01",
+  "type": [
+    "CBT",
+    "Couples Therapy"
+  ],
+  "history": "Ongoing work-related uncertainty and anxiety. Married recently; the relationship included instances of physical abuse by spouse Ivan and resulted in separation. Both partners are interested in resolving issues and are attending couples therapy.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to resolve issues to feel secure in my relationship.",
+  "intermediate_belief_depression": "I am not making progress in therapy, which means I am failing.",
+  "coping_strategies": "Discussing issues with spouse and considering different therapy options.",
+  "situation": "Exposed to clinical terms used to describe the spouse's behavior during therapy sessions.",
+  "auto_thought": "I am not making any progress, and therapy isn't helping.",
+  "emotion": [
+    "Depressed",
+    "Anxious"
+  ],
+  "behavior": "Considering quitting current therapy and exploring other treatment options."
+}

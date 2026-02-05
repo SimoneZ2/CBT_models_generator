@@ -1,0 +1,36 @@
+{
+  "name": "CBT Cognitive Conceptualization for Cousin's Wedding RSVP Avoidance",
+  "id": "case001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a history of substance abuse and has completed rehabilitation, indicating a significant emotional journey. He reports ongoing family difficulties, especially with his mother, characterized by rejection and emotional neglect. He has struggled with obesity since childhood and has experienced bullying related to his weight. These experiences have likely contributed to low self-esteem, shame, and a sense of being unlovable or inadequate. The pattern of avoidance in social situations appears to be longstanding and connected to these early experiences.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I put myself in social situations, people will judge or reject me because of my weight and past. It's safer to avoid these situations than risk feeling humiliated or unwanted. I have to protect myself from being hurt again, especially by family.",
+  "intermediate_belief_depression": "No matter what I do, nothing will change how my family sees me or how I feel about myself. There's no point in trying because I'll just end up feeling rejected and alone again.",
+  "coping_strategies": "He avoids responding to invitations and withdraws from family contact to manage anxiety and protect himself from anticipated rejection or negative evaluation. This avoidance reduces immediate distress but maintains his isolation and reinforces negative beliefs about himself and others. In the past, he used substances to cope with emotional pain, but now relies more on withdrawal and avoidance.",
+  "situation": "Received an invitation to a cousin's upcoming wedding. Has not responded to the RSVP request and has not answered follow-up calls from family members.",
+  "auto_thought": "If I go, everyone will judge me for my weight and think I'm a failure. It's better if I just don't show up so I don't have to face their rejection.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "embarrassed",
+    "sad",
+    "lonely",
+    "fearful"
+  ],
+  "behavior": "He ignores the RSVP request and avoids answering follow-up calls from family members. He withdraws from communication and does not engage with the invitation.",
+  "rationale": "\"The invitation to the cousin's wedding may trigger anxiety and fear of judgment or rejection, leading to avoidance behaviors.\" \"The ongoing family difficulties, particularly the perceived rejection and emotional neglect from his mother, may contribute to feelings of sadness, loneliness, and worthlessness.\" \"The longstanding obesity and bullying experiences likely exacerbate feelings of shame, embarrassment, and low self-esteem.\" \"The patient's avoidance of responding to the wedding invitation and follow-up calls suggests a pattern of withdrawal and avoidance in response to anxiety-provoking situations.\""
+}

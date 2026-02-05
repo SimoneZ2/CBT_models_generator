@@ -1,0 +1,31 @@
+{
+  "name": "PhD Candidate",
+  "id": "002",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "PhD candidate engaged in scientific research. References to a sequencing-related study and a colleague named Kelly. Working on a project with a senior scientist who has struggled to gain recognition in his career.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must work harder to be recognized.",
+  "intermediate_belief_depression": "I am not good enough compared to others.",
+  "coping_strategies": "Overworking to compensate for feelings of inadequacy.",
+  "situation": "Comparing themselves to colleagues who work longer hours and publish more papers.",
+  "auto_thought": "I will never be as successful as my colleagues.",
+  "emotion": [
+    "Anxiety",
+    "Inadequacy"
+  ],
+  "behavior": "Working excessively long hours and feeling anxious about productivity.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Rachel",
+  "id": "rachel-ccd-001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "Rachel has a pattern of recurring relationship problems with her husband Ivan, which may contribute to ongoing emotional distress. She is under significant work-related stress, recently intensified by being laid off and actively searching for new employment. Her sister Emma often takes a caring, supportive role, which may provide comfort but also foster dependency. Rachel's father had a successful career and strong work ethic, shaping Rachel's high expectations for herself and her sense of self-worth. These influences appear to contribute to her self-critical thinking and vulnerability to feelings of inadequacy, especially in the face of setbacks like job rejection.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet high standards or succeed in my career, then I am not good enough and others will see me as a failure. I must always achieve to prove my value, otherwise I am letting myself and my family down. My self-worth is directly tied to my professional accomplishments.",
+  "intermediate_belief_depression": "If I keep failing to get a job, it means I will never be successful and there is no point in trying. My efforts are useless, and nothing I do will change my situation.",
+  "coping_strategies": "Rachel tends to withdraw and avoid social interactions or job search activities when faced with setbacks, such as a job rejection. She seeks reassurance from her sister Emma, which provides temporary relief but does not address her underlying beliefs or distress. She also ruminates on her perceived failures, repeatedly thinking about her shortcomings instead of taking constructive action.",
+  "situation": "Received a job rejection email while searching for work.",
+  "auto_thought": "I'm never going to get hired. This just proves I'm not good enough.",
+  "emotion": [
+    "disappointed",
+    "anxious",
+    "ashamed",
+    "frustrated",
+    "sad"
+  ],
+  "behavior": "She withdraws from others and avoids applying to more jobs for a while. She seeks comfort and reassurance from her sister Emma. She spends time ruminating about her rejection and what it means about her abilities.",
+  "rationale": "\"The job rejection email may reinforce feelings of inadequacy or failure, particularly given her father's successful career and the high expectations she has internalized.\" \"This could lead to self-critical thoughts and a tendency to ruminate on perceived shortcomings.\" \"Rachel may engage in avoidance behaviors, such as procrastinating on job applications or withdrawing from social interactions to manage her stress.\" \"She might also engage in rumination, repeatedly thinking about her job rejection and relationship problems without taking constructive action.\" \"Given her father's influence, Rachel may have internalized a belief that her worth is tied to her career success, leading to feelings of shame or embarrassment when faced with setbacks.\""
+}

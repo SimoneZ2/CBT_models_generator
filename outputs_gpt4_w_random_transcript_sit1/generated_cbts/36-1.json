@@ -1,0 +1,26 @@
+{
+  "name": "Client",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Elevated stress related to financial difficulties and relationship instability. Heavy workload due to technical issues at work and covering responsibilities when coworker Chet is absent. Friends often have crises and make emotional demands. Considering asking parents for financial help to cover therapy costs around an upcoming birthday. Upcoming convention and upcoming visit with parents.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be cheerful to avoid making others uncomfortable.",
+  "intermediate_belief_depression": "If I express my true feelings, others will reject me.",
+  "coping_strategies": "Avoids confrontation by being cheerful and accommodating, even when frustrated.",
+  "situation": "Discovered that their bank balance was lower than expected.",
+  "auto_thought": "I can't express my frustration because it will lead to conflict.",
+  "emotion": [
+    "Frustration",
+    "Anxiety",
+    "Anger"
+  ],
+  "behavior": "Suppresses true feelings and acts cheerful to maintain harmony."
+}

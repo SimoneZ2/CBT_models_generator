@@ -1,0 +1,1559 @@
+[
+  {
+    "name": "John Doe",
+    "id": "1-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "History of substance abuse and completed rehabilitation. Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect. Longstanding obesity since childhood. Past experiences of bullying related to weight.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable",
+      "I am incompetent"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I don't meet expectations, I will be rejected.",
+    "intermediate_belief_depression": "I can't change my situation, so there's no point in trying.",
+    "coping_strategies": "Avoidance of situations that might lead to rejection or failure.",
+    "situation": "Missed an alarm and woke up late for work.",
+    "auto_thought": "I'm going to get in trouble and everyone will see me as unreliable.",
+    "emotion": [
+      "Anxiety",
+      "Shame"
+    ],
+    "behavior": "Rushed to work in a state of panic, possibly leading to mistakes.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study: Family Dynamics and Approval Seeking",
+    "id": "2-2",
+    "type": [
+      "CBT",
+      "Family Dynamics"
+    ],
+    "history": "Recent family tension related to a conversation with parents about a wedding list. The patient noticed similarities between their own actions and their father's patterns. The father is described as repeatedly seeking approval and unconditional love from family members.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [
+      "I am worthless, waste"
+    ],
+    "intermediate_belief": "I must prove my worth to be accepted.",
+    "intermediate_belief_depression": "If I don't meet expectations, I will be rejected.",
+    "coping_strategies": "Seeking approval and validation from others, being defensive or aggressive when challenged.",
+    "situation": "Observing the father's ongoing pursuit of approval from his sister.",
+    "auto_thought": "I need to prove myself to be accepted.",
+    "emotion": [
+      "Anxiety",
+      "Fear",
+      "Guilt"
+    ],
+    "behavior": "Becoming defensive or aggressive in conversations, seeking validation.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "PhD Candidate",
+    "id": "3-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "PhD candidate engaged in scientific research. References to a sequencing-related study and a colleague named Kelly. Working on a project with a senior scientist who has struggled to gain recognition in his career.",
+    "helpless_belief": [
+      "I am incompetent",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [
+      "I am worthless, waste"
+    ],
+    "intermediate_belief": "I must work harder to be recognized.",
+    "intermediate_belief_depression": "I am not good enough compared to others.",
+    "coping_strategies": "Overworking to compensate for feelings of inadequacy.",
+    "situation": "Comparing themselves to colleagues who work longer hours and publish more papers.",
+    "auto_thought": "I will never be as successful as my colleagues.",
+    "emotion": [
+      "Anxiety",
+      "Inadequacy"
+    ],
+    "behavior": "Working excessively long hours and feeling anxious about productivity.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Patient X",
+    "id": "4-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Recent shoulder surgery with a painful recovery process. Ongoing pain, numbness, and tingling related to a herniated cervical disc. Prior history of physical therapy for past walking difficulties and back issues. Past prolonged illness associated with a period of immobility. Started a new relationship and later experienced a return of physical symptoms.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "I must endure pain and limitations without complaint.",
+    "intermediate_belief_depression": "My physical limitations define my worth.",
+    "coping_strategies": "Avoidance of activities that might exacerbate pain, reliance on others for support.",
+    "situation": "Attending a Halloween party while in persistent pain.",
+    "auto_thought": "I won't be able to enjoy the party because of my pain.",
+    "emotion": [
+      "Anxiety",
+      "Frustration"
+    ],
+    "behavior": "Withdrawn and less engaged in social activities.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "John Doe",
+    "id": "5-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Worked overseas and built a website related to that work. Recurrent pattern of starting new ideas and later abandoning projects when difficulties arise. Family-related difficulty involving his father; wrote a personal letter as part of a forgiveness process.",
+    "helpless_belief": [
+      "I am incompetent",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must always be in control to avoid failure.",
+    "intermediate_belief_depression": "If I can't maintain control, everything will fall apart.",
+    "coping_strategies": "Avoidance of difficult tasks and situations to prevent perceived failure.",
+    "situation": "Reflecting on past achievements alongside current challenges.",
+    "auto_thought": "I can't handle this; I'm going to fail.",
+    "emotion": [
+      "Anxiety",
+      "Sadness"
+    ],
+    "behavior": "Avoids engaging deeply with new projects or relationships.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "28-year-old student",
+    "id": "6-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "28-year-old student. Returned from Egypt. Previously relied on parents for support and is now managing bills, finances, and health insurance independently for the first time. Brother remains financially dependent on parents.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [
+      "I am worthless, waste"
+    ],
+    "intermediate_belief": "I must handle everything on my own or I am a failure.",
+    "intermediate_belief_depression": "If I can't manage my finances and health insurance, I am a burden.",
+    "coping_strategies": "Avoidance of dealing with financial and insurance issues due to feeling overwhelmed.",
+    "situation": "Received an insurance claim with an unexpected balance.",
+    "auto_thought": "I don't deserve health insurance because I don't have a job.",
+    "emotion": [
+      "Anxiety",
+      "Hopelessness",
+      "Frustration"
+    ],
+    "behavior": "Avoids making necessary phone calls and taking steps to resolve insurance issues.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "John Doe",
+    "id": "7-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization Diagram"
+    ],
+    "history": "History of long work hours in demanding work environments, including past touring work. Unresolved issues with father, including reports of past abuse. Recent exchange of letters with father addressing this history.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [
+      "I am worthless, waste"
+    ],
+    "intermediate_belief": "I must work hard to prove my worth.",
+    "intermediate_belief_depression": "If I don't work hard, I will be seen as a failure.",
+    "coping_strategies": "Overworking to avoid feelings of inadequacy and to gain approval.",
+    "situation": "Reflecting on how to use idle time and focus on personal development.",
+    "auto_thought": "If I don't keep busy, I'll be overwhelmed by my problems.",
+    "emotion": [
+      "Anxiety",
+      "Frustration"
+    ],
+    "behavior": "Avoidance of personal issues by staying busy with work.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Patient X",
+    "id": "8-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Past traumatic incident involving sexual assault by partner Ivan. Ongoing relationship difficulties involving trust and intimacy. Reports some improvement in relationship dynamics with Ivan making efforts to rebuild trust.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I let my guard down, I will be hurt again.",
+    "intermediate_belief_depression": "I can't trust anyone to care for me.",
+    "coping_strategies": "Avoidance of intimacy and emotional withdrawal.",
+    "situation": "Ivan touches the patient in a way that reminds her of the past assault.",
+    "auto_thought": "I can't believe this is happening again. I need to protect myself.",
+    "emotion": [
+      "Fear",
+      "Anxiety"
+    ],
+    "behavior": "Withdrawal and avoidance of physical contact.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study: Roommate Conflict",
+    "id": "9-2",
+    "type": [
+      "CBT",
+      "Interpersonal Conflict"
+    ],
+    "history": "Long-standing friendship with Jersey, who has had multiple surgeries related to disabilities. The patient has previously provided support during Jersey's medical procedures and recovery. Ongoing conflict with roommate Ashby over household issues.",
+    "helpless_belief": [
+      "I am trapped",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "If I confront Ashby, it will lead to a conflict that I cannot handle.",
+    "intermediate_belief_depression": "I am responsible for maintaining peace, even if it means sacrificing my own comfort.",
+    "coping_strategies": "Avoiding confrontation and trying to manage household tasks alone.",
+    "situation": "The kitchen becomes dirty because Ashby does not take out the trash after cooking.",
+    "auto_thought": "Ashby is not doing her share, and I can't make her change.",
+    "emotion": [
+      "Frustration",
+      "Anxiety",
+      "Helplessness"
+    ],
+    "behavior": "Avoids direct confrontation and takes on additional household responsibilities.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study: Post-Divorce Adjustment",
+    "id": "10-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Recent divorce. Financial struggles and adjustment to single life. Co-parenting. Multiple friendships deteriorated after the divorce. Complicated relationship with parents.",
+    "helpless_belief": [
+      "I am trapped",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must maintain friendships even if they are draining.",
+    "intermediate_belief_depression": "I am responsible for fixing others' problems.",
+    "coping_strategies": "Avoids confrontation and maintains draining friendships to avoid feelings of guilt.",
+    "situation": "Experiencing the breakdown of friendships following the divorce.",
+    "auto_thought": "I can't let go of these friendships because they need me.",
+    "emotion": [
+      "Guilt",
+      "Sadness",
+      "Frustration"
+    ],
+    "behavior": "Continues to engage in emotionally draining friendships despite personal cost.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Patient X",
+    "id": "11-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "History of isolation and chronic depression since late adolescence. Past difficulties with friendships. Recent breakup preceding a relapse into a depressive episode. History of taking SSRIs and recent medication adjustments following the relapse.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am incompetent"
+    ],
+    "unlovable_belief": [
+      "I am undesirable, unwanted",
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [
+      "I am worthless, waste"
+    ],
+    "intermediate_belief": "If I don't perform perfectly, I will be rejected.",
+    "intermediate_belief_depression": "I must be perfect to be accepted.",
+    "coping_strategies": "Avoidance of social situations and reliance on isolation.",
+    "situation": "Planned a weekend for sewing and catching up on work tasks. Was unable to focus on familiar tasks and spent the day watching television.",
+    "auto_thought": "I can't do anything right.",
+    "emotion": [
+      "Sadness",
+      "Frustration"
+    ],
+    "behavior": "Avoidance of tasks and procrastination.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study: Jazz Group Leadership",
+    "id": "12-2",
+    "type": [
+      "CBT Cognitive Conceptualization Diagram"
+    ],
+    "history": "PhD student in a science field. Deep involvement in music; previously led a college band and currently participates in a jazz group. Offered a leadership position in the jazz group and declined. Reports mental health struggles. Feels disconnected from colleagues in the scientific work environment due to differing values and work habits.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must avoid taking on too much responsibility to prevent failure.",
+    "intermediate_belief_depression": "If I take on more than I can handle, I will fail and be overwhelmed.",
+    "coping_strategies": "Avoidance of leadership roles and additional responsibilities.",
+    "situation": "Offered a leadership position in the jazz group and decided not to accept it due to concern about managing responsibilities alongside PhD work and mental health.",
+    "auto_thought": "I can't handle the pressure of a leadership role right now.",
+    "emotion": [
+      "Anxiety",
+      "Fear of failure"
+    ],
+    "behavior": "Declined the leadership position in the jazz group.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Patient X",
+    "id": "13-2",
+    "type": [
+      "CBT",
+      "Grief Counseling"
+    ],
+    "history": "Death of a close aunt whom the patient considered a mother figure. The patient did not fulfill the aunt's last request and was not present at the time of death. Pattern of prioritizing others' needs over their own.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be alone"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must always be there for others or I will be alone.",
+    "intermediate_belief_depression": "If I am not there for others, I am a failure.",
+    "coping_strategies": "Prioritizing others' needs over personal desires.",
+    "situation": "On the way to watch a movie, received a call from a friend seeking emotional support. Chose to give up the movie and talked with the friend for about an hour.",
+    "auto_thought": "If I don't help, I will be a bad friend and be alone.",
+    "emotion": [
+      "Anxiety",
+      "Guilt"
+    ],
+    "behavior": "Gave up personal plans to support a friend.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study: Financial and Career Stress",
+    "id": "14-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Financial difficulties following questionable investments. Increased reliance on parents for financial assistance.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "I must avoid making mistakes to prevent negative outcomes.",
+    "intermediate_belief_depression": "I am unable to make the right decisions for my future.",
+    "coping_strategies": "Avoid discussing financial and career plans with parents to prevent conflict.",
+    "situation": "A discussion with family members about future plans and potential career changes.",
+    "auto_thought": "My parents will not understand and will criticize my decisions.",
+    "emotion": [
+      "Anxiety",
+      "Frustration"
+    ],
+    "behavior": "Avoidance of conversations with parents about career and financial plans.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Karen",
+    "id": "15-2",
+    "type": [
+      "CBT",
+      "Workplace Stress"
+    ],
+    "history": "Ongoing workplace difficulties involving underappreciation and lack of support. Repeated experiences of ideas and suggestions not being accepted.",
+    "helpless_belief": [
+      "I am incompetent",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I don't perform perfectly, I will be criticized and dismissed.",
+    "intermediate_belief_depression": "I am not good enough to be respected or valued at work.",
+    "coping_strategies": "Avoid confrontation and internalize feelings of frustration.",
+    "situation": "Colleagues praise a coworker and ask the patient for help with technology issues related to that coworker.",
+    "auto_thought": "They don't value my contributions and only see my mistakes.",
+    "emotion": [
+      "Frustration",
+      "Anxiety",
+      "Helplessness"
+    ],
+    "behavior": "Avoids speaking up in meetings and internalizes stress.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "John Doe",
+    "id": "16-2",
+    "type": [
+      "Depression",
+      "Anxiety"
+    ],
+    "history": "Spent about one year working on a project in Europe involving building a website and conducting interviews. Reports pride in the work and a wish to share the results. Past history of procrastination and anxiety. Uses strategies learned from a course and reminders to manage daily life.",
+    "helpless_belief": [
+      "I am incompetent",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be alone"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must have a clear direction in life to be successful.",
+    "intermediate_belief_depression": "If I don't have a clear path, I will fail.",
+    "coping_strategies": "Uses reminders and strategies from a course to manage daily life. Engages in small projects like cooking to distract from negative thoughts.",
+    "situation": "Facing ambiguity about life direction and choices, with many options to consider.",
+    "auto_thought": "I don't know what I want to do with my life, and that means I'm failing.",
+    "emotion": [
+      "Anxiety",
+      "Melancholy",
+      "Worry"
+    ],
+    "behavior": "Procrastinates and avoids making decisions about the future. Engages in activities like drumming and cooking to distract from worries.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Sarah",
+    "id": "17-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization Diagram"
+    ],
+    "history": "Sarah is in a long-term relationship with Amelia. Amelia has a demanding professional schedule. Sarah feels isolated during the week. Sarah does most household tasks and does not discuss resentment with Amelia. History includes childhood separations from parents associated with distress.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must not express my needs or I will be abandoned.",
+    "intermediate_belief_depression": "I am not important enough to have my needs met.",
+    "coping_strategies": "Avoids discussing feelings and needs with Amelia to prevent conflict.",
+    "situation": "Doing laundry and thinking about the future of the relationship and her domestic role.",
+    "auto_thought": "If I express my dissatisfaction, Amelia will leave me.",
+    "emotion": [
+      "Anxiety",
+      "Resentment"
+    ],
+    "behavior": "Suppresses feelings and continues to perform household tasks without discussing them.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Alex",
+    "id": "18-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Academic underperformance despite being described as intelligent. Attended a college (institution X), felt isolated, and dropped out. About two years of credits remain to complete the degree. Mother had high expectations. Financial difficulties and pressure from the mother to return home.",
+    "helpless_belief": [
+      "I am incompetent",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must meet my mother's expectations to be valued.",
+    "intermediate_belief_depression": "If I fail to meet expectations, I am a disappointment.",
+    "coping_strategies": "Avoidance of challenging tasks and seeking escape through temporary distractions.",
+    "situation": "Seeking financial help from parents. Recent family conversation included discussion of the college dropout experience.",
+    "auto_thought": "I can't succeed on my own.",
+    "emotion": [
+      "Anxiety",
+      "Shame"
+    ],
+    "behavior": "Avoids discussing future plans and relies on parents for financial support.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Rachel",
+    "id": "19-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Rachel has recurring relationship problems with her husband Ivan. Work-related stress. Sister Emma often takes a caring role toward Rachel. Father had a successful career and strong work ethic, influencing Rachel's expectations. Recently laid off and currently looking for new employment.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must meet high expectations to be valued.",
+    "intermediate_belief_depression": "If I fail to meet expectations, I am a failure.",
+    "coping_strategies": "Avoids taking risks to prevent failure.",
+    "situation": "Received a job rejection email while searching for work.",
+    "auto_thought": "I will never find a job that meets my expectations.",
+    "emotion": [
+      "Disappointment",
+      "Anxiety"
+    ],
+    "behavior": "Withdraws from job searching temporarily.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Patient X",
+    "id": "20-2",
+    "type": [
+      "CBT",
+      "Workplace Stress"
+    ],
+    "history": "Multiple past jobs involved micromanagement. Reports self-blame in work contexts.",
+    "helpless_belief": [
+      "I am incompetent",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "I must perform perfectly to avoid criticism.",
+    "intermediate_belief_depression": "If I make mistakes, I will be criticized and feel worthless.",
+    "coping_strategies": "Avoidance of tasks and procrastination due to fear of making mistakes.",
+    "situation": "Experiencing micromanagement at the workplace and considering resigning.",
+    "auto_thought": "I can't do anything right; everything is going wrong.",
+    "emotion": [
+      "Frustration",
+      "Helplessness",
+      "Anxiety"
+    ],
+    "behavior": "Avoidance of tasks, procrastination, and considering resignation.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study: Family and Relationship Conflicts",
+    "id": "21-2",
+    "type": [
+      "CBT",
+      "Family Conflict",
+      "Relationship Issues"
+    ],
+    "history": "History of family conflict with a dismissive and unsupportive father. Estrangement from the father. Ongoing stress related to partner's family, including a difficult relationship with the partner's sister-in-law.",
+    "helpless_belief": [
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must avoid conflict to keep the peace.",
+    "intermediate_belief_depression": "I am powerless to change my family dynamics.",
+    "coping_strategies": "Avoidance of family gatherings and confrontation.",
+    "situation": "Deciding how to address rude behavior from the partner's sister-in-law and whether to set boundaries.",
+    "auto_thought": "If I confront them, it will only make things worse.",
+    "emotion": [
+      "Anxiety",
+      "Guilt",
+      "Frustration"
+    ],
+    "behavior": "Avoids confrontation and feels trapped in family gatherings.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study: Ivan's Partner",
+    "id": "22-2",
+    "type": [
+      "CBT",
+      "Interpersonal"
+    ],
+    "history": "Ongoing interpersonal difficulties involving a partner named Ivan and his family. Recent trust and betrayal issues involving Ivan. Ongoing contact with Ivan's family.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must avoid conflict to maintain relationships.",
+    "intermediate_belief_depression": "If I express my true feelings, I will be abandoned.",
+    "coping_strategies": "Avoiding confrontation and suppressing emotions to maintain peace.",
+    "situation": "During an interaction with Ivan's family, the mother says 'boys will be boys' and asks the patient to 'forgive and forget'.",
+    "auto_thought": "If I confront them, they will reject me.",
+    "emotion": [
+      "Anxiety",
+      "Frustration"
+    ],
+    "behavior": "Suppresses feelings and avoids confrontation.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Patient A",
+    "id": "23-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Longstanding difficult interactions with the patient's mother. Strained communication and delayed sharing of significant events within the family.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must avoid conflict to keep the peace.",
+    "intermediate_belief_depression": "I am not capable of handling my emotions.",
+    "coping_strategies": "Avoidance of confrontation and compliance with others' demands.",
+    "situation": "Disagreement with mother about weekend plans and financial assistance. The mother covers expenses during the visit.",
+    "auto_thought": "I can't say no to her; I have no control.",
+    "emotion": [
+      "Frustration",
+      "Helplessness"
+    ],
+    "behavior": "Compliance with mother's wishes despite personal disagreement.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "John Doe",
+    "id": "24-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Past experiences of pressure related to performance and social interactions. Reports presenting a confident front and hiding vulnerability. A recent business failure led to financial hardship.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [],
+    "intermediate_belief": "If I show vulnerability, others will think less of me.",
+    "intermediate_belief_depression": "I must handle everything on my own to avoid being seen as a failure.",
+    "coping_strategies": "Avoids asking for help and tries to manage everything independently.",
+    "situation": "Took out a loan instead of asking family or friends for help. In social situations, acts to distract attention from financial difficulties.",
+    "auto_thought": "I can't let anyone know how bad things really are.",
+    "emotion": [
+      "Anxiety",
+      "Overwhelm"
+    ],
+    "behavior": "Avoids discussing financial issues with others and tries to maintain a facade of control.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Educational Setting Case",
+    "id": "25-2",
+    "type": [
+      "Cognitive Behavioral Therapy",
+      "Depression"
+    ],
+    "history": "Works in an educational setting with children who have learning disabilities. Describes being pampered by parents and having minimal consequences earlier in life. Ongoing conflicts with authority figures.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must avoid conflict to maintain peace.",
+    "intermediate_belief_depression": "If I confront others, I will be rejected.",
+    "coping_strategies": "Avoids direct confrontation with authority figures.",
+    "situation": "Proposed a new teaching method that was rejected by school leadership. Does not confront leadership directly about the decision.",
+    "auto_thought": "They will never accept my ideas.",
+    "emotion": [
+      "Frustration",
+      "Anxiety"
+    ],
+    "behavior": "Avoids discussing the rejection with leadership.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Client 1927-113",
+    "id": "26-1",
+    "type": [
+      "CBT",
+      "Couples Therapy"
+    ],
+    "history": "Ongoing work-related uncertainty and anxiety. Married recently; the relationship included instances of physical abuse by spouse Ivan and resulted in separation. Both partners are interested in resolving issues and are attending couples therapy.",
+    "helpless_belief": [
+      "I am trapped",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I need to resolve issues to feel secure.",
+    "intermediate_belief_depression": "If I can't resolve these issues, I will always feel anxious and uncertain.",
+    "coping_strategies": "Engaging in couples therapy to address relationship issues.",
+    "situation": "Exposed to clinical terms used to describe the husband's behavior, including 'delusional' and 'pseudo-psychotic'.",
+    "auto_thought": "I feel overwhelmed by the complexity of the situation.",
+    "emotion": [
+      "Anxiety",
+      "Fear",
+      "Hopelessness"
+    ],
+    "behavior": "Participating in therapy sessions but feeling stuck and unsure about progress.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study: Divorce Adjustment",
+    "id": "27-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Recent divorce and financial difficulties. Relationship since age 19. Has a young son and is settling child support issues. Adjusting to being alone and handling new experiences (e.g., traveling alone with her son, visiting family without a partner).",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be alone"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I need to maintain appearances to be accepted.",
+    "intermediate_belief_depression": "If I am alone, it means I am not worthy of love.",
+    "coping_strategies": "Avoid confrontation and seek validation from others.",
+    "situation": "At a birthday party, guests mention her divorce during casual conversation. Tries to maintain appearances and later continues thinking about the interaction.",
+    "auto_thought": "They must think I'm a failure because of my divorce.",
+    "emotion": [
+      "Embarrassment",
+      "Sadness"
+    ],
+    "behavior": "Avoids discussing personal issues and seeks reassurance from friends.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Ivan",
+    "id": "28-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "History of self-critical tendencies. Used to maintaining control and achieving goals. Current challenges involve job seeking, personal relationships, and family dynamics.",
+    "helpless_belief": [
+      "I am incompetent",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [
+      "I am worthless, waste"
+    ],
+    "intermediate_belief": "I must always be in control and achieve my goals to be valued.",
+    "intermediate_belief_depression": "If I fail to achieve my goals, I am worthless.",
+    "coping_strategies": "Avoidance of conflict and self-blame to maintain peace and control.",
+    "situation": "Conflict related to another person's (Ivan's) approach to job searching and life decisions.",
+    "auto_thought": "I am not doing enough; I am failing.",
+    "emotion": [
+      "Anxiety",
+      "Frustration",
+      "Fear"
+    ],
+    "behavior": "Avoidance of confrontation and self-criticism.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Research Lab Patient",
+    "id": "29-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Strong identification with a research lab workplace and a sense of camaraderie from interactions and accomplishments. A close coworker left, which had emotional significance for the patient. The lab contrasts with the patient's personal life, described as less predictable and comfortable.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be alone"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I don't get positive results, I am not competent.",
+    "intermediate_belief_depression": "Without positive results, I am not valuable.",
+    "coping_strategies": "Avoidance of scheduling meetings and reluctance to move on from experiments.",
+    "situation": "The departure of a valued colleague and the immediate impact of this change.",
+    "auto_thought": "I am afraid of being judged for not getting positive results.",
+    "emotion": [
+      "Confusion",
+      "Desperation",
+      "Shame",
+      "Sadness"
+    ],
+    "behavior": "Difficulty letting go of experiments and reluctance to take breaks.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study: Post-Graduation Family Dynamics",
+    "id": "30-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Recently completed an undergraduate degree and is entering the workforce. Came out to parents within the last two and a half years and received negative reactions. Became more distant from parents afterward. Moved to New York for education and explored identity away from family influence. Strained relationship with mother, described as focused on practical concerns rather than emotional support. Tension with sister described as envious of the patient's independence and achievements.",
+    "helpless_belief": [
+      "I am trapped",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I need to manage others' emotions to maintain peace.",
+    "intermediate_belief_depression": "I am responsible for others' happiness, and failing that makes me a bad person.",
+    "coping_strategies": "Avoidance of conflict and emotional discussions with family, focusing on personal achievements.",
+    "situation": "Recalling the experience of coming out to parents and the negative aftermath. Preparing for or having interactions with family while maintaining distance.",
+    "auto_thought": "If I don't manage the situation, it will become awkward and painful.",
+    "emotion": [
+      "Anxiety",
+      "Frustration",
+      "Sadness"
+    ],
+    "behavior": "Attempts to manage family interactions to minimize conflict, while feeling emotionally drained.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Patient X",
+    "id": "31-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Recent deaths in the family: an uncle and a cousin. Ongoing concern about parents' health. Father's health conditions include uncontrolled diabetes, high blood pressure, kidney problems, and high cholesterol. Tension with father related to emotional distance and lack of transparency about health issues.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must be strong and take care of others to be valued.",
+    "intermediate_belief_depression": "If I can't help or fix things, I am failing.",
+    "coping_strategies": "Avoidance of emotionally charged situations and people.",
+    "situation": "Thinking about the possibility of the father dying before the mother. Avoiding interaction with the father.",
+    "auto_thought": "I can't handle losing my father and the responsibilities that will come with it.",
+    "emotion": [
+      "Anxiety",
+      "Fear",
+      "Sadness"
+    ],
+    "behavior": "Avoidance of interaction with father and emotionally charged situations.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study",
+    "id": "32-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Strained relationships with parents and a history of feeling judged and disapproved of. Mother's health condition mentioned. Issues related to parental support during education. Mentions of the mother being described as 'broken' and allegations of a past affair.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [
+      "I am worthless, waste"
+    ],
+    "intermediate_belief": "I must prove myself to be accepted.",
+    "intermediate_belief_depression": "I am not good enough, and I will always be judged.",
+    "coping_strategies": "Avoidance of confrontation and seeking validation through achievements.",
+    "situation": "Received a work bonus for exceptional performance. During a call with parents about the bonus, they asked about job prospects.",
+    "auto_thought": "They don't care about my achievements; they only see my flaws.",
+    "emotion": [
+      "Frustration",
+      "Sadness"
+    ],
+    "behavior": "Withdrawing from conversations with parents and feeling demotivated.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Patient X",
+    "id": "33-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Involvement in a complex romantic situation with a person named Cleo. Cleo is in a long-distance relationship while also engaging with the patient.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I am not constantly vigilant, I will be hurt.",
+    "intermediate_belief_depression": "I cannot trust others, and I am destined to be alone.",
+    "coping_strategies": "Attempts to control the situation by monitoring Cleo's interactions.",
+    "situation": "Saw concerning text messages from another person on Cleo's device.",
+    "auto_thought": "Cleo is going to leave me for someone else.",
+    "emotion": [
+      "Anxiety",
+      "Fear"
+    ],
+    "behavior": "Checking Cleo's messages and seeking reassurance.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Patient A",
+    "id": "34-1",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Brother died by suicide when the patient was young. Ongoing family conflict about discussing the loss. Parents initially did not allow the patient to seek talk therapy after the death.",
+    "helpless_belief": [
+      "I am trapped",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must keep my emotions to myself to avoid conflict.",
+    "intermediate_belief_depression": "I can't change the past, so there's no point in trying to feel better.",
+    "coping_strategies": "Avoid discussing emotions and focus on taking care of others.",
+    "situation": "Realizing that the brother's birthday is approaching.",
+    "auto_thought": "I can't handle this; it's too overwhelming.",
+    "emotion": [
+      "Sadness",
+      "Anxiety"
+    ],
+    "behavior": "Withdraw from social interactions and avoid talking about the brother.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Patient 0324-006",
+    "id": "35-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization Diagram"
+    ],
+    "history": "Difficult family conversation with mother about not discussing pain and suffering in the family. Father avoids talk therapy and has distressing dreams related to his brother's suicide. The patient reports ongoing struggles related to separation and suffering.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected",
+      "I am bound to be abandoned"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must not show vulnerability or I will be overwhelmed.",
+    "intermediate_belief_depression": "If I express my true feelings, I will be rejected and abandoned.",
+    "coping_strategies": "Avoid discussing deep feelings and maintain emotional distance to prevent rejection.",
+    "situation": "Talking about feelings of disconnection with a person named Jeremy. Trying to describe a sense of detachment and associated pain.",
+    "auto_thought": "If I open up, I will be hurt and left alone.",
+    "emotion": [
+      "Fear",
+      "Anxiety",
+      "Sadness"
+    ],
+    "behavior": "Avoidance of deep emotional conversations and maintaining emotional distance.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "John Doe",
+    "id": "36-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Elevated stress related to financial difficulties and relationship instability. Heavy workload due to technical issues at work and covering responsibilities when coworker Chet is absent. Friends often have crises and make emotional demands. Considering asking parents for financial help to cover therapy costs around an upcoming birthday. Upcoming convention and upcoming visit with parents.",
+    "helpless_belief": [
+      "I am trapped",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected",
+      "I am bound to be alone"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must handle everything on my own or I will fail.",
+    "intermediate_belief_depression": "Nothing I do will make a difference.",
+    "coping_strategies": "Avoidance of tasks and responsibilities, withdrawal from social interactions.",
+    "situation": "At a convention, interacting with demanding friends while managing personal stress.",
+    "auto_thought": "I can't handle this; everything is falling apart.",
+    "emotion": [
+      "Anxiety",
+      "Frustration",
+      "Overwhelm"
+    ],
+    "behavior": "Withdrawal from activities, procrastination, snapping at others.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "John Doe",
+    "id": "37-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Past labor dispute in a previous workplace. Ongoing concerns related to fairness, pay, and authority at work.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [
+      "I am worthless, waste"
+    ],
+    "intermediate_belief": "I must work harder to prove my worth.",
+    "intermediate_belief_depression": "If I can't meet expectations, I am a failure.",
+    "coping_strategies": "Overworking and taking on too many responsibilities to avoid feeling inadequate.",
+    "situation": "Being asked to work beyond regular hours without additional compensation during an ongoing labor dispute.",
+    "auto_thought": "If I don't do this, I will be seen as incompetent and lose my job.",
+    "emotion": [
+      "Overwhelmed",
+      "Stressed",
+      "Anxious"
+    ],
+    "behavior": "Continuing to work extra hours despite personal cost, avoiding confrontation.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "John Doe",
+    "id": "38-2",
+    "type": [
+      "Depression",
+      "Work-related Stress"
+    ],
+    "history": "Health condition requiring time off work for physical therapy. Past interactions with HR and a supervisor related to return-to-work and disability status.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [
+      "I am a failure, loser"
+    ],
+    "intermediate_belief": "I must perform perfectly at work to be valued.",
+    "intermediate_belief_depression": "If I can't meet work expectations, I am a failure.",
+    "coping_strategies": "Avoidance of confrontation and seeking validation from coworkers.",
+    "situation": "Running into a coworker outside the workplace while on medical leave.",
+    "auto_thought": "They must think I'm not really sick.",
+    "emotion": [
+      "Anxiety",
+      "Shame"
+    ],
+    "behavior": "Avoiding eye contact and rushing away from the situation.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "John Doe",
+    "id": "39-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Recurrent stomachaches and physical symptoms associated with anxiety and stress. Past difficulties involving weight management, sexuality, and academic performance. Reports a transformation during college. Reports seeking control in relationships.",
+    "helpless_belief": [
+      "I am incompetent",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [
+      "I am worthless, waste"
+    ],
+    "intermediate_belief": "I must be perfect to be accepted.",
+    "intermediate_belief_depression": "If I can't be perfect, I am a failure.",
+    "coping_strategies": "Avoidance of commitment and self-sabotage in personal and professional areas.",
+    "situation": "Concern about losing positive aspects of life or returning to a previous unhappy state.",
+    "auto_thought": "I can't do anything right, so why try?",
+    "emotion": [
+      "Anxiety",
+      "Depression",
+      "Frustration"
+    ],
+    "behavior": "Procrastination, avoidance of responsibilities, and reluctance to engage in meaningful relationships.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study Example",
+    "id": "40-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Recent move and stress related to settling into a new living space. Difficult relationship with parents, especially mother, described as judgmental and emotionally unsupportive. Friendships have become strained, contributing to isolation.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must meet others' expectations to be accepted.",
+    "intermediate_belief_depression": "If I don't meet expectations, I will be rejected.",
+    "coping_strategies": "Avoidance of conflict and seeking reassurance from others.",
+    "situation": "Preparing for a conversation with mother and expecting it to be challenging and superficial.",
+    "auto_thought": "She will criticize me, and I won't be able to handle it.",
+    "emotion": [
+      "Anxiety",
+      "Guilt"
+    ],
+    "behavior": "Attempts to avoid confrontation and seeks to please others.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Patient X",
+    "id": "41-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Complex relationship history involving a person named Cricket that affected the patient's social circle. The patient often takes a caretaking role with friends, including a friend named Lucy with ongoing medical issues.",
+    "helpless_belief": [
+      "I am incompetent",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must take care of others to be valued.",
+    "intermediate_belief_depression": "If I fail to meet others' expectations, I am a failure.",
+    "coping_strategies": "Overextending oneself to meet others' needs and avoid rejection.",
+    "situation": "Friends are gathered outside the residence waiting while the patient is running late after work.",
+    "auto_thought": "They will be upset with me for being late.",
+    "emotion": [
+      "Anxiety",
+      "Guilt"
+    ],
+    "behavior": "Rushing to meet friends, feeling anxious about their reactions.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study Example",
+    "id": "42-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Recurrent dreams during graduate school about being unprepared for a thesis defense. Father described as having high expectations.",
+    "helpless_belief": [
+      "I am incompetent",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I don't meet expectations, I will be rejected.",
+    "intermediate_belief_depression": "I am not good enough, and I will never succeed.",
+    "coping_strategies": "Over-preparing and seeking approval from authority figures.",
+    "situation": "Receiving criticism during a work performance review.",
+    "auto_thought": "I am going to fail, and they will see how incompetent I am.",
+    "emotion": [
+      "Anxiety",
+      "Fear"
+    ],
+    "behavior": "Avoidance of tasks and procrastination.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study Example",
+    "id": "43-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Childhood experiences of emotional invalidation (e.g., being reprimanded for crying). History of depression.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I am not included, it means I am not valued.",
+    "intermediate_belief_depression": "I am not good enough to be included.",
+    "coping_strategies": "Avoidance and withdrawal from social situations.",
+    "situation": "Not invited to a dinner with friends by one acquaintance.",
+    "auto_thought": "They don't want me there because I'm not important.",
+    "emotion": [
+      "Sadness",
+      "Rejection"
+    ],
+    "behavior": "Withdrawal from social interactions.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study 2",
+    "id": "44-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization Diagram"
+    ],
+    "history": "History of recurring conflicts and strained relationships. Ongoing trust and boundary issues in relationships. Some relationships involve alcoholism. History of aggressive behavior.",
+    "helpless_belief": [
+      "I am helpless",
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [
+      "I am defective"
+    ],
+    "intermediate_belief": "If I let people get close, they will hurt me.",
+    "intermediate_belief_depression": "I can't change my past, so I am stuck feeling this way.",
+    "coping_strategies": "Avoidance of discussing past issues directly, leading to unresolved conflicts.",
+    "situation": "Considering reconnecting with an estranged person who previously caused harm. Deciding not to reconnect as a self-protective choice.",
+    "auto_thought": "If I reconnect, I will be hurt again.",
+    "emotion": [
+      "Fear",
+      "Sadness"
+    ],
+    "behavior": "Avoidance of reconnection to protect oneself from potential harm.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study: Social Gathering Incident",
+    "id": "45-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Relationships sometimes shift into romantic connections. Past conflict in relationships following expressions of anger. Complex relationship with parents involving obligations.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I don't show concern, people will think I don't care.",
+    "intermediate_belief_depression": "I must always be attentive to others' needs to be valued.",
+    "coping_strategies": "Avoidance and withdrawal when feeling overwhelmed or criticized.",
+    "situation": "An incident at a social gathering resulted in an emotional outburst among friends.",
+    "auto_thought": "I don't understand why people are upset with me.",
+    "emotion": [
+      "Confusion",
+      "Frustration",
+      "Anxiety"
+    ],
+    "behavior": "Withdrawal from social interactions and attempts to apologize without resolution.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Example",
+    "id": "46-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Forms close relationships with friends who experience significant stressors. A friend is dealing with academic pressures and parenting an autistic child.",
+    "helpless_belief": [
+      "I am trapped",
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must support my friends to maintain relationships.",
+    "intermediate_belief_depression": "If I can't help my friends, I am a failure.",
+    "coping_strategies": "Avoids confrontation and withdraws from relationships to prevent conflict.",
+    "situation": "Multiple friends are distressed at the same time, and the patient is involved in supporting them.",
+    "auto_thought": "If I don't help, they will leave me.",
+    "emotion": [
+      "Anxiety",
+      "Frustration"
+    ],
+    "behavior": "Withdraws from friends when feeling overwhelmed.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study Example",
+    "id": "47-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Master's degree in engineering and experience in robotics. Past remorse related to not dedicating enough time to a project.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable",
+      "I am a failure, loser"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I try to pursue relationships or projects, I will fail and be rejected.",
+    "intermediate_belief_depression": "I am not capable of succeeding in relationships or work, so why bother trying?",
+    "coping_strategies": "Avoids taking risks in personal and professional life to prevent failure and rejection.",
+    "situation": "Sent an email to someone they are interested in dating and received no response.",
+    "auto_thought": "This lack of response confirms that I am not worthy of attention or success.",
+    "emotion": [
+      "Sadness",
+      "Frustration",
+      "Hopelessness"
+    ],
+    "behavior": "Withdraws from social interactions and avoids pursuing new opportunities.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Patient X",
+    "id": "48-2",
+    "type": [
+      "Adult ADHD",
+      "Stress"
+    ],
+    "history": "In a relationship with Ivan for about seven years and married for three. Stressful periods during academic finals and wedding preparation due to lack of support from Ivan. Current financial pressure involving Ivan's part-time work, therapy costs, and dental treatment expenses.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must be self-reliant because I cannot depend on others.",
+    "intermediate_belief_depression": "If I don't manage everything perfectly, everything will fall apart.",
+    "coping_strategies": "Avoidance of confrontation and procrastination in addressing issues.",
+    "situation": "Ivan's mother speaks to the patient in a critical manner.",
+    "auto_thought": "I can't handle this criticism; it means I'm failing.",
+    "emotion": [
+      "Anxiety",
+      "Frustration"
+    ],
+    "behavior": "Avoids interacting with Ivan's mother and delays addressing financial issues.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Patient X",
+    "id": "49-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization Diagram"
+    ],
+    "history": "History of complex and strained family relationships. Father described as frequently creating misery for those around him and expressing dissatisfaction with his life. Maternal grandmother had a significant negative impact on the family, especially on the patient's mother.",
+    "helpless_belief": [
+      "I am powerless, weak, vulnerable"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "I must control my emotions to avoid feeling vulnerable.",
+    "intermediate_belief_depression": "If I show my emotions, I will be seen as weak and will be rejected.",
+    "coping_strategies": "Suppress emotions and maintain control to avoid vulnerability.",
+    "situation": "Reflecting on the potential death of the father and the grandmother.",
+    "auto_thought": "I must not show my emotions or I will lose control.",
+    "emotion": [
+      "Anxiety",
+      "Sadness"
+    ],
+    "behavior": "Suppresses crying and emotional expression.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  },
+  {
+    "name": "Case Study: Ethan",
+    "id": "50-2",
+    "type": [
+      "CBT",
+      "Cognitive Conceptualization"
+    ],
+    "history": "Longstanding friendship with Ethan since high school (about 14 years). Shared personal crises and professional collaborations. Learned that Ethan has been abusive toward his girlfriend.",
+    "helpless_belief": [
+      "I am trapped"
+    ],
+    "unlovable_belief": [
+      "I am bound to be rejected"
+    ],
+    "worthless_belief": [],
+    "intermediate_belief": "If I confront Ethan, I will lose his friendship.",
+    "intermediate_belief_depression": "I can't change the situation without losing something important.",
+    "coping_strategies": "Avoid direct confrontation and hope the situation resolves itself.",
+    "situation": "Struggling to contact Ethan directly.",
+    "auto_thought": "If I reach out to Ethan, it might ruin our friendship.",
+    "emotion": [
+      "Anxiety",
+      "Fear",
+      "Frustration"
+    ],
+    "behavior": "Avoidance of direct communication with Ethan.",
+    "meta": {
+      "is_hypothesis_only": true,
+      "source": "pre-therapy_case_description"
+    }
+  }
+]

@@ -1,0 +1,101 @@
+Using description: HISTORY:
+- History of isolation since late adolescence.
+- Chronic depression.
+- Longstanding difficulties maintaining friendships.
+- Recent breakup followed by a relapse into a depressive episode.
+- Adjusting medication regimen following the relapse.
+
+SITUATION:
+- Engaged in a conversation with a friend about mental health struggles. with ID=11-1
+Top results (by metadata similarity):
+  - sim=0.781 | title='Session 5: Client explains how uncomfortable she feels trying to bring up subjec' | file='1000013257.txt'
+  - sim=0.734 | title='Session 13: Client and counselor discuss reasons why client has not been showing' | file='1000013264.txt'
+  - sim=0.730 | title='Verilogue session: Client seems to be doing well on her medications' | file='1003009211.txt'
+  - sim=0.727 | title='Verilogue session: Client does not believe she needs medication but is willing t' | file='1001084034.txt'
+  - sim=0.715 | title='Patient "Ju", Session February 27, 2012: Client discusses a frustrating relation' | file='1004503142.txt'
+  - sim=0.701 | title='Patient "Ju", Session August 22, 2012: Client wants to meet with therapist more ' | file='1004687638.txt'
+  - sim=0.695 | title='Session 2: Client is afraid that she may lose her best friend to her lover' | file='1000122292.txt'
+  - sim=0.692 | title='Session 3: Client discusses her family relationships and friendships. Counselor ' | file='1000056546.txt'
+  - sim=0.692 | title='Patient "M" Therapy Session Audio Recording, April 02, 2012: Client talks about ' | file='1004532472.txt'
+  - sim=0.690 | title='Verilogue session: Client's friend has passed away but, she does not feel excess' | file='1002565936.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=0 partial_match=10
+match_used=PARTIAL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.781 | file='1000013257.txt' | title='Session 5: Client explains how uncomfortable she feels trying to bring up subjec'
+  - sim=0.734 | file='1000013264.txt' | title='Session 13: Client and counselor discuss reasons why client has not been showing'
+  - sim=0.730 | file='1003009211.txt' | title='Verilogue session: Client seems to be doing well on her medications'
+Using top selected file for transcript: '1000013257.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of isolation beginning in late adolescence, chronic depression, and longstanding difficulties in maintaining friendships. Recently, the patient experienced a breakup, which led to a relapse into a depressive episode, prompting an adjustment in their medication regimen. The patient is currently engaged in conversations with a friend about mental health struggles.
+
+**Emotional Impact:**
+The patient's history of isolation and chronic depression likely contributes to feelings of sadness, loneliness, and a sense of being disconnected from others. The recent breakup may have intensified these feelings, leading to a relapse into a depressive episode. This event could evoke emotions such as hurt, disappointment, and a heightened sense of vulnerability. Engaging in conversations about mental health with a friend might provide some relief, but it could also bring up feelings of anxiety or fear about being judged or misunderstood.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive patterns characterized by negative self-evaluation and rumination. The longstanding difficulties in maintaining friendships could lead to thoughts such as "I'm not good enough" or "I don't belong," reinforcing feelings of isolation. The breakup might trigger thoughts of rejection or failure, exacerbating depressive symptoms. The patient's engagement in mental health conversations suggests a willingness to seek understanding, but there might be underlying fears of inadequacy or being a burden to others.
+
+**Behavioral Responses:**
+The patient's history of isolation suggests a tendency to withdraw from social interactions, which might be a coping mechanism to avoid potential rejection or disappointment. The relapse into depression following the breakup could lead to behaviors such as procrastination, avoidance of social activities, or seeking reassurance from others. The adjustment in medication indicates an active effort to manage depressive symptoms, which might involve seeking professional help or support from friends.
+
+**Coping Styles:**
+The patient may cope with their emotional distress by withdrawing or avoiding situations that could lead to further emotional pain. Engaging in conversations about mental health with a friend indicates a potential shift towards seeking support and understanding, which could be a positive coping strategy. However, there might be a struggle between the desire for connection and the fear of vulnerability or being perceived as weak.
+
+**Psychological Interpretation:**
+The patient's experiences of isolation, chronic depression, and difficulties in maintaining friendships likely contribute to a cycle of negative thoughts and emotions. The recent breakup and subsequent depressive relapse may have intensified these patterns, leading to increased withdrawal and avoidance behaviors. The patient's engagement in mental health conversations suggests an awareness of their struggles and a desire for change, but there may be internal barriers such as fear of judgment or rejection that hinder progress.
+
+**Recommendations:**
+1. **Cognitive Restructuring:** Encourage the patient to identify and challenge negative thought patterns related to self-worth and belonging. This could involve exploring evidence for and against these thoughts and developing more balanced perspectives.
+
+2. **Behavioral Activation:** Support the patient in gradually increasing engagement in social activities and interactions, focusing on small, manageable steps to reduce avoidance behaviors.
+
+3. **Emotional Regulation:** Teach the patient strategies for managing intense emotions, such as mindfulness or relaxation techniques, to reduce the impact of depressive symptoms.
+
+4. **Social Support:** Encourage the patient to continue engaging in conversations about mental health with trusted friends, emphasizing the importance of connection and support.
+
+5. **Therapeutic Alliance:** Foster a strong therapeutic relationship to provide a safe space for the patient to explore their thoughts and feelings, reducing fears of judgment or rejection.
+
+By addressing these areas, the patient can work towards breaking the cycle of isolation and depression, fostering healthier relationships, and developing more adaptive coping strategies.
+Summary da mistral_.csv: The patient expresses difficulty in initiating and maintaining conversations during therapy sessions due to feeling unstructured and unsure of what to discuss. They mention feeling overwhelmed by the fragmented nature of the sessions and the inability to remember previous topics. The patient also discusses feeling bitter about their current situation and the desire for more emotional connection in their relationships, particularly with their boyfriend and potential friends. They express a lack of energy to establish new relationships and communicate with existing ones. The patient also mentions feeling disconnected from themselves and unable to write letters to friends due to negative emotions. The patient's aunt's suicide attempt and her boyfriend's absence are contributing factors to their feelings of rejection and desire to withdraw.
+The patient discusses her difficulty in maintaining relationships with friends who have moved on with their lives while she feels stuck. She feels unable to write to them or join in their happiness due to her own sense of inadequacy and fear of burdening them with her problems. She has maintained contact with one friend who is open and willing to discuss feelings, but feels hesitant to see her as well. The patient has a history of forming close friendships but losing touch after moving away. She felt useful and valued during a family crisis, but after leaving, her depression returned and she has since struggled to maintain contact with her friends.
+The patient discusses how they feel when they are in a good emotional state, which allows them to connect with others and feel whole. Conversely, when they feel bad, they withdraw and don't want to communicate with anyone, fearing they will be perceived as weak or pitiful. They have experienced this dynamic with friends in the past, causing some to distance themselves. The patient feels they must become strong on their own before they can reconnect with others, fearing the burden of their emotional state on their relationships.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has experienced isolation since late adolescence, with chronic depression and persistent difficulties maintaining friendships. A recent breakup triggered a depressive relapse, leading to an adjustment in medication. The client has a pattern of withdrawing from social interactions, possibly to avoid rejection or disappointment, and may ruminate on negative self-evaluations. There is evidence of both a desire for connection and a fear of vulnerability or being a burden.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I open up about my mental health struggles, others will see me as weak or a burden, so it's safer to keep my feelings to myself. If I let people get close, I risk being rejected or misunderstood. I need to protect myself from further disappointment by not expecting too much from friendships.",
+  "intermediate_belief_depression": "If I try to connect with others, it won't make a difference because I always end up alone. There's no point in reaching out because nothing ever changes for me.",
+  "coping_strategies": [
+    "The client tends to withdraw from social situations and avoid sharing personal struggles to protect against perceived rejection or judgment. They may ruminate on negative thoughts and seek reassurance from close friends, but often pull back due to fears of being a burden."
+  ],
+  "situation": "Engaged in a conversation with a friend about mental health struggles.",
+  "auto_thought": "I'm just going to end up pushing them away if I talk about this. They probably think I'm too much to handle.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "worried",
+    "sad",
+    "vulnerable"
+  ],
+  "behavior": "I hesitate before sharing, downplay my feelings, and sometimes change the subject. I may withdraw from the conversation or avoid reaching out again."
+}

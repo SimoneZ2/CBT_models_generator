@@ -1,0 +1,27 @@
+{
+  "history": "The client has recently experienced the deaths of an uncle and a cousin, which has likely heightened their sensitivity to mortality and loss. There is ongoing concern about the parents' health, especially the father's multiple chronic conditions. The relationship with the father is tense, marked by emotional distance and a lack of transparency about his health, which may contribute to the client's anxiety and feelings of helplessness. The client appears to ruminate about the possibility of further loss and struggles to engage openly with the father.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I get too close to my father, I will be overwhelmed by anxiety or pain if something happens to him. If I avoid thinking about or interacting with him, I can protect myself from getting hurt. I must stay vigilant about my family's health or something terrible will happen.",
+  "intermediate_belief_depression": "If I can't protect my family or connect with them, it means I am failing as a son/daughter and things will never get better.",
+  "coping_strategies": [
+    "The client avoids interacting with the father to manage overwhelming anxiety and fear of loss. They may seek reassurance from others or ruminate about the father's health, but do not directly address their concerns. This avoidance provides temporary relief but maintains emotional distance and ongoing distress."
+  ],
+  "situation": "Thinking about the possibility of the father dying before the mother. Avoiding interaction with the father.",
+  "auto_thought": "If my father dies before my mother, I won't be able to handle it. I can't face being close to him because it will hurt too much if I lose him.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "fearful",
+    "sad",
+    "guilty",
+    "lonely"
+  ],
+  "behavior": "I avoid spending time with my father. I withdraw from conversations or interactions with him. I ruminate about his health and possible loss.",
+  "source_text_id": "1001084083.txt"
+}

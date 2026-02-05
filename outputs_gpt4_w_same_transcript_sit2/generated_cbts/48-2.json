@@ -1,0 +1,30 @@
+{
+  "name": "Patient X",
+  "id": "12345",
+  "type": [
+    "Adult ADHD",
+    "Stress"
+  ],
+  "history": "In a relationship with Ivan for about seven years and married for three. Stressful periods during academic finals and wedding preparation due to lack of support from Ivan. Current financial pressure involving Ivan's part-time work, therapy costs, and dental treatment expenses.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be self-reliant because I cannot depend on others.",
+  "intermediate_belief_depression": "If I don't manage everything perfectly, everything will fall apart.",
+  "coping_strategies": "Avoidance of confrontation and procrastination in addressing issues.",
+  "situation": "Ivan's mother speaks to the patient in a critical manner.",
+  "auto_thought": "I can't handle this criticism; it means I'm failing.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Avoids interacting with Ivan's mother and delays addressing financial issues.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "History of recurring conflicts and strained relationships. Ongoing trust and boundary issues in relationships. Some relationships involve alcoholism. History of aggressive behavior.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let people in, I will get hurt.",
+  "intermediate_belief_depression": "I can't trust anyone, so I will always be alone.",
+  "coping_strategies": "Avoidance of reconnecting with people who have caused harm.",
+  "situation": "Considering reconnecting with an estranged person who previously caused harm. Deciding not to reconnect as a self-protective choice.",
+  "auto_thought": "If I reconnect, I will be hurt again.",
+  "emotion": [
+    "Fear",
+    "Anxiety"
+  ],
+  "behavior": "Avoidance of reconnecting with the estranged person."
+}

@@ -1,0 +1,49 @@
+{
+  "name": "CBT Cognitive Conceptualization Diagram",
+  "id": "4-1",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client recently underwent shoulder surgery and is experiencing a painful recovery. They have ongoing pain, numbness, and tingling from a herniated cervical disc. There is a history of physical therapy for walking difficulties and back issues, as well as a past prolonged illness that led to immobility. After starting a new relationship, the client experienced a return of physical symptoms. These repeated health setbacks and periods of immobility may have contributed to a sense of vulnerability and anticipatory anxiety about their physical health and ability to function.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am powerless, weak, vulnerable",
+    "I am out of control",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I experience new or worsening physical symptoms, it means I am losing control over my health and I won't be able to cope. If my health declines again, I will become a burden to others and unable to participate in life as I want. I must always be vigilant for signs that my body is failing, or I will be caught off guard and unable to manage.",
+  "intermediate_belief_depression": "If my health keeps getting worse no matter what I do, there is no point in trying and I will end up stuck and helpless again.",
+  "coping_strategies": "The client seeks reassurance from their therapist after receiving distressing medical news. They may avoid physical activities or social situations that could worsen symptoms. There is a tendency to ruminate on health issues and withdraw when feeling overwhelmed by pain or uncertainty.",
+  "situation": "Received an MRI report indicating a herniated disc. Contacted the therapist after receiving the report.",
+  "auto_thought": "This means my body is breaking down again. I'm never going to get better, and I can't handle going through this all over.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "helpless",
+    "frustrated",
+    "fearful",
+    "disappointed"
+  ],
+  "behavior": "Immediately contacted the therapist for reassurance. Withdrew from activities to avoid making symptoms worse. Spent time ruminating about the implications of the MRI report.",
+  "rationale": "\"The MRI report indicating a herniated disc could trigger thoughts of worst-case scenarios regarding their health and mobility.\" \"The ongoing pain and discomfort from the herniated cervical disc may exacerbate these emotions, leading to increased anxiety and worry about their physical health and future mobility.\" \"The patient may engage in avoidance behaviors, such as withdrawing from physical activities or social interactions that they perceive as potentially exacerbating their symptoms.\" \"They might also seek reassurance from medical professionals or their therapist to alleviate anxiety about their health.\"",
+  "core_belief_predictions": {
+    "source_id": "4-1",
+    "major_pred_set": [
+      "helpless"
+    ],
+    "fine_pred_set": [
+      "I am defective",
+      "I am helpless",
+      "I am incompetent",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

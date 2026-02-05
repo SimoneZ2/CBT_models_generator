@@ -1,0 +1,48 @@
+{
+  "name": "CBT Cognitive Conceptualization for Educational Staff Member",
+  "id": "25-1",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client works in an educational setting with children who have learning disabilities. They report being pampered by their parents and experiencing minimal consequences for their actions earlier in life. There is a pattern of ongoing conflicts with authority figures, which may be rooted in their upbringing and difficulty accepting criticism or external control. The client’s professional challenges, particularly when outcomes do not meet expectations, appear to trigger self-doubt and rumination about their effectiveness and social standing.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't get my students to participate as expected, then it means I'm failing at my job and others will see me as incompetent. I need to prove my worth through successful outcomes, or I risk being seen as less respectable. If I don't meet expectations, I will be judged negatively by others.",
+  "intermediate_belief_depression": "If I keep failing to meet expectations, it means I'll never be good enough and things won't improve, no matter what I do.",
+  "coping_strategies": "The client tends to ruminate on perceived failures and seeks reassurance from peers or superiors to counter feelings of inadequacy. They may withdraw or avoid situations where their competence could be questioned, and sometimes fall back on familiar routines to regain a sense of control.",
+  "situation": "Encouraging students to socialize and participate in campus activities, with results falling short of expectations.",
+  "auto_thought": "I'm not getting through to them; I'm failing at this. Others will think I'm not good at my job.",
+  "emotion": [
+    "disappointed",
+    "inadequate",
+    "anxious",
+    "ashamed",
+    "frustrated"
+  ],
+  "behavior": "I hesitate to try new approaches and stick to what feels safe. I seek reassurance from colleagues about my performance. I avoid discussing the disappointing results with authority figures.",
+  "rationale": "\"The patient's role in encouraging student participation, coupled with unmet expectations, likely results in feelings of disappointment and inadequacy. They may ruminate on these perceived failures, leading to a cycle of self-doubt and worry about their effectiveness in their role.\" \"The patient might also experience a sense of social comparison, feeling less respectable or placed in a lower social category due to their professional challenges. This could lead to feelings of shame or embarrassment, particularly if they perceive their role as less prestigious compared to others.\" \"In response to these emotional and cognitive patterns, the patient may engage in behaviors such as avoiding confrontation with authority figures or withdrawing from situations where they feel their authority or competence is questioned. They might also procrastinate or hesitate to take decisive actions in their professional role, fearing further disappointment or criticism.\"",
+  "core_belief_predictions": {
+    "source_id": "25-1",
+    "major_pred_set": [
+      "helpless"
+    ],
+    "fine_pred_set": [
+      "I am a failure, loser",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

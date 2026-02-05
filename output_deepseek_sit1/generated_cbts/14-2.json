@@ -1,0 +1,27 @@
+{
+  "name": "Patient 14",
+  "id": "14",
+  "type": [
+    "financial stress"
+  ],
+  "history": "Financial difficulties following questionable investments. Increased reliance on parents for assistance.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I make terrible financial decisions that ruin my future.",
+  "intermediate_belief_depression": "I'm financially incompetent and will always need rescuing.",
+  "coping_strategies": [
+    "Depending on parental support, analyzing past mistakes."
+  ],
+  "situation": "Thinking about how past financial decisions may affect future plans.",
+  "auto_thought": "My poor choices have permanently damaged my future.",
+  "emotion": [
+    "regret",
+    "shame",
+    "anxiety"
+  ],
+  "behavior": "Ruminate about past investment mistakes."
+}

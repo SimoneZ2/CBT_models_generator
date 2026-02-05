@@ -1,0 +1,83 @@
+Using description: HISTORY:
+- Ongoing social difficulties involving a partner named Ivan and his family.
+- Recent trust and betrayal issues involving the partner.
+
+SITUATION:
+- Discovered that Ivan made travel plans without consulting the patient. with ID=22-1
+Top results (by metadata similarity):
+  - sim=0.639 | title='Verilogue session: Client was hospitalized recently for severe depression. He su' | file='1001083968.txt'
+  - sim=0.600 | title='Verilogue session: Client is considering a medication increase due to the stress' | file='1002565896.txt'
+  - sim=0.589 | title='Verilogue session: Client's wife committed suicide, leaving their son to her par' | file='1001084073.txt'
+  - sim=0.582 | title='Verilogue session: Client talks about money problems and her job' | file='1002565853.txt'
+  - sim=0.577 | title='Verilogue session: Client's stress over flying became so great that she became p' | file='1001083985.txt'
+  - sim=0.576 | title='Verilogue session: Client's mood has been down and depressed' | file='1003009224.txt'
+  - sim=0.574 | title='Verilogue session: Client's mood is more positive now that he has reconciled wit' | file='1001084012.txt'
+  - sim=0.564 | title='Verilogue session: Client is experiencing anxiety and anticipation about retirem' | file='1001083996.txt'
+  - sim=0.562 | title='Verilogue session: Client feels very alone and disconnected. She is having major' | file='1002565876.txt'
+  - sim=0.560 | title='Session 17: Client is questioning his own sexual orientation. Client blames ther' | file='1000016557.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.639 | file='1001083968.txt' | title='Verilogue session: Client was hospitalized recently for severe depression. He su'
+  - sim=0.600 | file='1002565896.txt' | title='Verilogue session: Client is considering a medication increase due to the stress'
+  - sim=0.589 | file='1001084073.txt' | title='Verilogue session: Client's wife committed suicide, leaving their son to her par'
+Using top selected file for transcript: '1001083968.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is experiencing ongoing social difficulties with their partner, Ivan, and his family. Recently, the patient discovered that Ivan made travel plans without consulting them, which has exacerbated existing trust and betrayal issues.
+
+**Emotional Impact:**
+The discovery of Ivan's unilateral decision-making regarding travel plans likely triggers feelings of betrayal and mistrust. The patient may feel anxious and worried about the stability and future of their relationship. This situation could also evoke feelings of sadness and loneliness, as the patient might perceive a lack of partnership and mutual respect. The ongoing social difficulties with Ivan's family may contribute to feelings of being isolated or unsupported, potentially leading to a sense of being overwhelmed by relational stressors.
+
+**Cognitive Patterns:**
+The patient might engage in ruminative thinking, focusing on the perceived betrayal and lack of communication. This cognitive pattern can lead to heightened anxiety and a tendency to catastrophize future interactions or decisions made by Ivan. The patient may also experience cognitive distortions, such as overgeneralizing Ivan's behavior to assume a broader lack of care or respect in the relationship. These thought patterns can reinforce feelings of insecurity and mistrust.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive experiences, the patient may withdraw from social interactions, both with Ivan and potentially with others, as a protective mechanism. They might avoid discussing their feelings with Ivan, fearing conflict or further betrayal. Alternatively, the patient could seek reassurance from Ivan or others, attempting to alleviate their anxiety and restore a sense of security in the relationship. The patient might also engage in behaviors aimed at monitoring or controlling the situation, such as checking Ivan's plans or questioning his actions, in an effort to regain a sense of control.
+
+**Coping Styles:**
+The patient may rely on avoidance as a coping strategy, choosing not to confront Ivan directly about the travel plans or the underlying trust issues. This avoidance can temporarily reduce anxiety but may ultimately prevent resolution and contribute to ongoing relational tension. The patient might also engage in problem-solving behaviors, attempting to address the betrayal by seeking open communication with Ivan to clarify expectations and rebuild trust. However, if these efforts are not reciprocated, the patient could feel further discouraged and helpless.
+
+**Psychological Support:**
+Drawing from the transcript, it is evident that individuals experiencing relational stress may benefit from structured interventions aimed at improving communication and addressing cognitive distortions. The patient could benefit from cognitive restructuring techniques to challenge and modify unhelpful thought patterns related to trust and betrayal. Additionally, assertiveness training might empower the patient to express their needs and concerns more effectively within the relationship. Encouraging the patient to engage in self-care activities and seek social support outside of the relationship can also provide emotional relief and perspective.
+
+In summary, the patient's experience of betrayal and social difficulties with Ivan and his family likely results in a complex interplay of emotional distress, cognitive distortions, and behavioral responses. Addressing these issues through targeted cognitive-behavioral strategies can help the patient navigate their relational challenges and foster a healthier, more secure sense of self and partnership.
+Summary da mistral_.csv: The patient discussed their strained relationship with a person named [NAME OTHER], who has expressed hate, envy, and jealousy towards the patient for the past four years. The patient has attempted to maintain communication through letters and phone calls but has not received a response. The patient went to the hospital due to feeling stressed and dealing with [NAME OTHER]'s negative emotions towards them. The patient mentioned hearing thoughts and feelings of others, which they described as positive in nature. The patient also mentioned feeling depressed and having confused thoughts. The patient was diagnosed with a chemical imbalance and is currently on various medications, including Trilafon, a nerve pill. The patient expressed concern about their emotions potentially leading them to harm someone and the possibility of going to jail. The patient is dealing with [NAME OTHER]'s improvement in mental health and their own spiritual struggles. The patient is seeing a physician for liver problems and is receiving treatments with Pegasus and Copegus.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has ongoing social difficulties involving their partner Ivan and his family, which have created a background of relational stress. There have been recent trust and betrayal issues, suggesting a pattern of feeling unsupported or excluded. The client may have experienced repeated situations where their needs or perspectives were not considered, leading to heightened sensitivity to perceived betrayals or unilateral decisions.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If my partner makes decisions without consulting me, it means my feelings and opinions do not matter, so I must be vigilant or withdraw to protect myself from being hurt again. If I am not included, it shows I am not valued in the relationship.",
+  "intermediate_belief_depression": "If I am always left out of important decisions, it means nothing will ever change and I will always feel alone and unimportant in my relationships.",
+  "coping_strategies": [
+    "The client tends to withdraw from social interactions with Ivan and his family as a way to protect themselves from further hurt. They may avoid direct confrontation about the travel plans, ruminate about the betrayal, or seek reassurance from Ivan or others to manage their anxiety."
+  ],
+  "situation": "Discovered that Ivan made travel plans without consulting the patient.",
+  "auto_thought": "He didn't even think to ask me. I must not matter to him at all.",
+  "emotion": [
+    "betrayed",
+    "anxious",
+    "sad",
+    "lonely",
+    "worried",
+    "hurt"
+  ],
+  "behavior": "Withdrew from Ivan and avoided discussing the travel plans. Ruminated about the situation and considered checking Ivan's plans or seeking reassurance."
+}

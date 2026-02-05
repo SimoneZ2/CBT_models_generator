@@ -1,0 +1,92 @@
+Using description: HISTORY:
+- History of recurring conflicts and strained relationships.
+- Ongoing trust and boundary issues in relationships.
+- Some relationships involve alcoholism.
+- History of aggressive behavior.
+
+SITUATION:
+- Considering reconnecting with an estranged person who previously caused harm.
+- Deciding not to reconnect as a self-protective choice. with ID=44-2
+Top results (by metadata similarity):
+  - sim=0.664 | title='Patient "M" Therapy Session Audio Recording, January 23, 2012: Client discusses ' | file='1004478010.txt'
+  - sim=0.624 | title='Patient "S", Session June 04, 2012: Client is very confused, hurt and frustrated' | file='1004565011.txt'
+  - sim=0.623 | title='Patient "S", Session September 10, 2012: Client still finds it hard to not be wo' | file='1004699977.txt'
+  - sim=0.622 | title='Symbolic/Experiential Family Therapy: This transcript is an initial therapy sess' | file='1001115118.txt'
+  - sim=0.620 | title='Feminist Therapy: This transcript is an initial therapy session with Dr. Walker ' | file='1000840068.txt'
+  - sim=0.614 | title='Patient "S", Session September 21, 2012: Client talks about where her relationsh' | file='1004798837.txt'
+  - sim=0.612 | title='Integrative Therapy: In this session, Dr. Kottler clearly practices what he prea' | file='1000840070.txt'
+  - sim=0.609 | title='Patient "S", Session November 02, 2012: Client is angry with the way her ex-boyf' | file='1004824719.txt'
+  - sim=0.601 | title='Patient "M" Therapy Session Audio Recording, January 26, 2012: Client feels dama' | file='1004478016.txt'
+  - sim=0.600 | title='Patient "S", Session July 12, 2012: Client is very upset in this session. She re' | file='1004687758.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.664 | file='1004478010.txt' | title='Patient "M" Therapy Session Audio Recording, January 23, 2012: Client discusses '
+  - sim=0.624 | file='1004565011.txt' | title='Patient "S", Session June 04, 2012: Client is very confused, hurt and frustrated'
+  - sim=0.623 | file='1004699977.txt' | title='Patient "S", Session September 10, 2012: Client still finds it hard to not be wo'
+Using top selected file for transcript: '1004478010.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient History and Current Situation:**
+
+The patient has a history characterized by recurring conflicts and strained relationships, often marked by trust and boundary issues. Some of these relationships have been complicated by the presence of alcoholism. Additionally, there is a history of aggressive behavior. Currently, the patient is contemplating whether to reconnect with an estranged person who has previously caused harm but has decided against it as a self-protective measure.
+
+**Cognitive and Emotional Patterns:**
+
+1. **Trust and Boundary Issues:** The patient's history of strained relationships and trust issues likely contributes to a heightened sense of vigilance and skepticism in interpersonal interactions. This may manifest as difficulty in establishing and maintaining close relationships, as well as a tendency to question the motives of others. The decision to not reconnect with the estranged person suggests an awareness of personal boundaries and a desire to protect oneself from potential harm.
+
+2. **Aggressive Behavior:** The history of aggressive behavior may be a coping mechanism developed in response to past conflicts and strained relationships. This behavior could serve as a means of exerting control or expressing unresolved emotions. The transcript suggests that individuals with similar backgrounds might react with aggression when feeling threatened or invalidated, which could be applicable to the patient’s experiences.
+
+3. **Emotional Reactions:** The patient may experience a range of emotions, including anxiety, fear, and sadness, particularly in the context of relationships involving alcoholism. These emotions could be exacerbated by past experiences of harm and betrayal, leading to a cycle of emotional distress and withdrawal from potentially harmful situations.
+
+4. **Decision-Making and Self-Protection:** The patient's decision to avoid reconnecting with the estranged person indicates a cognitive shift towards self-preservation. This decision reflects an understanding of personal limits and a prioritization of emotional well-being over potentially harmful engagements.
+
+**Behavioral Responses and Coping Styles:**
+
+1. **Avoidance and Withdrawal:** In response to trust and boundary issues, the patient may engage in avoidance and withdrawal behaviors. This is evident in the decision to not reconnect with the estranged person, suggesting a preference for avoiding situations that could lead to further emotional harm.
+
+2. **Seeking Control:** The history of aggressive behavior may indicate a coping style centered around seeking control in situations perceived as threatening or unpredictable. This behavior might be a learned response to past conflicts and strained relationships, where aggression served as a means of asserting dominance or protecting oneself.
+
+3. **Self-Reflection and Awareness:** The patient’s choice to not reconnect with the estranged person demonstrates a level of self-reflection and awareness of personal needs and boundaries. This decision suggests an evolving coping strategy that prioritizes self-care and emotional safety.
+
+**Conclusion:**
+
+The patient's history of recurring conflicts, strained relationships, and aggressive behavior, coupled with ongoing trust and boundary issues, significantly impacts their emotional and cognitive experiences. The decision to avoid reconnecting with an estranged person who previously caused harm reflects a growing awareness of personal boundaries and a commitment to self-protection. Continued focus on developing healthy coping mechanisms and fostering trust in relationships may support the patient's journey towards emotional well-being and stability.
+Summary da mistral_.csv: In this therapy session, the client discussed an argument with her partner, Chris, following the revelation of his lowered academic performance. The argument occurred during a dinner outing, where the client expressed frustration towards Chris and his friends for their self-aggrandizement. This led to an argument, with the client making cutting remarks and Chris leaving the room. The client acknowledged this pattern of behavior as a cycle that typically escalates into full-blown fights. The client also shared that Chris has a history of disliking her friends, particularly her male friends from the past, which leads to tension in their relationship. The client expressed frustration over Chris's negative comments about her friends and felt defensive when he openly criticizes them. The client and Chris have not had open conversations about their pasts or insecurities, leading to a lack of resolution and continued tension.
+The client recounted an incident from their past relationship where their partner's best friend had speculated that the client was a virgin, despite the client's denial. The client wondered if their partner had been truthful about his past sexual experiences and felt uncomfortable discussing it due to potential judgment and the perceived inability to relate to each other's experiences. The client also shared that their affectionate behavior, which included hugging friends and being flirty, made their partner uncomfortable and led to feelings of frustration and a desire to bring up past issues, often when drunk. The client discussed their father's history of being mean and abusive, which led to a desire for control and a belief that they were responsible for their father's absence from their childhood home. The client expressed frustration with the recurring nature of these issues despite their awareness of their origins.
+The client described their childhood experience of living with an alcoholic father who continued to disturb the family even after leaving home. They felt their mother was always present during these disturbances and felt damaged as a result, describing themselves as empty, lacking trust in themselves and others, and feeling broken. The client expressed a preference for discussing their past pain in therapy sessions rather than engaging in normal activities, acknowledging the honesty of this feeling but expressing a desire to move past it. The therapist acknowledged the client's feelings and offered support. The client mentioned accidentally wetting the therapist's stool during the session.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of recurring conflicts and strained relationships, often complicated by trust and boundary issues. Some relationships have involved alcoholism, which has contributed to emotional distress and difficulty establishing trust. There is a history of aggressive behavior, possibly as a way to cope with feeling threatened or invalidated. These patterns have led to a heightened vigilance in relationships and a tendency to withdraw or avoid situations perceived as potentially harmful.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let people get close, I will get hurt again. I have to keep my guard up or avoid people who have harmed me. It's safer to rely on myself than to risk trusting others.",
+  "intermediate_belief_depression": "",
+  "coping_strategies": [
+    "The client tends to avoid or withdraw from relationships that feel unsafe or threatening, especially when trust or boundaries have been violated. Aggressive behavior may emerge when feeling threatened, as a way to regain control. Recently, the client has begun to use self-protection and boundary-setting as a coping strategy, choosing not to reconnect with people who have caused harm."
+  ],
+  "situation": "Considering reconnecting with an estranged person who previously caused harm. Deciding not to reconnect as a self-protective choice.",
+  "auto_thought": "If I let them back into my life, I'll just get hurt again. I can't trust them not to cross my boundaries.",
+  "emotion": [
+    "anxious",
+    "wary",
+    "sad",
+    "relieved"
+  ],
+  "behavior": "I decide not to reach out or respond to the estranged person. I keep my distance and avoid situations where I might see them."
+}

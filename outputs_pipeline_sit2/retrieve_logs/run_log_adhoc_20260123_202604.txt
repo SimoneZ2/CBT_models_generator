@@ -1,0 +1,84 @@
+Using description: HISTORY:
+- Master's degree in engineering and experience in robotics.
+- Past remorse related to not dedicating enough time to a project.
+
+SITUATION:
+- Sent an email to someone they are interested in dating and received no response. with ID=47-2
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.445 | title='Patient "J", Session July 17, 2012: Client feels like the problems in his life a' | file='1004687590.txt'
+  - sim=0.438 | title='Series 4, Session 7: Client sees the male friend she is interested in again but ' | file='1003269471.txt'
+  - sim=0.404 | title='Patient "Ma", Session April 26, 2012: Client talks about the physical distance b' | file='1004538628.txt'
+  - sim=0.401 | title='Session 23: November 19, 2012: Client talks about his obsessive thoughts and tex' | file='1004824781.txt'
+  - sim=0.392 | title='Patient "B", Session February 15, 2012: Client starts session by verbally batter' | file='1004503118.txt'
+  - sim=0.391 | title='Session 6: Therapist has found a couple of people with physical deformities for ' | file='1000133888.txt'
+  - sim=0.388 | title='Session 6: Client talks about his new romantic relationship, the pluses and cons' | file='1004824747.txt'
+  - sim=0.386 | title='Session 7: Client feels that he sets himself up for rejection' | file='1000134004.txt'
+  - sim=0.385 | title='Session 3: Client talks about his mother being more supportive and interested in' | file='1004824741.txt'
+  - sim=0.377 | title='Series 4, Session 8: After an incident with her friends, client has not spoken w' | file='1003269472.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.445 | file='1004687590.txt' | title='Patient "J", Session July 17, 2012: Client feels like the problems in his life a'
+  - sim=0.438 | file='1003269471.txt' | title='Series 4, Session 7: Client sees the male friend she is interested in again but '
+  - sim=0.404 | file='1004538628.txt' | title='Patient "Ma", Session April 26, 2012: Client talks about the physical distance b'
+Using top selected file for transcript: '1004687590.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient holds a master's degree in engineering and has experience in robotics. They have expressed past remorse about not dedicating enough time to a particular project. Recently, the patient sent an email to someone they are interested in dating but did not receive a response.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions stemming from both their professional and personal life situations. The remorse about not dedicating enough time to a project may lead to feelings of regret and self-criticism, potentially contributing to a sense of inadequacy or failure. This emotional state might be exacerbated by the lack of response to their email, which could evoke feelings of rejection, disappointment, and loneliness. The absence of a reply may also trigger anxiety and self-doubt, as the patient might ruminate on potential reasons for the lack of communication.
+
+**Cognitive Patterns:**
+The patient may engage in negative self-talk and cognitive distortions, such as catastrophizing or personalizing the situation. For instance, they might interpret the lack of response as a reflection of their self-worth or as evidence of their inability to succeed in personal relationships. This cognitive pattern can lead to a cycle of negative thinking, where the patient focuses on perceived failures and overlooks their achievements and strengths.
+
+Drawing from the transcript, individuals in similar situations often exhibit a tendency to interpret neutral or ambiguous situations negatively, reinforcing feelings of inadequacy. The patient might also engage in "mind reading," assuming they know what the other person is thinking or feeling without concrete evidence.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive patterns, the patient might withdraw socially, avoid initiating further contact, or procrastinate on other tasks due to a lack of motivation. They may also seek reassurance from friends or engage in distracting activities to cope with their discomfort. The transcript suggests that individuals in similar situations might oscillate between avoidance and impulsive actions, such as sending an email without considering the potential outcomes, which could be a coping mechanism to alleviate immediate emotional distress.
+
+**Coping Styles:**
+The patient may rely on avoidance as a primary coping strategy, which can provide temporary relief but ultimately reinforces negative emotions and thoughts. They might also engage in rumination, repeatedly thinking about the lack of response and its implications, which can intensify feelings of anxiety and depression. Alternatively, they might attempt to distract themselves with work or hobbies, although this may not address the underlying emotional distress.
+
+**Conclusion:**
+The patient's current emotional and cognitive state appears to be influenced by past regrets and recent interpersonal challenges. Their tendency to focus on perceived failures and engage in negative self-talk may contribute to feelings of inadequacy and hinder their ability to pursue personal and professional goals. Addressing these cognitive distortions and developing healthier coping mechanisms through cognitive-behavioral strategies could help the patient build resilience and improve their emotional well-being.
+Summary da mistral_.csv: The client recounted his experience of ending a relationship with a woman, who had recently emerged from a complicated relationship and expressed a desire for simplicity. The client felt frustrated and misunderstood when she did not respond to his attempts to initiate contact, leading him to send an email ending the relationship. He felt bad about doing it via email but felt he had no other option. The client also discussed his difficulty in taking responsibility for various aspects of his life, including his work and relationships, and feeling powerless and crummy as a result. He mentioned feeling resentful towards his ex-partner, Jess, for her lack of support during a hospitalization and her perceived indifference to his needs. The client expressed feelings of failure and financial instability, which added to his overall sense of frustration and hopelessness. The therapist acknowledged the client's struggles and encouraged him to examine the situation more closely to gain a clearer perspective.
+The therapist discussed the client's recent financial success and encouraged him to acknowledge his accomplishments instead of viewing it as a sign of failure. The client revealed he had asked out a woman named Barbara, who had rejected him. The therapist acknowledged the disappointment but encouraged the client to focus on the reality of the situation rather than dwelling on the fantasy of a potential relationship with Barbara. The client expressed feeling upset about his current life circumstances and lack of success in various areas, not just the rejection from Barbara. The session ended with the therapist suggesting they conclude the discussion for the time being.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a master's degree in engineering and experience in robotics. They have previously expressed remorse about not dedicating enough time to a project, which suggests a tendency toward self-criticism and regret over perceived missed opportunities. This pattern of regret may contribute to a sense of inadequacy or failure, especially when faced with ambiguous or negative feedback in other areas of life. The client's professional achievements may be overshadowed by their focus on perceived failures, both past and present.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't receive a response from someone I'm interested in, it means I did something wrong or I'm not interesting enough. I have to be successful in both my work and personal life to be valued. If I make a mistake or get ignored, it confirms that I'm not good enough.",
+  "intermediate_belief_depression": "If people don't respond to me, it proves that I'm unimportant and that things won't work out for me, no matter what I do. There's no point in trying because I'll just end up feeling rejected or disappointed again.",
+  "coping_strategies": [
+    "The client tends to withdraw socially and avoid further contact after experiencing perceived rejection. They may ruminate on the lack of response, replaying the situation in their mind and focusing on possible personal shortcomings. At times, they distract themselves with work or hobbies, but this does not resolve the underlying distress."
+  ],
+  "situation": "Sent an email to someone they are interested in dating and received no response.",
+  "auto_thought": "They must not be interested in me. I probably said something wrong or I'm just not good enough.",
+  "emotion": [
+    "anxious",
+    "rejected",
+    "disappointed",
+    "self-critical",
+    "lonely"
+  ],
+  "behavior": "I check my email repeatedly, then stop myself from sending a follow-up message. I avoid reaching out to other people and withdraw into my work or distractions."
+}

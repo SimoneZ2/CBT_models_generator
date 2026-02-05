@@ -1,0 +1,36 @@
+{
+  "name": "CBT Cognitive Conceptualization for Anticipated Family Conflict",
+  "id": "case001",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client reports a longstanding history of family conflict, particularly with a dismissive and unsupportive father, resulting in estrangement. This background has contributed to feelings of being unsupported and misunderstood, as well as self-doubt. The client also experiences ongoing stress in their partner's family, especially with the partner's sister-in-law, Candace. Anticipation of interactions with Candace during an upcoming family vacation is a current source of distress.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't keep the peace or avoid conflict in family situations, others will see me as difficult or unworthy of support. I must manage my reactions carefully to avoid being dismissed or misunderstood. If I assert myself, I risk being rejected or causing more tension.",
+  "intermediate_belief_depression": "If I can't handle these family situations, it means I'm failing and things will never get better. No matter what I do, I end up feeling alone and unsupported.",
+  "coping_strategies": "The client tends to avoid confrontation and withdraws from stressful interactions, especially with Candace. They seek reassurance and support from their partner, and may try to minimize exposure to conflict by limiting time with Candace or using humor to deflect tension.",
+  "situation": "Anticipating interactions with Candace during an upcoming family vacation in Maine.",
+  "auto_thought": "I'm sure Candace will make things tense again, and I'll end up feeling isolated or blamed. No matter what I do, it won't go well.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "apprehensive",
+    "sad",
+    "frustrated"
+  ],
+  "behavior": "I try to avoid being around Candace as much as possible. I seek out my partner for support and withdraw from group activities when I feel uncomfortable.",
+  "rationale": "\"The patient's history of family conflict, particularly with a dismissive father, likely contributes to feelings of being unsupported and misunderstood.\" \"The ongoing stress related to the partner's family, especially with Candace, may evoke feelings of anxiety, tension, and apprehension, particularly as the patient anticipates interactions during the upcoming vacation.\" \"The patient may exhibit cognitive patterns characterized by self-doubt and questioning of their own feelings and actions.\" \"The patient may engage in behaviors such as avoiding confrontation, withdrawing from interactions, or seeking reassurance from their partner.\""
+}

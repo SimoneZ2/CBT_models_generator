@@ -1,0 +1,32 @@
+{
+  "history": "The client has a master's degree in engineering and experience in robotics. They report a pattern of anxiety and restlessness, especially around transitions such as the upcoming school year. There is a history of overworking, as seen in dedicating over 250 hours to a summer camp program, leading to exhaustion and increased anxiety. The client describes racing thoughts, insomnia, and compulsive late-night computer use as coping mechanisms. They have experienced weight gain since the birth of their child, which has negatively impacted their self-esteem. The client expresses remorse about not dedicating enough time to a past project and frustration over physical limitations due to back and neck pain.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't get a response from someone I care about, it means I did something wrong or I'm not interesting enough. I must always be productive and attentive, or I will let people down. If I am not perfect or don't get validation, others will lose interest in me.",
+  "intermediate_belief_depression": "If people don't respond to me, it confirms that I'm not important and nothing I do will make a difference. When I fail to get the outcome I want, it means I'm destined to be alone or unsuccessful.",
+  "coping_strategies": [
+    "The client copes with distress by staying up late on the computer, which distracts from anxious thoughts but leads to exhaustion. They avoid napping to prevent further sleep disruption. The client also uses food to manage anxiety and considers using medication or Xanax for acute episodes, though they are hesitant due to past side effects."
+  ],
+  "situation": "Sent an email to someone they are interested in dating and received no response.",
+  "auto_thought": "They must not be interested in me. I probably said something wrong and now I've ruined my chance.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "rejected",
+    "self-doubt",
+    "down",
+    "restless"
+  ],
+  "behavior": "Stayed up late thinking about the lack of response. Checked email repeatedly. Avoided reaching out again out of fear of further rejection."
+}

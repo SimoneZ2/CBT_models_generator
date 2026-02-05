@@ -1,0 +1,26 @@
+{
+  "name": "Unnamed Patient",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Involvement in a complex romantic situation with a person named Cleo. Cleo is in a long-distance relationship while also engaging with the patient.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be self-reliant to be in a successful relationship.",
+  "intermediate_belief_depression": "I can't handle being alone.",
+  "coping_strategies": "Using drugs as an escape when stressed or feeling alone.",
+  "situation": "During an outing, Cleo discussed relationship problems and sought emotional support.",
+  "auto_thought": "I miss her, and I feel utterly alone.",
+  "emotion": [
+    "Sad",
+    "Lonely",
+    "Angry"
+  ],
+  "behavior": "Engaging in drug use when feeling stressed or alone."
+}

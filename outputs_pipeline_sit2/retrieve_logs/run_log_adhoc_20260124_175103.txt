@@ -1,0 +1,87 @@
+Using description: HISTORY:
+- Ongoing workplace difficulties involving feeling undervalued and unsupported.
+- Repeated experiences of ideas not being accepted.
+
+SITUATION:
+- A workplace discussion about culture and atmosphere was scheduled.
+- The mentor scheduled a client meeting at the same time as the discussion, creating a conflict. with ID=15-1
+Top results (by metadata similarity):
+  - sim=0.649 | title='Patient "Ju" Session March 16, 2012: Client has had a frustrating and stressful ' | file='1004522810.txt'
+  - sim=0.636 | title='Patient "Ju", Session April 02, 2012: Client is frustrated with work and her sup' | file='1004532436.txt'
+  - sim=0.630 | title='Patient "Ju", Session March 26, 2012: Client feels hostile towards some of her c' | file='1004528611.txt'
+  - sim=0.614 | title='Patient "M", Session May 16, 2012: Client is putting in for a transfer at work t' | file='1004564975.txt'
+  - sim=0.610 | title='Session 18: Client has a relationship with another man besides her fiancé. She f' | file='1000133838.txt'
+  - sim=0.597 | title='Patient "Ju", Session October 10, 2012: Client is irritated at the way her super' | file='1004798747.txt'
+  - sim=0.592 | title='Patient "B", Session June 29, 2012: Client is worried that she may not be making' | file='1004600900.txt'
+  - sim=0.589 | title='Patient "B", Session October 18, 2012: Client is frustrated with processes at wo' | file='1004798849.txt'
+  - sim=0.585 | title='Patient "A" Therapy Session Audio Recording, February 07, 2012:  Client again fi' | file='1004503150.txt'
+  - sim=0.582 | title='Session 5: Client talks about the anxiety her boss can provoke in her. Client do' | file='1000094542.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.649 | file='1004522810.txt' | title='Patient "Ju" Session March 16, 2012: Client has had a frustrating and stressful '
+  - sim=0.636 | file='1004532436.txt' | title='Patient "Ju", Session April 02, 2012: Client is frustrated with work and her sup'
+  - sim=0.630 | file='1004528611.txt' | title='Patient "Ju", Session March 26, 2012: Client feels hostile towards some of her c'
+Using top selected file for transcript: '1004522810.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is experiencing ongoing workplace difficulties characterized by feelings of being undervalued and unsupported. There have been repeated instances where the patient's ideas have not been accepted, contributing to a sense of professional frustration and inadequacy. A recent situation involved a scheduling conflict where the patient's mentor arranged a client meeting at the same time as a workplace discussion about culture and atmosphere, which the patient was interested in attending.
+
+**Emotional Impact:**
+The patient likely experiences a range of negative emotions due to these workplace challenges. The feeling of being undervalued and unsupported may lead to emotions such as sadness, disappointment, and frustration. The repeated rejection of ideas could contribute to feelings of inadequacy and self-doubt. The scheduling conflict, particularly by a mentor, might evoke feelings of being overlooked or dismissed, potentially leading to anger or irritation.
+
+**Cognitive Patterns:**
+The patient may engage in cognitive patterns that exacerbate their emotional distress. The perception of being undervalued might lead to negative automatic thoughts such as "My contributions don't matter" or "I'm not respected here." The repeated rejection of ideas could reinforce beliefs of incompetence or lack of worth, such as "My ideas are never good enough." The scheduling conflict might trigger thoughts of being unimportant or secondary, like "My needs are not a priority."
+
+**Behavioral Responses:**
+In response to these stressors, the patient might engage in behaviors such as withdrawing from workplace discussions, avoiding proposing new ideas, or ruminating over perceived slights and rejections. The patient might also procrastinate on tasks that require collaboration or seek reassurance from colleagues about their value and contributions. The conflict with the mentor could lead to avoidance of future interactions or reluctance to assert needs and preferences.
+
+**Coping Styles:**
+The patient may rely on coping strategies that are not fully effective in addressing their workplace challenges. For instance, they might attempt to minimize conflict by not voicing concerns or by acquiescing to others' schedules and priorities. They might also cope by internalizing blame for the lack of support and acceptance, which could further entrench feelings of inadequacy.
+
+**Interpretation Using Transcript Patterns:**
+Drawing from the transcript, individuals in similar situations often experience heightened stress and anxiety when their professional environment feels dismissive or invalidating. The transcript illustrates how such experiences can lead to feelings of helplessness and frustration, as well as a desire for acknowledgment and support. The patient might similarly feel trapped in a cycle of unmet expectations and unaddressed grievances, leading to emotional exhaustion.
+
+**Conclusion:**
+The patient's workplace difficulties are likely contributing to significant emotional distress, characterized by feelings of being undervalued and unsupported. These experiences may reinforce negative cognitive patterns and lead to maladaptive behavioral responses. Addressing these issues through cognitive restructuring and developing more effective coping strategies could help the patient navigate their workplace challenges more effectively.
+Summary da mistral_.csv: The client discussed a recent staff meeting at work where they felt frustrated and disappointed as the head of the library, Karl, presented a disorganized and irrelevant PowerPoint about open source libraries, which was not related to their department. The client was also upset about Karl's narrow understanding of open source and his dismissive attitude towards their concerns about the new organizational library. Additionally, the client had a technical issue with a computer and encountered resistance from the IT department head, Harry, when reporting the problem.
+The client described an experience of feeling helpless and unsupported at work, where she was upset and cried in a bathroom stall after someone else was also crying. She felt unheard and unvalidated, especially when her colleague Harry yelled at her about documentation for the media suite tables. The client felt disrespected and excluded from the department, as she was often not included in trainings or given permission to perform certain tasks. She described feeling bullied and belittled by Harry, who made her feel incompetent and stupid. The client expressed a desire for someone to pay attention to her and validate her experiences, but felt stuck in her current situation. She mentioned feeling frustrated and helpless, and considered talking to her supervisor about the issue.
+The client expresses feelings of insecurity about their job due to perceived criticism from a colleague, Harry, who publicly devalues their IT work and questions its necessity. The client feels small and incompetent as a result, and is particularly upset because they had asked Harry for help but received contemptuous treatment instead. The client also mentions a history of discomfort with asking for help and feeling excluded from tasks they are involved in at work.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of ongoing workplace difficulties, specifically feeling undervalued and unsupported. There have been repeated experiences where their ideas are not accepted, which has contributed to a sense of professional frustration and inadequacy. These patterns have led to emotional distress and may have reinforced negative beliefs about their worth and competence.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If my ideas are not accepted or my needs are overlooked, it means I am not valued here and my presence is insignificant. I must not assert myself because it won't make a difference. If I try to participate, I will just be ignored again.",
+  "intermediate_belief_depression": "If I keep being dismissed and unsupported, nothing will ever change and I will always feel inadequate and invisible at work.",
+  "coping_strategies": [
+    "The client tends to withdraw from workplace discussions and avoids proposing new ideas to minimize further rejection. They may ruminate over perceived slights and internalize blame, which maintains feelings of inadequacy and distress."
+  ],
+  "situation": "A workplace discussion about culture and atmosphere was scheduled. The mentor scheduled a client meeting at the same time as the discussion, creating a conflict.",
+  "auto_thought": "They don't care about what I want or need. No matter what I do, my priorities are always ignored.",
+  "emotion": [
+    "frustrated",
+    "disappointed",
+    "hurt",
+    "angry",
+    "unimportant",
+    "sad"
+  ],
+  "behavior": "I withdrew from the discussion and did not raise my concerns about the scheduling conflict. I avoided speaking up to the mentor and kept my feelings to myself."
+}

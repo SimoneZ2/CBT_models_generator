@@ -1,0 +1,23 @@
+{
+  "name": "Patient Name",
+  "id": "12345",
+  "type": [
+    "CBT"
+  ],
+  "history": "Spent about one year working on a project in Europe involving building a website and conducting interviews. Reports pride in the work and a wish to share the results. Past history of procrastination and anxiety. Uses strategies learned from a course and reminders to manage daily life.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be in control of my schedule to feel secure.",
+  "intermediate_belief_depression": "If I can't manage my schedule, I will fail.",
+  "coping_strategies": "Uses reminders and strategies from a course to manage daily life.",
+  "situation": "Working on a project close to its deadline with portions still needing to be posted online.",
+  "auto_thought": "I can't handle these changes and it's overwhelming.",
+  "emotion": [
+    "frustration",
+    "anxiety"
+  ],
+  "behavior": "Struggling to adjust to new work hours and increased workload."
+}

@@ -1,0 +1,74 @@
+Using description: HISTORY:
+- Strong identification with a research lab workplace and a sense of camaraderie from interactions and accomplishments.
+- A close coworker left, which had emotional significance for the patient.
+- The lab contrasts with the patient's personal life, described as less predictable and comfortable.
+
+SITUATION:
+- The departure of a valued colleague and the immediate impact of this change. with ID=29-2
+Sample results (metadata similarity):
+  - sim=0.164 | title='Patient "M" Therapy Session Audio Recording, January 30, 2012: Client discusses ' | file='1004478018.txt'
+  - sim=0.168 | title='Patient "B", Session August 03, 2012: Client talks about being sexually assaulte' | file='1004687572.txt'
+  - sim=0.179 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.180 | title='Narrative Therapy With Children: Children can feel overtaken by family problems ' | file='1001114246.txt'
+  - sim=0.185 | title='Patient "B", Session August 24, 2012: Client discusses her family's views on rap' | file='1004687566.txt'
+  - sim=0.187 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.191 | title='Session 17: Client sees herself as having an overbearing, aggressive personality' | file='1000133903.txt'
+  - sim=0.195 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.196 | title='Patient "A" Therapy Session Audio Recording, December 20, 2011: Client is angry ' | file='1004466285.txt'
+  - sim=0.196 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.164 | file='1004478018.txt' | title='Patient "M" Therapy Session Audio Recording, January 30, 2012: Client discusses '
+  - sim=0.168 | file='1004687572.txt' | title='Patient "B", Session August 03, 2012: Client talks about being sexually assaulte'
+  - sim=0.179 | file='1000088127.txt' | title='Session 18: Client tells how he despises people in general.  He seems to feel un'
+Using LEAST related file for transcript: '1004478018.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client entered the session appearing physically tired, mentioning the walk to the office as a taxing endeavor. This physical fatigue seemed to mirror the emotional exhaustion she experiences in her personal life, particularly in her interactions with Chris, her partner. The client shared a recent conversation with Chris, who has been "really grouchy" due to job-related frustrations. This dynamic triggers the client’s past experiences of living with someone who was often angry, reminiscent of her father, who would become "really wound up." The client described feeling reactive in these situations, often resorting to silence during arguments, which only exacerbates Chris's frustration. She noted that when Chris becomes angry, she tends to "stop talking," which leads to a cycle of escalating tension.
+
+The client’s reaction to Chris's anger is complex, involving a mix of automatic thoughts and emotional responses. She described an involuntary urge to smile when others are "so wound up," a behavior that she finds difficult to control. This response seems to be rooted in her childhood experiences with her father, where she would sometimes find his loss of control amusing, thinking, "You look like an idiot." This reaction appears to be a coping mechanism, possibly developed as a way to manage her own anxiety and discomfort in the face of conflict. The client acknowledged that this behavior is not limited to interactions with Chris but occurs in arguments with others as well, suggesting a broader pattern of response.
+
+The departure of a valued colleague from her research lab has left the client feeling unsettled, highlighting the contrast between her professional and personal life. The lab, which she identifies with strongly, provided a sense of camaraderie and predictability, unlike her home environment. This change has likely intensified her feelings of instability and contributed to her current emotional state. The client’s narrative reveals a struggle to articulate her needs and emotions effectively, often feeling misunderstood by Chris. She expressed a desire to explain herself but noted that her attempts often fall short, leading to further frustration.
+
+Throughout the session, the client reflected on her tendency to derive a "satisfying feeling" from witnessing others lose their composure, a pattern that seems to have roots in her childhood interactions with her father. This insight suggests a possible link between her past experiences and current interpersonal dynamics. The client’s reflection on these patterns indicates a growing awareness of how her past influences her present behavior, though she remains uncertain about how to change these automatic responses. The session highlighted the client’s need to develop more adaptive coping strategies and communication skills to navigate her personal relationships more effectively.
+Summary da mistral_.csv: In this session, the client discussed her reaction to her partner's anger and frustration. She shared that she often stops talking and smirks during arguments, finding it difficult to remain rational. The client explained that this behavior is a response to growing up with a father who would get easily angered and out of control. She admitted to finding pleasure in seeing her partner lose control, which she attributes to her past experiences with her father.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a strong identification with her research lab, which provides a sense of camaraderie and predictability that contrasts with her less comfortable personal life. She has a history of emotionally significant relationships, including a close coworker who recently left and a partner, Chris, whose anger triggers memories of her father's emotional volatility. In childhood, she coped with her father's anger by finding it amusing or by withdrawing, which now manifests in her adult relationships. She struggles to articulate her needs and emotions, often feeling misunderstood and frustrated.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I lose someone important in a place where I feel safe, it means I can't rely on stability or connection. If I don't maintain strong bonds, I risk being left behind and feeling alone. I must avoid showing vulnerability or need, or others will see me as weak and unworthy of support.",
+  "intermediate_belief_depression": "If people I care about leave, it proves that I will always end up alone and unsupported, no matter what I do. There's no point in trying to connect because I can't hold onto what matters.",
+  "coping_strategies": [
+    "When faced with loss or emotional discomfort, the client withdraws, becomes silent, or avoids expressing her needs. She may seek comfort in the predictability of work and suppress her emotions, leading to emotional exhaustion. She also copes by finding a sense of satisfaction in others' loss of composure, which distracts from her own vulnerability."
+  ],
+  "situation": "The departure of a valued colleague and the immediate impact of this change.",
+  "auto_thought": "Now that they're gone, everything feels unstable. I can't count on things staying safe or connected anymore.",
+  "emotion": [
+    "unsettled",
+    "anxious",
+    "sad",
+    "lonely",
+    "vulnerable",
+    "disappointed"
+  ],
+  "behavior": "She withdraws from others in the lab, avoids discussing her feelings about the departure, and immerses herself in work tasks to distract from the loss. She may become quieter and less engaged with remaining colleagues."
+}

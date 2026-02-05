@@ -1,0 +1,53 @@
+{
+  "name": "CBT Cognitive Conceptualization for Patient (Ivan's Family Interaction)",
+  "id": "22-2",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The patient has a history of ongoing interpersonal difficulties involving their partner Ivan and his family. There have been recent trust and betrayal issues with Ivan, which have intensified the patient's emotional distress. The patient continues to have contact with Ivan's family, where dismissive attitudes and invalidation are present, as seen in the mother's comments. These experiences have contributed to patterns of self-doubt, rumination, and a tendency to internalize emotions.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express my true feelings or stand up for myself, others will dismiss or invalidate me, so I must suppress my emotions to avoid further conflict. I have to keep the peace even if it means ignoring my own needs. If I don't go along with what Ivan's family wants, I risk being excluded or blamed.",
+  "intermediate_belief_depression": "No matter what I do, my feelings won't matter and nothing will change, so there's no point in trying to assert myself or seek support.",
+  "coping_strategies": "The patient tends to withdraw from social interactions and avoids discussing the relationship or their feelings with Ivan's family. They often acquiesce to the family's expectations and suppress their own anger or discomfort to maintain harmony, even when it leads to resentment and frustration.",
+  "situation": "During an interaction with Ivan's family, the mother says \"boys will be boys\" and asks the patient to \"forgive and forget\".",
+  "auto_thought": "They don't care how much this hurt me. My feelings don't matter to them at all.",
+  "emotion": [
+    "hurt",
+    "invalidated",
+    "frustrated",
+    "sad",
+    "isolated"
+  ],
+  "behavior": "I stay quiet and don't challenge what Ivan's mother says. I avoid expressing how upset I am and try to keep the peace, even though I feel uncomfortable.",
+  "rationale": "\"The dismissive attitude of Ivan's mother, encapsulated in the phrase 'boys will be boys,' could evoke feelings of invalidation and frustration, as it minimizes the patient's experience and emotions.\" \"The patient may be engaging in cognitive patterns characterized by rumination and self-doubt.\" \"The patient might exhibit behaviors such as withdrawing from social interactions, avoiding discussions about the relationship, or seeking reassurance from others.\" \"This could lead to a pattern of people-pleasing or conflict avoidance, which may further entrench feelings of resentment and frustration.\"",
+  "core_belief_predictions": {
+    "source_id": "22-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am bound to be rejected",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

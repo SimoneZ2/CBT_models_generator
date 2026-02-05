@@ -1,0 +1,28 @@
+{
+  "name": "Case Study",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Health condition requiring time off work for physical therapy. Past interactions with HR and a supervisor related to return-to-work and disability status.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be perfect in my work to be valued.",
+  "intermediate_belief_depression": "If I can't meet expectations, I am a failure.",
+  "coping_strategies": "Overworking and taking on too many responsibilities to prove competence.",
+  "situation": "Recalling a prior interaction with HR that involved feeling judged during medical leave.",
+  "auto_thought": "They think I'm not capable because of my health condition.",
+  "emotion": [
+    "Overwhelmed",
+    "Stressed",
+    "Anxious"
+  ],
+  "behavior": "Avoidance of seeking help or reducing workload, leading to burnout."
+}

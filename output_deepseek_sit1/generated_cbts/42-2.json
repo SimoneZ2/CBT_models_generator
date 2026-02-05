@@ -1,0 +1,27 @@
+{
+  "name": "Patient 42",
+  "id": "42",
+  "type": [
+    "performance anxiety",
+    "dream analysis"
+  ],
+  "history": "Recurrent dreams during graduate school about being unprepared for thesis defense. Father described as having high expectations.",
+  "helpless_belief": [
+    "I am incompetent"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I'm always inadequately prepared, and people notice my shortcomings.",
+  "intermediate_belief_depression": "No matter how hard I work, I'll always feel like an imposter.",
+  "coping_strategies": [
+    "None noted in vignette - likely anxiety and dream distress."
+  ],
+  "situation": "Experiencing recurring dream in which coworkers talk negatively about the individual.",
+  "auto_thought": "My coworkers are talking about me because they see how incompetent I am.",
+  "emotion": [
+    "anxiety",
+    "shame",
+    "vulnerability"
+  ],
+  "behavior": "Experience distressing dream about coworker criticism."
+}

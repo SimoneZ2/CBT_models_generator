@@ -1,0 +1,75 @@
+Using description: HISTORY:
+- Recent divorce and financial difficulties.
+- Relationship since age 19.
+- Has a young son and is settling child support issues.
+- Adjusting to being alone and handling new experiences (e.g., traveling alone with her son, visiting family without a partner).
+
+SITUATION:
+- Received an email from the ex-partner refusing to agree on child support and financial arrangements. with ID=27-1
+Sample results (metadata similarity):
+  - sim=0.002 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.035 | title='Patient "L", Session April 24, 2012: Client struggles with letting go of her nee' | file='1004538616.txt'
+  - sim=0.042 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.043 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.047 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.047 | title='Session 41: Client becomes angry when she is questioned or corrected by anyone; ' | file='1000334634.txt'
+  - sim=0.048 | title='The Brief Therapy-Eliminating a Compulsion: In a large psychotherapy conference ' | file='1000119395.txt'
+  - sim=0.053 | title='Session 8: Client tells therapist how bad she was feeling and then how she start' | file='1000013260.txt'
+  - sim=0.053 | title='Verilogue session: Client's medication is causing insomnia. They discuss ways to' | file='1003009264.txt'
+  - sim=0.056 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=0 partial_match=2020
+match_used=PARTIAL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=PARTIAL
+  - sim=0.002 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.035 | file='1004538616.txt' | title='Patient "L", Session April 24, 2012: Client struggles with letting go of her nee'
+  - sim=0.042 | file='1000275936.txt' | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a '
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who is navigating the aftermath of a recent divorce, is currently facing significant financial difficulties and the emotional strain of settling child support issues for her young son. During the session, she shared her experience of receiving an email from her ex-partner, who refused to agree on child support and financial arrangements. This situation has left her feeling "frustrated" and "overwhelmed," as she grapples with the reality of being alone and managing new experiences, such as traveling solo with her son and visiting family without a partner. The client expressed a sense of being "in a bubble," focusing intensely on her intellectual pursuits, particularly in mathematics, as a way to cope with her current life challenges. She described her immersion in math as a "cerebral kind of place," which provides a temporary escape from the emotional turmoil of her personal life.
+
+Throughout the session, the client frequently returned to the theme of learning and teaching mathematics, which seems to serve as both a distraction and a source of accomplishment. She recounted how working through complex mathematical problems, such as proofs, allows her to feel a sense of "progress" and "achievement," contrasting with the uncertainty and lack of control she feels in her personal life. The client noted that the process of grappling with difficult concepts and eventually mastering them is "enjoyable" and provides a sense of "fulfillment." This intellectual engagement appears to be a coping strategy, helping her to manage feelings of inadequacy and self-doubt that arise from her current situation.
+
+The client also discussed her teaching experiences, highlighting the satisfaction she derives from helping others understand challenging material. She described a recent instance where she used "colored chalk" to draw pictures and explain mathematical concepts to her peers, which was met with positive feedback. This experience reinforced her belief in the value of "visual learning" and the importance of "context" in teaching. However, she also expressed some "self-consciousness" about her preoccupation with math, questioning why she is so focused on it when there is "not an obvious need for it" in her current life circumstances.
+
+As the session progressed, the client reflected on her relationship with learning and knowledge, drawing parallels between her experiences in mathematics and her broader life challenges. She mentioned feeling "infuriated" when encountering new mathematical symbols and concepts that she initially cannot understand, but also recognized that this frustration is a necessary part of the learning process. This mirrors her emotional response to the challenges in her personal life, where she feels "less than" or "not educated enough" to fully appreciate her circumstances. The client acknowledged that her intellectual pursuits provide a sense of structure and predictability, which contrasts with the "murky" and "contentious" nature of her personal and emotional experiences.
+
+In summary, the client's engagement with mathematics serves as both a refuge and a means of asserting control in a life currently characterized by uncertainty and change. Her intellectual pursuits offer a temporary reprieve from the emotional challenges of her divorce and financial difficulties, while also providing a framework for understanding and navigating her broader life experiences. The session highlighted the client's need for structure and clarity, both in her intellectual endeavors and in her personal life, as she continues to adjust to her new reality.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client is dealing with the aftermath of a recent divorce, financial difficulties, and the emotional strain of settling child support issues for her young son. She has been in a relationship since age 19 and is now adjusting to being alone and handling new experiences.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't control my personal life, then I must find control and achievement elsewhere, like in my intellectual pursuits.",
+  "intermediate_belief_depression": "If I can't manage my personal life, then I am failing overall.",
+  "coping_strategies": [
+    "The client immerses herself in mathematics as a way to escape emotional turmoil and gain a sense of progress and achievement. She focuses intensely on intellectual pursuits to manage feelings of inadequacy and self-doubt."
+  ],
+  "situation": "Received an email from the ex-partner refusing to agree on child support and financial arrangements.",
+  "auto_thought": "I can't believe this is happening. I'm never going to get this resolved.",
+  "emotion": [
+    "frustrated",
+    "overwhelmed",
+    "infuriated",
+    "self-conscious",
+    "inadequate"
+  ],
+  "behavior": "She immerses herself in mathematics, focusing on solving complex problems to distract herself from the situation."
+}

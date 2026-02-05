@@ -1,0 +1,24 @@
+{
+  "name": "Patient",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Multiple past jobs involved micromanagement. Reports self-blame in work contexts.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to perform perfectly to be valued.",
+  "intermediate_belief_depression": "If I make mistakes, I will be criticized and rejected.",
+  "coping_strategies": "Avoids challenging tasks and procrastinates to avoid failure.",
+  "situation": "Experiencing micromanagement at the workplace and considering resigning.",
+  "auto_thought": "I can't handle this job; I'm going to fail.",
+  "emotion": [
+    "anxiety",
+    "frustration"
+  ],
+  "behavior": "Considering resignation due to feeling overwhelmed."
+}

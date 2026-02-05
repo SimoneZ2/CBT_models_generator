@@ -1,0 +1,90 @@
+Using description: HISTORY:
+- Involvement in a complex romantic situation with a person named Cleo.
+- Cleo is in a long-distance relationship while also engaging with the patient.
+
+SITUATION:
+- Saw concerning text messages from another person on Cleo's device. with ID=33-2
+Top results (by metadata similarity):
+  - sim=0.622 | title='Patient "S", Session June 29, 2012: Client is upset with her boyfriend. He has b' | file='1004687752.txt'
+  - sim=0.621 | title='Patient "S", Session June 22, 2012: Client is irritated by her boyfriend's drink' | file='1004687774.txt'
+  - sim=0.598 | title='Patient "S", Session July 12, 2012: Client is very upset in this session. She re' | file='1004687758.txt'
+  - sim=0.585 | title='Verilogue session: Client feels rejected by her children and repeatedly plays th' | file='1001083918.txt'
+  - sim=0.577 | title='Verilogue session: Client talks about his growing family' | file='1002565915.txt'
+  - sim=0.575 | title='Verilogue session: Client is considering a medication increase due to the stress' | file='1002565896.txt'
+  - sim=0.570 | title='Verilogue session: Client was hospitalized recently for severe depression. He su' | file='1001083968.txt'
+  - sim=0.565 | title='Verilogue session: Client's mood has been down and depressed' | file='1003009224.txt'
+  - sim=0.553 | title='Verilogue session: Client's mood is more positive now that he has reconciled wit' | file='1001084012.txt'
+  - sim=0.549 | title='Session 1: Client has issues with being on medication. She is not sure if her de' | file='1000094419.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2 partial_match=8
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=2
+  - sim=0.577 | file='1002565915.txt' | title='Verilogue session: Client talks about his growing family'
+  - sim=0.553 | file='1001084012.txt' | title='Verilogue session: Client's mood is more positive now that he has reconciled wit'
+Using top selected file for transcript: '1002565915.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is involved in a complex romantic situation with a person named Cleo, who is in a long-distance relationship while also engaging with the patient. The patient recently saw concerning text messages from another person on Cleo's device.
+
+**Emotional Impact:**
+The patient's emotional experience is likely characterized by feelings of anxiety, insecurity, and confusion. The discovery of concerning text messages on Cleo's device may have triggered feelings of betrayal and mistrust. The complexity of the romantic situation, with Cleo being involved in a long-distance relationship, could exacerbate feelings of uncertainty and instability in the patient's emotional state.
+
+**Cognitive Patterns:**
+The patient may engage in ruminative thinking, frequently revisiting the text messages and questioning Cleo's intentions and loyalty. This cognitive pattern can lead to heightened anxiety and difficulty concentrating on other aspects of life. The patient might also experience cognitive distortions, such as jumping to conclusions or catastrophizing, imagining worst-case scenarios about the relationship's future.
+
+**Behavioral Responses:**
+In response to the emotional turmoil, the patient might exhibit behaviors such as seeking reassurance from Cleo or others, frequently checking Cleo's device or social media for further evidence, or withdrawing from social interactions due to preoccupation with the relationship. The patient may also avoid discussing the issue directly with Cleo, fearing confrontation or the potential end of the relationship.
+
+**Coping Styles:**
+The patient might rely on maladaptive coping strategies, such as avoidance or denial, to manage the distressing emotions associated with the situation. Alternatively, the patient might engage in problem-solving behaviors, attempting to address the issue directly with Cleo to gain clarity and reassurance.
+
+**Psychological Interpretation:**
+Drawing from the transcript, individuals in complex relational situations often experience heightened emotional responses, such as anxiety and insecurity, when faced with ambiguous or concerning information. The patient's emotional and cognitive reactions are consistent with those observed in similar contexts, where uncertainty and perceived threats to relational stability can lead to increased vigilance and preoccupation with the partner's actions.
+
+**Recommendations:**
+1. **Cognitive Restructuring:** Encourage the patient to identify and challenge cognitive distortions, such as catastrophizing or jumping to conclusions, to reduce anxiety and improve emotional regulation.
+2. **Communication Skills:** Support the patient in developing effective communication strategies to address concerns with Cleo directly, fostering openness and transparency in the relationship.
+3. **Mindfulness and Relaxation Techniques:** Introduce mindfulness practices to help the patient manage anxiety and remain present-focused, reducing the impact of ruminative thinking.
+4. **Exploration of Values and Goals:** Assist the patient in clarifying personal values and relationship goals, which can guide decision-making and enhance relationship satisfaction.
+
+By addressing these areas, the patient can work towards a more balanced emotional state and healthier relational dynamics.
+Summary da mistral_.csv: The patient discusses her upcoming second pregnancy, sharing that she and her partner have a one-year-old daughter and plan to have a C-section for the new baby. They have a house under construction, adding a new master bedroom and master bath. The patient's partner is building the addition with the help of an older cousin. The patient mentions her own pregnancy symptoms, including swelling and back pain, and shares that her first child's hernia surgery was more complicated than anticipated. The patient's family is doing well, and her partner was with her during the session. The patient discusses her work, which is steady but dependent on one main customer, and expresses no plans to change her business approach.
+The patient discussed their work situation, mentioning that some buyers were cutting back until after the election. They also spoke about their learning of chemistry and their role in the business, which has remained the same. The patient mentioned that they and their family get along well, and they have a sore throat but no fever. They discussed their hobbies, which include working outside and helping with household tasks. The patient mentioned an addition to their house that is being constructed and their consistent work performance. They also spoke about their sister's new relationship with a quiet man who works at a factory in a nearby town. The patient expressed concern about their sister's attachment to her mother and the potential impact on the new relationship.
+The patient expresses concerns about their spouse's relationship with someone they met online, mentioning that they had been communicating before revealing the relationship to others. The patient feels that in-person communication is preferable and criticizes the excessive use of text messages and emails in modern communication. They also discuss the potential for misunderstandings and confusion in such forms of communication. The doctor agrees and shares their own observation about the challenges of deceit in video calls. The conversation touches upon the use of technology in communication and its potential drawbacks.
+
+ REFINED CCD: description + report
+{
+  "history": "The patient is involved in a complicated romantic situation with Cleo, who is already in a long-distance relationship but is also engaging with the patient. This relational complexity likely contributes to ongoing feelings of uncertainty and instability. The patient has recently encountered evidence (concerning text messages) suggesting Cleo may be communicating with yet another person, which intensifies existing insecurities and mistrust. The patient’s emotional state appears to be shaped by repeated exposure to ambiguous or threatening relational cues.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If someone I care about is communicating with others in secret, it means I am not important enough to them, and I must constantly be on guard to avoid being hurt. I have to monitor for signs of betrayal because I can't trust that people will be honest with me. If I don't stay vigilant, I will end up abandoned or deceived.",
+  "intermediate_belief_depression": "If I can't trust the person I'm with and I keep finding evidence that I'm not their priority, it means I will always end up alone and unhappy, no matter what I do.",
+  "coping_strategies": [
+    "The patient tends to ruminate about the meaning of the messages and Cleo's intentions, repeatedly checking for more evidence and seeking reassurance. They may avoid directly confronting Cleo about their concerns, fearing the potential fallout or confirmation of their worst fears. This leads to further preoccupation and emotional withdrawal from other activities."
+  ],
+  "situation": "Saw concerning text messages from another person on Cleo's device.",
+  "auto_thought": "I can't trust Cleo—she's probably hiding things from me. I'm going to end up hurt and alone if I let myself care.",
+  "emotion": [
+    "anxious",
+    "insecure",
+    "betrayed",
+    "worried",
+    "sad",
+    "confused"
+  ],
+  "behavior": "I keep checking Cleo's device or social media for more evidence. I avoid talking to Cleo directly about what I saw. I withdraw from other people and spend time ruminating about what the messages mean."
+}

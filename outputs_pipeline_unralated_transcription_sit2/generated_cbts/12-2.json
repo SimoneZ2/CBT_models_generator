@@ -1,0 +1,28 @@
+{
+  "history": "The client is a PhD student in a science field with a strong background in music, having previously led a college band and currently participating in a jazz group. They were offered a leadership position in the jazz group but declined due to concerns about balancing responsibilities with their PhD work and mental health. The client reports feeling disconnected from colleagues in their scientific environment, citing differing values and work habits. They find solace in the logical progression of mathematics and use physical activity to manage stress. The client values teaching and learning, but struggles with expectations of conciseness and efficiency. They often feel 'in a bubble' of intellectual immersion, which provides refuge from interpersonal complexities, but also leads to self-consciousness and questioning of relevance. The client experiences a sense of inadequacy outside their expertise, especially with ambiguous or subjective material.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I take on too much, I will become overwhelmed and fail at both my PhD and music. I need to avoid additional responsibilities to protect my mental health and academic progress. If I can't manage everything perfectly, others will see me as inadequate or unreliable.",
+  "intermediate_belief_depression": "If I can't handle these opportunities, it means I'm not as capable or strong as I should be, and maybe I never will be. No matter how hard I try, I won't be able to keep up with what others expect, so it's safer not to try.",
+  "coping_strategies": [
+    "The client immerses themselves in mathematics and intellectual pursuits to escape interpersonal stress and ambiguity. They use physical activity, such as biking and lifting weights, to manage stress and gain mental clarity. They avoid taking on new leadership roles or responsibilities that might increase their sense of overwhelm."
+  ],
+  "situation": "Offered a leadership position in the jazz group and decided not to accept it due to concern about managing responsibilities alongside PhD work and mental health.",
+  "auto_thought": "If I take on this leadership role, I'll get overwhelmed and mess up both my PhD and the band. I can't trust myself to handle it all.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "self-doubt",
+    "ashamed",
+    "disappointed",
+    "tense"
+  ],
+  "behavior": "Declined the leadership position in the jazz group. Avoided discussing the offer further with group members. Focused on academic work and physical activity to distract from the decision."
+}

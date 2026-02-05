@@ -1,0 +1,36 @@
+{
+  "name": "Workplace Underappreciation Case",
+  "id": "case001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization",
+    "Workplace Stress"
+  ],
+  "history": "The client has a history of ongoing workplace difficulties, specifically feeling underappreciated and unsupported. They have repeatedly experienced their ideas and suggestions being dismissed or not accepted by colleagues or supervisors. These repeated experiences have likely contributed to feelings of inadequacy and self-doubt, as well as a sense of being undervalued. The ongoing lack of support and appreciation appears to have shaped their current emotional and cognitive responses to workplace situations.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If my ideas are not accepted or valued, it means I am not competent or respected at work. I must always have my contributions recognized to feel secure. If I am not supported, I am failing in my role.",
+  "intermediate_belief_depression": "If I keep being ignored and unsupported, it proves that I am not good enough and nothing will ever change, so there's no point in trying.",
+  "coping_strategies": "The client tends to withdraw from discussions or hesitate to share ideas to avoid further rejection. They may procrastinate on collaborative tasks and seek reassurance from colleagues or mentors, but if this is not received, they disengage further. They sometimes distract themselves with unrelated tasks to avoid confronting workplace challenges.",
+  "situation": "A workplace discussion about culture and atmosphere conflicted with a client meeting scheduled by the mentor.",
+  "auto_thought": "No one cares about my input or schedule. Whatever I do, it won't matter because my needs are always ignored.",
+  "emotion": [
+    "anxious",
+    "frustrated",
+    "overwhelmed",
+    "sad",
+    "discouraged"
+  ],
+  "behavior": "I hesitate to speak up in the discussion. I withdraw and avoid contributing my ideas. I focus on other tasks to distract myself from the conflict.",
+  "rationale": "The report describes 'feelings of being undervalued and neglected,' 'repeated rejection of their ideas and suggestions,' and 'anticipatory anxiety, worrying about future interactions and the potential for further rejection or conflict.' It also notes 'avoidance behaviors, such as withdrawing from discussions or hesitating to share ideas,' and 'distraction or disengagement to manage their emotional distress.' These patterns support the selected beliefs, thoughts, emotions, and behaviors."
+}

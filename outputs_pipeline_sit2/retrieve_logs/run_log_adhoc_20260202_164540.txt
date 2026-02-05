@@ -1,0 +1,78 @@
+Using description: HISTORY:
+- History of isolation and chronic depression since late adolescence.
+- Past difficulties with friendships.
+- Recent breakup preceding a relapse into a depressive episode.
+- History of taking SSRIs and recent medication adjustments following the relapse.
+
+SITUATION:
+- Planned a weekend for sewing and catching up on work tasks.
+- Was unable to focus on familiar tasks and spent the day watching television. with ID=11-2
+Sample results (metadata similarity):
+  - sim=0.050 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.224 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.234 | title='Client "S", Session September 21, 2012: Client is currently working towards his ' | file='1004824793.txt'
+  - sim=0.248 | title='Patient "B", Session August 03, 2012: Client talks about being sexually assaulte' | file='1004687572.txt'
+  - sim=0.249 | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c' | file='1001114245.txt'
+  - sim=0.249 | title='Session 63: Client discusses her need to be in control even while having sexual ' | file='1000367962.txt'
+  - sim=0.254 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.255 | title='Patient "Ju", Session April 06, 2012: Client recently went to a friend's book re' | file='1004532438.txt'
+  - sim=0.256 | title='Volume no. 7: Client feels ambivalent about his life in general. He is concerned' | file='1001282221.txt'
+  - sim=0.258 | title='Eliminating Allergies' | file='1000137957.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.050 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.224 | file='1000088127.txt' | title='Session 18: Client tells how he despises people in general.  He seems to feel un'
+  - sim=0.234 | file='1004824793.txt' | title='Client "S", Session September 21, 2012: Client is currently working towards his '
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of isolation and chronic depression since late adolescence, presents with a complex interplay of cognitive and emotional experiences. Recently, they experienced a relapse into a depressive episode following a breakup, which has been compounded by past difficulties with friendships. Despite a planned weekend for sewing and catching up on work tasks, the client found themselves unable to focus, spending the day watching television instead. This inability to engage in familiar tasks seems to reflect a broader pattern of avoidance and withdrawal, which is consistent with their depressive history.
+
+During the session, the client expressed a sense of satisfaction and accomplishment in their mathematical pursuits, describing how "being on the bike and lifting weights somehow cleared my mind enough to see how to proceed." This suggests that physical activity may serve as a coping mechanism, providing mental clarity and a temporary reprieve from depressive symptoms. However, the client also conveyed feelings of frustration and self-consciousness, particularly when discussing the challenges of learning new mathematical concepts. They noted, "I can't do it in my head," highlighting a struggle with self-doubt and the pressure to perform intellectually.
+
+The client's narrative is rich with themes of intellectual immersion and the pursuit of understanding, which appear to serve as both a source of fulfillment and a potential escape from emotional distress. They described the process of learning as "a launching pad to do interesting stuff," indicating that intellectual engagement offers a sense of purpose and progress. Yet, there is an underlying tension between this intellectual focus and the client's awareness of their isolation, as they mentioned feeling "in this little bubble of math."
+
+Throughout the session, the client repeatedly returned to the theme of teaching and tutoring, expressing a desire to help others understand complex material. This aligns with their history of seeking connection through intellectual means, despite past difficulties with friendships. The client reflected on the satisfaction of making complex ideas accessible, stating, "It's nice to feel like, 'OK, for some reason—probably just a lot of hard work—for some reason this seems clear to me.'" This suggests that teaching may provide a sense of validation and connection that is otherwise lacking in their interpersonal relationships.
+
+Despite the intellectual achievements, the client expressed a sense of being "bogged down with details" and occasionally feeling "self-conscious" about their preoccupation with mathematics. This reflects a cognitive pattern of rumination and self-criticism, which may exacerbate feelings of depression and isolation. The client's narrative also revealed a mismatch between their intellectual pursuits and their emotional needs, as they acknowledged, "I choose to because I am usually thinking about this because I'm thinking about this all the time," suggesting a potential avoidance of deeper emotional issues.
+
+In conclusion, the client's session highlights a complex interplay between intellectual engagement and emotional distress. While mathematics and teaching provide a sense of purpose and temporary relief from depressive symptoms, there is a persistent undercurrent of isolation and self-doubt. The client's cognitive patterns of rumination and avoidance, coupled with their history of depression, suggest a need for therapeutic interventions that address both the intellectual and emotional dimensions of their experience.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has experienced chronic depression and isolation since late adolescence, with longstanding difficulties forming and maintaining friendships. A recent breakup triggered a relapse into a depressive episode, leading to medication adjustments. The client often immerses themselves in intellectual pursuits, such as mathematics and teaching, which provide temporary relief and a sense of accomplishment but also highlight their ongoing social isolation. There is a pattern of avoidance and withdrawal, particularly when faced with emotional distress or tasks that feel overwhelming.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't focus or complete my planned tasks, it means I'm failing and there's something wrong with me. If I don't accomplish what I set out to do, others will see me as incapable or lazy. I must always be productive and intellectually engaged to prove my worth and avoid feeling the pain of isolation.",
+  "intermediate_belief_depression": "If I can't even do the things I planned, it shows that I'm hopeless and nothing will ever get better. When I fail to engage, it confirms that I'm stuck and there's no point in trying.",
+  "coping_strategies": [
+    "The client withdraws and avoids tasks or social interactions when distressed, often turning to passive activities like watching television. They immerse themselves in intellectual pursuits or teaching as a way to escape emotional discomfort and gain a sense of validation, but this also reinforces their isolation. Physical activity is occasionally used for temporary relief, but avoidance and rumination remain dominant."
+  ],
+  "situation": "Planned a weekend for sewing and catching up on work tasks. Was unable to focus on familiar tasks and spent the day watching television.",
+  "auto_thought": "I can't even do the simple things I planned. This just proves I'm never going to get better.",
+  "emotion": [
+    "frustrated",
+    "ashamed",
+    "sad",
+    "hopeless",
+    "self-critical",
+    "disappointed"
+  ],
+  "behavior": "I avoided sewing and work tasks. I spent the day watching television instead of doing what I planned. I withdrew from any effort to engage with my goals."
+}

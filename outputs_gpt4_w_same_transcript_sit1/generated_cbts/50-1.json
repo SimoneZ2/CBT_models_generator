@@ -1,0 +1,27 @@
+{
+  "name": "Case of Ethan's Friend",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Longstanding friendship with Ethan since high school (about 14 years). Shared personal crises and professional collaborations. Learned that Ethan has been abusive toward his girlfriend.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't maintain control, I will be overwhelmed by emotions.",
+  "intermediate_belief_depression": "If I don't address the situation, I will lose my sense of self-worth.",
+  "coping_strategies": "Avoid expressing emotions openly and maintain control over emotional responses.",
+  "situation": "Learning about Ethan's abusive behavior toward his partner and feeling distressed. Observing erratic behavior and signs of substance use at a recent gathering.",
+  "auto_thought": "I should have seen this coming and done something to prevent it.",
+  "emotion": [
+    "Distress",
+    "Guilt",
+    "Confusion"
+  ],
+  "behavior": "Withdrawing from social interactions and avoiding confrontation with Ethan."
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Patient 30",
+  "id": "30",
+  "type": [
+    "family estrangement",
+    "identity disclosure"
+  ],
+  "history": "Recently completed undergraduate degree and entering workforce. Came out to parents with negative reactions, became distant. Moved to New York for education and identity exploration. Strained relationship with mother and sister.",
+  "helpless_belief": [],
+  "unlovable_belief": [
+    "I am undesirable, unwanted",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "My family will never accept my true identity or relationships.",
+  "intermediate_belief_depression": "I'm fundamentally unacceptable to my family because of who I am.",
+  "coping_strategies": [
+    "Geographic distance from family, limited disclosure."
+  ],
+  "situation": "Deciding whether to disclose recent breakup to parents.",
+  "auto_thought": "If I tell them about the breakup, they'll just judge me or say 'I told you so.'",
+  "emotion": [
+    "vulnerability",
+    "protective",
+    "resentment"
+  ],
+  "behavior": "Contemplate whether to share breakup news with parents."
+}

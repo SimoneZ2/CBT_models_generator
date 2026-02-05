@@ -1,0 +1,33 @@
+{
+  "history": "Sarah has a history of childhood separations from her parents that were associated with distress. She currently feels isolated during the week due to Amelia's demanding professional schedule. Sarah does most household tasks and avoids discussing her resentment with Amelia, leading to a sense of disconnection. She immerses herself in intellectual activities, such as tutoring mathematics, which provides her with a sense of accomplishment and temporarily alleviates feelings of inadequacy. She feels self-conscious about her focus on math, questioning its value, and struggles with emotional vulnerability in her relationship.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express my resentment or needs, I will disrupt the relationship and be left alone, so it's safer to keep quiet and manage things myself. If I am not able to handle everything on my own, it means I am failing as a partner. I must avoid conflict to maintain connection, even if it means sacrificing my own needs.",
+  "intermediate_belief_depression": "If I can't make things better or get my needs met, it means nothing will ever change and I will always feel alone and unimportant. Trying to speak up won't help, so there's no point in hoping for things to improve.",
+  "coping_strategies": [
+    "Sarah avoids direct communication with Amelia about her feelings of isolation and resentment, instead immersing herself in intellectual activities like tutoring math to distract from emotional discomfort. She takes on most household tasks without discussion, reinforcing her sense of invisibility and maintaining the status quo. Her intellectual pursuits provide temporary relief but do not address the underlying relational issues."
+  ],
+  "situation": "Doing laundry and thinking about the future of the relationship and her domestic role.",
+  "auto_thought": "I'm always the one doing everything around here; Amelia doesn't even notice how much I do. If this keeps going, I'll just keep feeling more alone and unimportant.",
+  "emotion": [
+    "isolated",
+    "resentful",
+    "sad",
+    "anxious",
+    "unappreciated",
+    "self-conscious"
+  ],
+  "behavior": "Sarah continues doing the laundry in silence, avoids bringing up her feelings with Amelia, and later distracts herself by focusing on math tutoring or academic work."
+}

@@ -1,0 +1,84 @@
+Using description: HISTORY:
+- History of family conflicts and strained relationships.
+- Trust and boundary issues in relationships, including with people who struggle with alcoholism.
+- Past episodes of aggressive behavior.
+
+SITUATION:
+- Spending time alone during holidays. with ID=44-1
+Top results (by metadata similarity):
+  - sim=0.690 | title='Patient "M" Therapy Session Audio Recording, January 23, 2012: Client discusses ' | file='1004478010.txt'
+  - sim=0.648 | title='Patient "M" Therapy Session Audio Recording, March 26, 2012: Client is upset to ' | file='1004528625.txt'
+  - sim=0.646 | title='Verilogue session: Client's spouse has a drinking problem and it is creating wor' | file='1001084068.txt'
+  - sim=0.640 | title='Session 8: Client has been monitoring herself and trying to calm down when she f' | file='1000094513.txt'
+  - sim=0.636 | title='Patient "C" Therapy Session Audio Recording, April 24, 2012: Client feels engulf' | file='1004538644.txt'
+  - sim=0.630 | title='Patient "M" Therapy Session Audio Recording, June 04, 2012: Client talks about r' | file='1004600914.txt'
+  - sim=0.616 | title='Patient "M" Therapy Session Audio Recording, January 26, 2012: Client feels dama' | file='1004478016.txt'
+  - sim=0.614 | title='Patient "C" Therapy Session Audio Recording, May 08, 2012: Client discusses his ' | file='1004565017.txt'
+  - sim=0.610 | title='Session 1: Client tells therapist some of her reasons for coming to therapy, mai' | file='1000088094.txt'
+  - sim=0.606 | title='Session 7: Client has been experiencing "cold" feelings towards her fiancé which' | file='1000126013.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.690 | file='1004478010.txt' | title='Patient "M" Therapy Session Audio Recording, January 23, 2012: Client discusses '
+  - sim=0.648 | file='1004528625.txt' | title='Patient "M" Therapy Session Audio Recording, March 26, 2012: Client is upset to '
+  - sim=0.646 | file='1001084068.txt' | title='Verilogue session: Client's spouse has a drinking problem and it is creating wor'
+Using top selected file for transcript: '1004478010.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of family conflicts and strained relationships, which have likely contributed to trust and boundary issues in their interpersonal interactions. These issues are further complicated by past experiences with individuals struggling with alcoholism. The patient has also experienced episodes of aggressive behavior. Currently, the patient is spending time alone during the holidays, which may have significant emotional and cognitive impacts.
+
+**Emotional Impact:**
+The patient's history of family conflicts and strained relationships likely contributes to feelings of loneliness and sadness, particularly during times traditionally associated with family gatherings, such as holidays. The experience of spending time alone during these periods may exacerbate feelings of isolation and unhappiness. The patient's interactions with individuals who struggle with alcoholism may also evoke feelings of frustration and disappointment, potentially leading to emotional withdrawal or heightened irritability.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive patterns characterized by mistrust and hyper-vigilance in relationships, stemming from past experiences of boundary violations and conflicts. This cognitive style may lead to anticipatory anxiety about potential conflicts or betrayals, particularly in relationships with individuals who have a history of substance abuse. The patient might also engage in negative self-talk or ruminate on past aggressive behaviors, contributing to feelings of guilt or shame.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive patterns, the patient may withdraw from social interactions, particularly during emotionally charged periods like the holidays. This withdrawal could be a coping mechanism to avoid potential conflicts or emotional pain. The patient might also engage in avoidance behaviors, such as not reaching out to friends or family, to protect themselves from perceived rejection or disappointment.
+
+**Coping Styles:**
+The patient may rely on avoidance and withdrawal as primary coping strategies, which can provide short-term relief from emotional distress but may also reinforce feelings of isolation and loneliness. There may be a tendency to suppress or ignore emotions, leading to episodes of aggressive behavior when emotions become overwhelming. The patient might also seek reassurance or validation from others but struggle to trust the responses they receive, perpetuating a cycle of insecurity and doubt.
+
+**Therapeutic Focus:**
+In therapy, it would be beneficial to explore the patient's underlying beliefs about trust and relationships, particularly in the context of their family history and experiences with individuals struggling with alcoholism. Cognitive restructuring techniques could help the patient identify and challenge maladaptive thought patterns, such as catastrophizing or all-or-nothing thinking. Behavioral interventions might focus on gradually increasing social engagement and developing healthier coping strategies for managing emotional distress. Additionally, exploring the patient's past aggressive behaviors in a non-judgmental manner could facilitate insight and promote more adaptive emotional regulation skills.
+Summary da mistral_.csv: In this therapy session, the client discussed an argument with her partner, Chris, following the revelation of his lowered academic performance. The argument occurred during a dinner outing, where the client expressed frustration towards Chris and his friends for their self-aggrandizement. This led to an argument, with the client making cutting remarks and Chris leaving the room. The client acknowledged this pattern of behavior as a cycle that typically escalates into full-blown fights. The client also shared that Chris has a history of disliking her friends, particularly her male friends from the past, which leads to tension in their relationship. The client expressed frustration over Chris's negative comments about her friends and felt defensive when he openly criticizes them. The client and Chris have not had open conversations about their pasts or insecurities, leading to a lack of resolution and continued tension.
+The client recounted an incident from their past relationship where their partner's best friend had speculated that the client was a virgin, despite the client's denial. The client wondered if their partner had been truthful about his past sexual experiences and felt uncomfortable discussing it due to potential judgment and the perceived inability to relate to each other's experiences. The client also shared that their affectionate behavior, which included hugging friends and being flirty, made their partner uncomfortable and led to feelings of frustration and a desire to bring up past issues, often when drunk. The client discussed their father's history of being mean and abusive, which led to a desire for control and a belief that they were responsible for their father's absence from their childhood home. The client expressed frustration with the recurring nature of these issues despite their awareness of their origins.
+The client described their childhood experience of living with an alcoholic father who continued to disturb the family even after leaving home. They felt their mother was always present during these disturbances and felt damaged as a result, describing themselves as empty, lacking trust in themselves and others, and feeling broken. The client expressed a preference for discussing their past pain in therapy sessions rather than engaging in normal activities, acknowledging the honesty of this feeling but expressing a desire to move past it. The therapist acknowledged the client's feelings and offered support. The client mentioned accidentally wetting the therapist's stool during the session.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of family conflicts and strained relationships, which has contributed to ongoing trust and boundary issues in relationships, especially with people who struggle with alcoholism. There have been past episodes of aggressive behavior, possibly linked to emotional suppression and difficulty managing distress. These patterns have led to emotional withdrawal and avoidance, particularly during emotionally charged times like holidays.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let people get close to me, they will eventually hurt or disappoint me, so it's safer to keep my distance. I have to protect myself by not reaching out, especially during times when rejection would hurt more. If I show my vulnerability, others will not respond in a caring way.",
+  "intermediate_belief_depression": "If I am alone during the holidays, it means I am not valued or wanted by anyone, and nothing will change no matter what I do.",
+  "coping_strategies": [
+    "The client tends to withdraw from social interactions and avoid reaching out to friends or family, especially during emotionally charged periods like the holidays. They suppress or ignore their emotions, which can sometimes lead to episodes of aggressive behavior when feelings become overwhelming."
+  ],
+  "situation": "Spending time alone during holidays.",
+  "auto_thought": "Everyone else is with people they care about, but I'm alone because no one really wants me around. If I tried to reach out, I'd just end up feeling rejected or disappointed.",
+  "emotion": [
+    "lonely",
+    "sad",
+    "unhappy",
+    "disappointed",
+    "hurt",
+    "anxious"
+  ],
+  "behavior": "I stay at home and avoid contacting anyone. I distract myself to avoid thinking about my feelings. I don't respond to messages or invitations, even if I get any."
+}

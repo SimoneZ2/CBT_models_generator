@@ -1,0 +1,52 @@
+{
+  "name": "CBT Cognitive Conceptualization for Relationship Conflict and Boundary Issues",
+  "id": "44-2",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a longstanding pattern of recurring conflicts and strained relationships, often marked by trust and boundary issues. Some of these relationships have been complicated by alcoholism, which may have contributed to feelings of frustration and helplessness. There is a history of aggressive behavior, possibly as a defensive response to feeling misunderstood or threatened. The client has struggled with managing emotions and maintaining healthy boundaries, leading to cycles of conflict and withdrawal.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let my guard down or reconnect with someone who has hurt me, I will end up being harmed again. I must protect myself by keeping strict boundaries, even if it means being alone. Trusting others is dangerous because it leads to disappointment or betrayal.",
+  "intermediate_belief_depression": "If I can't make relationships work or keep getting hurt, it means I'm fundamentally flawed and things will never get better for me.",
+  "coping_strategies": "The client tends to avoid reconnecting with people who have caused harm, using withdrawal and strict boundary-setting as protective strategies. There is a pattern of rumination about past conflicts and a tendency to respond to perceived threats with aggression or defensiveness. These coping mechanisms help the client feel safer in the short term but may reinforce isolation and mistrust.",
+  "situation": "Considering reconnecting with an estranged person who previously caused harm. Deciding not to reconnect as a self-protective choice.",
+  "auto_thought": "If I let this person back into my life, I'll just get hurt again. I can't trust them and I need to protect myself.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "sad",
+    "lonely",
+    "empowered",
+    "frustrated"
+  ],
+  "behavior": "I avoid reaching out or responding to the estranged person. I reinforce my boundaries by not engaging, even if I feel lonely or conflicted.",
+  "rationale": "\"There may be a tendency to anticipate negative outcomes in relationships, leading to hyper-vigilance or mistrust.\" \"The decision to avoid reconnecting with the estranged person suggests a cognitive shift towards self-preservation and boundary-setting.\" \"The patient might also engage in rumination about past conflicts or perceived failures in relationships, which could perpetuate feelings of guilt or self-doubt.\" \"Behaviorally, the patient may exhibit avoidance of situations or individuals that are perceived as threatening or harmful, as evidenced by the decision not to reconnect with the estranged person.\"",
+  "core_belief_predictions": {
+    "source_id": "44-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

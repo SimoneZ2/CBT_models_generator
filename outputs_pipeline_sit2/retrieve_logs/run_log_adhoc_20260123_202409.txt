@@ -1,0 +1,90 @@
+Using description: HISTORY:
+- Childhood experiences of emotional invalidation (e.g., being reprimanded for crying).
+- History of depression.
+
+SITUATION:
+- Not invited to a dinner with friends by one acquaintance. with ID=43-2
+Top results (by metadata similarity):
+  - sim=0.627 | title='Patient "S", Session June 18, 2012: Client talks about not being invited to two ' | file='1004687750.txt'
+  - sim=0.610 | title='Patient "Ju", Session July 16, 2012: Client had a stressful weekend. She ended u' | file='1004687628.txt'
+  - sim=0.604 | title='Patient "Ju", Session May 01, 2012: Client has been feeling exhausted. She talks' | file='1004538612.txt'
+  - sim=0.600 | title='Patient "Ju", Session August 22, 2012: Client wants to meet with therapist more ' | file='1004687638.txt'
+  - sim=0.596 | title='Patient "S" Therapy Session Audio Recording, October 24, 2012: Client talks abou' | file='1004798893.txt'
+  - sim=0.583 | title='Session 11: Client describes a recent night out where a woman admonished him and' | file='1004824757.txt'
+  - sim=0.583 | title='Patient "M" Therapy Session Audio Recording, May 21, 2012: Client is very upset ' | file='1004565025.txt'
+  - sim=0.582 | title='Session 258: Client feels guilty for not enjoying her job more. Her lack of self' | file='1000393715.txt'
+  - sim=0.573 | title='Patient "Ju", Session September 24, 2012: Client is worried that her friends don' | file='1004798763.txt'
+  - sim=0.570 | title='Session 5: Client explains how uncomfortable she feels trying to bring up subjec' | file='1000013257.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=1 partial_match=9
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=1
+  - sim=0.583 | file='1004824757.txt' | title='Session 11: Client describes a recent night out where a woman admonished him and'
+Using top selected file for transcript: '1004824757.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+
+The patient has a history of childhood experiences characterized by emotional invalidation, such as being reprimanded for crying. This early experience may have contributed to a longstanding history of depression. Recently, the patient encountered a social situation where they were not invited to a dinner with friends by an acquaintance, which appears to have triggered significant emotional distress.
+
+**Emotional Impact:**
+
+The patient's childhood experiences of emotional invalidation likely contribute to feelings of sadness, loneliness, and rejection. Being reprimanded for expressing emotions as a child may have led to internalized beliefs that their feelings are not valid or important. This can result in a heightened sensitivity to perceived rejection or exclusion, as evidenced by the recent situation of not being invited to a dinner with friends. The patient may feel anxious, worried, and tense about their social standing and acceptance within their peer group.
+
+**Cognitive Patterns:**
+
+The patient may exhibit cognitive distortions such as all-or-nothing thinking and personalization. The experience of not being invited to the dinner could lead to thoughts like "I am not good enough" or "They don't like me," which are common in individuals with a history of depression and emotional invalidation. These thoughts can exacerbate feelings of worthlessness and inadequacy. The patient might also engage in rumination, repeatedly thinking about the situation and what it might imply about their social relationships.
+
+**Behavioral Responses:**
+
+In response to the emotional distress caused by the social exclusion, the patient might withdraw from social interactions, avoid reaching out to friends, or seek reassurance from others about their worth and likability. These behaviors can serve as coping mechanisms to manage the discomfort of perceived rejection but may also reinforce feelings of isolation and loneliness.
+
+**Coping Styles:**
+
+The patient may have developed coping styles that involve seeking validation from others and avoiding situations where they might face rejection. This can lead to a cycle where the patient becomes overly reliant on external validation for self-worth, making them more vulnerable to emotional distress when such validation is not forthcoming. The patient might also engage in self-criticism, blaming themselves for the perceived rejection and reinforcing negative self-beliefs.
+
+**Psychological Interpretation:**
+
+Drawing from the transcript, individuals with similar backgrounds may experience intense emotional reactions to perceived social slights due to underlying feelings of inadequacy and a need for control in social situations. The patient's history of emotional invalidation could lead to a heightened sensitivity to rejection, similar to the patterns observed in the transcript where feelings of rejection and inadequacy were triggered by social interactions. The patient's emotional response to not being invited to the dinner might be amplified by these underlying cognitive and emotional patterns.
+
+**Conclusion:**
+
+The patient's emotional and cognitive responses to the recent social situation are likely influenced by their history of emotional invalidation and depression. These experiences have shaped their self-perception and coping mechanisms, leading to heightened sensitivity to rejection and a reliance on external validation. Therapeutic interventions could focus on challenging cognitive distortions, developing healthier coping strategies, and fostering a more robust sense of self-worth independent of external validation.
+Summary da mistral_.csv: The client described an incident at a bar where they ran into an ex-friend, Penny, who had hurt their feelings in the past. They also encountered an ex-girlfriend, Karen, and felt left out when Penny introduced her to new friends. The client felt rejected and overreacted, leading to a confrontation with a random man at the bar. They felt a sense of satisfaction from standing up to the man but also felt overwhelmed by the events of the evening. The client sent apologies to Penny and Matthew, and felt relieved that they had moved past the incident.
+The client recounts an incident where he overreacted to a perceived slight from a woman at a bar. He felt hurt and angry, and expressed this in an email to the woman. The client reflects on his reaction, acknowledging that he has worked hard on himself and is tired of dealing with insensitive behavior. He also discusses feeling protective of his local community and bar. The therapist acknowledges the client's progress in managing his emotions after the fact and encourages further exploration of the underlying causes of his reaction. The client mentions a history of feeling rejected and not being the center of attention in his family and relationships, leading him to seek control in his interactions with women. The therapist suggests that the client's reaction may be linked to unmet needs from his childhood and adolescence.
+The client discusses their experiences with deceiving people about their age during social interactions, specifically with Penny and the 16-year-old girl from the wedding. They acknowledge the shame they feel about their age and how it affects their self-perception. The client shares an encounter with the 16-year-old girl, who expressed admiration for the client and made them feel appreciated, contrasting their previous experiences. The therapist explores the potential origins of the client's age-related shame, which may stem from childhood feelings of being an outsider and not being understood by their family. The client also mentions feeling on top of the world on the day they met Penny, and the therapist suggests that the client's mood fluctuations may be related to self-esteem rather than bipolar disorder. The session ends with the therapist asking the client about Thursday at 11:00.
+
+ REFINED CCD: description + report
+{
+  "history": "The client reports childhood experiences of emotional invalidation, such as being reprimanded for crying, which likely contributed to a longstanding history of depression. These early experiences may have led to internalized beliefs that their feelings are not valid or important. The client is now highly sensitive to perceived rejection or exclusion, as seen in the recent distress after not being invited to a dinner with friends.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am excluded or not invited, it means I am not valued or wanted by others. I must always be included to feel secure about my relationships. If people don't reach out to me, it confirms that I am not important.",
+  "intermediate_belief_depression": "If I am left out, it proves that I am fundamentally unworthy and will always be alone. There is nothing I can do to change how others see me, so I might as well give up trying.",
+  "coping_strategies": [
+    "The client tends to withdraw from social interactions and avoids reaching out to friends after feeling excluded. They may ruminate about the situation and seek reassurance from others about their worth, which temporarily soothes distress but reinforces their dependence on external validation."
+  ],
+  "situation": "Not invited to a dinner with friends by one acquaintance.",
+  "auto_thought": "They didn't invite me because they don't really like me. I'm just not important to them.",
+  "emotion": [
+    "rejected",
+    "sad",
+    "lonely",
+    "anxious",
+    "inadequate"
+  ],
+  "behavior": "I withdraw from the group and avoid messaging anyone. I replay the situation in my mind, wondering what I did wrong."
+}

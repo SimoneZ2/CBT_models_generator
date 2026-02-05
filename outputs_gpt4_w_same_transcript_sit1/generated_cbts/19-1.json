@@ -1,0 +1,25 @@
+{
+  "name": "Rachel",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Rachel has recurring relationship problems with her husband Ivan. Work-related stress. Sister Emma often takes a caring role toward Rachel. Father had a successful career and strong work ethic, influencing Rachel's expectations. Recently laid off and currently looking for new employment.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must meet high expectations to be successful.",
+  "intermediate_belief_depression": "If I don't meet these expectations, I am a failure.",
+  "coping_strategies": "Avoids taking risks in career decisions to prevent failure.",
+  "situation": "Comparing personal career aspirations to those of the spouse.",
+  "auto_thought": "I will never find a job that fulfills me like it does for others.",
+  "emotion": [
+    "Anxiety",
+    "Resentment"
+  ],
+  "behavior": "Avoids pursuing new job opportunities actively."
+}

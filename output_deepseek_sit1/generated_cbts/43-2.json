@@ -1,0 +1,27 @@
+{
+  "name": "Patient 43",
+  "id": "43",
+  "type": [
+    "emotional invalidation",
+    "depression"
+  ],
+  "history": "Childhood experiences of emotional invalidation (reprimanded for crying). History of depression.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "My emotions are wrong and should be suppressed.",
+  "intermediate_belief_depression": "I'm emotionally defective because I was taught my feelings are invalid.",
+  "coping_strategies": [
+    "Reconnecting after periods of no contact, possibly emotional withdrawal."
+  ],
+  "situation": "Reconnecting with Edson after period of no contact.",
+  "auto_thought": "I don't know how to have a normal emotional connection with people.",
+  "emotion": [
+    "anxiety",
+    "vulnerability",
+    "confusion"
+  ],
+  "behavior": "Reconnect with Edson after time apart."
+}

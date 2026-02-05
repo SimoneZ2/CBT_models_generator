@@ -1,0 +1,26 @@
+{
+  "name": "Research Lab Case",
+  "id": "001",
+  "type": [
+    "workplace",
+    "personal life"
+  ],
+  "history": "Strong identification with a research lab workplace and a sense of camaraderie from interactions and accomplishments. A close coworker left, which had emotional significance for the patient. The lab contrasts with the patient's personal life, described as less predictable and comfortable.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need stable relationships to feel secure.",
+  "intermediate_belief_depression": "Without my colleague, I can't manage my emotions.",
+  "coping_strategies": "Avoidance of personal life issues by focusing on work.",
+  "situation": "The departure of a valued colleague and the immediate impact of this change.",
+  "auto_thought": "I can't handle this change; I'm going to be alone.",
+  "emotion": [
+    "sadness",
+    "anxiety"
+  ],
+  "behavior": "Withdrawal from social interactions outside of work."
+}

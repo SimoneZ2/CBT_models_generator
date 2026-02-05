@@ -1,0 +1,29 @@
+{
+  "name": "Adult ADHD Case",
+  "id": "29590",
+  "type": [
+    "Adult ADHD",
+    "Financial Stress",
+    "Relationship Issues"
+  ],
+  "history": "Recent move and stress related to settling into a new living space. Difficult relationship with parents, especially mother, described as judgmental and emotionally unsupportive. Friendships have become strained, contributing to isolation.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I can't catch a break.",
+  "intermediate_belief_depression": "I'm just literally every way I turn, I'm fucked.",
+  "coping_strategies": "Avoiding contact with friends and family, sleeping intermittently, trying to catch up on domestic tasks.",
+  "situation": "Feeling exhausted after attempting to unpack without support from friends. Avoiding contact with friends and the mother.",
+  "auto_thought": "Things are black all over.",
+  "emotion": [
+    "Frustration",
+    "Anxiety",
+    "Depression"
+  ],
+  "behavior": "Avoidance of social interactions, intermittent sleep, financial mismanagement."
+}

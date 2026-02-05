@@ -1,0 +1,33 @@
+{
+  "name": "Patient 11",
+  "id": "11",
+  "type": [
+    "major depression",
+    "social anxiety"
+  ],
+  "history": "History of isolation and chronic depression since adolescence. Recent breakup preceded depressive relapse. On SSRIs with recent adjustments.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am defective"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "Nothing brings me pleasure anymore; I'm broken.",
+  "intermediate_belief_depression": "The depression will always come back; I'll never have a normal life.",
+  "coping_strategies": [
+    "Avoidance, vegetative symptoms, passive entertainment."
+  ],
+  "situation": "Planned sewing and work tasks, but unable to focus and watched television all day.",
+  "auto_thought": "\"I can't even do simple things. What's wrong with me? The medication isn't working.\"",
+  "emotion": [
+    "hopelessness",
+    "shame",
+    "numbness"
+  ],
+  "behavior": "Stays in pajamas, mindlessly scrolls channels, berates self for wasted day."
+}

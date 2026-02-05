@@ -1,0 +1,29 @@
+{
+  "name": "Patient 17",
+  "id": "17",
+  "type": [
+    "relationship strain",
+    "attachment issues"
+  ],
+  "history": "In long-term relationship with Amelia who has demanding schedule. Sarah feels isolated, does most household tasks without discussing resentment. Childhood separation experiences.",
+  "helpless_belief": [
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express my needs, I'll be abandoned like in childhood.",
+  "intermediate_belief_depression": "I'm destined to feel alone even in relationships.",
+  "coping_strategies": [
+    "Silent resentment, over-functioning in household, seeking contact."
+  ],
+  "situation": "Not receiving communication from partner during day and attempting to make contact.",
+  "auto_thought": "She doesn't care about me. I'm alone in this relationship.",
+  "emotion": [
+    "loneliness",
+    "abandonment",
+    "resentment"
+  ],
+  "behavior": "Attempt to contact partner while feeling neglected."
+}

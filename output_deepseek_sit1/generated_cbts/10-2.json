@@ -1,0 +1,31 @@
+{
+  "name": "Patient 10",
+  "id": "10",
+  "type": [
+    "divorce adjustment",
+    "financial stress"
+  ],
+  "history": "Recent divorce with financial struggles. Adjusting to single life with co-parenting. Multiple friendships deteriorated. Complicated relationship with parents.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I failed at marriage and now I'm failing at managing life alone.",
+  "intermediate_belief_depression": "I'm unlovable and destined to be alone forever.",
+  "coping_strategies": [
+    "Managing financial paperwork, navigating single parenthood."
+  ],
+  "situation": "Managing financial hardship following divorce, including handling financial paperwork.",
+  "auto_thought": "I can't handle all this financial stuff on my own.",
+  "emotion": [
+    "overwhelm",
+    "loneliness",
+    "anxiety"
+  ],
+  "behavior": "Process financial paperwork while feeling overwhelmed."
+}

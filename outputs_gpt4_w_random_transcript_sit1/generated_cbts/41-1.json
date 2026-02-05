@@ -1,0 +1,25 @@
+{
+  "name": "Cricket",
+  "id": "001",
+  "type": [
+    "CBT",
+    "DBT"
+  ],
+  "history": "Complex relationship history involving a person named Cricket that affected the patient's social circle. The patient often takes a caretaking role with friends, including a friend named Lucy with ongoing medical issues.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't maintain control and routine, everything will fall apart.",
+  "intermediate_belief_depression": "If I can't manage my sleep and responsibilities, I am failing.",
+  "coping_strategies": "Avoiding social interactions and becoming a hermit to maintain control and routine.",
+  "situation": "Running late for appointments and social gatherings, including therapy and lunches with friends.",
+  "auto_thought": "Everything is ruined now.",
+  "emotion": [
+    "Frustration",
+    "Sadness"
+  ],
+  "behavior": "Avoidance of social situations and reliance on routines to manage anxiety."
+}

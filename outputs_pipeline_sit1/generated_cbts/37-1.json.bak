@@ -1,0 +1,36 @@
+{
+  "name": "CBT Cognitive Conceptualization for Work-Related Fairness Concerns",
+  "id": "case001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client previously experienced a labor dispute at a former workplace, which has left a lasting impact on their current perspective regarding fairness, pay, and authority at work. This history appears to sensitize them to issues of justice and power dynamics in their present environment. The client tends to ruminate on past and current events, particularly those involving authority figures or perceived injustices, and this pattern is reinforced when reflecting on recent workplace situations.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I encounter a situation where authority figures respond dismissively or unfairly, then it means I am at risk of being treated unjustly again and my concerns will not be taken seriously. I must be vigilant and protect myself because I can't rely on others to act fairly.",
+  "intermediate_belief_depression": "If those in authority continue to ignore or dismiss my concerns, then nothing I do will make a difference and I will always be stuck in unfair situations.",
+  "coping_strategies": "The client tends to avoid direct confrontation about fairness or authority issues, possibly to prevent conflict or negative repercussions. They may seek reassurance from colleagues or document interactions to protect themselves. There is also a tendency to ruminate on perceived injustices, which maintains their distress.",
+  "situation": "Reflecting on a work-related case and the response of a businessman involved.",
+  "auto_thought": "Here we go again—he's just like the others, ignoring what's fair. No matter what I do, people in power don't care about people like me.",
+  "emotion": [
+    "angry",
+    "frustrated",
+    "disappointed",
+    "anxious",
+    "irritated"
+  ],
+  "behavior": "I replay the situation in my mind, analyzing what happened and what was said. I avoid bringing up my concerns directly with the businessman. I might talk to a colleague to check if they saw the same unfairness.",
+  "rationale": "The report notes 'heightened sensitivity to issues of fairness and authority,' 'ruminative thinking,' and 'feelings of anger, irritation, and frustration' when reflecting on responses perceived as unjust. Behavioral responses include 'avoid direct confrontation,' 'seek reassurance,' and 'documenting interactions.' The client's history of a labor dispute and ongoing concerns about fairness and authority are explicitly referenced as shaping their current reactions."
+}

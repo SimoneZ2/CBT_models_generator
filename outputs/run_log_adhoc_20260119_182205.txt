@@ -1,0 +1,86 @@
+Using description: HISTORY:
+- Longstanding difficult interactions with the patient's mother.
+- Strained communication and delayed sharing of significant events within the family.
+
+SITUATION:
+- Disagreement with mother about weekend plans and financial assistance.
+- The mother covers expenses during the visit. with ID=23-2
+Top results (by metadata similarity):
+  - sim=0.656 | title='Verilogue session: Client talks about money problems and her job' | file='1002565853.txt'
+  - sim=0.652 | title='Patient "Ju", Session November 05, 2012: Client talks about her relationship wit' | file='1004824677.txt'
+  - sim=0.647 | title='Session 16: Client discusses her problems sleeping. She talks about being more a' | file='1000122009.txt'
+  - sim=0.631 | title='Verilogue session: Client is experiencing loneliness and depression. She has bee' | file='1001084031.txt'
+  - sim=0.629 | title='Verilogue session: Client discusses problems with ailing, elderly family members' | file='1001084018.txt'
+  - sim=0.623 | title='Verilogue session: Client is considering a medication increase due to the stress' | file='1002565896.txt'
+  - sim=0.623 | title='Verilogue session: Client lives with her mother and does not have a very healthy' | file='1001083979.txt'
+  - sim=0.617 | title='Verilogue session: Client needs help making some life decisions' | file='1002565909.txt'
+  - sim=0.613 | title='Patient "Ju", Session October 16, 2012: Client has been experiencing chronic pai' | file='1004798857.txt'
+  - sim=0.612 | title='Verilogue session: Client has been getting so wrapped up in her family conflicts' | file='1001083917.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.656 | file='1002565853.txt' | title='Verilogue session: Client talks about money problems and her job'
+  - sim=0.652 | file='1004824677.txt' | title='Patient "Ju", Session November 05, 2012: Client talks about her relationship wit'
+  - sim=0.647 | file='1000122009.txt' | title='Session 16: Client discusses her problems sleeping. She talks about being more a'
+Using top selected file for transcript: '1002565853.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient has a history of longstanding difficult interactions with their mother, characterized by strained communication and delayed sharing of significant events within the family. Recently, the patient experienced a disagreement with their mother regarding weekend plans and financial assistance, despite the mother covering expenses during the visit.
+
+**Emotional Impact:**
+The patient's interactions with their mother likely evoke a range of emotions, including feelings of frustration, disappointment, and perhaps resentment. The disagreement about weekend plans and financial assistance may lead to feelings of being undervalued or misunderstood. The fact that the mother covers expenses might create a sense of obligation or guilt, complicating the emotional landscape further. The patient might feel anxious or tense when anticipating interactions with their mother, given the history of difficult communication.
+
+**Cognitive Patterns:**
+The patient may engage in ruminative thinking, focusing on past interactions and perceived injustices or misunderstandings. This cognitive style can lead to a heightened sense of vigilance or defensiveness in future interactions. The patient might also experience cognitive distortions, such as all-or-nothing thinking or overgeneralization, particularly in interpreting their mother's actions or intentions. These patterns can exacerbate feelings of frustration and hinder effective communication.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive experiences, the patient might withdraw or avoid initiating conversations with their mother, especially regarding significant events or plans. They may also procrastinate in addressing issues directly, leading to delayed sharing of important information. Alternatively, the patient might seek reassurance from other family members or friends, attempting to validate their feelings and experiences.
+
+**Coping Styles:**
+The patient may rely on avoidance as a primary coping mechanism, choosing not to confront their mother directly about disagreements or unmet needs. This avoidance can lead to a buildup of unresolved issues, contributing to the strained communication pattern. The patient might also engage in passive coping strategies, such as internalizing their frustrations or expressing them indirectly through sarcasm or subtle remarks.
+
+**Transcript Reference:**
+The transcript provides insight into typical psychological patterns that can be applied to the patient's situation. For example, the patient might experience ambivalence in relationships, similar to the ambivalence expressed in the transcript. This ambivalence can manifest as mixed feelings of attachment and resentment towards their mother. Additionally, the transcript highlights the potential for miscommunication and unmet expectations in interpersonal relationships, which may parallel the patient's experiences with their mother.
+
+**Conclusion:**
+The patient's longstanding difficult interactions with their mother, coupled with recent disagreements, likely contribute to a complex emotional and cognitive experience. By understanding these patterns, the patient can work towards developing more adaptive coping strategies, such as assertive communication and cognitive restructuring, to improve their relationship with their mother and reduce emotional distress.
+Summary da mistral_.csv: The patient and their partner are going on vacation together, but the patient expresses ambivalence towards the trip and their partner. The patient had given their partner control of a portion of their retirement money to manage, and they have had disagreements over how it has been spent on home repairs. The patient feels they cannot say no to their partner and has let some decisions be made without their input. The patient also mentions feeling sick due to working with children at their current job and having difficulty navigating relationships with their colleagues.
+The patient described an incident where a mother screamed at her child in a cafeteria, upsetting the patient. She then intervened when a father hit his child, suggesting alternative ways to discipline. The patient expressed concern over the children's behavior and the lack of interaction between parents and their children in the program. She mentioned the children's age, size, and behavioral issues, as well as their mean treatment of each other. The patient also discussed her desire to leave her current job due to the demands and lack of support from her supervisor. She mentioned her emotional response to the children's situations and her concern for their well-being. The patient also mentioned her moods being tearful lately and her use of Abilify, but the discussion was interrupted by a bathroom break. The doctor asked about the patient's medication use and scheduled a follow-up appointment. The patient promised to take the medication regularly. The patient also mentioned her paranoia towards her super
+The patient expresses a desire to go to the beach instead of the pool during their group outing, as they prefer the beach and are self-conscious about their hairy arms. The doctor confirms the patient's plans, provides a prescription and sets the next appointment for two months, on a Wednesday, at the same time.
+
+ REFINED CCD: description + report
+{
+  "history": "The client reports longstanding difficult interactions with their mother, marked by strained communication and a pattern of delayed sharing of significant events within the family. There is a recurring theme of ambivalence and unresolved issues in the relationship, as well as a tendency to internalize frustrations. The client often feels misunderstood or undervalued by their mother, and this has contributed to a buildup of resentment and emotional distance over time.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express my needs or disagree with my mother, it will only lead to more conflict or disappointment. I have to keep my feelings to myself to avoid making things worse. If I rely on her financially, I am obligated to accept her way of doing things.",
+  "intermediate_belief_depression": "If I keep having these conflicts, nothing will ever change and I will always feel misunderstood and alone.",
+  "coping_strategies": [
+    "The client tends to avoid direct confrontation and withdraws from conversations with their mother, especially around sensitive topics. They may procrastinate sharing important information and seek reassurance from others rather than addressing issues directly. There is also a pattern of internalizing frustration and expressing it indirectly."
+  ],
+  "situation": "Disagreement with mother about weekend plans and financial assistance. The mother covers expenses during the visit.",
+  "auto_thought": "She never really listens to what I want; no matter what I say, it won't make a difference.",
+  "emotion": [
+    "frustrated",
+    "resentful",
+    "anxious",
+    "guilty",
+    "tense"
+  ],
+  "behavior": "I avoid bringing up my true feelings or needs during the visit. I let her make the decisions about the plans and money, and later vent to someone else or keep it to myself."
+}

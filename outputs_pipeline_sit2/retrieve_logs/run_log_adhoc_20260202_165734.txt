@@ -1,0 +1,80 @@
+Using description: HISTORY:
+- Recent divorce and financial difficulties.
+- Relationship since age 19.
+- Has a young son and is settling child support issues.
+- Adjusting to being alone and handling new experiences (e.g., traveling alone with her son, visiting family without a partner).
+
+SITUATION:
+- At a birthday party, guests mention her divorce during casual conversation.
+- Tries to maintain appearances and later continues thinking about the interaction. with ID=27-2
+Sample results (metadata similarity):
+  - sim=0.021 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.043 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.053 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.056 | title='Verilogue session: Client appears to be in a manic upswing and is very anxious a' | file='1001083971.txt'
+  - sim=0.057 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.059 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.065 | title='Verilogue session: Client has been angry, violent and impulsive' | file='1003075021.txt'
+  - sim=0.069 | title='Verilogue session: Client notices that some of her children display symptoms of ' | file='1003075051.txt'
+  - sim=0.069 | title='Verilogue session: Client's moods decline and become unstable when her medicatio' | file='1001083950.txt'
+  - sim=0.076 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=0 partial_match=2020
+match_used=PARTIAL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=PARTIAL
+  - sim=0.021 | file='1003009210.txt' | title='Verilogue session: Client feels that medicine cannot help her but, she is willin'
+  - sim=0.043 | file='1003075028.txt' | title='Verilogue session: Client is having problems concentrating; she wonders if it is'
+  - sim=0.053 | file='1001084079.txt' | title='Verilogue session: Client feels the urgent need to get everything done in a rush'
+Using LEAST related file for transcript: '1003009210.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a woman navigating the aftermath of a recent divorce, is experiencing significant life changes, including financial difficulties and the challenge of raising a young son while managing child support issues. During a recent social event, a birthday party, she found herself the subject of conversation regarding her divorce. This interaction left her ruminating about the situation, as she later continued "thinking about the interaction," indicating a tendency to dwell on social perceptions and judgments. In the therapy session, she presents herself as "strong," yet quickly admits to feeling "tired," a reflection of the emotional and physical exhaustion stemming from her current life stressors.
+
+Throughout the session, the client exhibits a pattern of minimizing her emotional struggles, as seen when she dismisses her mood swings by stating, "Everybody has mood swings." This minimization may be a coping mechanism to avoid confronting deeper feelings of sadness or loneliness associated with her divorce and the transition to single parenthood. Her reluctance to acknowledge the impact of her emotions is further evidenced by her insistence that she doesn't have depression, despite the psychiatrist's probing about her mood. She repeatedly states that "nothing helps" regarding medication, highlighting a sense of hopelessness and frustration with her current treatment plan.
+
+The client's financial strain is palpable, as she discusses her probation and the need to pay off fines, yet she is "not getting paid" from her job as an assistant activity director. This financial pressure compounds her stress, contributing to her feelings of being overwhelmed. Her job, although a potential source of stability, is not yet providing the financial relief she needs, which may exacerbate her anxiety about her ability to support her son and herself.
+
+In terms of coping strategies, the client appears to be in a state of avoidance and denial. She expresses a desire for "medicine that will help" but simultaneously resists taking medications due to their side effects, such as making her "tired." This ambivalence towards medication suggests a struggle to find effective coping mechanisms that align with her needs and lifestyle. Her statement, "I can't sit in one spot for 5 seconds," reveals a restlessness that could be both a symptom of her anxiety and a behavioral response to her current life stressors.
+
+The session also highlights a potential mismatch between her self-perception and the psychiatrist's observations. While she insists she doesn't have a disorder, the psychiatrist suggests exploring ADHD medication, indicating a possible underlying issue that has not been fully addressed. This discrepancy may contribute to her frustration and sense of being misunderstood, as she wishes for a definitive diagnosis rather than vague labels like "mood swings."
+
+Overall, the client's narrative is one of resilience in the face of adversity, yet it is clear that her current coping strategies are insufficient to manage the complex interplay of emotions, financial stress, and social pressures she faces. Her journey towards finding effective support and treatment is ongoing, and the session underscores the need for a tailored approach that considers both her psychological and practical needs.
+Summary da mistral_.csv: In this psychotherapy session, a female patient with ADHD discussed her current struggles with tiredness from her medication and her ongoing probation. The patient expressed dissatisfaction with her current treatment and felt that medication did not help her. The physician suggested trying Tegretol at night and Concerta in the morning to address her symptoms of restlessness and difficulty sitting still. The physician also recommended a blood test a week after starting the new medication to monitor its effectiveness and potential side effects. The patient agreed to follow this treatment plan and scheduled a follow-up appointment.
+
+REFINED CCD: description + report
+{
+  "history": "The client recently divorced after a long-term relationship that began at age 19. She is experiencing financial difficulties, including unresolved child support and unpaid work. She is adjusting to single parenthood and new experiences, such as traveling alone with her son and visiting family without a partner. She tends to minimize her emotional struggles, as seen in her dismissal of mood swings and reluctance to acknowledge depression. She reports feeling tired and overwhelmed, and expresses frustration with the lack of effective support or medication.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I show that I'm struggling or let others see my pain, they will think less of me or judge me as weak. I must keep up appearances and handle everything on my own, or people will see me as a failure. If I can't fix my problems, it means I'm not capable or worthy.",
+  "intermediate_belief_depression": "If nothing helps and I keep feeling this way, it means things will never get better and I'm stuck like this forever. If I can't find a solution, it proves I'm hopeless and can't be helped.",
+  "coping_strategies": [
+    "She avoids discussing her true feelings and minimizes her emotional struggles, often dismissing mood swings and denying depression. She ruminates about social interactions and how others perceive her, and tries to maintain a strong appearance in public. She expresses ambivalence about medication and avoids confronting distressing emotions directly."
+  ],
+  "situation": "At a birthday party, guests mention her divorce during casual conversation. Tries to maintain appearances and later continues thinking about the interaction.",
+  "auto_thought": "Everyone is judging me because I'm divorced. They must think I failed at my marriage and can't handle my life.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "embarrassed",
+    "self-conscious",
+    "sad",
+    "tense"
+  ],
+  "behavior": "She tries to act composed and hides her discomfort during the conversation. After the party, she ruminates about what was said and how others might perceive her. She avoids expressing her true feelings to others and keeps her worries to herself."
+}

@@ -1,0 +1,29 @@
+{
+  "history": "The client has repeatedly worked in environments characterized by micromanagement, which has become a recurring theme in their professional life. They report a pattern of self-blame specifically in work contexts. This suggests a longstanding vulnerability to internalizing negative workplace experiences as personal failings, likely reinforcing negative self-evaluations over time.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am being micromanaged, it means I am not doing my job well enough. If I make a mistake or someone criticizes my work, it must be my fault. I have to be perfect at work or people will not trust me.",
+  "intermediate_belief_depression": "If I keep getting micromanaged, I will never succeed or feel good about myself at work.",
+  "coping_strategies": [
+    "The client considers resignation as a way to escape the distress of micromanagement, but this does not address the underlying self-blame. They may withdraw from colleagues or avoid tasks that could be criticized, reinforcing feelings of inadequacy and perpetuating the cycle."
+  ],
+  "situation": "Experiencing micromanagement at the workplace and considering resigning.",
+  "auto_thought": "I'm being micromanaged again—this must mean I'm not good enough at my job. No matter what I do, they'll never trust me to do things right.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "frustrated",
+    "inadequate",
+    "stressed"
+  ],
+  "behavior": "I withdraw from colleagues and avoid tasks I think will be criticized. I spend time thinking about quitting instead of addressing the problem directly.",
+  "source_text_id": "1002790186.txt"
+}

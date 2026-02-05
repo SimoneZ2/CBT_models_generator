@@ -1,0 +1,52 @@
+{
+  "name": "CBT Cognitive Conceptualization for Missed Alarm Incident",
+  "id": "1-2",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a history of substance abuse and has completed rehabilitation, indicating previous struggles with coping. He reports ongoing family difficulties, especially with his mother, characterized by feelings of rejection and emotional neglect. He has been obese since childhood and experienced bullying related to his weight, which likely contributed to a negative self-image and low self-esteem. These longstanding issues set the stage for current emotional and cognitive patterns.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake or let people down, it proves that I'm not good enough and others will see me as unreliable. I must always meet expectations or people will reject me. If I fail, it means I'm confirming what others have always thought about me.",
+  "intermediate_belief_depression": "If I can't even manage simple things like waking up on time, it shows that nothing will ever get better for me and I'm hopeless. There's no point in trying because I always end up failing.",
+  "coping_strategies": "He tends to withdraw or avoid situations where he fears further rejection or embarrassment, such as minimizing contact after making a mistake. He may seek comfort through distraction (e.g., scrolling social media) or reassurance from others, but also procrastinates or struggles to initiate tasks when feeling overwhelmed.",
+  "situation": "Missed an alarm and woke up late for work.",
+  "auto_thought": "I can't believe I messed up again—everyone at work will think I'm unreliable. This just proves I'm a failure and can't get anything right.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "guilty",
+    "worried",
+    "disappointed",
+    "embarrassed"
+  ],
+  "behavior": "He rushes to get ready in a panic, avoids making eye contact with coworkers, and may send an apologetic message to his boss. He might withdraw from conversations at work and ruminate about the mistake throughout the day.",
+  "rationale": "\"The ongoing family difficulties, particularly the perceived rejection and emotional neglect from his mother, likely contribute to feelings of sadness, loneliness, and possibly anger... These emotions may be compounded by the longstanding obesity and past bullying experiences, which could lead to feelings of shame, embarrassment, and low self-esteem.\" \"The recent incident of waking up late for work may evoke anxiety and worry about job performance and reliability. This event could also trigger feelings of guilt or disappointment in himself, especially if he perceives it as a failure to meet expectations.\" \"The patient may exhibit cognitive distortions such as all-or-nothing thinking, particularly in relation to his self-worth and abilities... He might also engage in catastrophizing, especially in response to the missed alarm, fearing significant negative consequences at work.\" \"In response to emotional distress, the patient might withdraw from social interactions or avoid situations that could lead to further rejection or embarrassment... The missed alarm incident could lead to increased vigilance in setting alarms or seeking reassurance from others to prevent future occurrences.\"",
+  "core_belief_predictions": {
+    "source_id": "1-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

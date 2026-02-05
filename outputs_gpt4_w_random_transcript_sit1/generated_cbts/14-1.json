@@ -1,0 +1,28 @@
+{
+  "name": "Unnamed Patient",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Financial difficulties following questionable investments. Increased reliance on parents for financial assistance.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must not show vulnerability or weakness.",
+  "intermediate_belief_depression": "If I show weakness, I will be rejected and seen as worthless.",
+  "coping_strategies": "Withdrawal and avoidance through music and isolation.",
+  "situation": "Thinking about how past financial decisions may affect future plans.",
+  "auto_thought": "I ruin everything I touch.",
+  "emotion": [
+    "Anxiety",
+    "Guilt",
+    "Depression"
+  ],
+  "behavior": "Avoidance of social interactions and reliance on music for escape."
+}

@@ -1,0 +1,82 @@
+Using description: HISTORY:
+- Strong identification with a research lab workplace and a sense of camaraderie from interactions and accomplishments.
+- A close coworker left, which had emotional significance for the patient.
+- The lab contrasts with the patient's personal life, described as less predictable and comfortable.
+
+SITUATION:
+- The departure of a valued colleague and the immediate impact of this change. with ID=29-2
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.596 | title='Patient "R", Session October 26, 2012: Client is stressed out with her lab work,' | file='1004824713.txt'
+  - sim=0.576 | title='Session 3: Client feels the pressure of doing well on her entrance exams for gra' | file='1000094423.txt'
+  - sim=0.558 | title='Verilogue session: Client is currently feeling especially depressed following th' | file='1001083976.txt'
+  - sim=0.558 | title='Patient "R", Session October 04, 2012: Client has a legitimate fear of fainting;' | file='1004798819.txt'
+  - sim=0.554 | title='Session 13: Client is only recently becoming comfortable speaking with members o' | file='1000088140.txt'
+  - sim=0.552 | title='Verilogue session: Client's mother has been ailing; this is hard for her to cope' | file='1002565902.txt'
+  - sim=0.551 | title='Verilogue session: Client had dramatic weight-loss surgery and has higher self-e' | file='1001083995.txt'
+  - sim=0.546 | title='Session 6: Client has come into therapy because she is under a lot of pressure t' | file='1000094434.txt'
+  - sim=0.542 | title='Session 1104: Client has a problem saying goodbye to people she has relationship' | file='1000399411.txt'
+  - sim=0.540 | title='Session 13: Client is talking about how stressful the end of the school quarter ' | file='1000060940.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.596 | file='1004824713.txt' | title='Patient "R", Session October 26, 2012: Client is stressed out with her lab work,'
+  - sim=0.576 | file='1000094423.txt' | title='Session 3: Client feels the pressure of doing well on her entrance exams for gra'
+  - sim=0.558 | file='1001083976.txt' | title='Verilogue session: Client is currently feeling especially depressed following th'
+Using top selected file for transcript: '1004824713.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Identification:**
+The patient has a strong identification with their research lab workplace, experiencing a sense of camaraderie through interactions and accomplishments. A significant emotional event for the patient was the departure of a close coworker, which has had an immediate impact. The lab environment contrasts with the patient's personal life, which is described as less predictable and comfortable.
+
+**Presenting Situation:**
+The patient is currently experiencing the emotional impact of a valued colleague's departure from the lab. This change has disrupted the patient's sense of stability and predictability within their professional environment.
+
+**Cognitive Patterns:**
+The patient likely experiences a strong attachment to the lab environment, viewing it as a source of stability and predictability. The departure of the close coworker may trigger thoughts of loss and uncertainty, potentially leading to cognitive patterns such as rumination on the change and its implications. The patient may also engage in self-questioning about their ability to maintain the same level of camaraderie and accomplishment without the presence of the colleague.
+
+**Emotional Reactions:**
+The patient is likely to feel a mix of emotions, including sadness, loneliness, and anxiety, due to the coworker's departure. The sense of loss may be profound, given the emotional significance of the relationship. The patient may also experience feelings of insecurity about the future dynamics of the lab and their place within it.
+
+**Behavioral Responses:**
+In response to these emotions, the patient might withdraw from social interactions or avoid engaging in activities that remind them of the departed colleague. They may also seek reassurance from remaining coworkers or immerse themselves in work to cope with the emotional void. The contrast between the lab's predictability and the less comfortable personal life may lead the patient to spend more time at work, seeking solace in the familiar environment.
+
+**Coping Styles:**
+The patient may rely on the structure and routine of the lab to cope with the emotional upheaval. They might also engage in problem-solving behaviors, such as finding ways to maintain the sense of camaraderie through new collaborations or projects. However, the patient may struggle with letting go of the past relationship, potentially leading to difficulty in fully moving forward.
+
+**Conclusion:**
+The patient's strong identification with the lab and the emotional impact of the coworker's departure suggest a significant reliance on the workplace for emotional stability. The immediate challenge is to process the loss while finding new ways to foster a sense of belonging and accomplishment within the lab. Encouraging the patient to explore new social connections and professional opportunities within the lab may help mitigate feelings of loss and uncertainty. Additionally, addressing the contrast between the lab and personal life could provide a more balanced approach to coping with change.
+Summary da mistral_.csv: The client expresses feelings of confusion and emotional turmoil regarding their ongoing research experiments, which have not yielded positive results. They feel torn between releasing themselves from the experiments and continuing to improve them, and are struggling with feelings of disappointment, shame, and uncertainty. The client discusses the encouragement and support they have received from colleagues, but also feels attached to the experiments and the potential results. They express a desire for a clear direction and a sense of fulfillment from their work. The client also mentions their attachment to the approval and excitement of their mentor, and the influence of other lab members on their emotional state.
+The client expresses fear of being alone in making decisions about their scientific experiments and the potential failure of their work being questioned. They discuss the parallels between this experience and leaving a relationship, focusing on the decision to move on to new, uncertain situations. The client also mentions the financial responsibility of their experiments and the lack of clear answers about their feelings towards the work. The client plans to continue therapy sessions for five or six more sessions, with some potential adjustments to scheduling.
+
+ REFINED CCD: description + report
+{
+  "history": "The patient has a strong identification with their research lab, finding camaraderie and accomplishment there. The departure of a close coworker was a significant emotional event, disrupting their sense of stability. The lab is experienced as more predictable and comfortable compared to the patient's personal life, which is described as less predictable and less comfortable.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I lose someone important at work, I will feel alone and uncertain. I need stable relationships in the lab to feel secure and accomplished. If things change unexpectedly, I won't be able to handle it well.",
+  "intermediate_belief_depression": "If people leave, it means I am not valued and things will only get worse for me.",
+  "coping_strategies": [
+    "The patient withdraws from social interactions and avoids activities that remind them of the departed coworker. They may seek reassurance from remaining coworkers or immerse themselves in work to cope with the emotional void."
+  ],
+  "situation": "The departure of a valued colleague and the immediate impact of this change.",
+  "auto_thought": "Everything feels different now that they're gone. I don't know if I can feel the same sense of belonging or accomplishment without them.",
+  "emotion": [
+    "sad",
+    "lonely",
+    "anxious",
+    "insecure"
+  ],
+  "behavior": "Withdraws from social interactions in the lab. Avoids activities that remind them of the departed colleague. Seeks reassurance from remaining coworkers."
+}

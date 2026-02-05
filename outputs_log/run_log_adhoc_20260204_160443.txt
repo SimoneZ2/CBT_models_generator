@@ -1,0 +1,70 @@
+Using description: HISTORY:
+- Longstanding difficult interactions with the patient's mother.
+- Strained communication and delayed sharing of significant events within the family.
+
+SITUATION:
+- Preparing for an upcoming visit from parents. with ID=23-1
+Sample results (metadata similarity):
+  - sim=0.026 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.093 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.117 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.130 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.143 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.160 | title='Patient "L", Session April 24, 2012: Client struggles with letting go of her nee' | file='1004538616.txt'
+  - sim=0.163 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.173 | title='Patient "L", Session May 09, 2012: Client has been feeling good about her work; ' | file='1004564967.txt'
+  - sim=0.184 | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne' | file='1004503136.txt'
+  - sim=0.186 | title='Volume no. 6: Mr. Lin: Client believes himself to be homosexual and wants to cha' | file='1002094563.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.026 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.093 | file='1004798727.txt' | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day'
+  - sim=0.117 | file='1000088127.txt' | title='Session 18: Client tells how he despises people in general.  He seems to feel un'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of challenging interactions with their mother and a pattern of strained communication within the family, is currently preparing for an upcoming visit from their parents. This context seems to be a backdrop to the client's current focus on their academic and intellectual pursuits, particularly in mathematics. During the session, the client expressed a sense of accomplishment and satisfaction in their ability to "teach the material" and help others understand complex concepts, which contrasts with their earlier experiences of feeling "completely confused and frustrated." This progress in understanding proofs and mathematical concepts appears to provide a sense of mastery and control, perhaps compensating for the unpredictability and emotional complexity of family interactions.
+
+Throughout the session, the client frequently returned to the theme of learning and teaching mathematics, describing the process as both challenging and rewarding. They noted that "being on the bike and lifting weights" helped clear their mind, allowing them to solve complex problems, which suggests that physical activity serves as a coping mechanism to manage stress and enhance cognitive clarity. The client also expressed a preference for drawing pictures to understand and communicate mathematical ideas, indicating a need for visual and tangible representations to grasp abstract concepts. This approach seems to mirror their desire for clarity and order in other areas of life, possibly reflecting a coping strategy to manage the emotional ambiguity associated with family dynamics.
+
+The client mentioned feeling "self-conscious" about their intense focus on mathematics, describing it as being in a "little bubble." This self-awareness hints at an underlying tension between their intellectual pursuits and the perceived lack of immediate practical application, which may be linked to feelings of inadequacy or guilt about not addressing more pressing personal or familial issues. The client's narrative about learning new mathematical symbols and concepts, despite initial frustration, parallels their broader life experience of navigating complex interpersonal relationships, particularly with their family. The process of "fumbling for the light switch" in a dark room serves as a metaphor for their ongoing struggle to find clarity and understanding in both academic and personal realms.
+
+The session also touched on the client's reflections on the nature of knowledge and learning, particularly in relation to their father, who they perceive as having an innate understanding of complex subjects. This perception may contribute to feelings of inadequacy or pressure to achieve a similar level of competence. The client expressed a sense of satisfaction in "working to learn" and finding fulfillment in the process, suggesting that the act of learning itself provides a sense of purpose and identity. This intrinsic motivation to learn and teach may serve as a protective factor against the emotional challenges posed by family interactions.
+
+As the session concluded, the client acknowledged the universality of mathematical concepts, noting that they could understand a lecture in French due to the shared language of mathematics. This realization seemed to offer a sense of connection and belonging, transcending cultural and linguistic barriers. The client's engagement with mathematics appears to provide a structured and predictable framework that contrasts with the emotional complexity of their family relationships. This intellectual pursuit may serve as a refuge, offering a sense of stability and control in the face of familial unpredictability. As the session ended, the client agreed to continue exploring these themes in future sessions, indicating a willingness to further examine the interplay between their intellectual pursuits and personal relationships.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of challenging interactions with their mother and strained communication within the family. They have found a sense of accomplishment in their academic pursuits, particularly in mathematics, which contrasts with earlier feelings of confusion and frustration. Physical activity and visual representations are used as coping mechanisms to manage stress and enhance clarity.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can excel in mathematics, then I can prove my worth and gain control over my life.",
+  "intermediate_belief_depression": "If I fail to excel academically, then I am inadequate and will never gain control over my life.",
+  "coping_strategies": [
+    "The client engages in physical activities like biking and weightlifting to clear their mind and solve problems. They also use visual and tangible representations to grasp abstract concepts, seeking clarity and order."
+  ],
+  "situation": "Preparing for an upcoming visit from parents.",
+  "auto_thought": "I need to prove myself through my achievements, or else I'll feel inadequate during their visit.",
+  "emotion": [
+    "anxious",
+    "self-conscious",
+    "inadequate"
+  ],
+  "behavior": "The client immerses themselves in academic work, focusing intensely on mathematics to distract from the upcoming visit. They may also engage in physical activities to manage stress."
+}

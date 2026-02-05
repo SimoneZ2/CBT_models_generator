@@ -1,0 +1,33 @@
+{
+  "history": "The client has been in a relationship with Ivan for about seven years and married for three. She has experienced significant stress during academic finals and wedding preparations, largely due to Ivan's lack of support. Currently, she faces financial pressure because of Ivan's part-time work, therapy costs, and dental treatment expenses. Ivan's ongoing neglect of responsibilities, such as contributing to expenses and completing administrative tasks, has been a persistent source of strain. These repeated experiences have contributed to feelings of being unsupported and overwhelmed, as well as a tendency to ruminate and doubt her own adequacy.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't get support from my partner when I need it, then I have to handle everything myself, no matter how overwhelmed I feel. If I ask for help and it's not given, it means my needs aren't valued. I must not expect others to step up for me, or I'll be disappointed and let down.",
+  "intermediate_belief_depression": "If I keep having to do everything alone and nothing changes, it means things will never get better for me. If I can't get support now, I probably never will, so there's no point in hoping for improvement.",
+  "coping_strategies": [
+    "The client tends to take on more tasks herself to compensate for Ivan's neglect, leading to exhaustion and burnout. She may withdraw from social interactions or avoid directly addressing the issues with Ivan, possibly out of fear of conflict or believing it won't help. She sometimes seeks reassurance or validation from others to cope with feelings of inadequacy."
+  ],
+  "situation": "Partner neglects responsibilities such as contributing to expenses and completing administrative tasks.",
+  "auto_thought": "I'm always left to deal with everything on my own. Ivan doesn't care enough to help or support me.",
+  "emotion": [
+    "overwhelmed",
+    "anxious",
+    "frustrated",
+    "resentful",
+    "unsupported",
+    "worried"
+  ],
+  "behavior": "I take over the tasks Ivan neglects, even when I'm already stressed. I avoid bringing it up with him because I don't think it will change anything. Sometimes I withdraw and distract myself to cope.",
+  "source_text_id": "1004798841.txt"
+}

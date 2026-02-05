@@ -1,0 +1,28 @@
+{
+  "name": "Patient 24",
+  "id": "24",
+  "type": [
+    "financial stress",
+    "shame"
+  ],
+  "history": "Past pressure related to performance and social interactions. Presents confident front while hiding vulnerability. Recent business failure with financial hardship.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I have to appear successful even when I'm failing.",
+  "intermediate_belief_depression": "My business failure proves I'm a fraud.",
+  "coping_strategies": [
+    "Maintaining confident facade, hiding financial struggles."
+  ],
+  "situation": "Invited to visit sister while dealing with financial instability.",
+  "auto_thought": "My sister will see through my facade and know I'm struggling.",
+  "emotion": [
+    "shame",
+    "anxiety",
+    "vulnerability"
+  ],
+  "behavior": "Consider sister's visit invitation while hiding financial reality."
+}

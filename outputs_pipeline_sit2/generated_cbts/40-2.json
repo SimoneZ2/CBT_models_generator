@@ -1,0 +1,54 @@
+{
+  "name": "CBT Cognitive Conceptualization Diagram for Client",
+  "id": "40-2",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has recently moved, which has caused stress and feelings of instability. Their relationship with their mother is described as judgmental and emotionally unsupportive, which likely contributes to feelings of inadequacy and emotional distress. Friendships have become strained, leading to increased isolation and a sense of being misunderstood or unsupported. These factors together have contributed to the client's current emotional difficulties.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I try to have a real conversation with my mother, she will judge me or dismiss my feelings, so it's safer to keep things superficial. I must avoid showing vulnerability because it will only lead to more criticism. If I am not able to connect with my mother or friends, it means there is something wrong with me.",
+  "intermediate_belief_depression": "If my mother can't support or understand me, and my friends are distant, then I will always be alone and nothing I do will make a difference.",
+  "coping_strategies": "The client tends to mentally rehearse or prepare extensively for interactions with their mother, possibly as a way to manage anxiety. They may withdraw from friends and avoid deeper conversations to protect themselves from further emotional pain. Seeking reassurance or engaging in surface-level engagement are used to avoid conflict and distress.",
+  "situation": "Preparing for a conversation with mother and expecting it to be challenging and superficial.",
+  "auto_thought": "This is going to be another pointless conversation. She won't really listen or care about what I have to say.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "sad",
+    "lonely",
+    "unworthy",
+    "frustrated"
+  ],
+  "behavior": "I rehearse what I might say but keep it superficial. I avoid bringing up anything important or emotional. I may withdraw emotionally during the conversation.",
+  "rationale": "The report notes the client 'anticipates a challenging and superficial conversation,' expects 'negative outcomes,' and experiences 'feelings of sadness, loneliness, and possibly shame.' The client is described as 'mentally rehearsing potential scenarios,' and 'may withdraw from social activities,' with a tendency to 'engage in surface-level engagement to avoid deeper conflict.' The report also highlights the internalization of judgment and a diminished sense of self-worth, supporting the selected core and intermediate beliefs.",
+  "core_belief_predictions": {
+    "source_id": "40-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am bound to be rejected",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

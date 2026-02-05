@@ -1,0 +1,89 @@
+Using description: HISTORY:
+- History of a health condition requiring time off work for physical therapy.
+- Recurrent concerns about being judged by colleagues.
+- Past negative experiences with HR during medical leave.
+
+SITUATION:
+- Recalling a prior interaction with HR that involved feeling judged during medical leave. with ID=38-1
+Top results (by metadata similarity):
+  - sim=0.680 | title='Verilogue session: Client is having problems with his superiors at work. His moo' | file='1003009283.txt'
+  - sim=0.618 | title='Verilogue session: Client had dramatic weight-loss surgery and has higher self-e' | file='1001083995.txt'
+  - sim=0.617 | title='Verilogue session: Client has been extremely physically ill recently; it's been ' | file='1001083934.txt'
+  - sim=0.612 | title='Verilogue session: Client has been diagnosed with Fibromyalgia; she has lost her' | file='1002565943.txt'
+  - sim=0.612 | title='Session 14: Client feels left out by his son.  He expresses his anger at his emp' | file='1000013338.txt'
+  - sim=0.607 | title='Verilogue session: Client's mother has been ailing; this is hard for her to cope' | file='1002565902.txt'
+  - sim=0.599 | title='Verilogue session: Client suffers from depression. He feels like he was discrimi' | file='1001083920.txt'
+  - sim=0.597 | title='Verilogue session: Client recently got a new job in the medical field. Her medic' | file='1003009206.txt'
+  - sim=0.584 | title='Verilogue session: Client is struggling with troubles at work and the loss of a ' | file='1002565874.txt'
+  - sim=0.584 | title='Patient "Ju", Session October 23, 2012: Client recently put in for a long medica' | file='1004798859.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.680 | file='1003009283.txt' | title='Verilogue session: Client is having problems with his superiors at work. His moo'
+  - sim=0.618 | file='1001083995.txt' | title='Verilogue session: Client had dramatic weight-loss surgery and has higher self-e'
+  - sim=0.617 | file='1001083934.txt' | title='Verilogue session: Client has been extremely physically ill recently; it's been '
+Using top selected file for transcript: '1003009283.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of a health condition that necessitated time off work for physical therapy. This situation has led to recurrent concerns about being judged by colleagues and past negative experiences with Human Resources (HR) during medical leave. The patient is currently recalling a prior interaction with HR that involved feeling judged during medical leave.
+
+**Cognitive and Emotional Impact:**
+The patient's history of a health condition requiring time off work likely contributes to feelings of vulnerability and anxiety about their professional standing. The recurrent concerns about being judged by colleagues suggest a heightened sensitivity to perceived criticism or evaluation, which may stem from past negative experiences with HR. This sensitivity can lead to cognitive patterns characterized by overgeneralization and personalization, where the patient might interpret neutral or ambiguous situations as negative judgments against them.
+
+The recollection of feeling judged during a prior HR interaction likely triggers emotions such as anxiety, fear, and possibly shame. These emotions can be understood as a response to the perceived threat to the patient's professional identity and self-worth. The patient may experience a sense of helplessness or frustration, as they recall past interactions where they felt misunderstood or unfairly evaluated.
+
+**Behavioral Responses:**
+In response to these cognitive and emotional patterns, the patient may engage in behaviors such as avoidance or withdrawal from work-related interactions, particularly those involving HR or colleagues perceived as judgmental. The patient might also ruminate on past interactions, replaying them in their mind and focusing on perceived mistakes or criticisms. This rumination can exacerbate feelings of anxiety and contribute to a cycle of negative thinking.
+
+Additionally, the patient may seek reassurance from trusted colleagues or friends to counteract feelings of inadequacy or judgment. However, this reassurance-seeking behavior might provide only temporary relief and could potentially reinforce the underlying anxiety if not addressed through more adaptive coping strategies.
+
+**Coping Styles:**
+The patient's coping style may include attempts to manage their professional image and control how they are perceived by others. This could involve increased efforts to demonstrate competence and reliability at work, possibly leading to overworking or perfectionistic tendencies. However, these efforts might be undermined by the patient's underlying anxiety and fear of judgment, creating a cycle of stress and self-doubt.
+
+**Psychological Patterns and Mechanisms:**
+Drawing from the transcript, we can infer that individuals in similar situations may experience a conflict between their internal self-assessment and external evaluations. This conflict can lead to feelings of confusion and frustration, as the individual struggles to reconcile their self-perception with feedback from others. The patient may also experience a sense of being "picked on" or unfairly targeted, which can further erode their confidence and increase their anxiety.
+
+**Conclusion:**
+The patient's history and current situation suggest a pattern of anxiety and sensitivity to judgment, likely exacerbated by past negative experiences with HR. These factors contribute to cognitive distortions and emotional distress, impacting the patient's behavior and coping strategies. Addressing these patterns through cognitive restructuring and developing more adaptive coping mechanisms can help the patient manage their anxiety and improve their overall well-being.
+Summary da mistral_.csv: The patient, a 35-54 year old Caucasian male, discussed his evaluation report with his psychiatrist. He explained that his employer is requiring him to show significant improvement in two weeks or face termination. The patient noted that his work performance is being compared to a coworker in a different location, and he feels that his boss is under pressure from his superior to let him go. The patient also mentioned that he has considered going on disability but is unsure if he qualifies. The psychiatrist advised the patient about the potential benefits of disclosing his condition under the Americans With Disabilities Act and the possibility of going on short-term disability.
+The patient discussed their current struggles with depression and attention deficit symptoms, expressing concerns about the effectiveness of their current medication regimen. The doctor suggested increasing the dosage of Adderall to improve focus and concentration. The patient expressed anxiety about going on disability but acknowledged the potential benefits of taking a leave to focus on their mental health. They also mentioned feeling better in terms of mood but still experiencing some nervousness and attention to detail issues. The doctor advised the patient to communicate with their employer about their situation and the possibility of taking a short-term disability leave.
+The patient is in a dilemma about taking a leave of absence from work due to a probation period that is about to end. The HR representative contacted the patient to discuss the matter, and the patient feels unsure about her supervisor's attitude towards the situation. The doctor suggests that the patient take the leave if there is any doubt, as it offers some protection. The patient expresses concerns about the potential consequences of taking the leave and feels embarrassed about having to do so. They agree to meet the following week to discuss the matter further.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of a health condition that required time off work for physical therapy. During this period, they experienced negative interactions with HR, feeling judged and misunderstood. These experiences have led to ongoing concerns about being evaluated negatively by colleagues and authority figures at work. The client appears sensitive to perceived criticism and may ruminate on past negative interactions, particularly those involving HR.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I show any sign of weakness or need time off, others will see me as unreliable and judge me negatively. I must always appear competent and in control to avoid criticism. If HR or colleagues notice my vulnerabilities, it means I am failing professionally.",
+  "intermediate_belief_depression": "If others keep judging me or seeing me as less capable, there is no point in trying because I will never be seen as competent or valued at work.",
+  "coping_strategies": [
+    "The client tends to avoid or withdraw from work-related interactions, especially with HR or colleagues perceived as judgmental. They ruminate on past negative experiences, replaying them and focusing on perceived mistakes. Occasionally, they seek reassurance from trusted colleagues, but this only provides temporary relief."
+  ],
+  "situation": "Recalling a prior interaction with HR that involved feeling judged during medical leave.",
+  "auto_thought": "They think I'm just making excuses and not committed to my job. I'm sure they see me as unreliable because of my health issues.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "worried",
+    "frustrated",
+    "helpless"
+  ],
+  "behavior": "I replay the conversation in my mind, focusing on what I said and how they might have interpreted it. I avoid reaching out to HR or discussing my health with colleagues. I seek reassurance from a trusted coworker about how I am perceived."
+}

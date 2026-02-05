@@ -1,0 +1,86 @@
+Using description: HISTORY:
+- Complex relationship history involving a person named Cricket that affected the patient's social circle.
+- The patient often takes a caretaking role with friends, including a friend named Lucy with ongoing medical issues.
+
+SITUATION:
+- Friends are gathered outside the residence waiting while the patient is running late after work. with ID=41-2
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.561 | title='Session 25: Client is very defensive towards her assistant at work, she feels th' | file='1000329602.txt'
+  - sim=0.538 | title='Verilogue session: Client is coming off of his medications; he notices his anxie' | file='1002565899.txt'
+  - sim=0.534 | title='Session 18: Client is jealous of his wife's extramarital escapades while he is o' | file='1000151082.txt'
+  - sim=0.526 | title='Verilogue session: Client is experiencing anxiety and anticipation about retirem' | file='1001083996.txt'
+  - sim=0.521 | title='Session 2: Client desires a romantic relationship; he has been single for a few ' | file='1000094443.txt'
+  - sim=0.521 | title='Verilogue session: Client discusses her husband and the stress in her life' | file='1001083923.txt'
+  - sim=0.517 | title='Verilogue session: Client discusses her relationship with her boyfriend' | file='1003075027.txt'
+  - sim=0.512 | title='Session 15: Client is frustrated in her friendships. She talks about how she and' | file='1000017877.txt'
+  - sim=0.508 | title='Session 10: Client talks about her relationship with her mother' | file='1000017869.txt'
+  - sim=0.504 | title='Session 19: Client is disgusted with his relationship with his girlfriend. He is' | file='1000061048.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.561 | file='1000329602.txt' | title='Session 25: Client is very defensive towards her assistant at work, she feels th'
+  - sim=0.538 | file='1002565899.txt' | title='Verilogue session: Client is coming off of his medications; he notices his anxie'
+  - sim=0.534 | file='1000151082.txt' | title='Session 18: Client is jealous of his wife's extramarital escapades while he is o'
+Using top selected file for transcript: '1000329602.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient has a complex relationship history involving a person named Cricket, which has had a notable impact on their social circle. Additionally, the patient frequently assumes a caretaking role with friends, notably with a friend named Lucy who has ongoing medical issues. Recently, the patient was running late after work while friends were gathered outside their residence waiting.
+
+**Cognitive and Emotional Patterns:**
+The patient's relationship history with Cricket likely contributes to a sense of complexity and potential tension within their social interactions. This complexity may lead to feelings of uncertainty or ambivalence when navigating social dynamics, as seen in the transcript where the patient expresses mixed feelings about their name and its associations. Such ambivalence might extend to their relationships, causing the patient to feel conflicted or unsure about their social standing or the perceptions of others.
+
+The caretaking role the patient assumes, especially with Lucy, suggests a strong sense of responsibility and possibly a tendency to prioritize others' needs over their own. This behavior might stem from a desire to feel needed or valued, which can be emotionally rewarding but also potentially burdensome. The transcript supports this by illustrating how individuals might feel obligated to meet others' expectations, leading to feelings of guilt or inadequacy if they perceive themselves as falling short.
+
+Running late while friends waited outside could evoke feelings of anxiety or guilt for the patient. This situation might trigger thoughts of letting others down or not fulfilling social obligations, which could be distressing given their caretaking tendencies. The transcript highlights how individuals might feel pressured to meet perceived social expectations, leading to self-criticism or defensive reactions when they feel they have not met these standards.
+
+**Behavioral Responses:**
+The patient likely engages in behaviors aimed at maintaining harmony and fulfilling perceived social roles. Their caretaking behavior with Lucy suggests a pattern of seeking reassurance through helping others, which might serve as a coping mechanism to manage feelings of inadequacy or low self-worth. The transcript indicates that individuals might adopt such roles to gain a sense of control or validation, even if it leads to personal sacrifice or stress.
+
+In situations where the patient feels they have not met expectations, such as being late, they might engage in self-critical thoughts or ruminate on their perceived shortcomings. This could lead to avoidance behaviors, such as withdrawing from social interactions to prevent further perceived failures. The transcript supports this by showing how individuals might avoid situations where they anticipate criticism or judgment.
+
+**Coping Styles:**
+The patient appears to cope with social and emotional challenges by taking on caretaking roles and striving to meet others' needs. This approach might provide temporary relief from feelings of inadequacy but could also lead to burnout or resentment if their own needs are consistently neglected. The transcript suggests that individuals might struggle with balancing personal needs and social obligations, leading to internal conflict and stress.
+
+Additionally, the patient might use cognitive strategies to manage their emotions, such as rationalizing their actions or attempting to control their reactions in familiar situations. However, new or unexpected situations might trigger automatic, less adaptive responses, as seen in the transcript where individuals express difficulty in managing reactions in unfamiliar contexts.
+
+**Conclusion:**
+The patient's complex relationship history and caretaking tendencies significantly influence their cognitive, emotional, and behavioral patterns. While these strategies might provide a sense of purpose or validation, they also pose challenges in terms of personal well-being and social interactions. Cognitive Behavioral Therapy (CBT) could be beneficial in helping the patient develop more balanced coping strategies, enhance self-awareness, and build confidence in navigating social dynamics without compromising their own needs.
+Summary da mistral_.csv: The patient discussed their feelings towards their names, particularly their married name QSE, and how it brings to mind a sense of being less aristocratic or settled compared to their brother-in-law's name MEIR. They also reflected on their parents' attitudes towards their capabilities and how it may have influenced their own self-perception and academic performance. The patient mentioned their struggles with writing themes due to repetition and going into too much detail, and their defensive reaction when receiving suggestions from their assistant. They also discussed the frustration of having a crowded day with many things to do and the guilt of prioritizing their own needs over the children's.
+The patient reflects on their parents' compulsive work habits and how it relates to their own tendency to overcommit and feel overwhelmed. They discuss their parents' excessive focus on gardening tasks, which leaves other areas neglected. The patient admits to having similar tendencies, spreading themselves too thin and struggling to complete tasks thoroughly. They also share an experience with a greengrocer who invited himself to tea, leaving the patient feeling uncomfortable and unsure of how to respond. The patient expresses feelings of fear and weakness in the situation, and confusion about the greengrocer's intentions.
+
+ REFINED CCD: description + report
+{
+  "history": "The patient has a complex relationship history involving Cricket, which has affected their social circle and likely contributes to tension or uncertainty in social situations. They often take on a caretaking role with friends, especially Lucy, who has ongoing medical issues. This pattern suggests a strong sense of responsibility and a tendency to prioritize others' needs, possibly to feel valued or needed. The transcript implies that these dynamics lead to internal conflict, as the patient may feel obligated to meet expectations and experience guilt or inadequacy when they perceive themselves as falling short.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't fulfill my responsibilities or meet others' needs, people will be upset with me and I will lose my place in the group. I must always be reliable and helpful to be accepted. It's not okay to put my needs before others'.",
+  "intermediate_belief_depression": "If I keep letting people down, I'll never be good enough and everyone will eventually leave me.",
+  "coping_strategies": [
+    "The patient copes by taking on caretaking roles and striving to meet others' needs, seeking reassurance through helping. When feeling they have failed, they may ruminate on their shortcomings or withdraw from social interactions to avoid criticism. These strategies provide temporary relief but can lead to stress and neglect of their own needs."
+  ],
+  "situation": "Friends are gathered outside the residence waiting while the patient is running late after work.",
+  "auto_thought": "I'm letting everyone down by being late. They're probably annoyed and think I'm unreliable.",
+  "emotion": [
+    "anxious",
+    "guilty",
+    "ashamed",
+    "worried"
+  ],
+  "behavior": "Rush to get home as quickly as possible. Apologize repeatedly to friends upon arrival. Avoid making eye contact or withdraw from the group for a while."
+}

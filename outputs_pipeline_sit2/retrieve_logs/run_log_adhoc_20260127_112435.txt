@@ -1,0 +1,79 @@
+Using description: HISTORY:
+- Strong emotional involvement with friends facing significant life stressors.
+- Sense of responsibility toward friends dealing with parenting and housing challenges.
+
+SITUATION:
+- Considering visiting a friend managing parenting demands and housing instability. with ID=46-1
+Top results (by metadata similarity):
+  - sim=0.637 | title='Session 14: Client resents her parents for not being there for her in her time o' | file='1000126020.txt'
+  - sim=0.624 | title='Session 2: Client only knows himself as a depressed person. He feels he does not' | file='1000013629.txt'
+  - sim=0.622 | title='Session 8: Client tells how he used to become depressed and not be able to get o' | file='1000088076.txt'
+  - sim=0.617 | title='Patient "Ma", Session May 30, 2012: Client's moods have been ranging from 'okay'' | file='1004564999.txt'
+  - sim=0.613 | title='Patient "M" Therapy Session Audio Recording, May 09, 2012: Client is sad about l' | file='1004565019.txt'
+  - sim=0.611 | title='Patient "R" Session July 06, 2012: Client is feeling very emotionally and physic' | file='1004687812.txt'
+  - sim=0.610 | title='Patient "M" Therapy Session Audio Recording, May 30, 2012: She has been very anx' | file='1004565031.txt'
+  - sim=0.607 | title='Session 3: Client is angry with her husband and his lack of interest in her as a' | file='1000088053.txt'
+  - sim=0.606 | title='Patient "M" Therapy Session Audio Recording, May 02, 2012: Client is concerned a' | file='1004565013.txt'
+  - sim=0.604 | title='Session 2: Client discusses her relationship with her boyfriend and tells therap' | file='1000094390.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2 partial_match=8
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=2
+  - sim=0.624 | file='1000013629.txt' | title='Session 2: Client only knows himself as a depressed person. He feels he does not'
+  - sim=0.622 | file='1000088076.txt' | title='Session 8: Client tells how he used to become depressed and not be able to get o'
+Using top selected file for transcript: '1000013629.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of strong emotional involvement with friends who are experiencing significant life stressors. This involvement is characterized by a sense of responsibility toward friends dealing with parenting and housing challenges. The patient is currently considering visiting a friend who is managing parenting demands and housing instability.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions in response to their friends' challenges. Given their strong emotional involvement, the patient may feel anxious and worried about their friends' well-being. This sense of responsibility could lead to feelings of guilt if they perceive themselves as not doing enough to help. The consideration of visiting a friend in distress may evoke feelings of empathy and compassion, but also potential stress and overwhelm due to the complexity of the situation.
+
+**Cognitive Patterns:**
+The patient may engage in ruminative thinking, particularly around the perceived responsibility for their friends' situations. This could manifest as persistent thoughts about how to best support their friends, coupled with self-critical thoughts if they feel they are falling short. The transcript suggests that individuals in similar situations might struggle with identifying specific issues to discuss, indicating a potential difficulty in articulating or prioritizing their own needs and concerns amidst the focus on others.
+
+**Behavioral Responses:**
+The patient might exhibit behaviors such as seeking reassurance from others about their role in supporting their friends or procrastinating on personal tasks due to preoccupation with their friends' issues. The consideration of visiting a friend suggests a proactive approach to providing support, yet it may also indicate a tendency to prioritize others' needs over their own well-being.
+
+**Coping Styles:**
+The patient may cope by immersing themselves in their friends' problems, potentially at the expense of their own emotional health. They might also avoid addressing their own feelings of stress or anxiety, focusing instead on external issues. This aligns with the transcript's depiction of individuals who might suppress their own needs to maintain harmony or avoid conflict.
+
+**Conclusion:**
+The patient's strong sense of responsibility and emotional involvement with friends facing significant stressors likely impacts their emotional, cognitive, and behavioral functioning. They may benefit from exploring ways to balance their supportive role with self-care, potentially through setting boundaries and prioritizing their own needs. Cognitive Behavioral Therapy (CBT) techniques could assist in restructuring any maladaptive thought patterns related to responsibility and self-worth, while also developing healthier coping strategies to manage stress and prevent burnout.
+Summary da mistral_.csv: The patient shared an anecdote about people disliking bright light and discussed their belief that this behavior indicates a departure from human nature. They mentioned having a restful weekend and feeling all right, but having nothing significant to talk about in therapy. The counselor and patient discussed the possibility that the patient's lack of issues to discuss could be due to a lack of current problems or the resolution of past issues. The patient mentioned feeling good on Thursdays and Fridays and having a stable, calm feeling during those days. They also discussed the difficulty in accessing negative emotions to discuss in therapy and the importance of understanding one's problems to discuss them effectively. The patient mentioned having conflicting feelings towards their father and the impact of his inconsistent behavior on their emotions.
+The patient expresses feelings of guilt for not having positive feelings towards their father, as they feel they are expected to have a strong attachment due to his financial support and provision of a room during their childhood. They describe a history of conflict over expectations around keeping their living space clean, which they felt was unreasonable. The patient expresses a desire for their father to leave them alone and not make demands, but also feels a sense of responsibility towards him in case of his old age and potential need for care. They discuss their father's time-consuming hobbies, such as weeding and picking rocks from the lawn, which they found embarrassing when they were younger but later came to appreciate for keeping him active.
+The patient expresses frustration with her partner's behavior of watching TV in the evening and mentions her own preference for cleanliness. The counselor acknowledges the patient's ambivalence towards her partner's habits and her fear of becoming like her father. The patient shares her concern about her roommates' lack of cleanliness and her reluctance to confront them. She also reflects on the connection between her issues with her roommates and her feelings towards her father.
+In this session, the patient expresses strong feelings of anger towards their roommates and a desire to confront them. They feel uncomfortable with these emotions and unsure of how to manage them. The patient has previously tried expressing anger through loud outbursts but now feels the situation is more serious and wants to find a more effective way to communicate their grievances. The patient expresses concern about the potential consequences of confronting their roommates, including damaging their interpersonal relationships and being outnumbered. They also mention past experiences of feeling wronged and the difficulty of coping with multiple roommates. The counselor encourages the patient to consider alternative ways of addressing the issue and breaking the cycle of resentment.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of becoming emotionally involved with friends who are experiencing significant life stressors, particularly around parenting and housing. They report a strong sense of responsibility for supporting these friends. This pattern suggests that the client may have learned to prioritize others' needs over their own, possibly neglecting their own emotional well-being. The report indicates that this involvement can lead to ruminative thinking and difficulty articulating their own needs.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't do everything I can to help my friends when they're struggling, then I am failing as a friend and person. I must always put others' needs before my own to be a good friend. It's my responsibility to make sure my friends are okay, even if it means sacrificing my own well-being.",
+  "intermediate_belief_depression": "If I can't fix my friends' problems or make things better for them, then I'm useless and there's no point in trying. My efforts never seem to be enough, so I might as well give up.",
+  "coping_strategies": [
+    "The client tends to immerse themselves in their friends' problems, sometimes at the expense of their own emotional health. They may avoid addressing their own stress or needs, focusing instead on supporting others. There is a tendency to ruminate about their role and responsibility, and to seek reassurance or validation from others about whether they are doing enough."
+  ],
+  "situation": "Considering visiting a friend managing parenting demands and housing instability.",
+  "auto_thought": "If I don't go see them, I'm letting them down. They need me right now and it's up to me to help.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "guilty",
+    "overwhelmed",
+    "empathetic"
+  ],
+  "behavior": "I spend time thinking about what my friend needs and how I can help. I put off my own plans or self-care to prioritize visiting them. I may reach out to others for advice or reassurance about what I should do."
+}

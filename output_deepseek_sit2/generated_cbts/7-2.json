@@ -1,0 +1,32 @@
+{
+  "name": "Patient 7",
+  "id": "7",
+  "type": [
+    "workaholism",
+    "family trauma"
+  ],
+  "history": "History of long work hours in demanding environments. Unresolved issues with father including past abuse. Recent exchange of letters addressing history.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am defective"
+  ],
+  "unlovable_belief": [
+    "I am unlovable"
+  ],
+  "worthless_belief": [
+    "I am bad - dangerous, toxic, evil"
+  ],
+  "intermediate_belief": "If I'm not constantly productive, I'm worthless like my father.",
+  "intermediate_belief_depression": "The abuse damaged me permanently; I'll never be whole.",
+  "coping_strategies": [
+    "Overworking, emotional numbness, avoiding idle time."
+  ],
+  "situation": "Reflecting on how to use idle time and focus on personal development.",
+  "auto_thought": "\"I don't know who I am without work. I'm wasting time. I should be doing something productive.\"",
+  "emotion": [
+    "anxiety",
+    "emptiness",
+    "shame"
+  ],
+  "behavior": "Creates overly ambitious self-improvement plan, then procrastinates, then berates self."
+}

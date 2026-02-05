@@ -1,0 +1,27 @@
+{
+  "name": "Financial Struggles Case",
+  "id": "001",
+  "type": [
+    "Financial Stress",
+    "Family Dynamics"
+  ],
+  "history": "Financial difficulties following questionable investments. Increased reliance on parents for financial assistance.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I can't manage my finances properly.",
+  "intermediate_belief_depression": "My financial failures define my worth.",
+  "coping_strategies": "Avoids thinking about finances, relies on parents for support.",
+  "situation": "Thinking about how past financial decisions may affect future plans.",
+  "auto_thought": "I will never recover from these financial mistakes.",
+  "emotion": [
+    "Anxiety",
+    "Shame"
+  ],
+  "behavior": "Avoids making new financial decisions, procrastinates on planning."
+}

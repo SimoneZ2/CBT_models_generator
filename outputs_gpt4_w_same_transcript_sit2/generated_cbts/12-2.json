@@ -1,0 +1,29 @@
+{
+  "name": "Case Study: Jazz Group Leadership",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "PhD student in a science field. Deep involvement in music; previously led a college band and currently participates in a jazz group. Offered a leadership position in the jazz group and declined. Reports mental health struggles. Feels disconnected from colleagues in the scientific work environment due to differing values and work habits.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must avoid taking on too much responsibility to prevent failure.",
+  "intermediate_belief_depression": "If I take on more than I can handle, I will fail and be overwhelmed.",
+  "coping_strategies": "Avoidance of leadership roles and additional responsibilities.",
+  "situation": "Offered a leadership position in the jazz group and decided not to accept it due to concern about managing responsibilities alongside PhD work and mental health.",
+  "auto_thought": "I can't handle the pressure of a leadership role right now.",
+  "emotion": [
+    "Anxiety",
+    "Fear of failure"
+  ],
+  "behavior": "Declined the leadership position in the jazz group.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

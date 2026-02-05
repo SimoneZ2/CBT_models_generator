@@ -1,0 +1,27 @@
+{
+  "name": "Patient 23",
+  "id": "23",
+  "type": [
+    "family conflict",
+    "communication issues"
+  ],
+  "history": "Longstanding difficult interactions with mother. Strained communication and delayed sharing of significant events.",
+  "helpless_belief": [
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "Interactions with my mother always leave me feeling criticized and inadequate.",
+  "intermediate_belief_depression": "My relationship with my mother is permanently damaged.",
+  "coping_strategies": [
+    "Delayed communication, emotional preparation for visits."
+  ],
+  "situation": "Preparing for an upcoming visit from parents.",
+  "auto_thought": "This visit is going to be stressful and exhausting.",
+  "emotion": [
+    "dread",
+    "anxiety",
+    "obligation"
+  ],
+  "behavior": "Prepare for parental visit with anticipation of conflict."
+}

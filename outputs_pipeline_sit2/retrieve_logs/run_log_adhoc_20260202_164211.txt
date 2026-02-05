@@ -1,0 +1,75 @@
+Using description: HISTORY:
+- 28-year-old student.
+- Returned from Egypt.
+- Previously relied on parents for support and is now managing bills, finances, and health insurance independently for the first time.
+- Brother remains financially dependent on parents.
+
+SITUATION:
+- Received an insurance claim with an unexpected balance. with ID=6-2
+Sample results (metadata similarity):
+  - sim=0.024 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.033 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.037 | title='Session 17: Client sees herself as having an overbearing, aggressive personality' | file='1000133903.txt'
+  - sim=0.048 | title='Resolving Shame -Steve Andreas demonstrates this process, developed by Steve and' | file='1000119397.txt'
+  - sim=0.058 | title='Session 62: Client wants to feel free in responding sexually to her husband' | file='1000367961.txt'
+  - sim=0.062 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.064 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+  - sim=0.066 | title='Volume no. 6: Mr. Lin: Client believes himself to be homosexual and wants to cha' | file='1002094563.txt'
+  - sim=0.068 | title='Patient "B", Session August 02, 2012: Client discusses her constant need for soc' | file='1004687562.txt'
+  - sim=0.070 | title='Volume no. 11: John Jones: The patient with whom the following recorded intervie' | file='1002133157.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=173 partial_match=1848
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.073 | file='1000133863.txt' | title='Session 12: Client has recently had sexual intercourse for the first time'
+  - sim=0.073 | file='1000013645.txt' | title='Session 10: Client has fear problems, he feels lost'
+  - sim=0.107 | file='1000134002.txt' | title='Session 5: Client feels that his interactions with others are never spontaneous.'
+Using LEAST related file for transcript: '1000133863.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a 28-year-old student who recently returned from Egypt, is navigating the complexities of newfound independence, including managing bills, finances, and health insurance for the first time. This transition appears to be a significant source of stress, as evidenced by the client's reaction to an unexpected insurance claim balance. During the session, the client frequently expressed feelings of being "so tired" and "really beat," which may be indicative of the overwhelming nature of these responsibilities. The client humorously speculated about having a serious illness, such as "dying of leukemia," which suggests a tendency towards catastrophic thinking when faced with stress.
+
+The client also discussed recent experiences with intimacy, noting a positive first encounter with intercourse, which was described as "terrific" and "really nice." Despite this positive experience, the client expressed some ambivalence about the implications of this new aspect of their life, questioning whether it would solve all their problems. This reflects a cognitive pattern of overestimating the impact of singular events on overall well-being. The client seemed to grapple with societal norms and personal beliefs about sex, noting that it was "no big deal" and questioning why it is often made into one. This internal conflict may stem from the client's upbringing and the values imparted by their family, as they recalled past judgments about premarital sex.
+
+Interpersonal dynamics were also a focal point, particularly in the client's relationship with Tanya. The client recounted an incident where they were too exhausted to invite Tanya over, despite knowing she was upset. This situation elicited feelings of guilt, as the client reflected on whether they were being "very rotten" for not accommodating Tanya's needs. The client's concern about disappointing Tanya suggests a pattern of seeking to avoid conflict, even at the expense of their own needs. The client later rationalized that Tanya enjoyed their time together as much as they did, which helped alleviate some guilt.
+
+Throughout the session, the client demonstrated a pattern of avoidance and procrastination, particularly in addressing uncomfortable situations. For instance, the client mentioned not answering the phone to avoid a conversation with Tanya, indicating a tendency to withdraw when overwhelmed. This behavior aligns with the client's broader coping strategy of retreating from stressors, as seen in their reluctance to engage with the insurance issue.
+
+The client's reflections on their teaching experiences revealed insights into their cognitive and emotional processes. They expressed surprise at the sexual awareness of their students, noting that "things sure have changed" since their own childhood. This observation led to a broader contemplation of societal changes and personal growth, as the client considered how their beliefs have evolved over time. The client appeared to be processing these changes with a mix of curiosity and skepticism, questioning long-held beliefs and the societal constructs surrounding them.
+
+Overall, the session highlighted the client's struggle with balancing personal desires and external expectations, a theme that permeates both their personal and professional life. The client's narrative was punctuated by moments of introspection and humor, which served as coping mechanisms to navigate the complexities of their current situation. As the session concluded, both the client and counselor acknowledged their mutual fatigue, deciding to "call it a night," which underscores the pervasive sense of exhaustion that characterized the client's experience.
+Summary da mistral_.csv: In this session, the patient discusses their recent experience of having sex for the first time with their partner Tanya, expressing their enjoyment and relief. They also share their feelings of exhaustion and avoidance towards work and their disappointment in not being able to see Tanya when she wanted to visit. The patient reflects on the difference in sexual recovery time between men and women and shares an anecdote about a 14-year-old boy's sexual experiences. They also discuss their experience of answering sex-related questions from students during a sex education class. The patient seems to be dealing with feelings of inadequacy and confusion regarding their sexual experiences and relationships.
+In this session, the patient described an experience where boys and girls were separated during a workshop. The patient noted that some women teachers knew what was happening and respected the separation, while the patient questioned the necessity of it. They discussed various topics, including the question of whether love is required for sex. The patient shared that they had recently experienced intercourse and felt it was a natural experience without guilt or a big deal. They also reflected on their past experiences and how they had once found the idea of premarital sex taboo, but now saw it as a normal human function. The patient also discussed their relationship with Tanya and their differing sexual responses, as well as their confusion about their feelings towards her. The session ended with the patient expressing their thoughts on the topic and deciding to end the session.
+
+REFINED CCD: description + report
+{
+  "history": "The client is a 28-year-old student who recently returned from Egypt and is now managing bills, finances, and health insurance independently for the first time, after previously relying on parental support. The client’s brother remains financially dependent on their parents. The client has expressed feeling overwhelmed and exhausted by these new responsibilities, as indicated by frequent statements of being 'so tired' and 'really beat.' There is a pattern of avoidance and procrastination when facing stressful or uncomfortable situations, such as not answering the phone to avoid a difficult conversation. The client also demonstrates internal conflict regarding societal and familial expectations, particularly around independence and intimacy, and has a tendency towards catastrophic thinking when under stress.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake or can't immediately solve a problem, it means I'm not as competent or independent as I should be. If I show that I'm struggling, others will judge me or see me as weak. I must avoid letting others down or appearing incapable, or else I'll be seen as a disappointment.",
+  "intermediate_belief_depression": "If I keep failing to handle these responsibilities, it proves that I’ll never be able to manage on my own and things will never get better. If I can't cope now, I'll always be overwhelmed and exhausted.",
+  "coping_strategies": [
+    "The client tends to avoid or procrastinate dealing with stressful situations, such as ignoring bills or not answering the phone to avoid difficult conversations. They use humor and rationalization to deflect distress and sometimes withdraw from interpersonal interactions when overwhelmed. These strategies provide temporary relief but maintain the cycle of stress and avoidance."
+  ],
+  "situation": "Received an insurance claim with an unexpected balance.",
+  "auto_thought": "I have no idea how to deal with this. I'm going to mess it up and end up in trouble.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "worried",
+    "ashamed",
+    "tired"
+  ],
+  "behavior": "Put off opening or responding to the insurance claim. Avoided calling the insurance company or seeking help. Distracted self with other activities or withdrew from the situation."
+}

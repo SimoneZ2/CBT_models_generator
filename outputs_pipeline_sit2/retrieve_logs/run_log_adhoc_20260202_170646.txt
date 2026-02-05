@@ -1,0 +1,79 @@
+Using description: HISTORY:
+- Recurrent stomachaches and physical symptoms associated with anxiety and stress.
+- Past difficulties involving weight management, sexuality, and academic performance.
+- Reports a transformation during college.
+- Reports seeking control in relationships.
+
+SITUATION:
+- Concern about losing positive aspects of life or returning to a previous unhappy state. with ID=39-2
+Sample results (metadata similarity):
+  - sim=0.089 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.117 | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c' | file='1001114245.txt'
+  - sim=0.140 | title='Narrative Therapy With Children: Children can feel overtaken by family problems ' | file='1001114246.txt'
+  - sim=0.149 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.167 | title='Patient "J", Session June 08, 2012: Client arrives in a better mood than he's be' | file='1004687620.txt'
+  - sim=0.176 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.179 | title='Patient "L", Session May 09, 2012: Client has been feeling good about her work; ' | file='1004564967.txt'
+  - sim=0.182 | title='Murphy Psychotherapy Session Transcript: We know that children need lots of posi' | file='1001114248.txt'
+  - sim=0.184 | title='Patient "M", Session August 22, 2012: Client talks about some issues surrounding' | file='1004687678.txt'
+  - sim=0.185 | title='Patient "Ju", Session June 08, 2012: Client has been very worried about her cous' | file='1004687626.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.089 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.117 | file='1001114245.txt' | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c'
+  - sim=0.140 | file='1001114246.txt' | title='Narrative Therapy With Children: Children can feel overtaken by family problems '
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of recurrent stomachaches linked to anxiety and stress, exhibits a deep engagement with mathematics, which seems to provide both a challenge and a source of satisfaction. During the session, the client discusses their recent experiences with teaching and learning mathematics, revealing a complex interplay between their intellectual pursuits and emotional states. The client mentions a past transformation during college, which may relate to their current pursuit of control and mastery in their academic endeavors. They express a sense of accomplishment when they describe how "being on the bike and lifting weights somehow cleared my mind," allowing them to solve complex problems. This suggests that physical activity serves as a coping mechanism, helping to alleviate stress and enhance cognitive clarity.
+
+The client's narrative is filled with reflections on the nature of learning and the satisfaction derived from overcoming intellectual challenges. They describe the process of grappling with difficult mathematical concepts, noting, "I can't do it in my head," which highlights their struggle with the expectation of innate understanding. This struggle is juxtaposed with moments of clarity and achievement, such as when they feel like a "pro" after mastering previously confusing material. The client’s focus on teaching and tutoring precalculus indicates a desire to solidify their understanding by helping others, which aligns with their history of seeking control in relationships.
+
+Throughout the session, the client frequently returns to the theme of clarity versus confusion, both in mathematics and in life. They express a sense of being "in a dark room fumbling for the light switch," a metaphor that captures their ongoing quest for understanding and certainty. This metaphor may also reflect their concern about losing the positive aspects of their life or reverting to a previous unhappy state. The client’s engagement with mathematics appears to offer a structured environment where they can exert control and find meaning, contrasting with the unpredictability they perceive in other areas of life.
+
+The client’s reflections on the nature of mathematical proofs and the satisfaction of teaching reveal an underlying cognitive pattern of seeking validation through intellectual mastery. They describe the process of learning new mathematical symbols as "infuriating," yet they also find it "amazing" when they eventually comprehend the material. This oscillation between frustration and fulfillment suggests a cognitive-behavioral cycle where initial anxiety about not knowing is transformed into a sense of accomplishment through perseverance and problem-solving.
+
+The client’s avoidance of discussing personal emotions directly, instead focusing on intellectual pursuits, may indicate a coping strategy to manage underlying anxiety. Their detailed descriptions of mathematical processes and teaching experiences serve as a way to distance themselves from more emotionally charged topics. The client’s history of difficulties with weight management and sexuality is not directly addressed in the session, but their focus on control and mastery in mathematics may be a compensatory mechanism for areas of life where they feel less control.
+
+In summary, the client’s engagement with mathematics provides a structured outlet for their need for control and intellectual validation. Their narrative reveals a cognitive pattern of transforming initial confusion into clarity, which parallels their broader life concerns about maintaining positive aspects and avoiding regression into past unhappiness. The session highlights the client’s reliance on intellectual pursuits as a means of coping with anxiety and stress, while also hinting at the potential for deeper emotional exploration in future sessions.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of recurrent stomachaches and physical symptoms associated with anxiety and stress. They have struggled with weight management, sexuality, and academic performance in the past. A significant transformation occurred during college, which may have contributed to their current focus on control and mastery, especially in intellectual and relational domains. The client tends to seek control in relationships and finds satisfaction in structured activities like mathematics and physical exercise. They often avoid discussing personal emotions directly, instead channeling their energy into intellectual pursuits as a way to manage underlying anxiety.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't maintain control and keep improving myself, I will lose the positive aspects of my life and end up unhappy again. I must always strive for clarity and mastery, or else I will be overwhelmed by confusion and failure. If I let my guard down, I risk returning to the state I worked so hard to escape.",
+  "intermediate_belief_depression": "If I can't keep things under control or start to slip, it means I'm destined to go back to being unhappy and nothing I do will matter. If I lose my progress, it proves that my efforts were pointless and I can't really change.",
+  "coping_strategies": [
+    "The client immerses themselves in intellectual pursuits like mathematics and teaching, using these as structured outlets to exert control and gain validation. They engage in physical activity to manage stress and clear their mind. The client tends to avoid directly addressing personal emotions, instead focusing on problem-solving and mastery to distance themselves from underlying anxiety."
+  ],
+  "situation": "Concern about losing positive aspects of life or returning to a previous unhappy state.",
+  "auto_thought": "If I lose what I have now, I'll end up miserable like before. I can't let myself slip or everything will fall apart.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "fearful",
+    "sad",
+    "vigilant"
+  ],
+  "behavior": "I double down on activities that give me a sense of control, like working harder at math or teaching. I avoid thinking about my emotions and focus on tasks where I can prove myself. I might withdraw from situations that feel unpredictable or out of my control."
+}

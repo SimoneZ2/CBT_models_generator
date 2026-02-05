@@ -1,0 +1,28 @@
+{
+  "name": "John Doe",
+  "id": "JD123",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "History of recurring conflicts and strained relationships. Ongoing trust and boundary issues in relationships. Some relationships involve alcoholism. History of aggressive behavior.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not in control, I will be rejected.",
+  "intermediate_belief_depression": "If I am rejected, it means I am inherently flawed.",
+  "coping_strategies": "Attempts to control social situations to avoid feelings of rejection.",
+  "situation": "Spending holidays alone and reflecting on feelings of sadness and loneliness.",
+  "auto_thought": "I am always going to be alone.",
+  "emotion": [
+    "Sadness",
+    "Loneliness",
+    "Rejection"
+  ],
+  "behavior": "Withdrawal from social situations and overreaction to perceived slights."
+}

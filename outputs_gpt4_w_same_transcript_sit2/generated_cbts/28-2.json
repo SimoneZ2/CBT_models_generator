@@ -1,0 +1,34 @@
+{
+  "name": "Ivan",
+  "id": "case_001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "History of self-critical tendencies. Used to maintaining control and achieving goals. Current challenges involve job seeking, personal relationships, and family dynamics.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must always be in control and achieve my goals to be valued.",
+  "intermediate_belief_depression": "If I fail to achieve my goals, I am worthless.",
+  "coping_strategies": "Avoidance of conflict and self-blame to maintain peace and control.",
+  "situation": "Conflict related to another person's (Ivan's) approach to job searching and life decisions.",
+  "auto_thought": "I am not doing enough; I am failing.",
+  "emotion": [
+    "Anxiety",
+    "Frustration",
+    "Fear"
+  ],
+  "behavior": "Avoidance of confrontation and self-criticism.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

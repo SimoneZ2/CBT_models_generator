@@ -1,0 +1,71 @@
+Using description: HISTORY:
+- Took time off work for physical therapy due to a painful condition.
+- Past interactions with HR and a manager regarding return-to-work and short-term disability status.
+
+SITUATION:
+- Recalling a previous leave-of-absence interaction with HR. with ID=38-1
+Top results (by metadata similarity):
+  - sim=0.623 | title='Verilogue session: Client is having problems with his superiors at work. His moo' | file='1003009283.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=1 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=1
+  - sim=0.623 | file='1003009283.txt' | title='Verilogue session: Client is having problems with his superiors at work. His moo'
+Using top selected file for transcript: '1003009283.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has taken time off work for physical therapy due to a painful condition. They have had past interactions with HR and a manager concerning their return-to-work status and short-term disability. The patient is currently recalling a previous leave-of-absence interaction with HR.
+
+**Emotional Impact:**
+The patient's experience of taking time off work due to a painful condition likely evokes a range of emotions. The need for physical therapy suggests a period of discomfort and possibly frustration or helplessness due to physical limitations. The interactions with HR and management regarding return-to-work and disability status may contribute to feelings of anxiety and uncertainty about job security and future work performance. Recalling past interactions with HR might trigger feelings of apprehension or stress, especially if those interactions were challenging or unresolved.
+
+**Cognitive Patterns:**
+The patient may engage in ruminative thinking, particularly focusing on past interactions with HR and management. This could manifest as repetitive thoughts about how those conversations went and what they might mean for their future at work. The patient might also experience cognitive distortions, such as catastrophizing potential outcomes of their leave or return-to-work status, leading to increased anxiety. The transcript suggests that individuals in similar situations often feel confused and uncertain about their standing at work, which could apply to this patient as well.
+
+**Behavioral Responses:**
+The patient might exhibit avoidance behaviors, such as delaying communication with HR or management, to prevent potential stress or confrontation. They may also seek reassurance from colleagues or family members about their job performance and future prospects. Given the context of physical therapy, the patient might also be focusing on recovery and rehabilitation efforts, which could lead to prioritizing health over work-related concerns temporarily.
+
+**Coping Styles:**
+The patient may rely on problem-solving strategies to manage their situation, such as gathering information about their rights and options regarding disability leave. They might also engage in seeking social support from friends, family, or coworkers to navigate their emotional and practical challenges. The transcript indicates that individuals in similar situations might feel pressured to perform well upon returning to work, which could lead the patient to set high expectations for their recovery and work performance.
+
+**Conclusion:**
+The patient's current situation involves navigating the complexities of health recovery and work-related responsibilities. The emotional, cognitive, and behavioral impacts of their circumstances suggest a need for strategies to manage anxiety and uncertainty. Cognitive Behavioral Therapy (CBT) techniques, such as cognitive restructuring and problem-solving, could be beneficial in addressing ruminative thoughts and enhancing coping mechanisms. Encouraging the patient to focus on achievable goals and maintain open communication with HR and management may also support their transition back to work.
+Summary da mistral_.csv: The patient, a 35-54 year old Caucasian male, discussed his evaluation report with his psychiatrist. He explained that his employer is requiring him to show significant improvement in two weeks or face termination. The patient noted that his work performance is being compared to a coworker in a different location, and he feels that his boss is under pressure from his superior to let him go. The patient also mentioned that he has considered going on disability but is unsure if he qualifies. The psychiatrist advised the patient about the potential benefits of disclosing his condition under the Americans With Disabilities Act and the possibility of going on short-term disability.
+The patient discussed their current struggles with depression and attention deficit symptoms, expressing concerns about the effectiveness of their current medication regimen. The doctor suggested increasing the dosage of Adderall to improve focus and concentration. The patient expressed anxiety about going on disability but acknowledged the potential benefits of taking a leave to focus on their mental health. They also mentioned feeling better in terms of mood but still experiencing some nervousness and attention to detail issues. The doctor advised the patient to communicate with their employer about their situation and the possibility of taking a short-term disability leave.
+The patient is in a dilemma about taking a leave of absence from work due to a probation period that is about to end. The HR representative contacted the patient to discuss the matter, and the patient feels unsure about her supervisor's attitude towards the situation. The doctor suggests that the patient take the leave if there is any doubt, as it offers some protection. The patient expresses concerns about the potential consequences of taking the leave and feels embarrassed about having to do so. They agree to meet the following week to discuss the matter further.
+
+ REFINED CCD: description + report
+{
+  "history": "The client took time off work for physical therapy due to a painful condition. They have had previous interactions with HR and a manager about their return-to-work and short-term disability status. The need for physical therapy and the process of leave suggest a period of discomfort, possible frustration, and uncertainty about their job and health. The client is now recalling a previous leave-of-absence interaction with HR, which may have been challenging or left unresolved feelings.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't handle my interactions with HR perfectly, I might lose my job or be seen as unreliable. I must always show that I am capable, even when I'm struggling. If I appear uncertain or weak, others will judge me negatively.",
+  "intermediate_belief_depression": "If I can't manage my health and work responsibilities, it means I'm failing and things will never get better. No matter what I do, I won't be able to meet expectations or regain my standing.",
+  "coping_strategies": [
+    "The client tends to ruminate about past HR interactions, replaying conversations and worrying about their implications. They may avoid reaching out to HR or management to prevent further stress, and seek reassurance from others about their job security and performance."
+  ],
+  "situation": "Recalling a previous leave-of-absence interaction with HR.",
+  "auto_thought": "What if HR thinks I'm unreliable because I took time off? I might not be able to come back to work or they could let me go.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "apprehensive",
+    "tense",
+    "uncertain"
+  ],
+  "behavior": "I replay the conversation with HR in my mind, second-guessing what I said. I avoid contacting HR or asking for updates, and I talk to friends or family to get reassurance about my situation."
+}

@@ -1,0 +1,32 @@
+{
+  "name": "CBT Cognitive Conceptualization for Jersey Support Case",
+  "id": "ccd-jersey-support-001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The patient has a long-standing friendship with Jersey and has consistently provided support during Jersey's medical procedures and recovery, indicating a pattern of loyalty and responsibility. There is also an ongoing conflict with roommate Ashby over household issues, which is a source of chronic stress. The patient tends to ruminate about both Jersey's recovery and the unresolved conflict, suggesting difficulty in managing competing emotional demands and articulating concerns.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't keep supporting Jersey, I am letting them down and that means I'm not a good friend. I have to manage everything myself because others are depending on me. If I can't handle all my responsibilities, it means I'm failing the people who need me.",
+  "intermediate_belief_depression": "If I can't keep up with supporting Jersey and managing my own responsibilities, it means I'm not good enough and things will never get better. No matter how much I try, I can't make things right for anyone.",
+  "coping_strategies": "The patient provides practical and emotional support to Jersey, often checking in and offering help. When it comes to the conflict with Ashby, the patient tends to avoid direct confrontation and may suppress their own emotions, leading to internalized stress and rumination.",
+  "situation": "Thinking about Jersey's recovery while managing other personal responsibilities.",
+  "auto_thought": "I'm not doing enough for Jersey, and if I mess up my other responsibilities, everything will fall apart.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "overwhelmed",
+    "guilty"
+  ],
+  "behavior": "Checks in on Jersey or offers help, even when busy. Delays or avoids addressing other personal or household tasks. Ruminates about both Jersey's situation and their own responsibilities.",
+  "rationale": "\"The patient's emotional landscape is likely characterized by a mix of concern, stress, and perhaps a sense of obligation... This concern might manifest as anxiety or tension, particularly when coupled with the patient's other responsibilities.\" \"The patient may engage in ruminative thinking, particularly about Jersey's recovery and the unresolved conflict with Ashby.\" \"The patient likely exhibits supportive behaviors towards Jersey, such as checking in, offering assistance, or providing emotional support.\" \"The patient might also engage in avoidance or withdrawal behaviors regarding the conflict with Ashby, as ongoing disputes can lead to a reluctance to confront the issue directly.\""
+}

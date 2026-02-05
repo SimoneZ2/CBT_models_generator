@@ -1,0 +1,78 @@
+Using description: HISTORY:
+- In a relationship with Ivan for about seven years and married for three.
+- Stressful periods during academic finals and wedding preparation due to lack of support from Ivan.
+- Current financial pressure involving Ivan's part-time work, therapy costs, and dental treatment expenses.
+
+SITUATION:
+- Ivan's mother speaks to the patient in a critical manner. with ID=48-2
+Sample results (metadata similarity):
+  - sim=0.061 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.166 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.170 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.183 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.199 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.206 | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne' | file='1004503136.txt'
+  - sim=0.223 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.225 | title='Patient "R" Session June 25, 2012: Client knows that she should be working on co' | file='1004600948.txt'
+  - sim=0.225 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.227 | title='Client "S", Session September 21, 2012: Client is currently working towards his ' | file='1004824793.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=105 partial_match=1916
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.227 | file='1004824793.txt' | title='Client "S", Session September 21, 2012: Client is currently working towards his '
+  - sim=0.327 | file='1004528629.txt' | title='Patient "M" Session March 23, 2012: Client wants to try and be more attentive to'
+  - sim=0.336 | file='1001074148.txt' | title='The Swish Pattern, an NLP method for changing habits quickly, is used to help a '
+Using LEAST related file for transcript: '1004824793.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has been in a relationship with Ivan for about seven years and married for three, is currently navigating a complex web of academic and personal challenges. During our session, the client shared a detailed account of attending a concert, which seemed to serve as a temporary escape from the ongoing stressors in their life. The client described the experience with enthusiasm, noting the "intimate" setting and the "phenomenal" performance, which provided a brief respite from the financial pressures they face due to Ivan's part-time work, therapy costs, and dental treatment expenses.
+
+Throughout the session, the client frequently returned to the theme of feeling inadequate or not measuring up, particularly in academic settings. The client recounted a challenging math problem involving horses, expressing frustration and self-doubt about their ability to understand it. They described a "feeling of looking at something and not understanding it," which seemed to echo a deeper, long-standing insecurity. This insecurity was further highlighted by the client's recollection of a childhood memory involving a misunderstanding of words, which they linked to their current struggles with math. The client expressed a sense of being "not good enough," a theme that resonates with their experiences of feeling unsupported by Ivan during stressful periods such as academic finals and wedding preparations.
+
+The client's narrative also touched on interpersonal dynamics, particularly with Ivan's mother, who speaks to the client in a critical manner. This interaction seems to exacerbate the client's feelings of inadequacy and contributes to their overall sense of tension and anxiety. The client mentioned feeling awkward around Barbara's mother, Karen, and noted a disconnect in their interactions, which may mirror the client's broader struggles with belonging and acceptance.
+
+In discussing their academic pursuits, the client revealed a tension between their enjoyment of grappling with complex problems and the anxiety it provokes. They described a "source of a lot of anxiety and kind of self-doubt" when faced with challenging tasks, which seems to be compounded by a fear of not meeting expectations. This fear was evident when the client compared themselves to younger peers in their math class, expressing concern about being "not rising up to the level" required to succeed.
+
+The session also explored the client's coping strategies, which include ruminating on problems and seeking validation through academic achievement. However, these strategies often lead to further anxiety, as the client feels pressure to "get it quickly" and prove their competence. The client's reflections on their academic journey suggest a desire for a sense of legitimacy and belonging, both in their personal and professional life.
+
+Overall, the client's narrative reveals a complex interplay of cognitive patterns and emotional responses, rooted in past experiences and current stressors. Their tendency to ruminate and seek reassurance highlights a need for strategies to manage anxiety and build self-efficacy. As we continue our work together, we will focus on developing cognitive and behavioral techniques to help the client navigate these challenges and foster a more positive self-concept.
+Summary da mistral_.csv: The client discusses attending a concert of a musician named Treham and recording the performance in small packages for easier listening. They also mention issues with their neighbor's loud alarm clock and their struggle to understand a mathematical problem about horses. The client reflects on the experience of not understanding the problem and its potential implications for their sense of belonging and intelligence. They also share their experience of observing their mother-in-law's crossword-solving abilities and feeling inadequate in comparison.
+The client discusses their experiences in advanced math classes, feeling uncertain about their ability to teach math due to their own limitations and the ease with which others seem to grasp the concepts. They reflect on the pressure to perform and the feeling of being a back-up, whether in the context of being a math teacher or a quarterback. They also compare their experiences to those in their classes, noting the difference in engagement and intensity of questions asked.
+The client expresses his enjoyment and struggle with complex mathematical concepts, specifically set theory, despite being a math teacher. He shares his experience of feeling inadequate when unable to understand the material quickly, leading to self-doubt and anxiety. The therapist acknowledges the connection between the client's competence and self-perception, and they discuss the potential benefits of mastering the material for future endeavors. The client ponders the possibility of shifting focus to the arts as an alternative to mathematics.
+
+REFINED CCD: description + report
+{
+  "history": "The client has been in a relationship with Ivan for about seven years and married for three. They have experienced stressful periods during academic finals and wedding preparation, particularly due to a lack of support from Ivan. The client faces ongoing financial pressures related to Ivan's part-time work, therapy costs, and dental treatment expenses. The client has a long-standing sense of inadequacy, which is exacerbated by interpersonal dynamics, especially with Ivan's mother, who is critical. The client also recalls childhood experiences of misunderstanding and feeling not good enough, which continue to influence their self-concept.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If someone criticizes me, it means I have failed to meet their expectations and I am not good enough. I must always prove my worth to others to be accepted. If I don't handle things perfectly, people will see my flaws and judge me.",
+  "intermediate_belief_depression": "If I can't get others' approval or avoid criticism, it proves that I am fundamentally inadequate and will never truly belong. No matter what I do, I will always fall short and disappoint those around me.",
+  "coping_strategies": [
+    "The client tends to ruminate on critical interactions and seeks validation through achievement or approval from others. They may withdraw or become tense in the presence of critical individuals, and often replay negative interactions in their mind, which increases anxiety and self-doubt."
+  ],
+  "situation": "Ivan's mother speaks to the patient in a critical manner.",
+  "auto_thought": "She's criticizing me again; I must be doing something wrong. No matter what I do, I can't make her accept me.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "ashamed",
+    "hurt",
+    "inadequate",
+    "self-doubt"
+  ],
+  "behavior": "I become quiet and avoid eye contact. I replay the conversation in my head, trying to figure out what I did wrong. I withdraw from the interaction and avoid speaking up."
+}

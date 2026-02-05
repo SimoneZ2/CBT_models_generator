@@ -1,0 +1,86 @@
+Using description: HISTORY:
+- Recurrent anxiety-related physical symptoms, particularly stomachaches.
+- Past struggles with weight, sexuality, and academic performance.
+- Pattern of seeking control in relationships.
+
+SITUATION:
+- Experiencing ongoing stomach issues and seeking reassurance about recovery. with ID=39-1
+Top results (by metadata similarity):
+  - sim=0.639 | title='Verilogue session: Client has been experiencing persistent anxiety' | file='1001084065.txt'
+  - sim=0.624 | title='Verilogue session: Client is experiencing medical issues that cannot be diagnose' | file='1001083999.txt'
+  - sim=0.613 | title='Verilogue session: Client is suffering from severe anxiety that she feels is unm' | file='1001084046.txt'
+  - sim=0.612 | title='Verilogue session: Client has been experiencing anxiety and sleep disturbances s' | file='1001084045.txt'
+  - sim=0.605 | title='Verilogue session: Client has been feeling very lonely recently' | file='1001084054.txt'
+  - sim=0.601 | title='Verilogue session: Client is unhappy with being overweight. They discuss the pos' | file='1001083933.txt'
+  - sim=0.600 | title='Verilogue session: Client is concerned about his obesity and is considering gast' | file='1001083959.txt'
+  - sim=0.599 | title='Session 1: The SAEB System In the Treatment of Panic Disorder' | file='1000341222.txt'
+  - sim=0.593 | title='Verilogue session: Client is suffering from much more depression than mania rece' | file='1003075038.txt'
+  - sim=0.593 | title='Verilogue session: Client is frustrated because she cannot retain a state of rem' | file='1001084056.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=1 partial_match=9
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=1
+  - sim=0.600 | file='1001083959.txt' | title='Verilogue session: Client is concerned about his obesity and is considering gast'
+Using top selected file for transcript: '1001083959.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of recurrent anxiety-related physical symptoms, particularly stomachaches. They have previously struggled with issues related to weight, sexuality, and academic performance. A pattern of seeking control in relationships is also noted. Currently, the patient is experiencing ongoing stomach issues and is actively seeking reassurance about their recovery.
+
+**Emotional Impact:**
+The patient's recurrent stomachaches likely contribute to feelings of anxiety and worry. This physical manifestation of anxiety can create a cycle where the patient becomes increasingly focused on their symptoms, potentially exacerbating their anxiety. The ongoing nature of these symptoms may lead to feelings of helplessness or frustration, particularly if the patient perceives a lack of control over their physical health.
+
+The past struggles with weight, sexuality, and academic performance may contribute to feelings of inadequacy or low self-esteem. These issues can evoke emotions such as shame, embarrassment, or disappointment, particularly if the patient feels they have not met personal or societal expectations.
+
+**Cognitive Patterns:**
+The patient's history suggests a tendency towards perfectionism, particularly in academic settings. This may manifest as a critical inner dialogue, where the patient frequently evaluates their performance against high standards. Such cognitive patterns can lead to rumination, where the patient repeatedly thinks about perceived failures or shortcomings.
+
+The patient's pattern of seeking control in relationships indicates a possible cognitive style focused on predictability and stability. This need for control may stem from past experiences where the patient felt powerless or uncertain. In relationships, this could lead to behaviors aimed at managing or influencing others to maintain a sense of security.
+
+**Behavioral Responses:**
+In response to their anxiety-related symptoms, the patient may engage in reassurance-seeking behaviors. This could involve frequently consulting with healthcare providers or seeking validation from others about their health status. Such behaviors, while temporarily alleviating anxiety, may reinforce the patient's focus on their symptoms and contribute to ongoing anxiety.
+
+The patient's past struggles with weight may lead to behaviors such as dieting, exercising, or other attempts to control their physical appearance. These behaviors could be motivated by a desire to improve self-esteem or gain social acceptance.
+
+**Coping Styles:**
+The patient may employ avoidance as a coping mechanism, particularly in situations that trigger anxiety or feelings of inadequacy. This could involve avoiding social situations, academic challenges, or discussions about their health. Alternatively, the patient may use problem-solving strategies, such as seeking medical advice or making lifestyle changes, to address their concerns.
+
+The need for control in relationships suggests a coping style focused on managing external circumstances to reduce anxiety. This may involve setting rules or expectations for others or attempting to influence their behavior to create a sense of predictability.
+
+**Conclusion:**
+The patient's history and current situation suggest a complex interplay of emotional, cognitive, and behavioral factors contributing to their experience of anxiety and related symptoms. Addressing these issues through cognitive-behavioral strategies, such as cognitive restructuring and behavioral experiments, may help the patient develop more adaptive coping mechanisms and reduce their reliance on reassurance-seeking behaviors. Additionally, exploring the underlying need for control in relationships could provide insights into more effective ways of managing interpersonal dynamics.
+Summary da mistral_.csv: The patient discussed their stable condition during the previous session, mentioning some family issues and occasional forgetfulness in taking medications. They reported problems with their daughter's academic dishonesty and their tendency to take her side, causing tension with their spouse. The patient also shared concerns about their liver functions due to medication side effects and considered getting a gastric bypass. They joined a gym, started working out, and lost 12 pounds in a month. The patient discussed their daughter's academic issues, their wife's reaction, and their attempts to mediate the situation. They also mentioned their doctor's concern about their liver functions, which could be related to their medication. The patient expressed interest in the gastric bypass procedure but acknowledged the risks and potential complications. They also mentioned their wife's friend's success with a weight loss program and considered joining it. The doctor discussed the effectiveness of various weight loss programs, including [DEIDENTIFIED], and
+The doctor discusses his encounters with patients who have undergone weight loss surgeries, including gastric bypass, and the potential risks and challenges associated with maintaining weight loss after the procedure. He also provides advice to the patient on weight loss strategies, such as portion control, eating smaller meals throughout the day, and avoiding processed foods. The doctor mentions the importance of considering the long-term consequences of weight loss methods and the potential risks of taking appetite suppressant medications, especially for individuals with bipolar disorder.
+The patient discussed their gym routine and the positive effects it has on their mood. The doctor suggested Provigil as a potential alternative medication to help with daytime wakefulness and appetite control, as the patient had previously taken it for sleep apnea. The doctor offered to provide samples and a prescription for the patient to try. The patient mentioned they had been taking 200mg of Provigil before and that their moods had been stable overall, with no instability or substance use issues.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of anxiety manifesting as physical symptoms, especially stomachaches. They report past struggles with weight, sexuality, and academic performance, which may have contributed to feelings of inadequacy and low self-esteem. There is a noted pattern of seeking control in relationships, possibly as a response to earlier experiences of powerlessness or unpredictability. These factors together suggest a background of striving for control and reassurance to manage distress.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't have certainty about my health, I will feel overwhelmed and unable to cope. I must seek reassurance to regain a sense of control. If I am not in control, things will get worse and I will be judged for it.",
+  "intermediate_belief_depression": "If I can't control my symptoms or get reassurance, it means I am failing and things will never improve. I will always feel this helpless and stuck.",
+  "coping_strategies": [
+    "The client frequently seeks reassurance from others or medical professionals about their health, temporarily reducing anxiety but reinforcing their focus on symptoms. They may also avoid situations or conversations that increase uncertainty or highlight their perceived inadequacies. Attempts to control relationships and external circumstances are used to manage anxiety but may create further stress."
+  ],
+  "situation": "Experiencing ongoing stomach issues and seeking reassurance about recovery.",
+  "auto_thought": "What if this stomach pain means something serious? I need to know for sure that I'll get better.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "helpless",
+    "frustrated"
+  ],
+  "behavior": "I ask others or medical professionals if my symptoms are normal or if I will recover. I check my body for signs of improvement or worsening. I avoid activities that might make the symptoms worse."
+}

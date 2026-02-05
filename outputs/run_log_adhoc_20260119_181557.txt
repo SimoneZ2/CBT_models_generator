@@ -1,0 +1,114 @@
+Using description: HISTORY:
+- Recent divorce.
+- Financial struggles and adjustment to single life.
+- Co-parenting.
+- Multiple friendships deteriorated after the divorce.
+- Complicated relationship with parents.
+
+SITUATION:
+- Experiencing the breakdown of friendships following the divorce. with ID=10-2
+Top results (by metadata similarity):
+  - sim=0.656 | title='Patient "Ju", Session May 01, 2012: Client has been feeling exhausted. She talks' | file='1004538612.txt'
+  - sim=0.583 | title='Patient "M" Therapy Session Audio Recording, May 02, 2012: Client is concerned a' | file='1004565013.txt'
+  - sim=0.575 | title='Session 5: Client explains how uncomfortable she feels trying to bring up subjec' | file='1000013257.txt'
+  - sim=0.569 | title='Patient "S", Session June 18, 2012: Client talks about not being invited to two ' | file='1004687750.txt'
+  - sim=0.562 | title='Session 8: Client tells how he used to become depressed and not be able to get o' | file='1000088076.txt'
+  - sim=0.556 | title='Patient "Ju", Session August 22, 2012: Client wants to meet with therapist more ' | file='1004687638.txt'
+  - sim=0.551 | title='Session 19: Client has recently experienced some good moods, she feels like she ' | file='1000013269.txt'
+  - sim=0.547 | title='Volume no. 34: Rational Emotive Therapy #1: Client is confused about where her r' | file='1000916326.txt'
+  - sim=0.547 | title='Session 2: Client is afraid that she may lose her best friend to her lover' | file='1000122292.txt'
+  - sim=0.547 | title='Patient "M" Therapy Session Audio Recording, January 23, 2012: Client discusses ' | file='1004478010.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=6 partial_match=4
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.656 | file='1004538612.txt' | title='Patient "Ju", Session May 01, 2012: Client has been feeling exhausted. She talks'
+  - sim=0.575 | file='1000013257.txt' | title='Session 5: Client explains how uncomfortable she feels trying to bring up subjec'
+  - sim=0.569 | file='1004687750.txt' | title='Patient "S", Session June 18, 2012: Client talks about not being invited to two '
+Using top selected file for transcript: '1004538612.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient is experiencing significant life changes, including a recent divorce, financial struggles, and the adjustment to single life. They are co-parenting and have faced the deterioration of multiple friendships following the divorce. Additionally, the patient has a complicated relationship with their parents.
+
+**Current Situation:**
+The patient is currently dealing with the breakdown of friendships following their divorce.
+
+**Cognitive and Emotional Impact:**
+
+1. **Divorce and Financial Struggles:**
+   - The recent divorce likely brings about feelings of sadness, loneliness, and anxiety. The patient may ruminate on the loss of their marital relationship and the associated lifestyle changes.
+   - Financial struggles can lead to heightened stress and worry, potentially causing the patient to feel overwhelmed and anxious about their ability to manage daily expenses and maintain their standard of living.
+
+2. **Adjustment to Single Life:**
+   - The transition to single life may evoke feelings of uncertainty and insecurity. The patient might experience a sense of loss regarding their previous identity as part of a couple.
+   - There may be a tendency to avoid social situations due to discomfort with their new status, leading to isolation and further loneliness.
+
+3. **Co-Parenting:**
+   - Co-parenting can introduce stress and tension, especially if there are disagreements with the ex-spouse. The patient may feel anxious about their children's well-being and their ability to effectively co-parent.
+   - The patient might engage in self-doubt and worry about their parenting skills, leading to feelings of inadequacy.
+
+4. **Deterioration of Friendships:**
+   - The breakdown of friendships post-divorce can result in feelings of rejection, hurt, and abandonment. The patient may ruminate on what went wrong and feel a sense of betrayal.
+   - There might be a tendency to withdraw from social interactions to protect themselves from further emotional pain, leading to increased isolation.
+
+5. **Complicated Relationship with Parents:**
+   - A complicated relationship with parents can evoke feelings of frustration, disappointment, and hurt. The patient may struggle with unmet expectations and a lack of support.
+   - The patient might engage in avoidance behaviors to minimize conflict, which can lead to unresolved issues and ongoing tension.
+
+**Behavioral Responses and Coping Styles:**
+
+1. **Withdrawal and Isolation:**
+   - The patient may withdraw from social interactions and avoid reaching out to friends or family, leading to increased feelings of loneliness and disconnection.
+
+2. **Rumination and Worry:**
+   - There is a tendency to ruminate on past events and worry about future outcomes, which can exacerbate feelings of anxiety and depression.
+
+3. **Seeking Reassurance:**
+   - The patient might seek reassurance from others to validate their feelings and decisions, especially in the context of co-parenting and financial concerns.
+
+4. **Avoidance of Conflict:**
+   - To manage their complicated relationship with parents, the patient may avoid conflict, which can lead to unresolved issues and ongoing emotional distress.
+
+5. **Difficulty Setting Boundaries:**
+   - The patient may struggle to set boundaries with friends and family, leading to feelings of being overwhelmed and taken advantage of.
+
+**Conclusion:**
+The patient is navigating a complex array of emotional and cognitive challenges following their divorce and the associated life changes. The breakdown of friendships and complicated family dynamics further contribute to their emotional distress. It is essential to focus on developing effective coping strategies, such as cognitive restructuring to manage rumination and worry, and assertiveness training to improve boundary-setting skills. Encouraging the patient to engage in self-care and seek supportive relationships can also aid in their emotional recovery and adjustment to their new life circumstances.
+Summary da mistral_.csv: The client discusses feeling exhausted due to a disruptive night with their old cat and a tiring weekend, which included gardening and a friend's unexpected visit. They reflect on the challenges of maintaining relationships with friends who require emotional support, particularly those who are emotionally draining or unresponsive. The client expresses difficulty in setting boundaries and feeling responsible for their friends' problems. They also mention a friend who burned bridges upon moving away, leaving the client feeling used. The client ponders the idea of having fewer emotionally draining friendships but struggles with the potential guilt and sadness that comes with limiting these relationships. The therapist acknowledges the client's feelings of sadness and depression regarding relationships and the fear of being permanently stuck in unbalanced friendships.
+The client describes a past friendship with a woman who was financially irresponsible and self-absorbed, leading to conflict and eventual estrangement. The client felt uncomfortable expressing anger towards her friend and instead distanced herself by de-friending her on social media and avoiding contact. The friend continued to reach out, expressing confusion about the ending of their friendship. The client felt the friend saw their relationship transactionally and took advantage of the client's generosity. The therapist noted the client's tendency to present past relationships in a critical way, which may evoke guilt and prevent the expression of anger. The client acknowledged feeling guilty about being angry with friends and having a hard time expressing anger, fearing it would be destructive. The client expressed frustration with the time and energy spent on unfulfilling relationships and the difficulty of extricating herself from them.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has recently gone through a divorce, which has led to financial struggles and the need to adjust to single life. They are co-parenting, which introduces additional stress and self-doubt. Multiple friendships have deteriorated following the divorce, and the client has a complicated relationship with their parents, often feeling unsupported and disappointed. The client tends to ruminate on losses and withdraws from social interactions, increasing their sense of isolation.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let people get close, they will eventually leave me and I'll get hurt. I have to protect myself by withdrawing, even if it means being alone. If friendships end, it must mean something is wrong with me.",
+  "intermediate_belief_depression": "If I keep losing friends, I'll always be alone and things will never get better for me.",
+  "coping_strategies": [
+    "The client withdraws from social interactions and avoids reaching out to friends, increasing their isolation. They ruminate on what went wrong in their friendships and worry about future losses. The client seeks reassurance from others but struggles to set boundaries, leading to feeling overwhelmed."
+  ],
+  "situation": "Experiencing the breakdown of friendships following the divorce.",
+  "auto_thought": "My friends are leaving me because I'm not good enough. No one wants to be around me now that my life has fallen apart.",
+  "emotion": [
+    "rejected",
+    "hurt",
+    "abandoned",
+    "sad",
+    "lonely"
+  ],
+  "behavior": "I stop reaching out to my friends and avoid social situations. I spend more time alone and withdraw from people who might support me."
+}

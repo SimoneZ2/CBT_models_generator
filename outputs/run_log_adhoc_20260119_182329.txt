@@ -1,0 +1,79 @@
+Using description: HISTORY:
+- Ongoing work-related uncertainty and anxiety.
+- Married recently; the relationship included instances of physical abuse by spouse Ivan and resulted in separation.
+- Both partners are interested in resolving issues and are attending couples therapy.
+
+SITUATION:
+- Exposed to clinical terms used to describe the husband's behavior, including "delusional" and "pseudo-psychotic". with ID=26-1
+Top results (by metadata similarity):
+  - sim=0.706 | title='Session 10: Client is unhappy with his wife but, he is afraid of being alone' | file='1000056536.txt'
+  - sim=0.678 | title='Verilogue session: Client suffers from auditory hallucinations' | file='1001083984.txt'
+  - sim=0.669 | title='Session 4: Client questions therapist about the actual benefits of client-center' | file='1000088054.txt'
+  - sim=0.660 | title='Verilogue session: Client has been having marital issues for over a year now. He' | file='1002565914.txt'
+  - sim=0.635 | title='Session 1: Client explains his main reason for entering therapy being his marita' | file='1000053430.txt'
+  - sim=0.633 | title='Session 6: Client feels that her marriage may mean more to her than she thought.' | file='1000088106.txt'
+  - sim=0.633 | title='Session Xa: Client feels guilty about her communication problems in her marriage' | file='1000013280.txt'
+  - sim=0.632 | title='Verilogue session: Client discusses her problems with her spouse and how differe' | file='1003009238.txt'
+  - sim=0.631 | title='Session Xa: Client is determined to find a woman other than his wife to have a s' | file='1000088085.txt'
+  - sim=0.628 | title='Session 9: Client does not feel like therapy is helping him at all. He is afraid' | file='1000056535.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=9 partial_match=1
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.706 | file='1000056536.txt' | title='Session 10: Client is unhappy with his wife but, he is afraid of being alone'
+  - sim=0.669 | file='1000088054.txt' | title='Session 4: Client questions therapist about the actual benefits of client-center'
+  - sim=0.660 | file='1002565914.txt' | title='Verilogue session: Client has been having marital issues for over a year now. He'
+Using top selected file for transcript: '1000056536.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient is experiencing ongoing work-related uncertainty and anxiety. They have recently married, but the relationship has been marked by instances of physical abuse by their spouse, Ivan, leading to a separation. Both partners are interested in resolving their issues and are attending couples therapy. The patient has been exposed to clinical terms such as "delusional" and "pseudo-psychotic" used to describe their husband's behavior.
+
+**Emotional Impact:**
+The patient is likely experiencing a range of intense emotions due to their current life circumstances. The ongoing work-related uncertainty may contribute to feelings of anxiety and stress. The recent separation from their spouse, following instances of physical abuse, likely evokes emotions such as sadness, hurt, and possibly fear. The desire to resolve issues through couples therapy suggests a hope for reconciliation, but the exposure to clinical terms describing their husband's behavior might lead to confusion, worry, and a sense of helplessness about the situation.
+
+**Cognitive Patterns:**
+The patient may be engaging in ruminative thinking, particularly about their relationship and work situation. The uncertainty at work could lead to persistent worry about job security and future prospects. In the context of their marriage, the patient might be caught in a cycle of questioning their decisions and the potential for change, which can be mentally exhausting. The use of terms like "delusional" and "pseudo-psychotic" could lead to cognitive distortions, such as catastrophizing or overgeneralizing about their spouse's behavior and the future of their relationship.
+
+**Behavioral Responses:**
+The patient might exhibit avoidance behaviors, such as withdrawing from social interactions or delaying decision-making regarding their marriage and work. The separation from their spouse could lead to a tendency to isolate or avoid discussions about the relationship. However, their participation in couples therapy indicates a proactive approach to addressing marital issues. The patient may also seek reassurance from therapists or peers to cope with the uncertainty and emotional distress.
+
+**Coping Styles:**
+The patient appears to be utilizing both adaptive and maladaptive coping strategies. Engaging in couples therapy is an adaptive strategy, reflecting a willingness to confront and work through relationship issues. However, the exposure to clinical terms and the associated anxiety might lead to maladaptive coping, such as excessive worry or avoidance of confronting difficult emotions and decisions.
+
+**Conclusion:**
+The patient's current life circumstances are likely contributing to significant emotional distress, characterized by anxiety, sadness, and confusion. Their cognitive patterns may involve rumination and worry, particularly about their marriage and work. Behaviorally, the patient may oscillate between avoidance and seeking resolution through therapy. Supporting the patient in developing healthier coping mechanisms, such as cognitive restructuring and problem-solving skills, could be beneficial in managing their anxiety and improving their emotional well-being. Encouraging open communication in therapy and focusing on actionable steps may help the patient feel more empowered and less overwhelmed by their circumstances.
+Summary da mistral_.csv: In this therapy session, the patient discussed their progress in therapy with their spouse and feeling stuck in their current approach. They expressed a need for more direction and insight, leading them to consider marital counseling instead. The patient and their spouse had discussed terminating therapy, with the patient feeling that they had reached a plateau and questioning the effectiveness of the current method. The patient also shared a recent health scare that had shifted their focus away from marital issues.
+The patient describes a confusing experience with a doctor who diagnosed them with a heart condition but refused to provide further information, leaving the patient anxious and uncertain. The patient has since had to wait several days and weeks for more information from specialists. The patient and their spouse have grown closer as a result of this experience and have started doing more things together as opposed to with other people, which has improved their relationship. The patient inquires about marital counseling options but expresses difficulty accessing affordable and acceptable services in their area. The counselor suggests the patient contact their initial doctor for more information on local resources. The counselor expresses belief that marital counseling could be beneficial for the patient's marriage.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has ongoing work-related uncertainty and anxiety, which contributes to persistent stress. They recently married, but the relationship involved physical abuse by their spouse, Ivan, leading to separation. Despite this, both partners are interested in resolving their issues and are attending couples therapy. The client has been exposed to clinical terms like 'delusional' and 'pseudo-psychotic' used to describe their husband's behavior, which adds to their emotional burden.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't understand or fix what's happening with my husband, then things will only get worse. If experts use serious terms about him, it means the situation is out of my control. I must find a way to make things better or else I will be stuck feeling anxious and helpless.",
+  "intermediate_belief_depression": "If I can't resolve these problems, it means nothing will ever improve and I will always feel this way.",
+  "coping_strategies": [
+    "The client tends to ruminate about their relationship and work, leading to persistent worry. They may avoid confronting difficult emotions or making decisions, and sometimes withdraw from social interactions. However, they also seek reassurance and engage in couples therapy as a way to address their concerns."
+  ],
+  "situation": "Exposed to clinical terms used to describe the husband's behavior, including 'delusional' and 'pseudo-psychotic'.",
+  "auto_thought": "If professionals are saying Ivan is 'delusional' or 'pseudo-psychotic', then things must be really bad. I don't know how to handle this or if anything will ever get better.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "confused",
+    "helpless",
+    "overwhelmed"
+  ],
+  "behavior": "I withdraw and avoid talking about the clinical terms with others. I ruminate about what these labels mean for my marriage. I seek reassurance in therapy sessions but delay making decisions about the relationship."
+}

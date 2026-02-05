@@ -1,0 +1,86 @@
+Using description: HISTORY:
+- Works in an educational setting with children who have learning disabilities.
+- Describes being pampered by parents and having minimal consequences earlier in life.
+- Ongoing conflicts with authority figures.
+
+SITUATION:
+- Proposed a new teaching method that was rejected by school leadership.
+- Does not confront leadership directly about the decision. with ID=25-2
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.569 | title='Verilogue session: Client has been very upset about a car accident she was invol' | file='1003009240.txt'
+  - sim=0.534 | title='Session 74: Client is frustrated in her job' | file='1000368489.txt'
+  - sim=0.524 | title='Session 75: Client is frustrated with work and experiencing jealousy towards her' | file='1000368490.txt'
+  - sim=0.512 | title='Verilogue session: Client is not doing well in school. His parents are very disc' | file='1003009281.txt'
+  - sim=0.510 | title='Session 211: Client is experiencing problems at work. She feels like there is so' | file='1000393713.txt'
+  - sim=0.509 | title='Session Unknown: Client does not feel he fits in with the other college students' | file='1000380463.txt'
+  - sim=0.509 | title='Session 73: Client has been experiencing a depressed mood and cannot find a reas' | file='1000368487.txt'
+  - sim=0.504 | title='Patient "Ma", Session August 20, 2012: Client didn't get either job she had inte' | file='1004687726.txt'
+  - sim=0.502 | title='Session 12: Client is finding therapy to be very boring. He does not feel like h' | file='1000094525.txt'
+  - sim=0.478 | title='Patient "B", Session April 11, 2012: Client stopped procrastinating and transfer' | file='1004532410.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.569 | file='1003009240.txt' | title='Verilogue session: Client has been very upset about a car accident she was invol'
+  - sim=0.534 | file='1000368489.txt' | title='Session 74: Client is frustrated in her job'
+  - sim=0.524 | file='1000368490.txt' | title='Session 75: Client is frustrated with work and experiencing jealousy towards her'
+Using top selected file for transcript: '1003009240.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient works in an educational setting with children who have learning disabilities. They describe a history of being pampered by their parents, which resulted in minimal consequences earlier in life. The patient currently experiences ongoing conflicts with authority figures. Recently, the patient proposed a new teaching method, which was rejected by school leadership. The patient has chosen not to confront leadership directly about this decision.
+
+**Emotional Impact:**
+The rejection of the proposed teaching method likely evokes feelings of disappointment and frustration. Given the patient's history of being pampered, they may not be accustomed to handling rejection or criticism, which could amplify these emotions. The ongoing conflicts with authority figures may contribute to feelings of irritation or annoyance, as the patient might perceive these interactions as challenges to their autonomy or competence.
+
+**Cognitive Patterns:**
+The patient may engage in ruminative thinking, focusing on the perceived unfairness of the rejection and conflicts with authority. This cognitive pattern can lead to a cycle of negative thoughts, such as self-doubt or questioning their professional abilities. The patient's decision not to confront leadership directly might stem from a belief that confrontation could lead to further rejection or conflict, reinforcing a pattern of avoidance.
+
+**Behavioral Responses:**
+The patient appears to avoid direct confrontation with authority figures, possibly as a coping mechanism to prevent further conflict or rejection. This avoidance may lead to passive behaviors, such as withdrawing from discussions or not voicing their opinions in meetings. The patient might also seek reassurance from colleagues or engage in discussions with peers to validate their teaching methods and alleviate feelings of inadequacy.
+
+**Coping Styles:**
+The patient's coping style seems to involve avoidance and seeking external validation. By not confronting leadership, the patient avoids potential conflict but also misses opportunities for resolution and personal growth. The patient might benefit from developing assertiveness skills to express their ideas and concerns more effectively. Additionally, building resilience to handle rejection and criticism could help mitigate the emotional impact of similar situations in the future.
+
+**Conclusion:**
+The patient's experiences in the educational setting and their history of minimal consequences have shaped their current emotional, cognitive, and behavioral patterns. Addressing these patterns through cognitive-behavioral strategies, such as cognitive restructuring and assertiveness training, could help the patient manage their emotions more effectively and improve their interactions with authority figures. Encouraging the patient to confront their fears of rejection and develop healthier coping mechanisms may lead to more positive outcomes in their professional life.
+Summary da mistral_.csv: In this session, the patient discussed various topics including her children and grandchildren, her twin sons' housing situation, and an upcoming car accident-related deposition. The patient expressed concern about the potential financial cost of the lawsuit, as well as the woman involved's alleged preexisting condition. The patient also mentioned that she was advised to practice what to say during the deposition and that she had been fortunate not to receive a traffic ticket for the accident. The patient had been traveling to a certain location when the accident occurred and had tried to stop but was unable to before colliding with the other vehicle. The patient acknowledged that it was her fault in the accident.
+The patient discussed ongoing legal issues related to a workplace injury, including a lawsuit against them for non-performance and the injured party's husband. The patient also mentioned dealing with their own health issues, including TMJ and osteoporosis, and the need to write extensive notes for work evaluations. They expressed frustration with the emphasis on record keeping and the impact it has on their ability to effectively teach and interact with their students. The patient also mentioned having an assistant who is lazy and not helping with note-taking.
+The patient expresses frustration with administrative tasks in her job, including documenting observations of children and keeping up with paperwork. She is behind on notes due to the busyness of her classroom and a malfunctioning computer. The patient also shares her hesitation in recommending a child for further evaluation despite observing signs of potential learning difficulties, as the mother is against it. The session also covers the patient's experience with online dating platforms and her preference for being alone. The discussion also includes a brief conversation about the patient's medication and dosage.
+The patient discussed the challenges of their teaching role, including the need to raise their voice to be heard by students and the excessive documentation required. They mentioned a suggestion from a colleague to have a master teacher observe and take notes, but this was rejected. The patient expressed frustration with the state's requirement for detailed documentation and the impact it has on their workload. They also criticized the EZR test used to evaluate children's development, finding it invalid and not representative of their students' abilities. The patient shared their experience working for the organization that creates the test, noting the difficulty in creating questions that are fair to all groups.
+
+ REFINED CCD: description + report
+{
+  "history": "The client works with children who have learning disabilities and reports being pampered by parents with minimal consequences during childhood. There is a pattern of ongoing conflicts with authority figures. The client appears unaccustomed to handling rejection or criticism, which may stem from their upbringing. This background likely contributes to current difficulties in managing negative feedback and assertively addressing disagreements with authority.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I challenge authority or express disagreement, I will be rejected or dismissed, and it will confirm that my ideas are not valued. It's safer to avoid confrontation because standing up for myself will only lead to more conflict or prove that I'm inadequate.",
+  "intermediate_belief_depression": "If my ideas are rejected and I don't stand up for them, it means I am not capable or respected, and nothing I do will make a difference.",
+  "coping_strategies": [
+    "The client avoids direct confrontation with authority figures, withdrawing from discussions and not voicing opinions when their ideas are rejected. They may seek reassurance from colleagues to validate their methods, using avoidance and external validation to manage distress."
+  ],
+  "situation": "Proposed a new teaching method that was rejected by school leadership. Does not confront leadership directly about the decision.",
+  "auto_thought": "They don't value my ideas. If I speak up, it will just make things worse for me.",
+  "emotion": [
+    "disappointed",
+    "frustrated",
+    "irritated",
+    "anxious",
+    "inadequate"
+  ],
+  "behavior": "Does not confront leadership about the rejection. Withdraws from further discussion and avoids bringing up the topic. May talk to colleagues for reassurance instead."
+}

@@ -1,0 +1,73 @@
+Using description: HISTORY:
+- Worked overseas and built a website related to that work.
+- Recurrent pattern of starting new ideas and later abandoning projects when difficulties arise.
+- Family-related difficulty involving his father; wrote a personal letter as part of a forgiveness process.
+
+SITUATION:
+- Working on a personal project involving the development of a website. with ID=5-1
+Sample results (metadata similarity):
+  - sim=0.112 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.112 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.114 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.119 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.120 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.137 | title='Verilogue session: Client's insomnia seems to be causing mood swings' | file='1001280398.txt'
+  - sim=0.140 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.143 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.147 | title='Session 15: Client explains why she can make friendships with certain men but no' | file='1000133901.txt'
+  - sim=0.148 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.112 | file='1003075028.txt' | title='Verilogue session: Client is having problems concentrating; she wonders if it is'
+  - sim=0.112 | file='1003075047.txt' | title='Verilogue session: Client's medications have drastically reduced her sex drive'
+  - sim=0.114 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+Using LEAST related file for transcript: '1003075028.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a Native American male, has a history of working overseas and developing a website related to his work. He has a recurrent pattern of initiating new projects but tends to abandon them when faced with difficulties. This pattern seems to be repeating itself as he is currently working on a personal project involving the development of a website. During the session, he expressed frustration with his medication situation, particularly with the generic version of Effexor, which he has been unable to obtain. He described feeling "not normal" and compared his morning state to being "not drunk," indicating a lack of focus and balance issues. This sensation seems to persist until his Adderall kicks in, suggesting a potential interaction or timing issue with his medications.
+
+The client also mentioned experiencing headaches in the evenings, which he attributes to the medication "wearing off." This aligns with his history of medication adjustments, where changes in dosage or additional medications were introduced to manage similar symptoms. He expressed a desire to return to a previous medication regimen that he felt was more effective, particularly when he was "enjoying school and doing well." This reflects a longing for a time when he felt more capable and in control, which is significant given his current struggle with feeling "drained" and lacking energy despite efforts to maintain a healthy lifestyle.
+
+Throughout the session, the client repeatedly brought up his concerns about the effectiveness of his current medication regimen, including his Adderall, which he feels is not working "as well as it has been in the past." He noted that his appetite has increased, a change he finds stressful due to a history of eating pattern issues. This stress is compounded by his financial concerns, as he is paying for his medications out-of-pocket. The psychiatrist suggested increasing his Adderall dosage slightly to provide a "little more boost," which the client agreed to try.
+
+The client also expressed a desire to return to school, stating it as his "main priority," but he feels "not very capable" at the moment. This aligns with his pattern of starting projects with enthusiasm but struggling to maintain momentum when challenges arise. He acknowledged the importance of therapy in managing his situation, noting that he "always" finds it beneficial, but financial constraints are a barrier.
+
+In discussing his medication, the client was curious about the differences between generic and brand-name drugs, questioning whether these differences could be affecting his current experience. The psychiatrist explained that while generics are "not the exact same," they are "close" and should not significantly differ in effect. However, the client was advised to monitor how he feels and report any concerns.
+
+The session highlighted the client's ongoing struggle with managing his ADHD and depression symptoms, his frustration with medication access and effectiveness, and his desire to regain a sense of normalcy and capability. His history of family-related difficulties, including writing a personal letter as part of a forgiveness process with his father, suggests underlying emotional layers that may influence his current state. The psychiatrist's plan to adjust his medication regimen and the client's openness to these changes indicate a collaborative effort to address these challenges.
+Summary da mistral_.csv: The patient discussed issues with obtaining a generic version of Venlafaxine XR, which they had been prescribed to replace their previous Effexor XR medication. They mentioned that various pharmacies had told them different reasons for not having the medication in stock, including the manufacturer not producing it yet and it being out of stock. The patient expressed frustration and confusion about the situation, as they had been unable to take the medication as prescribed. The physician acknowledged having had similar experiences with other patients and offered to help the patient obtain samples of the generic tablets and contact the manufacturer for information on the delay. The patient also reported experiencing some side effects from the Effexor and Adderall, including difficulty focusing and changes in appetite, and expressed a desire to potentially increase their Adderall dosage. The physician explained that they could try increasing the dosage but would need to consider the potential risks and benefits.
+The doctor suggests changing the patient's dosage of Effexor from taking half a pill twice a day to taking a whole pill once a day at breakfast and dinner to help manage symptoms better throughout the day. The doctor also discusses the availability of the generic version of Effexor, which only comes in tablets, and clarifies that the patient's previous experience with non-XR Effexor and Adderall was different from the current discussion about XR versions. The doctor also provides the patient with additional prescriptions for Adderall and discusses the possibility of trying the non-XR form of Effexor or the generic version in the future. The patient expresses a desire to improve academic performance and feels that the previous non-XR form of Effexor was effective for that purpose. The doctor suggests giving the new dosage a couple of weeks to see if it makes a difference and mentions the patient's continued use of caffeine.
+The patient expresses feeling drained and tired despite making lifestyle changes, including taking vitamins, eating healthily, and being active. They acknowledge the need to resume regular therapy. The doctor discusses providing the patient with additional Adderall pills and scheduling a three-month follow-up appointment. They also discuss the potential impact of generic medications on individual responses. The patient shares their concerns about the effectiveness of generic medications compared to brand-name ones and the doctor explains that while they are similar, there can be small differences for certain individuals. The doctor advises the patient to let them know if they experience any issues with the medication.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of working overseas and developing a website related to his work. He has a recurrent pattern of initiating new projects but tends to abandon them when faced with difficulties. He expressed frustration with his medication situation and a longing for a time when he felt more capable and in control. He has family-related difficulties, including writing a personal letter as part of a forgiveness process with his father.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I encounter difficulties in my projects, then I am not capable of succeeding.",
+  "intermediate_belief_depression": "If I can't handle challenges, then I will never be able to achieve my goals.",
+  "coping_strategies": [
+    "The client tends to abandon projects when faced with difficulties. He also expresses frustration and stress over medication and financial concerns, which may lead to avoidance of addressing these issues directly."
+  ],
+  "situation": "Working on a personal project involving the development of a website.",
+  "auto_thought": "I can't handle this; it's going to fail like before.",
+  "emotion": [
+    "frustrated",
+    "anxious",
+    "drained",
+    "stressed"
+  ],
+  "behavior": "He becomes overwhelmed and considers abandoning the project. He also expresses frustration about his medication and financial situation."
+}

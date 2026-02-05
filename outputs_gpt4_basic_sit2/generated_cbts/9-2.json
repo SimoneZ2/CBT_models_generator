@@ -1,0 +1,24 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Long-standing friendship with Jersey, who has had multiple surgeries related to disabilities. The patient has previously provided support during Jersey's medical procedures and recovery. Ongoing conflict with roommate Ashby over household issues.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't help others, I am not a good friend.",
+  "intermediate_belief_depression": "I am unable to change my living situation.",
+  "coping_strategies": "Attempts to communicate and resolve issues with Ashby.",
+  "situation": "The kitchen becomes dirty because Ashby does not take out the trash after cooking. The patient has tried to communicate with Ashby about it, but the issue continues.",
+  "auto_thought": "I can't make Ashby change, and this situation will never improve.",
+  "emotion": [
+    "Frustration",
+    "Helplessness"
+  ],
+  "behavior": "Attempts to communicate with Ashby about the issue."
+}

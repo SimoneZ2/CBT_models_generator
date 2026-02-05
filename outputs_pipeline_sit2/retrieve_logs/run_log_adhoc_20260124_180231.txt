@@ -1,0 +1,91 @@
+Using description: HISTORY:
+- Ongoing involvement in a complex social circle that includes a person named Cricket.
+- Often takes a caretaking role toward friends, including a friend named Lucy with medical issues.
+
+SITUATION:
+- Frequently arriving late to therapy sessions and lunches with friends. with ID=41-1
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.485 | title='Session 25: Client is very defensive towards her assistant at work, she feels th' | file='1000329602.txt'
+  - sim=0.440 | title='Session 7: Client wanted to terminate treatment but, his wife won't let him. He ' | file='1000056533.txt'
+  - sim=0.407 | title='Session 17: Client is questioning his own sexual orientation. Client blames ther' | file='1000016557.txt'
+  - sim=0.404 | title='Verilogue session: Client is experiencing anxiety and anticipation about retirem' | file='1001083996.txt'
+  - sim=0.403 | title='Session 4: Client talks about her eating behavior and feelings of low self-estee' | file='1000017863.txt'
+  - sim=0.399 | title='Session 18: Client is jealous of his wife's extramarital escapades while he is o' | file='1000151082.txt'
+  - sim=0.396 | title='Session 15: Client is frustrated in her friendships. She talks about how she and' | file='1000017877.txt'
+  - sim=0.395 | title='Patient "J", Session June 08, 2012: Client arrives in a better mood than he's be' | file='1004687620.txt'
+  - sim=0.395 | title='Session 2: Client desires a romantic relationship; he has been single for a few ' | file='1000094443.txt'
+  - sim=0.392 | title='Session 2: Client describes how she becomes very emotional in front of her boyfr' | file='1000070464.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.485 | file='1000329602.txt' | title='Session 25: Client is very defensive towards her assistant at work, she feels th'
+  - sim=0.440 | file='1000056533.txt' | title='Session 7: Client wanted to terminate treatment but, his wife won't let him. He '
+  - sim=0.407 | file='1000016557.txt' | title='Session 17: Client is questioning his own sexual orientation. Client blames ther'
+Using top selected file for transcript: '1000329602.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is involved in a complex social circle that includes a person named Cricket and often assumes a caretaking role, particularly toward a friend named Lucy who has medical issues. The patient frequently arrives late to therapy sessions and social engagements, such as lunches with friends.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive tendencies that align with a strong sense of responsibility and obligation, particularly in social contexts. This is evidenced by the caretaking role they assume, especially towards Lucy. Such a role may stem from beliefs about the necessity of being supportive and helpful to others, potentially at the expense of their own needs or time management.
+
+The frequent lateness to therapy and social engagements might indicate underlying cognitive distortions such as overcommitment or difficulty prioritizing personal needs over perceived obligations to others. This pattern could be rooted in perfectionistic tendencies or a fear of disappointing others, leading to overextension and subsequent tardiness.
+
+**Emotional Reactions:**
+The patient likely experiences a range of emotions tied to their social interactions and roles. The caretaking role may evoke feelings of anxiety or worry, particularly if they perceive themselves as failing to meet the needs of those they care for, such as Lucy. This could lead to feelings of guilt or inadequacy if they are unable to fulfill their self-imposed responsibilities.
+
+The pattern of arriving late may also trigger emotions such as embarrassment or shame, as it could be perceived as a failure to meet social expectations. This emotional response might be compounded by a fear of judgment from peers or therapists, reinforcing a cycle of anxiety and avoidance.
+
+**Behavioral Responses:**
+Behaviorally, the patient may engage in actions such as overcommitting to social and caretaking roles, which can lead to logistical challenges like lateness. This behavior might be a coping mechanism to manage underlying fears of inadequacy or rejection. The patient may also procrastinate or avoid addressing personal needs, prioritizing others' needs instead.
+
+The lateness to therapy and social events could be a manifestation of avoidance behavior, where the patient delays facing situations that might evoke anxiety or self-criticism. This avoidance might be a way to temporarily alleviate stress but ultimately contributes to a cycle of negative self-evaluation and stress.
+
+**Coping Styles:**
+The patient may rely on coping strategies such as seeking reassurance from friends or engaging in caretaking as a way to validate their self-worth. This pattern might provide temporary relief from feelings of inadequacy but could also perpetuate dependency on external validation.
+
+The patient might also exhibit tendencies to ruminate on their perceived failures or shortcomings, particularly in social contexts. This rumination can exacerbate feelings of anxiety and contribute to a cycle of self-doubt and procrastination.
+
+**Conclusion:**
+The patient's involvement in a complex social circle and caretaking roles, combined with their pattern of lateness, suggests a cognitive-behavioral pattern characterized by overcommitment, perfectionism, and avoidance. These patterns likely contribute to emotional distress and behavioral challenges. Addressing these cognitive distortions and developing healthier coping mechanisms could be beneficial in reducing anxiety and improving time management and self-care practices.
+Summary da mistral_.csv: The patient discussed their feelings towards their names, particularly their married name QSE, and how it brings to mind a sense of being less aristocratic or settled compared to their brother-in-law's name MEIR. They also reflected on their parents' attitudes towards their capabilities and how it may have influenced their own self-perception and academic performance. The patient mentioned their struggles with writing themes due to repetition and going into too much detail, and their defensive reaction when receiving suggestions from their assistant. They also discussed the frustration of having a crowded day with many things to do and the guilt of prioritizing their own needs over the children's.
+The patient reflects on their parents' compulsive work habits and how it relates to their own tendency to overcommit and feel overwhelmed. They discuss their parents' excessive focus on gardening tasks, which leaves other areas neglected. The patient admits to having similar tendencies, spreading themselves too thin and struggling to complete tasks thoroughly. They also share an experience with a greengrocer who invited himself to tea, leaving the patient feeling uncomfortable and unsure of how to respond. The patient expresses feelings of fear and weakness in the situation, and confusion about the greengrocer's intentions.
+
+ REFINED CCD: description + report
+{
+  "history": "The client is embedded in a complex social circle, notably including Cricket, and often takes on a caretaking role, especially for Lucy, who has medical issues. This pattern of caretaking suggests a longstanding tendency to prioritize others' needs, possibly at the expense of their own. The client frequently arrives late to therapy and social engagements, indicating a persistent struggle with boundaries and time management. The report implies that these patterns may be maintained by a desire to avoid disappointing others and a need for external validation.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't always put others' needs first, they'll think I'm selfish or unreliable. I have to be there for my friends, especially those who depend on me, or else I'm failing as a friend. Being late makes me look like I don't care, so I must try to do everything for everyone, even if it means I struggle to be on time.",
+  "intermediate_belief_depression": "No matter how hard I try, I can't keep up with what everyone needs from me, so I end up letting people down anyway. It feels like I'm always failing, and nothing I do is ever enough.",
+  "coping_strategies": [
+    "The client tends to overcommit to caretaking roles and social obligations, often at the expense of their own needs. They may avoid addressing their own priorities and procrastinate, leading to lateness. Seeking reassurance and validation through helping others temporarily relieves anxiety but maintains the cycle of overextension and self-criticism."
+  ],
+  "situation": "Frequently arriving late to therapy sessions and lunches with friends.",
+  "auto_thought": "I'm letting everyone down by being late again. They'll think I'm unreliable and don't care about them.",
+  "emotion": [
+    "anxious",
+    "embarrassed",
+    "guilty",
+    "ashamed",
+    "worried"
+  ],
+  "behavior": "Rushes to the appointment feeling stressed, possibly sends apologetic messages or explanations to friends or therapist. Avoids discussing their own needs and focuses on caretaking tasks before leaving."
+}

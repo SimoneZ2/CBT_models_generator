@@ -1,0 +1,35 @@
+{
+  "name": "CBT Cognitive Conceptualization for Patient (Ashby Conflict)",
+  "id": "ccd-ashby-kitchen-001",
+  "type": [
+    "CBT",
+    "case formulation",
+    "CCD"
+  ],
+  "history": "The patient has a long-standing friendship with Jersey, who has undergone multiple surgeries related to disabilities, during which the patient has been a supportive figure. This history suggests a pattern of taking on caregiving and responsibility roles. The patient is currently experiencing ongoing conflict with their roommate Ashby over household issues, specifically cleanliness and responsibility for taking out the trash. The patient has attempted to communicate about the issue, but it persists, contributing to ongoing tension and emotional distress.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I take responsibility and communicate clearly, others should cooperate with me; if they don't, it means I am failing to manage the situation. I have to keep things orderly, or it reflects badly on me. If I can't resolve conflicts in my living space, it means I am not effective or respected.",
+  "intermediate_belief_depression": "If I can't get Ashby to change, it means I am powerless and things will never improve, so there's no point in trying anymore.",
+  "coping_strategies": "The patient attempts to solve the problem by communicating with Ashby, but when this fails, they withdraw from interactions to avoid further conflict. They may ruminate about the situation, replaying conversations and feeling increasingly stressed, and sometimes procrastinate addressing the issue directly due to fear of escalation.",
+  "situation": "The kitchen becomes dirty because Ashby does not take out the trash after cooking. The patient has tried to communicate with Ashby about it, but the issue continues.",
+  "auto_thought": "No matter how many times I bring this up, Ashby just ignores me. I'm the only one who cares about keeping things clean, and nothing I do makes a difference.",
+  "emotion": [
+    "frustrated",
+    "irritated",
+    "helpless",
+    "disappointed",
+    "overwhelmed"
+  ],
+  "behavior": "I withdraw from interacting with Ashby to avoid arguing. I replay the situation in my mind, thinking about what I could have said or done differently. Sometimes I put off bringing it up again because it feels pointless.",
+  "rationale": "\"The patient likely experiences frustration and irritation due to the unresolved household issues with Ashby... repeated attempts to communicate without resolution may lead to feelings of helplessness and disappointment... The patient might also ruminate on the situation, replaying conversations and potential solutions in their mind... The persistent issue may lead the patient to procrastinate addressing the problem directly, fearing confrontation or escalation... The patient may experience a cognitive distortion known as 'all-or-nothing thinking,' where the unresolved issue with Ashby is perceived as a complete failure in their ability to manage household dynamics... The patient might also exhibit a tendency to personalize the situation, feeling solely responsible for the cleanliness and harmony in the shared space.\""
+}

@@ -1,0 +1,85 @@
+Using description: HISTORY:
+- Works in an educational setting with children who have learning disabilities.
+- Recurrent conflict with authority figures.
+
+SITUATION:
+- Encouraging students to socialize and participate in campus activities, with results falling short of expectations. with ID=25-1
+Top results (by metadata similarity):
+  - sim=0.643 | title='Session Unknown: Client does not feel he fits in with the other college students' | file='1000380463.txt'
+  - sim=0.626 | title='Session 74: Client is frustrated in her job' | file='1000368489.txt'
+  - sim=0.621 | title='Verilogue session: Client has been very upset about a car accident she was invol' | file='1003009240.txt'
+  - sim=0.589 | title='Session 211: Client is experiencing problems at work. She feels like there is so' | file='1000393713.txt'
+  - sim=0.583 | title='Verilogue session: Client is not doing well in school. His parents are very disc' | file='1003009281.txt'
+  - sim=0.572 | title='Patient "B", Session February 23, 2012: Client talks about a recent job intervie' | file='1004503116.txt'
+  - sim=0.567 | title='Session 6: Client wants to quit his job. He talks about having a lousy childhood' | file='1000016541.txt'
+  - sim=0.566 | title='Patient "B", Session April 11, 2012: Client stopped procrastinating and transfer' | file='1004532410.txt'
+  - sim=0.564 | title='Verilogue session: Client seems to be doing very well recently; more organized a' | file='1002565883.txt'
+  - sim=0.563 | title='Series 3, Session 2: Client prepared academically as a result of his last sessio' | file='1003269460.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.643 | file='1000380463.txt' | title='Session Unknown: Client does not feel he fits in with the other college students'
+  - sim=0.626 | file='1000368489.txt' | title='Session 74: Client is frustrated in her job'
+  - sim=0.621 | file='1003009240.txt' | title='Verilogue session: Client has been very upset about a car accident she was invol'
+Using top selected file for transcript: '1000380463.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient works in an educational setting with children who have learning disabilities and has recurrent conflicts with authority figures. The patient is currently focused on encouraging students to socialize and participate in campus activities, but the results have been falling short of expectations.
+
+**Emotional Experience:**
+The patient likely experiences a range of emotions related to their professional environment and responsibilities. Given the recurrent conflicts with authority figures, the patient may feel frustrated, misunderstood, or undervalued, which could lead to feelings of irritation or anger. The shortfall in expected outcomes when encouraging student participation might evoke feelings of disappointment, inadequacy, or self-doubt. These emotions could be compounded by a sense of responsibility towards the students, leading to worry or anxiety about their well-being and development.
+
+**Cognitive Patterns:**
+The patient may engage in self-critical thinking, particularly when outcomes do not meet expectations. This could manifest as ruminating on perceived failures or shortcomings, both in interactions with authority figures and in achieving desired results with students. The patient might also have a tendency to catastrophize or overgeneralize, interpreting specific setbacks as indicative of broader personal or professional inadequacies. Such cognitive patterns could contribute to a negative self-image and a sense of being overwhelmed by professional challenges.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive experiences, the patient might withdraw from interactions with authority figures or avoid situations that could lead to conflict. This avoidance could be a coping mechanism to manage stress and protect self-esteem. Additionally, the patient might engage in excessive planning or over-preparation in an attempt to control outcomes and mitigate feelings of inadequacy. Conversely, there might be a tendency to procrastinate or delay tasks due to fear of failure or criticism.
+
+**Coping Styles:**
+The patient may rely on problem-solving strategies to address challenges, such as seeking new methods to encourage student participation. However, the recurrent nature of conflicts with authority figures suggests that these strategies might not always be effective, potentially leading to feelings of helplessness or resignation. The patient might also seek reassurance from colleagues or mentors to validate their efforts and decisions, which could provide temporary relief from self-doubt.
+
+**Interpretation Using Transcript Patterns:**
+The transcript reveals patterns of feeling out of place or less respectable, which could parallel the patient's experience of conflict with authority figures. The patient might perceive themselves as different or less valued compared to others in their professional environment, leading to feelings of social isolation or inadequacy. Additionally, the transcript highlights concerns about meeting external standards and the impact of perceived failures on self-worth, which could resonate with the patient's experience of unmet expectations in their work with students.
+
+**Conclusion:**
+The patient's emotional, cognitive, and behavioral responses are likely influenced by their professional environment and the challenges they face in achieving desired outcomes. Addressing these patterns through cognitive restructuring and developing more adaptive coping strategies could help the patient manage their emotional responses and improve their interactions with authority figures and students. Encouraging self-compassion and realistic goal-setting may also support the patient in navigating their professional responsibilities more effectively.
+Summary da mistral_.csv: The client expresses feelings of not belonging and a lack of respectability in a new training program due to age and perceived difference from younger participants. They also discuss feelings of shame regarding unfinished tasks from the past and the social positioning associated with their current job compared to their previous experiences in college. The client expresses a desire for social validation and a sense of security that comes from being in a well-regarded educational institution. They also express feelings of shame and grubbiness when engaging in mundane tasks and when their current job is not perceived as respectable by some people.
+The client expresses concerns about effectively teaching children and maintaining composure in their job as a tutor. They also mention feeling undervalued and struggling financially. The therapist suggests focusing on the job at hand and offers to schedule regular sessions. The client agrees to meet on Monday at 5:00 PM at the therapist's office in the Central Park Bank Building, Suite 830.
+
+ REFINED CCD: description + report
+{
+  "history": "The client works in an educational setting with children who have learning disabilities and has a pattern of recurrent conflict with authority figures. There is a strong sense of responsibility for student outcomes, and the client appears to experience disappointment and self-doubt when efforts to encourage student participation do not meet expectations. The report suggests the client may ruminate on perceived failures and feel misunderstood or undervalued in their professional environment, which may contribute to a negative self-image and feelings of social isolation.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I cannot get my students to socialize and participate as expected, then it means I am failing in my role and others will see me as inadequate. I must always meet or exceed expectations to be respected and valued by authority figures. If I fall short, it confirms that I am not as capable or worthy as others in my field.",
+  "intermediate_belief_depression": "If I keep failing to help my students participate, then nothing I do will ever be good enough and I might as well give up trying. My efforts don't matter and I can't change the outcome, no matter how hard I try.",
+  "coping_strategies": [
+    "The client tends to withdraw from interactions with authority figures or avoid situations that could lead to conflict. They may engage in excessive planning or over-preparation to try to control outcomes, and sometimes seek reassurance from colleagues to validate their efforts. There is also evidence of rumination on perceived failures and procrastination when fearing criticism."
+  ],
+  "situation": "Encouraging students to socialize and participate in campus activities, with results falling short of expectations.",
+  "auto_thought": "I'm failing to get these students involved—this just proves I'm not good enough at my job. Others will see that I can't make a difference.",
+  "emotion": [
+    "disappointed",
+    "inadequate",
+    "anxious",
+    "self-doubt",
+    "frustrated"
+  ],
+  "behavior": "I withdraw from discussing these results with authority figures. I overthink what I could have done differently and avoid seeking feedback. I spend extra time planning new activities, hoping to fix the problem."
+}

@@ -1,0 +1,35 @@
+{
+  "name": "CBT Cognitive Conceptualization for Approval-Seeking in Family Context",
+  "id": "case_approval_family_001",
+  "type": [
+    "CBT",
+    "case formulation",
+    "family dynamics"
+  ],
+  "history": "The patient recently experienced family tension during a conversation with their parents about a wedding list. They noticed similarities between their own actions and their father's patterns, particularly in seeking approval and unconditional love from family members. The patient has observed their father's ongoing pursuit of approval from his sister, which has prompted self-reflection about their own behaviors. This awareness may contribute to discomfort and internal conflict, as the patient considers the implications of these patterns in their own life.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I do not gain my family's approval, I am not good enough and will not be accepted. I must avoid making mistakes or disappointing them, or else I will feel rejected. Seeking reassurance is necessary to feel secure in my relationships.",
+  "intermediate_belief_depression": "If I keep failing to get approval, it means I will always fall short and never be truly valued by my family. No matter what I do, I can't escape this pattern, so there's no point in trying.",
+  "coping_strategies": "The patient tends to seek reassurance from family members or withdraw from discussions to avoid further tension. They may ruminate on past interactions, overanalyzing their behavior to identify mistakes or ways they could have gained more approval. These strategies temporarily reduce distress but reinforce the cycle of approval-seeking and self-doubt.",
+  "situation": "Observing the father's ongoing pursuit of approval from his sister.",
+  "auto_thought": "I'm just like my dad—I keep needing approval from others. If I don't get it, it means I'm not good enough.",
+  "emotion": [
+    "anxious",
+    "uneasy",
+    "sad",
+    "self-conscious",
+    "worried"
+  ],
+  "behavior": "I withdraw from the conversation and avoid sharing my feelings. I replay the situation in my mind, wondering what I could have done differently to be accepted.",
+  "rationale": "The report notes the patient 'noticed similarities between their own actions and their father's patterns,' and that observing the father's approval-seeking 'might also trigger feelings of sadness or loneliness, as it highlights a potential lack of unconditional acceptance within the family dynamic.' The report also states the patient 'may engage in behaviors aimed at seeking reassurance or avoiding conflict,' and 'might find themselves overanalyzing past interactions, attempting to identify where they could have acted differently to gain approval.' These points support the chosen automatic thought, emotions, behaviors, and beliefs."
+}

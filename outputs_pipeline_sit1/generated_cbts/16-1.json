@@ -1,0 +1,47 @@
+{
+  "name": "CBT Cognitive Conceptualization for Project Deadline Client",
+  "id": "16-1",
+  "type": [
+    "CBT",
+    "case formulation",
+    "CCD"
+  ],
+  "history": "The client spent about a year working on a project in Europe, building a website and conducting interviews, and reports pride in this work as well as a wish to share the results. There is a past history of procrastination and anxiety, which has led the client to use strategies learned from a course and reminders to manage daily life. The client’s pride in past work suggests high personal standards, while the ongoing need to manage anxiety and procrastination indicates persistent struggles with self-doubt and avoidance.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't complete my project perfectly and on time, it means I am not competent and others will see me as unreliable. I must always meet high standards to feel good about myself. If I start to fall behind, it will spiral out of control and I won't be able to recover.",
+  "intermediate_belief_depression": "If I can't keep up with my project and meet the deadline, it proves that I am hopeless and will always struggle with procrastination, no matter what I do.",
+  "coping_strategies": "The client uses reminders and strategies from a course to try to manage tasks and reduce procrastination. When anxiety increases near deadlines, the client may delay posting portions of the project online, engaging in avoidance despite knowing it increases stress. There is a pattern of oscillating between structured coping and avoidance when overwhelmed.",
+  "situation": "Working on a project close to its deadline with portions still needing to be posted online.",
+  "auto_thought": "I'm running out of time and I won't get everything posted. If I mess this up, everyone will see that I'm not reliable.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "tense",
+    "self-doubt",
+    "frustrated"
+  ],
+  "behavior": "I check my reminders and strategies but still put off posting the portions online. I spend time worrying about the deadline and avoid opening the website to upload the content.",
+  "rationale": "\"The pressure to complete the project on time might lead to feelings of being overwhelmed or tense.\" \"The ongoing need to post portions of the project online might trigger thoughts of inadequacy or fear of not meeting expectations.\" \"Given the patient's history of procrastination, they might engage in avoidance behaviors when faced with tasks that induce anxiety. This could manifest as delaying the posting of project portions online, despite the looming deadline.\" \"The patient's pride in their past work and desire to share it reflects a positive self-image and a need for external validation. The anxiety associated with the current project deadline might stem from a fear of not living up to past successes. This could lead to a cycle of procrastination, where the fear of failure or not meeting high standards results in avoidance behaviors.\"",
+  "core_belief_predictions": {
+    "source_id": "16-1",
+    "major_pred_set": [
+      "helpless"
+    ],
+    "fine_pred_set": [
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

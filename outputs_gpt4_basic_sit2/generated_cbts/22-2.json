@@ -1,0 +1,27 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT Cognitive Conceptualization Diagram"
+  ],
+  "history": "Ongoing interpersonal difficulties involving a partner named Ivan and his family. Recent trust and betrayal issues involving Ivan. Ongoing contact with Ivan's family.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't forgive, I will lose my relationship with Ivan.",
+  "intermediate_belief_depression": "I can't trust anyone, and I will always be hurt.",
+  "coping_strategies": "Avoid confrontation and suppress feelings to maintain peace.",
+  "situation": "During an interaction with Ivan's family, the mother says 'boys will be boys' and asks the patient to 'forgive and forget'.",
+  "auto_thought": "I have to forgive Ivan, or I will be alone.",
+  "emotion": [
+    "Frustration",
+    "Sadness",
+    "Anxiety"
+  ],
+  "behavior": "Reluctantly agrees to forgive Ivan, suppressing personal feelings."
+}

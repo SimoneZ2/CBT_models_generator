@@ -1,0 +1,83 @@
+Using description: HISTORY:
+- Elevated stress related to financial difficulties and interpersonal demands.
+- Heavy workload, including covering responsibilities for an absent coworker named Chet.
+- Friends frequently rely on the individual for emotional support.
+- Considering asking parents to help cover therapy costs around an upcoming birthday.
+- Some avoidance of parental visits and large social events.
+
+SITUATION:
+- Discovered that their bank balance was lower than expected. with ID=36-1
+Top results (by metadata similarity):
+  - sim=0.661 | title='Patient "J", Session April 10, 2012: Client just had a birthday; he was extremel' | file='1004532428.txt'
+  - sim=0.658 | title='Patient "J", Session February 17, 2012: Client is frustrated that he is still st' | file='1004503122.txt'
+  - sim=0.655 | title='Patient "J", Session April 19, 2012: Client has been so stressed out about his f' | file='1004538598.txt'
+  - sim=0.648 | title='Patient "J", Session April 17, 2012: Client recently had his bank accounts levie' | file='1004538596.txt'
+  - sim=0.635 | title='Patient "J", Session April 13, 2012: Client is upset with his financial situatio' | file='1004532414.txt'
+  - sim=0.631 | title='Patient "J", Session July 24, 2012: Client's financial issues are all coming to ' | file='1004687594.txt'
+  - sim=0.630 | title='Patient "Ju", Session October 16, 2012: Client has been experiencing chronic pai' | file='1004798857.txt'
+  - sim=0.626 | title='Session 5: Client finds this financial situation stressful and irritating; he ma' | file='1004824745.txt'
+  - sim=0.619 | title='Patient "J", Session August 13, 2012: Client feels extremely anxious and overwhe' | file='1004687604.txt'
+  - sim=0.613 | title='Patient "J", Session March 15, 2012: Client discusses his finances, work issues,' | file='1004522804.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=9 partial_match=1
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.661 | file='1004532428.txt' | title='Patient "J", Session April 10, 2012: Client just had a birthday; he was extremel'
+  - sim=0.658 | file='1004503122.txt' | title='Patient "J", Session February 17, 2012: Client is frustrated that he is still st'
+  - sim=0.655 | file='1004538598.txt' | title='Patient "J", Session April 19, 2012: Client has been so stressed out about his f'
+Using top selected file for transcript: '1004532428.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is experiencing elevated stress due to financial difficulties and interpersonal demands. They are managing a heavy workload, exacerbated by the need to cover responsibilities for an absent coworker, Chet. Additionally, the patient is frequently relied upon by friends for emotional support. There is consideration of asking parents for financial assistance to cover therapy costs, particularly around an upcoming birthday. The patient exhibits avoidance behaviors, particularly in relation to parental visits and large social events. A recent discovery that their bank balance was lower than expected has likely intensified their stress.
+
+**Emotional Impact:**
+The patient is likely experiencing a range of negative emotions, including anxiety, worry, and fear, primarily driven by financial instability and overwhelming responsibilities. The discovery of a lower-than-expected bank balance could exacerbate feelings of anxiety and fear about financial security. The heavy workload and covering for an absent coworker may contribute to feelings of being overwhelmed and stressed. The reliance of friends on the patient for emotional support might lead to feelings of being burdened or drained, potentially resulting in irritability or frustration.
+
+**Cognitive Patterns:**
+The patient may engage in ruminative thinking, particularly about financial issues and workload demands. This could manifest as persistent worry about money and an inability to focus on tasks due to intrusive thoughts about financial instability. The consideration of asking parents for financial help might trigger thoughts of inadequacy or failure, potentially leading to feelings of shame or embarrassment. Avoidance of parental visits and large social events suggests a cognitive pattern of avoidance, possibly due to fear of judgment or criticism.
+
+**Behavioral Responses:**
+The patient is likely to engage in avoidance behaviors, such as avoiding parental visits and large social events, possibly to prevent feelings of inadequacy or to avoid additional stressors. They may also procrastinate on tasks related to financial management or workload due to feeling overwhelmed. The patient might withdraw from social interactions or seek reassurance from others to cope with stress. The reliance on friends for emotional support could lead to seeking reassurance or validation from them, which might temporarily alleviate stress but could also contribute to feelings of dependency.
+
+**Coping Styles:**
+The patient may cope with stress by withdrawing from social interactions or avoiding situations that could exacerbate their anxiety. They might also engage in distraction techniques, such as focusing on work or other tasks, to avoid confronting financial issues directly. The consideration of asking parents for financial help indicates a potential reliance on external sources for support, which could be a coping mechanism to manage financial stress.
+
+**Conclusion:**
+The patient's current life circumstances, including financial difficulties, heavy workload, and interpersonal demands, are likely contributing to significant emotional distress. Their cognitive patterns suggest a tendency towards rumination and avoidance, which may exacerbate feelings of anxiety and stress. Behavioral responses, such as avoidance and seeking reassurance, are indicative of coping strategies that may provide temporary relief but do not address underlying issues. Therapeutic interventions could focus on developing more adaptive coping strategies, challenging negative cognitive patterns, and addressing avoidance behaviors to improve the patient's overall emotional well-being.
+Summary da mistral_.csv: The client described a difficult week leading up to their 41st birthday. They experienced stress related to work, a potential house foreclosure, and their partner's behavior. At soccer practice, they became frustrated with their son's misbehavior and their partner's lack of attention. They also felt neglected on their birthday, with few people acknowledging it and receiving a repetitive gift. The client expressed feeling overwhelmed, anxious, and uncertain about their place in their relationships. They also mentioned feeling frustrated with various aspects of their life, including technology and their partner's family.
+The client shares their struggles with anxiety, depression, and financial difficulties, including unpaid taxes and a housing modification. They express feeling overwhelmed and unable to take proactive steps to improve their situation. The therapist suggests that the client may unconsciously want to shut down others, including the therapist, from thinking or feeling things, as it is too much for them to handle. The client denies wanting to shut others down and feels resigned to their circumstances. The therapist explores the possibility that the client's behavior may be driven by envy and a desire to shut down others' thinking and worrying about their problems. The client expresses feeling constantly reminded of their financial difficulties and the lack of solutions, leading to feelings of despair and a desire to give up. The therapist questions why the client finds it painful to be reminded of their financial struggles despite knowing it is true. The client acknowledges that they cannot focus on all of their problems at once and that there are many implications of not having enough money
+The client expresses feelings of having no support and no resources to fall back on, citing financial obligations as a reason. The therapist acknowledges the client's financial struggles but also emphasizes the importance of addressing the client's lack of personal resources and mental capacity to effectively utilize them. The therapist suggests further exploration of this issue during a future session. The client agrees to meet again at 12:30 on Friday.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has been experiencing elevated stress due to ongoing financial difficulties and high interpersonal demands. They are managing a heavy workload, including covering for an absent coworker (Chet), which adds to their sense of being overwhelmed. Friends frequently rely on them for emotional support, which may contribute to feelings of being burdened or drained. The client is considering asking their parents for help with therapy costs, particularly around their birthday, but tends to avoid parental visits and large social events, possibly to avoid feelings of inadequacy or judgment.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't keep my finances in order and handle all my responsibilities, then I'm not competent and others will see me as a failure. I must not let others know I'm struggling, or they'll think less of me. It's my job to manage everything on my own, and needing help means I'm inadequate.",
+  "intermediate_belief_depression": "If I keep failing to manage my finances and responsibilities, it proves that I'm hopeless and things will never get better. No matter what I do, I can't get ahead, so there's no point in trying.",
+  "coping_strategies": [
+    "The client tends to avoid situations that might trigger feelings of inadequacy, such as parental visits and large social events. They may withdraw from social interactions or procrastinate on addressing financial issues, and sometimes seek reassurance or validation from friends to temporarily alleviate stress."
+  ],
+  "situation": "Discovered that their bank balance was lower than expected.",
+  "auto_thought": "I'm never going to get on top of my finances. This just proves I can't handle things and I'm letting everyone down.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "ashamed",
+    "overwhelmed",
+    "fearful",
+    "disappointed"
+  ],
+  "behavior": "Avoided checking the rest of their finances and put off making a plan. Withdrew from social interactions and avoided talking to parents about money. Sought reassurance from friends about being able to cope."
+}

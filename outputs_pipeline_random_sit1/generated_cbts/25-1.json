@@ -1,0 +1,28 @@
+{
+  "history": "The client works in an educational setting with children who have learning disabilities. They describe being pampered by their parents and having minimal consequences earlier in life. There is a pattern of ongoing conflicts with authority figures. This background suggests the client may not have developed strong skills for handling disappointment or external criticism, and may expect favorable outcomes without significant effort. The lack of early boundaries could contribute to current difficulties with accountability and frustration when expectations are not met.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't achieve the results I expect, it means I'm not competent and others will judge me. I must always meet high standards to feel good about myself. If I can't control the outcome, then I'm letting everyone down.",
+  "intermediate_belief_depression": "If I keep failing to get students to participate, nothing I do will ever be good enough and there's no point in trying. My efforts are useless and things will never improve.",
+  "coping_strategies": [
+    "When faced with disappointing results, the client tends to withdraw or avoid confronting the issue directly. They may seek reassurance from peers or superiors to validate their efforts, and sometimes distract themselves with non-work-related activities to escape feelings of inadequacy. There is a tendency to overextend themselves in an attempt to compensate for perceived shortcomings."
+  ],
+  "situation": "Encouraging students to socialize and participate in campus activities, with results falling short of expectations.",
+  "auto_thought": "I'm failing at getting these students to engage. No matter what I do, it's not enough.",
+  "emotion": [
+    "frustrated",
+    "inadequate",
+    "disappointed",
+    "anxious",
+    "self-doubting"
+  ],
+  "behavior": "Withdraws from further attempts to engage students. Seeks reassurance from colleagues or supervisors about their efforts. Spends time on unrelated tasks to avoid thinking about the disappointing outcome.",
+  "source_text_id": "1002094563.txt"
+}

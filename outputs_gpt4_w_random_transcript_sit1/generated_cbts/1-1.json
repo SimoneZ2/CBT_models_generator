@@ -1,0 +1,30 @@
+{
+  "name": "John Doe",
+  "id": "12345",
+  "type": [
+    "CBT"
+  ],
+  "history": "History of substance abuse and completed rehabilitation. Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect. Longstanding obesity since childhood. Past experiences of bullying related to weight.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "I must be perfect to be accepted.",
+  "intermediate_belief_depression": "If I make a mistake, I will be rejected.",
+  "coping_strategies": "Avoidance of social situations and procrastination in responding to family.",
+  "situation": "Received an invitation to a cousin's upcoming wedding. Has not responded to the RSVP request and has not answered follow-up calls from family members.",
+  "auto_thought": "If I go to the wedding, everyone will judge me.",
+  "emotion": [
+    "Anxiety",
+    "Fear",
+    "Nervousness"
+  ],
+  "behavior": "Avoidance of the wedding invitation and family calls."
+}

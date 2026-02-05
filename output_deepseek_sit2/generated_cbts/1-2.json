@@ -1,0 +1,34 @@
+{
+  "name": "Patient 1",
+  "id": "1",
+  "type": [
+    "depression",
+    "anxiety",
+    "substance abuse history"
+  ],
+  "history": "History of substance abuse and completed rehabilitation. Ongoing family difficulties involving emotional neglect from mother. Longstanding obesity since childhood with past bullying related to weight.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't perform perfectly (like being on time), it proves I'm a failure and unlovable.",
+  "intermediate_belief_depression": "My past defines me; I will always struggle and disappoint others.",
+  "coping_strategies": [
+    "Avoidance of responsibilities, emotional withdrawal, potential relapse into substance use."
+  ],
+  "situation": "Missed an alarm and woke up late for work.",
+  "auto_thought": "\"I can't even do something simple like waking up on time. I'm a mess. My boss will think I'm unreliable, just like my mother did.\"",
+  "emotion": [
+    "shame",
+    "anxiety",
+    "hopelessness"
+  ],
+  "behavior": "Calls in sick to avoid facing colleagues, spirals into self-critical rumination, possibly skips meals or engages in emotional eating."
+}

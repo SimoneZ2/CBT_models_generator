@@ -1,0 +1,78 @@
+Using description: HISTORY:
+- History of strained family relationships.
+- Father described as consistently dissatisfied with life and creating discomfort for others.
+- Maternal grandmother had a negative impact on the family, especially on the mother.
+
+SITUATION:
+- Considering the father's wish to be buried in Nepal and the logistics involved. with ID=49-1
+Emergency Fallback to 0.10 - Top results (by metadata similarity):
+  - sim=0.465 | title='Session 18: Client cannot stop thinking about her grandmother who has recently d' | file='1000325703.txt'
+  - sim=0.447 | title='Patient "C" Therapy Session Audio Recording, June 12, 2012: Client's grandmother' | file='1004600922.txt'
+  - sim=0.444 | title='Verilogue session: Client comes from a family with a very competitive sibling su' | file='1002565888.txt'
+  - sim=0.421 | title='Patient "M" Session June 19, 2012: Client talks about a letter he wants to prese' | file='1004600940.txt'
+  - sim=0.416 | title='Verilogue session: Client has been easily overwhelmed by feelings of anxiety rec' | file='1001083994.txt'
+  - sim=0.409 | title='Verilogue session: Client talks about the recent holidays and being with her fam' | file='1003009213.txt'
+  - sim=0.406 | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father ' | file='1004472411.txt'
+  - sim=0.401 | title='Session 5: Client discusses how much closer she feels to her friends than her fa' | file='1000061054.txt'
+  - sim=0.398 | title='Jakob's Ladder: A middle-aged mother with mild depression has begun dating a man' | file='1003371496.txt'
+  - sim=0.388 | title='Patient "C" Therapy Session Audio Recording, March 15, 2012: Client is very angr' | file='1004522824.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.465 | file='1000325703.txt' | title='Session 18: Client cannot stop thinking about her grandmother who has recently d'
+  - sim=0.447 | file='1004600922.txt' | title='Patient "C" Therapy Session Audio Recording, June 12, 2012: Client's grandmother'
+  - sim=0.444 | file='1002565888.txt' | title='Verilogue session: Client comes from a family with a very competitive sibling su'
+Using top selected file for transcript: '1000325703.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient has a history of strained family relationships, particularly influenced by a father who is consistently dissatisfied with life, creating discomfort for others. Additionally, the maternal grandmother had a negative impact on the family, especially affecting the patient's mother. The patient is currently considering the logistics of fulfilling the father's wish to be buried in Nepal.
+
+**Emotional Impact:**
+The patient's emotional landscape is likely characterized by feelings of tension and discomfort stemming from the father's dissatisfaction and the grandmother's negative influence. These family dynamics may contribute to feelings of being overwhelmed or anxious, particularly when faced with familial obligations such as the father's burial wishes. The patient might experience a mix of emotions, including sadness, frustration, and perhaps a sense of duty or guilt regarding family expectations.
+
+**Cognitive Patterns:**
+The patient may engage in ruminative thinking, particularly about family relationships and obligations. The father's dissatisfaction could lead to internalized beliefs of inadequacy or fear of not meeting expectations. The grandmother's negative impact might contribute to cognitive patterns of doubt or questioning the value of familial bonds. The consideration of the father's burial in Nepal could trigger thoughts of logistical challenges and emotional burdens, potentially leading to cognitive overload.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive patterns, the patient might exhibit behaviors such as avoidance or procrastination when dealing with family-related tasks. There may be a tendency to withdraw from family interactions to manage emotional discomfort. Alternatively, the patient might seek reassurance from others when feeling uncertain about fulfilling familial duties. The logistics of the burial could also prompt behaviors aimed at meticulous planning or seeking external support to alleviate the burden.
+
+**Coping Styles:**
+The patient may rely on coping mechanisms such as compartmentalizing emotions to maintain control over their reactions. This could manifest as a reluctance to express vulnerability or seek emotional support from family members. The patient might also engage in self-reflection or internal dialogues to process complex emotions related to family dynamics. Given the history of strained relationships, there may be a tendency to suppress emotions to avoid conflict or further discomfort.
+
+**Conclusion:**
+The patient's psychological experience is shaped by a complex interplay of strained family dynamics, emotional burdens, and cognitive patterns of rumination and doubt. The consideration of the father's burial in Nepal adds an additional layer of logistical and emotional complexity. Therapeutic interventions could focus on exploring these cognitive and emotional patterns, enhancing coping strategies, and fostering healthier communication and emotional expression within the family context.
+Summary da mistral_.csv: The patient discusses the death of their grandmother and the emotional impact it has had on them. They share how their grandmother's death has brought up conflicting feelings, as she had a strained relationship with her mother and was not a significant presence in the patient's life. The patient also reflects on their tendency to suppress emotions, particularly in the presence of others, and how this relates to their upbringing and past experiences with their father. They also mention their difficulty in accepting the reality of death and the guilt they feel when not fully immersed in their grief.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a longstanding history of strained family relationships, shaped by a father who is persistently dissatisfied and creates discomfort for others. The maternal grandmother also had a negative impact, particularly affecting the client's mother. These dynamics have contributed to ongoing emotional tension and discomfort, especially in situations involving family obligations.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't fulfill my father's wishes perfectly, I will disappoint my family and confirm that I am inadequate. I must take on these burdens even if they feel overwhelming, because failing means I am not a good family member. It's my responsibility to manage difficult family obligations, even when they cause me distress.",
+  "intermediate_belief_depression": "If I can't manage these family responsibilities, it means I am failing and things will never get better. No matter what I do, I will always fall short and feel overwhelmed by my family's needs.",
+  "coping_strategies": [
+    "The client tends to avoid or procrastinate on family-related tasks to manage emotional discomfort. They may withdraw from family interactions or suppress their emotions to avoid conflict. Sometimes, they seek reassurance or external support when feeling uncertain about fulfilling familial duties."
+  ],
+  "situation": "Considering the father's wish to be buried in Nepal and the logistics involved.",
+  "auto_thought": "This is too much for me to handle; if I mess this up, everyone will be disappointed in me.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "sad",
+    "frustrated",
+    "guilty"
+  ],
+  "behavior": "I put off making decisions about the burial logistics. I avoid discussing the topic with family members. I spend time ruminating about what could go wrong and whether I can meet everyone's expectations."
+}

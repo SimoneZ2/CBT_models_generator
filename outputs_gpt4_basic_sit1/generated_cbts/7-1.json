@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case 1",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "History of long work hours in demanding work environments, including past touring work. Unresolved issues with father, including reports of past abuse. Recent exchange of letters with father addressing this history.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't work hard enough, I will fail and be rejected.",
+  "intermediate_belief_depression": "I am not good enough to succeed in my personal projects.",
+  "coping_strategies": "Avoidance through spending time on social media instead of working on projects.",
+  "situation": "Evaluating progress on personal projects, including developing a website. Spending time on social media instead of working on the project.",
+  "auto_thought": "I can't focus on my projects; I'm not making any progress.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Procrastination by spending time on social media."
+}

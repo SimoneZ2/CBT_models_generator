@@ -1,0 +1,32 @@
+{
+  "name": "Patient 18",
+  "id": "18",
+  "type": [
+    "academic failure",
+    "family pressure"
+  ],
+  "history": "Academic underperformance despite intelligence. Dropped out of college X due to isolation. Two years of credits remain. Mother had high expectations. Financial difficulties.",
+  "helpless_belief": [
+    "I am a failure, loser",
+    "I am defective"
+  ],
+  "unlovable_belief": [
+    "I am a disappointment"
+  ],
+  "worthless_belief": [
+    "I am wasting my potential"
+  ],
+  "intermediate_belief": "Dropping out proves I'm a failure who can't finish anything.",
+  "intermediate_belief_depression": "I'll never meet expectations; I'm permanently behind.",
+  "coping_strategies": [
+    "Avoidance, shame, dependency."
+  ],
+  "situation": "Seeking financial help from parents after family conversation about dropout.",
+  "auto_thought": "\"They're giving me money out of pity. They think I'm a lost cause.\"",
+  "emotion": [
+    "shame",
+    "humiliation",
+    "inadequacy"
+  ],
+  "behavior": "Mumbles request, avoids eye contact, promises to 'do better' without concrete plan."
+}

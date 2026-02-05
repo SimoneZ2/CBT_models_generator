@@ -1,0 +1,27 @@
+{
+  "name": "John Doe",
+  "id": "12345",
+  "type": [
+    "Depression",
+    "Anxiety"
+  ],
+  "history": "Recurrent stomachaches and physical symptoms associated with anxiety and stress. Past difficulties involving weight management, sexuality, and academic performance. Reports a transformation during college. Reports seeking control in relationships.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be perfect to be accepted.",
+  "intermediate_belief_depression": "If I don't meet expectations, I will be rejected.",
+  "coping_strategies": "Overworking to prove competence and avoid criticism.",
+  "situation": "Experiencing ongoing stomach issues and seeking reassurance about recovery.",
+  "auto_thought": "I can't handle this; I'm going to fail.",
+  "emotion": [
+    "Anxiety",
+    "Fear"
+  ],
+  "behavior": "Seeks reassurance and validation from others."
+}

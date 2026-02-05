@@ -1,0 +1,27 @@
+{
+  "name": "John Doe",
+  "id": "001",
+  "type": [
+    "Depression",
+    "Anxiety"
+  ],
+  "history": "Spent about one year working on a project in Europe involving building a website and conducting interviews. Reports pride in the work and a wish to share the results. Past history of procrastination and anxiety. Uses strategies learned from a course and reminders to manage daily life.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be perfect in my work to be valued.",
+  "intermediate_belief_depression": "If I don't succeed, I am a failure.",
+  "coping_strategies": "Uses strategies learned from a course and reminders to manage daily life.",
+  "situation": "Working on a project close to its deadline with portions still needing to be posted online.",
+  "auto_thought": "I won't be able to finish this project on time, and it will be a disaster.",
+  "emotion": [
+    "Anxiety",
+    "Fear"
+  ],
+  "behavior": "Procrastination and avoidance of completing the project."
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Patient 44",
+  "id": "44",
+  "type": [
+    "loneliness",
+    "relationship patterns"
+  ],
+  "history": "History of recurring conflicts and strained relationships. Ongoing trust and boundary issues. Some relationships involve alcoholism. History of aggressive behavior.",
+  "helpless_belief": [],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [
+    "I am bad - dangerous, toxic, evil"
+  ],
+  "intermediate_belief": "I drive people away because of my behavior and trust issues.",
+  "intermediate_belief_depression": "I'm destined to be alone because I'm fundamentally unlovable and toxic.",
+  "coping_strategies": [
+    "Spending holidays alone, reflection on loneliness."
+  ],
+  "situation": "Spending holidays alone and reflecting on feelings of sadness and loneliness.",
+  "auto_thought": "No one wants to spend the holidays with me because I'm difficult and damaged.",
+  "emotion": [
+    "sadness",
+    "loneliness",
+    "self-loathing"
+  ],
+  "behavior": "Spend holidays alone while ruminating on loneliness."
+}

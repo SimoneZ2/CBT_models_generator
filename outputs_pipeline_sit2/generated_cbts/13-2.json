@@ -1,0 +1,49 @@
+{
+  "name": "CBT Cognitive Conceptualization for Self-Sacrificing Grief",
+  "id": "13-2",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The patient experienced the death of a close aunt, whom they considered a mother figure. They were unable to fulfill her last request and were not present at her death, which likely contributes to ongoing feelings of guilt and regret. The patient has a longstanding pattern of prioritizing others' needs over their own, as shown by their recent choice to give up a personal plan to support a friend. This self-sacrificing tendency may serve as a way to cope with or avoid personal grief and difficult emotions.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't always put others' needs before my own, I am failing as a friend and person. I must be there for others, even at my own expense, or I will feel guilty and inadequate. Taking care of myself is selfish and means I am not a good person.",
+  "intermediate_belief_depression": "If I can't help everyone or make up for my past mistakes, it means I'm a failure and nothing I do will ever be enough. No matter how much I give, I can't escape feeling guilty and empty.",
+  "coping_strategies": "The patient frequently sacrifices their own needs to support others, using this as a way to avoid facing their own grief and difficult emotions. They neglect self-care and personal fulfillment, which may temporarily reduce guilt but ultimately maintains feelings of inadequacy and emotional exhaustion.",
+  "situation": "On the way to watch a movie, received a call from a friend seeking emotional support. Chose to give up the movie and talked with the friend for about an hour.",
+  "auto_thought": "If I don't help my friend right now, I'll be letting them down. My own plans don't matter as much as being there for others.",
+  "emotion": [
+    "guilty",
+    "anxious",
+    "sad",
+    "tense",
+    "self-critical"
+  ],
+  "behavior": "I immediately cancel my movie plans and spend the next hour talking to my friend, focusing entirely on their needs and ignoring my own disappointment.",
+  "rationale": "The report describes the patient as having a pattern of prioritizing others' needs over their own, especially in the recent situation of giving up a personal plan to support a friend. It notes self-critical thoughts and guilt related to perceived failures, as well as behavioral self-sacrifice and avoidance of personal emotions. The emotional impact section highlights guilt, sadness, and emotional burden, while the coping styles section discusses using service to others as a way to distract from grief. These themes directly inform the automatic thought, emotions, behaviors, and beliefs selected.",
+  "core_belief_predictions": {
+    "source_id": "13-2",
+    "major_pred_set": [
+      "helpless",
+      "worthless"
+    ],
+    "fine_pred_set": [
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am worthless, waste"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

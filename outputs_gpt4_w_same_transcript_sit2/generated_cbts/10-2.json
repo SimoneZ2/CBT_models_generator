@@ -1,0 +1,33 @@
+{
+  "name": "Case Study: Post-Divorce Adjustment",
+  "id": "case_001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recent divorce. Financial struggles and adjustment to single life. Co-parenting. Multiple friendships deteriorated after the divorce. Complicated relationship with parents.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must maintain friendships even if they are draining.",
+  "intermediate_belief_depression": "I am responsible for fixing others' problems.",
+  "coping_strategies": "Avoids confrontation and maintains draining friendships to avoid feelings of guilt.",
+  "situation": "Experiencing the breakdown of friendships following the divorce.",
+  "auto_thought": "I can't let go of these friendships because they need me.",
+  "emotion": [
+    "Guilt",
+    "Sadness",
+    "Frustration"
+  ],
+  "behavior": "Continues to engage in emotionally draining friendships despite personal cost.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

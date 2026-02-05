@@ -1,0 +1,27 @@
+{
+  "name": "Patient 39",
+  "id": "39",
+  "type": [
+    "somatic symptoms",
+    "anxiety"
+  ],
+  "history": "Recurrent stomachaches associated with anxiety and stress. Past difficulties with weight, sexuality, and academics. Reports transformation during college. Seeks control in relationships.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "My anxiety manifests physically, and I can't control it.",
+  "intermediate_belief_depression": "My body is betraying me with these physical symptoms of anxiety.",
+  "coping_strategies": [
+    "Seeking reassurance, monitoring physical symptoms."
+  ],
+  "situation": "Experiencing ongoing stomach issues and seeking reassurance about recovery.",
+  "auto_thought": "These stomach problems will never go away. Something must be seriously wrong.",
+  "emotion": [
+    "anxiety",
+    "fear",
+    "frustration"
+  ],
+  "behavior": "Experience stomach issues and seek medical reassurance."
+}

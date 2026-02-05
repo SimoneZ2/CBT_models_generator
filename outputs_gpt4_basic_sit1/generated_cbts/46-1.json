@@ -1,0 +1,26 @@
+{
+  "name": "Case Study 1",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Forms close relationships with friends who experience significant stressors. A friend is dealing with academic pressures and parenting an autistic child.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must help others to be valued.",
+  "intermediate_belief_depression": "If I can't help, I am not worthy.",
+  "coping_strategies": "Attempts to support friends in distress to feel needed.",
+  "situation": "Considering visiting a friend managing parenting demands and housing instability.",
+  "auto_thought": "If I don't visit, I am not a good friend.",
+  "emotion": [
+    "Anxiety",
+    "Guilt"
+  ],
+  "behavior": "Plans to visit the friend despite personal inconvenience."
+}

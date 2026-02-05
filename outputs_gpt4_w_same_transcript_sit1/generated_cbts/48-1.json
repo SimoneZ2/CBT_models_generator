@@ -1,0 +1,30 @@
+{
+  "name": "Case Example",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "In a relationship with Ivan for about seven years and married for three. Stressful periods during academic finals and wedding preparation due to lack of support from Ivan. Current financial pressure involving Ivan's part-time work, therapy costs, and dental treatment expenses.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't manage everything perfectly, everything will fall apart.",
+  "intermediate_belief_depression": "Nothing I do will ever be good enough.",
+  "coping_strategies": "Avoidance of confrontation and taking on more responsibilities to compensate.",
+  "situation": "Partner neglects responsibilities such as contributing to expenses and completing administrative tasks.",
+  "auto_thought": "I can't rely on anyone, and everything is my responsibility.",
+  "emotion": [
+    "Overwhelmed",
+    "Frustrated",
+    "Hopeless"
+  ],
+  "behavior": "Taking on excessive responsibilities and avoiding confrontation."
+}

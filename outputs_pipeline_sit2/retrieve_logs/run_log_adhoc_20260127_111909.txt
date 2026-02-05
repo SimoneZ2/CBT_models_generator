@@ -1,0 +1,84 @@
+Using description: HISTORY:
+- A past labor dispute significantly shaped views on fairness, compensation, and authority.
+
+SITUATION:
+- Reflecting on a work-related case and the response of a businessman involved. with ID=37-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.10 - Top results (by metadata similarity):
+  - sim=0.592 | title='Patient "M", Session August 29, 2012: Client hates how boring her life is now. S' | file='1004687680.txt'
+  - sim=0.552 | title='Patient "Ju" Session March 16, 2012: Client has had a frustrating and stressful ' | file='1004522810.txt'
+  - sim=0.540 | title='Patient "J", Session March 12, 2012: Client is frustrated with work and notices ' | file='1004522800.txt'
+  - sim=0.538 | title='Patient "Ju", Session April 02, 2012: Client is frustrated with work and her sup' | file='1004532436.txt'
+  - sim=0.531 | title='Patient "Ju", Session March 23, 2012: Client is irritated; she feels like she ha' | file='1004528621.txt'
+  - sim=0.524 | title='Patient "C", Therapy Session Audio Recording, April 18, 2012: Client feels much ' | file='1004538638.txt'
+  - sim=0.520 | title='Patient "M", Session August 21, 2012: Client is disappointed with some changes i' | file='1004687676.txt'
+  - sim=0.509 | title='Patient "B", Session November 08, 2012: Client talks about the harassment-like b' | file='1004824663.txt'
+  - sim=0.507 | title='Patient "M" Therapy Session Audio Recording, February 29, 2012: Client feels tak' | file='1004504886.txt'
+  - sim=0.507 | title='Patient "B", Session October 04, 2012: Client feels guilty for making a mistake ' | file='1004798713.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2 partial_match=8
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=2
+  - sim=0.540 | file='1004522800.txt' | title='Patient "J", Session March 12, 2012: Client is frustrated with work and notices '
+  - sim=0.524 | file='1004538638.txt' | title='Patient "C", Therapy Session Audio Recording, April 18, 2012: Client feels much '
+Using top selected file for transcript: '1004522800.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of a significant labor dispute that has influenced their perceptions of fairness, compensation, and authority. Currently, the patient is reflecting on a work-related case and the response of a businessman involved.
+
+**Emotional Impact:**
+The past labor dispute likely evokes feelings of frustration, resentment, and a heightened sensitivity to perceived injustices or unfair treatment. The patient may feel anxious and tense when encountering situations that remind them of the dispute, as these situations can trigger memories of past grievances. Reflecting on the work-related case and the businessman's response may lead to feelings of disappointment or anger if the patient perceives any unfairness or lack of accountability.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive patterns characterized by heightened vigilance for signs of unfairness or exploitation. This could manifest as a tendency to interpret ambiguous situations as unjust or biased, potentially leading to cognitive distortions such as "all-or-nothing" thinking or overgeneralization. The patient might ruminate on past events, leading to a cycle of negative thoughts that reinforce feelings of helplessness or victimization.
+
+**Behavioral Responses:**
+In response to perceived unfairness or authority challenges, the patient might withdraw from situations, avoid confrontation, or procrastinate on tasks that involve authority figures. They may also seek reassurance from peers or colleagues to validate their perceptions of fairness. Alternatively, the patient might engage in assertive communication to address perceived injustices, though this could be accompanied by anxiety about potential conflict.
+
+**Coping Styles:**
+The patient may cope with these emotional and cognitive challenges by seeking support from trusted individuals or engaging in activities that provide a sense of control and autonomy. However, if overwhelmed, the patient might resort to avoidance behaviors, such as disengaging from work-related tasks or social interactions. The patient might also use cognitive reframing techniques to challenge negative thoughts and re-evaluate situations more objectively.
+
+**Transcript Reference:**
+The transcript illustrates common psychological patterns that can be relevant to the patient's experience. For instance, feelings of frustration and helplessness in response to work-related challenges are common. The transcript also highlights how individuals may struggle with internal conflicts about expressing anger or dissatisfaction, fearing negative repercussions. These patterns can inform the understanding of the patient's emotional and cognitive responses to their current situation.
+
+**Conclusion:**
+The patient's history and current reflections suggest a complex interplay of emotions, thoughts, and behaviors rooted in past experiences of unfairness and authority challenges. Addressing these patterns through cognitive-behavioral strategies, such as cognitive restructuring and assertiveness training, may help the patient navigate their current reflections and work-related challenges more effectively.
+Summary da mistral_.csv: The client described a series of frustrating events on a Monday morning, including oversleeping, computer issues, and coworkers' behavior. They felt incompetent, frustrated, and helpless, leading to feelings of sadness and the desire to stay home. The client also mentioned past experiences of being treated poorly at work and feeling frustrated with the lack of support from coworkers and IT department. They expressed fear of expressing anger or crying at work due to potential negative reactions from colleagues. The client felt that they were being set up to fail and that their efforts to resolve issues were met with indifference or passive aggression. They also mentioned a desire to have someone else take on certain tasks but felt that they were being shut down and expected to do them themselves.
+The client expresses frustration with their manager, Gean, for not supporting them or acknowledging their experiences, particularly in regards to handling difficult situations and making decisions. The client feels ignored and unempowered, and believes that Gean is not fulfilling his managerial responsibilities. The client also mentions feeling frustrated with the lack of decision-making and the uncertainty of the upcoming restructuring. They express a desire for a more assertive and decisive approach, drawing inspiration from a reality show character.
+
+ REFINED CCD: description + report
+{
+  "history": "The client experienced a significant labor dispute in the past, which has shaped their perceptions of fairness, compensation, and authority. This event appears to have left a lasting emotional impact, leading to heightened sensitivity to perceived injustices and authority challenges. The client may ruminate on past grievances, and this history likely contributes to their current emotional and cognitive responses when reflecting on work-related cases.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If someone in authority responds in a way that seems unfair or dismissive, then it means I will not be treated justly and my efforts will be overlooked. I must be vigilant for signs of unfairness because otherwise I will be taken advantage of.",
+  "intermediate_belief_depression": "If I keep encountering unfairness from people in authority, it means things will never change and there's no point in trying to make a difference.",
+  "coping_strategies": [
+    "The client tends to withdraw or avoid confrontation when perceiving unfairness, sometimes procrastinating on work tasks involving authority figures. They may seek reassurance from peers to validate their perceptions, or ruminate on past events, reinforcing negative feelings."
+  ],
+  "situation": "Reflecting on a work-related case and the response of a businessman involved.",
+  "auto_thought": "He's just like the others—he doesn't care about fairness and will do whatever benefits him. No matter what I do, people in power always ignore what's right.",
+  "emotion": [
+    "frustrated",
+    "resentful",
+    "disappointed",
+    "angry",
+    "helpless"
+  ],
+  "behavior": "I withdraw from engaging further with the case. I avoid reaching out to the businessman or discussing the issue directly. I ruminate about past unfair situations and talk to colleagues to check if they see it the same way."
+}

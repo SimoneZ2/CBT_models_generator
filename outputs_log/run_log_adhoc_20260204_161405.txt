@@ -1,0 +1,71 @@
+Using description: HISTORY:
+- Complex relationship history involving a person named Cricket that affected the patient's social circle.
+- The patient often takes a caretaking role with friends, including a friend named Lucy with ongoing medical issues.
+
+SITUATION:
+- Running late for appointments and social gatherings, including therapy and lunches with friends. with ID=41-1
+Sample results (metadata similarity):
+  - sim=0.130 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.133 | title='Verilogue session: Client's insomnia seems to be causing mood swings' | file='1001280398.txt'
+  - sim=0.138 | title='Verilogue session: Client appears to be in a manic upswing and is very anxious a' | file='1001083971.txt'
+  - sim=0.139 | title='Verilogue session: Client notices an improvement more so in his behavior rather ' | file='1003075059.txt'
+  - sim=0.147 | title='This is an EMDR session with a 45-year-old woman whose son, George, was killed i' | file='1000606010.txt'
+  - sim=0.148 | title='Session 1: Client discusses her eating disorder of over-exercising and obsessing' | file='1000094808.txt'
+  - sim=0.158 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.159 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.159 | title='Patient "M" Session March 23, 2012: Client wants to try and be more attentive to' | file='1004528629.txt'
+  - sim=0.164 | title='Verilogue session: Client is suffering from depression; her current antidepressa' | file='1001083929.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.130 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.133 | file='1001280398.txt' | title='Verilogue session: Client's insomnia seems to be causing mood swings'
+  - sim=0.138 | file='1001083971.txt' | title='Verilogue session: Client appears to be in a manic upswing and is very anxious a'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a complex relationship history involving a person named Cricket, often finds themselves in a caretaking role, particularly with friends like Lucy, who has ongoing medical issues. This pattern of caretaking may contribute to their tendency to run late for appointments and social gatherings, including therapy sessions and lunches with friends. During the session, the client expressed a sense of accomplishment and satisfaction in their academic pursuits, particularly in mathematics. They described how working out at the gym helped clear their mind, allowing them to solve complex problems, saying, "being on the bike and lifting weights somehow cleared my mind." This highlights a coping strategy where physical activity aids in cognitive processing.
+
+The client also discussed their experience with teaching and tutoring, noting the challenges and rewards of explaining complex mathematical concepts. They shared a moment of pride when they realized they could teach material that others struggled with, stating, "I could honestly, genuinely teach the material." This reflects a positive shift in their self-perception and confidence in their abilities. However, the client also expressed frustration with the expectation of conciseness in mathematical proofs, feeling that it "leaves me a little cold" because it doesn't capture the full process of their thinking. This suggests a tension between their desire for thoroughness and the academic demand for brevity.
+
+Throughout the session, the client frequently returned to the theme of learning and understanding complex concepts, both in mathematics and in life. They described the process of grappling with new mathematical symbols and concepts as initially "infuriating," yet ultimately rewarding when they achieve understanding. This mirrors their broader life experience of feeling like they are "fumbling for the light switch" in a dark room, a metaphor they have used before to describe their journey of self-discovery and learning.
+
+The client also reflected on the nature of knowledge and understanding, comparing the certainty of mathematical truths to the more subjective and contentious nature of philosophical and psychological theories. They expressed a sense of relief in the objectivity of mathematics, noting that "people don't get angry about math," which contrasts with the often contentious debates in other fields. This appreciation for the clarity and universality of mathematics may provide a sense of stability and control in their life.
+
+As the session concluded, the client acknowledged the importance of integrating different ways of thinking and learning, recognizing that their diverse experiences and interests contribute to their unique perspective. They expressed a sense of intrigue and satisfaction in finding commonalities across cultures and languages through the universal language of mathematics, stating, "there is this common thing that is also universal." This reflects a broader theme of seeking connection and understanding in a complex world.
+
+Overall, the session highlighted the client's ongoing journey of learning and self-discovery, as they navigate the challenges and rewards of intellectual pursuits while managing their interpersonal relationships and responsibilities.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a complex relationship history involving a person named Cricket and often takes a caretaking role with friends, particularly with Lucy who has ongoing medical issues. They find satisfaction in academic pursuits, especially in mathematics, and use physical activity as a coping strategy to aid cognitive processing. They have experience in teaching and tutoring, which has boosted their confidence, but also feel frustrated by the expectation of conciseness in academic work. They appreciate the objectivity of mathematics as a source of stability.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not there for my friends, then I am not a good friend and they won't value me.",
+  "intermediate_belief_depression": "If I can't manage my time and responsibilities, then I am failing in my roles.",
+  "coping_strategies": [
+    "The client uses physical activity to clear their mind and aid in cognitive processing. They also engage in teaching and tutoring, which boosts their confidence. However, they often take on a caretaking role with friends, which may contribute to their tendency to run late."
+  ],
+  "situation": "Running late for appointments and social gatherings, including therapy and lunches with friends.",
+  "auto_thought": "I'm letting everyone down by being late again.",
+  "emotion": [
+    "anxious",
+    "guilty",
+    "frustrated"
+  ],
+  "behavior": "The client rushes to get ready and leaves in a hurry, often feeling flustered and stressed."
+}

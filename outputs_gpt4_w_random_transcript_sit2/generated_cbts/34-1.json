@@ -1,0 +1,23 @@
+{
+  "name": "John Doe",
+  "id": "12345",
+  "type": [
+    "CBT"
+  ],
+  "history": "Brother died by suicide when the patient was young. Ongoing family conflict about discussing the loss. Parents initially did not allow the patient to seek talk therapy after the death.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must find a solution to my health issues to feel in control.",
+  "intermediate_belief_depression": "I am unable to find relief from my health problems.",
+  "coping_strategies": "Seeking multiple medical opinions and treatments to address health concerns.",
+  "situation": "Realizing that the brother's birthday is approaching.",
+  "auto_thought": "I need to get to the bottom of my health issues.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Frequent visits to doctors and seeking medical tests."
+}

@@ -1,0 +1,52 @@
+{
+  "name": "CBT Cognitive Conceptualization for Patient (Caretaking/Relationship Patterns)",
+  "id": "41-2",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The patient has a history of complex relationships, especially involving a person named Cricket, which has affected their social circle. They frequently assume a caretaking role with friends, notably with Lucy, who has ongoing medical issues. This pattern suggests a longstanding sense of responsibility for others' well-being and difficulty setting boundaries, as implied by their tendency to prioritize others' needs and fear of disappointing them.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not always available and supportive, others will be upset with me and I will lose their approval. I must put others' needs before my own to maintain relationships. If I disappoint people, it means I am failing as a friend.",
+  "intermediate_belief_depression": "If I can't keep up with everyone's expectations, it proves I'm not good enough and I don't deserve to be included. No matter how hard I try, I will always fall short and let people down.",
+  "coping_strategies": "The patient often prioritizes caretaking and reassurance-seeking to maintain harmony and avoid conflict. When feeling inadequate or overwhelmed, they may withdraw, avoid confrontation, or become apologetic and over-explain their actions to mitigate perceived disapproval.",
+  "situation": "Friends are gathered outside the residence waiting while the patient is running late after work.",
+  "auto_thought": "I'm letting everyone down by being late. They're probably annoyed with me and think I don't care about them.",
+  "emotion": [
+    "anxious",
+    "guilty",
+    "worried",
+    "overwhelmed",
+    "ashamed"
+  ],
+  "behavior": "Rushes to get home as quickly as possible. Sends apologetic messages or over-explains the reason for being late. Avoids making eye contact or withdraws from the group upon arrival.",
+  "rationale": "\"The patient likely experiences a strong sense of responsibility towards others, as evidenced by their caretaking role with friends... The situation of friends waiting outside while the patient was late may trigger thoughts of inadequacy or fear of disappointing others, reinforcing a cycle of self-criticism and worry.\" \"The patient likely experiences a range of emotions, including anxiety, guilt, and a sense of being overwhelmed... The lateness incident may have intensified feelings of guilt and worry about how others perceive them.\" \"The patient likely engages in behaviors aimed at maintaining harmony and avoiding conflict, such as prioritizing others' needs over their own and seeking reassurance from friends. In situations where they feel they have disappointed others, the patient may withdraw or avoid confrontation, fearing negative judgment or rejection.\"",
+  "core_belief_predictions": {
+    "source_id": "41-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am incompetent",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

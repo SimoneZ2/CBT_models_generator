@@ -1,0 +1,26 @@
+{
+  "name": "John Doe",
+  "id": "JD123",
+  "type": [
+    "CBT"
+  ],
+  "history": "History of substance abuse and completed rehabilitation. Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect. Longstanding obesity since childhood. Past experiences of bullying related to weight.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't attend the wedding, my family will think less of me.",
+  "intermediate_belief_depression": "I can't handle social situations; they will only lead to disappointment.",
+  "coping_strategies": "Avoidance of social situations to prevent potential rejection.",
+  "situation": "Received an invitation to a cousin's upcoming wedding. Has not responded to the RSVP request and has not answered follow-up calls from family members.",
+  "auto_thought": "If I go to the wedding, everyone will judge me for my weight and past.",
+  "emotion": [
+    "Anxiety",
+    "Shame"
+  ],
+  "behavior": "Avoidance of the wedding invitation and family calls."
+}

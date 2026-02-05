@@ -1,0 +1,31 @@
+{
+  "name": "Patient A",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Brother died by suicide when the patient was young. Ongoing family conflict about discussing the loss. Parents initially did not allow the patient to seek talk therapy after the death.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must keep my emotions to myself to avoid conflict.",
+  "intermediate_belief_depression": "I can't change the past, so there's no point in trying to feel better.",
+  "coping_strategies": "Avoid discussing emotions and focus on taking care of others.",
+  "situation": "Realizing that the brother's birthday is approaching.",
+  "auto_thought": "I can't handle this; it's too overwhelming.",
+  "emotion": [
+    "Sadness",
+    "Anxiety"
+  ],
+  "behavior": "Withdraw from social interactions and avoid talking about the brother.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

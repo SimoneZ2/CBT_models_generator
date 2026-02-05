@@ -1,0 +1,24 @@
+{
+  "name": "Patient Name",
+  "id": "Patient ID",
+  "type": [
+    "CBT",
+    "Psychotherapy"
+  ],
+  "history": "Recent deaths in the family: an uncle and a cousin. Ongoing concern about parents' health. Father's health conditions include uncontrolled diabetes, high blood pressure, kidney problems, and high cholesterol. Tension with father related to emotional distance and lack of transparency about health issues.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be in control to feel safe.",
+  "intermediate_belief_depression": "If I can't control my environment, I will feel overwhelmed.",
+  "coping_strategies": "Attempts to stay busy and avoid boredom to manage feelings of irritability and anxiety.",
+  "situation": "Received a phone call from the mother regarding the father's health. Watched television afterward.",
+  "auto_thought": "I can't handle this situation; I need to do something to feel in control.",
+  "emotion": [
+    "Irritability",
+    "Anxiety"
+  ],
+  "behavior": "Staying busy, difficulty sitting still, biting nails."
+}

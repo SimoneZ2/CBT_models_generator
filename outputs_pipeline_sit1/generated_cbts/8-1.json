@@ -1,0 +1,53 @@
+{
+  "name": "Client with trauma history and relationship trust issues",
+  "id": "8-1",
+  "type": [
+    "CBT",
+    "Trauma",
+    "Relationship"
+  ],
+  "history": "The client experienced a traumatic sexual assault by her partner, Ivan, which has led to ongoing difficulties with trust and intimacy in their relationship. She reports that Ivan is making efforts to rebuild trust, and there has been some improvement in their dynamic. The resumption of physical intimacy is occurring in the context of this complex history, and the client is likely to experience a mix of hope and skepticism about these changes.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let myself be physically intimate again, I might get hurt or betrayed, because I can't fully trust Ivan yet. I need to be constantly on guard to protect myself from being vulnerable. If I let my guard down, something bad could happen again.",
+  "intermediate_belief_depression": "If I try to trust and things go wrong again, it will prove that I can't ever be safe or happy in this relationship. No matter what I do, I can't escape feeling anxious and doubtful about intimacy.",
+  "coping_strategies": "The client tends to avoid or withdraw from physical intimacy when feeling anxious or unsafe. She may seek reassurance from Ivan or test boundaries to monitor his trustworthiness. At times, she may emotionally numb herself or oscillate between open communication and withdrawal, depending on her emotional state.",
+  "situation": "Physical intimacy is resuming in the relationship.",
+  "auto_thought": "What if Ivan hurts me again? I can't be sure he's really changed.",
+  "emotion": [
+    "anxious",
+    "fearful",
+    "vulnerable",
+    "hopeful",
+    "doubtful"
+  ],
+  "behavior": "She hesitates or pulls away during intimate moments. She may ask Ivan for reassurance or closely watch his reactions. Sometimes she emotionally distances herself to cope with the anxiety.",
+  "rationale": "\"The resumption of physical intimacy may trigger these emotions, leading to heightened anxiety or fear.\" \"She may experience intrusive thoughts related to the assault, which could manifest as flashbacks or heightened vigilance during intimate moments.\" \"Trust issues may lead to cognitive distortions, such as catastrophizing or overgeneralizing, where the patient might anticipate negative outcomes based on past experiences.\" \"Behaviorally, the patient might exhibit avoidance of situations that trigger memories of the trauma, such as certain forms of physical intimacy.\" \"The patient might also engage in reassurance-seeking behaviors, looking for validation from Ivan to confirm his commitment to change.\"",
+  "core_belief_predictions": {
+    "source_id": "8-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

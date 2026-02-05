@@ -1,0 +1,82 @@
+Using description: HISTORY:
+- PhD candidate engaged in scientific research.
+- References to a sequencing-related study and a colleague named Kelly.
+- Working on a project with a senior scientist who has struggled to gain recognition in his career.
+
+SITUATION:
+- Comparing themselves to colleagues who work longer hours and publish more papers. with ID=3-2
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.446 | title='Session 6: Client does not want to be at this session; he does not feel much lik' | file='1000134003.txt'
+  - sim=0.440 | title='Session 1: Client was originally concerned when he discovered that his therapist' | file='1000122132.txt'
+  - sim=0.424 | title='Patient "Ma", Session August 08, 2012: Client is just realizing how internally f' | file='1004687746.txt'
+  - sim=0.412 | title='Patient "B", Session July 26, 2012: Client has had a stressful day at work and d' | file='1004687558.txt'
+  - sim=0.406 | title='Session 25: Client is very defensive towards her assistant at work, she feels th' | file='1000329602.txt'
+  - sim=0.403 | title='Patient "B", Session March 14, 2012: Client just had a birthday and feels hurt t' | file='1004522796.txt'
+  - sim=0.399 | title='Patient "Ju", Session March 19, 2012: Client has been feeling anxious after talk' | file='1004522812.txt'
+  - sim=0.396 | title='Patient "Ju", Session October 24, 2012: Client is trying to like work, but she's' | file='1004798861.txt'
+  - sim=0.393 | title='Session 317: Client realizes that she needs to accept that she is a female' | file='1000393736.txt'
+  - sim=0.393 | title='Patient "B", Session February 23, 2012: Client talks about a recent job intervie' | file='1004503116.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=0 partial_match=10
+match_used=PARTIAL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.446 | file='1000134003.txt' | title='Session 6: Client does not want to be at this session; he does not feel much lik'
+  - sim=0.440 | file='1000122132.txt' | title='Session 1: Client was originally concerned when he discovered that his therapist'
+  - sim=0.424 | file='1004687746.txt' | title='Patient "Ma", Session August 08, 2012: Client is just realizing how internally f'
+Using top selected file for transcript: '1000134003.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient is a PhD candidate actively engaged in scientific research, specifically in a sequencing-related study. They are collaborating with a senior scientist who has faced challenges in gaining recognition throughout his career. The patient frequently compares themselves to colleagues who work longer hours and have a higher publication rate.
+
+**Emotional Experience:**
+The patient likely experiences a range of emotions tied to their academic and professional environment. Given the competitive nature of their field, feelings of inadequacy and self-doubt may arise, particularly when comparing themselves to peers who appear more productive. This comparison could lead to emotions such as anxiety, worry, and tension, as the patient might feel pressured to meet or exceed the achievements of their colleagues.
+
+**Cognitive Patterns:**
+The patient may engage in cognitive distortions such as "all-or-nothing" thinking and overgeneralization. For instance, they might perceive their worth solely based on their productivity and publication record, leading to a skewed self-assessment. This cognitive pattern can result in a persistent internal narrative of not being "good enough," which can exacerbate feelings of inadequacy.
+
+**Behavioral Responses:**
+In response to these cognitive and emotional experiences, the patient might exhibit behaviors such as overworking or procrastinating. The pressure to keep up with colleagues could lead them to extend their work hours, potentially at the expense of their well-being. Alternatively, the overwhelming nature of these comparisons might cause them to procrastinate, avoiding tasks due to fear of failure or not meeting high standards.
+
+**Coping Styles:**
+The patient may rely on maladaptive coping mechanisms such as avoidance or seeking reassurance. Avoidance might manifest as steering clear of situations where they feel they might be judged or compared unfavorably. Seeking reassurance could involve frequently consulting with peers or mentors to validate their worth and capabilities.
+
+**Psychological Interpretation:**
+Drawing from the transcript, it is evident that individuals in competitive environments often experience vocational anxiety and feelings of rivalry. The patient might similarly feel threatened by peers who seem to excel effortlessly, which can lead to a sense of rivalry or resentment. This dynamic can be both threatening and motivating, as it may push the patient to strive for improvement while simultaneously causing distress.
+
+**Conclusion:**
+The patient's academic and professional context likely contributes to a complex interplay of emotions, thoughts, and behaviors. By recognizing these patterns, therapeutic interventions can focus on restructuring cognitive distortions, developing healthier coping strategies, and fostering a more balanced self-assessment. Encouraging the patient to set realistic goals and appreciate their unique contributions to their field may alleviate some of the pressure they experience.
+Summary da mistral_.csv: In this session, the patient expressed feeling uncertain about the direction of therapy and shared that they hadn't prepared for the session as they had a busy day. They mentioned having a new colleague who is younger and hired to do the same job, causing feelings of anxiety and insecurity. The patient discussed their past experiences of not having to produce business in previous roles and how this new situation required them to do so. They also shared their feelings of rivalry and dislike towards the new colleague, who is an Annapolis graduate. The patient acknowledged their own feelings of insecurity and the need to size up the new colleague. The counselor suggested that the patient's behavior towards the new colleague might be a cover for anxiety.
+The patient discusses their negative feelings towards a colleague, whom they view as successful but closed-off and unappealing. They admit to unfairly judging the colleague and feeling contempt towards their lifestyle, which they perceive as shallow and unfulfilling. The patient expresses a desire for a more meaningful and superior way of living, and feels resentment towards those who can easily conform to societal expectations and achieve financial success. They compare this colleague to a roommate they couldn't stand.
+
+ REFINED CCD: description + report
+{
+  "history": "The client is a PhD candidate engaged in scientific research, working on a sequencing-related study. They collaborate with a senior scientist who has struggled to gain recognition, which may reinforce concerns about achievement and status. The client frequently compares themselves to colleagues who work longer hours and publish more, suggesting a longstanding pattern of self-evaluation based on external metrics. The competitive academic environment and exposure to others' successes contribute to ongoing self-doubt and pressure.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't work as hard or publish as much as my colleagues, then I am falling behind and won't be respected in my field. My worth as a researcher depends on matching or exceeding the productivity of those around me. I must constantly prove myself to avoid being seen as a failure.",
+  "intermediate_belief_depression": "If I can't keep up with my colleagues, it means I'm a failure and will never succeed, so there's no point in trying because I'll always fall short.",
+  "coping_strategies": [
+    "The client tends to overwork in an attempt to match or surpass colleagues, sometimes at the expense of their well-being. They may also procrastinate or avoid tasks when feeling overwhelmed by comparison, and occasionally seek reassurance from peers or mentors to validate their worth."
+  ],
+  "situation": "Comparing themselves to colleagues who work longer hours and publish more papers.",
+  "auto_thought": "I'm not doing enough compared to everyone else. If I don't catch up, I'll never be successful in this field.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "inadequate",
+    "self-doubting"
+  ],
+  "behavior": "I stay late in the lab trying to get more done, even when I'm exhausted. Sometimes I avoid starting new tasks because I'm afraid I won't measure up. I check in with colleagues or mentors to see if I'm on the right track."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Unnamed Client",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Financial difficulties following questionable investments. Increased reliance on parents for financial assistance.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must be in control to feel secure.",
+  "intermediate_belief_depression": "If I can't control my environment, I will be overwhelmed.",
+  "coping_strategies": "Avoidance of situations where control is lost, such as drinking events.",
+  "situation": "A discussion with family members about future plans and potential career changes.",
+  "auto_thought": "I can't handle this situation; I feel trapped.",
+  "emotion": [
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Avoidance of confronting issues directly, reliance on dreams to process emotions."
+}

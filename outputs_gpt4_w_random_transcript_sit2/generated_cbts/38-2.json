@@ -1,0 +1,28 @@
+{
+  "name": "Patient",
+  "id": "PV011105",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Health condition requiring time off work for physical therapy. Past interactions with HR and a supervisor related to return-to-work and disability status.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to hold onto things to be successful.",
+  "intermediate_belief_depression": "I can't handle my feelings on my own.",
+  "coping_strategies": "Holding onto items and memories as a way to feel prepared and competent.",
+  "situation": "Running into a coworker outside the workplace while on medical leave.",
+  "auto_thought": "I should be able to do more and be more organized.",
+  "emotion": [
+    "Depression",
+    "Frustration",
+    "Self-consciousness"
+  ],
+  "behavior": "Avoiding tasks due to fear of inadequacy and holding onto items unnecessarily."
+}

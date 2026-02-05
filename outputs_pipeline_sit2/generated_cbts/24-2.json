@@ -1,0 +1,59 @@
+{
+  "name": "CBT Cognitive Conceptualization for Financial Avoidance and Social Facade",
+  "id": "24-2",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a longstanding pattern of feeling pressured to perform well and to manage social interactions successfully. They report consistently presenting a confident front and hiding their vulnerabilities, which suggests a learned strategy to avoid negative evaluation. A recent business failure has resulted in significant financial hardship, intensifying their stress. Instead of seeking support from family or friends, the client chose to take out a loan, indicating a preference for self-reliance and avoidance of perceived weakness. In social situations, the client actively diverts attention from their financial struggles, reinforcing their pattern of concealment.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I show any sign of vulnerability or ask for help, others will judge me as weak or incapable, so I must handle everything on my own to maintain respect. Admitting financial difficulty would mean I have failed, and I cannot let others see that side of me. It's safer to keep my struggles hidden and maintain a confident appearance, even if it feels isolating.",
+  "intermediate_belief_depression": "If I can't solve my problems alone, it means I'm fundamentally inadequate and things will never get better. There's no point in reaching out because it will only confirm that I'm a failure in others' eyes.",
+  "coping_strategies": "The client avoids disclosing their financial difficulties to family and friends, instead opting for self-reliant solutions such as taking out a loan. In social situations, they distract attention away from their struggles, maintaining a confident facade. These strategies temporarily reduce anxiety but reinforce isolation and prevent the client from accessing support.",
+  "situation": "Took out a loan instead of asking family or friends for help. In social situations, acts to distract attention from financial difficulties.",
+  "auto_thought": "If I tell anyone about my financial problems, they'll think less of me. I have to handle this myself or everyone will see I'm a failure.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "embarrassed",
+    "lonely",
+    "tense",
+    "disappointed"
+  ],
+  "behavior": "Avoids discussing financial issues with family or friends. Takes out a loan instead of seeking help. In social settings, changes the subject or steers conversations away from anything related to finances.",
+  "rationale": "The report notes the client 'presents a confident front while concealing their vulnerabilities' and 'actively diverts attention away from their financial difficulties.' The decision to take out a loan 'instead of seeking assistance from family or friends' suggests avoidance and self-reliance. Emotional reactions include 'feelings of disappointment, shame, and anxiety,' and the client may feel 'unable to share their true emotional state with others,' leading to 'feelings of loneliness and isolation.' The coping style is described as 'self-reliance and avoidance,' and the report highlights the client's fear of 'judgment or rejection' if vulnerabilities are revealed.",
+  "core_belief_predictions": {
+    "source_id": "24-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable",
+      "worthless"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am bound to be rejected",
+      "I am defective",
+      "I am helpless",
+      "I am incompetent",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable",
+      "I am worthless, waste"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

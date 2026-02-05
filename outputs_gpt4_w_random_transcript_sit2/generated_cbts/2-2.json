@@ -1,0 +1,27 @@
+{
+  "name": "John Doe",
+  "id": "1004798725",
+  "type": [
+    "CBT"
+  ],
+  "history": "Recent family tension related to a conversation with parents about a wedding list. The patient noticed similarities between their own actions and their father's patterns. The father is described as repeatedly seeking approval and unconditional love from family members.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must not show weakness or incompetence.",
+  "intermediate_belief_depression": "If I can't handle things perfectly, I am a failure.",
+  "coping_strategies": "Overworking and avoiding asking for help to prove competence.",
+  "situation": "Observing the father's ongoing pursuit of approval from his sister.",
+  "auto_thought": "I feel stupid and incompetent when I don't know how to do something.",
+  "emotion": [
+    "Frustration",
+    "Embarrassment",
+    "Anxiety"
+  ],
+  "behavior": "Avoids asking for help and overworks to compensate for perceived incompetence."
+}

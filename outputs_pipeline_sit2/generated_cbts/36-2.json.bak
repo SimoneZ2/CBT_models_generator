@@ -1,0 +1,33 @@
+{
+  "name": "Convention Stress Case",
+  "id": "case_001",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client has been experiencing ongoing stress due to financial difficulties and unstable relationships. They have a heavy workload, worsened by technical issues and the need to cover for an absent coworker. Friends frequently reach out in crisis, placing additional emotional demands on the client. The client is considering asking their parents for financial help to pay for therapy, which coincides with their upcoming birthday. They are also anticipating both a convention and a visit with their parents, adding to their stress.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't handle everything on my own, others will see me as weak or incapable. I have to manage my own problems, or people will think less of me. If I ask for help or show my stress, I risk being rejected or judged.",
+  "intermediate_belief_depression": "If I can't keep up with all these demands, it means I'm failing and things will never improve. There's no point in trying because nothing I do makes a difference.",
+  "coping_strategies": "The client tends to withdraw from social interactions or avoid addressing stressful issues directly, such as delaying conversations about finances. They distract themselves with social media or other activities at the convention to escape overwhelming emotions. They may also seek reassurance from friends or family when feeling uncertain.",
+  "situation": "At a convention, interacting with demanding friends while managing personal stress.",
+  "auto_thought": "I can't keep up with what everyone wants from me. If I let them down or show how stressed I am, they'll think I'm weak or a burden.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "tense",
+    "ashamed",
+    "worried"
+  ],
+  "behavior": "I withdraw from conversations or avoid my friends at the convention. I scroll through my phone or distract myself instead of engaging. I hesitate to ask for help or share how I'm feeling.",
+  "rationale": "\"The patient may engage in ruminative thinking, particularly concerning their financial situation and relationship dynamics.\" \"The patient might withdraw from social interactions or avoid addressing financial issues directly.\" \"The anticipation of asking their parents for financial help may evoke feelings of shame or embarrassment.\" \"At the convention, the patient might find themselves scrolling through social media or engaging in other forms of distraction to cope with the demands of their friends and personal stress.\""
+}

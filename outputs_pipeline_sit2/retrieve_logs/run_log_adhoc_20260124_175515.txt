@@ -1,0 +1,90 @@
+Using description: HISTORY:
+- Recent divorce and financial difficulties.
+- Relationship since age 19.
+- Has a young son and unresolved child support issues.
+- Adjusting to new experiences such as traveling alone and visiting family without a partner.
+- Friends have distanced themselves after the separation.
+
+SITUATION:
+- Received an email from the ex-partner refusing to agree on child support and other financial matters. with ID=27-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.530 | title='Patient "S", Session September 10, 2012: Client still finds it hard to not be wo' | file='1004699977.txt'
+  - sim=0.521 | title='BJ - Amy 3-01 Session' | file='1000094811.txt'
+  - sim=0.510 | title='Patient "S", Session November 02, 2012: Client is angry with the way her ex-boyf' | file='1004824719.txt'
+  - sim=0.508 | title='Patient "J", Session May 29, 2012: Client is stressed about his finances and fru' | file='1004564941.txt'
+  - sim=0.494 | title='Patient "M", Session October 02, 2012: Client fears that she is being stalked by' | file='1004798771.txt'
+  - sim=0.484 | title='Patient "S" Session March 13, 2012: Client recently had a frustrating conversati' | file='1004522836.txt'
+  - sim=0.484 | title='Patient "S", Session October 12, 2012: Client is ambivalent about getting back t' | file='1004798885.txt'
+  - sim=0.482 | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father ' | file='1004472411.txt'
+  - sim=0.481 | title='Volume no. 34: Rational Emotive Therapy #1: Client is confused about where her r' | file='1000916326.txt'
+  - sim=0.476 | title='Patient "M" Therapy Session Audio Recording, January 2, 2012: Client would like ' | file='1004472419.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=0 partial_match=10
+match_used=PARTIAL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.530 | file='1004699977.txt' | title='Patient "S", Session September 10, 2012: Client still finds it hard to not be wo'
+  - sim=0.521 | file='1000094811.txt' | title='BJ - Amy 3-01 Session'
+  - sim=0.510 | file='1004824719.txt' | title='Patient "S", Session November 02, 2012: Client is angry with the way her ex-boyf'
+Using top selected file for transcript: '1004699977.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is a recently divorced individual who has been in a long-term relationship since the age of 19. They are currently facing financial difficulties and unresolved child support issues concerning their young son. The patient is adjusting to new experiences, such as traveling alone and visiting family without a partner. Additionally, they are experiencing social isolation, as friends have distanced themselves following the separation. Recently, the patient received an email from their ex-partner refusing to agree on child support and other financial matters.
+
+**Emotional Impact:**
+The patient is likely experiencing a range of emotions due to the recent divorce and associated challenges. The financial difficulties and unresolved child support issues may lead to feelings of anxiety, worry, and stress. The loss of a long-term relationship and the distancing of friends could contribute to feelings of sadness, loneliness, and isolation. The refusal of the ex-partner to agree on financial matters may evoke feelings of frustration, anger, and helplessness.
+
+**Cognitive Patterns:**
+The patient may be engaging in negative thought patterns, such as ruminating on the financial and relational difficulties they are facing. They might also experience cognitive distortions, such as catastrophizing the potential outcomes of the unresolved child support issues or personalizing the distancing behavior of friends as a reflection of their own worth. These cognitive tendencies can exacerbate feelings of anxiety and depression.
+
+**Behavioral Responses:**
+In response to the stressors, the patient may exhibit avoidance behaviors, such as procrastinating on addressing financial issues or withdrawing from social interactions due to feelings of embarrassment or shame. They might also seek reassurance from family or remaining friends to cope with the uncertainty and emotional distress. The adjustment to traveling alone and visiting family without a partner may lead to increased self-reliance, but also potential avoidance of situations that highlight their current single status.
+
+**Coping Styles:**
+The patient may be relying on maladaptive coping mechanisms, such as avoidance or withdrawal, to manage their emotional distress. However, they might also be attempting to engage in more adaptive strategies, such as seeking support from family or trying to adjust to new experiences independently. The patient's ability to navigate these new experiences could be hindered by the emotional burden of the unresolved issues with their ex-partner.
+
+**Therapeutic Focus:**
+In therapy, it would be beneficial to focus on identifying and challenging the patient's negative thought patterns and cognitive distortions. Encouraging the development of more adaptive coping strategies, such as problem-solving and assertive communication, could help the patient manage their financial and relational challenges more effectively. Additionally, exploring ways to rebuild social connections and enhance self-reliance in new situations may support the patient's emotional adjustment and overall well-being.
+
+**Conclusion:**
+The patient's recent life changes and ongoing challenges are likely contributing to significant emotional distress. By addressing cognitive patterns, enhancing coping strategies, and fostering social support, the patient can work towards improving their emotional resilience and navigating their current circumstances more effectively.
+Summary da mistral_.csv: The client discussed helping her ex-partner move out and feeling taken advantage of for her efforts. She mentioned her friends' concerns about her actions and her mother's criticism. The client described organizing her ex-partner's belongings and feeling obstructed in taking time for herself. She shared her ex-partner's behavior, including his self-serving attitude and guilt-tripping her. The client mentioned a conversation with a friend who advised her to limit communication with her ex-partner and focus on her own needs.
+The client discussed her feelings of sadness about ending her relationship with her boyfriend, who she had pictured marrying and starting a family with. She listed the things he offered her as a partner, but felt these did not outweigh the negative aspects of the relationship. She mentioned his infidelity and his walking in the wrong direction during a car ride, which caused frustration and irritation. The client also expressed her desire for a partner who takes responsibility and is appreciative of her efforts. The therapist acknowledged the client's dilemma of setting limits and then continuing to put up with her boyfriend's behavior, and suggested that this was a significant issue for her to address.
+The client expresses her ambivalent feelings about continuing a relationship with her partner, acknowledging the relief she feels from not having to explain certain issues but also the fear and intimidation she experiences during their conversations. The therapist points out the client's pattern of avoiding confrontation and maintaining the fantasy of a potential resolution in the relationship. The client discusses her plans to focus on herself and her personal growth, including starting a new class, and her decision to end the relationship.
+
+ REFINED CCD: description + report
+{
+  "history": "The client recently ended a long-term relationship that began at age 19 and is now facing significant financial difficulties, including unresolved child support issues for their young son. They are adjusting to new experiences such as traveling alone and visiting family without a partner, which is a major change from their previous life. Socially, they feel isolated as friends have distanced themselves after the separation. These changes have led to increased emotional distress and difficulty coping with daily challenges.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't resolve these financial and child support issues, it means I am failing as a parent and as a person. If others see me struggling, they will think less of me and distance themselves. I must handle everything perfectly or it will prove I am not capable or worthy.",
+  "intermediate_belief_depression": "If I can't fix these problems, it means my life will always be this difficult and lonely. There's no point in trying because nothing I do seems to help, and things will only get worse.",
+  "coping_strategies": [
+    "The client tends to avoid addressing financial and legal issues directly, sometimes procrastinating or withdrawing from communication with the ex-partner. They withdraw socially, avoiding friends and family out of embarrassment or shame, and may ruminate on their difficulties instead of seeking active solutions."
+  ],
+  "situation": "Received an email from the ex-partner refusing to agree on child support and other financial matters.",
+  "auto_thought": "I can't believe this is happening again—I'm never going to get this sorted out. I'm failing my son and myself.",
+  "emotion": [
+    "anxious",
+    "frustrated",
+    "helpless",
+    "ashamed",
+    "sad",
+    "overwhelmed"
+  ],
+  "behavior": "I avoid replying to the email right away. I withdraw from others, spending time alone and ruminating about what went wrong. I put off dealing with the financial paperwork."
+}

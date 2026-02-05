@@ -1,0 +1,27 @@
+{
+  "name": "Patient 16",
+  "id": "16",
+  "type": [
+    "procrastination",
+    "anxiety"
+  ],
+  "history": "Spent one year working on European project involving website and interviews. Pride in work but history of procrastination and anxiety. Uses strategies from course.",
+  "helpless_belief": [
+    "I am incompetent"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I always wait until the last minute and then panic.",
+  "intermediate_belief_depression": "Despite my efforts, I'm fundamentally disorganized and unreliable.",
+  "coping_strategies": [
+    "Using reminders, applying strategies from anxiety course."
+  ],
+  "situation": "Working on project close to deadline with portions needing posting online.",
+  "auto_thought": "I'm running out of time and won't finish properly.",
+  "emotion": [
+    "panic",
+    "anxiety",
+    "self-criticism"
+  ],
+  "behavior": "Work frantically as deadline approaches with incomplete posting."
+}

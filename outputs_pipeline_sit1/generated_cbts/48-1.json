@@ -1,0 +1,52 @@
+{
+  "name": "CBT Conceptualization for Client (Ivan Relationship)",
+  "id": "48-1",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client has been in a relationship with Ivan for about seven years and married for three. There have been repeated stressful periods, such as during academic finals and wedding preparations, where Ivan did not provide the support the client needed. Currently, the client faces financial pressures due to Ivan's part-time work, therapy costs, and dental treatment expenses. Ivan's ongoing neglect of responsibilities, particularly in contributing to expenses and completing administrative tasks, has been a persistent source of strain. The client may have developed patterns of rumination, self-doubt, and a tendency to take on more responsibilities to compensate for Ivan's lack of support.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't take care of everything myself, things will fall apart and no one else will step up. I have to handle all the responsibilities because I can't count on Ivan to contribute. If I express my needs or disappointment, I risk being ignored or causing conflict, so it's safer to just manage on my own.",
+  "intermediate_belief_depression": "If nothing changes, I'll always be stuck feeling alone and unsupported, no matter how hard I try. Even if I keep doing everything, it won't make a difference and I'll just end up exhausted and unhappy.",
+  "coping_strategies": "The client tends to take on extra responsibilities and avoids confronting Ivan directly about his neglect, possibly to prevent conflict or further disappointment. They may withdraw emotionally or distract themselves from the stress, but these strategies do not resolve the underlying issues. The client may also ruminate about their situation and seek reassurance from others, but continues to feel overwhelmed.",
+  "situation": "Partner neglects responsibilities such as contributing to expenses and completing administrative tasks.",
+  "auto_thought": "I can't believe I'm the only one who cares enough to handle these things. If I don't do it, everything will fall apart and Ivan won't even notice.",
+  "emotion": [
+    "frustrated",
+    "overwhelmed",
+    "lonely",
+    "disappointed",
+    "anxious"
+  ],
+  "behavior": "I take over the tasks myself, even when I'm exhausted. I avoid bringing up my frustration with Ivan and try to distract myself from how upset I feel.",
+  "rationale": "\"The lack of support from Ivan during critical periods such as academic finals and wedding preparations may have led to feelings of being overwhelmed, anxious, and unsupported.\" \"The neglect of responsibilities by Ivan might evoke emotions of frustration, disappointment, and loneliness, as the patient may feel isolated in managing these challenges.\" \"The patient might also avoid confronting Ivan about these issues, fearing conflict or further disappointment.\" \"The patient might exhibit behaviors such as withdrawing from social interactions, procrastinating on tasks due to feeling overwhelmed, or seeking reassurance from others about their decisions and worth.\"",
+  "core_belief_predictions": {
+    "source_id": "48-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

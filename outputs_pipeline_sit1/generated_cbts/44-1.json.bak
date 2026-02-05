@@ -1,0 +1,37 @@
+{
+  "name": "Holiday Loneliness Case",
+  "id": "case001",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client has a history of recurring conflicts and strained relationships, often marked by trust and boundary issues. Some relationships have involved alcoholism, which may have contributed to emotional distress and instability. There is a pattern of aggressive behavior, possibly as a defensive response to perceived threats or betrayals. These interpersonal difficulties have likely reinforced feelings of isolation and difficulty forming secure attachments.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I let people get close, they will eventually hurt or abandon me, so I must protect myself by keeping my guard up. If I am alone during important times, it means I am fundamentally flawed or unworthy of connection. I have to be vigilant because trusting others leads to disappointment.",
+  "intermediate_belief_depression": "If I am spending the holidays alone, it proves that I will always be alone and nothing will ever change for me. No matter what I do, I can't escape this loneliness, so there's no point in trying.",
+  "coping_strategies": "The client tends to withdraw and isolate to avoid potential conflict or emotional pain, especially during emotionally charged times like holidays. There is a pattern of ruminating on past relationship failures and perceived personal flaws, which intensifies feelings of sadness and loneliness. Aggressive or defensive behaviors may emerge when the client feels threatened or misunderstood, further straining relationships.",
+  "situation": "Spending holidays alone and reflecting on feelings of sadness and loneliness.",
+  "auto_thought": "I'm alone again during the holidays—no one wants to be with me. This just proves that I'm not good enough for anyone.",
+  "emotion": [
+    "sad",
+    "lonely",
+    "hurt",
+    "disappointed",
+    "ashamed"
+  ],
+  "behavior": "The client withdraws from social opportunities and avoids reaching out to others. They spend the holidays in isolation, engaging in solitary activities and ruminating on their loneliness.",
+  "rationale": "\"Spending holidays alone likely intensifies feelings of sadness and loneliness, as the patient reflects on the absence of meaningful connections during a time typically associated with togetherness.\" \"The patient's reflection on loneliness during the holidays may involve cognitive distortions such as overgeneralization ('I am always alone') or personalization ('There must be something wrong with me if I am alone').\" \"Behaviorally, the patient may withdraw or avoid situations that could lead to conflict or emotional pain.\""
+}

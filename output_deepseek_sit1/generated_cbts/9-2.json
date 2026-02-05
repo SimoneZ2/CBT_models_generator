@@ -1,0 +1,27 @@
+{
+  "name": "Patient 9",
+  "id": "9",
+  "type": [
+    "caregiver stress",
+    "interpersonal conflict"
+  ],
+  "history": "Long-standing friendship with Jersey who has multiple surgeries. Patient has provided support during medical procedures. Ongoing conflict with roommate.",
+  "helpless_belief": [
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I have to be there for everyone else, even at my own expense.",
+  "intermediate_belief_depression": "My needs always come last because I'm the caretaker.",
+  "coping_strategies": [
+    "Caregiving for others, neglecting own needs, managing multiple responsibilities."
+  ],
+  "situation": "Thinking about Jersey's recovery while managing other personal responsibilities.",
+  "auto_thought": "I should be doing more for Jersey, but I'm overwhelmed with my own problems.",
+  "emotion": [
+    "guilt",
+    "obligation",
+    "resentment"
+  ],
+  "behavior": "Worry about friend's recovery while handling roommate conflicts."
+}

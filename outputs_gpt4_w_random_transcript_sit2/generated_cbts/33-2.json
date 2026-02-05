@@ -1,0 +1,27 @@
+{
+  "name": "Patient",
+  "id": "PV010768",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Involvement in a complex romantic situation with a person named Cleo. Cleo is in a long-distance relationship while also engaging with the patient.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't manage situations perfectly, I will be rejected.",
+  "intermediate_belief_depression": "I must understand and control my emotions to avoid feeling overwhelmed.",
+  "coping_strategies": "Avoidance and distraction by focusing on minor issues at home and school.",
+  "situation": "Saw concerning text messages from another person on Cleo's device.",
+  "auto_thought": "I feel nervous and unsure about my ability to handle situations.",
+  "emotion": [
+    "Nervous",
+    "Uncertain",
+    "Defensive"
+  ],
+  "behavior": "Avoids addressing the core issue by focusing on minor tasks and responsibilities."
+}

@@ -1,0 +1,76 @@
+Using description: HISTORY:
+- History of substance abuse and completed rehabilitation.
+- Ongoing family difficulties involving the relationship with his mother, described as rejection and emotional neglect.
+- Longstanding obesity since childhood.
+- Past experiences of bullying related to weight.
+
+SITUATION:
+- Received an invitation to a cousin's upcoming wedding.
+- Has not responded to the RSVP request and has not answered follow-up calls from family members. with ID=1-1
+Sample results (metadata similarity):
+  - sim=0.041 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.082 | title='Changing Timelines: How we represent events in time has a large impact on many o' | file='1000137961.txt'
+  - sim=0.083 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.084 | title='Patient "K", Session November 13, 2012: Client has been feeling depressed with a' | file='1004824685.txt'
+  - sim=0.093 | title='Aligning Perceptual Positions: The idea of stepping into someone else's experien' | file='1000259024.txt'
+  - sim=0.095 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+  - sim=0.100 | title='Client "S", Session September 21, 2012: Client is currently working towards his ' | file='1004824793.txt'
+  - sim=0.103 | title='Client "S", Session October 12, 2012: Client speaks extensively about his studie' | file='1004824797.txt'
+  - sim=0.106 | title='Session 71: Client feels uncomfortable and vulnerable while lying down in therap' | file='1000368484.txt'
+  - sim=0.106 | title='Patient "L", Session April 24, 2012: Client struggles with letting go of her nee' | file='1004538616.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2020 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.041 | file='1004798723.txt' | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to '
+  - sim=0.082 | file='1000137961.txt' | title='Changing Timelines: How we represent events in time has a large impact on many o'
+  - sim=0.083 | file='1004798727.txt' | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day'
+Using LEAST related file for transcript: '1004798723.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of substance abuse and has completed rehabilitation, is currently navigating ongoing family difficulties, particularly with his mother, which he describes as experiences of "rejection and emotional neglect." These familial tensions seem to echo in his professional life, where he grapples with a fear of criticism and humiliation. During the session, he reflects on his workday, noting that it "didn't suck today," primarily because he managed to stay off the Internet until after lunch. This represents a significant shift for him, as he typically struggles with compulsive Internet use, which he acknowledges by saying, "It's really ridiculous how much of an Internet junkie I am."
+
+The client describes his work environment as one where he juggles multiple tasks, such as updating blocks with new libraries and editing individual cells for timing errors. He admits to a pattern of "checking and double-checking" his work without implementing changes, driven by a fear of "breaking things." This hesitation is rooted in his anticipation of being "criticized and humiliated," a fear that seems to stem from past experiences of bullying related to his longstanding obesity. Despite recognizing that his changes are unlikely to cause significant issues, he remains "very hesitant" to submit them, indicating a pervasive anxiety about making mistakes.
+
+In the session, the client also discusses his coping strategies, such as questioning his need to open Firefox for personal use during work hours. He describes a moment of self-reflection, asking himself, "Do I really need this?" and often concluding that he does not, which allows him to refocus on his tasks. This strategy appears to be part of a broader effort to manage his compulsive behaviors and reduce his exposure to anger-inducing content, as he notes feeling "much less angry and crabby" on days when he avoids the Internet in the morning.
+
+The client's reluctance to respond to a cousin's wedding invitation and his avoidance of follow-up calls from family members may be linked to his fear of rejection and emotional neglect from his mother. This avoidance behavior mirrors his professional hesitance, suggesting a pattern of withdrawal in situations where he anticipates negative outcomes. The therapist gently probes this connection, suggesting that the client's fear of putting himself "out there" and being criticized may be a barrier to both personal and professional growth.
+
+Throughout the session, the client exhibits moments of self-awareness and humor, laughing at the therapist's comments and acknowledging the absurdity of his Internet habits. He also reflects on the impact of shifting his internal monologue from a restrictive "No, you're not allowed" to a more self-compassionate approach, which he finds less confrontational and more supportive. This shift seems to contribute to a sense of agency and self-care, as he recognizes the benefits of looking out for himself rather than engaging in a "fight" over his own behaviors.
+
+Overall, the client's narrative reveals a complex interplay between his past experiences, current anxieties, and coping strategies. His history of substance abuse, family difficulties, and bullying have shaped his cognitive patterns, leading to a heightened sensitivity to criticism and a tendency to avoid potentially negative situations. However, his efforts to manage his Internet use and his reflections on self-compassion indicate a growing awareness of his cognitive and behavioral patterns, suggesting potential pathways for therapeutic intervention and personal growth.
+Summary da mistral_.csv: In this therapy session chunk, the client discusses their work day, sharing that they were able to resist the urge to use the Internet before lunch, and instead focused on their tasks. They also shared their frustration with tool failures and their reluctance to submit changes due to fear of breaking things and being criticized. The client mentioned their resistance to the therapist's suggestion that they might be holding themselves back due to past experiences of criticism and humiliation. The client also shared that not checking the Internet in the morning improves their mood and reduces their anger and crabbiness.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of substance abuse and has completed rehabilitation. He is dealing with ongoing family difficulties, particularly with his mother, which he describes as experiences of rejection and emotional neglect. He has longstanding obesity since childhood and past experiences of bullying related to his weight.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I put myself out there, I will be criticized and humiliated, so I must avoid situations where this could happen.",
+  "intermediate_belief_depression": "If I try to connect with others, I will only face rejection and neglect, so it's better to stay away.",
+  "coping_strategies": [
+    "The client avoids responding to social invitations and follow-up calls, mirroring his professional hesitance. He questions his need to engage in compulsive behaviors, like Internet use, to manage distress."
+  ],
+  "situation": "Received an invitation to a cousin's upcoming wedding. Has not responded to the RSVP request and has not answered follow-up calls from family members.",
+  "auto_thought": "If I go to the wedding, I'll just be rejected and humiliated again.",
+  "emotion": [
+    "anxious",
+    "fearful",
+    "ashamed",
+    "worried"
+  ],
+  "behavior": "The client avoids responding to the RSVP and ignores follow-up calls from family members."
+}

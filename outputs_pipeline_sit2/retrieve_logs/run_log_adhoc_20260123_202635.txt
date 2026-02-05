@@ -1,0 +1,98 @@
+Using description: HISTORY:
+- In a relationship with Ivan for about seven years and married for three.
+- Stressful periods during academic finals and wedding preparation due to lack of support from Ivan.
+- Current financial pressure involving Ivan's part-time work, therapy costs, and dental treatment expenses.
+
+SITUATION:
+- Ivan's mother speaks to the patient in a critical manner. with ID=48-2
+Top results (by metadata similarity):
+  - sim=0.689 | title='Verilogue session: Client's mood has been down and depressed' | file='1003009224.txt'
+  - sim=0.678 | title='Verilogue session: Client has been getting so wrapped up in her family conflicts' | file='1001083917.txt'
+  - sim=0.676 | title='Verilogue session: Client talks about his relationship with his daughters' | file='1003009239.txt'
+  - sim=0.674 | title='Verilogue session: Client is experiencing loneliness and depression. She has bee' | file='1001084031.txt'
+  - sim=0.672 | title='Symbolic/Experiential Family Therapy: This transcript is an initial therapy sess' | file='1001115118.txt'
+  - sim=0.668 | title='Verilogue session: Client has been struggling with increased anxiety; his depres' | file='1003075050.txt'
+  - sim=0.665 | title='Verilogue session: Client has been going through a divorce; she has been very an' | file='1002565956.txt'
+  - sim=0.665 | title='Verilogue session: Client feels like she is becoming depressed' | file='1002565926.txt'
+  - sim=0.663 | title='Verilogue session: Client is worried about finances. Her anxiety and weight are ' | file='1002565877.txt'
+  - sim=0.662 | title='Session 3: Client is angry with her husband and his lack of interest in her as a' | file='1000088053.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2 partial_match=8
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=2
+  - sim=0.676 | file='1003009239.txt' | title='Verilogue session: Client talks about his relationship with his daughters'
+  - sim=0.668 | file='1003075050.txt' | title='Verilogue session: Client has been struggling with increased anxiety; his depres'
+Using top selected file for transcript: '1003009239.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Information:**
+- Relationship with Ivan for seven years, married for three.
+- Experienced stress during academic finals and wedding preparation due to lack of support from Ivan.
+- Currently facing financial pressure related to Ivan's part-time work, therapy costs, and dental treatment expenses.
+- Ivan's mother communicates with the patient in a critical manner.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions due to the described circumstances. The lack of support from Ivan during significant life events such as academic finals and wedding preparation may have led to feelings of being overwhelmed, unsupported, and possibly lonely. These emotions could have been compounded by the stress of managing these events largely on her own.
+
+The current financial pressures are likely contributing to feelings of anxiety and worry. The need to manage therapy costs, dental treatment expenses, and the implications of Ivan's part-time work may create a sense of financial insecurity. This situation might evoke a persistent state of tension and concern about the future.
+
+The critical communication from Ivan's mother could lead to feelings of being judged, inadequate, or unappreciated. This dynamic may result in feelings of hurt or frustration, potentially impacting the patient's self-esteem and sense of belonging within the family.
+
+**Cognitive Impact:**
+The patient's cognitive patterns may include ruminative thoughts about her relationship with Ivan, particularly regarding the lack of support during crucial times. She might engage in self-questioning or doubt about her ability to manage stressors independently, which could lead to negative self-evaluation.
+
+Financial pressures may trigger catastrophic thinking, where the patient envisions worst-case scenarios regarding their financial stability. This cognitive pattern can exacerbate anxiety and create a cycle of worry that is difficult to break.
+
+The critical manner of Ivan's mother might lead to cognitive distortions such as personalization or overgeneralization, where the patient might internalize criticism and view it as a reflection of her overall worth or abilities.
+
+**Behavioral Impact:**
+In response to these stressors, the patient might engage in avoidance behaviors, such as withdrawing from social interactions or avoiding discussions about finances with Ivan. She may also procrastinate on tasks that remind her of financial pressures or seek reassurance from others to cope with feelings of inadequacy.
+
+The patient might also engage in behaviors aimed at seeking validation or approval from Ivan's mother, despite the critical communication, in an attempt to improve the relationship and reduce feelings of being judged.
+
+**Coping Styles:**
+The patient may rely on problem-solving strategies to manage financial pressures, such as budgeting or seeking additional income sources. However, the emotional toll of these stressors might lead to maladaptive coping mechanisms, such as excessive worry or avoidance of conflict with Ivan or his mother.
+
+She might also seek emotional support from friends or family members outside of her immediate household to cope with feelings of loneliness or inadequacy. This could provide temporary relief but may not address the underlying issues within her relationship with Ivan and his family.
+
+**Conclusion:**
+The patient's experiences of stress, financial pressure, and critical communication from a family member are likely contributing to a complex emotional and cognitive landscape. These factors may lead to behaviors that aim to mitigate stress but could also perpetuate feelings of anxiety and inadequacy. Addressing these patterns through cognitive restructuring and developing more adaptive coping strategies could be beneficial in reducing the emotional burden and improving the patient's overall well-being.
+Summary da mistral_.csv: In this session, the patient discussed his consulting work and the current slowdown in the industry. He mentioned that he relies on word of mouth referrals and has not actively marketed himself. The patient expressed enjoyment in his work but acknowledged the need to be more assertive in securing projects. He also shared recent family-related stressors, including his daughter's controlling behavior and his middle daughter's recent breakup with her boyfriend.
+The patient expresses concern about a friend, who recently graduated from nursing school and has made several questionable decisions since then, including moving into a run-down apartment and paying a high rent for it. The patient feels frustrated and wants to advise her friend to make better choices but is hesitant to interfere. The patient also mentions having undergone prostate surgery and being on medication for it. The conversation shifts to discussing the friend's boyfriend, who is struggling with depression and the patient's plans to have dinner with him to show support. The patient emphasizes that they are not angry with their friend or her family and wants to ensure her friend's well-being.
+The patient discussed her past relationship with a man who lived with her and their daughter for over two years. They had a mutual love for their cats, but their breakup was due to the woman's desire for more attention and care, which the man was no longer able to provide. The woman recently moved to a new, less desirable living situation, and the patient expressed concern for her well-being. The patient also discussed her current use of Concerta medication, mentioning that she had been skipping the afternoon doses due to inactivity. The doctor suggested continuing with the single morning dose until the patient's activity level increases. The patient inquired about the possibility of building a surplus of medication for times when she forgets to renew her prescription.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has been in a relationship with Ivan for seven years and married for three. She experienced significant stress during academic finals and wedding preparation, particularly due to a lack of support from Ivan, which may have contributed to feelings of being overwhelmed and unsupported. Currently, she faces financial pressures related to Ivan's part-time work, therapy costs, and dental treatment expenses. Ivan's mother communicates with her in a critical manner, which may have led to feelings of being judged and unappreciated, impacting her self-esteem and sense of belonging.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If others, especially Ivan's mother, criticize me, it means I am not meeting their expectations and I need to work harder to gain their approval. If I don't receive support or validation, I must be doing something wrong. I have to avoid conflict and try to please others to feel accepted.",
+  "intermediate_belief_depression": "If I keep being criticized and unsupported, it means I will never be good enough and things will never get better for me. No matter what I do, I can't change how others see me, so there's no point in trying.",
+  "coping_strategies": [
+    "She tends to withdraw or avoid confrontation when faced with criticism, especially from Ivan's mother. She may seek reassurance or validation from others, or attempt to please Ivan's mother to reduce feelings of being judged. She also ruminates and worries excessively about her perceived inadequacies and the family's approval."
+  ],
+  "situation": "Ivan's mother speaks to the patient in a critical manner.",
+  "auto_thought": "She's judging me again—I must be doing something wrong. No matter what I do, I'll never be good enough for her.",
+  "emotion": [
+    "hurt",
+    "anxious",
+    "ashamed",
+    "frustrated",
+    "inadequate",
+    "tense"
+  ],
+  "behavior": "I avoid responding directly to her criticism and withdraw from the conversation. I try to act extra polite or accommodating to avoid further judgment. Later, I ruminate about what I did wrong and seek reassurance from Ivan or others."
+}

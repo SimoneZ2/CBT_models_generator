@@ -1,0 +1,30 @@
+{
+  "name": "Halloween Party Pain Case",
+  "id": "case_001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization Diagram"
+  ],
+  "history": "The client recently underwent shoulder surgery and is experiencing a painful recovery, with ongoing pain, numbness, and tingling from a herniated cervical disc. They have a history of physical therapy for walking difficulties and back issues, as well as a past prolonged illness that led to immobility. After starting a new relationship, their physical symptoms returned, which may have affected their confidence and sense of security in the relationship. The client has previously coped by withdrawing from activities and seeking reassurance, and their physical limitations have contributed to emotional distress and a sense of isolation.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I try to participate in social events while in pain, others will notice my limitations and judge me, and I won't be able to keep up. I must hide my discomfort or risk being seen as weak or a burden. If my symptoms come back, it means I am failing to recover and can't be a good partner or friend.",
+  "intermediate_belief_depression": "If my pain keeps returning and I can't participate like others, it means things will never get better for me and I will always be left out or alone.",
+  "coping_strategies": "The client tends to withdraw from social activities or avoid situations that might worsen their pain. They seek reassurance from their partner about the relationship and use distraction, such as attending events, to cope, but may overexert themselves and later feel isolated or misunderstood.",
+  "situation": "Attending a Halloween party while in persistent pain.",
+  "auto_thought": "Everyone can tell I'm struggling and probably thinks I'm weak. If I can't keep up or have to leave early, they'll see me as a burden.",
+  "emotion": [
+    "anxious",
+    "self-conscious",
+    "worried",
+    "ashamed",
+    "isolated"
+  ],
+  "behavior": "The client tries to mask their discomfort and pushes themselves to stay at the party. They avoid talking about their pain, withdraw from more active parts of the event, and may leave early without explanation.",
+  "rationale": "\"Attending social events like a Halloween party while in pain could contribute to feelings of isolation or being misunderstood by others who may not fully grasp the extent of their discomfort.\" \"They might engage in negative self-talk, questioning their ability to manage their condition or participate in activities they once enjoyed.\" \"Behaviorally, the patient might withdraw from social activities or avoid situations that could exacerbate their pain.\" \"They may also procrastinate on tasks that require physical exertion or seek reassurance from their partner about the relationship's stability.\""
+}

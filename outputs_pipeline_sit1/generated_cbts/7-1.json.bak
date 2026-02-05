@@ -1,0 +1,33 @@
+{
+  "name": "Client A",
+  "id": "case-001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a longstanding pattern of working long hours in demanding environments, including touring work, which likely contributed to chronic stress and exhaustion. There are unresolved issues with the father, including past abuse, which have recently been brought to the surface through an exchange of letters. This recent communication may have stirred up complex emotions and memories, impacting the client's current functioning. The client is now attempting to focus on personal projects but finds themselves procrastinating and avoiding work by spending time on social media.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't make significant progress on my personal projects, it means I'm not capable and others will see me as a failure. I must avoid situations where I might be criticized or judged, because it will confirm what I fear about myself. If I feel overwhelmed or anxious, I should distract myself to avoid feeling worse.",
+  "intermediate_belief_depression": "If I can't even get started on my own projects, it proves that I'm hopeless and nothing will ever change for me. There's no point in trying because I always end up stuck.",
+  "coping_strategies": "The client frequently turns to social media as a way to escape feelings of anxiety and inadequacy when faced with personal projects. This avoidance provides short-term relief but maintains a cycle of procrastination and self-criticism. The client also ruminates about unresolved issues with their father, which may further drain motivation and increase emotional distress.",
+  "situation": "Evaluating progress on personal projects, including developing a website. Spending time on social media instead of working on the project.",
+  "auto_thought": "I'm wasting time again and not getting anything done. If I keep this up, I'll never finish and everyone will see that I'm a failure.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "frustrated",
+    "ashamed",
+    "disappointed"
+  ],
+  "behavior": "I check my phone and scroll through social media instead of working on my website. I avoid opening the project files and tell myself I'll start later.",
+  "rationale": "\"The tendency to spend time on social media instead of working on personal projects could be a form of avoidance, possibly stemming from fear of failure or criticism... This avoidance can lead to procrastination and a lack of progress on personal goals, which may further exacerbate feelings of frustration and disappointment.\""
+}

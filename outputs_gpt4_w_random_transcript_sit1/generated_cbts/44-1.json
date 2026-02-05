@@ -1,0 +1,28 @@
+{
+  "name": "Patient",
+  "id": "PV010062",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "History of recurring conflicts and strained relationships. Ongoing trust and boundary issues in relationships. Some relationships involve alcoholism. History of aggressive behavior.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must control situations to avoid feeling vulnerable.",
+  "intermediate_belief_depression": "If I don't control situations, I will be left alone and rejected.",
+  "coping_strategies": "Attempts to control interpersonal interactions to avoid vulnerability and rejection.",
+  "situation": "Spending holidays alone and reflecting on feelings of sadness and loneliness.",
+  "auto_thought": "I must control the situation to avoid feeling vulnerable and rejected.",
+  "emotion": [
+    "Confusion",
+    "Fear",
+    "Sadness"
+  ],
+  "behavior": "Attempts to control interactions with others, such as controlling partner's actions during intercourse."
+}

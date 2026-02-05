@@ -1,0 +1,28 @@
+{
+  "name": "Unnamed Patient",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Interpersonal"
+  ],
+  "history": "Ongoing interpersonal difficulties involving a partner named Ivan and his family. Recent trust and betrayal issues involving Ivan. Ongoing contact with Ivan's family.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't attract someone, it means I'm not good enough.",
+  "intermediate_belief_depression": "If people don't like me, it confirms I'm unworthy.",
+  "coping_strategies": "Attempts to rationalize feelings and find faults in others to protect self-esteem.",
+  "situation": "During an interaction with Ivan's family, the mother says 'boys will be boys' and asks the patient to 'forgive and forget'.",
+  "auto_thought": "If he doesn't like me, it means I'm unlikable.",
+  "emotion": [
+    "Anxiety",
+    "Sadness",
+    "Insecurity"
+  ],
+  "behavior": "Overanalyzing interactions and seeking validation from others."
+}

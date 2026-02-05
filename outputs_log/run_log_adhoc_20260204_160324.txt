@@ -1,0 +1,74 @@
+Using description: HISTORY:
+- History of family conflict with a dismissive and unsupportive father.
+- Estrangement from the father.
+- Ongoing stress related to partner's family, including a difficult relationship with the partner's sister-in-law.
+
+SITUATION:
+- Anticipating interactions with Candace during an upcoming family vacation in Maine. with ID=21-1
+Sample results (metadata similarity):
+  - sim=0.083 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.114 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.118 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.124 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.144 | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de' | file='1001084060.txt'
+  - sim=0.145 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.152 | title='Verilogue session: Client has been feeling very depressed and experiencing anxie' | file='1001084064.txt'
+  - sim=0.156 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.157 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.159 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.083 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.114 | file='1000137957.txt' | title='Eliminating Allergies'
+  - sim=0.118 | file='1000275936.txt' | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a '
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of family conflict and estrangement from a dismissive and unsupportive father, is currently experiencing stress related to an upcoming family vacation in Maine, where they will interact with their partner's family, including a difficult sister-in-law, Candace. During the session, the client engages in a detailed discussion about their experiences with learning and teaching mathematics, which seems to serve as both a passion and a coping mechanism. They express a sense of accomplishment and satisfaction in mastering complex mathematical concepts, describing how "being on the bike and lifting weights somehow cleared my mind enough to see how to proceed." This suggests that physical activity and intellectual engagement provide a sense of clarity and achievement, contrasting with the emotional complexities of family dynamics.
+
+The client frequently returns to the theme of learning through teaching, noting that "the best way you notice by teaching it," which highlights their need for a structured, logical framework to process information. This approach seems to offer a sense of control and predictability, perhaps compensating for the unpredictability and emotional challenges posed by family interactions. The client also reflects on the nature of mathematical proofs, expressing a preference for "being as economical as possible in your language," which may mirror their desire for clear, concise communication in personal relationships, an area where they might feel less adept.
+
+Throughout the session, the client avoids directly addressing the upcoming vacation and the anticipated interaction with Candace, instead immersing themselves in the intellectual realm of mathematics. This avoidance might indicate anxiety or apprehension about the family gathering, as they focus on the more manageable and rewarding task of mastering mathematical problems. The client mentions feeling "slightly self-conscious" about their preoccupation with math, which could reflect an underlying concern about how their intellectual pursuits are perceived by others, possibly echoing past experiences with their father.
+
+The session also reveals the client's cognitive pattern of equating intellectual mastery with personal worth, as they describe the frustration of not initially understanding mathematical symbols, yet finding satisfaction in eventually "being ahead of people in class." This pattern might be rooted in their history of seeking approval and validation, which was perhaps lacking in their relationship with their father. The client’s narrative about learning math in different languages, such as French, underscores their adaptability and resilience, as they find commonality and understanding across cultural and linguistic barriers.
+
+In discussing the process of learning and teaching, the client draws parallels between mathematical concepts and life experiences, noting the importance of defining "where you're going to start and where you're going to end." This reflection might symbolize their attempt to navigate personal boundaries and expectations within family dynamics. The client's focus on the logical progression of mathematical proofs contrasts with the emotional ambiguity of interpersonal relationships, suggesting a preference for environments where rules and outcomes are clearly defined.
+
+As the session concludes, the client acknowledges the universality of mathematical language, finding comfort in its consistency and reliability. This appreciation for the "common thing that is also universal" may serve as a grounding force amidst the anticipated challenges of the family vacation. The session ends with the client expressing a willingness to continue exploring these themes, indicating an openness to further examining the interplay between their intellectual pursuits and personal relationships.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of family conflict and estrangement from a dismissive and unsupportive father. They experience ongoing stress related to their partner's family, particularly with a difficult sister-in-law, Candace. The client finds solace in intellectual pursuits, such as learning and teaching mathematics, which provide a sense of control and achievement.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can master complex concepts, then I am worthy and can manage my emotions. If I avoid family interactions, then I can prevent feeling inadequate.",
+  "intermediate_belief_depression": "If I can't handle family interactions, then I am a failure and will never be accepted.",
+  "coping_strategies": [
+    "The client immerses themselves in intellectual activities, such as mathematics, to avoid confronting emotional challenges. They seek control and predictability through structured learning, which compensates for the unpredictability of family dynamics."
+  ],
+  "situation": "Anticipating interactions with Candace during an upcoming family vacation in Maine.",
+  "auto_thought": "I can't handle being around Candace. This will be a disaster.",
+  "emotion": [
+    "anxious",
+    "apprehensive",
+    "self-conscious"
+  ],
+  "behavior": "The client avoids thinking about the vacation by focusing on mathematics. They immerse themselves in teaching and learning to distract from the anxiety."
+}

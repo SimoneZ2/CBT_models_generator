@@ -1,0 +1,58 @@
+{
+  "name": "Rachel",
+  "id": "19-1",
+  "type": [
+    "CBT",
+    "case_formulation"
+  ],
+  "history": "Rachel has a history of recurring relationship problems with her husband Ivan and ongoing work-related stress. She was recently laid off and is actively seeking new employment, which has heightened her stress and self-doubt. Her sister Emma often takes on a caring, supportive role, indicating Rachel's tendency to seek reassurance. Rachel's father, who had a successful career and strong work ethic, has shaped her high expectations for herself and her career. These influences contribute to her tendency to compare herself to others and experience self-criticism.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't achieve as much as Ivan or meet my father's standards, then I am not successful and others will see me as inadequate. I must constantly measure up to others' achievements to feel worthy. Falling short means I am failing as a person.",
+  "intermediate_belief_depression": "If I can't match Ivan's career or live up to my father's expectations, then there is no hope for me to feel good about myself or my future. I will always be left behind and never succeed.",
+  "coping_strategies": "Rachel tends to withdraw from social interactions and avoids discussing her concerns with Ivan, which increases her isolation and stress. She seeks reassurance from her sister Emma, relying on external validation to cope with her distress. She may also procrastinate or feel overwhelmed by the job search, leading to avoidance behaviors.",
+  "situation": "Comparing personal career aspirations to those of the spouse.",
+  "auto_thought": "I'm falling behind compared to Ivan. I'll never be as successful as he is.",
+  "emotion": [
+    "anxious",
+    "inadequate",
+    "ashamed",
+    "disappointed",
+    "worried"
+  ],
+  "behavior": "Rachel withdraws from Ivan and avoids talking about her feelings. She ruminates on her perceived shortcomings and seeks comfort from Emma instead of addressing the issue directly.",
+  "rationale": "\"The comparison of her career to Ivan's could lead to thoughts of inadequacy or self-criticism, potentially impacting her self-esteem.\" \"She might ruminate on perceived failures or shortcomings, which can exacerbate feelings of stress and anxiety.\" \"Rachel might withdraw from social interactions or avoid discussing her concerns with Ivan, which could further strain their relationship.\" \"Rachel's reliance on Emma for support suggests a tendency to seek external validation and comfort during times of stress.\"",
+  "core_belief_predictions": {
+    "source_id": "19-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable",
+      "worthless"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am incompetent",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable",
+      "I am worthless, waste"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

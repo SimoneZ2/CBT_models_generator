@@ -1,0 +1,53 @@
+{
+  "name": "Jazz Group PhD Student",
+  "id": "12-1",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client is a PhD student in a science field who has a deep involvement in music. They previously led a college band and currently participate in a jazz group, but declined a leadership position in the group. The client reports ongoing mental health struggles and feels disconnected from colleagues in their scientific work environment due to differing values and work habits. This sense of disconnection and avoidance of leadership may contribute to feelings of isolation and self-doubt, as suggested by their reluctance to take on new responsibilities and their emotional response to challenges in music rehearsals.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I struggle or need repeated attempts to progress, others will see me as incompetent and I will let them down. I need to perform well to be accepted and valued by the group. If I can't keep up, it means I'm not cut out for this and shouldn't take on more responsibility.",
+  "intermediate_belief_depression": "If I keep struggling and can't improve, it proves that I'm not good enough and things won't get better no matter how hard I try.",
+  "coping_strategies": "The client tends to avoid situations that might increase stress or anxiety, such as declining leadership roles and withdrawing from colleagues. They may also procrastinate or avoid practicing when facing difficulty in rehearsals, using avoidance to manage feelings of inadequacy and fear of failure.",
+  "situation": "Experiencing difficulty during jazz rehearsals, requiring repeated attempts to progress.",
+  "auto_thought": "I'm messing this up again. Everyone must think I'm not good enough to be here.",
+  "emotion": [
+    "anxious",
+    "self-doubt",
+    "embarrassed",
+    "disappointed",
+    "frustrated",
+    "ashamed"
+  ],
+  "behavior": "I hesitate during rehearsal and avoid making eye contact with others. I become quieter and stop volunteering to play solos. After rehearsal, I leave quickly and avoid talking to group members.",
+  "rationale": "The report notes the client feels anxiety and self-doubt during rehearsals, particularly when struggling to progress, and fears judgment from peers ('anticipatory anxiety about their performance in rehearsals, fearing judgment from peers or self-imposed standards'). The client is described as withdrawing from social interactions and avoiding situations that might increase stress or anxiety, such as declining leadership roles and possibly avoiding practice ('the patient may withdraw from social interactions with colleagues due to feelings of disconnection' and 'the decision to decline the leadership position in the jazz group suggests a tendency to avoid situations that might increase stress or anxiety'). The emotional themes of inadequacy, disappointment, and embarrassment are highlighted in the report ('feelings of inadequacy or disappointment, especially given their previous leadership role in a college band'). The intermediate beliefs and core beliefs are supported by the client's patterns of self-criticism, negative self-evaluation, and fear of not measuring up ('negative self-evaluation and thoughts of not measuring up to their peers').",
+  "core_belief_predictions": {
+    "source_id": "12-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "origin": "propagated_from_compare_results"
+  }
+}

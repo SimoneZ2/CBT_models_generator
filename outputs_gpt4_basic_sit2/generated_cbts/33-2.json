@@ -1,0 +1,28 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Involvement in a complex romantic situation with a person named Cleo. Cleo is in a long-distance relationship while also engaging with the patient.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am not the primary focus, I will be abandoned.",
+  "intermediate_belief_depression": "I am not good enough to be chosen.",
+  "coping_strategies": "Attempts to gain reassurance from Cleo or avoid confrontation.",
+  "situation": "Saw concerning text messages from another person on Cleo's device.",
+  "auto_thought": "Cleo is going to leave me for someone else.",
+  "emotion": [
+    "Anxiety",
+    "Fear",
+    "Insecurity"
+  ],
+  "behavior": "Checking Cleo's messages and seeking reassurance."
+}

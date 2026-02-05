@@ -1,0 +1,51 @@
+{
+  "name": "CBT Cognitive Conceptualization Diagram for Client (Brother's Suicide Anniversary)",
+  "id": "34-2",
+  "type": [
+    "CBT",
+    "Case Formulation"
+  ],
+  "history": "The client lost their brother to suicide during childhood, which was a traumatic event. The family has ongoing conflict about discussing the loss, and the parents initially prevented the client from seeking talk therapy after the death. This lack of open communication and support likely contributed to unresolved grief and feelings of isolation. The client may have developed coping mechanisms to manage these emotions, such as withdrawing or seeking support outside the family.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let myself think about my brother or talk about him, it will only make things worse for me or my family. I have to keep my feelings to myself because no one else wants to deal with them. If I show how much this still hurts, people will pull away or I will be left alone.",
+  "intermediate_belief_depression": "If I let myself feel the pain of losing my brother, it will never get better and I'll always feel alone and hopeless. There's no point in trying to talk about it because nothing will change.",
+  "coping_strategies": "The client tends to withdraw from family discussions and avoids situations that remind them of their brother, especially around the birthday. They may procrastinate on commemorative activities or seek distraction through solitary rituals. The client sometimes seeks support from friends or external groups instead of family.",
+  "situation": "Realizing that the brother's birthday is approaching.",
+  "auto_thought": "I can't handle this day coming up again. No one in my family wants to talk about it, so I'm going to have to get through it alone.",
+  "emotion": [
+    "anxious",
+    "sad",
+    "lonely",
+    "helpless",
+    "frustrated"
+  ],
+  "behavior": "Withdraws from family interactions. Avoids bringing up the brother's birthday. Spends time alone or distracts self with solitary activities.",
+  "rationale": "\"The approaching birthday of the brother may intensify these emotions, leading to increased anxiety, sadness, or a sense of longing.\" \"The ongoing family conflict about discussing the loss may contribute to feelings of frustration, isolation, and unresolved grief.\" \"The patient might withdraw from family discussions or avoid situations that remind them of the brother.\" \"The lack of open family communication about the loss might lead to cognitive distortions such as personalization ('It's my fault we can't talk about him') or catastrophizing ('We'll never be able to heal as a family').\"",
+  "core_belief_predictions": {
+    "source_id": "34-1",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am defective",
+      "I am helpless",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

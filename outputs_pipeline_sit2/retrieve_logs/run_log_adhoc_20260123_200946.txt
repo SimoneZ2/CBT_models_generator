@@ -1,0 +1,88 @@
+Using description: HISTORY:
+- Academic underperformance despite being described as intelligent.
+- Attended a college (institution X), felt isolated, and dropped out.
+- About two years of credits remain to complete the degree.
+- Mother had high expectations.
+- Financial difficulties and pressure from the mother to return home.
+
+SITUATION:
+- Seeking financial help from parents.
+- Recent family conversation included discussion of the college dropout experience. with ID=18-2
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.522 | title='Patient "Ju", Session April 27, 2012: Client wants to pursue a higher degree but' | file='1004538610.txt'
+  - sim=0.497 | title='Patient "Ju", Session September 19, 2012: Client describes how she doesn't perce' | file='1004798761.txt'
+  - sim=0.488 | title='Patient "Ma", Session August 20, 2012: Client didn't get either job she had inte' | file='1004687726.txt'
+  - sim=0.486 | title='Patient "R" Session July 02, 2012: Client talks about her fear of asking for hel' | file='1004687804.txt'
+  - sim=0.455 | title='Session 12: Client over schedules her days leaving her feeling like she is sprea' | file='1000133989.txt'
+  - sim=0.443 | title='Patient "D" Session April 02, 2012: Client is upset with her biological father's' | file='1004532480.txt'
+  - sim=0.441 | title='Series 3, Session 4: Client struggles with his indecision about going back to co' | file='1003269462.txt'
+  - sim=0.437 | title='Patient "Ma", Session October 05, 2012: Client reflects on her time as a school ' | file='1004798791.txt'
+  - sim=0.437 | title='Session 4: Client does not like to discuss problems when she is not in a depress' | file='1000133919.txt'
+  - sim=0.436 | title='Patient "B", Session March 01, 2012: Client has been engaging in self-defeating ' | file='1004504884.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=1 partial_match=9
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=1
+  - sim=0.441 | file='1003269462.txt' | title='Series 3, Session 4: Client struggles with his indecision about going back to co'
+Using top selected file for transcript: '1003269462.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is an individual who has experienced academic underperformance despite being recognized as intelligent. They attended college at institution X but felt isolated and subsequently dropped out, leaving approximately two years of credits to complete their degree. The patient's mother had high expectations, which may have contributed to their feelings of pressure and isolation. Currently, the patient is facing financial difficulties and is seeking financial assistance from their parents. A recent family conversation involved discussions about the patient's college dropout experience.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions stemming from their academic challenges and familial expectations. The academic underperformance, despite intelligence, may lead to feelings of frustration, inadequacy, and self-doubt. The isolation experienced at college could contribute to feelings of loneliness and sadness, potentially exacerbating the decision to drop out. The high expectations from the mother might evoke feelings of pressure, anxiety, and fear of disappointing her. Financial difficulties and the need to seek help from parents could lead to feelings of embarrassment, shame, and dependency.
+
+**Cognitive Patterns:**
+The patient may engage in negative self-talk, characterized by thoughts of inadequacy and self-criticism due to their academic struggles. They might ruminate on their decision to drop out, questioning their capabilities and future prospects. The pressure from their mother could lead to cognitive distortions, such as all-or-nothing thinking, where they perceive their worth based on academic success or failure. The financial dependency on parents might reinforce beliefs of helplessness and lack of autonomy.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive patterns, the patient might exhibit avoidance behaviors, such as withdrawing from academic pursuits or social interactions to escape feelings of inadequacy and isolation. They may procrastinate on making decisions about returning to college or seeking employment due to fear of failure. The patient might also seek reassurance from their parents, which could perpetuate feelings of dependency and hinder their sense of independence.
+
+**Coping Styles:**
+The patient may cope by avoiding discussions about their academic and financial situation, as these topics could trigger feelings of shame and anxiety. They might also engage in distraction techniques, such as focusing on other interests or activities, to avoid confronting their academic and financial challenges. Seeking reassurance from their parents could serve as a temporary relief from anxiety but may not address the underlying issues of dependency and self-doubt.
+
+**Therapeutic Focus:**
+In therapy, it would be beneficial to explore the patient's cognitive distortions and work on restructuring negative thought patterns. Encouraging the patient to set realistic goals and gradually re-engage with academic or vocational pursuits could help build confidence and reduce avoidance behaviors. Addressing the emotional impact of familial expectations and fostering assertiveness in expressing their needs and boundaries with family members could enhance their sense of autonomy. Developing problem-solving skills and exploring alternative coping strategies, such as mindfulness or stress management techniques, could support the patient in managing anxiety and building resilience.
+Summary da mistral_.csv: The client discussed his past relationships, specifically a high school relationship with Vicky that has recently rekindled. They went to a concert together and have been spending more time together. The client expressed feeling good about the relationship but acknowledged its potential similarities to their past one. They discussed their compatibility and shared interests. The client also mentioned his bi-curiosity and shared this with Vicky. They had a conversation about it and the client expressed feeling satisfied in the relationship but unsure about how he would feel when he returns to Oberlin, where he has had past relationships with men. The client has not pursued any physical intimacy with men but remains curious. The client mentioned a past experience where he made out with a man as a joke, and they both found it enjoyable but unclear in intent. The client acknowledged the importance of communication in the relationship and expressed a desire to be honest with Vicky about his feelings and interests.
+The client discusses their past experiences with relationships, specifically their exploration of bisexuality and open relationships. They express a desire to wait until they find the right person before pursuing these experiences. The therapist and client also discuss the concept of narcissism and how it relates to the client's tendencies towards abandoning interests and people when things become difficult. The client mentions their low frustration tolerance and how it contributes to their decision-making difficulties and past dependence on their parents. The client is considering attending a cooking school but is undecided on the location.
+The client is considering various options for the upcoming break from college, including attending a cooking school in Chicago or California, volunteering, or getting a job. The therapist suggests that the client could take cooking classes in Chicago and work towards achieving other goals at the same time, such as improving their Oberlin paper and potentially getting a job. The client expresses uncertainty about whether to rely on their parents for financial support or to become more independent by working and saving money. They have previously worked as a waiter and are considering working in a restaurant or pursuing a career in the food industry, but are unsure about the financial viability and difficulty of these options. The client also mentions the possibility of managing a restaurant or pursuing other related careers, such as wine distribution or owning a microbrewery. The therapist encourages the client to consider their passions and to explore different options to find what might be the best fit.
+In this therapy session chunk, the client expresses their intention to pursue a therapeutic program despite financial concerns, as their parents are providing financial support. The therapist encourages the client to explore various programs and suggests they research online or contact the FCI for recommendations. The client discusses their emotional goals, which include working on acceptance and assertion, particularly in social situations where they feel the need to assert themselves. The client shares past experiences of being walked over and feeling anxious in unfamiliar social situations. The client also discusses their academic progress, sharing that they have received good grades on mid-term exams and are feeling confident in their abilities. The session ends with the therapist and client discussing goals for the next session, including researching potential therapeutic programs and discussing career options.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of academic underperformance despite being described as intelligent, which has likely contributed to persistent self-doubt and frustration. Their experience of isolation at college and subsequent dropout may have reinforced feelings of loneliness and inadequacy. The mother's high expectations appear to have created ongoing pressure and anxiety about meeting familial standards. Financial difficulties and the need to seek help from parents have intensified feelings of dependency and shame. The client has not yet completed their degree and faces ongoing uncertainty about their future.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't succeed academically or financially, others will see me as a failure and I will let them down. I must avoid disappointing my mother or I will lose her approval. Depending on others for help means I am not capable or independent.",
+  "intermediate_belief_depression": "If I can't handle things on my own and keep failing, there's no point in trying because nothing will change. My failures mean I will never be good enough, no matter what I do.",
+  "coping_strategies": [
+    "The client tends to avoid discussing academic and financial issues to escape feelings of shame and anxiety. They withdraw from challenging situations and delay decisions about returning to college or seeking employment due to fear of failure. They also seek reassurance and financial support from their parents, which temporarily relieves anxiety but reinforces dependency."
+  ],
+  "situation": "Seeking financial help from parents. Recent family conversation included discussion of the college dropout experience.",
+  "auto_thought": "I'm asking for money again because I couldn't finish college. They must think I'm a failure and can't handle my own life.",
+  "emotion": [
+    "ashamed",
+    "anxious",
+    "embarrassed",
+    "inadequate",
+    "dependent",
+    "sad"
+  ],
+  "behavior": "I avoid eye contact and keep the conversation brief. I don't bring up my plans or feelings. I accept the help but feel uncomfortable and withdrawn."
+}

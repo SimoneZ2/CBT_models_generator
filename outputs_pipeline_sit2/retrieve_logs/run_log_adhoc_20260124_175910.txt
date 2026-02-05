@@ -1,0 +1,84 @@
+Using description: HISTORY:
+- Financial worries.
+- Work responsibilities include handling computer problems and covering for an absent coworker named Chet.
+- Friends often have crises and make emotional demands.
+- Upcoming birthday and considering asking parents to pay for therapy as a gift.
+- Upcoming convention.
+
+SITUATION:
+- Bank balance was $800 lower than expected. with ID=36-1
+Top results (by metadata similarity):
+  - sim=0.656 | title='Patient "J", Session February 17, 2012: Client is frustrated that he is still st' | file='1004503122.txt'
+  - sim=0.637 | title='Patient "C" Therapy Session Audio Recording, March 27, 2012: Client is frustrate' | file='1004528627.txt'
+  - sim=0.627 | title='Patient "J", Session April 10, 2012: Client just had a birthday; he was extremel' | file='1004532428.txt'
+  - sim=0.619 | title='Patient "Ju", Session October 16, 2012: Client has been experiencing chronic pai' | file='1004798857.txt'
+  - sim=0.617 | title='Patient "J", Session July 24, 2012: Client's financial issues are all coming to ' | file='1004687594.txt'
+  - sim=0.611 | title='Patient "J", Session March 15, 2012: Client discusses his finances, work issues,' | file='1004522804.txt'
+  - sim=0.602 | title='Patient "J", Session August 13, 2012: Client feels extremely anxious and overwhe' | file='1004687604.txt'
+  - sim=0.601 | title='Patient "J", Session March 02, 2012: Client talks about his recent time spent wi' | file='1004504885.txt'
+  - sim=0.598 | title='Patient "J", Session February 21, 2012: Client sounds a bit more hopeful about h' | file='1004503124.txt'
+  - sim=0.592 | title='Session 5: Client finds this financial situation stressful and irritating; he ma' | file='1004824745.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=9 partial_match=1
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.656 | file='1004503122.txt' | title='Patient "J", Session February 17, 2012: Client is frustrated that he is still st'
+  - sim=0.637 | file='1004528627.txt' | title='Patient "C" Therapy Session Audio Recording, March 27, 2012: Client is frustrate'
+  - sim=0.627 | file='1004532428.txt' | title='Patient "J", Session April 10, 2012: Client just had a birthday; he was extremel'
+Using top selected file for transcript: '1004503122.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is experiencing significant financial stress, compounded by work responsibilities and social obligations. They are currently managing unexpected financial discrepancies and are contemplating asking their parents for financial assistance to cover therapy costs. Additionally, the patient is preparing for an upcoming convention and is dealing with the emotional demands of friends in crisis.
+
+**Cognitive Patterns:**
+The patient likely experiences pervasive worry and anxiety related to their financial situation. The unexpected $800 shortfall in their bank balance may exacerbate feelings of insecurity and helplessness. This financial stress could lead to cognitive distortions such as catastrophizing ("What if I can't pay my bills?") and all-or-nothing thinking ("If I can't manage this, I'm a failure"). The consideration of asking parents for therapy as a birthday gift suggests a recognition of the need for support, yet it may also indicate feelings of inadequacy or guilt about not being able to afford therapy independently.
+
+**Emotional Reactions:**
+The patient is likely feeling anxious, worried, and tense due to financial uncertainties and work pressures. The responsibility of covering for an absent coworker, Chet, may add to their stress, potentially leading to feelings of being overwhelmed or overburdened. The emotional demands from friends in crisis could contribute to feelings of being drained or emotionally exhausted. The upcoming birthday and convention might evoke mixed emotions, including anticipation and stress about financial and social expectations.
+
+**Behavioral Responses:**
+In response to financial worries, the patient might engage in behaviors such as excessive checking of their bank balance, avoiding financial planning due to anxiety, or procrastinating on addressing financial issues. At work, they may overextend themselves by taking on additional responsibilities, potentially leading to burnout. Socially, the patient might withdraw from friends to conserve emotional energy or, conversely, seek reassurance and support from them. The contemplation of asking parents for therapy funding suggests a potential coping strategy of seeking external support.
+
+**Coping Styles:**
+The patient may cope with stress by seeking reassurance from others, as indicated by considering parental support for therapy. They might also engage in avoidance behaviors, such as delaying financial planning or avoiding discussions about money. The patient's involvement in work and social obligations suggests a tendency to distract themselves from stressors, although this could lead to further exhaustion.
+
+**Psychological Mechanisms:**
+Drawing from the transcript, individuals in similar situations often experience a sense of being overwhelmed by multiple stressors, leading to difficulty in prioritizing tasks and managing time effectively. The patient may exhibit similar patterns, struggling to balance work, financial, and social demands. The transcript also highlights a tendency to ruminate on problems without taking action, which could be a pattern for the patient as well.
+
+**Conclusion:**
+The patient is navigating a complex interplay of financial, work, and social stressors, which likely contribute to significant anxiety and emotional exhaustion. Cognitive Behavioral Therapy (CBT) could be beneficial in helping the patient identify and challenge cognitive distortions, develop effective coping strategies, and prioritize self-care amidst their responsibilities. Addressing these areas may help the patient manage their stress more effectively and improve their overall well-being.
+Summary da mistral_.csv: The client discusses various issues related to communication and organization, expressing frustration over lost texts and emails, forgetting about scheduled events, and the unreliability of some individuals. They mention the importance of having a good support system and the challenges of raising children, particularly one who is dominating and has difficulty making friends. The client also talks about feeling overwhelmed with financial responsibilities and the slow progress of their business. They express a desire to have more time and resources to spend with their children and to improve their business situation. They plan to have lunch with a contact who may provide business opportunities and discuss their concerns about their children's social development.
+The client expresses financial struggles, including being behind on rent and unable to cover basic expenses such as food and gas. They mention feeling ashamed about their situation and not being able to afford medication or even Ramen noodles. They discuss having a stash of money in the past but now needing it due to lack of business income. The client also mentions owing money to various people and having car troubles, adding to their financial stress. They express frustration with feeling stuck and unable to get ahead. The client also mentions a friend, Jess, who they feel is not supportive of their financial struggles and who they wish would appreciate their situation more. The client expresses a desire for some financial cushion and an inability to afford medication or groceries. The therapist suggests stopping the session for now.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has ongoing financial worries and is currently facing an unexpected $800 shortfall in their bank balance. They have significant work responsibilities, including covering for an absent coworker, and often feel emotionally drained by friends who are in crisis. The client is considering asking their parents to pay for therapy as a birthday gift, which may evoke feelings of inadequacy or guilt. There is also an upcoming convention, adding to their stress. These overlapping demands contribute to a sense of being overwhelmed and difficulty in managing priorities.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I make a mistake or lose track of my finances, it means I am incompetent and things will spiral out of control. I must be able to handle everything on my own, or else I am not capable. If I can't solve my problems independently, I am letting myself and others down.",
+  "intermediate_belief_depression": "If I can't fix this financial problem, it proves that I'm hopeless and nothing will ever get better for me. When things go wrong, it means I'm stuck and there's no way out.",
+  "coping_strategies": [
+    "The client tends to check their bank balance repeatedly and ruminate on financial problems without taking concrete action. They may avoid financial planning due to anxiety and seek reassurance or support from others, such as considering asking their parents for help. At times, they withdraw from social interactions to conserve emotional energy."
+  ],
+  "situation": "Bank balance was $800 lower than expected.",
+  "auto_thought": "This is a disaster—I can't believe my account is so low. I'm never going to get on top of my finances.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "overwhelmed",
+    "helpless"
+  ],
+  "behavior": "Checked the bank account multiple times. Avoided looking at other bills or making a financial plan. Considered asking parents for help but felt guilty about it."
+}

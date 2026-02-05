@@ -1,0 +1,79 @@
+Using description: HISTORY:
+- Elevated stress related to financial difficulties and relationship instability.
+- Heavy workload due to technical issues at work and covering responsibilities when coworker Chet is absent.
+- Friends often have crises and make emotional demands.
+- Considering asking parents for financial help to cover therapy costs around an upcoming birthday.
+- Upcoming convention and upcoming visit with parents.
+
+SITUATION:
+- At a convention, interacting with demanding friends while managing personal stress. with ID=36-2
+Sample results (metadata similarity):
+  - sim=0.109 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.122 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.128 | title='Session 17: Client sees herself as having an overbearing, aggressive personality' | file='1000133903.txt'
+  - sim=0.134 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.138 | title='Fast Phobia Cure: A woman's 22-year intense phobia of bees is successfully resol' | file='1001188605.txt'
+  - sim=0.146 | title='Session 4: Client does not understand why she cannot find someone to date her. S' | file='1000133886.txt'
+  - sim=0.153 | title='Volume no. 12: Gregg: Client and therapist discuss client's dreams' | file='1002133158.txt'
+  - sim=0.161 | title='Verilogue session: Client notices an improvement more so in his behavior rather ' | file='1003075059.txt'
+  - sim=0.170 | title='Resolving Shame -Steve Andreas demonstrates this process, developed by Steve and' | file='1000119397.txt'
+  - sim=0.172 | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c' | file='1001114245.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.109 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.153 | file='1002133158.txt' | title='Volume no. 12: Gregg: Client and therapist discuss client's dreams'
+  - sim=0.161 | file='1003075059.txt' | title='Verilogue session: Client notices an improvement more so in his behavior rather '
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, currently navigating a period of heightened stress, finds themselves at a convention, surrounded by friends who often make emotional demands. This situation compounds their existing stressors, which include financial difficulties and an unstable relationship. The client has been contemplating asking their parents for financial help to cover therapy costs, especially with an upcoming birthday and a visit to their parents on the horizon. During the session, the client expresses a sense of relief and satisfaction in their academic pursuits, particularly in mathematics, which seems to offer a structured escape from the chaos of their personal life. They describe a recent experience where "being on the bike and lifting weights" helped clear their mind, allowing them to solve complex mathematical proofs with clarity. This reflects a coping strategy where physical activity aids in mental processing, providing a temporary reprieve from stress.
+
+The client frequently returns to the theme of teaching and learning, noting the satisfaction derived from helping others understand complex material. They recount a study session where they felt "like I really understood the material," contrasting this with their friends' struggles. This moment of competence and mastery appears to bolster their self-esteem, offering a counterbalance to feelings of inadequacy in other areas of life. However, the client also reveals a struggle with the expectation of conciseness in their mathematical proofs, feeling that it leaves them "a little cold" because it doesn't capture the full process of their thinking. This reflects a broader cognitive pattern where the client values thoroughness and transparency, possibly as a way to manage anxiety about being misunderstood or judged.
+
+Throughout the session, the client exhibits a tendency to immerse themselves in intellectual activities, describing it as "an immersion into an intellectual, really cerebral kind of place." This immersion seems to serve as both a coping mechanism and a source of identity, providing a sense of control and predictability that is lacking in their personal life. Yet, there is an underlying tension as the client acknowledges feeling "self-conscious" about their preoccupation with math, questioning its relevance amidst their broader life challenges. This introspection suggests an awareness of potential avoidance, as they grapple with the balance between intellectual pursuits and addressing more immediate emotional needs.
+
+The client also reflects on the nature of learning and understanding, drawing parallels between their mathematical studies and life experiences. They describe the process of grappling with new concepts as akin to "fumbling for the light switch" in a dark room, highlighting a cognitive pattern of persistence despite initial confusion. This metaphor extends to their broader life context, where they may feel similarly in the dark about how to navigate personal relationships and financial stress. The client's narrative reveals a deep-seated belief in the value of struggle and effort, suggesting that they derive meaning and satisfaction from overcoming intellectual challenges, even as they face uncertainty in other areas.
+
+As the session concludes, the client discusses the universality of mathematical language, noting how it transcends cultural and linguistic barriers. This observation seems to offer comfort, reinforcing a sense of connection to a larger, more stable world. However, the session ends with a practical reminder of the client's ongoing challenges, as they acknowledge the need to potentially reschedule due to the therapist's upcoming absence. This moment underscores the client's reliance on therapy as a support system, even as they continue to navigate the complexities of their current situation.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of elevated stress related to financial difficulties and relationship instability. They often feel burdened by a heavy workload, especially when covering for absent coworkers, and their friends frequently make emotional demands. The client finds relief and satisfaction in academic pursuits, particularly mathematics, which provides a structured escape from personal chaos. Physical activity, such as biking and lifting weights, is used as a coping strategy to clear their mind. The client values thoroughness and transparency, possibly to manage anxiety about being misunderstood. There is a pattern of immersing in intellectual activities to gain a sense of control and predictability, and the client is aware this may serve as avoidance from emotional needs.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't meet everyone's demands or keep everything under control, then I'll be overwhelmed and people will be disappointed in me. I need to be thorough and competent to be accepted and to avoid being judged. If I show weakness or ask for help, others will see me as inadequate.",
+  "intermediate_belief_depression": "If I can't manage all these pressures or help my friends, then I'm failing and things will never get better. No matter how hard I try, I can't escape feeling overwhelmed and alone.",
+  "coping_strategies": [
+    "The client immerses themselves in intellectual activities like mathematics to escape from emotional stress and gain a sense of mastery. They use physical activity to temporarily clear their mind and manage anxiety. The client tends to avoid directly addressing emotional needs or asking for help, instead focusing on competence and control."
+  ],
+  "situation": "At a convention, interacting with demanding friends while managing personal stress.",
+  "auto_thought": "I'm already so stressed and now my friends want more from me—I can't handle this. If I let them down, they'll think less of me and I’ll lose their support.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "tense",
+    "self-conscious",
+    "worried",
+    "inadequate"
+  ],
+  "behavior": "I try to keep up with my friends' demands even though I'm exhausted. I withdraw into my thoughts or look for ways to escape, like checking my phone or thinking about math problems. I avoid asking for support or expressing how overwhelmed I feel."
+}

@@ -1,0 +1,29 @@
+{
+  "history": "The client experienced the death of a close aunt, whom they considered a mother figure. They were unable to fulfill the aunt's last request and were not present at her death, which likely intensified feelings of guilt and regret. There is a longstanding pattern of prioritizing others' needs over their own, as seen in their recent choice to support a friend instead of engaging in a personal activity. This self-sacrificing behavior may serve as a coping mechanism to avoid confronting painful emotions related to loss and unmet obligations.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I put my own needs first, I am selfish and will disappoint others. I must always be available to help, or I am failing as a friend or family member. My worth depends on being needed and useful to others.",
+  "intermediate_belief_depression": "If I can't make up for my past mistakes or be there for others, nothing I do matters and I will always feel empty.",
+  "coping_strategies": [
+    "The client habitually puts others' needs before their own, often sacrificing personal enjoyment or self-care. They seek validation and relief from guilt by helping others, which temporarily distracts from their own emotional pain but maintains the cycle of self-neglect."
+  ],
+  "situation": "On the way to watch a movie, received a call from a friend seeking emotional support. Chose to give up the movie and talked with the friend for about an hour.",
+  "auto_thought": "If I don't help my friend right now, I'll let them down just like I let my aunt down. My needs can wait; I can't risk failing someone again.",
+  "emotion": [
+    "guilty",
+    "anxious",
+    "sad",
+    "tense",
+    "self-critical"
+  ],
+  "behavior": "Stopped on the way to the movie and answered the friend's call. Spent about an hour talking with the friend instead of going to the movie. Did not assert own need for personal time.",
+  "source_text_id": "1000399402.txt"
+}

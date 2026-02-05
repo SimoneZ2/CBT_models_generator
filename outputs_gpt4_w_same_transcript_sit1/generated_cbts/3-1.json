@@ -1,0 +1,25 @@
+{
+  "name": "PhD Candidate",
+  "id": "002",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "PhD candidate engaged in scientific research. References to a sequencing-related study and a colleague named Kelly. Working on a project with a senior scientist who has struggled to gain recognition in his career.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I must prove my worth through my work.",
+  "intermediate_belief_depression": "If I don't succeed, I am a failure.",
+  "coping_strategies": "Avoidance of discussing concerns and focusing on trivial matters.",
+  "situation": "Working on a PhD project and concerned about its progress.",
+  "auto_thought": "I might not be able to complete my project successfully.",
+  "emotion": [
+    "Anxiety",
+    "Insecurity"
+  ],
+  "behavior": "Avoidance of discussing significant issues, focusing on trivial matters."
+}

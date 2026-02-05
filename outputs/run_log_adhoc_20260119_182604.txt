@@ -1,0 +1,94 @@
+Using description: HISTORY:
+- Recent deaths in the family: an uncle and a cousin.
+- Ongoing concern about parents' health.
+- Father's health conditions include uncontrolled diabetes, high blood pressure, kidney problems, and high cholesterol.
+- Tension with father related to emotional distance and lack of transparency about health issues.
+
+SITUATION:
+- Thinking about the possibility of the father dying before the mother.
+- Avoiding interaction with the father. with ID=31-2
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.593 | title='Verilogue session: Client has been easily overwhelmed by feelings of anxiety rec' | file='1001083994.txt'
+  - sim=0.566 | title='Session 2: Client discusses her relationship with her boyfriend and tells therap' | file='1000094390.txt'
+  - sim=0.561 | title='Session 5: Client discusses how much closer she feels to her friends than her fa' | file='1000061054.txt'
+  - sim=0.561 | title='Verilogue session: Client's sister is in the last stages of dying' | file='1001083958.txt'
+  - sim=0.559 | title='Session 1: Client tells therapist some of her reasons for coming to therapy, mai' | file='1000088094.txt'
+  - sim=0.558 | title='Jakob's Ladder: A middle-aged mother with mild depression has begun dating a man' | file='1003371496.txt'
+  - sim=0.554 | title='Session 405: Client feels the conflict between her husband and her parents' | file='1000393773.txt'
+  - sim=0.553 | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father ' | file='1004472411.txt'
+  - sim=0.550 | title='Session 14: Client resents her parents for not being there for her in her time o' | file='1000126020.txt'
+  - sim=0.549 | title='Verilogue session: Client lives with her mother and does not have a very healthy' | file='1001083979.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.593 | file='1001083994.txt' | title='Verilogue session: Client has been easily overwhelmed by feelings of anxiety rec'
+  - sim=0.566 | file='1000094390.txt' | title='Session 2: Client discusses her relationship with her boyfriend and tells therap'
+  - sim=0.561 | file='1000061054.txt' | title='Session 5: Client discusses how much closer she feels to her friends than her fa'
+Using top selected file for transcript: '1001083994.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient is experiencing significant emotional distress due to recent family events and ongoing concerns about parental health. The patient has recently lost an uncle and a cousin, which may contribute to feelings of grief and sadness. Additionally, there is ongoing concern about the health of the patient's parents, particularly the father, who is dealing with multiple health issues, including uncontrolled diabetes, high blood pressure, kidney problems, and high cholesterol. The patient also experiences tension with the father due to emotional distance and lack of transparency about his health issues. The patient is preoccupied with thoughts about the possibility of the father dying before the mother and is currently avoiding interaction with the father.
+
+**Emotional Impact:**
+The patient is likely experiencing a range of emotions, including anxiety, worry, and fear, particularly related to the health of the father and the potential for further loss. The recent deaths in the family may exacerbate feelings of sadness and grief. The tension with the father and the avoidance of interaction may lead to feelings of guilt or shame, as the patient might feel conflicted about the desire for connection versus the need to protect themselves from emotional pain.
+
+**Cognitive Patterns:**
+The patient may be engaging in catastrophic thinking, particularly when considering the possibility of the father dying before the mother. This thought pattern can lead to increased anxiety and a sense of helplessness. The lack of transparency from the father regarding his health issues may contribute to cognitive distortions, such as mind-reading or jumping to conclusions, where the patient assumes the worst about the father's condition without having all the information.
+
+**Behavioral Responses:**
+The patient is currently avoiding interaction with the father, which may be a coping mechanism to manage the emotional distress associated with the father's health issues and the tension in their relationship. This avoidance behavior can provide temporary relief but may also prevent the patient from addressing underlying issues and emotions. The avoidance may also lead to increased feelings of isolation and loneliness.
+
+**Coping Styles:**
+The patient may be using avoidance as a primary coping strategy, which, while providing short-term relief, may not be effective in the long term. The patient might benefit from developing more adaptive coping strategies, such as seeking support from other family members or friends, engaging in open communication with the father, or exploring ways to process and express emotions related to grief and loss.
+
+**Recommendations:**
+1. **Cognitive Restructuring:** Encourage the patient to identify and challenge cognitive distortions related to the father's health and potential loss. This can help reduce anxiety and promote more balanced thinking.
+
+2. **Behavioral Activation:** Encourage the patient to gradually increase interaction with the father, focusing on small, manageable steps to rebuild the relationship and address emotional distance.
+
+3. **Grief Processing:** Provide a safe space for the patient to process feelings of grief related to the recent family deaths. This may involve exploring memories, expressing emotions, and finding ways to honor the deceased.
+
+4. **Communication Skills:** Work with the patient to develop effective communication skills to address the tension with the father and encourage transparency about health issues.
+
+5. **Support Network:** Encourage the patient to seek support from friends, family, or support groups to reduce feelings of isolation and provide additional emotional resources.
+
+By addressing these areas, the patient can work towards reducing anxiety, improving relationships, and developing healthier coping mechanisms to manage ongoing stressors.
+Summary da mistral_.csv: The patient discussed a recent visit to their family's home in [DEIDENTIFIED], where they felt overwhelmed by the presence of a deceased husband's memorabilia and the woman's depressed state. They also mentioned their susceptibility to absorbing others' emotions and feeling the need to help when a friend's daughter was left without care after her mother was hospitalized. The patient had been feeling good but recently experienced some anxiety episodes. They discussed their friend's situation, including her lack of family support and the friend's reluctance to discuss end-of-life plans. The patient mentioned their long-standing bond with the friend's daughter and their own history of dealing with absent fathers. They also mentioned the friend's brother being an unsuitable option for caring for the daughter. The patient and the friend had both considered the possibility of the patient taking care of the daughter if necessary, but the friend's partner had declined the offer.
+The patient expresses discomfort about the possibility of their friend moving in due to her brother's illness and the challenges of accommodating her and her sister in their small home. The doctor suggests exploring alternative living arrangements and encourages the patient to consider their own feelings and limitations. The patient shares information about their friend's brother's cancer diagnosis and the uncertainty of his treatment, expressing concern about the potential impact on their friend and her sister. The doctor and patient discuss the friend's current living situation and the potential challenges of caring for her and her sister, as well as the patient's own feelings of ambivalence and guilt. The patient also discusses their own emotional experiences, including a recent period of not crying and the subsequent return of tears. The doctor acknowledges the normalcy of the patient's experiences and encourages them to continue managing their emotions and feelings.
+The patient discussed with the doctor how they were able to re-engage with their emotions after a brief period of emotional numbness. The doctor compared this experience to a depression episode, suggesting that the patient might have been in a depressed state despite appearing normal due to medication. The patient agreed and mentioned they had recently read a book about someone else's experiences with depression and relationships. The doctor expressed interest in the book and the conversation ended with well wishes for the patient's summer and the show they were involved in.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has recently experienced the deaths of an uncle and a cousin, which may contribute to ongoing grief and sadness. There is a longstanding concern about the health of both parents, especially the father, who has multiple serious health conditions. The client reports tension with the father, characterized by emotional distance and frustration over the father's lack of transparency about his health. These factors appear to have increased the client's preoccupation with the possibility of further loss and have contributed to avoidance behaviors.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I get too close to my father, I will be overwhelmed by pain if something happens to him. If I don't know what's going on, I can prepare myself for the worst. If I avoid him, I can protect myself from getting hurt.",
+  "intermediate_belief_depression": "If I can't help or connect with my father, it means I'm failing as a son/daughter and nothing I do will make a difference.",
+  "coping_strategies": [
+    "The client avoids interaction with the father to manage distress about his health and the emotional tension between them. This avoidance provides temporary relief but increases isolation and prevents resolution of underlying fears and sadness."
+  ],
+  "situation": "Thinking about the possibility of the father dying before the mother. Avoiding interaction with the father.",
+  "auto_thought": "If my father dies before my mother, I won't be able to handle it. It's better to stay away now so it hurts less later.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "fearful",
+    "sad",
+    "guilty",
+    "ashamed"
+  ],
+  "behavior": "I avoid talking to or spending time with my father. I withdraw from family interactions involving him. I keep my distance emotionally and physically."
+}

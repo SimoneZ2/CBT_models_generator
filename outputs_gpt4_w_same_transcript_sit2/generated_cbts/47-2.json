@@ -1,0 +1,32 @@
+{
+  "name": "Case Study Example",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Master's degree in engineering and experience in robotics. Past remorse related to not dedicating enough time to a project.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I try to pursue relationships or projects, I will fail and be rejected.",
+  "intermediate_belief_depression": "I am not capable of succeeding in relationships or work, so why bother trying?",
+  "coping_strategies": "Avoids taking risks in personal and professional life to prevent failure and rejection.",
+  "situation": "Sent an email to someone they are interested in dating and received no response.",
+  "auto_thought": "This lack of response confirms that I am not worthy of attention or success.",
+  "emotion": [
+    "Sadness",
+    "Frustration",
+    "Hopelessness"
+  ],
+  "behavior": "Withdraws from social interactions and avoids pursuing new opportunities.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

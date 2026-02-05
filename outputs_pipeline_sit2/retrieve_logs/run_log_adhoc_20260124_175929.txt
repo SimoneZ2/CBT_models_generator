@@ -1,0 +1,82 @@
+Using description: HISTORY:
+- Past labor dispute at a previous workplace.
+
+SITUATION:
+- Reflecting on a work-related case and the response of an involved businessman. with ID=37-1
+Top results (by metadata similarity):
+  - sim=0.635 | title='Patient "M", Session August 29, 2012: Client hates how boring her life is now. S' | file='1004687680.txt'
+  - sim=0.602 | title='Patient "C", Therapy Session Audio Recording, April 18, 2012: Client feels much ' | file='1004538638.txt'
+  - sim=0.593 | title='Patient "Ju" Session March 16, 2012: Client has had a frustrating and stressful ' | file='1004522810.txt'
+  - sim=0.570 | title='Patient "Ju", Session April 02, 2012: Client is frustrated with work and her sup' | file='1004532436.txt'
+  - sim=0.566 | title='Patient "Ju", Session September 10, 2012: Client is frustrated with her work and' | file='1004699961.txt'
+  - sim=0.549 | title='Patient "J", Session March 12, 2012: Client is frustrated with work and notices ' | file='1004522800.txt'
+  - sim=0.544 | title='Patient "Ju", Session March 26, 2012: Client feels hostile towards some of her c' | file='1004528611.txt'
+  - sim=0.544 | title='Patient "Ju", Session March 23, 2012: Client is irritated; she feels like she ha' | file='1004528621.txt'
+  - sim=0.539 | title='Patient "B", Session October 04, 2012: Client feels guilty for making a mistake ' | file='1004798713.txt'
+  - sim=0.526 | title='Session 14: Client feels left out by his son.  He expresses his anger at his emp' | file='1000013338.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=3 partial_match=7
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.602 | file='1004538638.txt' | title='Patient "C", Therapy Session Audio Recording, April 18, 2012: Client feels much '
+  - sim=0.549 | file='1004522800.txt' | title='Patient "J", Session March 12, 2012: Client is frustrated with work and notices '
+  - sim=0.526 | file='1000013338.txt' | title='Session 14: Client feels left out by his son.  He expresses his anger at his emp'
+Using top selected file for transcript: '1004538638.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of a labor dispute at a previous workplace and is currently reflecting on a work-related case involving a businessman. These experiences appear to have significant emotional and cognitive impacts on the patient, influencing their current psychological state.
+
+**Emotional Impact:**
+The past labor dispute likely evokes feelings of "anger, irritation, and frustration." The patient may experience "anxious, worried, and tense" emotions when reflecting on the work-related case and the businessman's response. These emotions could stem from unresolved feelings related to the past dispute, possibly leading to a heightened sensitivity to perceived injustices or conflicts in professional settings.
+
+**Cognitive Patterns:**
+The patient may engage in "rumination" about the past labor dispute, which could contribute to ongoing feelings of "resentment and dissatisfaction." When considering the businessman's response, the patient might exhibit "cognitive distortions" such as "overgeneralization" or "catastrophizing," interpreting the situation in a way that reinforces negative beliefs about workplace dynamics and authority figures.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive patterns, the patient might "withdraw" from situations that remind them of the past dispute or "avoid" engaging with similar professional scenarios. This avoidance could serve as a coping mechanism to manage distress but may also limit opportunities for resolution or growth. The patient might also "seek reassurance" from others when reflecting on the businessman's response, indicating a need for validation of their feelings and experiences.
+
+**Coping Styles:**
+The patient may exhibit a tendency to "fallback" on avoidance as a primary coping strategy, potentially leading to a cycle of unresolved emotions and thoughts. This pattern could be reinforced by a lack of closure from the past dispute, making it challenging for the patient to fully move forward. The patient might benefit from developing more adaptive coping strategies, such as "problem-solving" or "assertive communication," to address and process these experiences more effectively.
+
+**Conclusion:**
+The patient's past labor dispute and current reflections on a work-related case with a businessman appear to significantly influence their emotional, cognitive, and behavioral patterns. By addressing these patterns through cognitive-behavioral interventions, the patient may find ways to reduce distress and improve their overall psychological well-being. Encouraging the patient to explore and challenge their cognitive distortions, while developing healthier coping mechanisms, could facilitate a more adaptive response to similar situations in the future.
+Summary da mistral_.csv: The client described a family business where they used to work and their recent experience with their uncle questioning why they no longer work there. The client felt better mentally and physically since leaving the job, but was conflicted about how to approach their family about ending their involvement. They also criticized their cousin's unprofessional behavior on social media towards an employee. The client expressed concern for their aging uncle and aunt, who should not be working long hours due to their age, and felt they were being groomed to take over the business but no longer wanted to be involved. They described a Facebook incident where they were criticized for defending the business online and felt their family members prioritized keeping the business owners happy over supporting them. The client speculated that if the business were to face significant challenges, their family members would not support them. They discussed the control the three brothers held over the business and how eliminating their influence could lead to their departure.
+The client expresses their desire to end their business relationship with their family members who run a restaurant, as they feel emotionally drained and unable to give any more to the business due to past conflicts and mistreatment. They have considered going back to work there due to financial needs but have decided against it, as they believe their family members will revert to their old ways and they don't want to give them the satisfaction of thinking they've helped. The client also discusses their plans to start a home inspection business with their father and brother, as they want to carry on their family's legacy and gain practical skills for maintaining a home. They plan to continue working in guidance counseling as well. The session had to be ended for the day.
+
+ REFINED CCD: description + report
+{
+  "history": "The client previously experienced a labor dispute at a former workplace, which appears to have left unresolved feelings and a heightened sensitivity to workplace conflict. There is evidence of rumination and ongoing resentment related to this event. The current reflection on a work-related case and the businessman's response seems to reactivate these emotional and cognitive patterns, suggesting that the past dispute continues to influence the client's reactions to similar professional situations.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I encounter another situation where a businessman or authority figure responds negatively, it means I will be treated unfairly again and there is nothing I can do to change it. I must be on guard and expect the worst in these situations to protect myself from being hurt or dismissed.",
+  "intermediate_belief_depression": "If I keep facing these kinds of responses from people in power, it proves that things will never get better for me at work and I will always be stuck feeling powerless and dissatisfied.",
+  "coping_strategies": [
+    "The client tends to avoid or withdraw from situations that remind them of the past dispute, limiting engagement with similar professional scenarios. They may also seek reassurance from others to validate their feelings about the businessman's response, but this does not resolve the underlying distress. Rumination about past injustices perpetuates negative emotions and maintains the cycle."
+  ],
+  "situation": "Reflecting on a work-related case and the response of an involved businessman.",
+  "auto_thought": "Here we go again—I'm being dismissed and treated unfairly, just like before. No matter what I do, people in power never take me seriously.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "angry",
+    "frustrated",
+    "resentful"
+  ],
+  "behavior": "I withdraw from thinking further about the case and avoid discussing it with colleagues. I seek reassurance from a trusted person, hoping they will confirm that my feelings are justified."
+}

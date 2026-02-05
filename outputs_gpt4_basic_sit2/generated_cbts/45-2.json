@@ -1,0 +1,26 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization Diagram"
+  ],
+  "history": "Relationships sometimes shift into romantic connections. Past conflict in relationships following expressions of anger. Complex relationship with parents involving obligations.",
+  "helpless_belief": [
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I express my true feelings, I will be rejected.",
+  "intermediate_belief_depression": "I must keep my emotions in check to maintain relationships.",
+  "coping_strategies": "Avoids expressing anger to prevent conflict.",
+  "situation": "An incident at a social gathering resulted in an emotional outburst among friends.",
+  "auto_thought": "I shouldn't have let my emotions get the better of me; now they will reject me.",
+  "emotion": [
+    "Anxiety",
+    "Fear of rejection"
+  ],
+  "behavior": "Attempts to apologize and smooth over the situation to avoid rejection."
+}

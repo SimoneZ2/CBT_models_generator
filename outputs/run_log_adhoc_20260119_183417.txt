@@ -1,0 +1,82 @@
+Using description: HISTORY:
+- Forms close relationships with friends who experience significant stressors.
+- A friend is dealing with academic pressures and parenting an autistic child.
+
+SITUATION:
+- Multiple friends are distressed at the same time, and the patient is involved in supporting them. with ID=46-2
+Top results (by metadata similarity):
+  - sim=0.641 | title='Session 2: Client is afraid that she may lose her best friend to her lover' | file='1000122292.txt'
+  - sim=0.639 | title='Session 5: Client explains how uncomfortable she feels trying to bring up subjec' | file='1000013257.txt'
+  - sim=0.634 | title='Verilogue session: Client's friend has passed away but, she does not feel excess' | file='1002565936.txt'
+  - sim=0.630 | title='Patient "Ju", Session February 27, 2012: Client discusses a frustrating relation' | file='1004503142.txt'
+  - sim=0.619 | title='Weekend Person-Centered Encounter Group, Kristin Sturdevant, Ph.D.' | file='1004145273.txt'
+  - sim=0.618 | title='Session 3: Client discusses her family relationships and friendships. Counselor ' | file='1000056546.txt'
+  - sim=0.616 | title='Verilogue session: Client talks about his relationship with his daughters' | file='1003009239.txt'
+  - sim=0.609 | title='Session 13: Client and counselor discuss reasons why client has not been showing' | file='1000013264.txt'
+  - sim=0.604 | title='Verilogue session: Client is worried about finances. Her anxiety and weight are ' | file='1002565877.txt'
+  - sim=0.598 | title='Session 12: Client does not know what she is doing in therapy. She really does n' | file='1000013263.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.641 | file='1000122292.txt' | title='Session 2: Client is afraid that she may lose her best friend to her lover'
+  - sim=0.639 | file='1000013257.txt' | title='Session 5: Client explains how uncomfortable she feels trying to bring up subjec'
+  - sim=0.634 | file='1002565936.txt' | title='Verilogue session: Client's friend has passed away but, she does not feel excess'
+Using top selected file for transcript: '1000122292.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is involved in close relationships with friends who are experiencing significant stressors. One friend is dealing with academic pressures and parenting an autistic child. Currently, multiple friends are distressed simultaneously, and the patient is actively involved in supporting them.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions due to their involvement in supporting friends with significant stressors. The emotional landscape may include feelings of being overwhelmed, anxious, and possibly drained. The patient might feel a sense of responsibility or obligation to provide support, which could lead to feelings of being burdened or stressed. Given the simultaneous distress of multiple friends, the patient may also feel torn or conflicted about how to allocate their emotional resources effectively.
+
+**Cognitive Patterns:**
+The patient may exhibit cognitive patterns characterized by a strong sense of duty and responsibility towards friends, potentially leading to self-imposed pressure to be a constant source of support. This cognitive style might include thoughts such as "I need to be there for them" or "If I don't help, they might struggle more." The patient might also engage in ruminative thinking, particularly if they perceive themselves as unable to meet the needs of all friends simultaneously. This could manifest as persistent thoughts about their friends' situations and how best to help.
+
+**Behavioral Responses:**
+Behaviorally, the patient likely engages in actions aimed at providing support, such as frequent communication, offering advice, or spending time with distressed friends. They may prioritize their friends' needs over their own, potentially leading to neglect of self-care activities. The patient might also withdraw from other social activities or personal interests to focus on supporting their friends. This pattern of behavior could result in social isolation or reduced engagement in activities that typically bring joy or relaxation.
+
+**Coping Styles:**
+The patient may rely on coping strategies that involve direct involvement in their friends' issues, such as problem-solving or offering emotional support. However, this approach might not always be sustainable, especially when multiple friends are in distress. The patient might benefit from developing additional coping strategies, such as setting boundaries, practicing self-care, and seeking support for themselves. Encouraging the patient to recognize their limits and prioritize their well-being could help mitigate feelings of being overwhelmed.
+
+**Transcript Reference:**
+The transcript illustrates a scenario where an individual feels caught between supporting a friend and managing personal boundaries. This pattern of feeling responsible for others' emotions and struggling with setting boundaries can be relevant to the patient's situation. The transcript highlights the importance of recognizing personal limits and the potential emotional toll of being overly involved in others' stressors.
+
+**Conclusion:**
+The patient's involvement in supporting friends with significant stressors likely impacts their emotional well-being, cognitive patterns, and behaviors. Encouraging the patient to develop healthier coping strategies, such as setting boundaries and prioritizing self-care, could help them manage the emotional demands of their supportive role more effectively.
+Summary da mistral_.csv: The patient discussed two relationship-related issues that occurred during the past week. The first issue was with their best friend, who had made the patient feel responsible for a conflict between her and her lover. The patient expressed feeling at their wit's end with this situation and was concerned about potentially losing their friendship. The second issue was with a woman the patient had been seeing, who gave mixed messages and played head games. The patient decided to no longer accept her calls and move on from the relationship. The patient also mentioned a past friendship that ended due to similar circumstances and expressed feelings of anger about that situation. The patient is anticipating that the friendship with their best friend may come to an end and is planning to spend less time with them. The patient did not express a desire for their friend to spend more time with them, but rather wanted to avoid the issues that arise when the friend's lover is present. The patient also mentioned that they know their friend well enough to understand that if
+The patient expresses their frustration with their friend Beth, who has been spending time with her lover in the presence of the patient. The patient feels that Beth is threatening their friendship by ignoring their feelings and making them feel uncomfortable. The patient has tried to communicate their discomfort to Beth but feels that she does not take their concerns seriously. The patient is unsure of how Beth would respond if they directly express their feelings and fears that she may ignore or dismiss them. The counselor points out the contradiction in the patient's expectations that Beth should understand their feelings without being explicitly told, while the patient is unwilling to express them directly. The patient shares that they have a history of feeling unheard and invalidated when expressing their feelings in relationships, leading them to avoid doing so. The counselor asks if this dynamic is unique to the relationship with Beth or if it has occurred in other relationships. The patient acknowledges that the counselor's questioning and acknowledgment of their
+The patient expresses concerns about the potential impact of a hypothetical breakup between her friend Beth and her partner Fiona. The counselor explores the patient's feelings, suggesting that she might be feeling jealous and that the situation may cause a significant loss if the friendship changes. The patient denies feeling jealous but admits to feeling angry and annoyed with Fiona's behavior. The patient also mentions Beth's tendency to ignore the patient's feelings unless they are very intense. The counselor points out that the patient may be ignoring her own feelings in this situation and suggests that the patient's response might be a pattern of avoiding uncomfortable situations, as discussed in previous sessions. The patient considers the possibility of focusing on other interests and distancing herself from the situation if the friendship changes.
+
+ REFINED CCD: description + report
+{
+  "history": "The patient has a pattern of forming close relationships with friends who are under significant stress. They are currently supporting a friend facing academic pressures and parenting challenges with an autistic child. The patient often finds themselves involved when multiple friends are distressed at the same time, suggesting a longstanding tendency to prioritize others' needs and possibly neglect their own boundaries. This involvement appears to be emotionally taxing and may contribute to feelings of being overwhelmed or burdened.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If my friends are struggling, I must be there for them or I am letting them down. If I don't help, I am not a good friend. It's my job to support others, even if it means putting my own needs aside.",
+  "intermediate_belief_depression": "If I can't help everyone, I am failing as a friend and nothing I do really matters.",
+  "coping_strategies": [
+    "The patient frequently prioritizes their friends' needs over their own, offering advice and emotional support even when feeling overwhelmed. They may withdraw from self-care or personal interests to focus on others, and struggle to set boundaries, leading to emotional exhaustion."
+  ],
+  "situation": "Multiple friends are distressed at the same time, and the patient is involved in supporting them.",
+  "auto_thought": "I have to help everyone right now or they'll fall apart. If I don't, I'm letting them down.",
+  "emotion": [
+    "overwhelmed",
+    "anxious",
+    "burdened",
+    "guilty",
+    "tense"
+  ],
+  "behavior": "I reach out to each friend to check on them and offer support. I spend extra time listening to their problems and try to give advice. I put off my own needs or activities to be available for them."
+}

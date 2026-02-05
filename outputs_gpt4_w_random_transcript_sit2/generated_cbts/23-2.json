@@ -1,0 +1,27 @@
+{
+  "name": "Unnamed Client",
+  "id": "001",
+  "type": [
+    "CBT"
+  ],
+  "history": "Longstanding difficult interactions with the patient's mother. Strained communication and delayed sharing of significant events within the family.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I must keep it together to function.",
+  "intermediate_belief_depression": "I am doing emotions wrong.",
+  "coping_strategies": "Isolating from people, trying to keep it together, avoiding dealing with emotions.",
+  "situation": "Disagreement with mother about weekend plans and financial assistance. The mother covers expenses during the visit.",
+  "auto_thought": "I'm doing this emotions thing wrong.",
+  "emotion": [
+    "Tired",
+    "Frustrated",
+    "Sad"
+  ],
+  "behavior": "Avoidance of emotions, isolating from others, trying to solve problems to feel better."
+}

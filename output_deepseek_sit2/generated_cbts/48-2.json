@@ -1,0 +1,30 @@
+{
+  "name": "Patient 48",
+  "id": "48",
+  "type": [
+    "financial stress",
+    "in-law conflict"
+  ],
+  "history": "Relationship with Ivan for 7 years, married 3. Stressful periods during finals and wedding prep due to Ivan's lack of support. Current financial pressure: Ivan's part-time work, therapy costs, dental expenses.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am a disappointment to his family"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I have to manage everything alone because Ivan won't step up.",
+  "intermediate_belief_depression": "Marriage means carrying all the burdens myself.",
+  "coping_strategies": [
+    "Overfunctioning, resentment, conflict avoidance with in-laws."
+  ],
+  "situation": "Ivan's mother speaks to patient in a critical manner.",
+  "auto_thought": "\"She blames me for our problems. She thinks I'm not good enough for her son.\"",
+  "emotion": [
+    "anger",
+    "injustice",
+    "rejection"
+  ],
+  "behavior": "Bites tongue, changes subject, complains to Ivan later who minimizes it."
+}

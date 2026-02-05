@@ -1,0 +1,27 @@
+{
+  "name": "Patient Case",
+  "id": "001",
+  "type": [
+    "Financial Stress",
+    "Family Dynamics"
+  ],
+  "history": "Financial difficulties following questionable investments. Increased reliance on parents for financial assistance.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't manage my finances, I am a failure.",
+  "intermediate_belief_depression": "I will never be able to succeed on my own.",
+  "coping_strategies": "Avoidance of financial discussions, reliance on parents for support.",
+  "situation": "A discussion with family members about future plans and potential career changes.",
+  "auto_thought": "They must think I'm a failure because I need their help.",
+  "emotion": [
+    "Anxiety",
+    "Shame"
+  ],
+  "behavior": "Avoids discussing financial issues openly, hesitates to make independent career decisions."
+}

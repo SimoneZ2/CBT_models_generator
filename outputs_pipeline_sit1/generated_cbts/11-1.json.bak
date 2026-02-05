@@ -1,0 +1,38 @@
+{
+  "name": "CBT Cognitive Conceptualization for Client A",
+  "id": "clientA-ccd-001",
+  "type": [
+    "depression",
+    "interpersonal",
+    "relapse"
+  ],
+  "history": "The client has experienced chronic depression and isolation since late adolescence, with ongoing difficulties forming and maintaining friendships. A recent breakup preceded a depressive relapse, and the client has a history of using SSRIs, with recent medication adjustments. The pattern of isolation and negative self-evaluation appears longstanding, and the breakup likely intensified feelings of rejection and hopelessness.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I open up about my struggles, people will see me as weak or burdensome, so it's safer to keep things to myself. If I let people get close, I'll end up being rejected or hurt again. I have to protect myself by not expecting support from others.",
+  "intermediate_belief_depression": "If I reach out or try to connect, it won't matter because nothing will change and I'll just end up feeling more alone. There's no point in trying because I'm destined to be isolated.",
+  "coping_strategies": "The client tends to withdraw from social interactions and isolate themselves when distressed, which maintains feelings of loneliness and depression. They sometimes ruminate on negative thoughts and avoid new social situations out of fear of rejection. Recently, they have begun to seek support by talking to a friend about their mental health, which is a more adaptive coping attempt.",
+  "situation": "Engaged in a conversation with a friend about mental health struggles.",
+  "auto_thought": "I'm just burdening them with my problems. They're probably thinking less of me now.",
+  "emotion": [
+    "ashamed",
+    "anxious",
+    "worried",
+    "sad",
+    "vulnerable"
+  ],
+  "behavior": "I hesitate to share too much and keep some things to myself. I downplay how bad I'm feeling. After the conversation, I withdraw and avoid reaching out again for a while.",
+  "rationale": "\"The patient's history of isolation and chronic depression suggests a tendency towards negative automatic thoughts and cognitive distortions, such as all-or-nothing thinking and overgeneralization.\" \"The patient likely experiences a range of emotions including sadness, loneliness, and possibly feelings of rejection following the breakup.\" \"The patient's history of isolation may lead to withdrawal from social interactions, which can perpetuate feelings of loneliness and depression.\" \"The patient's engagement in conversations about mental health with a friend reflects an adaptive coping strategy, utilizing social support to manage emotional distress.\""
+}

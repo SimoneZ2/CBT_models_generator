@@ -1,0 +1,29 @@
+{
+  "name": "Patient 25",
+  "id": "25",
+  "type": [
+    "authority conflict",
+    "entitlement issues"
+  ],
+  "history": "Works with children with learning disabilities. Described as pampered by parents with minimal consequences. Ongoing conflicts with authority figures.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "Authority figures are always against my ideas.",
+  "intermediate_belief_depression": "No one values my innovative approaches.",
+  "coping_strategies": [
+    "Passive aggression, complaining to colleagues, subtle sabotage."
+  ],
+  "situation": "Proposed new teaching method rejected by school leadership. Does not confront leadership directly.",
+  "auto_thought": "\"They're stuck in their ways. They don't care about what's best for the kids.\"",
+  "emotion": [
+    "frustration",
+    "injustice",
+    "resentment"
+  ],
+  "behavior": "Implements method anyway in small ways, rolls eyes in meeting, complains to sympathetic colleague."
+}

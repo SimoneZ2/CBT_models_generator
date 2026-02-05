@@ -1,0 +1,28 @@
+{
+  "name": "Rachel",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Rachel has recurring relationship problems with her husband Ivan. Work-related stress. Sister Emma often takes a caring role toward Rachel. Father had a successful career and strong work ethic, influencing Rachel's expectations. Recently laid off and currently looking for new employment.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be understood and validated by others.",
+  "intermediate_belief_depression": "If others don't validate my experiences, it means I'm overreacting or being dramatic.",
+  "coping_strategies": "Rachel often puts on a 'happy clown dance' to mask her true feelings and avoid being perceived as dramatic.",
+  "situation": "Comparing personal career aspirations to those of the spouse.",
+  "auto_thought": "People don't understand what I'm going through, and they think I'm making a bigger deal out of things.",
+  "emotion": [
+    "Anxiety",
+    "Frustration",
+    "Loneliness"
+  ],
+  "behavior": "Rachel tends to withdraw from conversations when she feels misunderstood or invalidated."
+}

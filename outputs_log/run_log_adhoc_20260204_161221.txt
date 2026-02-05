@@ -1,0 +1,79 @@
+Using description: HISTORY:
+- Health condition requiring time off work for physical therapy.
+- Past interactions with HR and a supervisor related to return-to-work and disability status.
+
+SITUATION:
+- Recalling a prior interaction with HR that involved feeling judged during medical leave. with ID=38-1
+Sample results (metadata similarity):
+  - sim=0.011 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.096 | title='Session 4: Client does not understand why she cannot find someone to date her. S' | file='1000133886.txt'
+  - sim=0.110 | title='Verilogue session: Client's insomnia seems to be causing mood swings' | file='1001280398.txt'
+  - sim=0.121 | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne' | file='1004503136.txt'
+  - sim=0.127 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.130 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.131 | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c' | file='1001114245.txt'
+  - sim=0.132 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.139 | title='Verilogue session: Client notices an improvement more so in his behavior rather ' | file='1003075059.txt'
+  - sim=0.140 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.011 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.096 | file='1000133886.txt' | title='Session 4: Client does not understand why she cannot find someone to date her. S'
+  - sim=0.110 | file='1001280398.txt' | title='Verilogue session: Client's insomnia seems to be causing mood swings'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has been on medical leave due to a health condition requiring physical therapy, often reflects on past interactions with HR and a supervisor concerning their return-to-work and disability status. During our session, the client shared a vivid recollection of feeling "judged" during a previous interaction with HR, which seems to linger in their mind. This memory appears to be a significant trigger for the client, evoking feelings of being scrutinized and misunderstood. The client often revisits this experience, suggesting a pattern of ruminating on past events where they felt evaluated or criticized.
+
+In our conversation, the client expressed a sense of accomplishment and satisfaction in their current academic pursuits, particularly in mathematics. They described a recent experience of tutoring precalculus, noting how "it was nice to feel like" they could genuinely teach and be helpful to others. This sense of mastery and competence contrasts with the feelings of inadequacy they experienced during their HR interactions. The client seems to find solace and confidence in their ability to understand and convey complex mathematical concepts, which provides a counterbalance to the self-doubt triggered by their work-related experiences.
+
+The client frequently discusses their approach to learning and teaching mathematics, emphasizing the importance of "drawing pictures" to communicate ideas effectively. They described a recent teaching experience where using a whiteboard and colored pens allowed them to connect with students more deeply, as opposed to relying on PowerPoint presentations. This hands-on, visual approach seems to be a coping strategy for the client, helping them manage the anxiety associated with complex problem-solving by breaking it down into more manageable, visual components.
+
+Throughout the session, the client repeatedly mentioned the challenge of learning new mathematical symbols and concepts, which initially felt "infuriating" but eventually became a source of pride as they mastered them. This process of grappling with and overcoming initial confusion parallels their broader life experiences, where they often feel like they are "fumbling for the light switch" in a dark room. The client seems to derive a sense of empowerment from these intellectual challenges, which contrasts with the helplessness they feel in other areas of their life, such as their interactions with HR.
+
+The client also reflected on the nature of learning and knowledge, drawing parallels between their mathematical studies and broader philosophical and psychological concepts. They expressed a fascination with the idea that "some infinities are greater than others," which they relate to the notion of defining starting and ending points in both mathematics and life. This reflection suggests a deeper cognitive pattern where the client seeks to find order and meaning in complex systems, whether they be mathematical or personal.
+
+In discussing their academic journey, the client acknowledged moments of self-consciousness, feeling like they are in a "little bubble of math" that may not have an obvious need. This introspection reveals an underlying tension between their intellectual pursuits and the practicalities of everyday life. Despite this, the client finds comfort in the universality of mathematics, noting that it transcends cultural and linguistic barriers, which provides a sense of connection and belonging that they may not experience in other areas of their life.
+
+Overall, the session highlighted the client's ongoing struggle with feelings of inadequacy and judgment, particularly in professional settings, while also showcasing their resilience and ability to find fulfillment in intellectual pursuits. The client's narrative suggests a complex interplay between their cognitive patterns, emotional responses, and coping strategies, which are deeply influenced by their past experiences and current academic endeavors.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client often reflects on past interactions with HR and a supervisor concerning their return-to-work and disability status. They have a pattern of ruminating on past events where they felt evaluated or criticized. The client finds solace and confidence in their ability to understand and convey complex mathematical concepts, which provides a counterbalance to the self-doubt triggered by their work-related experiences.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I am judged by others, then it means I am not competent and will never be able to prove my worth.",
+  "intermediate_belief_depression": "If I am judged by others, then I will always feel inadequate and never be able to succeed.",
+  "coping_strategies": [
+    "The client finds comfort in intellectual pursuits, particularly in mathematics, which provides a sense of mastery and competence. They use a hands-on, visual approach to teaching as a coping strategy to manage anxiety associated with complex problem-solving."
+  ],
+  "situation": "Recalling a prior interaction with HR that involved feeling judged during medical leave.",
+  "auto_thought": "They think I'm not capable of doing my job. I'll never be able to prove myself.",
+  "emotion": [
+    "judged",
+    "scrutinized",
+    "misunderstood",
+    "inadequate",
+    "self-doubt"
+  ],
+  "behavior": "The client ruminates on the interaction, replaying it in their mind. They withdraw from engaging with HR and avoid discussing their work status."
+}

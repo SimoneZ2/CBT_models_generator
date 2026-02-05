@@ -1,0 +1,33 @@
+{
+  "name": "Case Study: Post-Graduation Family Dynamics",
+  "id": "CS001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Recently completed an undergraduate degree and is entering the workforce. Came out to parents within the last two and a half years and received negative reactions. Became more distant from parents afterward. Moved to New York for education and explored identity away from family influence. Strained relationship with mother, described as focused on practical concerns rather than emotional support. Tension with sister described as envious of the patient's independence and achievements.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to manage others' emotions to maintain peace.",
+  "intermediate_belief_depression": "I am responsible for others' happiness, and failing that makes me a bad person.",
+  "coping_strategies": "Avoidance of conflict and emotional discussions with family, focusing on personal achievements.",
+  "situation": "Recalling the experience of coming out to parents and the negative aftermath. Preparing for or having interactions with family while maintaining distance.",
+  "auto_thought": "If I don't manage the situation, it will become awkward and painful.",
+  "emotion": [
+    "Anxiety",
+    "Frustration",
+    "Sadness"
+  ],
+  "behavior": "Attempts to manage family interactions to minimize conflict, while feeling emotionally drained.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

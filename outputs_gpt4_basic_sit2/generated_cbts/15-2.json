@@ -1,0 +1,27 @@
+{
+  "name": "Workplace Difficulties Case",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Ongoing workplace difficulties involving underappreciation and lack of support. Repeated experiences of ideas and suggestions not being accepted.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "My contributions are not valued.",
+  "intermediate_belief_depression": "I will never be recognized for my efforts.",
+  "coping_strategies": "Avoids sharing ideas and minimizes interactions with colleagues.",
+  "situation": "Colleagues praise a coworker and ask the patient for help with technology issues related to that coworker.",
+  "auto_thought": "They don't value my contributions, only my technical skills.",
+  "emotion": [
+    "Frustration",
+    "Sadness"
+  ],
+  "behavior": "Withdraws from team discussions and avoids offering suggestions."
+}

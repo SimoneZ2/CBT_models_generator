@@ -1,0 +1,74 @@
+Using description: HISTORY:
+- Health condition requiring time off work for physical therapy.
+- Past interactions with HR and a supervisor related to return-to-work and disability status.
+
+SITUATION:
+- Running into a coworker outside the workplace while on medical leave. with ID=38-2
+Sample results (metadata similarity):
+  - sim=0.002 | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne' | file='1004503136.txt'
+  - sim=0.010 | title='Session 1: Client describes herself as totally preoccupied with herself. She fee' | file='1000122167.txt'
+  - sim=0.015 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.020 | title='Client "S", Session October 15, 2012: Client is frustrated with his inability to' | file='1004824801.txt'
+  - sim=0.021 | title='Changing Beliefs - Steve & Connierae Andreas' | file='1000137962.txt'
+  - sim=0.023 | title='Session 22: November 16, 2012: Client hasn't heard from the woman he is dating f' | file='1004824779.txt'
+  - sim=0.029 | title='Motivational Therapy Sessions, Client 2, Session 2: The client returns with a co' | file='1003722149.txt'
+  - sim=0.029 | title='Verilogue session: Client's insomnia seems to be causing mood swings' | file='1001280398.txt'
+  - sim=0.030 | title='Session 12: Client over schedules her days leaving her feeling like she is sprea' | file='1000133989.txt'
+  - sim=0.032 | title='Session 6: Client talks about his new romantic relationship, the pluses and cons' | file='1004824747.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2018 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.002 | file='1004503136.txt' | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne'
+  - sim=0.010 | file='1000122167.txt' | title='Session 1: Client describes herself as totally preoccupied with herself. She fee'
+  - sim=0.015 | file='1001158874.txt' | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y'
+Using LEAST related file for transcript: '1004503136.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, currently on medical leave due to a health condition requiring physical therapy, finds themselves grappling with feelings of insecurity and self-judgment. During the session, they express difficulty in discussing negative aspects of their life, describing it as "exhausting" and admitting to feeling "very insecure" about being perceived as immature. This insecurity is intertwined with their recent encounter with a coworker outside of work, which may have triggered a heightened awareness of their self-perceived immaturity. The client recounts a visit to a comic book store, where they felt judged for their interest in manga, a hobby they associate with youthfulness. They express a fear of being judged for "not acting my age," yet simultaneously assert that their interests are an authentic part of who they are.
+
+Throughout the session, the client vacillates between embracing their interests and intellectualizing them to justify their worth. They describe a love for children's literature, particularly Eric Carle's "The Very Hungry Caterpillar," and articulate a deep appreciation for the artistic techniques involved, suggesting that their enjoyment is not merely childish but intellectually valid. This pattern of intellectualization appears to be a coping mechanism to mitigate feelings of shame or embarrassment about their interests. The client acknowledges this, stating they "intellectualize all of my low-brow habits" to avoid feeling shallow.
+
+The client's narrative reveals a tension between their desire for authenticity and their fear of societal judgment. They express disdain for the stereotypical behaviors of others who share their interests, describing them as "very loud" and "obnoxious," which further complicates their relationship with their hobbies. This disdain seems to stem from a fear of being associated with these behaviors, which they find socially unacceptable. The client also reflects on their upbringing, noting that their parents encouraged intellectual curiosity and critical thinking, which may contribute to their current struggle with self-acceptance. They recall being praised for their inquisitive nature as a child, which has led to a high expectation for intellectual engagement in all aspects of life.
+
+Despite these internal conflicts, the client demonstrates a strong sense of self-awareness and a desire to reconcile these aspects of their identity. They express a longing for external validation, particularly in their professional life, where they feel their contributions are not sufficiently recognized. This need for validation is juxtaposed with an internal drive to achieve personal satisfaction and excellence, even in the absence of external praise. The client acknowledges that they "have higher expectations" for themselves and their career, which may contribute to their feelings of dissatisfaction and frustration.
+
+In summary, the client's session reveals a complex interplay between their interests, self-perception, and societal expectations. Their struggle with feelings of immaturity and the need for intellectual justification highlights a deeper conflict between authenticity and acceptance. As they navigate these challenges, the client continues to seek a balance between embracing their true self and meeting the perceived demands of the world around them.
+Summary da mistral_.csv: The client expresses difficulty in discussing negative experiences and feelings during therapy sessions, feeling insecure about being perceived as immature due to her hobbies and interests. She shares an experience of feeling judged at a comic book store for her love of Monga, a genre of manga read from right to left. The client feels uncomfortable around people who are stereotypically associated with her hobbies and finds their behavior obnoxious. She also mentions her dislike for loud and disruptive behavior, especially late at night. The client expresses a preference for quieter, more mature environments and feels judged for it. She also mentions her difficulty in processing information presented in a different visual format due to her experience with reading manga. The client expresses a lack of interest in collecting figurines or other typical collectibles and prefers to have meaningful items in her small apartment.
+The client expresses feeling frustrated that people perceive them as someone different than who they are and shares their love for the children's book "The Very Hungry Caterpillar" by Eric Carle. They discuss the appeal of Carle's illustration techniques and the impact of his work on their imagination as a child. The client also mentions their intellectualization of their interests, including their justification for liking the children's book and the TV show "Gossip Girl." They explain that they were taught to find meaning and understanding in everything they consume, and that they were not raised to passively consume entertainment. The client also shares their experience of being educated about getting their ears pierced before doing so.
+The client recounted their parents' reaction to their interest in bright makeup in the late 80s and early 90s, which they found amusing and encouraging. The client adopted this perspective and felt proud of their unique interests. They discussed the importance of positive reinforcement in their upbringing and how it influenced their curiosity and self-expression. The client expressed a sense of disappointment in not receiving the same level of praise and recognition in their current life, particularly at work. They acknowledged their high expectations for fulfillment and self-satisfaction, even without external validation. The client mentioned an exercise at work where colleagues could anonymously leave positive comments for each other, but had not yet checked their own comments. The client expressed a fear of being simple or too complicated and ended the session with a plan to continue the next time on Tuesday.
+
+REFINED CCD: description + report
+{
+  "history": "The client is on medical leave for a health condition requiring physical therapy. They have had past interactions with HR and a supervisor regarding their return-to-work and disability status. The client reports a longstanding struggle with insecurity and self-judgment, particularly around being perceived as immature. Their upbringing emphasized intellectual curiosity and critical thinking, with parental praise for inquisitiveness, leading to high expectations for intellectual engagement. The client describes a pattern of intellectualizing their interests to avoid feeling shallow or judged, and expresses a need for external validation, especially in professional contexts.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I show my true interests or act in ways others might see as immature, people will judge me negatively and I will lose their respect. To be accepted, I must always present myself as intellectually serious and avoid appearing childish. If I don't live up to these standards, I risk being dismissed or not taken seriously.",
+  "intermediate_belief_depression": "If I can't meet others' expectations or prove my worth, then I will never be recognized or valued, and nothing I do will be good enough. If people see me as immature or unworthy, there is no point in trying because I will always fall short.",
+  "coping_strategies": [
+    "The client intellectualizes their hobbies and interests to justify them and avoid feeling shallow or embarrassed. They avoid discussing negative aspects of their life and withdraw from situations where they might be judged. The client seeks external validation but also distances themselves from groups they associate with negative stereotypes to protect their self-image."
+  ],
+  "situation": "Running into a coworker outside the workplace while on medical leave.",
+  "auto_thought": "They probably think I'm faking or not really sick if I'm out right now. I look irresponsible and immature for being here instead of at work.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "self-conscious",
+    "insecure",
+    "embarrassed"
+  ],
+  "behavior": "The client avoids eye contact and tries to end the interaction quickly. They later ruminate about what the coworker might think and replay the encounter in their mind. They may avoid going out in public during medical leave to prevent similar situations."
+}

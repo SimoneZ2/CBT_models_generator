@@ -1,0 +1,80 @@
+Using description: HISTORY:
+- History of recurring conflicts and strained relationships.
+- Ongoing trust and boundary issues in relationships.
+- Some relationships involve alcoholism.
+- History of aggressive behavior.
+
+SITUATION:
+- Considering reconnecting with an estranged person who previously caused harm.
+- Deciding not to reconnect as a self-protective choice. with ID=44-2
+Sample results (metadata similarity):
+  - sim=0.060 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.090 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.098 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.112 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+  - sim=0.113 | title='Verilogue session: Client has recently experienced some intense mood cycling; sh' | file='1003009209.txt'
+  - sim=0.114 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.125 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.135 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.139 | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de' | file='1001084060.txt'
+  - sim=0.143 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.060 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.090 | file='1001158874.txt' | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y'
+  - sim=0.098 | file='1001084079.txt' | title='Verilogue session: Client feels the urgent need to get everything done in a rush'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of recurring conflicts and strained relationships, appears to be navigating a complex internal landscape, as evidenced by their current engagement with mathematics. This intellectual pursuit seems to provide a structured environment that contrasts with the unpredictability of their personal relationships, which have been marked by trust and boundary issues, as well as aggressive behavior. During the session, the client expressed a sense of accomplishment and clarity when discussing their progress in understanding complex mathematical concepts, stating, "I feel like I'm gaining senility," which suggests a growing confidence in their intellectual abilities. This newfound clarity in mathematics may serve as a coping mechanism, offering a sense of control and predictability that is lacking in their interpersonal interactions.
+
+The client is currently considering whether to reconnect with an estranged person who previously caused harm, a decision that reflects their ongoing struggle with trust and boundaries. They have decided not to reconnect as a self-protective choice, indicating an awareness of the potential risks involved. This decision aligns with their history of strained relationships and suggests a cautious approach to interpersonal dynamics. The client’s focus on mathematics, described as "a launching pad to do interesting stuff," may also be a way to distance themselves from the emotional complexities of their relationships, providing a safe space to explore and achieve without the fear of conflict or betrayal.
+
+Throughout the session, the client frequently returned to the theme of learning and understanding, both in mathematics and in life. They described the process of grappling with new concepts as "fumbling for the light switch," a metaphor that captures their experience of moving from confusion to clarity. This process mirrors their broader life experience, where they have often felt in the dark about how to navigate relationships and personal challenges. The client’s engagement with mathematics, particularly their enjoyment of drawing pictures to understand proofs, reflects a desire for clarity and order, which may be lacking in their personal life.
+
+The client also expressed a sense of being in a "bubble" of intellectual activity, which may serve as a protective barrier against the emotional turmoil of their relationships. This immersion in mathematics allows them to focus on something tangible and concrete, providing a respite from the emotional complexities they face. The client’s decision to avoid reconnecting with the estranged person suggests a recognition of the need to maintain boundaries and protect themselves from potential harm, a significant step given their history of aggressive behavior and strained relationships.
+
+In discussing their experiences with teaching and learning, the client highlighted the importance of "mirror neurons" and the interactive nature of teaching, which may reflect a longing for connection and understanding that they find difficult to achieve in personal relationships. The client’s focus on the intellectual satisfaction derived from mathematics, described as "a lot of symbols," suggests a preference for the predictability and structure of intellectual pursuits over the unpredictability of human interactions.
+
+Overall, the client’s engagement with mathematics appears to be a coping strategy that provides a sense of control and achievement, contrasting with the challenges they face in their personal relationships. Their decision to avoid reconnecting with the estranged person indicates a growing awareness of the need for self-protection and boundary-setting, which may be a positive step towards healthier interpersonal dynamics. The session reveals the client’s ongoing struggle to balance their intellectual pursuits with the emotional complexities of their personal life, highlighting the importance of finding ways to integrate these aspects of their experience.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of recurring conflicts and strained relationships, often marked by trust and boundary issues as well as aggressive behavior. Some relationships have involved alcoholism. The client frequently feels 'in the dark' about navigating relationships and seeks clarity and order through intellectual pursuits like mathematics. Immersion in mathematics serves as a protective barrier, providing a sense of control and predictability that is lacking in their interpersonal life. The client has recently chosen not to reconnect with an estranged person who previously caused harm, reflecting a cautious and self-protective approach.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let people back into my life who have hurt me, I will get hurt again because I can't trust them to respect my boundaries. To stay safe, I need to keep my distance and rely on myself. It's better to avoid emotional risks than to risk being betrayed or harmed.",
+  "intermediate_belief_depression": "Even if I try to set boundaries, it won't make a difference—people will still end up hurting me, so there's no point in trying to connect. I'm destined to be alone or misunderstood, and nothing I do will change that.",
+  "coping_strategies": [
+    "The client immerses themselves in intellectual activities like mathematics to create a sense of control and clarity, distancing from the unpredictability of relationships. They avoid reconnecting with people who have caused harm as a self-protective measure. This avoidance and focus on structured pursuits serve as barriers against emotional distress but may also reinforce isolation."
+  ],
+  "situation": "Considering reconnecting with an estranged person who previously caused harm. Deciding not to reconnect as a self-protective choice.",
+  "auto_thought": "If I let them back into my life, I'll just get hurt again. I can't trust that things will be any different this time.",
+  "emotion": [
+    "anxious",
+    "tense",
+    "wary",
+    "sad",
+    "disappointed",
+    "relieved"
+  ],
+  "behavior": "I decide not to reach out or respond to the estranged person. I focus on my own activities, like working on mathematics, to distract myself and feel safer."
+}

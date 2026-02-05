@@ -1,0 +1,30 @@
+{
+  "name": "Research Lab Client",
+  "id": "RL-001",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a strong identification with their research lab, finding camaraderie and accomplishment in their work environment. The departure of a close coworker has had a significant emotional impact, highlighting the importance of these relationships. The lab serves as a predictable and comfortable contrast to the client's less stable personal life. This reliance on the lab for stability and fulfillment suggests a vulnerability to disruptions in this environment.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I lose someone important in my work environment, then I will feel alone and unable to maintain the same sense of accomplishment or stability. I need the presence of close colleagues to feel secure and valued at work. Without them, I worry that I won't be able to handle the uncertainty or maintain my satisfaction.",
+  "intermediate_belief_depression": "If people I care about leave, it means I am destined to be alone and things will never feel as good or safe again. No matter how hard I try, I can't keep the things that matter to me.",
+  "coping_strategies": "The client withdraws from social interactions and avoids discussing the colleague's departure. They may immerse themselves more deeply in work or procrastinate on tasks that remind them of the loss. Seeking reassurance from remaining coworkers and relying on the lab's structure are also used to manage distress.",
+  "situation": "The departure of a valued colleague and the immediate impact of this change.",
+  "auto_thought": "I can't handle this change—everything feels uncertain now. Without them here, the lab won't feel the same and I might not be able to cope.",
+  "emotion": [
+    "sad",
+    "lonely",
+    "anxious",
+    "uncertain",
+    "vulnerable"
+  ],
+  "behavior": "I avoid talking about the colleague's departure with others. I withdraw from group interactions and focus more on work tasks to distract myself. Sometimes I seek reassurance from remaining coworkers.",
+  "rationale": "\"The patient may feel sad, lonely, and possibly anxious about the change in their work environment.\" \"They may question their ability to maintain the same level of satisfaction and accomplishment without the presence of their colleague.\" \"The patient may engage in behaviors such as withdrawing from social interactions, avoiding discussions about the colleague's departure, or seeking reassurance from remaining coworkers.\""
+}

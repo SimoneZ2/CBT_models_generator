@@ -1,0 +1,34 @@
+{
+  "history": "The client recently moved to a new living space and has experienced significant stress related to settling in. There is a longstanding difficult relationship with the mother, who is described as judgmental and emotionally unsupportive. Friendships have become strained, leading to increased isolation. The client reports feeling unsupported by both friends and family, which appears to reinforce feelings of loneliness and self-doubt.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I reach out for help, I will be judged or rejected, so it's safer to withdraw and handle things alone. If I can't manage everything by myself, it means I'm weak or inadequate. I must not show my struggles to others because they will think less of me.",
+  "intermediate_belief_depression": "If I can't even manage to settle in or get support, it proves that I'm alone and things will never get better. There's no point in trying to connect because it always ends in disappointment or rejection.",
+  "coping_strategies": [
+    "The client avoids contacting friends and the mother to protect themselves from anticipated judgment or rejection. They withdraw socially and refrain from seeking support, which temporarily reduces anxiety but increases feelings of isolation and sadness. The client may also procrastinate on unpacking and settling in due to exhaustion and low motivation."
+  ],
+  "situation": "Feeling exhausted after attempting to unpack without support from friends. Avoiding contact with friends and the mother.",
+  "auto_thought": "No one really cares about me or wants to help. If I reach out, I'll just be a burden or get judged.",
+  "emotion": [
+    "exhausted",
+    "lonely",
+    "sad",
+    "frustrated",
+    "anxious",
+    "unworthy"
+  ],
+  "behavior": "I stop unpacking and leave things unfinished. I ignore messages or calls from friends and my mother. I stay alone in my room and avoid reaching out for help.",
+  "source_text_id": "1004687702.txt"
+}

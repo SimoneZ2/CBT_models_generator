@@ -1,0 +1,86 @@
+Using description: HISTORY:
+- Ongoing tension with parents related to family discussions.
+- Recurrent disagreements with parents around personal and family matters.
+
+SITUATION:
+- Disagreement with parents regarding the guest list for an upcoming event. with ID=2-1
+Top results (by metadata similarity):
+  - sim=0.669 | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father ' | file='1004472411.txt'
+  - sim=0.665 | title='Patient "M" Therapy Session Audio Recording, May 30, 2012: She has been very anx' | file='1004565031.txt'
+  - sim=0.658 | title='Cognitive Behavioral Family Therapy' | file='1000377254.txt'
+  - sim=0.648 | title='Patient "S" Session March 13, 2012: Client recently had a frustrating conversati' | file='1004522836.txt'
+  - sim=0.633 | title='Session 405: Client feels the conflict between her husband and her parents' | file='1000393773.txt'
+  - sim=0.631 | title='Patient "B", Session July 07, 2012: Client feels like she often 'draws a blank' ' | file='1004687552.txt'
+  - sim=0.629 | title='Patient "S" Session April 16, 2012: Client is having a hard time with her roomma' | file='1004538668.txt'
+  - sim=0.620 | title='Patient "A" Therapy Session Audio Recording, December 21, 2011: Client discusses' | file='1004466286.txt'
+  - sim=0.605 | title='Patient "B", Session May 16, 2012: Client finds her mother's contradictory behav' | file='1004564929.txt'
+  - sim=0.603 | title='Patient "A" Therapy Session Audio Recording, February 07, 2012:  Client again fi' | file='1004503150.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.669 | file='1004472411.txt' | title='Patient "A" Therapy Session Audio Recording, December 14, 2011: Client's father '
+  - sim=0.665 | file='1004565031.txt' | title='Patient "M" Therapy Session Audio Recording, May 30, 2012: She has been very anx'
+  - sim=0.658 | file='1000377254.txt' | title='Cognitive Behavioral Family Therapy'
+Using top selected file for transcript: '1004472411.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is experiencing ongoing tension and recurrent disagreements with their parents, particularly around family discussions and personal matters. A specific situation of conflict involves a disagreement with their parents regarding the guest list for an upcoming event.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions due to the ongoing tension and disagreements with their parents. These emotions may include feeling anxious, worried, and tense during family discussions, as well as feeling sad, down, and lonely when disagreements arise. The specific situation regarding the guest list for an upcoming event may exacerbate feelings of frustration and irritation, as the patient navigates the conflict with their parents.
+
+**Cognitive Patterns:**
+The patient may engage in cognitive patterns such as ruminating on past disagreements and anticipating future conflicts. This could lead to a heightened sense of vigilance and sensitivity during interactions with their parents. The patient might also experience cognitive distortions, such as all-or-nothing thinking or catastrophizing, particularly when disagreements escalate or remain unresolved.
+
+**Behavioral Responses:**
+In response to the tension and disagreements, the patient may withdraw from family discussions or avoid engaging in conversations that could lead to conflict. They might also procrastinate on addressing issues directly with their parents, opting instead to seek reassurance from other family members or friends. The patient may also engage in behaviors such as scrolling social media or calling for support to cope with the stress of family dynamics.
+
+**Coping Styles:**
+The patient may rely on coping mechanisms such as seeking external validation or reassurance to manage their emotional distress. They might also attempt to distract themselves from the tension through activities that provide temporary relief. However, these coping strategies may not address the underlying issues, potentially leading to a cycle of unresolved conflict and emotional distress.
+
+**Psychological Interpretation:**
+The ongoing tension and disagreements with parents likely contribute to a sense of instability and insecurity in the patient's family relationships. The disagreement over the guest list for the upcoming event may serve as a focal point for broader issues of control and autonomy within the family dynamic. The patient may feel caught between a desire to assert their independence and a need to maintain familial harmony, leading to internal conflict and emotional turmoil.
+
+**Conclusion:**
+The patient's experiences of tension and disagreement with their parents are likely to have significant emotional, cognitive, and behavioral impacts. By exploring these patterns in therapy, the patient can work towards developing healthier coping strategies and communication skills to navigate family dynamics more effectively. This process may involve challenging cognitive distortions, increasing emotional awareness, and practicing assertive communication to foster more constructive interactions with their parents.
+Summary da mistral_.csv: The client described a conflict with their father over not being able to attend his birthday celebration and the subsequent upset behavior from their father. The father had been upset for several weeks and brought up past favors and feelings of abandonment. The client felt frustrated and guilty but also felt they couldn't accommodate their father's every need. The father made threats about being put in a nursing home and criticized the client's lack of effort in their relationship. The client felt they were trying to build a final conclusion about the relationship and wanted certainty about whether they could build peace with their father or not. They felt torn between feeling sad for their father's loneliness and feeling annoyed by his behavior. The client expressed a desire for their father to seek help if he was truly sad and lonely, but felt unsure if that was the case or if he was just being difficult. The client was annoyed about upcoming holiday plans and felt their father was making them the focus of his
+The client described their father's behavior as taking up a significant amount of their time and energy, causing frustration and annoyance. They mentioned their attempts to communicate their concerns and feelings to their father, but he responds with anger and defensiveness. The client expressed feeling manipulated and embarrassed by their father's actions, and shared their anxiety about introducing their partner to their family due to fear of judgment and negative associations. They discussed their parents' divorces and the impact it has had on their relationships with their families. The client and their father have had conversations about this issue, but the father downplays its importance and the client continues to feel frustrated.
+The client expresses frustration and anxiety towards her father's behavior regarding her future wedding, as he refuses to invite her ex-stepmother and expresses a desire to confront her boyfriend. The client feels guilty for her feelings towards her father and struggles with accepting the situation, considering him selfish and uncaring. The therapist acknowledges the complexity of the situation and the client's intense emotions, suggesting that the client's feelings are valid and normal. The client shares that cutting contact with her father is the most effective way for her to manage her anxiety and emotions.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of ongoing tension and recurrent disagreements with their parents, especially around family discussions and personal matters. This pattern of conflict appears to be longstanding and has contributed to emotional distress and a sense of instability in family relationships. The client often feels caught between wanting to assert their independence and the need to maintain harmony, leading to internal conflict. There is evidence of ruminating on past disagreements and anticipating future conflicts, which maintains a heightened sense of vigilance during family interactions.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I disagree with my parents or try to assert my own wishes, it will only lead to more conflict and tension, so it's safer to avoid or withdraw. I must not upset my parents, or things will get worse. If I can't resolve these disagreements, it means I'm failing to keep the family together.",
+  "intermediate_belief_depression": "If these conflicts keep happening and I can't fix them, it means things will never get better and I will always feel alone and misunderstood in my family.",
+  "coping_strategies": [
+    "The client tends to withdraw from family discussions or avoid conversations that could lead to conflict. They may procrastinate on addressing issues directly with their parents and seek reassurance from others to manage distress. Distraction through activities like social media or reaching out for support is also used to cope, but these strategies do not resolve the underlying issues."
+  ],
+  "situation": "Disagreement with parents regarding the guest list for an upcoming event.",
+  "auto_thought": "No matter what I say, they're not going to listen to me. This is just going to turn into another fight and I'll end up feeling worse.",
+  "emotion": [
+    "frustrated",
+    "anxious",
+    "tense",
+    "sad",
+    "irritated",
+    "lonely"
+  ],
+  "behavior": "I withdraw from the conversation and avoid discussing the guest list further. I might leave the room or distract myself with my phone. Later, I seek reassurance from a friend about whether I'm being unreasonable."
+}

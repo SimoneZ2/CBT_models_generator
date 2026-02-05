@@ -1,0 +1,80 @@
+Using description: HISTORY:
+- Longstanding friendship with Ethan since high school (about 14 years).
+- Shared personal crises and professional collaborations.
+- Learned that Ethan has been abusive toward his girlfriend.
+
+SITUATION:
+- Struggling to contact Ethan directly. with ID=50-2
+Sample results (metadata similarity):
+  - sim=0.004 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.027 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.056 | title='Verilogue session: Client may have Lyme disease; it is possible that is what is ' | file='1003009233.txt'
+  - sim=0.058 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.062 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.070 | title='Verilogue session: Client has kept a mood log; it shows that she has been having' | file='1003009269.txt'
+  - sim=0.071 | title='Verilogue session: Client has been in pain from a recent car accident. Her hallu' | file='1003075057.txt'
+  - sim=0.073 | title='Verilogue session: Client is adjusting to shift changes at work; she is sleep de' | file='1001084060.txt'
+  - sim=0.077 | title='Verilogue session: Client's depressed mood has increased recently. She finds tha' | file='1001083936.txt'
+  - sim=0.079 | title='Verilogue session: Client recently started a regimen of medications; she is stil' | file='1002565903.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=1346 partial_match=675
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.027 | file='1003009210.txt' | title='Verilogue session: Client feels that medicine cannot help her but, she is willin'
+  - sim=0.056 | file='1003009233.txt' | title='Verilogue session: Client may have Lyme disease; it is possible that is what is '
+  - sim=0.058 | file='1001084079.txt' | title='Verilogue session: Client feels the urgent need to get everything done in a rush'
+Using LEAST related file for transcript: '1003009210.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, a young Caucasian female, presents with a complex interplay of emotions and behaviors that reflect her current struggles and longstanding issues. She has a history of a deep and enduring friendship with Ethan, which spans approximately 14 years, marked by shared personal crises and professional collaborations. Recently, she learned that Ethan has been abusive toward his girlfriend, a revelation that has left her "struggling to contact" him directly. This situation seems to weigh heavily on her, contributing to her current emotional state.
+
+During the session, the client describes herself as feeling "tired," a sentiment that seems to permeate her life, both physically and emotionally. Despite this fatigue, she insists that "medicine don't help" her, expressing a deep-seated skepticism about the efficacy of medications, which she feels "make me tired" without providing relief. This resistance to medication is compounded by her belief that she doesn't have a disorder, despite others suggesting she might be bipolar. She asserts, "I don't even think I have a disorder," and expresses frustration that she is only diagnosed with "mood swings," which she views as a common experience.
+
+Her probation situation adds another layer of stress, as she is unable to pay her fines due to financial constraints. She mentions, "I got nothing," highlighting her precarious financial situation, which is exacerbated by her new job as an assistant activity director, where she earns minimum wage and has yet to receive her first paycheck. This financial strain likely contributes to her feelings of being overwhelmed and her difficulty in managing her probation requirements.
+
+The client also exhibits signs of restlessness and an inability to remain still, describing herself as "always up, walking constantly." This behavior is consistent across different environments, whether at work, school, or home, where she "paces the floors" because she "can't sit in one spot." This restlessness may be indicative of underlying ADHD symptoms, which have not been previously addressed with medication.
+
+Throughout the session, the client repeatedly emphasizes her desire for a medication that will not exacerbate her fatigue, stating, "I want something that's not going to make me tired." Her past experiences with medications like Geodon and Abilify have left her disillusioned, as they "didn't help" and only contributed to her tiredness. Despite her resistance, she is open to trying new medications, such as Tegretol and Concerta, as suggested by the psychiatrist, in hopes of finding some relief.
+
+The client's interpersonal dynamics, particularly her relationship with Ethan, remain a significant source of internal conflict. Her reluctance to reach out to him directly, despite their long history, suggests a deep sense of betrayal and confusion about how to navigate this new reality. This internal struggle is mirrored in her broader difficulties with emotional regulation and her skepticism towards external interventions.
+
+Overall, the client's narrative reveals a complex tapestry of emotional and behavioral challenges, rooted in both her personal history and current circumstances. Her resistance to medication, financial stress, and interpersonal conflicts all contribute to her current state of distress, highlighting the need for a nuanced and empathetic approach to her treatment.
+Summary da mistral_.csv: In this psychotherapy session, a female patient with ADHD discussed her current struggles with tiredness from her medication and her ongoing probation. The patient expressed dissatisfaction with her current treatment and felt that medication did not help her. The physician suggested trying Tegretol at night and Concerta in the morning to address her symptoms of restlessness and difficulty sitting still. The physician also recommended a blood test a week after starting the new medication to monitor its effectiveness and potential side effects. The patient agreed to follow this treatment plan and scheduled a follow-up appointment.
+
+REFINED CCD: description + report
+{
+  "history": "The client has maintained a deep and enduring friendship with Ethan for about 14 years, sharing personal crises and professional collaborations. Recently, she discovered that Ethan has been abusive toward his girlfriend, which has left her struggling to contact him directly. She reports feeling 'tired' both physically and emotionally, expresses skepticism about medications, and feels misunderstood regarding her mental health. She also experiences significant financial stress and restlessness, often pacing and unable to sit still.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I reach out to Ethan after learning about his abuse, I might betray my own values or risk losing our friendship. If I don't act, I feel complicit or weak. I must handle this alone because others won't understand or help me. I have to protect myself from being hurt or disappointed by people I care about.",
+  "intermediate_belief_depression": "If I try to address this, nothing will change and I'll just end up feeling more exhausted and alone. No matter what I do, I can't fix things or make people treat each other better.",
+  "coping_strategies": [
+    "She avoids direct contact with Ethan, withdrawing from the relationship to manage her distress and confusion. She copes by keeping busy and pacing, unable to sit still, which distracts her from emotional pain. She also expresses skepticism and resistance toward external help, such as medication or others' advice."
+  ],
+  "situation": "Struggling to contact Ethan directly.",
+  "auto_thought": "If I reach out to Ethan now, I might make things worse or lose him as a friend. I don't know how to handle this and I feel stuck.",
+  "emotion": [
+    "anxious",
+    "confused",
+    "guilty",
+    "sad",
+    "overwhelmed",
+    "tired"
+  ],
+  "behavior": "She hesitates and avoids contacting Ethan directly. She paces around, feeling restless and unable to settle. She ruminates about the situation and withdraws from making a decision."
+}

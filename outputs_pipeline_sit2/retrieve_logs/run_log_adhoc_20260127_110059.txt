@@ -1,0 +1,87 @@
+Using description: HISTORY:
+- Worked overseas and built a website related to that work.
+- Recurrent pattern of starting new ideas and later abandoning projects when difficulties arise.
+- Family-related difficulty involving his father; wrote a "living letter" as part of a forgiveness process.
+
+SITUATION:
+- Working on a personal project involving the development of a website. with ID=5-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.10 - Top results (by metadata similarity):
+  - sim=0.530 | title='Patient "M", Session April 26, 2012: Client wants to know what her diagnosis is;' | file='1004538622.txt'
+  - sim=0.505 | title='Patient "C" Therapy Session Audio Recording, March 27, 2012: Client is frustrate' | file='1004528627.txt'
+  - sim=0.502 | title='Session 14: Client feels left out by his son.  He expresses his anger at his emp' | file='1000013338.txt'
+  - sim=0.502 | title='Patient "C" Therapy Session Audio Recording, April 03, 2012: Client talks about ' | file='1004532476.txt'
+  - sim=0.499 | title='Patient "B", Session March 07, 2012: Client starts session by admitting to almos' | file='1004513636.txt'
+  - sim=0.497 | title='Patient "B", Session March 01, 2012: Client has been engaging in self-defeating ' | file='1004504884.txt'
+  - sim=0.495 | title='Patient "B", Session September 07, 2012: Client is stressed about work-related i' | file='1004699955.txt'
+  - sim=0.490 | title='Patient "A", Session October 17, 2012: Client feels like his life is a facade ri' | file='1004798841.txt'
+  - sim=0.485 | title='Patient "C", Therapy Session Audio Recording, April 18, 2012: Client feels much ' | file='1004538638.txt'
+  - sim=0.483 | title='Patient "L", Session May 30, 2012: Client has been feeling a little down about n' | file='1004564965.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.530 | file='1004538622.txt' | title='Patient "M", Session April 26, 2012: Client wants to know what her diagnosis is;'
+  - sim=0.505 | file='1004528627.txt' | title='Patient "C" Therapy Session Audio Recording, March 27, 2012: Client is frustrate'
+  - sim=0.502 | file='1000013338.txt' | title='Session 14: Client feels left out by his son.  He expresses his anger at his emp'
+Using top selected file for transcript: '1004538622.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient has a history of working overseas and has developed a website related to that work. He exhibits a recurrent pattern of initiating new ideas and subsequently abandoning projects when faced with difficulties. Additionally, the patient has experienced family-related difficulties, particularly involving his father, and has engaged in a forgiveness process by writing a "living letter." Currently, he is working on a personal project involving the development of a website.
+
+**Cognitive Patterns:**
+The patient demonstrates a tendency to engage in new projects with enthusiasm but struggles to maintain momentum when challenges arise. This pattern suggests a cognitive style that may include perfectionistic tendencies or a fear of failure, leading to avoidance behaviors when faced with obstacles. The act of abandoning projects could be a coping mechanism to manage anxiety or self-doubt, as seen in similar cases where individuals may ruminate on potential failures and thus disengage to avoid perceived inadequacy.
+
+The patient's involvement in writing a "living letter" as part of a forgiveness process indicates an awareness of the impact of family dynamics on his emotional well-being. This suggests a cognitive recognition of unresolved issues and an attempt to process these through written expression, which can be a therapeutic tool for organizing thoughts and emotions.
+
+**Emotional Experience:**
+The patient likely experiences a range of emotions tied to his recurrent project abandonment, including feelings of disappointment, frustration, and possibly shame. These emotions may be exacerbated by a perceived inability to follow through on commitments, which can lead to a cycle of self-criticism and decreased self-esteem. The family-related difficulties with his father may contribute to underlying feelings of hurt or anger, which could influence his emotional responses to other areas of his life, such as his projects.
+
+The process of writing a "living letter" suggests an emotional journey towards forgiveness and reconciliation, which may be accompanied by feelings of relief, sadness, or ambivalence. This emotional processing is crucial for reducing the emotional burden and fostering personal growth.
+
+**Behavioral Responses:**
+Behaviorally, the patient may exhibit avoidance tendencies, such as withdrawing from projects when they become challenging. This avoidance can manifest as procrastination or shifting focus to new ideas, which provides temporary relief from anxiety but ultimately reinforces the cycle of abandonment.
+
+The patient's engagement in writing a "living letter" indicates a proactive approach to addressing emotional conflicts. This behavior reflects a willingness to confront difficult emotions and seek resolution, which is a positive coping strategy.
+
+**Coping Styles:**
+The patient appears to utilize both adaptive and maladaptive coping strategies. The adaptive strategy is evident in his effort to address family-related issues through the "living letter," suggesting a desire for emotional healing and improved relationships. However, the maladaptive pattern of project abandonment indicates a need for developing more effective coping mechanisms to manage stress and self-doubt.
+
+**Conclusion:**
+The patient is navigating complex emotional and cognitive challenges related to project commitment and family dynamics. By recognizing the patterns of avoidance and the emotional impact of familial relationships, therapeutic interventions can focus on enhancing coping strategies, building resilience, and fostering a more consistent follow-through on personal and professional endeavors. Cognitive Behavioral Therapy (CBT) techniques, such as cognitive restructuring and behavioral activation, may be beneficial in addressing these patterns and supporting the patient's personal growth and project completion.
+Summary da mistral_.csv: The client expresses a desire to understand their diagnosis and asks the therapist about it. The therapist diagnoses the client as depressed and elaborates on the client's grieving of major losses in their career, family life, relationships, and health. The therapist also mentions the client's personality traits that complicate the grieving process, such as a desire to stay positive and focus on others' needs. The client shares their past experiences of being told to focus on positive things and engage in relaxation techniques for chronic pain, which they believe hindered their ability to address other issues. The client reflects on their college experiences, where they felt confident in their identity, and expresses regret over how they were manipulated by certain individuals to feel ashamed of their accomplishments and vulnerabilities.
+The client discussed past experiences of being targeted and exploited due to self-doubt during their time at HLS and later at Microsoft. At HLS, a supervisor tried to break the client's spirit by enforcing rules against using pronouns and treating them poorly. The client stood up to the supervisor, resulting in the supervisor's failure to control them. At Microsoft, a boss treated the client disrespectfully, equating them to an "idiot savant," which affected the client's performance and led to their departure from the company. The client mentioned having a boss in Cincinnati who also treated them poorly and undermined their abilities, causing significant emotional distress. The client switched to Microsoft in 2004, initially intending to work part-time but became involved in a training program and enjoyed the experience. They appreciated the new challenge and the value placed on their expertise.
+The client recounted their partner's undergraduate experience, including a change in major that led to better job prospects and the discovery of his sex addiction around 2001. The client described the ensuing period as filled with daily dramas and difficulties, including their partner's denial and deception about his addiction. The client lost their job due to their partner's behavior, and the partner also lost a job. The client expressed anger towards the therapist who initially misdiagnosed the issue and provided ineffective treatment. The client was concerned about moving to a new place where they feared their partner might be exposed to harmful ideas and felt the need to be prepared for potential future issues.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a history of working overseas and building a website related to that work. He repeatedly starts new projects with enthusiasm but tends to abandon them when difficulties arise, indicating a pattern of avoidance in the face of obstacles. There is a significant family-related difficulty involving his father, which he has attempted to process by writing a 'living letter' as part of a forgiveness process. This suggests ongoing emotional impact from family dynamics and an attempt to address unresolved issues.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I encounter difficulties in my projects, it means I'm not capable enough, so it's better to stop before I fail completely. If I can't do things perfectly, others will see me as incompetent. Avoiding the project protects me from feeling like a failure.",
+  "intermediate_belief_depression": "If I keep failing to finish what I start, it proves that I'm never going to succeed, so there's no point in trying. Every time I abandon a project, it confirms that I'm not good enough and things will never change.",
+  "coping_strategies": [
+    "When faced with challenges in his projects, the client tends to withdraw or abandon the task, which provides temporary relief from anxiety and self-doubt. He sometimes shifts focus to new ideas instead of persisting, reinforcing a cycle of avoidance. In contrast, he uses writing (such as the 'living letter') to process emotional conflicts related to family, which is a more adaptive coping strategy."
+  ],
+  "situation": "Working on a personal project involving the development of a website.",
+  "auto_thought": "This is getting too hard—I’m probably going to mess it up. If I keep going, everyone will see that I can’t do it.",
+  "emotion": [
+    "anxious",
+    "frustrated",
+    "ashamed",
+    "disappointed",
+    "self-critical"
+  ],
+  "behavior": "He stops working on the website and avoids returning to it. He may distract himself with other ideas or tasks to escape the discomfort."
+}

@@ -1,0 +1,27 @@
+{
+  "name": "John Doe",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Past experiences of pressure related to performance and social interactions. Reports presenting a confident front and hiding vulnerability. A recent business failure led to financial hardship.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I show vulnerability, people will think less of me.",
+  "intermediate_belief_depression": "I must succeed to be valued.",
+  "coping_strategies": "Avoids asking for help and distracts attention from problems.",
+  "situation": "Took out a loan instead of asking family or friends for help. In social situations, acts to distract attention from financial difficulties.",
+  "auto_thought": "I can't let anyone know I'm struggling.",
+  "emotion": [
+    "Anxiety",
+    "Shame"
+  ],
+  "behavior": "Avoids discussing financial issues and maintains a facade of confidence."
+}

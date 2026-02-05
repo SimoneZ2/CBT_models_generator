@@ -1,0 +1,33 @@
+{
+  "name": "Client 1927-113",
+  "id": "case-002",
+  "type": [
+    "CBT",
+    "Couples Therapy"
+  ],
+  "history": "Ongoing work-related uncertainty and anxiety. Married recently; the relationship included instances of physical abuse by spouse Ivan and resulted in separation. Both partners are interested in resolving issues and are attending couples therapy.",
+  "helpless_belief": [
+    "I am trapped",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to resolve issues to feel secure.",
+  "intermediate_belief_depression": "If I can't resolve these issues, I will always feel anxious and uncertain.",
+  "coping_strategies": "Engaging in couples therapy to address relationship issues.",
+  "situation": "Exposed to clinical terms used to describe the husband's behavior, including 'delusional' and 'pseudo-psychotic'.",
+  "auto_thought": "I feel overwhelmed by the complexity of the situation.",
+  "emotion": [
+    "Anxiety",
+    "Fear",
+    "Hopelessness"
+  ],
+  "behavior": "Participating in therapy sessions but feeling stuck and unsure about progress.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

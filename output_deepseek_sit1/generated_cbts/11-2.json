@@ -1,0 +1,31 @@
+{
+  "name": "Patient 11",
+  "id": "11",
+  "type": [
+    "chronic depression",
+    "social isolation"
+  ],
+  "history": "History of isolation and chronic depression since adolescence. Past friendship difficulties. Recent breakup preceded depressive relapse. On SSRIs with recent adjustments.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be alone"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "My depression makes me too damaged for relationships.",
+  "intermediate_belief_depression": "I will always be depressed and alone.",
+  "coping_strategies": [
+    "Medication management, limited social engagement."
+  ],
+  "situation": "Engaged in a conversation with a friend about mental health struggles.",
+  "auto_thought": "They can't possibly understand how dark it really gets for me.",
+  "emotion": [
+    "hopelessness",
+    "isolation",
+    "vulnerability"
+  ],
+  "behavior": "Discuss mental health with friend while feeling disconnected."
+}

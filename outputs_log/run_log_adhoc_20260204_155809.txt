@@ -1,0 +1,73 @@
+Using description: HISTORY:
+- History of isolation and chronic depression since late adolescence.
+- Past difficulties with friendships.
+- Recent breakup preceding a relapse into a depressive episode.
+- History of taking SSRIs and recent medication adjustments following the relapse.
+
+SITUATION:
+- Engaged in a conversation with a friend about mental health struggles. with ID=11-1
+Sample results (metadata similarity):
+  - sim=0.072 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.197 | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c' | file='1001114245.txt'
+  - sim=0.233 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.252 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.255 | title='Client "S", Session September 21, 2012: Client is currently working towards his ' | file='1004824793.txt'
+  - sim=0.258 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.259 | title='Eliminating Allergies' | file='1000137957.txt'
+  - sim=0.270 | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne' | file='1004503136.txt'
+  - sim=0.271 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.273 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=29 partial_match=1992
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.387 | file='1002995961.txt' | title='Series 1, Session 7: Client is trying to be constructive with her emotions. She '
+  - sim=0.429 | file='1000126015.txt' | title='Session 9: Client suffers from lack of self-confidence; she cannot take criticis'
+  - sim=0.438 | file='1004824783.txt' | title='Client "E", Session November 02, 2012: Client feels like her attention deficit d'
+Using LEAST related file for transcript: '1002995961.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of isolation and chronic depression since late adolescence, is currently navigating the aftermath of a recent breakup, which has triggered a relapse into a depressive episode. During the session, the client reflects on their coping strategies, noting that physical activities like "running or having sex" help them shift out of a negative mindset. This aligns with their understanding that emotions and physical sensations are interconnected, as they express, "when you're emotionally upset you feel it physically." The client has been adjusting to recent changes in their SSRI medication, which may be contributing to their evolving emotional landscape.
+
+Throughout the session, the client demonstrates an awareness of their cognitive patterns, particularly the automatic thoughts that arise during moments of distress. They articulate a strategy of grounding themselves through physical sensations, such as splashing water on their face and stepping into the cold air, to regain control over their thoughts. The client acknowledges, "I have control of it, I'm going to calm down," indicating a growing confidence in their ability to manage their emotional responses.
+
+The client also discusses their past difficulties with friendships and the impact of these experiences on their self-perception. They mention filling out a form that asked about feelings of worthlessness, noting a shift from "almost always" feeling worthless to recognizing moments of self-affirmation, such as acknowledging, "you did that really well." This change suggests progress in their journey toward a more balanced self-view, despite the recent emotional challenges.
+
+In addressing their cognitive distortions, the client reflects on the unrealistic expectations they have held, particularly in relationships. They describe their previous idealized notion of love as a "Botox version of love," acknowledging that it was "not real" and unsustainable. This metaphor highlights their realization that imperfections are inherent in relationships and that embracing these flaws can be "really empowering." The client expresses relief in letting go of the pressure to be perfect, stating, "If nothing is perfect then there's no way I should expect myself to be."
+
+The session also touches on the client's coping mechanisms during moments of heightened anxiety. They recognize the importance of not engaging in conversations when in "panic mode," as it is "not helping anybody." Instead, they focus on breaking the cycle of negative thoughts by addressing the physical symptoms first, which they find to be a "constructive way" to regain composure. This approach reflects their commitment to developing healthier coping strategies and their desire to avoid past behaviors that were not conducive to their well-being.
+
+Overall, the client demonstrates significant insight into their cognitive and emotional processes, showing a willingness to challenge long-standing beliefs and adopt new strategies for managing their depression. They express gratitude for the progress made, noting, "it's so much of a change how I was feeling a few weeks ago." This session highlights the client's ongoing journey toward self-acceptance and emotional resilience, as they continue to engage in conversations about their mental health struggles with friends and in therapy.
+Summary da mistral_.csv: In this therapy session, the patient discussed various coping mechanisms for managing panic attacks. They mentioned focusing on physical sensations, such as taking a cold shower or engaging in physical activity, to help regain control and calm down. The patient also acknowledged the connection between emotions and physical sensations, noting that emotional upheaval can manifest physically. They discussed the importance of recognizing and challenging irrational thoughts during a panic attack and the benefits of self-compassion and accepting imperfections. The patient and counselor also touched on the idea that love, like other aspects of life, is not perfect and that it's essential to acknowledge and accept its imperfections. The patient expressed feeling empowered by their progress and the ability to manage panic attacks more effectively.
+The patient discussed a recent situation that triggered negative emotions and a desire to engage in destructive behavior. They acknowledged feeling a sense of control when able to break the cycle of these emotions and behaviors. The patient expressed a desire to find constructive ways to bring themselves to attention instead of reacting in anger. The counselor encouraged the patient to identify and address the root causes of their emotions and behaviors, and to report back on their progress in the following session. The patient expressed gratitude for the counseling sessions and their positive impact on their emotions.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of isolation and chronic depression since late adolescence, with past difficulties in forming friendships. A recent breakup has triggered a relapse into a depressive episode. The client has been adjusting to recent changes in their SSRI medication, which may be contributing to their evolving emotional landscape.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't manage my emotions perfectly, then I will lose control and everything will fall apart.",
+  "intermediate_belief_depression": "If I can't handle my emotions, then I am a failure and will always be stuck in depression.",
+  "coping_strategies": [
+    "The client uses physical activities like running or having sex to shift out of a negative mindset. They also ground themselves through physical sensations, such as splashing water on their face and stepping into the cold air, to regain control over their thoughts."
+  ],
+  "situation": "Engaged in a conversation with a friend about mental health struggles.",
+  "auto_thought": "I'm going to mess this up and they'll think I'm weak.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "ashamed"
+  ],
+  "behavior": "The client might avoid sharing too much or change the subject to avoid feeling exposed."
+}

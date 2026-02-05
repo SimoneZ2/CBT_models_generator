@@ -1,0 +1,34 @@
+{
+  "name": "Patient X",
+  "id": "001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "History of isolation and chronic depression since late adolescence. Past difficulties with friendships. Recent breakup preceding a relapse into a depressive episode. History of taking SSRIs and recent medication adjustments following the relapse.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am incompetent"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't perform perfectly, I will be rejected.",
+  "intermediate_belief_depression": "I must be perfect to be accepted.",
+  "coping_strategies": "Avoidance of social situations and reliance on isolation.",
+  "situation": "Planned a weekend for sewing and catching up on work tasks. Was unable to focus on familiar tasks and spent the day watching television.",
+  "auto_thought": "I can't do anything right.",
+  "emotion": [
+    "Sadness",
+    "Frustration"
+  ],
+  "behavior": "Avoidance of tasks and procrastination.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

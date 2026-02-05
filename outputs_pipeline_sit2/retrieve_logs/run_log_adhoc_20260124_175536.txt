@@ -1,0 +1,89 @@
+Using description: HISTORY:
+- History of self-criticism.
+- Used to maintaining control and achieving goals.
+
+SITUATION:
+- Difficulty with job searching.
+- Ongoing relationship and family conflicts involving a person named Ivan. with ID=28-1
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.476 | title='Session 317: Client realizes that she needs to accept that she is a female' | file='1000393736.txt'
+  - sim=0.458 | title='Session 12: Client feels like his life is quite a mess. He needs to set some goa' | file='1000134009.txt'
+  - sim=0.457 | title='Session 709: Client has been having fantasies of fighting the therapist' | file='1000396359.txt'
+  - sim=0.455 | title='Session 15: Client has been experiencing occupational stress' | file='1000134012.txt'
+  - sim=0.453 | title='Session 15: Client is talking about perfectionism.  He tells therapist that he i' | file='1000013339.txt'
+  - sim=0.448 | title='Session 366: Client feels like she is fighting against the therapy and therapist' | file='1000393749.txt'
+  - sim=0.445 | title='Multimodal CBT Therapy: This transcript is an initial therapy session with Arnol' | file='1001158870.txt'
+  - sim=0.443 | title='Motivational Therapy Sessions, Client 1, Session 2: The client continues struggl' | file='1003722147.txt'
+  - sim=0.442 | title='Session 9: Client feels like the world has alienated her' | file='1000017868.txt'
+  - sim=0.441 | title='Session 8: Client is using his art as a form of therapy to increase his self-est' | file='1000013289.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.476 | file='1000393736.txt' | title='Session 317: Client realizes that she needs to accept that she is a female'
+  - sim=0.458 | file='1000134009.txt' | title='Session 12: Client feels like his life is quite a mess. He needs to set some goa'
+  - sim=0.457 | file='1000396359.txt' | title='Session 709: Client has been having fantasies of fighting the therapist'
+Using top selected file for transcript: '1000393736.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+
+The patient has a history of self-criticism and is accustomed to maintaining control and achieving goals. Currently, the patient is experiencing difficulty with job searching and is involved in ongoing relationship and family conflicts, particularly with a person named Ivan.
+
+**Emotional Impact:**
+
+The patient's history of self-criticism likely contributes to feelings of inadequacy and self-doubt, especially in the context of job searching. The inability to secure employment may exacerbate feelings of failure and lead to increased anxiety and frustration. The ongoing conflicts with Ivan and within the family may evoke emotions such as anger, irritation, and disappointment, potentially leading to feelings of being overwhelmed or trapped.
+
+**Cognitive Patterns:**
+
+The patient may engage in negative self-talk and ruminate on perceived failures, both in professional and personal domains. This cognitive pattern can reinforce a cycle of self-criticism and hinder the patient's ability to view situations objectively. The need for control and achievement may lead to all-or-nothing thinking, where the patient views situations in black-and-white terms, further intensifying feelings of inadequacy when outcomes do not meet expectations.
+
+**Behavioral Responses:**
+
+In response to job search difficulties, the patient may procrastinate or avoid job-related tasks due to fear of failure or rejection. This avoidance behavior can perpetuate a cycle of inaction and increased anxiety. In family and relationship conflicts, the patient may withdraw or become defensive, potentially escalating tensions with Ivan and other family members. The patient might also seek reassurance from others to alleviate feelings of insecurity, although this may provide only temporary relief.
+
+**Coping Styles:**
+
+The patient may cope with stress by attempting to exert control over situations or by seeking distractions to avoid confronting uncomfortable emotions. This is similar to the pattern observed in the transcript, where the patient uses external concerns (e.g., worrying about astronauts) as an outlet to avoid deeper issues. The patient might also engage in self-soothing behaviors, such as scrolling social media or engaging in solitary activities, to temporarily escape from stressors.
+
+**Conclusion:**
+
+The patient's history of self-criticism and need for control significantly influence their emotional, cognitive, and behavioral responses to current life challenges. Addressing these patterns through cognitive restructuring and developing healthier coping strategies can help the patient manage job search stress and navigate relationship conflicts more effectively. Encouraging the patient to challenge negative self-talk and to set realistic, achievable goals may foster a more balanced perspective and enhance their sense of self-efficacy.
+Summary da mistral_.csv: The patient discussed a vivid dream they had about losing MSCZ to another woman, which seemed real in the dream but different upon waking. They also mentioned feeling relieved that they didn't think about being pregnant during that morning. The patient reflected on their progress in accepting their identity and feelings of rejection towards MSCZ and men in general. They also mentioned their difficulty in using names and the unpleasant associations they have with their own name. The patient mentioned their parents' use of nicknames for everyone except them and the unpleasant way they heard their name spoken.
+The patient reflects on their feelings of being the only one among their family members not to have returned to their parents' ways of living. They discuss their past consideration of their relationship with MSCZ, who they initially saw as not being like their parents but later recognized some similarities. The patient expresses feelings of being outside of their family and still wanting to be part of it, despite recognizing a distance that will always be there. They compare themselves to FNI, who they see as having qualities they lack, such as wittiness, decisiveness, and being the one their father wanted to be with. The patient also acknowledges feeling jealous and inadequate in comparison to FNI in the past. The session ends as the analyst informs the patient that their time is up.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a longstanding pattern of self-criticism and is used to maintaining control and achieving goals. This background likely contributes to a heightened sensitivity to perceived failure and a strong drive for achievement. The report notes that these tendencies are evident in both professional and personal domains, leading to negative self-talk and rumination on failures. The client’s difficulty with job searching and ongoing conflicts with Ivan and family members may reinforce feelings of inadequacy and frustration.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't achieve my goals or maintain control, it means I am not competent or worthy. I must always succeed and avoid mistakes to prove my value. If I experience setbacks in my job search or in relationships, it confirms that I am inadequate.",
+  "intermediate_belief_depression": "If I keep failing to find a job and my relationships stay conflicted, it means I will never succeed or be accepted, so there's no point in trying.",
+  "coping_strategies": [
+    "The client tends to avoid job-related tasks, procrastinating due to fear of failure or rejection. In family and relationship conflicts, the client may withdraw or become defensive, sometimes seeking reassurance from others to temporarily relieve insecurity. The client may also distract themselves with solitary activities to escape stress."
+  ],
+  "situation": "Difficulty with job searching. Ongoing relationship and family conflicts involving a person named Ivan.",
+  "auto_thought": "I'm never going to find a job, and my family problems with Ivan will never get better. This just proves that I'm not good enough and can't get anything right.",
+  "emotion": [
+    "anxious",
+    "frustrated",
+    "inadequate",
+    "overwhelmed",
+    "sad",
+    "irritated"
+  ],
+  "behavior": "I put off applying to jobs or updating my resume. I avoid conversations with Ivan or family members, or become defensive when conflicts arise. Sometimes I withdraw and distract myself with my phone or solitary activities."
+}

@@ -1,0 +1,86 @@
+Using description: HISTORY:
+- Recurring relationship challenges involving a current spouse.
+- Work-related stress.
+- Sister often takes a caregiving role.
+- Father's successful career influenced expectations.
+- Recently laid off and currently looking for work.
+
+SITUATION:
+- Comparing career aspirations to those of the spouse. with ID=19-1
+Top results (by metadata similarity):
+  - sim=0.603 | title='Patient "D" Session April 02, 2012: Client is upset with her biological father's' | file='1004532480.txt'
+  - sim=0.578 | title='Session 3: Client talks about taking care of his ex-wife when she was addicted t' | file='1000094405.txt'
+  - sim=0.561 | title='Patient "Ju", Session November 06, 2012: Client talks about relationships within' | file='1004824679.txt'
+  - sim=0.557 | title='Patient "C" Therapy Session Audio Recording, May 22, 2012: Client discusses his ' | file='1004565027.txt'
+  - sim=0.555 | title='Session 3: Client is angry with her husband and his lack of interest in her as a' | file='1000088053.txt'
+  - sim=0.552 | title='Session 5: Client discusses how much closer she feels to her friends than her fa' | file='1000061054.txt'
+  - sim=0.548 | title='Patient "D" Session April 30, 2012: Client is angry, anxious and frustrated. Her' | file='1004565033.txt'
+  - sim=0.546 | title='Patient "Ju", Session April 27, 2012: Client wants to pursue a higher degree but' | file='1004538610.txt'
+  - sim=0.546 | title='Session 6: Client is tired of dealing with her boyfriend's insecurities' | file='1000133983.txt'
+  - sim=0.542 | title='Verilogue session: Client has been going through rough times and feeling emotion' | file='1001084067.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.603 | file='1004532480.txt' | title='Patient "D" Session April 02, 2012: Client is upset with her biological father's'
+  - sim=0.578 | file='1000094405.txt' | title='Session 3: Client talks about taking care of his ex-wife when she was addicted t'
+  - sim=0.561 | file='1004824679.txt' | title='Patient "Ju", Session November 06, 2012: Client talks about relationships within'
+Using top selected file for transcript: '1004532480.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Overview:**
+The patient is experiencing multiple stressors, including recurring relationship challenges with their spouse, work-related stress, and the recent experience of being laid off. They are currently seeking employment. Additionally, the patient has a sister who often takes on a caregiving role, and their father's successful career has influenced their own career expectations. The patient is also comparing their career aspirations to those of their spouse.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions due to these stressors. The recurring relationship challenges with their spouse may lead to feelings of frustration, disappointment, and possibly loneliness. Work-related stress, compounded by the recent layoff, likely contributes to feelings of anxiety, worry, and uncertainty about the future. The influence of the father's successful career may evoke feelings of inadequacy or pressure to meet high expectations, potentially leading to feelings of guilt or shame if the patient perceives themselves as falling short. Comparing their career aspirations to those of their spouse may further exacerbate feelings of inadequacy or jealousy, contributing to a sense of being undervalued or less successful.
+
+**Cognitive Patterns:**
+The patient may engage in negative self-talk and cognitive distortions, such as all-or-nothing thinking or catastrophizing, particularly in relation to their career and relationship challenges. They might ruminate on perceived failures or shortcomings, which can reinforce feelings of inadequacy and anxiety. The patient's comparison of their career to their spouse's may lead to cognitive distortions such as overgeneralization or magnification of their own perceived failures.
+
+**Behavioral Responses:**
+In response to these stressors, the patient may exhibit avoidance behaviors, such as procrastinating on job applications or withdrawing from social interactions. They might also seek reassurance from their sister or others, given her caregiving role. The patient may engage in behaviors aimed at reducing immediate stress, such as scrolling through social media or engaging in leisure activities, which could lead to temporary relief but may not address the underlying issues.
+
+**Coping Styles:**
+The patient may rely on their sister for support, given her caregiving role, which can provide emotional relief but may also foster dependency. They might also engage in problem-solving strategies, such as actively seeking new employment opportunities, although the stress of comparison and high expectations may hinder these efforts. The patient may benefit from developing more adaptive coping strategies, such as cognitive restructuring to challenge negative thoughts and mindfulness practices to manage anxiety.
+
+**Conclusion:**
+The patient's current life circumstances are contributing to significant emotional distress, characterized by anxiety, frustration, and feelings of inadequacy. Cognitive patterns, such as negative self-talk and comparison to others, exacerbate these emotions. Behavioral responses, including avoidance and seeking reassurance, provide temporary relief but may not effectively address the underlying issues. The patient would benefit from interventions focused on cognitive restructuring, enhancing problem-solving skills, and developing adaptive coping strategies to manage stress and improve emotional well-being.
+Summary da mistral_.csv: The client discussed her unproductive weekend, during which she went out with friends instead of focusing on work and school. She expressed frustration with the lengthy legal process regarding her father's situation and her desire for closure. The client mentioned her siblings' different relationships with their father and her hesitation to discuss the situation with them. She acknowledged the importance of their other interests and her limited time with them. The client also shared her busy schedule, consisting of work and school, and her past experiences of having multiple jobs at once. The therapist suggested bringing up the topic of their father in conversation with her siblings and acknowledged the challenges of finding time for such a conversation.
+The client discusses her difficulty managing free time and feeling anxious when she has large open spaces, leading to unproductive weekends. The therapist suggests that her lack of experience with such situations contributes to this issue. The client mentions her long commute to school and the financial burden of student loans, causing stress and anxiety about her future education and debt. They discuss the possibility of graduate programs that offer assistance or flexible schedules, and the importance of researching different programs and finding a mentor to guide the process. The client expresses uncertainty about the value of continuing her education for her career goals and potential financial cost.
+The client discussed her job search progress, mentioning a potential secretarial position through her boss's connection. She lamented the high number of applications for each job opening and the importance of networking. The client shared her graduation plans and the upcoming family trip, which would delay her job start date. She also discussed the possibility of moving in with her parents and attending graduate school in a new location. The therapist provided advice on job applications and insurance coverage.
+
+ REFINED CCD: description + report
+{
+  "history": "The client has a pattern of recurring relationship challenges with their spouse and ongoing work-related stress, recently intensified by being laid off. Their sister often takes on a caregiving role, suggesting the client may seek reassurance or support from her. The father's successful career has set high expectations, which the client internalizes and uses as a benchmark for their own achievements. These factors contribute to the client's tendency to compare themselves to others, particularly their spouse, and to experience distress when they perceive themselves as falling short.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't achieve as much as my spouse or my father, then I am not successful and others will see me as less valuable. I must meet high standards to be worthy of respect and love. If I fall short, it means something is fundamentally wrong with me.",
+  "intermediate_belief_depression": "If I keep failing to live up to these expectations, there's no hope for me to ever feel good about myself or be seen as successful. My efforts are pointless if I can't match up, so why bother trying?",
+  "coping_strategies": [
+    "The client tends to avoid stressful tasks, such as job applications, and withdraws from social interactions when feeling inadequate. They seek reassurance from their sister, who takes on a caregiving role, and may distract themselves with leisure activities to temporarily escape negative feelings."
+  ],
+  "situation": "Comparing career aspirations to those of the spouse.",
+  "auto_thought": "I'm falling behind; my spouse is so much more successful than I am. I'll never catch up or be as good as them.",
+  "emotion": [
+    "inadequate",
+    "anxious",
+    "ashamed",
+    "jealous",
+    "disappointed",
+    "frustrated"
+  ],
+  "behavior": "I avoid talking about my career with my spouse. I procrastinate on job applications and withdraw from conversations about work. I reach out to my sister for reassurance."
+}

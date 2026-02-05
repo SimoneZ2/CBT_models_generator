@@ -1,0 +1,33 @@
+{
+  "name": "CBT Cognitive Conceptualization for Post-Divorce Adjustment",
+  "id": "case_001_divorce_financial",
+  "type": [
+    "CBT",
+    "Case Formulation",
+    "CCD"
+  ],
+  "history": "The client recently went through a divorce, which has led to significant life changes including financial struggles and the need to adjust to single life. They are co-parenting, which adds complexity and stress. Multiple friendships have deteriorated since the divorce, increasing feelings of isolation. The client also reports a complicated relationship with their parents, which may contribute to ongoing emotional distress and difficulty seeking support.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I can't manage my finances perfectly after the divorce, it means I'm failing at being independent and others will see me as incapable. I must not make mistakes or I'll prove that I can't handle life on my own. If I show I'm struggling, people will distance themselves even more.",
+  "intermediate_belief_depression": "If I keep struggling with these financial problems, it just proves that things will never get better for me and I'm destined to be alone and overwhelmed.",
+  "coping_strategies": "The client tends to avoid or delay dealing with financial paperwork, feeling overwhelmed and anxious. They may withdraw from social interactions and seek reassurance from others about financial decisions, but also hesitate to reach out due to fear of burdening others or being judged.",
+  "situation": "Managing financial hardship following the divorce, including handling financial paperwork.",
+  "auto_thought": "I'm never going to get this right. If I mess up, it will just prove I can't handle life on my own.",
+  "emotion": [
+    "anxious",
+    "overwhelmed",
+    "worried",
+    "ashamed",
+    "sad"
+  ],
+  "behavior": "I put off working on the financial paperwork. I avoid opening bills or emails about finances. Sometimes I ask others for advice, but I feel embarrassed doing so.",
+  "rationale": "The report notes the client may experience 'persistent thoughts about what went wrong in the marriage or concerns about financial stability,' and that 'the financial paperwork might trigger thoughts of being overwhelmed or inadequacy, potentially leading to procrastination or avoidance behaviors.' Emotional reactions include 'feelings of anxiety and worry, particularly concerning financial stability and future security,' and 'feelings of sadness, loneliness, and perhaps a sense of loss.' The client 'might withdraw from social interactions' and 'avoidance behaviors, such as delaying financial paperwork or seeking reassurance from others about financial decisions.' Core beliefs are supported by themes of powerlessness, inadequacy, and fear of abandonment or judgment, as described in the report's psychological interpretation and emotional impact sections."
+}

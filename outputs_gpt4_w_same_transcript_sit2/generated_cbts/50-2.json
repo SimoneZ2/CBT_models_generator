@@ -1,0 +1,31 @@
+{
+  "name": "Case Study: Ethan",
+  "id": "CS-Ethan-001",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Longstanding friendship with Ethan since high school (about 14 years). Shared personal crises and professional collaborations. Learned that Ethan has been abusive toward his girlfriend.",
+  "helpless_belief": [
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I confront Ethan, I will lose his friendship.",
+  "intermediate_belief_depression": "I can't change the situation without losing something important.",
+  "coping_strategies": "Avoid direct confrontation and hope the situation resolves itself.",
+  "situation": "Struggling to contact Ethan directly.",
+  "auto_thought": "If I reach out to Ethan, it might ruin our friendship.",
+  "emotion": [
+    "Anxiety",
+    "Fear",
+    "Frustration"
+  ],
+  "behavior": "Avoidance of direct communication with Ethan.",
+  "meta": {
+    "is_hypothesis_only": true,
+    "source": "pre-therapy_case_description"
+  }
+}

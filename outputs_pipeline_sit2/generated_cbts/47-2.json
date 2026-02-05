@@ -1,0 +1,54 @@
+{
+  "name": "Engineering Client - Email Nonresponse",
+  "id": "47-2",
+  "type": [
+    "CBT",
+    "case formulation"
+  ],
+  "history": "The client has a master's degree in engineering and experience in robotics. They have previously expressed remorse about not dedicating enough time to a project, which suggests a tendency toward self-criticism and regret over perceived missed opportunities. This pattern of regret may contribute to a sense of inadequacy or failure, especially when faced with ambiguous or negative feedback in other areas of life. The client's professional achievements may be overshadowed by their focus on perceived failures, both past and present.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't receive a response from someone I'm interested in, it means I did something wrong or I'm not interesting enough. I have to be successful in both my work and personal life to be valued. If I make a mistake or get ignored, it confirms that I'm not good enough.",
+  "intermediate_belief_depression": "If people don't respond to me, it proves that I'm unimportant and that things won't work out for me, no matter what I do. There's no point in trying because I'll just end up feeling rejected or disappointed again.",
+  "coping_strategies": "The client tends to withdraw socially and avoid further contact after experiencing perceived rejection. They may ruminate on the lack of response, replaying the situation in their mind and focusing on possible personal shortcomings. At times, they distract themselves with work or hobbies, but this does not resolve the underlying distress.",
+  "situation": "Sent an email to someone they are interested in dating and received no response.",
+  "auto_thought": "They must not be interested in me. I probably said something wrong or I'm just not good enough.",
+  "emotion": [
+    "anxious",
+    "rejected",
+    "disappointed",
+    "self-critical",
+    "lonely"
+  ],
+  "behavior": "I check my email repeatedly, then stop myself from sending a follow-up message. I avoid reaching out to other people and withdraw into my work or distractions.",
+  "rationale": "\"The absence of a reply may also trigger anxiety and self-doubt, as the patient might ruminate on potential reasons for the lack of communication.\" \"They might interpret the lack of response as a reflection of their self-worth or as evidence of their inability to succeed in personal relationships.\" \"In response to these emotional and cognitive patterns, the patient might withdraw socially, avoid initiating further contact, or procrastinate on other tasks due to a lack of motivation.\"",
+  "core_belief_predictions": {
+    "source_id": "47-2",
+    "major_pred_set": [
+      "helpless",
+      "unlovable"
+    ],
+    "fine_pred_set": [
+      "I am bound to be abandoned",
+      "I am bound to be rejected",
+      "I am defective",
+      "I am helpless",
+      "I am incompetent",
+      "I am out of control",
+      "I am powerless, weak, vulnerable",
+      "I am trapped",
+      "I am unlovable"
+    ],
+    "schema": "major-set + fine-grained canon-set",
+    "origin": "propagated_from_compare_results"
+  }
+}

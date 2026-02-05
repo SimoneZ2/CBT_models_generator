@@ -1,0 +1,28 @@
+{
+  "name": "Patient X",
+  "id": "12345",
+  "type": [
+    "CBT",
+    "Cognitive Conceptualization"
+  ],
+  "history": "Past labor dispute in a previous workplace. Ongoing concerns related to fairness, pay, and authority at work.",
+  "helpless_belief": [
+    "I am powerless, weak, vulnerable",
+    "I am a failure, loser"
+  ],
+  "unlovable_belief": [
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "I can't trust people; they will let me down.",
+  "intermediate_belief_depression": "I am responsible for the financial difficulties of my family.",
+  "coping_strategies": "Avoidance of conflict and difficult conversations, reliance on medication for mood stabilization.",
+  "situation": "Reflecting on a work-related case and the response of a businessman involved.",
+  "auto_thought": "I am to blame for the financial issues and my family's dissatisfaction.",
+  "emotion": [
+    "Guilt",
+    "Anxiety",
+    "Frustration"
+  ],
+  "behavior": "Avoids discussing financial issues with family, feels overwhelmed by financial responsibilities."
+}

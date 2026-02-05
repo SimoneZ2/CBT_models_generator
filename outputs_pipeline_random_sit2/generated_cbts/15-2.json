@@ -1,0 +1,29 @@
+{
+  "history": "The patient has a history of ongoing workplace difficulties, specifically feeling underappreciated and unsupported. There are repeated experiences where their ideas and suggestions are not accepted by colleagues. This pattern has led to a sense of being undervalued and overlooked, as well as possible feelings of inadequacy and self-doubt. The patient may also experience loneliness or isolation, especially when others are praised in their presence.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If my ideas are not accepted, it means I am not valuable to the team. If others are praised and I am not, I must not be good enough. I have to prove my worth by being helpful, but it never seems to be enough.",
+  "intermediate_belief_depression": "If my contributions are always overlooked, there is no point in trying anymore. Nothing I do will make a difference.",
+  "coping_strategies": [
+    "The patient tends to withdraw from colleagues and avoids sharing new ideas to protect themselves from further rejection. They may ruminate on negative experiences and seek reassurance, but also show reluctance or passive-aggressive behavior when asked to help, especially in situations where they feel excluded."
+  ],
+  "situation": "Colleagues praise a coworker and ask the patient for help with technology issues related to that coworker.",
+  "auto_thought": "They only notice me when they need something. No one values my ideas or contributions.",
+  "emotion": [
+    "hurt",
+    "resentful",
+    "sad",
+    "frustrated",
+    "excluded"
+  ],
+  "behavior": "The patient helps with the technology issue but does so reluctantly, possibly with minimal engagement. They avoid offering any suggestions or ideas and withdraw from further conversation with colleagues.",
+  "source_text_id": "1003722148.txt"
+}

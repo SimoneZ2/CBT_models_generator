@@ -1,0 +1,87 @@
+Using description: HISTORY:
+- Childhood experiences of emotional invalidation, including being scolded for expressing emotions.
+- History of depression.
+
+SITUATION:
+- Reconnecting with a person named Edson after a period of no contact. with ID=43-1
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.548 | title='Session 366: Client feels like she is fighting against the therapy and therapist' | file='1000393749.txt'
+  - sim=0.543 | title='Session 9: Client feels like the world has alienated her' | file='1000017868.txt'
+  - sim=0.539 | title='Session 3: Client is upset in his relationship with his mother, her feels like h' | file='1000016538.txt'
+  - sim=0.525 | title='Session 1: Client describes her problems with men and rejection due to her relat' | file='1000017860.txt'
+  - sim=0.525 | title='Session 8: Client tells how she was ashamed of her own father' | file='1000017867.txt'
+  - sim=0.523 | title='Patient "M" Therapy Session Audio Recording, April 02, 2012: Client talks about ' | file='1004532472.txt'
+  - sim=0.518 | title='Patient "A", Session October 10, 2012: Client describes a recent scenario where ' | file='1004798701.txt'
+  - sim=0.517 | title='Session 12: Client feels like his life is quite a mess. He needs to set some goa' | file='1000134009.txt'
+  - sim=0.517 | title='Session 2: Client feels that hostility has been playing a major role in his life' | file='1000056528.txt'
+  - sim=0.517 | title='Session 27: Client talks about childhood memories and relationships her family. ' | file='1000013295.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=10 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.548 | file='1000393749.txt' | title='Session 366: Client feels like she is fighting against the therapy and therapist'
+  - sim=0.543 | file='1000017868.txt' | title='Session 9: Client feels like the world has alienated her'
+  - sim=0.539 | file='1000016538.txt' | title='Session 3: Client is upset in his relationship with his mother, her feels like h'
+Using top selected file for transcript: '1000393749.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient has a history of childhood experiences characterized by emotional invalidation, including being scolded for expressing emotions. This background has contributed to a history of depression. Currently, the patient is in the process of reconnecting with a person named Edson after a period of no contact.
+
+**Emotional Impact:**
+The patient's childhood experiences of emotional invalidation likely contribute to feelings of being misunderstood or dismissed. This may manifest as feelings of being anxious, worried, or tense when expressing emotions, as the patient might anticipate negative reactions or scolding. The history of depression suggests that the patient may also experience emotions such as sadness, loneliness, or feeling down, particularly when reflecting on past invalidation or current interpersonal challenges.
+
+**Cognitive Patterns:**
+The patient may have developed cognitive tendencies to question the validity of their emotions and thoughts, potentially leading to self-doubt and rumination. The experience of being scolded for expressing emotions could result in a cognitive style where the patient frequently second-guesses their emotional responses or seeks external validation. This might be evident in their interactions with others, including the recent reconnection with Edson, where the patient may be cautious or hesitant to fully express themselves.
+
+**Behavioral Responses:**
+Behaviorally, the patient might engage in avoidance or withdrawal when faced with emotionally charged situations or when they perceive a risk of invalidation. This could include avoiding deep emotional discussions or hesitating to express true feelings to Edson. The patient may also seek reassurance from others to confirm the appropriateness of their emotions or decisions, reflecting a coping mechanism developed in response to past invalidation.
+
+**Coping Styles:**
+The patient may cope with emotional distress by engaging in activities that distract from negative emotions, similar to patterns observed in the transcript where the patient might focus on external events to avoid confronting uncomfortable feelings. This could include social activities or other distractions that provide temporary relief from emotional discomfort.
+
+**Reconnection with Edson:**
+The process of reconnecting with Edson may evoke mixed emotions for the patient. On one hand, there may be excitement or hope associated with rekindling a relationship. On the other hand, the patient might feel anxious or worried about potential rejection or misunderstanding, given their history of emotional invalidation. The patient may oscillate between wanting to open up and fearing the consequences of doing so.
+
+**Conclusion:**
+The patient's history of emotional invalidation and depression significantly influences their current emotional, cognitive, and behavioral patterns. In therapy, it would be beneficial to focus on building the patient's confidence in expressing emotions, challenging cognitive distortions related to self-doubt, and developing healthier coping mechanisms. Encouraging open communication in the relationship with Edson, while addressing fears of invalidation, could also be a therapeutic goal.
+Summary da mistral_.csv: The patient recounted their thoughts during the weekend following a therapy session, where they had felt relieved from thinking about their feelings towards the therapist. They mentioned various distractions, including social events and relationships, that helped them avoid reflecting on their emotions. The patient also recalled a specific interaction during the session where they had asked the therapist to validate their perspective, but felt it was a reprimand instead. They struggled to remember the therapist's exact words and felt uncomfortable with the memory. The patient also shared their past experiences with their father, where they felt they obeyed his wishes despite wanting to assert themselves. They discussed their fear of the therapist's disapproval and the desire to assert themselves, but also the fear of being seen as foolish or insignificant if they didn't.
+The patient recalled an incident where the last name of another couple was mentioned during a conversation, reminding them of how their uncles used to call their father by a nickname (MNO). The patient found the memory amusing but hesitated to share it in the conversation due to its potential embarrassment. However, they eventually shared the story, but MSCZ took over and changed it, making it funnier. The patient now feels antagonistic towards MSCZ for taking over the story and making them appear forgetful.
+
+ REFINED CCD: description + report
+{
+  "history": "The client reports childhood experiences of emotional invalidation, including being scolded for expressing emotions. This background has contributed to a history of depression. These early experiences likely led to the client feeling misunderstood or dismissed, and may have fostered self-doubt and a tendency to question the validity of their own emotions. The client has learned to anticipate negative reactions when expressing feelings, which continues to affect their interpersonal relationships.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I express my real emotions, others will dismiss or criticize me, so I need to be careful and hold back. It's safer to keep my feelings to myself rather than risk being invalidated. I must constantly monitor how much I share to avoid negative reactions.",
+  "intermediate_belief_depression": "Even if I try to connect or express myself, it won't make a difference—I'll just end up feeling alone and misunderstood again. There's no point in opening up because nothing will change.",
+  "coping_strategies": [
+    "The client tends to avoid deep emotional discussions and hesitates to express true feelings, especially with people like Edson. They may seek reassurance from others to confirm that their emotions are appropriate, and sometimes distract themselves with external activities to avoid confronting uncomfortable feelings."
+  ],
+  "situation": "Reconnecting with a person named Edson after a period of no contact.",
+  "auto_thought": "If I open up to Edson, he'll think I'm too emotional and pull away. I can't let myself be vulnerable or I'll get hurt again.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "tense",
+    "sad",
+    "lonely"
+  ],
+  "behavior": "I hold back from sharing my true feelings with Edson. I keep the conversation superficial and avoid talking about anything emotional. I might check for signs that he's losing interest or becoming distant."
+}

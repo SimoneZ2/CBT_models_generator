@@ -1,0 +1,31 @@
+{
+  "name": "Patient 43",
+  "id": "43",
+  "type": [
+    "rejection sensitivity",
+    "emotional invalidation"
+  ],
+  "history": "Childhood emotional invalidation (reprimanded for crying). History of depression.",
+  "helpless_belief": [
+    "My feelings are wrong"
+  ],
+  "unlovable_belief": [
+    "I am undesirable, unwanted"
+  ],
+  "worthless_belief": [
+    "I am too sensitive"
+  ],
+  "intermediate_belief": "If I express emotions, I'll be rejected.",
+  "intermediate_belief_depression": "My emotional needs are a burden to others.",
+  "coping_strategies": [
+    "Emotional suppression, withdrawal, assuming rejection."
+  ],
+  "situation": "Not invited to a dinner with friends by one acquaintance.",
+  "auto_thought": "\"They don't really like me. I'm not important enough to include. They're talking about me.\"",
+  "emotion": [
+    "rejection",
+    "hurt",
+    "shame"
+  ],
+  "behavior": "Avoids the acquaintance, posts vague sad social media update, declines future invitations from entire group."
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Patient 38",
+  "id": "38",
+  "type": [
+    "medical leave",
+    "workplace stigma"
+  ],
+  "history": "Health condition requiring time off for physical therapy. Past interactions with HR and supervisor about return-to-work and disability status.",
+  "helpless_belief": [
+    "I am defective",
+    "I am a burden"
+  ],
+  "unlovable_belief": [
+    "I am undesirable to employer"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "My medical condition makes me less valuable at work.",
+  "intermediate_belief_depression": "I'll never fully recover and will always be seen as damaged.",
+  "coping_strategies": [
+    "Hiding limitations, overcompensating when well, anxiety about being 'caught' sick."
+  ],
+  "situation": "Running into a coworker outside workplace while on medical leave.",
+  "auto_thought": "\"They think I'm faking. I look fine now, so they won't believe I was ever sick.\"",
+  "emotion": [
+    "anxiety",
+    "shame",
+    "defensiveness"
+  ],
+  "behavior": "Over-explains absence, minimizes symptoms, jokes about 'vacation,' changes subject quickly."
+}

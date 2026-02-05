@@ -1,0 +1,25 @@
+{
+  "name": "Patient Name",
+  "id": "12345",
+  "type": [
+    "CBT"
+  ],
+  "history": "Spent about one year working on a project in Europe involving building a website and conducting interviews. Reports pride in the work and a wish to share the results. Past history of procrastination and anxiety. Uses strategies learned from a course and reminders to manage daily life.",
+  "helpless_belief": [
+    "I am incompetent",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "I need to be perfect to be competent.",
+  "intermediate_belief_depression": "If I make a mistake, it means I am a failure.",
+  "coping_strategies": "Uses energy shots to stay awake for work, relies on reminders and strategies from a course to manage daily life.",
+  "situation": "Facing ambiguity about life direction and choices, with many options to consider.",
+  "auto_thought": "I can't believe I messed up the order; I am so incompetent.",
+  "emotion": [
+    "sadness",
+    "irritability",
+    "guilt"
+  ],
+  "behavior": "Crying spells at work, difficulty sleeping, using energy shots to stay awake."
+}

@@ -1,0 +1,73 @@
+Using description: HISTORY:
+- Forms close relationships with friends who experience significant stressors.
+- A friend is dealing with academic pressures and parenting an autistic child.
+
+SITUATION:
+- Considering visiting a friend managing parenting demands and housing instability. with ID=46-1
+Sample results (metadata similarity):
+  - sim=0.069 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.092 | title='The Swish Pattern, an NLP method for changing habits
+quickly, is used to help a ' | file='1000275936.txt'
+  - sim=0.156 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.157 | title='Session 17: Client sees herself as having an overbearing, aggressive personality' | file='1000133903.txt'
+  - sim=0.160 | title='The Brief Therapy-Eliminating a Compulsion: In a large psychotherapy conference ' | file='1000119395.txt'
+  - sim=0.165 | title='Patient "B", Session September 21, 2012: Client is pleased that she was able to ' | file='1004798723.txt'
+  - sim=0.167 | title='Verilogue session: Client's medications have drastically reduced her sex drive' | file='1003075047.txt'
+  - sim=0.172 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.178 | title='Aligning Perceptual Positions: The idea of stepping into someone else's experien' | file='1000259024.txt'
+  - sim=0.179 | title='Verilogue session: Client has been feeling very depressed and experiencing anxie' | file='1001084064.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.069 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.156 | file='1001158874.txt' | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y'
+  - sim=0.188 | file='1001074148.txt' | title='The Swish Pattern, an NLP method for changing habits quickly, is used to help a '
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of forming close relationships with friends experiencing significant stressors, is currently contemplating visiting a friend managing parenting demands and housing instability. During the session, the client navigates through a range of intellectual and emotional landscapes, reflecting on their experiences with mathematics and teaching. They express a sense of satisfaction and fulfillment in the process of learning and teaching, particularly when they describe the moment of clarity they achieved in a study session: "I really understood the material." This sense of accomplishment is juxtaposed with the client's awareness of their own limitations, as they admit, "I can't do it in my head," when discussing complex mathematical concepts.
+
+Throughout the session, the client frequently returns to the theme of intellectual immersion, describing it as a "bubble of math," which provides a sense of focus and escape from other life concerns. This immersion is not without its challenges, as the client acknowledges the effort required to keep up with their studies, noting, "It takes effort to keep up." Despite these challenges, the client finds beauty in the logical progression of mathematics, likening it to a "launching pad to do interesting stuff."
+
+The client's reflections on teaching reveal a deep appreciation for the process of distilling complex information into understandable concepts. They recount an experience of teaching without a PowerPoint, using only a whiteboard and colored pens, which they describe as "the best ever" because it allowed for a more personal and connected teaching experience. This method of teaching, which involves drawing and creating in real-time, seems to resonate with the client, as they note the importance of "creating something" and the impact of "mirror neurons" in the learning process.
+
+Interwoven with these intellectual pursuits is the client's contemplation of broader philosophical and psychological themes. They express a sense of being "behind the scenes" in their understanding of math, yet find it "genuinely interesting" as it challenges their previous perceptions of it being set in stone. This evolving understanding of mathematics parallels their reflections on the nature of knowledge and truth in other domains, such as philosophy and psychoanalysis, where they perceive a more contentious and subjective landscape.
+
+The client's narrative is punctuated by moments of self-awareness and introspection, as they grapple with feelings of inadequacy and the pressure to "fully appreciate the life" they have. They express a desire to understand complex ideas and the frustration that accompanies the initial stages of learning, describing it as "infuriating" when faced with unfamiliar symbols and concepts. Yet, there is also a recognition of the value in this struggle, as the client acknowledges the "satisfaction and fulfillment" that comes from overcoming these challenges.
+
+As the session concludes, the client reflects on the universality of mathematics, noting its ability to transcend cultural and linguistic barriers. This realization seems to offer a sense of comfort and connection, as they describe it as "deeply human" and intriguing. The session ends with a logistical note about the next meeting, leaving the client with a sense of continuity and anticipation for future discussions.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client has a history of forming close relationships with friends experiencing significant stressors. They express a sense of satisfaction and fulfillment in learning and teaching, yet grapple with feelings of inadequacy and the pressure to fully appreciate their life.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't fully understand or manage a situation, then I am failing and not good enough.",
+  "intermediate_belief_depression": "If I can't help my friends or understand everything perfectly, then I am inadequate and will never be truly happy.",
+  "coping_strategies": [
+    "The client immerses themselves in intellectual pursuits, such as mathematics, to escape from life concerns. They also focus on teaching as a way to create and connect, which provides a sense of fulfillment."
+  ],
+  "situation": "Considering visiting a friend managing parenting demands and housing instability.",
+  "auto_thought": "I can't help them enough, and I'll just end up feeling inadequate.",
+  "emotion": [
+    "anxious",
+    "worried",
+    "inadequate",
+    "pressured"
+  ],
+  "behavior": "The client hesitates to visit, feeling overwhelmed by the friend's situation. They may avoid the visit or engage in intellectual activities to distract themselves."
+}

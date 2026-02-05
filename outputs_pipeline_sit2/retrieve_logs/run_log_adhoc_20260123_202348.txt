@@ -1,0 +1,86 @@
+Using description: HISTORY:
+- Recurrent dreams during graduate school about being unprepared for a thesis defense.
+- Father described as having high expectations.
+
+SITUATION:
+- Receiving criticism during a work performance review. with ID=42-2
+Low similarity from summary retriever, trying combined text retriever...
+Emergency Fallback to 0.3 - Top results (by metadata similarity):
+  - sim=0.560 | title='Session 193: Client is drawing parallels between her spousal relationship and th' | file='1000393712.txt'
+  - sim=0.544 | title='Session 77: Client becomes angry when her needs for reassurance and approval are' | file='1000368493.txt'
+  - sim=0.544 | title='Session 267: Client is worried that she would be a bad mother and fears that she' | file='1000393731.txt'
+  - sim=0.543 | title='Session 6: Client talks about her childhood and how her mother never made her fe' | file='1000017865.txt'
+  - sim=0.539 | title='Session 605: Client discusses the relationship her and her husband have with the' | file='1000396350.txt'
+  - sim=0.534 | title='Series 1, Session 6: Client is trying to train herself to not talk when she is f' | file='1002995960.txt'
+  - sim=0.533 | title='Session 98: Client feels like she cannot face anything directly; this is associa' | file='1000393707.txt'
+  - sim=0.527 | title='Patient "B", Session March 07, 2012: Client starts session by admitting to almos' | file='1004513636.txt'
+  - sim=0.527 | title='Patient "B", Session March 22, 2012: Client talks about her family's chronic arg' | file='1004528619.txt'
+  - sim=0.515 | title='Session 92: Client thinks her fear of men stems from her fear of her father' | file='1000370294.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=0 partial_match=10
+match_used=PARTIAL
+
+=== SELECTED CANDIDATES ===
+selected_n=3
+  - sim=0.560 | file='1000393712.txt' | title='Session 193: Client is drawing parallels between her spousal relationship and th'
+  - sim=0.544 | file='1000368493.txt' | title='Session 77: Client becomes angry when her needs for reassurance and approval are'
+  - sim=0.544 | file='1000393731.txt' | title='Session 267: Client is worried that she would be a bad mother and fears that she'
+Using top selected file for transcript: '1000393712.txt'
+
+ PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+**Psychological Report**
+
+**Patient Background:**
+The patient has a history of recurrent dreams during graduate school, specifically about being unprepared for a thesis defense. The patient's father is described as having high expectations. Recently, the patient received criticism during a work performance review.
+
+**Emotional Impact:**
+The patient likely experiences a range of emotions stemming from the described life circumstances. The recurrent dreams about being unprepared for a thesis defense suggest underlying feelings of anxiety and fear related to performance and evaluation. These dreams may reflect a pervasive worry about not meeting expectations, which could be linked to the high expectations set by the father. The recent criticism during a work performance review may exacerbate these feelings, leading to emotions such as disappointment, hurt, and possibly shame. The patient might feel a heightened sense of vulnerability and self-doubt in response to perceived inadequacies.
+
+**Cognitive Patterns:**
+The patient's cognitive patterns may include a tendency to ruminate on perceived failures or shortcomings. The recurrent dreams indicate a cognitive focus on scenarios of being unprepared, which may translate into a broader pattern of self-critical thoughts and anticipatory anxiety about future evaluations. The high expectations from the father could contribute to a cognitive schema centered around perfectionism and fear of failure. This schema might lead the patient to interpret criticism as a confirmation of inadequacy, reinforcing negative self-beliefs.
+
+**Behavioral Responses:**
+In response to these emotional and cognitive experiences, the patient might engage in behaviors such as avoidance or procrastination, particularly in situations involving evaluation or performance. The fear of not meeting expectations could lead to withdrawal from challenging tasks or seeking reassurance from others to alleviate anxiety. The patient may also exhibit hyper-vigilance in preparing for tasks, driven by the desire to avoid criticism and meet perceived standards.
+
+**Coping Styles:**
+The patient may rely on coping mechanisms such as over-preparation or excessive self-monitoring to manage anxiety related to performance. These strategies, while intended to mitigate fear of failure, could inadvertently maintain the cycle of anxiety by reinforcing the belief that perfection is necessary to avoid negative outcomes. The patient might also seek validation from authority figures or peers to counteract feelings of inadequacy, though this could lead to dependency on external approval for self-worth.
+
+**Psychological Interpretation:**
+Drawing from the transcript as a psychological reference, the patient's experiences may parallel common patterns where high parental expectations contribute to internalized pressure and fear of not being good enough. The recurrent dreams and recent criticism could trigger a cascade of self-critical thoughts and emotional distress, similar to patterns observed in individuals who struggle with perfectionism and fear of failure. The patient's emotional responses and coping strategies might reflect an attempt to navigate these internalized pressures while managing the impact of external evaluations.
+
+**Conclusion:**
+The patient appears to be navigating a complex interplay of emotions, thoughts, and behaviors rooted in past experiences and current challenges. Addressing these patterns through cognitive-behavioral interventions could help the patient develop more adaptive coping strategies, challenge self-critical thoughts, and reduce the impact of external evaluations on self-esteem. By exploring and modifying these cognitive and behavioral patterns, the patient may find greater emotional resilience and a more balanced approach to personal and professional expectations.
+Summary da mistral_.csv: The patient described a dream they had where their partner, MSCZ, seemed to be falling in love with someone else and treating the patient cruelly. They drew parallels between this dream and their relationship with their father, who they felt favored other family members over them. The patient also reflected on their feelings of anger, guilt, and the distinction between these emotions. They discussed their father's favoritism towards certain family members and their own behavior towards them. The patient mentioned their confusion about what they wanted from their father: total attention or a different quality of attention. They also discussed MSCZ's criticism of the patient's father and the patient's reaction to it.
+The patient reflects on their relationship with their father, discussing his disappointment in their academic performance compared to that of MLWZ and FNA. They describe how he later focused on their artistic abilities and made excuses for their mistakes. The patient expresses feelings of jealousy and a desire to please their father by finding a role that would meet his approval. They tried various roles, including FYC's and FNA's, but none brought them happiness or fulfilled their father's expectations. The patient mentions that the only thing they did that pleased their father was attending RZG university, which left them feeling uneasy about his excessive focus on their achievements.
+
+ REFINED CCD: description + report
+{
+  "history": "The client reports recurrent dreams during graduate school about being unprepared for a thesis defense, suggesting longstanding anxiety about performance and evaluation. The client's father is described as having high expectations, which likely contributed to internalized pressure to achieve and fear of not meeting standards. These early experiences appear to have shaped the client's current cognitive and emotional responses to criticism and evaluation.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned",
+    "I am bound to be rejected"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I don't meet expectations or make a mistake, it means I'm inadequate and others will see me as a failure. I must always be fully prepared and perform perfectly to avoid criticism and maintain my self-worth. Criticism is a sign that I am not living up to what is required of me.",
+  "intermediate_belief_depression": "If I keep failing to meet expectations, I'll never be good enough and things will never improve for me. Criticism just proves that no matter how hard I try, I can't succeed or measure up.",
+  "coping_strategies": [
+    "The client tends to over-prepare or excessively self-monitor in anticipation of evaluations, attempting to avoid criticism. When faced with criticism, the client may ruminate on perceived shortcomings, withdraw from challenging tasks, or seek reassurance from others to alleviate anxiety. These strategies maintain anxiety and reinforce the belief that only perfection prevents negative outcomes."
+  ],
+  "situation": "Receiving criticism during a work performance review.",
+  "auto_thought": "I'm failing at my job. Everyone will see that I'm not good enough.",
+  "emotion": [
+    "anxious",
+    "ashamed",
+    "hurt",
+    "disappointed",
+    "self-doubt"
+  ],
+  "behavior": "After the criticism, the client withdraws from colleagues and avoids taking on new tasks. They spend extra time reviewing their work for mistakes and may seek reassurance from a supervisor or peer."
+}

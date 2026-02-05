@@ -1,0 +1,76 @@
+Using description: HISTORY:
+- Past traumatic incident involving sexual assault by partner Ivan.
+- Ongoing relationship difficulties involving trust and intimacy.
+- Reports some improvement in relationship dynamics with Ivan making efforts to rebuild trust.
+
+SITUATION:
+- Ivan touches the patient in a way that reminds her of the past assault. with ID=8-2
+Sample results (metadata similarity):
+  - sim=0.066 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.179 | title='Session 18: Client tells how he despises people in general.  He seems to feel un' | file='1000088127.txt'
+  - sim=0.208 | title='Client "S", Session September 21, 2012: Client is currently working towards his ' | file='1004824793.txt'
+  - sim=0.217 | title='Patient "B", Session September 28, 2012: Client had a very unproductive work day' | file='1004798727.txt'
+  - sim=0.235 | title='Patient "L", Session May 09, 2012: Client has been feeling good about her work; ' | file='1004564967.txt'
+  - sim=0.237 | title='Verilogue session: Client has been experimenting with her medications to find th' | file='1003075019.txt'
+  - sim=0.239 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.247 | title='Patient "M", Session February 23, 2012: Client feels uncomfortable expressing ne' | file='1004503136.txt'
+  - sim=0.248 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.253 | title='Volume no. 34: Rational Emotive Therapy #2: Client's low self-esteem is effectin' | file='1000916327.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=2021 partial_match=0
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.066 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.179 | file='1000088127.txt' | title='Session 18: Client tells how he despises people in general.  He seems to feel un'
+  - sim=0.208 | file='1004824793.txt' | title='Client "S", Session September 21, 2012: Client is currently working towards his '
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of a traumatic incident involving sexual assault by her partner Ivan, is currently navigating complex emotions and cognitive patterns related to trust and intimacy. During the session, she did not directly address the incident or her relationship with Ivan, instead focusing on her academic pursuits and experiences with mathematics. This avoidance of the traumatic topic may indicate a coping strategy to manage the anxiety and discomfort associated with it. The client described feeling "self-conscious" about her preoccupation with mathematics, suggesting an underlying tension between her intellectual pursuits and unresolved personal issues.
+
+Throughout the session, the client expressed a sense of accomplishment and satisfaction in her ability to understand and teach complex mathematical concepts. She mentioned feeling "proud" of her progress, which indicates a positive reinforcement cycle that may serve as a temporary distraction from her relational difficulties. Her detailed discussion about proofs and mathematical logic reflects a cognitive pattern of seeking control and certainty, possibly compensating for the unpredictability and emotional turmoil in her personal life. The client repeatedly emphasized the "beauty" and "clarity" of mathematics, which contrasts with the ambiguity and emotional complexity of her relationship with Ivan.
+
+The client also touched on themes of learning and intellectual growth, describing the process of grappling with new concepts as both "frustrating" and "rewarding." This duality mirrors her internal conflict regarding her relationship with Ivan, where she experiences both progress and setbacks. The client's narrative about teaching and tutoring precalculus suggests a desire for mastery and validation, which may be linked to her need for reassurance and stability in her personal life. Her statement about feeling "welcomed" in a metaphorical dark theater could symbolize a longing for acceptance and understanding, both in her academic environment and her relationship with Ivan.
+
+Despite the session's focus on mathematics, the client's underlying emotional state was evident in her reflections on learning and teaching. She described feeling "in a bubble," which may indicate a sense of isolation or detachment from her emotions and relationships. This detachment could be a defense mechanism to protect herself from the vulnerability associated with intimacy and trust. The client's intellectual engagement with mathematics provides a structured and predictable framework, offering a sense of safety that contrasts with the emotional unpredictability of her relationship with Ivan.
+
+Overall, the session highlighted the client's reliance on intellectual pursuits as a coping strategy to manage her unresolved trauma and relational difficulties. Her avoidance of directly addressing the incident with Ivan suggests a need for further exploration of her emotions and cognitive patterns related to trust and intimacy. The client's progress in mathematics and teaching serves as a source of self-esteem and control, yet it also underscores the need to integrate these achievements with her personal growth and emotional healing.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client experienced a traumatic sexual assault by her partner Ivan, leading to ongoing difficulties with trust and intimacy. She avoids directly addressing the trauma, instead focusing on academic pursuits such as mathematics, which provide her with a sense of control and accomplishment. She describes feeling 'in a bubble,' indicating detachment from her emotions and relationships. There has been some improvement in her relationship with Ivan, as he is making efforts to rebuild trust, but emotional vulnerability remains challenging for her.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I let myself be vulnerable or trust Ivan, I will get hurt again. To stay safe, I must keep my guard up and avoid situations that remind me of the trauma. If I focus on things I can control, like mathematics, I can avoid the pain and unpredictability of relationships.",
+  "intermediate_belief_depression": "If I can't ever feel safe or trust Ivan, then I will always feel alone and disconnected. No matter what I do, the pain from the past will keep me from having a real relationship.",
+  "coping_strategies": [
+    "The client avoids discussing the traumatic incident and her relationship with Ivan, instead immersing herself in academic activities that provide structure and predictability. She detaches emotionally, creating a sense of being 'in a bubble,' and seeks validation and mastery in intellectual pursuits to distract from relational distress."
+  ],
+  "situation": "Ivan touches the patient in a way that reminds her of the past assault.",
+  "auto_thought": "This feels just like before—I’m not safe with him. If I let this happen, I’ll lose control and get hurt again.",
+  "emotion": [
+    "anxious",
+    "fearful",
+    "tense",
+    "ashamed",
+    "detached",
+    "uneasy"
+  ],
+  "behavior": "She freezes or pulls away from Ivan, avoids eye contact, and may quickly change the subject or leave the room. She later distracts herself by focusing on academic work or teaching."
+}

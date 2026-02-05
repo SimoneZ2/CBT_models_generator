@@ -1,0 +1,32 @@
+{
+  "history": "The client has a longstanding pattern of prioritizing others' needs over their own, which is reinforced by the unresolved grief and guilt related to the death of a close aunt who was a mother figure. The client did not fulfill the aunt's last request and was not present at her death, contributing to ongoing feelings of regret and self-blame. Intellectual pursuits, particularly in mathematics, provide the client with a sense of control and accomplishment, contrasting with the emotional complexity of relationships. The client finds satisfaction in helping others understand complex ideas, as seen in their teaching experiences, but also feels self-conscious about their intense focus on mathematics, which may serve as avoidance of emotional issues.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [
+    "I am worthless, waste"
+  ],
+  "intermediate_belief": "If I don't prioritize others' needs over my own, I will feel overwhelming guilt and may lose their approval. Helping others is the only way I can make up for my past failures, especially with my aunt. I must always be available to others, even at the expense of my own desires, to avoid feeling like a bad or selfish person.",
+  "intermediate_belief_depression": "If I put myself first, it proves that I am selfish and undeserving of love, and nothing I do can make up for my past mistakes. No matter how much I help others, I can't escape the guilt and regret from my aunt's death, so there's no point in trying to change.",
+  "coping_strategies": [
+    "The client consistently puts others' needs before their own, often sacrificing personal enjoyment or self-care, such as giving up activities they enjoy to support friends. They immerse themselves in intellectual pursuits like mathematics to gain a sense of control and avoid confronting difficult emotions related to relationships and loss."
+  ],
+  "situation": "On the way to watch a movie, received a call from a friend seeking emotional support. Chose to give up the movie and talked with the friend for about an hour.",
+  "auto_thought": "If I don't help my friend right now, I'll let them down and feel even more guilty. I can't enjoy the movie knowing I might be abandoning someone who needs me.",
+  "emotion": [
+    "guilty",
+    "anxious",
+    "tense",
+    "self-critical",
+    "sad"
+  ],
+  "behavior": "Stopped on the way to the movie and answered the friend's call. Spent about an hour talking with the friend, providing emotional support instead of attending the movie. Did not assert own needs or reschedule the conversation."
+}

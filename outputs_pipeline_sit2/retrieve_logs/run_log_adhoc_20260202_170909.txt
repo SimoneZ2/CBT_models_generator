@@ -1,0 +1,77 @@
+Using description: HISTORY:
+- Childhood experiences of emotional invalidation (e.g., being reprimanded for crying).
+- History of depression.
+
+SITUATION:
+- Not invited to a dinner with friends by one acquaintance. with ID=43-2
+Sample results (metadata similarity):
+  - sim=0.077 | title='Verilogue session: Client feels the urgent need to get everything done in a rush' | file='1001084079.txt'
+  - sim=0.098 | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin' | file='1004824803.txt'
+  - sim=0.111 | title='Verilogue session: Client feels that medicine cannot help her but, she is willin' | file='1003009210.txt'
+  - sim=0.128 | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. ' | file='1001084088.txt'
+  - sim=0.129 | title='Verilogue session: Client is having problems concentrating; she wonders if it is' | file='1003075028.txt'
+  - sim=0.138 | title='Verilogue session: Client is having problems falling asleep' | file='1002565918.txt'
+  - sim=0.143 | title='Verilogue session: Client notices that some of her children display symptoms of ' | file='1003075051.txt'
+  - sim=0.148 | title='Adlerian Play Therapy: In this session,  Dr. Kottman illustrates that children c' | file='1001114245.txt'
+  - sim=0.151 | title='Solution-Based Brief Counseling, Session 1: The client in this session is a 10-y' | file='1001158874.txt'
+  - sim=0.153 | title='Verilogue session: Client has been experiencing anxiety and some manic episodes' | file='1001084024.txt'
+
+=== DEMOGRAPHICS FILTER ===
+full_match=613 partial_match=1408
+match_used=FULL
+
+=== SELECTED CANDIDATES (LEAST RELATED) ===
+selected_n=3 match_kind=FULL
+  - sim=0.098 | file='1004824803.txt' | title='Client "S", Session October 22, 2012: Client talks about his studies and teachin'
+  - sim=0.128 | file='1001084088.txt' | title='Verilogue session: Client suffers from hallucinations, delusions, and paranoia. '
+  - sim=0.138 | file='1002565918.txt' | title='Verilogue session: Client is having problems falling asleep'
+Using LEAST related file for transcript: '1004824803.txt'
+
+PSYCHOLOGICAL REPORT FROM TRANSCRIPT
+The client, who has a history of emotional invalidation during childhood and past experiences with depression, is currently navigating a situation where they were not invited to a dinner with friends. This exclusion seems to have triggered a reflective process, as evidenced by the client's extensive discussion about their engagement with mathematics and teaching. During the session, the client expressed a sense of satisfaction and accomplishment in their ability to understand and teach complex mathematical concepts, stating, "I felt like I really understood the material." This indicates a positive shift in their self-perception, contrasting with their childhood experiences where emotional expressions were often dismissed.
+
+Throughout the session, the client frequently returned to the theme of learning and teaching mathematics, describing it as both a challenge and a source of fulfillment. They mentioned, "It's like being on the bike and lifting weights somehow cleared my mind," highlighting how physical activity aids their cognitive clarity. This suggests a coping mechanism where physical exertion helps manage stress and enhances mental acuity. Despite this, the client also conveyed a sense of self-consciousness about their focus on mathematics, saying, "Sometimes I feel slightly self-conscious about it," which may reflect underlying insecurities linked to their history of depression and feelings of inadequacy.
+
+The client's narrative was rich with metaphors and analogies, particularly when discussing the process of understanding complex concepts. They described the experience of learning new mathematical symbols as initially "infuriating," yet ultimately rewarding once comprehension was achieved. This mirrors their broader life experience of grappling with feelings of exclusion and inadequacy, yet finding moments of clarity and connection through intellectual pursuits. The client also expressed a desire for conciseness in their mathematical proofs, which parallels their struggle to communicate emotions succinctly, a likely remnant of their childhood experiences of being reprimanded for emotional expression.
+
+Interestingly, the client avoided directly addressing the recent social exclusion, instead immersing themselves in the intellectual realm. This avoidance might be a defense mechanism to shield against the emotional discomfort of not being invited to the dinner. The client’s focus on the logical and structured world of mathematics could serve as a refuge from the unpredictability of social interactions, where they have historically felt invalidated. They noted, "People don't get angry about math," suggesting a preference for the objective nature of mathematics over the subjective and often emotionally charged realm of human relationships.
+
+The session also revealed the client's internal dialogue about their learning process. They expressed frustration with the initial stages of learning, stating, "I can't do the problem," yet acknowledged the eventual satisfaction of mastering the material. This reflects a cognitive pattern where initial self-doubt is overcome through perseverance, a theme that resonates with their broader life narrative of overcoming emotional invalidation. The client’s engagement with teaching and tutoring precalculus further underscores their desire to connect with others through shared knowledge, perhaps compensating for the emotional connections they find challenging to navigate.
+
+In conclusion, the client's session was dominated by a rich exploration of their intellectual pursuits, serving as both a coping strategy and a source of self-worth. Their avoidance of discussing the recent social exclusion suggests a need to protect themselves from potential emotional pain, while their engagement with mathematics provides a structured and validating environment. This session highlights the client's ongoing journey of reconciling past emotional invalidation with present achievements, using intellectual mastery as a means of self-validation and connection.
+Summary da mistral_.csv: The client discusses their love for reading glasses and how they make testing more enjoyable. They then share their experience of recovering from a cold and teaching precalculus, expressing the challenge of being concise in their proofs for the class. They reflect on the benefits and drawbacks of concision and the importance of understanding the context of mathematical concepts. The client also shares their feelings of being in a bubble of math and the intellectual focus it brings, as well as the connection between the equal sign in mathematics and in life.
+The client reflects on their fascination with mathematics, particularly the flexibility and nuance of mathematical concepts. They discuss the idea of defining the starting and ending points in mathematical problems and the beauty of working through complex ideas. The client shares their experience of teaching math without the use of technology and the positive impact it had on their students' learning. They also touch on the frustration of encountering new symbols and concepts and the importance of accepting the need to learn before understanding can occur. The client compares this process to feeling lost in a dark room and finding a light, and reflects on the cultural attachment to mathematics and the potential biases that come with it. They ponder the idea that mathematical truths may not necessarily apply to the physical universe.
+The client expresses their newfound interest in mathematics, particularly in understanding the origins of mathematical terms and their meanings. They researched the French mathematician who introduced the terms surjective, bijective, and injective, and learned that these words were originally French but are now commonly used in English mathematics. The client also watched a French math lecture and was able to understand it despite not knowing the language fluently, attributing this to their understanding of mathematical symbols and concepts. The client reflects on the historical development of mathematical ideas and the importance of clear communication and understanding in mathematics. They contrast this with the more subjective and debated nature of fields like philosophy and psychoanalysis, where disagreements and debates continue and understanding requires a deep understanding of historical context and arguments. The client also mentions their upcoming absence from therapy sessions due to scheduling conflicts.
+
+REFINED CCD: description + report
+{
+  "history": "The client experienced emotional invalidation in childhood, such as being reprimanded for crying, and has a history of depression. They report that emotional expressions were often dismissed growing up. The client now finds satisfaction and validation in intellectual pursuits, particularly mathematics and teaching, which contrasts with their earlier experiences of being emotionally dismissed. They describe initial frustration and self-doubt when learning new concepts but ultimately find fulfillment in mastery. The client tends to avoid discussing emotionally painful topics directly, instead focusing on structured, logical activities.",
+  "helpless_belief": [
+    "I am helpless",
+    "I am defective",
+    "I am trapped",
+    "I am out of control",
+    "I am powerless, weak, vulnerable"
+  ],
+  "unlovable_belief": [
+    "I am unlovable",
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "If I show my true emotions or needs, people will dismiss or reject me, so I must rely on my intellectual abilities to gain acceptance. If I am not included, it means I have failed to be valuable enough. My worth depends on being seen as competent and useful to others.",
+  "intermediate_belief_depression": "If I am excluded, it confirms that I am fundamentally unworthy and nothing I do will change that. No matter how hard I try, I will always end up alone and overlooked.",
+  "coping_strategies": [
+    "The client immerses themselves in intellectual pursuits like mathematics and teaching to avoid confronting emotional pain from social exclusion. They use physical activity to manage stress and clear their mind. When faced with social rejection, they avoid discussing their feelings and instead focus on areas where they feel competent and in control."
+  ],
+  "situation": "Not invited to a dinner with friends by one acquaintance.",
+  "auto_thought": "They didn't invite me because I don't really matter to them. I'm just not important enough to be included.",
+  "emotion": [
+    "hurt",
+    "sad",
+    "rejected",
+    "ashamed",
+    "anxious",
+    "self-conscious"
+  ],
+  "behavior": "Avoids bringing up the exclusion with others. Withdraws from the group and focuses on intellectual activities like studying or teaching mathematics. Engages in physical exercise to distract from emotional discomfort."
+}

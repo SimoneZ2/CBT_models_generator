@@ -1,0 +1,29 @@
+{
+  "name": "Patient 29",
+  "id": "29",
+  "type": [
+    "work attachment",
+    "grief"
+  ],
+  "history": "Strong identification with research lab workplace and camaraderie. Close coworker left, which had emotional significance. Lab contrasts with unpredictable personal life.",
+  "helpless_belief": [
+    "I am bound to lose what matters"
+  ],
+  "unlovable_belief": [
+    "I am bound to be abandoned"
+  ],
+  "worthless_belief": [],
+  "intermediate_belief": "Work is my only stable source of belonging.",
+  "intermediate_belief_depression": "Good things always end; I'm destined to be left behind.",
+  "coping_strategies": [
+    "Overinvestment in work, emotional avoidance in personal life, idealizing workplace."
+  ],
+  "situation": "The departure of a valued colleague and the immediate impact of this change.",
+  "auto_thought": "\"The lab won't be the same. I'm losing my work family. Nothing lasts.\"",
+  "emotion": [
+    "grief",
+    "anxiety",
+    "abandonment"
+  ],
+  "behavior": "Works longer hours to fill void, avoids socializing with remaining colleagues, idealizes departed coworker."
+}
