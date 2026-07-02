@@ -1,0 +1,35 @@
+A fake dataset that will contain an invented groundtruth of CCD models, in the same structure of the one used for the validation. The blank fileds should be filled with
+desired information. 
+Example: 
+{
+        "name": "",
+        "id": "1-1",
+        "type": [
+            "plain",
+            "verbose",
+            "go off on tangents",
+            "hostile",
+            "guarded",
+            "ingratiating"
+        ],
+        "history": "",
+        "helpless_belief_current": [
+            "I am trapped.",
+            "I am out of control."
+        ],
+        "unlovable_belief_current": [
+            "I am unlovable.",
+            "I am undesirable, unwanted."
+        ],
+        "worthless_belief_current": [],
+        "intermediate_belief": "",
+        "intermediate_belief_depression": "",
+        "coping_strategies": "",
+        "situation": "",
+        "auto_thought": "",
+        "emotion": [
+            "anxious, worried, fearful, scared, tense",
+            "sad, down, lonely, unhappy"
+        ],
+        "behavior": ""
+    },
